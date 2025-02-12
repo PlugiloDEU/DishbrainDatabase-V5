@@ -1,0 +1,42 @@
+{
+  "id": "exp243",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Martin Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "martin.schmidt@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 773 25010889",
+    "image": "/experts/martin-schmidt.jpg",
+    "languages": [
+      "Spanisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Education",
+      "Healthcare",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

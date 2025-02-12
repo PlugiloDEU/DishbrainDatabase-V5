@@ -1,0 +1,42 @@
+{
+  "id": "exp267",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Müller",
+    "title": "Professor für KI und ML",
+    "email": "christian.mueller@rwth-aachen.de",
+    "phone": "+49 318 28645019",
+    "image": "/experts/christian-mueller.jpg",
+    "languages": [
+      "Französisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "AutoML",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Healthcare",
+      "Research",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

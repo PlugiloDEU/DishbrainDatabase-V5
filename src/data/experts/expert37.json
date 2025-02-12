@@ -1,53 +1,29 @@
 {
   "id": "exp037",
-  "personalInfo": {
-    "fullName": "Prof. Dr. Alexander Wagner",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Technische Universität Berlin",
+  "fachgebiet": "Computer Vision",
+  "expertise": [
+    "Computer Vision",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "alexander.wagner@technische-universitaet-berlin.de",
-    "phone": "+49 296 27973456",
-    "image": "/experts/alexander-wagner.jpg",
-    "languages": [
-      "Deutsch",
-      "Italienisch"
-    ]
+    "phone": "+49 296 27973456"
   },
-  "institution": {
-    "name": "Technische Universität Berlin",
-    "department": "Institut für Intelligente Systeme",
-    "position": "Professor",
-    "location": "Berlin"
-  },
-  "expertise": {
-    "primary": [
-      "Computer Vision",
-      "Machine Learning",
-      "Deep Learning"
-    ],
-    "secondary": [
-      "AI Security",
-      "Human-AI Interaction"
-    ],
-    "industries": [
-      "Manufacturing",
-      "Robotics",
-      "Finance"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Technische Universität Berlin",
-    "focus": "Forschung in Machine Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:07.202Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

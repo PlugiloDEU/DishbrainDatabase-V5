@@ -1,0 +1,41 @@
+{
+  "id": "exp072",
+  "personalInfo": {
+    "fullName": "Dr. Maria Weber",
+    "title": "Senior AI Researcher",
+    "email": "maria.weber@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 607 87548851",
+    "image": "/experts/maria-weber.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AutoML",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

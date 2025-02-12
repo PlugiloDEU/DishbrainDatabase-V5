@@ -1,0 +1,42 @@
+{
+  "id": "exp297",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Laura Fischer",
+    "title": "Professor für KI und ML",
+    "email": "laura.fischer@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 884 76956928",
+    "image": "/experts/laura-fischer.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

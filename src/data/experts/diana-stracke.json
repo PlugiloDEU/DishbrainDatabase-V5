@@ -1,60 +1,26 @@
 {
   "id": "exp043",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Diana",
-    "lastName": "Stracke",
-    "fullName": "Diana Stracke",
-    "image": "/experts/diana-stracke.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
+  "titel": "",
+  "position": "Director of People & Organization",
+  "organisation": "appliedAI",
+  "fachgebiet": "Director of People & Organization",
+  "expertise": [],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
-  "institution": {
-    "name": "appliedAI",
-    "position": "Director of People & Organization",
-    "department": null,
-    "website": "N/A"
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
   },
-  "expertise": {
-    "primary": [],
-    "secondary": [],
-    "industries": []
+  "social_media": {
+    "linkedin": null
   },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Director of People & Organization",
-    "organization": "appliedAI",
-    "focus": null
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "N/A"
-  },
-  "tags": [
-    "Director of People & Organization"
-  ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -112,8 +78,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:57.323Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

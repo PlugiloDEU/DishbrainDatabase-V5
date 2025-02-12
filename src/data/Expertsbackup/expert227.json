@@ -1,0 +1,42 @@
+{
+  "id": "exp227",
+  "personalInfo": {
+    "fullName": "Prof. Maria Fischer",
+    "title": "Professor für KI und ML",
+    "email": "maria.fischer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 482 37272371",
+    "image": "/experts/maria-fischer.jpg",
+    "languages": [
+      "Deutsch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Security"
+    ],
+    "industries": [
+      "Automotive",
+      "Manufacturing",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

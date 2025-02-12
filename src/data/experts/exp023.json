@@ -1,52 +1,29 @@
 {
   "id": "exp023",
-  "personalInfo": {
-    "fullName": "PD Dr. Christian Müller",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Fraunhofer IAIS",
+  "fachgebiet": "Computer Vision",
+  "expertise": [
+    "Computer Vision",
+    "Machine Learning",
+    "Explainable AI"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "christian.mueller@fraunhofer-iais.de",
-    "phone": "+49 719 12640677",
-    "image": "/experts/christian-mueller.jpg",
-    "languages": [
-      "Englisch"
-    ]
+    "phone": "+49 719 12640677"
   },
-  "institution": {
-    "name": "Fraunhofer IAIS",
-    "department": "AI Research Center",
-    "position": "Researcher",
-    "location": "Sankt Augustin"
-  },
-  "expertise": {
-    "primary": [
-      "Computer Vision",
-      "Machine Learning",
-      "Explainable AI"
-    ],
-    "secondary": [
-      "AI Governance",
-      "AutoML"
-    ],
-    "industries": [
-      "Healthcare",
-      "Automotive",
-      "Research"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Fraunhofer IAIS",
-    "focus": "Forschung in Computer Vision",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:59.017Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

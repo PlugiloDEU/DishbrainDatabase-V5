@@ -1,0 +1,42 @@
+{
+  "id": "exp496",
+  "personalInfo": {
+    "fullName": "Prof. Alexander Fischer",
+    "title": "Professor für KI und ML",
+    "email": "alexander.fischer@technische-universitaet-berlin.de",
+    "phone": "+49 586 99110274",
+    "image": "/experts/alexander-fischer.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "AI Ethics",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AutoML",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Energy",
+      "Education",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

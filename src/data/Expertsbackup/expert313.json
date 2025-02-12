@@ -1,0 +1,41 @@
+{
+  "id": "exp313",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Wagner",
+    "title": "Professor für KI und ML",
+    "email": "sophie.wagner@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 915 23176299",
+    "image": "/experts/sophie-wagner.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Quantum AI",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Energy",
+      "Finance",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

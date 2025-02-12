@@ -1,63 +1,28 @@
 {
   "id": "exp141",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Volker",
-    "lastName": "Kunze",
-    "fullName": "Volker Kunze",
-    "image": "/experts/volker-kunze.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Tech Innovator & Award-Winner",
-    "department": null,
-    "website": "LinkedIn-Profil"
-  },
-  "expertise": {
-    "primary": [
-      "XR & Digital Learning Innovator"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Tech Innovator & Award-Winner",
-    "organization": null,
-    "focus": "XR & Digital Learning Innovator"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "LinkedIn-Profil"
-  },
-  "tags": [
-    "XR & Digital Learning Innovator",
-    "Tech Innovator & Award-Winner"
+  "titel": "",
+  "position": "Tech Innovator & Award-Winner",
+  "organisation": null,
+  "fachgebiet": "XR & Digital Learning Innovator",
+  "expertise": [
+    "XR & Digital Learning Innovator"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:00.805Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

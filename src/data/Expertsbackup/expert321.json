@@ -1,0 +1,42 @@
+{
+  "id": "exp321",
+  "personalInfo": {
+    "fullName": "PD Dr. Michael Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "michael.schmidt@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 992 93195959",
+    "image": "/experts/michael-schmidt.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Reinforcement Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

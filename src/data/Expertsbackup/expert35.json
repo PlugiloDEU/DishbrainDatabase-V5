@@ -1,0 +1,42 @@
+{
+  "id": "exp035",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Michael Wagner",
+    "title": "Professor für KI und ML",
+    "email": "michael.wagner@technische-universitaet-muenchen.de",
+    "phone": "+49 236 54909499",
+    "image": "/experts/michael-wagner.jpg",
+    "languages": [
+      "Französisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Robotics",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "AutoML",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Education",
+      "Automotive",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

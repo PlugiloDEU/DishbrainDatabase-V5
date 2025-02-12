@@ -1,0 +1,41 @@
+{
+  "id": "exp027",
+  "personalInfo": {
+    "fullName": "Prof. Christian Becker",
+    "title": "Professor für KI und ML",
+    "email": "christian.becker@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 575 86498758",
+    "image": "/experts/christian-becker.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Explainable AI",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Robotics",
+      "Energy",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

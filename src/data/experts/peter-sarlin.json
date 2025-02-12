@@ -1,66 +1,29 @@
 {
   "id": "exp123",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Peter",
-    "lastName": "Sarlin",
-    "fullName": "Peter Sarlin",
-    "image": "/experts/peter-sarlin.jpg",
-    "email": "peter.sarlin@silo.ai",
-    "phone": "N/A",
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Silo AI",
-    "position": "CEO & Mitbegründer",
-    "department": null,
-    "website": "silo.ai"
-  },
-  "expertise": {
-    "primary": [
-      "KI-Technologie"
-    ],
-    "secondary": [],
-    "industries": [
-      "AI",
-      "Technology"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "CEO & Mitbegründer",
-    "organization": "Silo AI",
-    "focus": "KI-Technologie"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/psarlin/",
-    "company": "silo.ai"
-  },
-  "tags": [
-    "KI-Technologie",
-    "CEO & Mitbegründer"
+  "titel": "",
+  "position": "CEO & Mitbegründer",
+  "organisation": "Silo AI",
+  "fachgebiet": "KI-Technologie",
+  "expertise": [
+    "KI-Technologie"
   ],
-  "source": "silo.ai, silo.ai, slush.org",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "peter.sarlin@silo.ai",
+    "phone": "N/A"
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/psarlin/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -118,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:13.233Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

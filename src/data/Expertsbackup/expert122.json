@@ -1,0 +1,41 @@
+{
+  "id": "exp122",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Thomas Weber",
+    "title": "Professor für KI und ML",
+    "email": "thomas.weber@rwth-aachen.de",
+    "phone": "+49 585 18315315",
+    "image": "/experts/thomas-weber.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Explainable AI",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Education",
+      "Healthcare",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

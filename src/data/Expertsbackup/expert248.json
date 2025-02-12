@@ -1,0 +1,41 @@
+{
+  "id": "exp248",
+  "personalInfo": {
+    "fullName": "Prof. Martin Koch",
+    "title": "Professor für KI und ML",
+    "email": "martin.koch@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 899 99460929",
+    "image": "/experts/martin-koch.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Security"
+    ],
+    "industries": [
+      "Education",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

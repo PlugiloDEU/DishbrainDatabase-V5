@@ -1,0 +1,41 @@
+{
+  "id": "exp365",
+  "personalInfo": {
+    "fullName": "PD Dr. Julia Müller",
+    "title": "Senior AI Researcher",
+    "email": "julia.mueller@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 322 50346696",
+    "image": "/experts/julia-mueller.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Computer Vision",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Energy",
+      "Finance",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

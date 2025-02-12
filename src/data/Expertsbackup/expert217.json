@@ -1,0 +1,41 @@
+{
+  "id": "exp217",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "alexander.hoffmann@technische-universitaet-muenchen.de",
+    "phone": "+49 922 45689984",
+    "image": "/experts/alexander-hoffmann.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Explainable AI",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp253",
+  "personalInfo": {
+    "fullName": "Prof. Michael Fischer",
+    "title": "Professor für KI und ML",
+    "email": "michael.fischer@fraunhofer-iais.de",
+    "phone": "+49 484 41571523",
+    "image": "/experts/michael-fischer.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Computer Vision",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Automotive",
+      "Research",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

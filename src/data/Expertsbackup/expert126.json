@@ -1,0 +1,42 @@
+{
+  "id": "exp126",
+  "personalInfo": {
+    "fullName": "Prof. Anna Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "anna.hoffmann@fraunhofer-iais.de",
+    "phone": "+49 230 87744733",
+    "image": "/experts/anna-hoffmann.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Neural Networks",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp198",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Meyer",
+    "title": "Professor für KI und ML",
+    "email": "thomas.meyer@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 260 20140350",
+    "image": "/experts/thomas-meyer.jpg",
+    "languages": [
+      "Spanisch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "AI Ethics",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Education",
+      "Manufacturing",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

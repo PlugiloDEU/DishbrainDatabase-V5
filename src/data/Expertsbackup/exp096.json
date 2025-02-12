@@ -1,0 +1,41 @@
+{
+  "id": "exp096",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Maria Becker",
+    "title": "Professor für KI und ML",
+    "email": "maria.becker@rwth-aachen.de",
+    "phone": "+49 270 96950269",
+    "image": "/experts/maria-becker.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "AI Ethics",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Robotics",
+      "Education",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

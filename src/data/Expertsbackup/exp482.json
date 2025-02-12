@@ -1,0 +1,41 @@
+{
+  "id": "exp482",
+  "personalInfo": {
+    "fullName": "Dr. Maria Wagner",
+    "title": "Senior AI Researcher",
+    "email": "maria.wagner@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 870 39382538",
+    "image": "/experts/maria-wagner.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Machine Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Energy",
+      "Manufacturing",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

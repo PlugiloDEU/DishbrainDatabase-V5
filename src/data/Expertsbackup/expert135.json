@@ -1,0 +1,41 @@
+{
+  "id": "exp135",
+  "personalInfo": {
+    "fullName": "Dr. Anna Müller",
+    "title": "Senior AI Researcher",
+    "email": "anna.mueller@technische-universitaet-berlin.de",
+    "phone": "+49 100 23963609",
+    "image": "/experts/anna-mueller.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Neural Networks",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

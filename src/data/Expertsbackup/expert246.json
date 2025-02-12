@@ -1,0 +1,41 @@
+{
+  "id": "exp246",
+  "personalInfo": {
+    "fullName": "Prof. Michael Becker",
+    "title": "Professor für KI und ML",
+    "email": "michael.becker@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 253 79144169",
+    "image": "/experts/michael-becker.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Robotics",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

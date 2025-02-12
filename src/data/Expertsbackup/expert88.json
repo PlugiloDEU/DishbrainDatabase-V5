@@ -1,0 +1,42 @@
+{
+  "id": "exp088",
+  "personalInfo": {
+    "fullName": "Prof. Laura Schulz",
+    "title": "Professor für KI und ML",
+    "email": "laura.schulz@technische-universitaet-berlin.de",
+    "phone": "+49 564 59993846",
+    "image": "/experts/laura-schulz.jpg",
+    "languages": [
+      "Französisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Machine Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Automotive",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

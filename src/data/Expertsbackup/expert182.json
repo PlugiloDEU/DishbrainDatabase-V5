@@ -1,0 +1,41 @@
+{
+  "id": "exp182",
+  "personalInfo": {
+    "fullName": "Dr. Maria Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "maria.hoffmann@fraunhofer-iais.de",
+    "phone": "+49 586 19897600",
+    "image": "/experts/maria-hoffmann.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "AutoML",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp052",
+  "personalInfo": {
+    "fullName": "Dr. Martin Becker",
+    "title": "Senior AI Researcher",
+    "email": "martin.becker@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 192 24205305",
+    "image": "/experts/martin-becker.jpg",
+    "languages": [
+      "Mandarin",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Natural Language Processing",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Automotive",
+      "Finance",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp370",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Müller",
+    "title": "Professor für KI und ML",
+    "email": "thomas.mueller@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 419 43814064",
+    "image": "/experts/thomas-mueller.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Quantum AI",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Research",
+      "Automotive",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

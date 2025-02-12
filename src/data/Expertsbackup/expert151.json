@@ -1,0 +1,41 @@
+{
+  "id": "exp151",
+  "personalInfo": {
+    "fullName": "Dr. Anna Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "anna.hoffmann@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 650 56309342",
+    "image": "/experts/anna-hoffmann.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Neural Networks",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Security"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

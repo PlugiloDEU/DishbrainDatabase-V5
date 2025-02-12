@@ -1,0 +1,41 @@
+{
+  "id": "exp385",
+  "personalInfo": {
+    "fullName": "Prof. Maria Becker",
+    "title": "Professor für KI und ML",
+    "email": "maria.becker@rwth-aachen.de",
+    "phone": "+49 679 56552600",
+    "image": "/experts/maria-becker.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Neural Networks",
+      "Robotics"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Robotics",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

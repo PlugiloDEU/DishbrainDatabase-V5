@@ -1,0 +1,42 @@
+{
+  "id": "exp222",
+  "personalInfo": {
+    "fullName": "Prof. Martin Koch",
+    "title": "Professor für KI und ML",
+    "email": "martin.koch@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 929 22528406",
+    "image": "/experts/martin-koch.jpg",
+    "languages": [
+      "Französisch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "AI Governance"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

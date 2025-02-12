@@ -1,0 +1,41 @@
+{
+  "id": "exp113",
+  "personalInfo": {
+    "fullName": "Prof. Julia Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "julia.hoffmann@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 120 41611402",
+    "image": "/experts/julia-hoffmann.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Robotics",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

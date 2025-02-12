@@ -1,0 +1,41 @@
+{
+  "id": "exp081",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Fischer",
+    "title": "Senior AI Researcher",
+    "email": "thomas.fischer@rwth-aachen.de",
+    "phone": "+49 617 53632048",
+    "image": "/experts/thomas-fischer.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Robotics",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Energy",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

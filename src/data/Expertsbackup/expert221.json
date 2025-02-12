@@ -1,0 +1,41 @@
+{
+  "id": "exp221",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Michael Becker",
+    "title": "Professor für KI und ML",
+    "email": "michael.becker@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 290 56775339",
+    "image": "/experts/michael-becker.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "AI Ethics",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Manufacturing",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

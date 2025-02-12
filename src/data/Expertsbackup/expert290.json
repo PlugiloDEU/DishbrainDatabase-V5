@@ -1,0 +1,41 @@
+{
+  "id": "exp290",
+  "personalInfo": {
+    "fullName": "Prof. Christian Wagner",
+    "title": "Professor für KI und ML",
+    "email": "christian.wagner@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 862 27427047",
+    "image": "/experts/christian-wagner.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Robotics",
+      "Healthcare",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

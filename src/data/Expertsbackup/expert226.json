@@ -1,0 +1,42 @@
+{
+  "id": "exp226",
+  "personalInfo": {
+    "fullName": "Dr. Julia Müller",
+    "title": "Senior AI Researcher",
+    "email": "julia.mueller@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 611 80787393",
+    "image": "/experts/julia-mueller.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Computer Vision",
+      "Robotics"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "AI Security"
+    ],
+    "industries": [
+      "Education",
+      "Manufacturing",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

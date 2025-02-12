@@ -1,52 +1,29 @@
 {
   "id": "exp308",
-  "personalInfo": {
-    "fullName": "PD Dr. Martin Fischer",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Natural Language Processing",
+  "expertise": [
+    "Natural Language Processing",
+    "Deep Learning",
+    "Robotics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "martin.fischer@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 264 14583938",
-    "image": "/experts/martin-fischer.jpg",
-    "languages": [
-      "Spanisch"
-    ]
+    "phone": "+49 264 14583938"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "Institut für Intelligente Systeme",
-    "position": "Researcher",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Natural Language Processing",
-      "Deep Learning",
-      "Robotics"
-    ],
-    "secondary": [
-      "Big Data Analytics",
-      "Edge Computing"
-    ],
-    "industries": [
-      "Research",
-      "Finance",
-      "Education"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in Natural Language Processing",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:06.242Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

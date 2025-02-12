@@ -1,63 +1,28 @@
 {
   "id": "exp190",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Zack",
-    "lastName": "Kass",
-    "fullName": "Zack Kass",
-    "image": "/experts/zack-kass.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "AI Strategy, Consulting",
-    "department": null,
-    "website": "AI Strategy Consultant, Keynote Speaker"
-  },
-  "expertise": {
-    "primary": [
-      "Website"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "AI Strategy, Consulting",
-    "organization": null,
-    "focus": "Website"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/zackkass/",
-    "company": "AI Strategy Consultant, Keynote Speaker"
-  },
-  "tags": [
-    "Website",
-    "AI Strategy, Consulting"
+  "titel": "",
+  "position": "AI Strategy, Consulting",
+  "organisation": null,
+  "fachgebiet": "Website",
+  "expertise": [
+    "Website"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/zackkass/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.237Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,41 @@
+{
+  "id": "exp343",
+  "personalInfo": {
+    "fullName": "Dr. Martin Schulz",
+    "title": "Senior AI Researcher",
+    "email": "martin.schulz@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 267 17520945",
+    "image": "/experts/martin-schulz.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Explainable AI",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AutoML"
+    ],
+    "industries": [
+      "Education",
+      "Automotive",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

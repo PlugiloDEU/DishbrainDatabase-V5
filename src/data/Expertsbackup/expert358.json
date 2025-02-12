@@ -1,0 +1,42 @@
+{
+  "id": "exp358",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Meyer",
+    "title": "Professor für KI und ML",
+    "email": "alexander.meyer@rwth-aachen.de",
+    "phone": "+49 424 75555344",
+    "image": "/experts/alexander-meyer.jpg",
+    "languages": [
+      "Italienisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Finance",
+      "Energy",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

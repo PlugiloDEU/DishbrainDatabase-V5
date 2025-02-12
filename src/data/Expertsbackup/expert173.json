@@ -1,0 +1,41 @@
+{
+  "id": "exp173",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Michael Schulz",
+    "title": "Professor für KI und ML",
+    "email": "michael.schulz@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 552 13209535",
+    "image": "/experts/michael-schulz.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "AI Governance"
+    ],
+    "industries": [
+      "Finance",
+      "Robotics",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

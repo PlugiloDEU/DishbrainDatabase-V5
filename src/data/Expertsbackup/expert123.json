@@ -1,0 +1,41 @@
+{
+  "id": "exp123",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Anna Meyer",
+    "title": "Professor für KI und ML",
+    "email": "anna.meyer@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 514 23756241",
+    "image": "/experts/anna-meyer.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Explainable AI",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Governance"
+    ],
+    "industries": [
+      "Energy",
+      "Manufacturing",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

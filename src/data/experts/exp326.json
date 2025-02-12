@@ -1,53 +1,29 @@
 {
   "id": "exp326",
-  "personalInfo": {
-    "fullName": "Prof. Dr. Laura Schulz",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Computer Vision",
+  "expertise": [
+    "Computer Vision",
+    "Natural Language Processing",
+    "AI Ethics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "laura.schulz@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 266 92119580",
-    "image": "/experts/laura-schulz.jpg",
-    "languages": [
-      "Italienisch",
-      "Spanisch"
-    ]
+    "phone": "+49 266 92119580"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "Fakultät für Informatik",
-    "position": "Professor",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Computer Vision",
-      "Natural Language Processing",
-      "AI Ethics"
-    ],
-    "secondary": [
-      "Federated Learning",
-      "AI Governance"
-    ],
-    "industries": [
-      "Manufacturing",
-      "Research",
-      "Education"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in Natural Language Processing",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:02.449Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

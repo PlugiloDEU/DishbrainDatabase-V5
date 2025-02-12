@@ -1,0 +1,42 @@
+{
+  "id": "exp242",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Schulz",
+    "title": "Professor für KI und ML",
+    "email": "thomas.schulz@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 924 82361238",
+    "image": "/experts/thomas-schulz.jpg",
+    "languages": [
+      "Französisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Neural Networks",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "AI Security",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Automotive",
+      "Education",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

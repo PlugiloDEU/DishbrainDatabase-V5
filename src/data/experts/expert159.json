@@ -1,53 +1,29 @@
 {
   "id": "exp159",
-  "personalInfo": {
-    "fullName": "Prof. Laura Müller",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Reinforcement Learning",
+  "expertise": [
+    "Reinforcement Learning",
+    "Machine Learning",
+    "AI Ethics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "laura.mueller@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 353 77874129",
-    "image": "/experts/laura-mueller.jpg",
-    "languages": [
-      "Spanisch",
-      "Französisch"
-    ]
+    "phone": "+49 353 77874129"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "Institut für Künstliche Intelligenz",
-    "position": "Professor",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Reinforcement Learning",
-      "Machine Learning",
-      "AI Ethics"
-    ],
-    "secondary": [
-      "Knowledge Graphs",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Robotics",
-      "Automotive",
-      "Healthcare"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in AI Ethics",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:04.695Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

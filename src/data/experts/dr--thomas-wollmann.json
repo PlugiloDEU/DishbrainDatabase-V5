@@ -1,65 +1,28 @@
 {
   "id": "exp136",
-  "personalInfo": {
-    "title": "Dr.",
-    "firstName": "Thomas",
-    "lastName": "Wollmann",
-    "fullName": "Dr. Thomas Wollmann",
-    "image": "/experts/dr--thomas-wollmann.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Merantix Momentum",
-    "position": "Experte für Maschinelles Lernen und KI-Infrastruktur",
-    "department": null,
-    "website": "Merantix Momentum"
-  },
-  "expertise": {
-    "primary": [
-      "Maschinelles Lernen / KI"
-    ],
-    "secondary": [],
-    "industries": [
-      "AI"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Experte für Maschinelles Lernen und KI-Infrastruktur",
-    "organization": "Merantix Momentum",
-    "focus": "Maschinelles Lernen / KI"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "Merantix Momentum"
-  },
-  "tags": [
-    "Maschinelles Lernen / KI",
-    "Experte für Maschinelles Lernen und KI-Infrastruktur"
+  "titel": "Dr.",
+  "position": "Experte für Maschinelles Lernen und KI-Infrastruktur",
+  "organisation": "Merantix Momentum",
+  "fachgebiet": "Maschinelles Lernen / KI",
+  "expertise": [
+    "Maschinelles Lernen / KI"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:58.620Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

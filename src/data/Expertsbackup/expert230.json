@@ -1,0 +1,42 @@
+{
+  "id": "exp230",
+  "personalInfo": {
+    "fullName": "Dr. Anna Weber",
+    "title": "Senior AI Researcher",
+    "email": "anna.weber@technische-universitaet-berlin.de",
+    "phone": "+49 608 16461855",
+    "image": "/experts/anna-weber.jpg",
+    "languages": [
+      "Mandarin",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Healthcare",
+      "Robotics",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

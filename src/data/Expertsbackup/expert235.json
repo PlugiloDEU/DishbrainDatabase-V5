@@ -1,0 +1,41 @@
+{
+  "id": "exp235",
+  "personalInfo": {
+    "fullName": "Dr. Julia Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "julia.schmidt@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 952 30303856",
+    "image": "/experts/julia-schmidt.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Neural Networks",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AutoML"
+    ],
+    "industries": [
+      "Healthcare",
+      "Automotive",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

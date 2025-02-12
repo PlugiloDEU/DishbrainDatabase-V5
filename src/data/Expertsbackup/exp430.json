@@ -1,0 +1,42 @@
+{
+  "id": "exp430",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Michael Wagner",
+    "title": "Professor für KI und ML",
+    "email": "michael.wagner@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 424 91692502",
+    "image": "/experts/michael-wagner.jpg",
+    "languages": [
+      "Mandarin",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Explainable AI",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

@@ -1,63 +1,28 @@
 {
   "id": "exp126",
-  "personalInfo": {
-    "title": "Prof. Dr.",
-    "firstName": "Michael",
-    "lastName": "Huth",
-    "fullName": "Prof. Dr. Michael Huth",
-    "image": "/experts/prof--dr--michael-huth.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "TU Nürnberg Universität für KI",
-    "position": "Professor für Künstliche Intelligenz",
-    "department": null,
-    "website": "TU Nürnberg"
-  },
-  "expertise": {
-    "primary": [
-      "Universität"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "TU Nürnberg Universität für KI",
-    "focus": "Universität"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "TU Nürnberg"
-  },
-  "tags": [
-    "Universität",
-    "Professor für Künstliche Intelligenz"
+  "titel": "Prof. Dr.",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "TU Nürnberg Universität für KI",
+  "fachgebiet": "Universität",
+  "expertise": [
+    "Universität"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:13.644Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,226 +1,31 @@
 {
   "id": "exp001",
-  "personalInfo": {
-    "title": "Prof. Dr.",
-    "firstName": "Maria",
-    "lastName": "Schmidt",
-    "fullName": "Prof. Dr. Maria Schmidt",
-    "image": "/expert1.jpg",
-    "email": "m.schmidt@tu-muenchen.de",
-    "phone": "+49 (89) 289-12345",
-    "languages": [
-      "Deutsch",
-      "Englisch",
-      "Französisch"
-    ]
-  },
-  "institution": {
-    "name": "TU München",
-    "department": "Fakultät für Informatik",
-    "position": "Lehrstuhlinhaber",
-    "address": {
-      "street": "Boltzmannstraße 3",
-      "city": "München",
-      "postcode": "85748",
-      "country": "Deutschland"
-    },
-    "website": "https://www.in.tum.de/schmidt"
-  },
-  "expertise": {
-    "primary": [
-      "Deep Learning",
-      "Neural Networks",
-      "Transformer Architekturen"
-    ],
-    "secondary": [
-      "Computer Vision",
-      "Natural Language Processing",
-      "Reinforcement Learning"
-    ],
-    "industries": [
-      "Automotive",
-      "Healthcare",
-      "Robotics"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": 87,
-      "byYear": {
-        "2020": 11,
-        "2021": 14,
-        "2022": 15,
-        "2023": 12,
-        "2024": 3
-      },
-      "sources": {
-        "googleScholar": "https://scholar.google.com/citations?user=ABC123",
-        "scopus": "https://www.scopus.com/authid/ABC123",
-        "webOfScience": "https://www.webofscience.com/author/ABC123"
-      }
-    },
-    "hIndex": {
-      "value": 45,
-      "sources": {
-        "googleScholar": 45,
-        "scopus": 42
-      }
-    },
-    "citations": {
-      "total": 12500,
-      "lastFiveYears": 5800,
-      "byYear": {
-        "2020": 1250,
-        "2021": 1400,
-        "2022": 1500,
-        "2023": 1200,
-        "2024": 450
-      }
-    }
-  },
-  "currentResearch": {
-    "mainFocus": "Transformer Architekturen",
-    "projects": [
-      {
-        "name": "Neural Architecture Search",
-        "description": "Entwicklung effizienter Methoden zur automatischen Optimierung von neuronalen Netzwerkarchitekturen",
-        "funding": "DFG",
-        "period": "2023-2026"
-      },
-      {
-        "name": "Explainable AI",
-        "description": "Interpretierbare Deep Learning Modelle für sicherheitskritische Anwendungen",
-        "funding": "EU Horizon Europe",
-        "period": "2022-2025"
-      }
-    ],
-    "keywords": [
-      "Neural Architecture Search",
-      "Explainable AI",
-      "Efficient Transformers",
-      "Green AI"
-    ]
-  },
-  "companyConnections": {
-    "current": [
-      {
-        "company": "DeepMind Deutschland GmbH",
-        "role": "Scientific Advisor",
-        "since": "2022",
-        "projects": [
-          "AlphaFold Optimization"
-        ]
-      }
-    ],
-    "previous": [
-      {
-        "company": "Google Research",
-        "role": "Visiting Researcher",
-        "period": "2019-2021",
-        "projects": [
-          "Efficient Transformers"
-        ]
-      }
-    ],
-    "collaborations": [
-      {
-        "company": "BMW Group",
-        "project": "Autonomous Driving AI",
-        "role": "Lead Researcher",
-        "period": "2023-present",
-        "status": "Active"
-      }
-    ]
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/maria-schmidt-ai",
-    "googleScholar": "https://scholar.google.com/citations?user=ABC123",
-    "researchGate": "https://www.researchgate.net/profile/Maria-Schmidt-AI",
-    "orcid": "https://orcid.org/0000-0002-1234-5678",
-    "universityProfile": "https://www.in.tum.de/schmidt",
-    "twitter": "@MariaSchmidtAI"
-  },
-  "tags": [
+  "titel": "Prof. Dr.",
+  "position": "Lehrstuhlinhaber",
+  "organisation": "TU München",
+  "fachgebiet": "Deep Learning",
+  "expertise": [
     "Deep Learning",
     "Neural Networks",
-    "AI Ethics",
-    "Transformer Models",
-    "Computer Vision",
-    "Machine Learning"
+    "Transformer Architekturen"
   ],
-  "availability": {
-    "status": "limited",
-    "nextAvailable": "2024-06-01",
-    "consultingHours": "Donnerstags 14:00-16:00",
-    "preferredContactMethod": "email"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
-  "achievements": {
-    "awards": [
-      {
-        "name": "Gottfried Wilhelm Leibniz-Preis",
-        "year": 2023,
-        "organization": "DFG"
-      },
-      {
-        "name": "Technical Achievement Award",
-        "year": 2022,
-        "organization": "IEEE"
-      }
-    ],
-    "patents": [
-      {
-        "title": "Method for Efficient Transformer Training",
-        "number": "DE102023001234",
-        "year": 2023
-      }
-    ]
+  "academicPositions": [],
+  "kontakt": {
+    "email": "m.schmidt@tu-muenchen.de",
+    "phone": "+49 (89) 289-12345"
   },
-  "teaching": {
-    "courses": [
-      {
-        "name": "Deep Learning Fundamentals",
-        "level": "Master",
-        "semester": "WS 2023/24"
-      },
-      {
-        "name": "Advanced Neural Networks",
-        "level": "Master",
-        "semester": "SS 2024"
-      }
-    ],
-    "supervision": {
-      "phd": 8,
-      "master": 25,
-      "bachelor": 40
-    }
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/maria-schmidt-ai"
   },
-  "mediaAndPress": {
-    "recentArticles": [
-      {
-        "title": "Breakthrough in Neural Network Efficiency",
-        "publication": "Nature AI",
-        "date": "2024-01-15",
-        "url": "https://nature.com/articles/123456"
-      }
-    ],
-    "interviews": [
-      {
-        "title": "Die Zukunft der KI",
-        "medium": "Süddeutsche Zeitung",
-        "date": "2023-12-10",
-        "url": "https://sz.de/ki-zukunft"
-      }
-    ]
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -278,8 +83,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:13.806Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

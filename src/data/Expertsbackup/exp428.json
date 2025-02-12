@@ -1,0 +1,42 @@
+{
+  "id": "exp428",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Wagner",
+    "title": "Professor für KI und ML",
+    "email": "christian.wagner@technische-universitaet-muenchen.de",
+    "phone": "+49 994 33010713",
+    "image": "/experts/christian-wagner.jpg",
+    "languages": [
+      "Mandarin",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Security",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

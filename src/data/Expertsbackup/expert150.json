@@ -1,0 +1,41 @@
+{
+  "id": "exp150",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "sophie.hoffmann@fraunhofer-iais.de",
+    "phone": "+49 294 11640425",
+    "image": "/experts/sophie-hoffmann.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Manufacturing",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

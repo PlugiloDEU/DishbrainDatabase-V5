@@ -1,0 +1,42 @@
+{
+  "id": "exp016",
+  "personalInfo": {
+    "fullName": "Dr. Maria Meyer",
+    "title": "Senior AI Researcher",
+    "email": "maria.meyer@technische-universitaet-muenchen.de",
+    "phone": "+49 187 76742412",
+    "image": "/experts/maria-meyer.jpg",
+    "languages": [
+      "Deutsch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Quantum AI",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Education",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

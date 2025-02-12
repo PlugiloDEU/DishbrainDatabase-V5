@@ -1,63 +1,29 @@
 {
   "id": "exp100",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Philipp",
-    "lastName": "Hühne",
-    "fullName": "Philipp Hühne",
-    "image": "/experts/philipp-h-hne.jpg",
-    "email": "philipp_huehne@mckinsey.com",
-    "phone": "491753184486",
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "McKinsey",
-    "position": "Digital Communication Specialist",
-    "department": null,
-    "website": "mckinsey.de"
-  },
-  "expertise": {
-    "primary": [
-      "Unternehmensberatung"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Digital Communication Specialist",
-    "organization": "McKinsey",
-    "focus": "Unternehmensberatung"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "mckinsey.de"
-  },
-  "tags": [
-    "Unternehmensberatung",
-    "Digital Communication Specialist"
+  "titel": "",
+  "position": "Digital Communication Specialist",
+  "organisation": "McKinsey",
+  "fachgebiet": "Unternehmensberatung",
+  "expertise": [
+    "Unternehmensberatung"
   ],
-  "source": "kom.de​ (KOM - Magazin für Kommunikation | kom.de)​",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "philipp_huehne@mckinsey.com",
+    "phone": "491753184486"
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:00.314Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

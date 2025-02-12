@@ -1,0 +1,42 @@
+{
+  "id": "exp025",
+  "personalInfo": {
+    "fullName": "Dr. Christian Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "christian.schmidt@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 622 85934706",
+    "image": "/experts/christian-schmidt.jpg",
+    "languages": [
+      "Mandarin",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Robotics",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

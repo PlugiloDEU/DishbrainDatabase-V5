@@ -1,0 +1,42 @@
+{
+  "id": "exp166",
+  "personalInfo": {
+    "fullName": "Prof. Michael Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "michael.hoffmann@technische-universitaet-muenchen.de",
+    "phone": "+49 616 68045726",
+    "image": "/experts/michael-hoffmann.jpg",
+    "languages": [
+      "Französisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Quantum AI",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Energy",
+      "Finance",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

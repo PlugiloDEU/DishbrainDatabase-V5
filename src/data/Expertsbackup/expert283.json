@@ -1,0 +1,41 @@
+{
+  "id": "exp283",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Michael Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "michael.schmidt@technische-universitaet-berlin.de",
+    "phone": "+49 796 52753005",
+    "image": "/experts/michael-schmidt.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Reinforcement Learning",
+      "Robotics"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Finance",
+      "Robotics",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

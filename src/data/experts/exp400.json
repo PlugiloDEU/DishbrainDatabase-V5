@@ -1,52 +1,29 @@
 {
   "id": "exp400",
-  "personalInfo": {
-    "fullName": "Prof. Dr. Michael Schulz",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "RWTH Aachen",
+  "fachgebiet": "AI Ethics",
+  "expertise": [
+    "AI Ethics",
+    "Robotics",
+    "Machine Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "michael.schulz@rwth-aachen.de",
-    "phone": "+49 200 36226436",
-    "image": "/experts/michael-schulz.jpg",
-    "languages": [
-      "Englisch"
-    ]
+    "phone": "+49 200 36226436"
   },
-  "institution": {
-    "name": "RWTH Aachen",
-    "department": "Machine Learning Lab",
-    "position": "Professor",
-    "location": "Aachen"
-  },
-  "expertise": {
-    "primary": [
-      "AI Ethics",
-      "Robotics",
-      "Machine Learning"
-    ],
-    "secondary": [
-      "AutoML",
-      "AI Security"
-    ],
-    "industries": [
-      "Research",
-      "Robotics",
-      "Healthcare"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "RWTH Aachen",
-    "focus": "Forschung in Robotics",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:03.072Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

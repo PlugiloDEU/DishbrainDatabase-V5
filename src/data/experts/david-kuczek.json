@@ -1,63 +1,29 @@
 {
   "id": "exp289",
-  "personalInfo": {
-    "title": null,
-    "firstName": "David",
-    "lastName": "Kuczek",
-    "fullName": "David Kuczek",
-    "image": "/experts/david-kuczek.jpg",
-    "email": "https://docs.google.com/document/d/1pFc_ERPbcGpmcB-ivoUm8iB_IV21AIK7/edit",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "HV Capital",
-    "position": "Partner",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "VC"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Partner",
-    "organization": "HV Capital",
-    "focus": "VC"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/david-kuczek-064104175/",
-    "company": null
-  },
-  "tags": [
-    "VC",
-    "Partner"
+  "titel": "",
+  "position": "Partner",
+  "organisation": "HV Capital",
+  "fachgebiet": "VC",
+  "expertise": [
+    "VC"
   ],
-  "source": "Künstliche Intelligenz: Diese Investoren finanzieren Deutschlands KI-Hoffnungen (handelsblatt.com)",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://docs.google.com/document/d/1pFc_ERPbcGpmcB-ivoUm8iB_IV21AIK7/edit",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/david-kuczek-064104175/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:57.130Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

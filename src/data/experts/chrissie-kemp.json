@@ -1,63 +1,28 @@
 {
   "id": "exp407",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Chrissie",
-    "lastName": "Kemp",
-    "fullName": "Chrissie Kemp",
-    "image": "/experts/chrissie-kemp.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Jaguar Land Rover (JLR)",
-    "position": "Chief Data & AI Officer",
-    "department": null,
-    "website": "https://www.jaguarlandrover.com"
-  },
-  "expertise": {
-    "primary": [
-      "Auto"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Chief Data & AI Officer",
-    "organization": "Jaguar Land Rover (JLR)",
-    "focus": "Auto"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.jaguarlandrover.com"
-  },
-  "tags": [
-    "Auto",
-    "Chief Data & AI Officer"
+  "titel": "",
+  "position": "Chief Data & AI Officer",
+  "organisation": "Jaguar Land Rover (JLR)",
+  "fachgebiet": "Auto",
+  "expertise": [
+    "Auto"
   ],
-  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:56.979Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

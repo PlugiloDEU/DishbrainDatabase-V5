@@ -1,0 +1,42 @@
+{
+  "id": "exp276",
+  "personalInfo": {
+    "fullName": "Dr. Julia Müller",
+    "title": "Senior AI Researcher",
+    "email": "julia.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 424 91666532",
+    "image": "/experts/julia-mueller.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

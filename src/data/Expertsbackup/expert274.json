@@ -1,0 +1,42 @@
+{
+  "id": "exp274",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Anna Wagner",
+    "title": "Professor für KI und ML",
+    "email": "anna.wagner@rwth-aachen.de",
+    "phone": "+49 511 13838119",
+    "image": "/experts/anna-wagner.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Neural Networks",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "AI Governance"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

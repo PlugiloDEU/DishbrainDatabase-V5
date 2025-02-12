@@ -1,0 +1,42 @@
+{
+  "id": "exp220",
+  "personalInfo": {
+    "fullName": "PD Dr. Martin Meyer",
+    "title": "Senior AI Researcher",
+    "email": "martin.meyer@rwth-aachen.de",
+    "phone": "+49 337 86556666",
+    "image": "/experts/martin-meyer.jpg",
+    "languages": [
+      "Englisch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

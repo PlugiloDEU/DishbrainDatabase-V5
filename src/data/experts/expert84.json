@@ -1,52 +1,29 @@
 {
   "id": "exp084",
-  "personalInfo": {
-    "fullName": "Prof. Dr. Julia Fischer",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Karlsruher Institut für Technologie",
+  "fachgebiet": "AI Ethics",
+  "expertise": [
+    "AI Ethics",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "julia.fischer@karlsruher-institut-fuer-technologie.de",
-    "phone": "+49 692 40682712",
-    "image": "/experts/julia-fischer.jpg",
-    "languages": [
-      "Deutsch"
-    ]
+    "phone": "+49 692 40682712"
   },
-  "institution": {
-    "name": "Karlsruher Institut für Technologie",
-    "department": "AI Research Center",
-    "position": "Professor",
-    "location": "Karlsruhe"
-  },
-  "expertise": {
-    "primary": [
-      "AI Ethics",
-      "Machine Learning",
-      "Deep Learning"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "Knowledge Graphs"
-    ],
-    "industries": [
-      "Manufacturing",
-      "Education",
-      "Automotive"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Karlsruher Institut für Technologie",
-    "focus": "Forschung in Machine Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:08.623Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

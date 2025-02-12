@@ -1,0 +1,42 @@
+{
+  "id": "exp034",
+  "personalInfo": {
+    "fullName": "Dr. Martin Koch",
+    "title": "Senior AI Researcher",
+    "email": "martin.koch@technische-universitaet-berlin.de",
+    "phone": "+49 221 10578637",
+    "image": "/experts/martin-koch.jpg",
+    "languages": [
+      "Deutsch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Quantum AI",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AI Security"
+    ],
+    "industries": [
+      "Finance",
+      "Robotics",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

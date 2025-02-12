@@ -1,0 +1,42 @@
+{
+  "id": "exp006",
+  "personalInfo": {
+    "fullName": "Dr. Michael Becker",
+    "title": "Senior AI Researcher",
+    "email": "michael.becker@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 689 42548051",
+    "image": "/experts/michael-becker.jpg",
+    "languages": [
+      "Mandarin",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Computer Vision",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AI Security"
+    ],
+    "industries": [
+      "Energy",
+      "Finance",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

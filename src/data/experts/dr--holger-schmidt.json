@@ -1,63 +1,28 @@
 {
   "id": "exp115",
-  "personalInfo": {
-    "title": "Dr.",
-    "firstName": "Holger",
-    "lastName": "Schmidt",
-    "fullName": "Dr. Holger Schmidt",
-    "image": "/experts/dr--holger-schmidt.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "F.A.Z., TU Darmstadt",
-    "position": "Digital Economist & Speaker",
-    "department": null,
-    "website": "www.holger-schmidt.com"
-  },
-  "expertise": {
-    "primary": [
-      "Wirtschaft"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Digital Economist & Speaker",
-    "organization": "F.A.Z., TU Darmstadt",
-    "focus": "Wirtschaft"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "www.holger-schmidt.com"
-  },
-  "tags": [
-    "Wirtschaft",
-    "Digital Economist & Speaker"
+  "titel": "Dr.",
+  "position": "Digital Economist & Speaker",
+  "organisation": "F.A.Z., TU Darmstadt",
+  "fachgebiet": "Wirtschaft",
+  "expertise": [
+    "Wirtschaft"
   ],
-  "source": "holger-schmidt.com",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:58.431Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

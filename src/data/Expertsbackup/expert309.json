@@ -1,0 +1,41 @@
+{
+  "id": "exp309",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Fischer",
+    "title": "Senior AI Researcher",
+    "email": "thomas.fischer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 102 13417801",
+    "image": "/experts/thomas-fischer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AutoML",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Research",
+      "Education",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

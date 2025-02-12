@@ -1,63 +1,29 @@
 {
   "id": "exp337",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Stefan",
-    "lastName": "Wrobel",
-    "fullName": "Stefan Wrobel",
-    "image": "/experts/stefan-wrobel.jpg",
-    "email": "https://drive.google.com/file/d/1D2DfmpHyhWvrZrdytUx6qNzUJGO_tXmA/view",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Maschinelles Lernen",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Akademisch"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Maschinelles Lernen",
-    "organization": null,
-    "focus": "Akademisch"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/stefanwrobel/",
-    "company": null
-  },
-  "tags": [
-    "Akademisch",
-    "Maschinelles Lernen"
+  "titel": "",
+  "position": "Maschinelles Lernen",
+  "organisation": null,
+  "fachgebiet": "Akademisch",
+  "expertise": [
+    "Akademisch"
   ],
-  "source": "https://www.sigs-datacom.de/trendletter/2019-14/14-zehn-praegende-ki-forscher-geehrt",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://drive.google.com/file/d/1D2DfmpHyhWvrZrdytUx6qNzUJGO_tXmA/view",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/stefanwrobel/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:14.469Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

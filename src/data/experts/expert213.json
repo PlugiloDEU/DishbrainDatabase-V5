@@ -1,53 +1,29 @@
 {
   "id": "exp213",
-  "personalInfo": {
-    "fullName": "Prof. Christian Schmidt",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Computer Vision",
+  "expertise": [
+    "Computer Vision",
+    "Deep Learning",
+    "Quantum AI"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "christian.schmidt@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 254 27716070",
-    "image": "/experts/christian-schmidt.jpg",
-    "languages": [
-      "Französisch",
-      "Mandarin"
-    ]
+    "phone": "+49 254 27716070"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "Machine Learning Lab",
-    "position": "Professor",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Computer Vision",
-      "Deep Learning",
-      "Quantum AI"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "Edge Computing"
-    ],
-    "industries": [
-      "Research",
-      "Finance",
-      "Robotics"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in Computer Vision",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:05.192Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

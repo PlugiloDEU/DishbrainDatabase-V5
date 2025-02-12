@@ -1,63 +1,28 @@
 {
   "id": "exp170",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Hoa",
-    "lastName": "Lessen",
-    "fullName": "Hoa Le van Lessen",
-    "image": "/experts/hoa-le-van-lessen.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "BIG PICTURE",
-    "position": "Lead CX und Strategy",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Strategie"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Lead CX und Strategy",
-    "organization": "BIG PICTURE",
-    "focus": "Strategie"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": null
-  },
-  "tags": [
-    "Strategie",
-    "Lead CX und Strategy"
+  "titel": "",
+  "position": "Lead CX und Strategy",
+  "organisation": "BIG PICTURE",
+  "fachgebiet": "Strategie",
+  "expertise": [
+    "Strategie"
   ],
-  "source": "Teamseite",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:09.977Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

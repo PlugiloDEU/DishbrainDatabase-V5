@@ -1,0 +1,41 @@
+{
+  "id": "exp349",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Anna Koch",
+    "title": "Professor für KI und ML",
+    "email": "anna.koch@technische-universitaet-muenchen.de",
+    "phone": "+49 428 19859519",
+    "image": "/experts/anna-koch.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Machine Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AutoML"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

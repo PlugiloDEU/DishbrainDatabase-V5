@@ -1,63 +1,28 @@
 {
   "id": "exp262",
-  "personalInfo": {
-    "title": null,
-    "firstName": "K.",
-    "lastName": "Semmelmann",
-    "fullName": "K. Semmelmann",
-    "image": "/experts/k--semmelmann.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Keine spezifische Firma",
-    "position": "Keine spezifische Rolle genannt",
-    "department": null,
-    "website": "https://www.linkedin.com/in/ksemmelm/?originalSubdomain=de"
-  },
-  "expertise": {
-    "primary": [
-      "Keine spezifische Rolle"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Keine spezifische Rolle genannt",
-    "organization": "Keine spezifische Firma",
-    "focus": "Keine spezifische Rolle"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.linkedin.com/in/ksemmelm/?originalSubdomain=de"
-  },
-  "tags": [
-    "Keine spezifische Rolle",
-    "Keine spezifische Rolle genannt"
+  "titel": "",
+  "position": "Keine spezifische Rolle genannt",
+  "organisation": "Keine spezifische Firma",
+  "fachgebiet": "Keine spezifische Rolle",
+  "expertise": [
+    "Keine spezifische Rolle"
   ],
-  "source": "Text",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:10.279Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

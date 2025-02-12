@@ -1,0 +1,41 @@
+{
+  "id": "exp132",
+  "personalInfo": {
+    "fullName": "Dr. Alexander Müller",
+    "title": "Senior AI Researcher",
+    "email": "alexander.mueller@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 523 54093703",
+    "image": "/experts/alexander-mueller.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AutoML"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

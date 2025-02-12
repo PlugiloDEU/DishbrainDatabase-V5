@@ -1,0 +1,42 @@
+{
+  "id": "exp210",
+  "personalInfo": {
+    "fullName": "Dr. Julia Becker",
+    "title": "Senior AI Researcher",
+    "email": "julia.becker@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 329 40159918",
+    "image": "/experts/julia-becker.jpg",
+    "languages": [
+      "Spanisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Automotive",
+      "Education",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

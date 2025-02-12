@@ -1,0 +1,41 @@
+{
+  "id": "exp212",
+  "personalInfo": {
+    "fullName": "Dr. Laura Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "laura.schmidt@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 967 81171328",
+    "image": "/experts/laura-schmidt.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Energy",
+      "Education",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

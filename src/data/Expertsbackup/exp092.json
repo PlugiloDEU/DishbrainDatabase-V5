@@ -1,0 +1,42 @@
+{
+  "id": "exp092",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Meyer",
+    "title": "Professor für KI und ML",
+    "email": "thomas.meyer@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 386 54139532",
+    "image": "/experts/thomas-meyer.jpg",
+    "languages": [
+      "Spanisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "AI Ethics",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "AI Security"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

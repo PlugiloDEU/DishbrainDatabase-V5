@@ -1,0 +1,42 @@
+{
+  "id": "exp140",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Michael Meyer",
+    "title": "Professor für KI und ML",
+    "email": "michael.meyer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 704 85548935",
+    "image": "/experts/michael-meyer.jpg",
+    "languages": [
+      "Englisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Robotics",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "AI Security"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

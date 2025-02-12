@@ -1,53 +1,29 @@
 {
   "id": "exp200",
-  "personalInfo": {
-    "fullName": "Dr. Anna Hoffmann",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Technische Universität Berlin",
+  "fachgebiet": "Deep Learning",
+  "expertise": [
+    "Deep Learning",
+    "Machine Learning",
+    "AI Ethics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "anna.hoffmann@technische-universitaet-berlin.de",
-    "phone": "+49 929 41121734",
-    "image": "/experts/anna-hoffmann.jpg",
-    "languages": [
-      "Spanisch",
-      "Deutsch"
-    ]
+    "phone": "+49 929 41121734"
   },
-  "institution": {
-    "name": "Technische Universität Berlin",
-    "department": "Fakultät für Informatik",
-    "position": "Researcher",
-    "location": "Berlin"
-  },
-  "expertise": {
-    "primary": [
-      "Deep Learning",
-      "Machine Learning",
-      "AI Ethics"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "AutoML"
-    ],
-    "industries": [
-      "Automotive",
-      "Energy",
-      "Finance"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Technische Universität Berlin",
-    "focus": "Forschung in Deep Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:05.045Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

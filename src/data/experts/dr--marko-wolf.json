@@ -1,60 +1,26 @@
 {
   "id": "exp027",
-  "personalInfo": {
-    "title": "Dr.",
-    "firstName": "Marko",
-    "lastName": "Wolf",
-    "fullName": "Dr. Marko Wolf",
-    "image": "/experts/dr--marko-wolf.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
+  "titel": "Dr.",
+  "position": "0",
+  "organisation": "Robert Bosch GmbH",
+  "fachgebiet": "0",
+  "expertise": [],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
-  "institution": {
-    "name": "Robert Bosch GmbH",
-    "position": "0",
-    "department": null,
-    "website": "https://www.bosch.com"
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
   },
-  "expertise": {
-    "primary": [],
-    "secondary": [],
-    "industries": []
+  "social_media": {
+    "linkedin": null
   },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "0",
-    "organization": "Robert Bosch GmbH",
-    "focus": null
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.bosch.com"
-  },
-  "tags": [
-    "0"
-  ],
-  "source": "Bitkom",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -112,8 +78,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:58.463Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,42 @@
+{
+  "id": "exp100",
+  "personalInfo": {
+    "fullName": "Prof. Martin Weber",
+    "title": "Professor für KI und ML",
+    "email": "martin.weber@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 778 28477034",
+    "image": "/experts/martin-weber.jpg",
+    "languages": [
+      "Französisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AutoML",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

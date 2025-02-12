@@ -1,0 +1,41 @@
+{
+  "id": "exp273",
+  "personalInfo": {
+    "fullName": "Dr. Sophie Meyer",
+    "title": "Senior AI Researcher",
+    "email": "sophie.meyer@technische-universitaet-berlin.de",
+    "phone": "+49 451 86831030",
+    "image": "/experts/sophie-meyer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Neural Networks",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

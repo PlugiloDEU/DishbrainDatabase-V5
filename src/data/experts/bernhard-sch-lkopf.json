@@ -1,63 +1,29 @@
 {
   "id": "exp307",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Bernhard",
-    "lastName": "Schölkopf",
-    "fullName": "Bernhard Schölkopf",
-    "image": "/experts/bernhard-sch-lkopf.jpg",
-    "email": "https://drive.google.com/file/d/1CtHQ8DSfXmgWw9sOzQSsHf5IAGJPS0mK/view",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme (MPI-IS)",
-    "position": "Direktor",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Akademisch"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Direktor",
-    "organization": "Max-Planck-Institut für Intelligente Systeme (MPI-IS)",
-    "focus": "Akademisch"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/bernhard-schölkopf-732969238/",
-    "company": null
-  },
-  "tags": [
-    "Akademisch",
-    "Direktor"
+  "titel": "",
+  "position": "Direktor",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme (MPI-IS)",
+  "fachgebiet": "Akademisch",
+  "expertise": [
+    "Akademisch"
   ],
-  "source": "https://www.deutschland.de/de/topic/wissen/kuenstliche-intelligenz-in-deutschland-fuehrende-forscher",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://drive.google.com/file/d/1CtHQ8DSfXmgWw9sOzQSsHf5IAGJPS0mK/view",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/bernhard-schölkopf-732969238/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:56.278Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,42 @@
+{
+  "id": "exp386",
+  "personalInfo": {
+    "fullName": "Prof. Maria Weber",
+    "title": "Professor für KI und ML",
+    "email": "maria.weber@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 811 84947535",
+    "image": "/experts/maria-weber.jpg",
+    "languages": [
+      "Italienisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Robotics",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Robotics",
+      "Manufacturing",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

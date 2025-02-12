@@ -1,0 +1,41 @@
+{
+  "id": "exp417",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "thomas.schmidt@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 965 81083724",
+    "image": "/experts/thomas-schmidt.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Quantum AI",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AI Security"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

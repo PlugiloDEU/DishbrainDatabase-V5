@@ -1,0 +1,41 @@
+{
+  "id": "exp004",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Wagner",
+    "title": "Professor für KI und ML",
+    "email": "sophie.wagner@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 930 35882972",
+    "image": "/experts/sophie-wagner.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Explainable AI",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Robotics",
+      "Education",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp005",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Anna Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "anna.hoffmann@rwth-aachen.de",
+    "phone": "+49 440 19389975",
+    "image": "/experts/anna-hoffmann.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Neural Networks",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

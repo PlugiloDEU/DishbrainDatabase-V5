@@ -1,0 +1,42 @@
+{
+  "id": "exp048",
+  "personalInfo": {
+    "fullName": "Dr. Michael Müller",
+    "title": "Senior AI Researcher",
+    "email": "michael.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 179 18432426",
+    "image": "/experts/michael-mueller.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Deep Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AI Security",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

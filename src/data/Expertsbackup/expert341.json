@@ -1,0 +1,41 @@
+{
+  "id": "exp341",
+  "personalInfo": {
+    "fullName": "Dr. Martin Meyer",
+    "title": "Senior AI Researcher",
+    "email": "martin.meyer@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 173 33661514",
+    "image": "/experts/martin-meyer.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Deep Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Robotics",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

@@ -1,63 +1,29 @@
 {
   "id": "exp214",
-  "personalInfo": {
-    "title": "Prof. Dr.",
-    "firstName": "Marco",
-    "lastName": "Huber",
-    "fullName": "Prof. Dr. Marco Huber",
-    "image": "/experts/prof--dr--marco-huber.jpg",
-    "email": "info@uni-stuttgart.de",
-    "phone": "+49 711 970-1960",
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Universität Stuttgart",
-    "position": "Professor für kognitive Produktionssysteme",
-    "department": null,
-    "website": "https://www.uni-stuttgart.de"
-  },
-  "expertise": {
-    "primary": [
-      "Forscher"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Professor für kognitive Produktionssysteme",
-    "organization": "Universität Stuttgart",
-    "focus": "Forscher"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.uni-stuttgart.de"
-  },
-  "tags": [
-    "Forscher",
-    "Professor für kognitive Produktionssysteme"
+  "titel": "Prof. Dr.",
+  "position": "Professor für kognitive Produktionssysteme",
+  "organisation": "Universität Stuttgart",
+  "fachgebiet": "Forscher",
+  "expertise": [
+    "Forscher"
   ],
-  "source": "Bild",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "info@uni-stuttgart.de",
+    "phone": "+49 711 970-1960"
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.414Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

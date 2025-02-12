@@ -1,0 +1,41 @@
+{
+  "id": "exp087",
+  "personalInfo": {
+    "fullName": "Prof. Anna Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "anna.hoffmann@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 193 76767672",
+    "image": "/experts/anna-hoffmann.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Reinforcement Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Automotive",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

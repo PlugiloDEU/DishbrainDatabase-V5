@@ -1,0 +1,41 @@
+{
+  "id": "exp395",
+  "personalInfo": {
+    "fullName": "Prof. Michael Wagner",
+    "title": "Professor für KI und ML",
+    "email": "michael.wagner@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 270 99026757",
+    "image": "/experts/michael-wagner.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Explainable AI",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Energy",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

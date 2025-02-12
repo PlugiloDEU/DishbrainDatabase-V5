@@ -1,0 +1,41 @@
+{
+  "id": "exp256",
+  "personalInfo": {
+    "fullName": "PD Dr. Michael Fischer",
+    "title": "Senior AI Researcher",
+    "email": "michael.fischer@technische-universitaet-berlin.de",
+    "phone": "+49 906 88274355",
+    "image": "/experts/michael-fischer.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "AI Ethics",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

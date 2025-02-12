@@ -1,0 +1,42 @@
+{
+  "id": "exp336",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "julia.hoffmann@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 473 83228563",
+    "image": "/experts/julia-hoffmann.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Healthcare",
+      "Energy",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

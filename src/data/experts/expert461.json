@@ -1,53 +1,29 @@
 {
   "id": "exp461",
-  "personalInfo": {
-    "fullName": "PD Dr. Anna Becker",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Technische Universität München",
+  "fachgebiet": "Machine Learning",
+  "expertise": [
+    "Machine Learning",
+    "Neural Networks",
+    "Deep Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "anna.becker@technische-universitaet-muenchen.de",
-    "phone": "+49 414 27796415",
-    "image": "/experts/anna-becker.jpg",
-    "languages": [
-      "Englisch",
-      "Deutsch"
-    ]
+    "phone": "+49 414 27796415"
   },
-  "institution": {
-    "name": "Technische Universität München",
-    "department": "Machine Learning Lab",
-    "position": "Researcher",
-    "location": "München"
-  },
-  "expertise": {
-    "primary": [
-      "Machine Learning",
-      "Neural Networks",
-      "Deep Learning"
-    ],
-    "secondary": [
-      "Knowledge Graphs",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Automotive",
-      "Robotics",
-      "Healthcare"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Technische Universität München",
-    "focus": "Forschung in Neural Networks",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:08.399Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

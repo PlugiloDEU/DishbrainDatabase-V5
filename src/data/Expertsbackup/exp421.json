@@ -1,0 +1,41 @@
+{
+  "id": "exp421",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "thomas.schmidt@technische-universitaet-muenchen.de",
+    "phone": "+49 285 26731382",
+    "image": "/experts/thomas-schmidt.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Robotics",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

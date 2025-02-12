@@ -1,0 +1,42 @@
+{
+  "id": "exp211",
+  "personalInfo": {
+    "fullName": "Dr. Sophie Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "sophie.hoffmann@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 448 32521038",
+    "image": "/experts/sophie-hoffmann.jpg",
+    "languages": [
+      "Französisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "AI Ethics",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AI Security",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

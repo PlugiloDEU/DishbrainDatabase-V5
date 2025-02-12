@@ -1,0 +1,41 @@
+{
+  "id": "exp445",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Weber",
+    "title": "Professor für KI und ML",
+    "email": "alexander.weber@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 208 46844731",
+    "image": "/experts/alexander-weber.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Computer Vision",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

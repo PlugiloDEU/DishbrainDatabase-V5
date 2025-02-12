@@ -1,52 +1,29 @@
 {
   "id": "exp003",
-  "personalInfo": {
-    "fullName": "Prof. Maria Schulz",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Karlsruher Institut für Technologie",
+  "fachgebiet": "Deep Learning",
+  "expertise": [
+    "Deep Learning",
+    "Robotics",
+    "Natural Language Processing"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "maria.schulz@karlsruher-institut-fuer-technologie.de",
-    "phone": "+49 575 17669940",
-    "image": "/experts/maria-schulz.jpg",
-    "languages": [
-      "Französisch"
-    ]
+    "phone": "+49 575 17669940"
   },
-  "institution": {
-    "name": "Karlsruher Institut für Technologie",
-    "department": "Machine Learning Lab",
-    "position": "Professor",
-    "location": "Karlsruhe"
-  },
-  "expertise": {
-    "primary": [
-      "Deep Learning",
-      "Robotics",
-      "Natural Language Processing"
-    ],
-    "secondary": [
-      "AutoML",
-      "Federated Learning"
-    ],
-    "industries": [
-      "Automotive",
-      "Finance",
-      "Education"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Karlsruher Institut für Technologie",
-    "focus": "Forschung in Deep Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:06.152Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

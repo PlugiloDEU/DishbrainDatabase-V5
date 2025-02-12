@@ -1,63 +1,28 @@
 {
   "id": "exp252",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Uli",
-    "lastName": "Köppen",
-    "fullName": "Uli Köppen",
-    "image": "/experts/uli-k-ppen.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Keine spezifische Firma",
-    "position": "LinkedIn",
-    "department": null,
-    "website": "(6) Uli Köppen"
-  },
-  "expertise": {
-    "primary": [
-      "Keine spezifische Rolle genannt"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "LinkedIn",
-    "organization": "Keine spezifische Firma",
-    "focus": "Keine spezifische Rolle genannt"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "(6) Uli Köppen"
-  },
-  "tags": [
-    "Keine spezifische Rolle genannt",
-    "LinkedIn"
+  "titel": "",
+  "position": "LinkedIn",
+  "organisation": "Keine spezifische Firma",
+  "fachgebiet": "Keine spezifische Rolle genannt",
+  "expertise": [
+    "Keine spezifische Rolle genannt"
   ],
-  "source": "Keine spezifische Rolle",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.719Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,41 @@
+{
+  "id": "exp244",
+  "personalInfo": {
+    "fullName": "Prof. Christian Schulz",
+    "title": "Professor für KI und ML",
+    "email": "christian.schulz@technische-universitaet-berlin.de",
+    "phone": "+49 326 39967675",
+    "image": "/experts/christian-schulz.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Neural Networks",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Governance"
+    ],
+    "industries": [
+      "Education",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp457",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Müller",
+    "title": "Professor für KI und ML",
+    "email": "sophie.mueller@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 308 26502944",
+    "image": "/experts/sophie-mueller.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Natural Language Processing",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AutoML"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

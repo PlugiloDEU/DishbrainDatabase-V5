@@ -1,0 +1,41 @@
+{
+  "id": "exp158",
+  "personalInfo": {
+    "fullName": "Prof. Michael Becker",
+    "title": "Professor für KI und ML",
+    "email": "michael.becker@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 308 53889962",
+    "image": "/experts/michael-becker.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Robotics",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AutoML"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

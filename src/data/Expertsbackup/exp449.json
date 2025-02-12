@@ -1,0 +1,42 @@
+{
+  "id": "exp449",
+  "personalInfo": {
+    "fullName": "Prof. Christian Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "christian.hoffmann@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 576 95263523",
+    "image": "/experts/christian-hoffmann.jpg",
+    "languages": [
+      "Italienisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "AI Ethics",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Automotive",
+      "Education",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

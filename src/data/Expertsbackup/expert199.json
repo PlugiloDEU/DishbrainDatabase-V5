@@ -1,0 +1,42 @@
+{
+  "id": "exp199",
+  "personalInfo": {
+    "fullName": "Prof. Maria Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "maria.schmidt@rwth-aachen.de",
+    "phone": "+49 237 69169096",
+    "image": "/experts/maria-schmidt.jpg",
+    "languages": [
+      "Französisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Quantum AI",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AutoML",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Automotive",
+      "Energy",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

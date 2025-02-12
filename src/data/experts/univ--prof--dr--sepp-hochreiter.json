@@ -1,63 +1,29 @@
 {
   "id": "exp163",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Sepp",
-    "lastName": "Hochreiter",
-    "fullName": "Univ.-Prof. Dr. Sepp Hochreiter",
-    "image": "/experts/univ--prof--dr--sepp-hochreiter.jpg",
-    "email": "hochreit@ml.jku.at",
-    "phone": "+43 732 2468 4521",
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Johannes Kepler Universität Linz",
-    "position": "Leiter des Instituts für Machine Learning",
-    "department": null,
-    "website": "https://ml.jku.at"
-  },
-  "expertise": {
-    "primary": [
-      "Wissenschaft"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Leiter des Instituts für Machine Learning",
-    "organization": "Johannes Kepler Universität Linz",
-    "focus": "Wissenschaft"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://ml.jku.at"
-  },
-  "tags": [
-    "Wissenschaft",
-    "Leiter des Instituts für Machine Learning"
+  "titel": "",
+  "position": "Leiter des Instituts für Machine Learning",
+  "organisation": "Johannes Kepler Universität Linz",
+  "fachgebiet": "Wissenschaft",
+  "expertise": [
+    "Wissenschaft"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "hochreit@ml.jku.at",
+    "phone": "+43 732 2468 4521"
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:15.017Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,53 +1,29 @@
 {
   "id": "exp287",
-  "personalInfo": {
-    "fullName": "Dr. Julia Schulz",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Deutsches Forschungszentrum für KI",
+  "fachgebiet": "Robotics",
+  "expertise": [
+    "Robotics",
+    "Neural Networks",
+    "Computer Vision"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "julia.schulz@deutsches-forschungszentrum-fuer-ki.de",
-    "phone": "+49 284 47908094",
-    "image": "/experts/julia-schulz.jpg",
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
+    "phone": "+49 284 47908094"
   },
-  "institution": {
-    "name": "Deutsches Forschungszentrum für KI",
-    "department": "Institut für Intelligente Systeme",
-    "position": "Researcher",
-    "location": "Kaiserslautern"
-  },
-  "expertise": {
-    "primary": [
-      "Robotics",
-      "Neural Networks",
-      "Computer Vision"
-    ],
-    "secondary": [
-      "Federated Learning",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Robotics",
-      "Finance",
-      "Energy"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Deutsches Forschungszentrum für KI",
-    "focus": "Forschung in Robotics",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:06.026Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

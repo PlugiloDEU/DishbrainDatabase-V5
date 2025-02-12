@@ -1,0 +1,41 @@
+{
+  "id": "exp134",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Fischer",
+    "title": "Professor für KI und ML",
+    "email": "julia.fischer@rwth-aachen.de",
+    "phone": "+49 791 91336243",
+    "image": "/experts/julia-fischer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Neural Networks",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Security",
+      "AutoML"
+    ],
+    "industries": [
+      "Education",
+      "Finance",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

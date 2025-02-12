@@ -1,0 +1,41 @@
+{
+  "id": "exp177",
+  "personalInfo": {
+    "fullName": "Prof. Laura Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "laura.hoffmann@technische-universitaet-muenchen.de",
+    "phone": "+49 231 94047937",
+    "image": "/experts/laura-hoffmann.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Deep Learning",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Automotive",
+      "Robotics",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

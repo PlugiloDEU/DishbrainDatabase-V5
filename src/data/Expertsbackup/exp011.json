@@ -1,0 +1,41 @@
+{
+  "id": "exp011",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Sophie Koch",
+    "title": "Professor für KI und ML",
+    "email": "sophie.koch@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 662 19251095",
+    "image": "/experts/sophie-koch.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Reinforcement Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Security"
+    ],
+    "industries": [
+      "Education",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

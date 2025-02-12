@@ -1,0 +1,42 @@
+{
+  "id": "exp213",
+  "personalInfo": {
+    "fullName": "Prof. Christian Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "christian.schmidt@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 254 27716070",
+    "image": "/experts/christian-schmidt.jpg",
+    "languages": [
+      "Französisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Deep Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Research",
+      "Finance",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

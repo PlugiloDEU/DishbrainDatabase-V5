@@ -1,0 +1,42 @@
+{
+  "id": "exp055",
+  "personalInfo": {
+    "fullName": "Prof. Martin Weber",
+    "title": "Professor für KI und ML",
+    "email": "martin.weber@technische-universitaet-muenchen.de",
+    "phone": "+49 789 92702564",
+    "image": "/experts/martin-weber.jpg",
+    "languages": [
+      "Französisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Deep Learning",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AutoML",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Finance",
+      "Healthcare",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp500",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Meyer",
+    "title": "Senior AI Researcher",
+    "email": "thomas.meyer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 261 28997484",
+    "image": "/experts/thomas-meyer.jpg",
+    "languages": [
+      "Französisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "AI Ethics",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Healthcare",
+      "Research",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

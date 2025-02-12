@@ -1,0 +1,41 @@
+{
+  "id": "exp419",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Müller",
+    "title": "Professor für KI und ML",
+    "email": "sophie.mueller@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 775 88903979",
+    "image": "/experts/sophie-mueller.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Deep Learning",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Education",
+      "Manufacturing",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

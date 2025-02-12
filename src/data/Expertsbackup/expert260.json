@@ -1,0 +1,42 @@
+{
+  "id": "exp260",
+  "personalInfo": {
+    "fullName": "Prof. Julia Koch",
+    "title": "Professor für KI und ML",
+    "email": "julia.koch@rwth-aachen.de",
+    "phone": "+49 966 87925826",
+    "image": "/experts/julia-koch.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Neural Networks",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Education",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

@@ -1,53 +1,29 @@
 {
   "id": "exp396",
-  "personalInfo": {
-    "fullName": "Dr. Maria Becker",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Natural Language Processing",
+  "expertise": [
+    "Natural Language Processing",
+    "Explainable AI",
+    "Computer Vision"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "maria.becker@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 172 42704598",
-    "image": "/experts/maria-becker.jpg",
-    "languages": [
-      "Französisch",
-      "Englisch"
-    ]
+    "phone": "+49 172 42704598"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "Institut für Künstliche Intelligenz",
-    "position": "Researcher",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Natural Language Processing",
-      "Explainable AI",
-      "Computer Vision"
-    ],
-    "secondary": [
-      "Big Data Analytics",
-      "Edge Computing"
-    ],
-    "industries": [
-      "Research",
-      "Healthcare",
-      "Energy"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in Explainable AI",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:03.002Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,42 @@
+{
+  "id": "exp332",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Schulz",
+    "title": "Professor für KI und ML",
+    "email": "alexander.schulz@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 802 36838086",
+    "image": "/experts/alexander-schulz.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Explainable AI",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

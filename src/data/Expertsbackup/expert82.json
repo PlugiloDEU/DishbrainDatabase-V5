@@ -1,0 +1,41 @@
+{
+  "id": "exp082",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "alexander.schmidt@technische-universitaet-berlin.de",
+    "phone": "+49 538 62657734",
+    "image": "/experts/alexander-schmidt.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Explainable AI",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Robotics",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

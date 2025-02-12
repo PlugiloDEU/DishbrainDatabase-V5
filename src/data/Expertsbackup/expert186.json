@@ -1,0 +1,41 @@
+{
+  "id": "exp186",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Sophie Koch",
+    "title": "Professor für KI und ML",
+    "email": "sophie.koch@fraunhofer-iais.de",
+    "phone": "+49 209 77871657",
+    "image": "/experts/sophie-koch.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Automotive",
+      "Education",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

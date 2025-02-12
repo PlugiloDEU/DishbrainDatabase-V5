@@ -1,0 +1,41 @@
+{
+  "id": "exp252",
+  "personalInfo": {
+    "fullName": "Prof. Maria Meyer",
+    "title": "Professor für KI und ML",
+    "email": "maria.meyer@fraunhofer-iais.de",
+    "phone": "+49 832 41224749",
+    "image": "/experts/maria-meyer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Healthcare",
+      "Research",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

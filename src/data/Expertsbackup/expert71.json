@@ -1,0 +1,42 @@
+{
+  "id": "exp071",
+  "personalInfo": {
+    "fullName": "Prof. Michael Schulz",
+    "title": "Professor für KI und ML",
+    "email": "michael.schulz@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 105 33185756",
+    "image": "/experts/michael-schulz.jpg",
+    "languages": [
+      "Mandarin",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Robotics",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Governance"
+    ],
+    "industries": [
+      "Finance",
+      "Manufacturing",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

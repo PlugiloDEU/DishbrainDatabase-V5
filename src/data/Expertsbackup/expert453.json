@@ -1,0 +1,41 @@
+{
+  "id": "exp453",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Maria Weber",
+    "title": "Professor für KI und ML",
+    "email": "maria.weber@fraunhofer-iais.de",
+    "phone": "+49 787 71980575",
+    "image": "/experts/maria-weber.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Neural Networks",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Security",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

@@ -1,65 +1,28 @@
 {
   "id": "exp244",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Michael",
-    "lastName": "Connor",
-    "fullName": "Michael Connor",
-    "image": "/experts/michael-connor.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Amazon",
-    "position": "Generative AI Product Development",
-    "department": null,
-    "website": "https://www.linkedin.com/in/michael-connor-605256/"
-  },
-  "expertise": {
-    "primary": [
-      "Technologie"
-    ],
-    "secondary": [],
-    "industries": [
-      "Technology"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Generative AI Product Development",
-    "organization": "Amazon",
-    "focus": "Technologie"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/mike-connor-2013/",
-    "company": "https://www.linkedin.com/in/michael-connor-605256/"
-  },
-  "tags": [
-    "Technologie",
-    "Generative AI Product Development"
+  "titel": "",
+  "position": "Generative AI Product Development",
+  "organisation": "Amazon",
+  "fachgebiet": "Technologie",
+  "expertise": [
+    "Technologie"
   ],
-  "source": "Text",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/mike-connor-2013/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.660Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

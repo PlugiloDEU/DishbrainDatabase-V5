@@ -1,0 +1,41 @@
+{
+  "id": "exp408",
+  "personalInfo": {
+    "fullName": "Prof. Julia Meyer",
+    "title": "Professor für KI und ML",
+    "email": "julia.meyer@fraunhofer-iais.de",
+    "phone": "+49 185 20277535",
+    "image": "/experts/julia-meyer.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AutoML"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

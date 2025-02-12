@@ -1,0 +1,41 @@
+{
+  "id": "exp232",
+  "personalInfo": {
+    "fullName": "Prof. Martin Schulz",
+    "title": "Professor für KI und ML",
+    "email": "martin.schulz@technische-universitaet-berlin.de",
+    "phone": "+49 157 59342983",
+    "image": "/experts/martin-schulz.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Explainable AI",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

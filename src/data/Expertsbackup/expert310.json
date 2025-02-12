@@ -1,0 +1,42 @@
+{
+  "id": "exp310",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Laura Müller",
+    "title": "Professor für KI und ML",
+    "email": "laura.mueller@rwth-aachen.de",
+    "phone": "+49 292 74143530",
+    "image": "/experts/laura-mueller.jpg",
+    "languages": [
+      "Englisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Explainable AI",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Security"
+    ],
+    "industries": [
+      "Robotics",
+      "Healthcare",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp086",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Maria Müller",
+    "title": "Professor für KI und ML",
+    "email": "maria.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 736 69926695",
+    "image": "/experts/maria-mueller.jpg",
+    "languages": [
+      "Deutsch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Education",
+      "Finance",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

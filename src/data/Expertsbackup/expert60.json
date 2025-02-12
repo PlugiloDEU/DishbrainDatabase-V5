@@ -1,0 +1,41 @@
+{
+  "id": "exp060",
+  "personalInfo": {
+    "fullName": "Dr. Anna Weber",
+    "title": "Senior AI Researcher",
+    "email": "anna.weber@technische-universitaet-muenchen.de",
+    "phone": "+49 538 50444057",
+    "image": "/experts/anna-weber.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Robotics",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Healthcare",
+      "Finance",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

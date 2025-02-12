@@ -1,0 +1,49 @@
+{
+  "id": "exp000",
+  "personalInfo": {
+    "title": null,
+    "firstName": null,
+    "lastName": null,
+    "fullName": "",
+    "image": "/experts/.jpg",
+    "email": null,
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": null,
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": null,
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": null,
+    "company": null
+  },
+  "tags": [],
+  "source": null,
+  "name": "Test",
+  "last_updated": "2025-02-01T04:57:48.296Z"
+}

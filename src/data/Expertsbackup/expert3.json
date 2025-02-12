@@ -1,0 +1,41 @@
+{
+  "id": "exp003",
+  "personalInfo": {
+    "fullName": "Prof. Maria Schulz",
+    "title": "Professor für KI und ML",
+    "email": "maria.schulz@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 575 17669940",
+    "image": "/experts/maria-schulz.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Robotics",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AutoML",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Automotive",
+      "Finance",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp303",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Schulz",
+    "title": "Professor für KI und ML",
+    "email": "sophie.schulz@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 439 85248420",
+    "image": "/experts/sophie-schulz.jpg",
+    "languages": [
+      "Französisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Reinforcement Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AutoML",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Finance",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

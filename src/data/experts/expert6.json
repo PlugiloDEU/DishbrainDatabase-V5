@@ -1,53 +1,29 @@
 {
   "id": "exp006",
-  "personalInfo": {
-    "fullName": "Dr. Michael Becker",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Karlsruher Institut für Technologie",
+  "fachgebiet": "Reinforcement Learning",
+  "expertise": [
+    "Reinforcement Learning",
+    "Computer Vision",
+    "Quantum AI"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "michael.becker@karlsruher-institut-fuer-technologie.de",
-    "phone": "+49 689 42548051",
-    "image": "/experts/michael-becker.jpg",
-    "languages": [
-      "Mandarin",
-      "Italienisch"
-    ]
+    "phone": "+49 689 42548051"
   },
-  "institution": {
-    "name": "Karlsruher Institut für Technologie",
-    "department": "Institut für Künstliche Intelligenz",
-    "position": "Researcher",
-    "location": "Karlsruhe"
-  },
-  "expertise": {
-    "primary": [
-      "Reinforcement Learning",
-      "Computer Vision",
-      "Quantum AI"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "AI Security"
-    ],
-    "industries": [
-      "Energy",
-      "Finance",
-      "Robotics"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Karlsruher Institut für Technologie",
-    "focus": "Forschung in Computer Vision",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:08.553Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

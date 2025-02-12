@@ -1,0 +1,42 @@
+{
+  "id": "exp146",
+  "personalInfo": {
+    "fullName": "Dr. Martin Becker",
+    "title": "Senior AI Researcher",
+    "email": "martin.becker@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 937 54373959",
+    "image": "/experts/martin-becker.jpg",
+    "languages": [
+      "Englisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

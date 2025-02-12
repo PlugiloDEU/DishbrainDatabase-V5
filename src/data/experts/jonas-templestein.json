@@ -1,60 +1,26 @@
 {
   "id": "exp202",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Jonas",
-    "lastName": "Templestein",
-    "fullName": "Jonas Templestein",
-    "image": "/experts/jonas-templestein.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
+  "titel": "",
+  "position": "AI, Software Development",
+  "organisation": "Nustom",
+  "fachgebiet": "AI, Software Development",
+  "expertise": [],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
-  "institution": {
-    "name": "Nustom",
-    "position": "AI, Software Development",
-    "department": null,
-    "website": "Founder"
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
   },
-  "expertise": {
-    "primary": [],
-    "secondary": [],
-    "industries": []
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/jonashuckestein/"
   },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "AI, Software Development",
-    "organization": "Nustom",
-    "focus": null
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/jonashuckestein/",
-    "company": "Founder"
-  },
-  "tags": [
-    "AI, Software Development"
-  ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -112,8 +78,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:10.269Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

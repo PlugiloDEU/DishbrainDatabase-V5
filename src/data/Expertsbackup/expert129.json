@@ -1,0 +1,41 @@
+{
+  "id": "exp129",
+  "personalInfo": {
+    "fullName": "Prof. Christian Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "christian.schmidt@technische-universitaet-muenchen.de",
+    "phone": "+49 620 98982982",
+    "image": "/experts/christian-schmidt.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Explainable AI",
+      "Robotics"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Education",
+      "Research",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

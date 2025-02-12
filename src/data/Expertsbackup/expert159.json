@@ -1,0 +1,42 @@
+{
+  "id": "exp159",
+  "personalInfo": {
+    "fullName": "Prof. Laura Müller",
+    "title": "Professor für KI und ML",
+    "email": "laura.mueller@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 353 77874129",
+    "image": "/experts/laura-mueller.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Machine Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Robotics",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

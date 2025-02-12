@@ -1,0 +1,41 @@
+{
+  "id": "exp422",
+  "personalInfo": {
+    "fullName": "Dr. Alexander Meyer",
+    "title": "Senior AI Researcher",
+    "email": "alexander.meyer@rwth-aachen.de",
+    "phone": "+49 635 69029080",
+    "image": "/experts/alexander-meyer.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Computer Vision",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AutoML",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

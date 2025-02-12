@@ -1,0 +1,41 @@
+{
+  "id": "exp080",
+  "personalInfo": {
+    "fullName": "Prof. Maria Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "maria.schmidt@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 696 79240449",
+    "image": "/experts/maria-schmidt.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "AI Ethics",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

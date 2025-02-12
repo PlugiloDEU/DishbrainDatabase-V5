@@ -1,0 +1,42 @@
+{
+  "id": "exp114",
+  "personalInfo": {
+    "fullName": "Prof. Anna Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "anna.hoffmann@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 718 99597771",
+    "image": "/experts/anna-hoffmann.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "AI Ethics",
+      "Robotics"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

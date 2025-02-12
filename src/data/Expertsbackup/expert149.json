@@ -1,0 +1,42 @@
+{
+  "id": "exp149",
+  "personalInfo": {
+    "fullName": "Dr. Laura Weber",
+    "title": "Senior AI Researcher",
+    "email": "laura.weber@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 291 61411167",
+    "image": "/experts/laura-weber.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Machine Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

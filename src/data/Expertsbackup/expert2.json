@@ -1,0 +1,42 @@
+{
+  "id": "exp002",
+  "personalInfo": {
+    "fullName": "Dr. Maria Koch",
+    "title": "Senior AI Researcher",
+    "email": "maria.koch@technische-universitaet-muenchen.de",
+    "phone": "+49 274 77299941",
+    "image": "/experts/maria-koch.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "AI Security"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

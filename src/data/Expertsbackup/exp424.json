@@ -1,0 +1,42 @@
+{
+  "id": "exp424",
+  "personalInfo": {
+    "fullName": "Prof. Martin Wagner",
+    "title": "Professor für KI und ML",
+    "email": "martin.wagner@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 912 40065590",
+    "image": "/experts/martin-wagner.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Explainable AI",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AI Governance"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

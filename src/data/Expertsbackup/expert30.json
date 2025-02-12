@@ -1,0 +1,41 @@
+{
+  "id": "exp030",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Thomas Müller",
+    "title": "Professor für KI und ML",
+    "email": "thomas.mueller@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 265 94910815",
+    "image": "/experts/thomas-mueller.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

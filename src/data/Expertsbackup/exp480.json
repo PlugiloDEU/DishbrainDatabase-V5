@@ -1,0 +1,41 @@
+{
+  "id": "exp480",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "thomas.hoffmann@technische-universitaet-berlin.de",
+    "phone": "+49 224 29793788",
+    "image": "/experts/thomas-hoffmann.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Natural Language Processing",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Governance"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

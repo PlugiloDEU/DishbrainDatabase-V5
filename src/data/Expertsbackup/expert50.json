@@ -1,0 +1,42 @@
+{
+  "id": "exp050",
+  "personalInfo": {
+    "fullName": "Prof. Christian Weber",
+    "title": "Professor für KI und ML",
+    "email": "christian.weber@fraunhofer-iais.de",
+    "phone": "+49 206 70219360",
+    "image": "/experts/christian-weber.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Reinforcement Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AutoML"
+    ],
+    "industries": [
+      "Healthcare",
+      "Robotics",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

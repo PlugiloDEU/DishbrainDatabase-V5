@@ -1,53 +1,29 @@
 {
   "id": "exp466",
-  "personalInfo": {
-    "fullName": "PD Dr. Anna Weber",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Technische Universität München",
+  "fachgebiet": "Robotics",
+  "expertise": [
+    "Robotics",
+    "AI Ethics",
+    "Computer Vision"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "anna.weber@technische-universitaet-muenchen.de",
-    "phone": "+49 205 71900309",
-    "image": "/experts/anna-weber.jpg",
-    "languages": [
-      "Mandarin",
-      "Deutsch"
-    ]
+    "phone": "+49 205 71900309"
   },
-  "institution": {
-    "name": "Technische Universität München",
-    "department": "Institut für Intelligente Systeme",
-    "position": "Researcher",
-    "location": "München"
-  },
-  "expertise": {
-    "primary": [
-      "Robotics",
-      "AI Ethics",
-      "Computer Vision"
-    ],
-    "secondary": [
-      "AutoML",
-      "AI Security"
-    ],
-    "industries": [
-      "Finance",
-      "Robotics",
-      "Automotive"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Technische Universität München",
-    "focus": "Forschung in Robotics",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:03.537Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

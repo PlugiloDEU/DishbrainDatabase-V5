@@ -1,67 +1,24 @@
 {
   "id": "exp281",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Andreas",
-    "lastName": "Preisser",
-    "fullName": "Andreas Preisser",
-    "image": "/experts/andreas-preisser.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Keine spezifische Rolle genannt",
-    "department": null,
-    "website": "https://www.bayern-innovativ.de/de/kontakt/andreas-preisser"
-  },
-  "expertise": {
-    "primary": [
-      "Innovation"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Keine spezifische Rolle genannt",
-    "organization": null,
-    "focus": "Innovation"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/andreas-preisser/",
-    "company": "https://www.bayern-innovativ.de/de/kontakt/andreas-preisser"
-  },
-  "tags": [
-    "Innovation",
-    "Keine spezifische Rolle genannt"
+  "titel": "",
+  "position": "Keine spezifische Rolle genannt",
+  "organisation": null,
+  "fachgebiet": "Innovation",
+  "expertise": [
+    "Innovation"
   ],
-  "source": "Text",
-  "experience": [],
   "education": [],
-  "skills": [],
-  "lastEnriched": "2025-01-17T09:21:44.581Z",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
   },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/andreas-preisser/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -119,8 +76,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:55.888Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

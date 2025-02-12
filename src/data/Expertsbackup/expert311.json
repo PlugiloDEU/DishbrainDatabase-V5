@@ -1,0 +1,41 @@
+{
+  "id": "exp311",
+  "personalInfo": {
+    "fullName": "PD Dr. Maria Meyer",
+    "title": "Senior AI Researcher",
+    "email": "maria.meyer@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 966 66733030",
+    "image": "/experts/maria-meyer.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

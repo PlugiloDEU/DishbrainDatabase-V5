@@ -1,0 +1,41 @@
+{
+  "id": "exp041",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Thomas Koch",
+    "title": "Professor für KI und ML",
+    "email": "thomas.koch@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 659 83564023",
+    "image": "/experts/thomas-koch.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Automotive",
+      "Finance",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

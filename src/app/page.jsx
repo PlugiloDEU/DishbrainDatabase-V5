@@ -216,17 +216,30 @@ const getImageUrl = (expert) => {
   return DEFAULT_AVATAR;
 };
 
+// Update the getDisplayName helper function
+const getDisplayName = (expert) => {
+  if (expert.fullName) return expert.fullName;
+  if (expert.name) return expert.name;
+  if (expert.firstName && expert.lastName) return `${expert.firstName} ${expert.lastName}`;
+  if (expert.personalInfo?.fullName) return expert.personalInfo.fullName;
+  if (expert.personalInfo?.name) return expert.personalInfo.name;
+  if (expert.personalInfo?.firstName && expert.personalInfo?.lastName) {
+    return `${expert.personalInfo.firstName} ${expert.personalInfo.lastName}`;
+  }
+  return 'Unnamed Expert';
+};
+
 const renderExpertCard = (expert, setSelectedExpert) => (
   <motion.div
     whileHover={{ scale: 1.02 }}
     className="bg-gradient-to-br from-gray-900 to-black rounded-xl p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg transform transition-all duration-300 hover:shadow-xl hover:border-blue-500/30"
   >
     <div className="flex items-start space-x-4">
-      {/* Expert Image - Updated with new image handling */}
+      {/* Expert Image */}
       <div className="relative w-24 h-24 flex-shrink-0">
         <img
           src={getImageUrl(expert)}
-          alt={expert.name}
+          alt={getDisplayName(expert)}
           className="w-full h-full object-cover rounded-lg ring-2 ring-blue-500/20 shadow-lg"
           onError={(e) => {
             e.target.onerror = null;
@@ -244,7 +257,7 @@ const renderExpertCard = (expert, setSelectedExpert) => (
       {/* Expert Info */}
       <div className="flex-1 min-w-0">
         <h3 className="text-lg font-semibold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent">
-          {expert.name}
+          {getDisplayName(expert)}
         </h3>
         <p className="text-sm text-gray-400 mt-1">{expert.position}</p>
         <p className="text-sm text-gray-500">{expert.organisation}</p>
@@ -385,6 +398,7 @@ const Page = () => {
   const [showAdvancedCompanySearch, setShowAdvancedCompanySearch] = useState(false);
   const [showAddCompanyPopup, setShowAddCompanyPopup] = useState(false);
   const [selectedCompany, setSelectedCompany] = useState(null);
+  const [isLoading, setIsLoading] = useState(false);
 
   const menuItems = [
     { id: 'dashboard', label: 'Dashboard', icon: 'fas fa-chart-line' },
@@ -440,9 +454,114 @@ const Page = () => {
     [handleGeneralSearch]
   );
 
+  // Add this function to handle Tavily API calls
+  const searchTavily = async (query) => {
+    const response = await fetch('https://api.tavily.com/search', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'api-key': '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'
+      },
+      body: JSON.stringify({
+        query: query,
+        search_depth: "advanced",
+        include_domains: ["linkedin.com", "github.com", "scholar.google.com", "researchgate.net"],
+        max_results: 10
+      })
+    });
+
+    if (!response.ok) {
+      throw new Error('Failed to fetch from Tavily');
+    }
+
+    return response.json();
+  };
+
+  // Update the handleEnrichment function
   const handleEnrichment = async () => {
-    // Add your AI enrichment logic here
-    console.log("Running AI enrichment...");
+    try {
+      setIsLoading(true);
+      toast.loading('Suche nach zusätzlichen Informationen...');
+
+      // Get selected or filtered experts
+      const expertsToEnrich = selectedExpert ? [selectedExpert] : filteredExperts;
+
+      // Enrich each expert
+      for (const expert of expertsToEnrich) {
+        const searchQuery = `${getDisplayName(expert)} ${expert.position} ${expert.organisation} AI expert`;
+        
+        const response = await searchTavily(searchQuery);
+
+        // Process and update expert data with new information
+        if (response && response.results) {
+          const enrichedData = processSearchResults(response.results, expert);
+          // Update expert data
+          const updatedExpert = {
+            ...expert,
+            ...enrichedData
+          };
+          
+          // Update experts list
+          setExperts(prevExperts => 
+            prevExperts.map(e => e.id === expert.id ? updatedExpert : e)
+          );
+        }
+      }
+
+      toast.dismiss();
+      toast.success('Experten erfolgreich angereichert!');
+    } catch (error) {
+      console.error('Enrichment error:', error);
+      toast.dismiss();
+      toast.error('Fehler bei der Anreicherung: ' + error.message);
+    } finally {
+      setIsLoading(false);
+    }
+  };
+
+  // Helper function to process search results
+  const processSearchResults = (results, expert) => {
+    const enrichedData = {
+      sources: expert.sources || [],
+      expertise: new Set(expert.expertise || []),
+      projects: expert.projects || [],
+      publications: expert.publications || []
+    };
+
+    results.forEach(result => {
+      // Add as a source
+      enrichedData.sources.push({
+        url: result.url,
+        title: result.title,
+        type: 'tavily_search',
+        date_accessed: new Date().toISOString(),
+        verified: true
+      });
+
+      // Extract potential expertise from content
+      const content = result.content.toLowerCase();
+      const expertiseKeywords = [
+        'specialist in', 'expert in', 'focuses on', 
+        'specializes in', 'research interests include'
+      ];
+
+      expertiseKeywords.forEach(keyword => {
+        const index = content.indexOf(keyword);
+        if (index !== -1) {
+          const relevantText = content.slice(index + keyword.length, index + 100);
+          const expertise = relevantText.split(/[.,;]/)[0].trim();
+          if (expertise.length > 3) {
+            enrichedData.expertise.add(expertise);
+          }
+        }
+      });
+    });
+
+    return {
+      ...expert,
+      expertise: Array.from(enrichedData.expertise),
+      sources: enrichedData.sources
+    };
   };
 
   const handlePageChange = (pageNumber) => {
@@ -528,48 +647,17 @@ const Page = () => {
     }
   };
 
-  const handleExpertUpdate = async (updatedExpert) => {
-    try {
-      toast.loading('Aktualisiere Experten...', { id: 'updateExpert' });
-
-      const response = await fetch('/api/experts', {
-        method: 'PUT',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify({
-          ...updatedExpert,
-          personalInfo: {
-            ...updatedExpert.personalInfo,
-            imageUrl: updatedExpert.personalInfo?.imageUrl // Ensure imageUrl is included
-          }
-        }),
-      });
-
-      if (!response.ok) {
-        const error = await response.json();
-        throw new Error(error.error || 'Failed to update expert');
-      }
-
-      // Update the experts list with the new data
-      setExperts(prevExperts => 
-        prevExperts.map(expert => 
-          expert.id === updatedExpert.id ? updatedExpert : expert
-        )
-      );
-      setFilteredExperts(prevExperts => 
-        prevExperts.map(expert => 
-          expert.id === updatedExpert.id ? updatedExpert : expert
-        )
-      );
-      
-      // Update the selected expert
+  const handleExpertUpdate = (updatedExpert) => {
+    setExperts(prevExperts => 
+      prevExperts.map(e => e.id === updatedExpert.id ? updatedExpert : e)
+    );
+    
+    setFilteredExperts(prev => 
+      prev.map(e => e.id === updatedExpert.id ? updatedExpert : e)
+    );
+    
+    if (selectedExpert?.id === updatedExpert.id) {
       setSelectedExpert(updatedExpert);
-
-      toast.success('Experte wurde aktualisiert', { id: 'updateExpert' });
-    } catch (error) {
-      console.error('Error updating expert:', error);
-      toast.error(error.message || 'Fehler beim Aktualisieren', { id: 'updateExpert' });
     }
   };
 
@@ -733,9 +821,14 @@ const Page = () => {
                     <li>Publications added: 12</li>
                   </ul>
                 </div>
-                <Component3DButtonDesign onClick={() => handleEnrichment()}>
-                  Run AI Enrichment
-                </Component3DButtonDesign>
+                <button
+                  onClick={handleEnrichment}
+                  disabled={isLoading}
+                  className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
+                >
+                  <i className={`fas ${isLoading ? 'fa-spinner fa-spin' : 'fa-magic'}`}></i>
+                  {isLoading ? 'Wird angereichert...' : 'KI Anreicherung'}
+                </button>
               </div>
             </div>
 
@@ -938,10 +1031,11 @@ const Page = () => {
                   </button>
                   <button
                     onClick={handleEnrichment}
-                    className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors flex items-center gap-2"
+                    disabled={isLoading}
+                    className="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors flex items-center gap-2 disabled:opacity-50 disabled:cursor-not-allowed"
                   >
-                    <i className="fas fa-magic"></i>
-                    KI Anreicherung
+                    <i className={`fas ${isLoading ? 'fa-spinner fa-spin' : 'fa-magic'}`}></i>
+                    {isLoading ? 'Wird angereichert...' : 'KI Anreicherung'}
                   </button>
                 </div>
               </div>

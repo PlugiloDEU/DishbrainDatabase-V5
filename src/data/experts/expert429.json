@@ -1,53 +1,29 @@
 {
   "id": "exp429",
-  "personalInfo": {
-    "fullName": "Prof. Alexander Schulz",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Ludwig-Maximilians-Universität München",
+  "fachgebiet": "Machine Learning",
+  "expertise": [
+    "Machine Learning",
+    "Deep Learning",
+    "Robotics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "alexander.schulz@ludwig-maximilians-universitaet-muenchen.de",
-    "phone": "+49 797 97971004",
-    "image": "/experts/alexander-schulz.jpg",
-    "languages": [
-      "Mandarin",
-      "Deutsch"
-    ]
+    "phone": "+49 797 97971004"
   },
-  "institution": {
-    "name": "Ludwig-Maximilians-Universität München",
-    "department": "Institut für Künstliche Intelligenz",
-    "position": "Professor",
-    "location": "München"
-  },
-  "expertise": {
-    "primary": [
-      "Machine Learning",
-      "Deep Learning",
-      "Robotics"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "AI Security"
-    ],
-    "industries": [
-      "Automotive",
-      "Robotics",
-      "Healthcare"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Ludwig-Maximilians-Universität München",
-    "focus": "Forschung in Deep Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:08.166Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

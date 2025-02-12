@@ -1,53 +1,29 @@
 {
   "id": "exp091",
-  "personalInfo": {
-    "fullName": "Prof. Alexander Koch",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Karlsruher Institut für Technologie",
+  "fachgebiet": "AI Ethics",
+  "expertise": [
+    "AI Ethics",
+    "Neural Networks",
+    "Computer Vision"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "alexander.koch@karlsruher-institut-fuer-technologie.de",
-    "phone": "+49 727 20392157",
-    "image": "/experts/alexander-koch.jpg",
-    "languages": [
-      "Italienisch",
-      "Mandarin"
-    ]
+    "phone": "+49 727 20392157"
   },
-  "institution": {
-    "name": "Karlsruher Institut für Technologie",
-    "department": "Institut für Intelligente Systeme",
-    "position": "Professor",
-    "location": "Karlsruhe"
-  },
-  "expertise": {
-    "primary": [
-      "AI Ethics",
-      "Neural Networks",
-      "Computer Vision"
-    ],
-    "secondary": [
-      "Federated Learning",
-      "Human-AI Interaction"
-    ],
-    "industries": [
-      "Robotics",
-      "Healthcare",
-      "Energy"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Karlsruher Institut für Technologie",
-    "focus": "Forschung in Computer Vision",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:09.046Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

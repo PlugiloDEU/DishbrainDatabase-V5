@@ -1,0 +1,42 @@
+{
+  "id": "exp191",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Wagner",
+    "title": "Professor für KI und ML",
+    "email": "julia.wagner@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 274 53430735",
+    "image": "/experts/julia-wagner.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

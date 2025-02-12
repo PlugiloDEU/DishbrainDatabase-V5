@@ -1,0 +1,42 @@
+{
+  "id": "exp447",
+  "personalInfo": {
+    "fullName": "Prof. Laura Fischer",
+    "title": "Professor für KI und ML",
+    "email": "laura.fischer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 902 97771145",
+    "image": "/experts/laura-fischer.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Quantum AI",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "AutoML",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Robotics",
+      "Education",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

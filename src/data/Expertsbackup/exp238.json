@@ -1,0 +1,42 @@
+{
+  "id": "exp238",
+  "personalInfo": {
+    "fullName": "Dr. Anna Fischer",
+    "title": "Senior AI Researcher",
+    "email": "anna.fischer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 322 51394274",
+    "image": "/experts/anna-fischer.jpg",
+    "languages": [
+      "Deutsch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Robotics",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "AI Security",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Education",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

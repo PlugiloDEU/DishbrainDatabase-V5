@@ -1,0 +1,42 @@
+{
+  "id": "exp250",
+  "personalInfo": {
+    "fullName": "Prof. Maria Becker",
+    "title": "Professor für KI und ML",
+    "email": "maria.becker@fraunhofer-iais.de",
+    "phone": "+49 907 18748491",
+    "image": "/experts/maria-becker.jpg",
+    "languages": [
+      "Englisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "AI Ethics",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AI Security"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

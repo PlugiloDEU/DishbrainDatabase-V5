@@ -1,0 +1,42 @@
+{
+  "id": "exp237",
+  "personalInfo": {
+    "fullName": "Prof. Anna Müller",
+    "title": "Professor für KI und ML",
+    "email": "anna.mueller@technische-universitaet-berlin.de",
+    "phone": "+49 788 15339982",
+    "image": "/experts/anna-mueller.jpg",
+    "languages": [
+      "Spanisch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

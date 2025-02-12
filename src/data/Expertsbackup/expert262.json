@@ -1,0 +1,41 @@
+{
+  "id": "exp262",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Anna Müller",
+    "title": "Professor für KI und ML",
+    "email": "anna.mueller@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 614 18755150",
+    "image": "/experts/anna-mueller.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "AutoML",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Research",
+      "Finance",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

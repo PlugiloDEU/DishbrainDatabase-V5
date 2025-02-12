@@ -1,0 +1,42 @@
+{
+  "id": "exp487",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Müller",
+    "title": "Professor für KI und ML",
+    "email": "julia.mueller@rwth-aachen.de",
+    "phone": "+49 556 72351051",
+    "image": "/experts/julia-mueller.jpg",
+    "languages": [
+      "Mandarin",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Reinforcement Learning",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

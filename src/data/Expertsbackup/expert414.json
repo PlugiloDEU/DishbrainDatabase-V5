@@ -1,0 +1,42 @@
+{
+  "id": "exp414",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Weber",
+    "title": "Professor für KI und ML",
+    "email": "sophie.weber@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 808 64697692",
+    "image": "/experts/sophie-weber.jpg",
+    "languages": [
+      "Französisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Quantum AI",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "AutoML",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Robotics",
+      "Manufacturing",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

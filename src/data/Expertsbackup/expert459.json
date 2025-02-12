@@ -1,0 +1,42 @@
+{
+  "id": "exp459",
+  "personalInfo": {
+    "fullName": "Dr. Anna Fischer",
+    "title": "Senior AI Researcher",
+    "email": "anna.fischer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 212 39491154",
+    "image": "/experts/anna-fischer.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Neural Networks",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Security"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp340",
+  "personalInfo": {
+    "fullName": "Prof. Maria Koch",
+    "title": "Professor für KI und ML",
+    "email": "maria.koch@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 447 99677885",
+    "image": "/experts/maria-koch.jpg",
+    "languages": [
+      "Mandarin",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Automotive",
+      "Healthcare",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

@@ -1,65 +1,28 @@
 {
   "id": "exp278",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Hendrik",
-    "lastName": "Reese",
-    "fullName": "Hendrik Reese",
-    "image": "/experts/hendrik-reese.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "PwC",
-    "position": "Partner",
-    "department": null,
-    "website": "https://www.pwc.de/de/contacts/h/hendrik-reese.html"
-  },
-  "expertise": {
-    "primary": [
-      "KI und Unternehmensberatung"
-    ],
-    "secondary": [],
-    "industries": [
-      "AI"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Partner",
-    "organization": "PwC",
-    "focus": "KI und Unternehmensberatung"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/hendrik-reese/",
-    "company": "https://www.pwc.de/de/contacts/h/hendrik-reese.html"
-  },
-  "tags": [
-    "KI und Unternehmensberatung",
-    "Partner"
+  "titel": "",
+  "position": "Partner",
+  "organisation": "PwC",
+  "fachgebiet": "KI und Unternehmensberatung",
+  "expertise": [
+    "KI und Unternehmensberatung"
   ],
-  "source": "Text",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/hendrik-reese/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:09.965Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

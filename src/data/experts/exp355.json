@@ -1,52 +1,29 @@
 {
   "id": "exp355",
-  "personalInfo": {
-    "fullName": "Prof. Alexander Fischer",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Karlsruher Institut für Technologie",
+  "fachgebiet": "Neural Networks",
+  "expertise": [
+    "Neural Networks",
+    "Quantum AI",
+    "Reinforcement Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "alexander.fischer@karlsruher-institut-fuer-technologie.de",
-    "phone": "+49 901 23221567",
-    "image": "/experts/alexander-fischer.jpg",
-    "languages": [
-      "Italienisch"
-    ]
+    "phone": "+49 901 23221567"
   },
-  "institution": {
-    "name": "Karlsruher Institut für Technologie",
-    "department": "Machine Learning Lab",
-    "position": "Professor",
-    "location": "Karlsruhe"
-  },
-  "expertise": {
-    "primary": [
-      "Neural Networks",
-      "Quantum AI",
-      "Reinforcement Learning"
-    ],
-    "secondary": [
-      "Edge Computing",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Research",
-      "Automotive",
-      "Manufacturing"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Karlsruher Institut für Technologie",
-    "focus": "Forschung in Quantum AI",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:02.698Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

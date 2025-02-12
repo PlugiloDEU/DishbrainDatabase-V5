@@ -1,0 +1,41 @@
+{
+  "id": "exp162",
+  "personalInfo": {
+    "fullName": "Prof. Maria Schulz",
+    "title": "Professor für KI und ML",
+    "email": "maria.schulz@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 133 95867521",
+    "image": "/experts/maria-schulz.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Governance"
+    ],
+    "industries": [
+      "Finance",
+      "Healthcare",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

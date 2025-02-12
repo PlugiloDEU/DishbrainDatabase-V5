@@ -1,63 +1,28 @@
 {
   "id": "exp112",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Gary",
-    "lastName": "Vaynerchuck",
-    "fullName": "Gary Vaynerchuck",
-    "image": "/experts/gary-vaynerchuck.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Special Guest",
-    "department": null,
-    "website": "ogcon.de"
-  },
-  "expertise": {
-    "primary": [
-      "Special Event"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Special Guest",
-    "organization": null,
-    "focus": "Special Event"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "ogcon.de"
-  },
-  "tags": [
-    "Special Event",
-    "Special Guest"
+  "titel": "",
+  "position": "Special Guest",
+  "organisation": null,
+  "fachgebiet": "Special Event",
+  "expertise": [
+    "Special Event"
   ],
-  "source": "ogcon.de",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:09.939Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

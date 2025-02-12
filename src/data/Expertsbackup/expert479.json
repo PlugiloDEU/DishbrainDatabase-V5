@@ -1,0 +1,41 @@
+{
+  "id": "exp479",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Fischer",
+    "title": "Professor für KI und ML",
+    "email": "christian.fischer@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 487 70033968",
+    "image": "/experts/christian-fischer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "AI Security",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp305",
+  "personalInfo": {
+    "fullName": "Prof. Maria Fischer",
+    "title": "Professor für KI und ML",
+    "email": "maria.fischer@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 741 67437782",
+    "image": "/experts/maria-fischer.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Computer Vision",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

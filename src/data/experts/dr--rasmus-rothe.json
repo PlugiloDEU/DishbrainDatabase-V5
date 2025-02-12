@@ -1,65 +1,30 @@
 {
   "id": "exp360",
-  "personalInfo": {
-    "title": "Dr.",
-    "firstName": "Rasmus",
-    "lastName": "Rothe",
-    "fullName": "Dr. Rasmus Rothe",
-    "image": "/experts/dr--rasmus-rothe.jpg",
-    "email": "https://docs.google.com/document/d/1Jcrh3V400tCtRms0JM-2K1iejAN2Qa8s/edit",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Merantix AG, AI Campus Berlin",
-    "position": "Gründer, Co-Founder",
-    "department": null,
-    "website": "https://www.merantix.com/, https://www.ai-campus.org/"
-  },
-  "expertise": {
-    "primary": [
-      "Unternehmenssprecher",
-      "Zukunftsforscher"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Gründer, Co-Founder",
-    "organization": "Merantix AG, AI Campus Berlin",
-    "focus": "Unternehmenssprecher, Zukunftsforscher"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.merantix.com/, https://www.ai-campus.org/"
-  },
-  "tags": [
+  "titel": "Dr.",
+  "position": "Gründer, Co-Founder",
+  "organisation": "Merantix AG, AI Campus Berlin",
+  "fachgebiet": "Unternehmenssprecher",
+  "expertise": [
     "Unternehmenssprecher",
-    "Zukunftsforscher",
-    "Gründer, Co-Founder"
+    "Zukunftsforscher"
   ],
-  "source": "https://riseof.ai/conference-2024/",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://docs.google.com/document/d/1Jcrh3V400tCtRms0JM-2K1iejAN2Qa8s/edit",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +82,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:58.533Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

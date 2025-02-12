@@ -1,0 +1,42 @@
+{
+  "id": "exp099",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Becker",
+    "title": "Professor für KI und ML",
+    "email": "christian.becker@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 216 26595349",
+    "image": "/experts/christian-becker.jpg",
+    "languages": [
+      "Deutsch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Explainable AI",
+      "Robotics"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Manufacturing",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

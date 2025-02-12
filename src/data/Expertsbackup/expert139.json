@@ -1,0 +1,42 @@
+{
+  "id": "exp139",
+  "personalInfo": {
+    "fullName": "Prof. Anna Koch",
+    "title": "Professor für KI und ML",
+    "email": "anna.koch@technische-universitaet-berlin.de",
+    "phone": "+49 983 50958101",
+    "image": "/experts/anna-koch.jpg",
+    "languages": [
+      "Französisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "AI Ethics",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Automotive",
+      "Robotics",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

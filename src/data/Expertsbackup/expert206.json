@@ -1,0 +1,42 @@
+{
+  "id": "exp206",
+  "personalInfo": {
+    "fullName": "Prof. Anna Meyer",
+    "title": "Professor für KI und ML",
+    "email": "anna.meyer@fraunhofer-iais.de",
+    "phone": "+49 678 18928342",
+    "image": "/experts/anna-meyer.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AI Security"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

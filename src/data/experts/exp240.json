@@ -1,65 +1,28 @@
 {
   "id": "exp240",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Yannik",
-    "lastName": "Sturm",
-    "fullName": "Yannik Sturm",
-    "image": "/experts/yannik-sturm.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Teamlead Creative",
-    "department": null,
-    "website": "Nicht verfügbar"
-  },
-  "expertise": {
-    "primary": [
-      "Kreative KI"
-    ],
-    "secondary": [],
-    "industries": [
-      "AI"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Teamlead Creative",
-    "organization": null,
-    "focus": "Kreative KI"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "Nicht verfügbar"
-  },
-  "tags": [
-    "Kreative KI",
-    "Teamlead Creative"
+  "titel": "",
+  "position": "Teamlead Creative",
+  "organisation": null,
+  "fachgebiet": "Kreative KI",
+  "expertise": [
+    "Kreative KI"
   ],
-  "source": "Text",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.633Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

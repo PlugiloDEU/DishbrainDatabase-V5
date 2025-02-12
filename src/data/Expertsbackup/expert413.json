@@ -1,0 +1,41 @@
+{
+  "id": "exp413",
+  "personalInfo": {
+    "fullName": "Prof. Martin Fischer",
+    "title": "Professor für KI und ML",
+    "email": "martin.fischer@fraunhofer-iais.de",
+    "phone": "+49 803 70698971",
+    "image": "/experts/martin-fischer.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Machine Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Security"
+    ],
+    "industries": [
+      "Automotive",
+      "Healthcare",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

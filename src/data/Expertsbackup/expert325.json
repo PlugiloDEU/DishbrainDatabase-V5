@@ -1,0 +1,42 @@
+{
+  "id": "exp325",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Anna Fischer",
+    "title": "Professor für KI und ML",
+    "email": "anna.fischer@fraunhofer-iais.de",
+    "phone": "+49 462 58988239",
+    "image": "/experts/anna-fischer.jpg",
+    "languages": [
+      "Mandarin",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Energy",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

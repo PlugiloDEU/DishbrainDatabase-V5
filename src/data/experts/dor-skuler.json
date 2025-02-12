@@ -1,68 +1,29 @@
 {
   "id": "exp092",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Dor",
-    "lastName": "Skuler",
-    "fullName": "Dor Skuler",
-    "image": "/experts/dor-skuler.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Intuition Robotics",
-    "position": "CEO und Mitbegründer",
-    "department": null,
-    "website": "intuitionrobotics.com"
-  },
-  "expertise": {
-    "primary": [
-      "Künstliche Intelligenz",
-      "Technologie"
-    ],
-    "secondary": [],
-    "industries": [
-      "AI",
-      "Technology"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "CEO und Mitbegründer",
-    "organization": "Intuition Robotics",
-    "focus": "Künstliche Intelligenz, Technologie"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "intuitionrobotics.com"
-  },
-  "tags": [
+  "titel": "",
+  "position": "CEO und Mitbegründer",
+  "organisation": "Intuition Robotics",
+  "fachgebiet": "Künstliche Intelligenz",
+  "expertise": [
     "Künstliche Intelligenz",
-    "Technologie",
-    "CEO und Mitbegründer"
+    "Technologie"
   ],
-  "source": "https://www.unite.ai/de/Dor-Skuler%2C-CEO-und-Mitbegr%C3%BCnder-der-Interviewreihe-Intuition-Robotics/",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -120,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:57.883Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

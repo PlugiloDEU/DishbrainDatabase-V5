@@ -1,0 +1,42 @@
+{
+  "id": "exp324",
+  "personalInfo": {
+    "fullName": "Dr. Maria Meyer",
+    "title": "Senior AI Researcher",
+    "email": "maria.meyer@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 952 53435794",
+    "image": "/experts/maria-meyer.jpg",
+    "languages": [
+      "Italienisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Robotics",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AutoML",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

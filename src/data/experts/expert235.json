@@ -1,52 +1,29 @@
 {
   "id": "exp235",
-  "personalInfo": {
-    "fullName": "Dr. Julia Schmidt",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Ludwig-Maximilians-Universität München",
+  "fachgebiet": "Robotics",
+  "expertise": [
+    "Robotics",
+    "Neural Networks",
+    "Explainable AI"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "julia.schmidt@ludwig-maximilians-universitaet-muenchen.de",
-    "phone": "+49 952 30303856",
-    "image": "/experts/julia-schmidt.jpg",
-    "languages": [
-      "Deutsch"
-    ]
+    "phone": "+49 952 30303856"
   },
-  "institution": {
-    "name": "Ludwig-Maximilians-Universität München",
-    "department": "AI Research Center",
-    "position": "Researcher",
-    "location": "München"
-  },
-  "expertise": {
-    "primary": [
-      "Robotics",
-      "Neural Networks",
-      "Explainable AI"
-    ],
-    "secondary": [
-      "Knowledge Graphs",
-      "AutoML"
-    ],
-    "industries": [
-      "Healthcare",
-      "Automotive",
-      "Education"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Ludwig-Maximilians-Universität München",
-    "focus": "Forschung in Robotics",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:05.412Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

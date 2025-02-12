@@ -1,52 +1,29 @@
 {
   "id": "exp089",
-  "personalInfo": {
-    "fullName": "Prof. Dr. Julia Hoffmann",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Technische Universität Berlin",
+  "fachgebiet": "Neural Networks",
+  "expertise": [
+    "Neural Networks",
+    "Reinforcement Learning",
+    "AI Ethics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "julia.hoffmann@technische-universitaet-berlin.de",
-    "phone": "+49 493 65945100",
-    "image": "/experts/julia-hoffmann.jpg",
-    "languages": [
-      "Französisch"
-    ]
+    "phone": "+49 493 65945100"
   },
-  "institution": {
-    "name": "Technische Universität Berlin",
-    "department": "Institut für Intelligente Systeme",
-    "position": "Professor",
-    "location": "Berlin"
-  },
-  "expertise": {
-    "primary": [
-      "Neural Networks",
-      "Reinforcement Learning",
-      "AI Ethics"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "AI Security"
-    ],
-    "industries": [
-      "Education",
-      "Manufacturing",
-      "Finance"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Technische Universität Berlin",
-    "focus": "Forschung in AI Ethics",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:08.846Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

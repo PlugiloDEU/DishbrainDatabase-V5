@@ -1,0 +1,42 @@
+{
+  "id": "exp322",
+  "personalInfo": {
+    "fullName": "Prof. Laura Meyer",
+    "title": "Professor für KI und ML",
+    "email": "laura.meyer@technische-universitaet-berlin.de",
+    "phone": "+49 889 35792686",
+    "image": "/experts/laura-meyer.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AI Security"
+    ],
+    "industries": [
+      "Education",
+      "Energy",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

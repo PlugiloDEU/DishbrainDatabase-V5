@@ -1,0 +1,41 @@
+{
+  "id": "exp223",
+  "personalInfo": {
+    "fullName": "Prof. Michael Koch",
+    "title": "Professor für KI und ML",
+    "email": "michael.koch@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 488 53402291",
+    "image": "/experts/michael-koch.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Quantum AI",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

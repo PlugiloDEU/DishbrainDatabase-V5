@@ -1,0 +1,42 @@
+{
+  "id": "exp367",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Laura Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "laura.schmidt@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 951 84866653",
+    "image": "/experts/laura-schmidt.jpg",
+    "languages": [
+      "Deutsch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Reinforcement Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

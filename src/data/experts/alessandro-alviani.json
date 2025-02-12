@@ -1,35 +1,34 @@
 {
   "id": "alessandro-alviani",
-  "name": "Alessandro Alviani",
+  "name": "Dr. Alessandro Alviani",
   "titel": "Dr.",
   "fullName": "Dr. Alessandro Alviani",
-  "position": "Head of AI Ethics & Governance",
-  "organisation": "BMW Group",
+  "position": "Lead for Generative AI",
+  "organisation": "Süddeutsche Zeitung Digitale Medien",
   "fachgebiet": "KI-Ethik und Governance",
   "dateOfBirth": "1985-06-15",
   "nationality": "Italian",
   "expertise": [
-    "KI-Ethik",
-    "AI Governance",
-    "Digitale Ethik",
-    "Automotive AI",
-    "Nachhaltige KI-Entwicklung"
+    "KI in Medien",
+    "Natural Language Processing",
+    "Generative AI",
+    "Journalismus",
+    "Datenanalyse",
+    "Machine Learning",
+    "Produktentwicklung",
+    "Misinformation Bekämpfung"
   ],
   "education": {
     "fields": [
-      "Philosophy",
-      "Ethics",
-      "Technology Management"
+      "Data Science",
+      "Journalism",
+      "Computer Science"
     ],
     "universities": [
-      "University of Milan",
-      "Technical University of Munich",
-      "Harvard University"
+      "City, University of London"
     ],
     "degrees": [
-      "Ph.D. in Philosophy",
-      "M.A. in Ethics",
-      "M.Sc. in Technology Management"
+      "MSc in Data Science"
     ]
   },
   "academicPositions": [
@@ -46,39 +45,10 @@
       "additionalRole": "Center for Ethics"
     }
   ],
-  "projects": [
-    {
-      "name": "Ethical AI Framework for Autonomous Driving",
-      "start_date": "2022",
-      "status": "ongoing",
-      "description": "Leading the development of BMW's ethical framework for autonomous driving systems, ensuring responsible AI implementation in mobility.",
-      "url": "https://www.bmwgroup.com/ai-ethics"
-    },
-    {
-      "name": "Sustainable AI Initiative",
-      "start_date": "2023",
-      "status": "ongoing",
-      "description": "Spearheading an initiative to reduce the environmental impact of AI systems while maintaining performance and ethical standards.",
-      "url": "https://www.bmwgroup.com/sustainability"
-    }
-  ],
   "kontakt": {
-    "email": "alessandro.alviani@bmw.de",
-    "phone": "+49 89 382 0",
-    "website": "https://www.bmwgroup.com/ai-ethics",
-    "address": {
-      "institution": "BMW Group",
-      "department": "AI Ethics & Governance",
-      "country": "Germany"
-    },
-    "officeHours": {
-      "monday-friday": "9:00-17:00"
-    }
+    "email": "alessandro.alviani@bmw.de"
   },
-  "social_media": {
-    "linkedin": "https://www.linkedin.com/in/alessandro-alviani",
-    "twitter": "https://twitter.com/aalviani"
-  },
+  "social_media": {},
   "standort": "München, Deutschland",
   "selectedPublications": [
     {
@@ -109,6 +79,11 @@
     }
   ],
   "awards": [
+    {
+      "name": "Department of Computer Science Best Internship Student Prize",
+      "institution": "City, University of London",
+      "year": "2023"
+    },
     {
       "name": "BMW Innovation Award",
       "year": 2023,
@@ -183,6 +158,28 @@
         "verified": true,
         "last_checked": "2024-02-05"
       }
+    },
+    "profile": {
+      "url": "https://www.journalismfestival.com/speaker/alessandro-alviani",
+      "verified": true,
+      "last_checked": "2024-02-12"
+    },
+    "education": {
+      "url": "https://www.city.ac.uk/news-and-events/news/2023/06/outstanding-postgraduate-computer-science-students-celebrate-their-achievements",
+      "verified": true,
+      "last_checked": "2024-02-12"
+    },
+    "professional": {
+      "url": "https://www.1e9.community/speakers/alessandro-alviani/b7027c6d-dd11-41d3-97f4-9285bc2d08a1",
+      "verified": true,
+      "last_checked": "2024-02-12"
+    },
+    "image": {
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73vSeLJ_VZ5oacAYw76hQYDLCA4KYLe0rqA&s",
+      "license": "Fair Use",
+      "author": "Unknown",
+      "verified": true,
+      "last_checked": "2024-02-12"
     }
   },
   "data_quality": {
@@ -194,24 +191,9 @@
       "previous_positions"
     ]
   },
-  "expertise_sources": {
-    "KI-Ethik": "human",
-    "AI Governance": "human",
-    "Digitale Ethik": "human",
-    "Automotive AI": "human",
-    "Nachhaltige KI-Entwicklung": "ai"
-  },
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:55.570Z",
   "verified": true,
   "verification_source": "human",
-  "image_url": null
+  "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR73vSeLJ_VZ5oacAYw76hQYDLCA4KYLe0rqA&s"
 }

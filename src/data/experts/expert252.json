@@ -1,52 +1,29 @@
 {
   "id": "exp252",
-  "personalInfo": {
-    "fullName": "Prof. Maria Meyer",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Fraunhofer IAIS",
+  "fachgebiet": "Machine Learning",
+  "expertise": [
+    "Machine Learning",
+    "Reinforcement Learning",
+    "Neural Networks"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "maria.meyer@fraunhofer-iais.de",
-    "phone": "+49 832 41224749",
-    "image": "/experts/maria-meyer.jpg",
-    "languages": [
-      "Deutsch"
-    ]
+    "phone": "+49 832 41224749"
   },
-  "institution": {
-    "name": "Fraunhofer IAIS",
-    "department": "Institut für Künstliche Intelligenz",
-    "position": "Professor",
-    "location": "Sankt Augustin"
-  },
-  "expertise": {
-    "primary": [
-      "Machine Learning",
-      "Reinforcement Learning",
-      "Neural Networks"
-    ],
-    "secondary": [
-      "Big Data Analytics",
-      "Edge Computing"
-    ],
-    "industries": [
-      "Healthcare",
-      "Research",
-      "Robotics"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Fraunhofer IAIS",
-    "focus": "Forschung in Machine Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:05.722Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

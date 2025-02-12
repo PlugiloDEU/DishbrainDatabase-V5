@@ -1,63 +1,28 @@
 {
   "id": "exp125",
-  "personalInfo": {
-    "title": "Dr.",
-    "firstName": "Kai",
-    "lastName": "Bender",
-    "fullName": "Dr. Kai Bender",
-    "image": "/experts/dr--kai-bender.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Oliver Wyman",
-    "position": "Deutschlandchef der Strategieberatung",
-    "department": null,
-    "website": "Oliver Wyman"
-  },
-  "expertise": {
-    "primary": [
-      "Strategieberatung"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Deutschlandchef der Strategieberatung",
-    "organization": "Oliver Wyman",
-    "focus": "Strategieberatung"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "Oliver Wyman"
-  },
-  "tags": [
-    "Strategieberatung",
-    "Deutschlandchef der Strategieberatung"
+  "titel": "Dr.",
+  "position": "Deutschlandchef der Strategieberatung",
+  "organisation": "Oliver Wyman",
+  "fachgebiet": "Strategieberatung",
+  "expertise": [
+    "Strategieberatung"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:58.454Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

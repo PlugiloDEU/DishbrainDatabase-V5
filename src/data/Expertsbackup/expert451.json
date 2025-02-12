@@ -1,0 +1,41 @@
+{
+  "id": "exp451",
+  "personalInfo": {
+    "fullName": "Dr. Maria Becker",
+    "title": "Senior AI Researcher",
+    "email": "maria.becker@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 310 81886425",
+    "image": "/experts/maria-becker.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Natural Language Processing",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Energy",
+      "Automotive",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

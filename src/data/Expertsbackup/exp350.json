@@ -1,0 +1,42 @@
+{
+  "id": "exp350",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Laura Schulz",
+    "title": "Professor für KI und ML",
+    "email": "laura.schulz@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 907 44843594",
+    "image": "/experts/laura-schulz.jpg",
+    "languages": [
+      "Spanisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Natural Language Processing",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Research",
+      "Education",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp089",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "julia.hoffmann@technische-universitaet-berlin.de",
+    "phone": "+49 493 65945100",
+    "image": "/experts/julia-hoffmann.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Reinforcement Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AI Security"
+    ],
+    "industries": [
+      "Education",
+      "Manufacturing",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

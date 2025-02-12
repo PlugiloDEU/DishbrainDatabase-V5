@@ -1,0 +1,42 @@
+{
+  "id": "exp054",
+  "personalInfo": {
+    "fullName": "Prof. Laura Becker",
+    "title": "Professor für KI und ML",
+    "email": "laura.becker@rwth-aachen.de",
+    "phone": "+49 482 15325539",
+    "image": "/experts/laura-becker.jpg",
+    "languages": [
+      "Spanisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AI Security",
+      "AutoML"
+    ],
+    "industries": [
+      "Finance",
+      "Robotics",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

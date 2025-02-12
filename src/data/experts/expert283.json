@@ -1,52 +1,29 @@
 {
   "id": "exp283",
-  "personalInfo": {
-    "fullName": "Prof. Dr. Michael Schmidt",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Technische Universität Berlin",
+  "fachgebiet": "Natural Language Processing",
+  "expertise": [
+    "Natural Language Processing",
+    "Reinforcement Learning",
+    "Robotics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "michael.schmidt@technische-universitaet-berlin.de",
-    "phone": "+49 796 52753005",
-    "image": "/experts/michael-schmidt.jpg",
-    "languages": [
-      "Französisch"
-    ]
+    "phone": "+49 796 52753005"
   },
-  "institution": {
-    "name": "Technische Universität Berlin",
-    "department": "Machine Learning Lab",
-    "position": "Professor",
-    "location": "Berlin"
-  },
-  "expertise": {
-    "primary": [
-      "Natural Language Processing",
-      "Reinforcement Learning",
-      "Robotics"
-    ],
-    "secondary": [
-      "Big Data Analytics",
-      "Edge Computing"
-    ],
-    "industries": [
-      "Finance",
-      "Robotics",
-      "Automotive"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Technische Universität Berlin",
-    "focus": "Forschung in Reinforcement Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:06.005Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

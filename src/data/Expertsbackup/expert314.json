@@ -1,0 +1,41 @@
+{
+  "id": "exp314",
+  "personalInfo": {
+    "fullName": "Prof. Alexander Becker",
+    "title": "Professor für KI und ML",
+    "email": "alexander.becker@technische-universitaet-muenchen.de",
+    "phone": "+49 184 13920887",
+    "image": "/experts/alexander-becker.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Natural Language Processing",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

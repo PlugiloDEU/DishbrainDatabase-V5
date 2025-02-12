@@ -1,0 +1,41 @@
+{
+  "id": "exp285",
+  "personalInfo": {
+    "fullName": "Dr. Michael Becker",
+    "title": "Senior AI Researcher",
+    "email": "michael.becker@rwth-aachen.de",
+    "phone": "+49 441 75798551",
+    "image": "/experts/michael-becker.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Neural Networks",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Healthcare",
+      "Finance",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

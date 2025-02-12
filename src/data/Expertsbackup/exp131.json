@@ -1,0 +1,41 @@
+{
+  "id": "exp131",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Maria Meyer",
+    "title": "Professor für KI und ML",
+    "email": "maria.meyer@technische-universitaet-muenchen.de",
+    "phone": "+49 919 18863946",
+    "image": "/experts/maria-meyer.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Machine Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Governance"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

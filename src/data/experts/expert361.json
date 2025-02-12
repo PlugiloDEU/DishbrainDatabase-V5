@@ -1,53 +1,29 @@
 {
   "id": "exp361",
-  "personalInfo": {
-    "fullName": "PD Dr. Julia Meyer",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Technische Universität Berlin",
+  "fachgebiet": "Computer Vision",
+  "expertise": [
+    "Computer Vision",
+    "Machine Learning",
+    "Deep Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "julia.meyer@technische-universitaet-berlin.de",
-    "phone": "+49 591 83512347",
-    "image": "/experts/julia-meyer.jpg",
-    "languages": [
-      "Mandarin",
-      "Französisch"
-    ]
+    "phone": "+49 591 83512347"
   },
-  "institution": {
-    "name": "Technische Universität Berlin",
-    "department": "AI Research Center",
-    "position": "Researcher",
-    "location": "Berlin"
-  },
-  "expertise": {
-    "primary": [
-      "Computer Vision",
-      "Machine Learning",
-      "Deep Learning"
-    ],
-    "secondary": [
-      "AI Governance",
-      "Edge Computing"
-    ],
-    "industries": [
-      "Automotive",
-      "Healthcare",
-      "Education"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Technische Universität Berlin",
-    "focus": "Forschung in Computer Vision",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:07.179Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

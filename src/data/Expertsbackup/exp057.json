@@ -1,0 +1,42 @@
+{
+  "id": "exp057",
+  "personalInfo": {
+    "fullName": "Prof. Alexander Koch",
+    "title": "Professor für KI und ML",
+    "email": "alexander.koch@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 305 75948095",
+    "image": "/experts/alexander-koch.jpg",
+    "languages": [
+      "Englisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AutoML",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Energy",
+      "Healthcare",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp124",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Martin Schulz",
+    "title": "Professor für KI und ML",
+    "email": "martin.schulz@technische-universitaet-berlin.de",
+    "phone": "+49 455 11979548",
+    "image": "/experts/martin-schulz.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Reinforcement Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Healthcare",
+      "Research",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

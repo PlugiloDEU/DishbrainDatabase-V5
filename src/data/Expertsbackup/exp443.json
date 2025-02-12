@@ -1,0 +1,41 @@
+{
+  "id": "exp443",
+  "personalInfo": {
+    "fullName": "Prof. Julia Fischer",
+    "title": "Professor für KI und ML",
+    "email": "julia.fischer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 210 48348239",
+    "image": "/experts/julia-fischer.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Quantum AI",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AI Security"
+    ],
+    "industries": [
+      "Finance",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

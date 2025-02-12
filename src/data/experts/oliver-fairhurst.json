@@ -1,65 +1,29 @@
 {
   "id": "exp184",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Oliver",
-    "lastName": "Fairhurst",
-    "fullName": "Oliver Fairhurst",
-    "image": "/experts/oliver-fairhurst.jpg",
-    "email": "oliver.fairhurst@lewissilkin.com",
-    "phone": "+44 (0)20 7074 8434",
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Lewis Silkin LLP",
-    "position": "Partner",
-    "department": null,
-    "website": "https://www.lewissilkin.com/"
-  },
-  "expertise": {
-    "primary": [
-      "Rechtsanwalt"
-    ],
-    "secondary": [],
-    "industries": [
-      "Legal"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Partner",
-    "organization": "Lewis Silkin LLP",
-    "focus": "Rechtsanwalt"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/oliverfairhurst/",
-    "company": "https://www.lewissilkin.com/"
-  },
-  "tags": [
-    "Rechtsanwalt",
-    "Partner"
+  "titel": "",
+  "position": "Partner",
+  "organisation": "Lewis Silkin LLP",
+  "fachgebiet": "Rechtsanwalt",
+  "expertise": [
+    "Rechtsanwalt"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "oliver.fairhurst@lewissilkin.com",
+    "phone": "+44 (0)20 7074 8434"
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/oliverfairhurst/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:13.082Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

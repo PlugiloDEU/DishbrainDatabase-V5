@@ -1,0 +1,41 @@
+{
+  "id": "exp401",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Sophie Becker",
+    "title": "Professor für KI und ML",
+    "email": "sophie.becker@technische-universitaet-muenchen.de",
+    "phone": "+49 755 41450938",
+    "image": "/experts/sophie-becker.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Finance",
+      "Manufacturing",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

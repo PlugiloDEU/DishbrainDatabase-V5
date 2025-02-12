@@ -1,0 +1,42 @@
+{
+  "id": "exp144",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Thomas Fischer",
+    "title": "Professor für KI und ML",
+    "email": "thomas.fischer@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 132 95177731",
+    "image": "/experts/thomas-fischer.jpg",
+    "languages": [
+      "Französisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Machine Learning",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "AutoML"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

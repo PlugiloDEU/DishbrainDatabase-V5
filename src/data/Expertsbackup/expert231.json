@@ -1,0 +1,41 @@
+{
+  "id": "exp231",
+  "personalInfo": {
+    "fullName": "PD Dr. Julia Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "julia.schmidt@rwth-aachen.de",
+    "phone": "+49 253 15582489",
+    "image": "/experts/julia-schmidt.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Natural Language Processing",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "AI Governance"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

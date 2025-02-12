@@ -1,0 +1,42 @@
+{
+  "id": "exp433",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Koch",
+    "title": "Professor für KI und ML",
+    "email": "thomas.koch@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 581 67405394",
+    "image": "/experts/thomas-koch.jpg",
+    "languages": [
+      "Französisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Computer Vision",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AutoML"
+    ],
+    "industries": [
+      "Energy",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

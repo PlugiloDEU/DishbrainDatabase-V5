@@ -1,0 +1,41 @@
+{
+  "id": "exp189",
+  "personalInfo": {
+    "fullName": "Dr. Michael Müller",
+    "title": "Senior AI Researcher",
+    "email": "michael.mueller@fraunhofer-iais.de",
+    "phone": "+49 401 87970919",
+    "image": "/experts/michael-mueller.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Neural Networks",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

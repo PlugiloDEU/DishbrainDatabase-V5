@@ -1,0 +1,41 @@
+{
+  "id": "exp355",
+  "personalInfo": {
+    "fullName": "Prof. Alexander Fischer",
+    "title": "Professor für KI und ML",
+    "email": "alexander.fischer@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 901 23221567",
+    "image": "/experts/alexander-fischer.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Quantum AI",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Automotive",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

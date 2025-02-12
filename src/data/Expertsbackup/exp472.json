@@ -1,0 +1,42 @@
+{
+  "id": "exp472",
+  "personalInfo": {
+    "fullName": "Prof. Martin Schulz",
+    "title": "Professor für KI und ML",
+    "email": "martin.schulz@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 895 30578872",
+    "image": "/experts/martin-schulz.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Research",
+      "Education",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

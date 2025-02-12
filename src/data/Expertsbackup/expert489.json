@@ -1,0 +1,41 @@
+{
+  "id": "exp489",
+  "personalInfo": {
+    "fullName": "Dr. Laura Fischer",
+    "title": "Senior AI Researcher",
+    "email": "laura.fischer@rwth-aachen.de",
+    "phone": "+49 897 31433914",
+    "image": "/experts/laura-fischer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Computer Vision",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "AutoML",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

@@ -1,52 +1,29 @@
 {
   "id": "exp257",
-  "personalInfo": {
-    "fullName": "Dr. Thomas Meyer",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Fraunhofer IAIS",
+  "fachgebiet": "Explainable AI",
+  "expertise": [
+    "Explainable AI",
+    "AI Ethics",
+    "Computer Vision"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "thomas.meyer@fraunhofer-iais.de",
-    "phone": "+49 599 24331651",
-    "image": "/experts/thomas-meyer.jpg",
-    "languages": [
-      "Deutsch"
-    ]
+    "phone": "+49 599 24331651"
   },
-  "institution": {
-    "name": "Fraunhofer IAIS",
-    "department": "AI Research Center",
-    "position": "Researcher",
-    "location": "Sankt Augustin"
-  },
-  "expertise": {
-    "primary": [
-      "Explainable AI",
-      "AI Ethics",
-      "Computer Vision"
-    ],
-    "secondary": [
-      "Knowledge Graphs",
-      "AI Governance"
-    ],
-    "industries": [
-      "Research",
-      "Healthcare",
-      "Education"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Fraunhofer IAIS",
-    "focus": "Forschung in AI Ethics",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.807Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,42 @@
+{
+  "id": "exp195",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Becker",
+    "title": "Professor für KI und ML",
+    "email": "julia.becker@rwth-aachen.de",
+    "phone": "+49 700 19623496",
+    "image": "/experts/julia-becker.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Explainable AI",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Healthcare",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

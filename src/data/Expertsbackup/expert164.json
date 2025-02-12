@@ -1,0 +1,42 @@
+{
+  "id": "exp164",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "thomas.hoffmann@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 997 90369391",
+    "image": "/experts/thomas-hoffmann.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Robotics",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Robotics",
+      "Automotive",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

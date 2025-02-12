@@ -1,0 +1,42 @@
+{
+  "id": "exp090",
+  "personalInfo": {
+    "fullName": "PD Dr. Michael Müller",
+    "title": "Senior AI Researcher",
+    "email": "michael.mueller@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 983 36016424",
+    "image": "/experts/michael-mueller.jpg",
+    "languages": [
+      "Deutsch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Neural Networks",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Robotics",
+      "Energy",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

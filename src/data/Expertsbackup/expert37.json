@@ -1,0 +1,42 @@
+{
+  "id": "exp037",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Wagner",
+    "title": "Professor für KI und ML",
+    "email": "alexander.wagner@technische-universitaet-berlin.de",
+    "phone": "+49 296 27973456",
+    "image": "/experts/alexander-wagner.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Robotics",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

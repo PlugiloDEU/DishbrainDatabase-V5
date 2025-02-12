@@ -1,0 +1,41 @@
+{
+  "id": "exp483",
+  "personalInfo": {
+    "fullName": "Prof. Christian Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "christian.hoffmann@rwth-aachen.de",
+    "phone": "+49 643 51608208",
+    "image": "/experts/christian-hoffmann.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Research",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp205",
+  "personalInfo": {
+    "fullName": "PD Dr. Christian Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "christian.schmidt@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 764 11600941",
+    "image": "/experts/christian-schmidt.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Reinforcement Learning",
+      "Robotics"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AutoML"
+    ],
+    "industries": [
+      "Research",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

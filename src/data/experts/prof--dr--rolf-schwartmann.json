@@ -1,63 +1,28 @@
 {
   "id": "exp179",
-  "personalInfo": {
-    "title": "Prof. Dr.",
-    "firstName": "Rolf",
-    "lastName": "Schwartmann",
-    "fullName": "Prof. Dr. Rolf Schwartmann",
-    "image": "/experts/prof--dr--rolf-schwartmann.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "TH Köln",
-    "position": "Leiter der Forschungsstelle für Medienrecht",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Datenschutzexperte"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Leiter der Forschungsstelle für Medienrecht",
-    "organization": "TH Köln",
-    "focus": "Datenschutzexperte"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": null
-  },
-  "tags": [
-    "Datenschutzexperte",
-    "Leiter der Forschungsstelle für Medienrecht"
+  "titel": "Prof. Dr.",
+  "position": "Leiter der Forschungsstelle für Medienrecht",
+  "organisation": "TH Köln",
+  "fachgebiet": "Datenschutzexperte",
+  "expertise": [
+    "Datenschutzexperte"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:13.648Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

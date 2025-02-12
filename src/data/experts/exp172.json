@@ -1,65 +1,28 @@
 {
   "id": "exp172",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Leonid",
-    "lastName": "Sokolov",
-    "fullName": "Leonid Sokolov",
-    "image": "/experts/leonid-sokolov.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "BIG PICTURE",
-    "position": "Senior Voice User Interface Engineer",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Technologie"
-    ],
-    "secondary": [],
-    "industries": [
-      "Technology"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Senior Voice User Interface Engineer",
-    "organization": "BIG PICTURE",
-    "focus": "Technologie"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": null
-  },
-  "tags": [
-    "Technologie",
-    "Senior Voice User Interface Engineer"
+  "titel": "",
+  "position": "Senior Voice User Interface Engineer",
+  "organisation": "BIG PICTURE",
+  "fachgebiet": "Technologie",
+  "expertise": [
+    "Technologie"
   ],
-  "source": "Teamseite",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.111Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

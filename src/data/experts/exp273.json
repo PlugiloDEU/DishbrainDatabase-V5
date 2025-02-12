@@ -1,65 +1,28 @@
 {
   "id": "exp273",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Fabian",
-    "lastName": "Reichwald",
-    "fullName": "Fabian Reichwald",
-    "image": "/experts/fabian-reichwald.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Kognitionswissenschaftler",
-    "department": null,
-    "website": "https://www.linkedin.com/in/fabian-reichwald-8a7604275/?originalSubdomain=de"
-  },
-  "expertise": {
-    "primary": [
-      "KI und Nachhaltigkeit"
-    ],
-    "secondary": [],
-    "industries": [
-      "AI"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Kognitionswissenschaftler",
-    "organization": null,
-    "focus": "KI und Nachhaltigkeit"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/fabian-reichwald-8a7604275/",
-    "company": "https://www.linkedin.com/in/fabian-reichwald-8a7604275/?originalSubdomain=de"
-  },
-  "tags": [
-    "KI und Nachhaltigkeit",
-    "Kognitionswissenschaftler"
+  "titel": "",
+  "position": "Kognitionswissenschaftler",
+  "organisation": null,
+  "fachgebiet": "KI und Nachhaltigkeit",
+  "expertise": [
+    "KI und Nachhaltigkeit"
   ],
-  "source": "Text",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/fabian-reichwald-8a7604275/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.908Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

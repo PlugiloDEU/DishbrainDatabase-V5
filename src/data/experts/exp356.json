@@ -1,63 +1,29 @@
 {
   "id": "exp356",
-  "personalInfo": {
-    "title": "Prof. Dr.",
-    "firstName": "Hans",
-    "lastName": "Uszkoreit",
-    "fullName": "Prof. Dr. Hans Uszkoreit",
-    "image": "/experts/prof--dr--hans-uszkoreit.jpg",
-    "email": "https://drive.google.com/file/d/1bjpEwTqXA-iTOcEycsUIn1Ge1FhsrxpQ/view",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "nyonic, DFKI",
-    "position": "CSO und Wissenschaftlicher Direktor",
-    "department": null,
-    "website": "https://www.nyonic.com/, https://www.dfki.de/"
-  },
-  "expertise": {
-    "primary": [
-      "Forscher"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "CSO und Wissenschaftlicher Direktor",
-    "organization": "nyonic, DFKI",
-    "focus": "Forscher"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.nyonic.com/, https://www.dfki.de/"
-  },
-  "tags": [
-    "Forscher",
-    "CSO und Wissenschaftlicher Direktor"
+  "titel": "Prof. Dr.",
+  "position": "CSO und Wissenschaftlicher Direktor",
+  "organisation": "nyonic, DFKI",
+  "fachgebiet": "Forscher",
+  "expertise": [
+    "Forscher"
   ],
-  "source": "https://riseof.ai/conference-2024/",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://drive.google.com/file/d/1bjpEwTqXA-iTOcEycsUIn1Ge1FhsrxpQ/view",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:02.715Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

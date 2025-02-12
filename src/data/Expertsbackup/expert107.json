@@ -1,0 +1,41 @@
+{
+  "id": "exp107",
+  "personalInfo": {
+    "fullName": "Dr. Maria Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "maria.schmidt@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 386 16354575",
+    "image": "/experts/maria-schmidt.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Quantum AI",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "AI Governance"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

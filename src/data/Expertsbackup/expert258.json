@@ -1,0 +1,41 @@
+{
+  "id": "exp258",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Sophie Wagner",
+    "title": "Professor für KI und ML",
+    "email": "sophie.wagner@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 305 32244160",
+    "image": "/experts/sophie-wagner.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Automotive",
+      "Energy",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

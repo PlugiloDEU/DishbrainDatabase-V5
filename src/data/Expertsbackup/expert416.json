@@ -1,0 +1,42 @@
+{
+  "id": "exp416",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "alexander.hoffmann@rwth-aachen.de",
+    "phone": "+49 952 27398849",
+    "image": "/experts/alexander-hoffmann.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "AI Ethics",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Robotics",
+      "Manufacturing",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp323",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "thomas.hoffmann@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 533 45288530",
+    "image": "/experts/thomas-hoffmann.jpg",
+    "languages": [
+      "Französisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "AI Ethics",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

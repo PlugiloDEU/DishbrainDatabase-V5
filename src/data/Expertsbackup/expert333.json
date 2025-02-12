@@ -1,0 +1,41 @@
+{
+  "id": "exp333",
+  "personalInfo": {
+    "fullName": "Prof. Christian Fischer",
+    "title": "Professor für KI und ML",
+    "email": "christian.fischer@fraunhofer-iais.de",
+    "phone": "+49 438 52985389",
+    "image": "/experts/christian-fischer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Deep Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

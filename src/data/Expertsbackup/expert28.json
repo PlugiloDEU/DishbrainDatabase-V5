@@ -1,0 +1,41 @@
+{
+  "id": "exp028",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Becker",
+    "title": "Senior AI Researcher",
+    "email": "thomas.becker@fraunhofer-iais.de",
+    "phone": "+49 170 99023904",
+    "image": "/experts/thomas-becker.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Computer Vision",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Education",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

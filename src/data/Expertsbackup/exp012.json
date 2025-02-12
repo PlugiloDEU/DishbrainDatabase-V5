@@ -1,0 +1,42 @@
+{
+  "id": "exp012",
+  "personalInfo": {
+    "fullName": "Dr. Maria Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "maria.schmidt@fraunhofer-iais.de",
+    "phone": "+49 263 35789867",
+    "image": "/experts/maria-schmidt.jpg",
+    "languages": [
+      "Mandarin",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Robotics",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Education",
+      "Manufacturing",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

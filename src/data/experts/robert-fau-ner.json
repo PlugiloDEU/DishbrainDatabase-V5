@@ -1,63 +1,28 @@
 {
   "id": "exp079",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Robert",
-    "lastName": "Faußner",
-    "fullName": "Robert Faußner",
-    "image": "/experts/robert-fau-ner.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "0",
-    "position": "0",
-    "department": null,
-    "website": "0"
-  },
-  "expertise": {
-    "primary": [
-      "Legal"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "0",
-    "organization": "0",
-    "focus": "Legal"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "0"
-  },
-  "tags": [
-    "Legal",
-    "0"
+  "titel": "",
+  "position": "0",
+  "organisation": "0",
+  "fachgebiet": "Legal",
+  "expertise": [
+    "Legal"
   ],
-  "source": "​​​​​​https://www.christina-maria-leeb.de/",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:14.209Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

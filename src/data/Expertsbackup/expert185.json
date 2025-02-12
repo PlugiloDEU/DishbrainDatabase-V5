@@ -1,0 +1,42 @@
+{
+  "id": "exp185",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Sophie Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "sophie.hoffmann@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 921 62758223",
+    "image": "/experts/sophie-hoffmann.jpg",
+    "languages": [
+      "Italienisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Neural Networks",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp043",
+  "personalInfo": {
+    "fullName": "Dr. Maria Fischer",
+    "title": "Senior AI Researcher",
+    "email": "maria.fischer@technische-universitaet-muenchen.de",
+    "phone": "+49 822 93804078",
+    "image": "/experts/maria-fischer.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Automotive",
+      "Healthcare",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

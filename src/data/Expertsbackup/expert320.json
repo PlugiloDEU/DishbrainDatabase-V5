@@ -1,0 +1,41 @@
+{
+  "id": "exp320",
+  "personalInfo": {
+    "fullName": "Dr. Christian Müller",
+    "title": "Senior AI Researcher",
+    "email": "christian.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 893 42286101",
+    "image": "/experts/christian-mueller.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "AI Ethics",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

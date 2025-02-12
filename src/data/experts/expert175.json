@@ -1,52 +1,29 @@
 {
   "id": "exp175",
-  "personalInfo": {
-    "fullName": "Prof. Dr. Laura Wagner",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "RWTH Aachen",
+  "fachgebiet": "Robotics",
+  "expertise": [
+    "Robotics",
+    "Explainable AI",
+    "AI Ethics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "laura.wagner@rwth-aachen.de",
-    "phone": "+49 813 75439246",
-    "image": "/experts/laura-wagner.jpg",
-    "languages": [
-      "Spanisch"
-    ]
+    "phone": "+49 813 75439246"
   },
-  "institution": {
-    "name": "RWTH Aachen",
-    "department": "Machine Learning Lab",
-    "position": "Professor",
-    "location": "Aachen"
-  },
-  "expertise": {
-    "primary": [
-      "Robotics",
-      "Explainable AI",
-      "AI Ethics"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "Federated Learning"
-    ],
-    "industries": [
-      "Energy",
-      "Robotics",
-      "Research"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "RWTH Aachen",
-    "focus": "Forschung in AI Ethics",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:04.859Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,41 @@
+{
+  "id": "exp118",
+  "personalInfo": {
+    "fullName": "Prof. Christian Koch",
+    "title": "Professor für KI und ML",
+    "email": "christian.koch@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 247 64226807",
+    "image": "/experts/christian-koch.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "AI Ethics",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Security",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Automotive",
+      "Manufacturing",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

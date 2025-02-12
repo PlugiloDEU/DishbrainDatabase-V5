@@ -1,0 +1,41 @@
+{
+  "id": "exp345",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Maria Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "maria.hoffmann@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 800 22330771",
+    "image": "/experts/maria-hoffmann.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Robotics",
+      "Healthcare",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

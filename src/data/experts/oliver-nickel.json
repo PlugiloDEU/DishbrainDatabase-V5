@@ -1,65 +1,28 @@
 {
   "id": "exp140",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Oliver",
-    "lastName": "Nickel",
-    "fullName": "Oliver Nickel",
-    "image": "/experts/oliver-nickel.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Golem.de",
-    "position": "Redakteur",
-    "department": null,
-    "website": "Golem.de"
-  },
-  "expertise": {
-    "primary": [
-      "Technologiejournalismus"
-    ],
-    "secondary": [],
-    "industries": [
-      "Technology"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Redakteur",
-    "organization": "Golem.de",
-    "focus": "Technologiejournalismus"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/oliver-nickel-21723a137/",
-    "company": "Golem.de"
-  },
-  "tags": [
-    "Technologiejournalismus",
-    "Redakteur"
+  "titel": "",
+  "position": "Redakteur",
+  "organisation": "Golem.de",
+  "fachgebiet": "Technologiejournalismus",
+  "expertise": [
+    "Technologiejournalismus"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/oliver-nickel-21723a137/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:13.099Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

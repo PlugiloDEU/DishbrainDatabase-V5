@@ -1,0 +1,42 @@
+{
+  "id": "exp127",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Becker",
+    "title": "Professor für KI und ML",
+    "email": "sophie.becker@fraunhofer-iais.de",
+    "phone": "+49 152 79527197",
+    "image": "/experts/sophie-becker.jpg",
+    "languages": [
+      "Französisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Energy",
+      "Healthcare",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

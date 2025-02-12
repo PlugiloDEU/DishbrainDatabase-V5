@@ -1,0 +1,42 @@
+{
+  "id": "exp452",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Meyer",
+    "title": "Professor für KI und ML",
+    "email": "christian.meyer@rwth-aachen.de",
+    "phone": "+49 362 78120141",
+    "image": "/experts/christian-meyer.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "Robotics"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

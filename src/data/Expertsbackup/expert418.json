@@ -1,0 +1,41 @@
+{
+  "id": "exp418",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Meyer",
+    "title": "Professor für KI und ML",
+    "email": "thomas.meyer@rwth-aachen.de",
+    "phone": "+49 553 81256983",
+    "image": "/experts/thomas-meyer.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AI Governance"
+    ],
+    "industries": [
+      "Education",
+      "Energy",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Quantum AI",
+    "status": "active"
+  }
+}

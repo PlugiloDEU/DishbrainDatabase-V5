@@ -1,0 +1,41 @@
+{
+  "id": "exp065",
+  "personalInfo": {
+    "fullName": "PD Dr. Martin Müller",
+    "title": "Senior AI Researcher",
+    "email": "martin.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 413 46477205",
+    "image": "/experts/martin-mueller.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Computer Vision",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AutoML"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp015",
+  "personalInfo": {
+    "fullName": "Prof. Michael Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "michael.hoffmann@fraunhofer-iais.de",
+    "phone": "+49 162 13407630",
+    "image": "/experts/michael-hoffmann.jpg",
+    "languages": [
+      "Englisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Reinforcement Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Finance",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

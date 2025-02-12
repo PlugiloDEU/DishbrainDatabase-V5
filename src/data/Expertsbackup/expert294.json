@@ -1,0 +1,41 @@
+{
+  "id": "exp294",
+  "personalInfo": {
+    "fullName": "Dr. Sophie Müller",
+    "title": "Senior AI Researcher",
+    "email": "sophie.mueller@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 396 15308493",
+    "image": "/experts/sophie-mueller.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Deep Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Security"
+    ],
+    "industries": [
+      "Automotive",
+      "Healthcare",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

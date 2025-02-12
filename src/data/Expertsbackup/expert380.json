@@ -1,0 +1,41 @@
+{
+  "id": "exp380",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Anna Müller",
+    "title": "Professor für KI und ML",
+    "email": "anna.mueller@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 193 66023452",
+    "image": "/experts/anna-mueller.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Robotics",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Security"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

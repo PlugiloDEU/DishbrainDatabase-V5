@@ -1,0 +1,42 @@
+{
+  "id": "exp111",
+  "personalInfo": {
+    "fullName": "Prof. Anna Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "anna.hoffmann@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 448 59171130",
+    "image": "/experts/anna-hoffmann.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Explainable AI",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AutoML",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Finance",
+      "Education",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

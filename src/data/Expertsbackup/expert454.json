@@ -1,0 +1,42 @@
+{
+  "id": "exp454",
+  "personalInfo": {
+    "fullName": "Dr. Laura Fischer",
+    "title": "Senior AI Researcher",
+    "email": "laura.fischer@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 192 26134294",
+    "image": "/experts/laura-fischer.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AI Security",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

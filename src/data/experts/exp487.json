@@ -1,53 +1,29 @@
 {
   "id": "exp487",
-  "personalInfo": {
-    "fullName": "Prof. Dr. Julia Müller",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "RWTH Aachen",
+  "fachgebiet": "Explainable AI",
+  "expertise": [
+    "Explainable AI",
+    "Reinforcement Learning",
+    "Machine Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "julia.mueller@rwth-aachen.de",
-    "phone": "+49 556 72351051",
-    "image": "/experts/julia-mueller.jpg",
-    "languages": [
-      "Mandarin",
-      "Italienisch"
-    ]
+    "phone": "+49 556 72351051"
   },
-  "institution": {
-    "name": "RWTH Aachen",
-    "department": "AI Research Center",
-    "position": "Professor",
-    "location": "Aachen"
-  },
-  "expertise": {
-    "primary": [
-      "Explainable AI",
-      "Reinforcement Learning",
-      "Machine Learning"
-    ],
-    "secondary": [
-      "Federated Learning",
-      "Knowledge Graphs"
-    ],
-    "industries": [
-      "Finance",
-      "Research",
-      "Robotics"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "RWTH Aachen",
-    "focus": "Forschung in Explainable AI",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:03.693Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

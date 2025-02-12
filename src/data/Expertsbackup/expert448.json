@@ -1,0 +1,42 @@
+{
+  "id": "exp448",
+  "personalInfo": {
+    "fullName": "Prof. Martin Meyer",
+    "title": "Professor für KI und ML",
+    "email": "martin.meyer@technische-universitaet-berlin.de",
+    "phone": "+49 363 59774810",
+    "image": "/experts/martin-meyer.jpg",
+    "languages": [
+      "Deutsch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "AI Ethics",
+      "Robotics"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

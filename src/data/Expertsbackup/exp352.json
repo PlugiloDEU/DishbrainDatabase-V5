@@ -1,0 +1,42 @@
+{
+  "id": "exp352",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Maria Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "maria.hoffmann@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 425 27472760",
+    "image": "/experts/maria-hoffmann.jpg",
+    "languages": [
+      "Italienisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Healthcare",
+      "Energy",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

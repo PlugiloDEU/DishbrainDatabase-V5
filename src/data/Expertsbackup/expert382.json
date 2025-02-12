@@ -1,0 +1,42 @@
+{
+  "id": "exp382",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Michael Müller",
+    "title": "Professor für KI und ML",
+    "email": "michael.mueller@fraunhofer-iais.de",
+    "phone": "+49 122 46640757",
+    "image": "/experts/michael-mueller.jpg",
+    "languages": [
+      "Mandarin",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Neural Networks",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Robotics",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

@@ -10,6 +10,8 @@ const Layout = ({ children }) => {
           <a href="#" className="block py-2 px-4 rounded hover:bg-gray-200">About</a>
           <a href="#" className="block py-2 px-4 rounded hover:bg-gray-200">Services</a>
           <a href="#" className="block py-2 px-4 rounded hover:bg-gray-200">Contact</a>
+          <a href="#" className="block py-2 px-4 rounded hover:bg-gray-200">KI Tools</a>
+          <a href="#" className="block py-2 px-4 rounded hover:bg-gray-200">KI DB Management</a>
         </nav>
       </aside>
       <header className="fixed top-0 left-0 right-0 bg-white shadow-md z-50">
@@ -24,6 +26,8 @@ const Layout = ({ children }) => {
               <a href="#" className="hover:text-blue-500">About</a>
               <a href="#" className="hover:text-blue-500">Services</a>
               <a href="#" className="hover:text-blue-500">Contact</a>
+              <a href="#" className="hover:text-blue-500">KI Tools</a>
+              <a href="#" className="hover:text-blue-500">KI DB Management</a>
             </nav>
           </div>
         </div>

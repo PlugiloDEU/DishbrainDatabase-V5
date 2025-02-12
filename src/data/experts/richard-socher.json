@@ -1,67 +1,29 @@
 {
   "id": "exp088",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Richard",
-    "lastName": "Socher",
-    "fullName": "Richard Socher",
-    "image": "/experts/richard-socher.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "You.com",
-    "position": "Gründer, KI-Experte",
-    "department": null,
-    "website": "you.com"
-  },
-  "expertise": {
-    "primary": [
-      "Künstliche Intelligenz",
-      "Suchmaschine"
-    ],
-    "secondary": [],
-    "industries": [
-      "AI"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Gründer, KI-Experte",
-    "organization": "You.com",
-    "focus": "Künstliche Intelligenz, Suchmaschine"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "you.com"
-  },
-  "tags": [
+  "titel": "",
+  "position": "Gründer, KI-Experte",
+  "organisation": "You.com",
+  "fachgebiet": "Künstliche Intelligenz",
+  "expertise": [
     "Künstliche Intelligenz",
-    "Suchmaschine",
-    "Gründer, KI-Experte"
+    "Suchmaschine"
   ],
-  "source": "Wie KI-Star Richard Socher Google herausfordert (faz.net)",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -119,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:14.199Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

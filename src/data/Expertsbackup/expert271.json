@@ -1,0 +1,42 @@
+{
+  "id": "exp271",
+  "personalInfo": {
+    "fullName": "Dr. Martin Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "martin.hoffmann@rwth-aachen.de",
+    "phone": "+49 377 96664295",
+    "image": "/experts/martin-hoffmann.jpg",
+    "languages": [
+      "Englisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Automotive",
+      "Manufacturing",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

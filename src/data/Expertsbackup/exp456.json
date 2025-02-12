@@ -1,0 +1,42 @@
+{
+  "id": "exp456",
+  "personalInfo": {
+    "fullName": "Prof. Anna Müller",
+    "title": "Professor für KI und ML",
+    "email": "anna.mueller@technische-universitaet-berlin.de",
+    "phone": "+49 694 52198947",
+    "image": "/experts/anna-mueller.jpg",
+    "languages": [
+      "Mandarin",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Education",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

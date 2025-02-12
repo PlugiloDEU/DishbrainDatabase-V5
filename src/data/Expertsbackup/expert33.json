@@ -1,0 +1,41 @@
+{
+  "id": "exp033",
+  "personalInfo": {
+    "fullName": "Dr. Martin Weber",
+    "title": "Senior AI Researcher",
+    "email": "martin.weber@technische-universitaet-muenchen.de",
+    "phone": "+49 131 96923221",
+    "image": "/experts/martin-weber.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Quantum AI",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AI Security"
+    ],
+    "industries": [
+      "Energy",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

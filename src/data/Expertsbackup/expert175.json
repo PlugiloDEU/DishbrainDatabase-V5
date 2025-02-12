@@ -1,0 +1,41 @@
+{
+  "id": "exp175",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Laura Wagner",
+    "title": "Professor für KI und ML",
+    "email": "laura.wagner@rwth-aachen.de",
+    "phone": "+49 813 75439246",
+    "image": "/experts/laura-wagner.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Explainable AI",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

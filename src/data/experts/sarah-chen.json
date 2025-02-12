@@ -52,41 +52,10 @@
       "additionalRole": "Robustness Team"
     }
   ],
-  "projects": [
-    {
-      "name": "SafeAI Framework",
-      "start_date": "2021",
-      "status": "ongoing",
-      "description": "Entwicklung eines umfassenden Frameworks zur Validierung und Verifizierung von KI-Systemen, mit Fokus auf Sicherheit und Robustheit.",
-      "url": "https://safai.ethz.ch"
-    },
-    {
-      "name": "Adversarial Robustness Initiative",
-      "start_date": "2022",
-      "status": "ongoing",
-      "description": "Forschungsprojekt zur Verbesserung der Widerstandsfähigkeit von KI-Systemen gegen adversariale Angriffe.",
-      "url": "https://robustai.ethz.ch"
-    }
-  ],
   "kontakt": {
-    "email": "sarah.chen@inf.ethz.ch",
-    "phone": "+41 44 632 1111",
-    "website": "https://ai.ethz.ch/~schen",
-    "address": {
-      "institution": "ETH Zürich",
-      "department": "Department of Computer Science",
-      "country": "Switzerland"
-    },
-    "officeHours": {
-      "tuesday": "13:00-15:00",
-      "thursday": "10:00-12:00"
-    }
+    "email": "sarah.chen@inf.ethz.ch"
   },
-  "social_media": {
-    "linkedin": "https://www.linkedin.com/in/sarahjchen",
-    "twitter": "https://twitter.com/safeai_chen",
-    "github": "https://github.com/sarahchen-ai"
-  },
+  "social_media": {},
   "standort": "Zürich, Schweiz",
   "selectedPublications": [
     {
@@ -194,24 +163,8 @@
     "verification_method": "manual human verification",
     "missing_fields": []
   },
-  "expertise_sources": {
-    "KI-Sicherheit": "human",
-    "Robuste KI-Systeme": "human",
-    "Adversarial Machine Learning": "human",
-    "Vertrauenswürdige KI": "human",
-    "KI-Validierung": "ai"
-  },
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:14.387Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

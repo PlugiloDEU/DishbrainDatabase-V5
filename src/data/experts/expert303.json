@@ -1,53 +1,29 @@
 {
   "id": "exp303",
-  "personalInfo": {
-    "fullName": "Prof. Sophie Schulz",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Ludwig-Maximilians-Universität München",
+  "fachgebiet": "Computer Vision",
+  "expertise": [
+    "Computer Vision",
+    "Reinforcement Learning",
+    "Explainable AI"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "sophie.schulz@ludwig-maximilians-universitaet-muenchen.de",
-    "phone": "+49 439 85248420",
-    "image": "/experts/sophie-schulz.jpg",
-    "languages": [
-      "Französisch",
-      "Spanisch"
-    ]
+    "phone": "+49 439 85248420"
   },
-  "institution": {
-    "name": "Ludwig-Maximilians-Universität München",
-    "department": "Machine Learning Lab",
-    "position": "Professor",
-    "location": "München"
-  },
-  "expertise": {
-    "primary": [
-      "Computer Vision",
-      "Reinforcement Learning",
-      "Explainable AI"
-    ],
-    "secondary": [
-      "AutoML",
-      "Human-AI Interaction"
-    ],
-    "industries": [
-      "Manufacturing",
-      "Finance",
-      "Education"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Ludwig-Maximilians-Universität München",
-    "focus": "Forschung in Explainable AI",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:06.195Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

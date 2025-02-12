@@ -1,69 +1,24 @@
 {
   "id": "exp107",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Anna",
-    "lastName": "Graf",
-    "fullName": "Anna Graf",
-    "image": "/placeholder/expert-placeholder.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Innovation Lead Web3 und Metaverse",
-    "department": null,
-    "website": "ogcon.de"
-  },
-  "expertise": {
-    "primary": [
-      "KI Ecosystem"
-    ],
-    "secondary": [],
-    "industries": [
-      "AI"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Innovation Lead Web3 und Metaverse",
-    "organization": null,
-    "focus": "KI Ecosystem"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/anna-graf90/",
-    "company": "ogcon.de"
-  },
-  "tags": [
-    "KI Ecosystem",
-    "Innovation Lead Web3 und Metaverse"
+  "titel": "",
+  "position": "Innovation Lead Web3 und Metaverse",
+  "organisation": null,
+  "fachgebiet": "KI Ecosystem",
+  "expertise": [
+    "KI Ecosystem"
   ],
-  "source": "ogcon.de",
-  "experience": [],
   "education": [],
-  "skills": [],
-  "lastEnriched": "2025-01-17T09:21:54.211Z",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
   },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/anna-graf90/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -121,8 +76,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:55.897Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,42 @@
+{
+  "id": "exp172",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Anna Meyer",
+    "title": "Professor für KI und ML",
+    "email": "anna.meyer@technische-universitaet-muenchen.de",
+    "phone": "+49 578 67955993",
+    "image": "/experts/anna-meyer.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Neural Networks",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Robotics",
+      "Energy",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

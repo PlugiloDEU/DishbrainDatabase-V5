@@ -1,0 +1,42 @@
+{
+  "id": "exp009",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Meyer",
+    "title": "Senior AI Researcher",
+    "email": "thomas.meyer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 510 16280998",
+    "image": "/experts/thomas-meyer.jpg",
+    "languages": [
+      "Italienisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "AutoML",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

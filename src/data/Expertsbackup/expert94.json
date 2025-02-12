@@ -1,0 +1,41 @@
+{
+  "id": "exp094",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Schulz",
+    "title": "Professor für KI und ML",
+    "email": "alexander.schulz@technische-universitaet-muenchen.de",
+    "phone": "+49 703 89258088",
+    "image": "/experts/alexander-schulz.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Reinforcement Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

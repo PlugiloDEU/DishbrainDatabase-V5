@@ -1,0 +1,42 @@
+{
+  "id": "exp342",
+  "personalInfo": {
+    "fullName": "Dr. Sophie Müller",
+    "title": "Senior AI Researcher",
+    "email": "sophie.mueller@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 723 78866496",
+    "image": "/experts/sophie-mueller.jpg",
+    "languages": [
+      "Englisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Neural Networks",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AI Governance"
+    ],
+    "industries": [
+      "Energy",
+      "Manufacturing",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

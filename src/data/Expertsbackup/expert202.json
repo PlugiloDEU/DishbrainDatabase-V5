@@ -1,0 +1,42 @@
+{
+  "id": "exp202",
+  "personalInfo": {
+    "fullName": "PD Dr. Maria Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "maria.hoffmann@technische-universitaet-muenchen.de",
+    "phone": "+49 546 45932360",
+    "image": "/experts/maria-hoffmann.jpg",
+    "languages": [
+      "Italienisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Reinforcement Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

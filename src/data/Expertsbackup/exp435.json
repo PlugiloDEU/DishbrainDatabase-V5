@@ -1,0 +1,42 @@
+{
+  "id": "exp435",
+  "personalInfo": {
+    "fullName": "Dr. Alexander Weber",
+    "title": "Senior AI Researcher",
+    "email": "alexander.weber@rwth-aachen.de",
+    "phone": "+49 798 40587809",
+    "image": "/experts/alexander-weber.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Reinforcement Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

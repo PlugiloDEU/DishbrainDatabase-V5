@@ -1,0 +1,42 @@
+{
+  "id": "exp287",
+  "personalInfo": {
+    "fullName": "Dr. Julia Schulz",
+    "title": "Senior AI Researcher",
+    "email": "julia.schulz@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 284 47908094",
+    "image": "/experts/julia-schulz.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

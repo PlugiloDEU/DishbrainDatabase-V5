@@ -1,53 +1,29 @@
 {
   "id": "exp386",
-  "personalInfo": {
-    "fullName": "Prof. Maria Weber",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Quantum AI",
+  "expertise": [
+    "Quantum AI",
+    "Robotics",
+    "Neural Networks"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "maria.weber@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 811 84947535",
-    "image": "/experts/maria-weber.jpg",
-    "languages": [
-      "Italienisch",
-      "Mandarin"
-    ]
+    "phone": "+49 811 84947535"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "AI Research Center",
-    "position": "Professor",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Quantum AI",
-      "Robotics",
-      "Neural Networks"
-    ],
-    "secondary": [
-      "AI Governance",
-      "Edge Computing"
-    ],
-    "industries": [
-      "Robotics",
-      "Manufacturing",
-      "Finance"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in Neural Networks",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:02.951Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

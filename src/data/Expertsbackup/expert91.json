@@ -1,0 +1,42 @@
+{
+  "id": "exp091",
+  "personalInfo": {
+    "fullName": "Prof. Alexander Koch",
+    "title": "Professor für KI und ML",
+    "email": "alexander.koch@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 727 20392157",
+    "image": "/experts/alexander-koch.jpg",
+    "languages": [
+      "Italienisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Robotics",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

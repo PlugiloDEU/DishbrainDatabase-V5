@@ -1,0 +1,41 @@
+{
+  "id": "exp255",
+  "personalInfo": {
+    "fullName": "Prof. Laura Müller",
+    "title": "Professor für KI und ML",
+    "email": "laura.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 325 16163439",
+    "image": "/experts/laura-mueller.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Neural Networks",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AI Governance"
+    ],
+    "industries": [
+      "Research",
+      "Manufacturing",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

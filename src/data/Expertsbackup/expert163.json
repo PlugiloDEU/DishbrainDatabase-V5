@@ -1,0 +1,42 @@
+{
+  "id": "exp163",
+  "personalInfo": {
+    "fullName": "Prof. Laura Wagner",
+    "title": "Professor für KI und ML",
+    "email": "laura.wagner@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 597 22037827",
+    "image": "/experts/laura-wagner.jpg",
+    "languages": [
+      "Englisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Quantum AI",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Healthcare",
+      "Manufacturing",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

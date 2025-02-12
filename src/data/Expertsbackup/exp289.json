@@ -1,0 +1,42 @@
+{
+  "id": "exp289",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "christian.hoffmann@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 840 87057094",
+    "image": "/experts/christian-hoffmann.jpg",
+    "languages": [
+      "Italienisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Robotics",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp304",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Meyer",
+    "title": "Professor für KI und ML",
+    "email": "christian.meyer@rwth-aachen.de",
+    "phone": "+49 964 33994308",
+    "image": "/experts/christian-meyer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AutoML",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Robotics",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

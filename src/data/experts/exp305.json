@@ -1,63 +1,29 @@
 {
   "id": "exp305",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Kristian",
-    "lastName": "Kersting",
-    "fullName": "Kristian Kersting",
-    "image": "/experts/kristian-kersting.jpg",
-    "email": "https://drive.google.com/file/u/1/d/1bb7U5Kkza6k7KnsxP-aAa2NgHN0JoDhi/view?usp=drive_open",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Professor für maschinelles Lernen",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Akademisch"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Professor für maschinelles Lernen",
-    "organization": null,
-    "focus": "Akademisch"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/kerstingaiml/",
-    "company": null
-  },
-  "tags": [
-    "Akademisch",
-    "Professor für maschinelles Lernen"
+  "titel": "",
+  "position": "Professor für maschinelles Lernen",
+  "organisation": null,
+  "fachgebiet": "Akademisch",
+  "expertise": [
+    "Akademisch"
   ],
-  "source": "https://www.deutschland.de/de/topic/wissen/kuenstliche-intelligenz-in-deutschland-fuehrende-forscher",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://drive.google.com/file/u/1/d/1bb7U5Kkza6k7KnsxP-aAa2NgHN0JoDhi/view?usp=drive_open",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/kerstingaiml/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:02.137Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

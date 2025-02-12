@@ -1,63 +1,28 @@
 {
   "id": "exp215",
-  "personalInfo": {
-    "title": "Dr.",
-    "firstName": "Harald",
-    "lastName": "Schönfeld",
-    "fullName": "Dr. Harald Schönfeld",
-    "image": "/experts/dr--harald-sch-nfeld.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Butterflymanager GmbH",
-    "position": "Geschäftsführer",
-    "department": null,
-    "website": "https://www.bigdata-insider.de/ki-experte-warnt-vor-falschen-ki-beratern-a-884277/"
-  },
-  "expertise": {
-    "primary": [
-      "Beratung"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Geschäftsführer",
-    "organization": "Butterflymanager GmbH",
-    "focus": "Beratung"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.bigdata-insider.de/ki-experte-warnt-vor-falschen-ki-beratern-a-884277/"
-  },
-  "tags": [
-    "Beratung",
-    "Geschäftsführer"
+  "titel": "Dr.",
+  "position": "Geschäftsführer",
+  "organisation": "Butterflymanager GmbH",
+  "fachgebiet": "Beratung",
+  "expertise": [
+    "Beratung"
   ],
-  "source": "Text",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:58.421Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

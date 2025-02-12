@@ -1,0 +1,41 @@
+{
+  "id": "exp073",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Martin Meyer",
+    "title": "Professor für KI und ML",
+    "email": "martin.meyer@rwth-aachen.de",
+    "phone": "+49 484 56259005",
+    "image": "/experts/martin-meyer.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Healthcare",
+      "Finance",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

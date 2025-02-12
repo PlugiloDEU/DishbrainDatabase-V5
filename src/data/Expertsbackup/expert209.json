@@ -1,0 +1,41 @@
+{
+  "id": "exp209",
+  "personalInfo": {
+    "fullName": "PD Dr. Anna Müller",
+    "title": "Senior AI Researcher",
+    "email": "anna.mueller@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 436 13448128",
+    "image": "/experts/anna-mueller.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Energy",
+      "Education",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

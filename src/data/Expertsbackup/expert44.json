@@ -1,0 +1,42 @@
+{
+  "id": "exp044",
+  "personalInfo": {
+    "fullName": "Dr. Laura Weber",
+    "title": "Senior AI Researcher",
+    "email": "laura.weber@rwth-aachen.de",
+    "phone": "+49 960 60762436",
+    "image": "/experts/laura-weber.jpg",
+    "languages": [
+      "Italienisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AI Security"
+    ],
+    "industries": [
+      "Automotive",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

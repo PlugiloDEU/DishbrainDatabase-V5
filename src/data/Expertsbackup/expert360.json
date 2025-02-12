@@ -1,0 +1,42 @@
+{
+  "id": "exp360",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Fischer",
+    "title": "Senior AI Researcher",
+    "email": "thomas.fischer@fraunhofer-iais.de",
+    "phone": "+49 524 50433412",
+    "image": "/experts/thomas-fischer.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Quantum AI",
+      "Explainable AI",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Healthcare",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

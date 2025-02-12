@@ -1,63 +1,28 @@
 {
   "id": "exp161",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Dennis",
-    "lastName": "Ballwieser",
-    "fullName": "Dennis Ballwieser",
-    "image": "/experts/dennis-ballwieser.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Wort & Bild Verlagsgruppe",
-    "position": "Chefredakteur",
-    "department": null,
-    "website": "https://wortundbildverlag.de"
-  },
-  "expertise": {
-    "primary": [
-      "Medien"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Chefredakteur",
-    "organization": "Wort & Bild Verlagsgruppe",
-    "focus": "Medien"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/ballwieser/",
-    "company": "https://wortundbildverlag.de"
-  },
-  "tags": [
-    "Medien",
-    "Chefredakteur"
+  "titel": "",
+  "position": "Chefredakteur",
+  "organisation": "Wort & Bild Verlagsgruppe",
+  "fachgebiet": "Medien",
+  "expertise": [
+    "Medien"
   ],
-  "source": "Wort & Bild Verlag",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/ballwieser/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:57.144Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,41 @@
+{
+  "id": "exp351",
+  "personalInfo": {
+    "fullName": "PD Dr. Maria Müller",
+    "title": "Senior AI Researcher",
+    "email": "maria.mueller@rwth-aachen.de",
+    "phone": "+49 786 86829365",
+    "image": "/experts/maria-mueller.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Quantum AI",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AutoML"
+    ],
+    "industries": [
+      "Education",
+      "Robotics",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

@@ -1,52 +1,29 @@
 {
   "id": "exp010",
-  "personalInfo": {
-    "fullName": "Prof. Alexander Hoffmann",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "RWTH Aachen",
+  "fachgebiet": "AI Ethics",
+  "expertise": [
+    "AI Ethics",
+    "Deep Learning",
+    "Natural Language Processing"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "alexander.hoffmann@rwth-aachen.de",
-    "phone": "+49 949 39422104",
-    "image": "/experts/alexander-hoffmann.jpg",
-    "languages": [
-      "Deutsch"
-    ]
+    "phone": "+49 949 39422104"
   },
-  "institution": {
-    "name": "RWTH Aachen",
-    "department": "AI Research Center",
-    "position": "Professor",
-    "location": "Aachen"
-  },
-  "expertise": {
-    "primary": [
-      "AI Ethics",
-      "Deep Learning",
-      "Natural Language Processing"
-    ],
-    "secondary": [
-      "AI Governance",
-      "Federated Learning"
-    ],
-    "industries": [
-      "Education",
-      "Manufacturing",
-      "Finance"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "RWTH Aachen",
-    "focus": "Forschung in Deep Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:03.758Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

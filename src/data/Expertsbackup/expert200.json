@@ -1,0 +1,42 @@
+{
+  "id": "exp200",
+  "personalInfo": {
+    "fullName": "Dr. Anna Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "anna.hoffmann@technische-universitaet-berlin.de",
+    "phone": "+49 929 41121734",
+    "image": "/experts/anna-hoffmann.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Machine Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AutoML"
+    ],
+    "industries": [
+      "Automotive",
+      "Energy",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

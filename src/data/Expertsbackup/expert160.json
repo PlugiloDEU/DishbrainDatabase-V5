@@ -1,0 +1,41 @@
+{
+  "id": "exp160",
+  "personalInfo": {
+    "fullName": "PD Dr. Maria Fischer",
+    "title": "Senior AI Researcher",
+    "email": "maria.fischer@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 218 57593842",
+    "image": "/experts/maria-fischer.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Computer Vision",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "AutoML"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Healthcare",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

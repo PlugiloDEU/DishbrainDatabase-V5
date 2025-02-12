@@ -1,0 +1,42 @@
+{
+  "id": "exp299",
+  "personalInfo": {
+    "fullName": "Dr. Sophie Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "sophie.hoffmann@technische-universitaet-berlin.de",
+    "phone": "+49 866 95880451",
+    "image": "/experts/sophie-hoffmann.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Explainable AI",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AI Security",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Robotics",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

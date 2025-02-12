@@ -1,0 +1,41 @@
+{
+  "id": "exp070",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Müller",
+    "title": "Professor für KI und ML",
+    "email": "sophie.mueller@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 402 11011839",
+    "image": "/experts/sophie-mueller.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Computer Vision",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

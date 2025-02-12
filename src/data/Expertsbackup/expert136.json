@@ -1,0 +1,41 @@
+{
+  "id": "exp136",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Maria Koch",
+    "title": "Professor für KI und ML",
+    "email": "maria.koch@technische-universitaet-muenchen.de",
+    "phone": "+49 333 72615470",
+    "image": "/experts/maria-koch.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Computer Vision",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

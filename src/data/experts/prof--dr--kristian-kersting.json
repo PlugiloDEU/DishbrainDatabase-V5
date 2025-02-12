@@ -1,65 +1,28 @@
 {
   "id": "exp144",
-  "personalInfo": {
-    "title": "Prof. Dr.",
-    "firstName": "Kristian",
-    "lastName": "Kersting",
-    "fullName": "Prof. Dr. Kristian Kersting",
-    "image": "/experts/prof--dr--kristian-kersting.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz)",
-    "position": "Leiter des Forschungsbereichs Grundlagen der Systemischen KI",
-    "department": null,
-    "website": "DFKI"
-  },
-  "expertise": {
-    "primary": [
-      "Forschung in Künstlicher Intelligenz"
-    ],
-    "secondary": [],
-    "industries": [
-      "Research"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Leiter des Forschungsbereichs Grundlagen der Systemischen KI",
-    "organization": "DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz)",
-    "focus": "Forschung in Künstlicher Intelligenz"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "DFKI"
-  },
-  "tags": [
-    "Forschung in Künstlicher Intelligenz",
-    "Leiter des Forschungsbereichs Grundlagen der Systemischen KI"
+  "titel": "Prof. Dr.",
+  "position": "Leiter des Forschungsbereichs Grundlagen der Systemischen KI",
+  "organisation": "DFKI (Deutsches Forschungszentrum für Künstliche Intelligenz)",
+  "fachgebiet": "Forschung in Künstlicher Intelligenz",
+  "expertise": [
+    "Forschung in Künstlicher Intelligenz"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:13.619Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

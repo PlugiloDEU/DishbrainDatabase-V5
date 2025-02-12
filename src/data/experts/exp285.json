@@ -1,65 +1,29 @@
 {
   "id": "exp285",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Gitta",
-    "lastName": "Kutyniok",
-    "fullName": "Gitta Kutyniok",
-    "image": "/experts/gitta-kutyniok.jpg",
-    "email": "https://docs.google.com/document/u/1/d/195SX0BuMGQNt7detCCmjfrfgDqS22-D9/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Ludwig-Maximilians-Universität",
-    "position": "Professorin für Mathematik, Informatik und Statistik",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Forschung"
-    ],
-    "secondary": [],
-    "industries": [
-      "Research"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Professorin für Mathematik, Informatik und Statistik",
-    "organization": "Ludwig-Maximilians-Universität",
-    "focus": "Forschung"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/gitta-kutyniok-2606b215/",
-    "company": null
-  },
-  "tags": [
-    "Forschung",
-    "Professorin für Mathematik, Informatik und Statistik"
+  "titel": "",
+  "position": "Professorin für Mathematik, Informatik und Statistik",
+  "organisation": "Ludwig-Maximilians-Universität",
+  "fachgebiet": "Forschung",
+  "expertise": [
+    "Forschung"
   ],
-  "source": "https://www.burda.com/de/news/wie-ki-unser-leben-beeinflusst-interdisziplinarer/",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://docs.google.com/document/u/1/d/195SX0BuMGQNt7detCCmjfrfgDqS22-D9/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/gitta-kutyniok-2606b215/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.957Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,0 +1,41 @@
+{
+  "id": "exp400",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Michael Schulz",
+    "title": "Professor für KI und ML",
+    "email": "michael.schulz@rwth-aachen.de",
+    "phone": "+49 200 36226436",
+    "image": "/experts/michael-schulz.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Robotics",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

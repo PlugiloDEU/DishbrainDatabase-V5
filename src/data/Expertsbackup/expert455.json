@@ -1,0 +1,42 @@
+{
+  "id": "exp455",
+  "personalInfo": {
+    "fullName": "Prof. Michael Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "michael.hoffmann@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 525 77375175",
+    "image": "/experts/michael-hoffmann.jpg",
+    "languages": [
+      "Italienisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Robotics",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AutoML"
+    ],
+    "industries": [
+      "Energy",
+      "Automotive",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

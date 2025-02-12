@@ -1,52 +1,29 @@
 {
   "id": "exp371",
-  "personalInfo": {
-    "fullName": "Prof. Thomas Wagner",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Explainable AI",
+  "expertise": [
+    "Explainable AI",
+    "Quantum AI",
+    "Robotics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "thomas.wagner@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 400 69590229",
-    "image": "/experts/thomas-wagner.jpg",
-    "languages": [
-      "Mandarin"
-    ]
+    "phone": "+49 400 69590229"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "Institut für Künstliche Intelligenz",
-    "position": "Professor",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Explainable AI",
-      "Quantum AI",
-      "Robotics"
-    ],
-    "secondary": [
-      "Knowledge Graphs",
-      "AI Governance"
-    ],
-    "industries": [
-      "Healthcare",
-      "Research",
-      "Finance"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in Explainable AI",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:07.249Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

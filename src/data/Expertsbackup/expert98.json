@@ -1,0 +1,42 @@
+{
+  "id": "exp098",
+  "personalInfo": {
+    "fullName": "Prof. Martin Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "martin.hoffmann@rwth-aachen.de",
+    "phone": "+49 981 92995922",
+    "image": "/experts/martin-hoffmann.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

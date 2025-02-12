@@ -1,53 +1,29 @@
 {
   "id": "exp363",
-  "personalInfo": {
-    "fullName": "PD Dr. Sophie Hoffmann",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Deutsches Forschungszentrum für KI",
+  "fachgebiet": "AI Ethics",
+  "expertise": [
+    "AI Ethics",
+    "Reinforcement Learning",
+    "Neural Networks"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "sophie.hoffmann@deutsches-forschungszentrum-fuer-ki.de",
-    "phone": "+49 961 47182559",
-    "image": "/experts/sophie-hoffmann.jpg",
-    "languages": [
-      "Spanisch",
-      "Italienisch"
-    ]
+    "phone": "+49 961 47182559"
   },
-  "institution": {
-    "name": "Deutsches Forschungszentrum für KI",
-    "department": "AI Research Center",
-    "position": "Researcher",
-    "location": "Kaiserslautern"
-  },
-  "expertise": {
-    "primary": [
-      "AI Ethics",
-      "Reinforcement Learning",
-      "Neural Networks"
-    ],
-    "secondary": [
-      "AI Security",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Healthcare",
-      "Energy",
-      "Finance"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Deutsches Forschungszentrum für KI",
-    "focus": "Forschung in Reinforcement Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:02.801Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

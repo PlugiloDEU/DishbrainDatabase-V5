@@ -1,63 +1,28 @@
 {
   "id": "exp395",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Laure",
-    "lastName": "Zanna",
-    "fullName": "Laure Zanna",
-    "image": "/experts/laure-zanna.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Courant Institute, New York University",
-    "position": "Professor of Mathematics & Atmosphere/Ocean Science",
-    "department": null,
-    "website": "https://www.cims.nyu.edu"
-  },
-  "expertise": {
-    "primary": [
-      "Academia"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Professor of Mathematics & Atmosphere/Ocean Science",
-    "organization": "Courant Institute, New York University",
-    "focus": "Academia"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.cims.nyu.edu"
-  },
-  "tags": [
-    "Academia",
-    "Professor of Mathematics & Atmosphere/Ocean Science"
+  "titel": "",
+  "position": "Professor of Mathematics & Atmosphere/Ocean Science",
+  "organisation": "Courant Institute, New York University",
+  "fachgebiet": "Academia",
+  "expertise": [
+    "Academia"
   ],
-  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:02.981Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

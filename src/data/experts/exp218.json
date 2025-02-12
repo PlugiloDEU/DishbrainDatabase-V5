@@ -1,52 +1,29 @@
 {
   "id": "exp218",
-  "personalInfo": {
-    "fullName": "Dr. Martin Schmidt",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Robotics",
+  "expertise": [
+    "Robotics",
+    "Reinforcement Learning",
+    "AI Ethics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "martin.schmidt@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 486 42592826",
-    "image": "/experts/martin-schmidt.jpg",
-    "languages": [
-      "Mandarin"
-    ]
+    "phone": "+49 486 42592826"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "AI Research Center",
-    "position": "Researcher",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Robotics",
-      "Reinforcement Learning",
-      "AI Ethics"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "Edge Computing"
-    ],
-    "industries": [
-      "Education",
-      "Manufacturing",
-      "Energy"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in Reinforcement Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.446Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

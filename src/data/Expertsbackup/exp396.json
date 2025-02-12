@@ -1,0 +1,42 @@
+{
+  "id": "exp396",
+  "personalInfo": {
+    "fullName": "Dr. Maria Becker",
+    "title": "Senior AI Researcher",
+    "email": "maria.becker@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 172 42704598",
+    "image": "/experts/maria-becker.jpg",
+    "languages": [
+      "Französisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Explainable AI",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

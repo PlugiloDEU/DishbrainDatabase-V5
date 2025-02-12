@@ -1,63 +1,28 @@
 {
   "id": "exp155",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Tanja",
-    "lastName": "Schneeberger",
-    "fullName": "Tanja Schneeberger",
-    "image": "/experts/tanja-schneeberger.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
-    "position": "Forscherin in der Gruppe \"Affective Computing\"",
-    "department": null,
-    "website": "https://dfki.de"
-  },
-  "expertise": {
-    "primary": [
-      "Wissenschaft"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Forscherin in der Gruppe \"Affective Computing\"",
-    "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
-    "focus": "Wissenschaft"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/tanja-schneeberger-a89a88122/",
-    "company": "https://dfki.de"
-  },
-  "tags": [
-    "Wissenschaft",
-    "Forscherin in der Gruppe \"Affective Computing\""
+  "titel": "",
+  "position": "Forscherin in der Gruppe \"Affective Computing\"",
+  "organisation": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+  "fachgebiet": "Wissenschaft",
+  "expertise": [
+    "Wissenschaft"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/tanja-schneeberger-a89a88122/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:00.898Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,63 +1,28 @@
 {
   "id": "exp228",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Tobias",
-    "lastName": "Rietzler",
-    "fullName": "Tobias Rietzler",
-    "image": "/experts/tobias-rietzler.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Robominds",
-    "position": "CEO, Gründer",
-    "department": null,
-    "website": "https://www.robco.de"
-  },
-  "expertise": {
-    "primary": [
-      "Robotik"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "CEO, Gründer",
-    "organization": "Robominds",
-    "focus": "Robotik"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.robco.de"
-  },
-  "tags": [
-    "Robotik",
-    "CEO, Gründer"
+  "titel": "",
+  "position": "CEO, Gründer",
+  "organisation": "Robominds",
+  "fachgebiet": "Robotik",
+  "expertise": [
+    "Robotik"
   ],
-  "source": "Text",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.513Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

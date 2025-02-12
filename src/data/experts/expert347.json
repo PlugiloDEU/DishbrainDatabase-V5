@@ -1,52 +1,29 @@
 {
   "id": "exp347",
-  "personalInfo": {
-    "fullName": "Prof. Anna Hoffmann",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Technische Universität München",
+  "fachgebiet": "Robotics",
+  "expertise": [
+    "Robotics",
+    "Machine Learning",
+    "Quantum AI"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "anna.hoffmann@technische-universitaet-muenchen.de",
-    "phone": "+49 604 28536672",
-    "image": "/experts/anna-hoffmann.jpg",
-    "languages": [
-      "Französisch"
-    ]
+    "phone": "+49 604 28536672"
   },
-  "institution": {
-    "name": "Technische Universität München",
-    "department": "Institut für Intelligente Systeme",
-    "position": "Professor",
-    "location": "München"
-  },
-  "expertise": {
-    "primary": [
-      "Robotics",
-      "Machine Learning",
-      "Quantum AI"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "Federated Learning"
-    ],
-    "industries": [
-      "Finance",
-      "Automotive",
-      "Energy"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Technische Universität München",
-    "focus": "Forschung in Machine Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:06.978Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

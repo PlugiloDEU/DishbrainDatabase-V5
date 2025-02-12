@@ -1,63 +1,28 @@
 {
   "id": "exp028",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Karl",
-    "lastName": "Hermann",
-    "fullName": "Karl Moritz Hermann",
-    "image": "/experts/karl-moritz-hermann.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Reliant AI Inc.",
-    "position": "CEO",
-    "department": null,
-    "website": "www.karlmoritz.com"
-  },
-  "expertise": {
-    "primary": [
-      "Invetment"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "CEO",
-    "organization": "Reliant AI Inc.",
-    "focus": "Invetment"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "www.karlmoritz.com"
-  },
-  "tags": [
-    "Invetment",
-    "CEO"
+  "titel": "",
+  "position": "CEO",
+  "organisation": "Reliant AI Inc.",
+  "fachgebiet": "Invetment",
+  "expertise": [
+    "Invetment"
   ],
-  "source": null,
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:10.283Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

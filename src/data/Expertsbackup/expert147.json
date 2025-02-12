@@ -1,0 +1,41 @@
+{
+  "id": "exp147",
+  "personalInfo": {
+    "fullName": "Dr. Maria Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "maria.hoffmann@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 322 23526520",
+    "image": "/experts/maria-hoffmann.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

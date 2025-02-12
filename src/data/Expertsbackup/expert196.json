@@ -1,0 +1,41 @@
+{
+  "id": "exp196",
+  "personalInfo": {
+    "fullName": "Dr. Anna Wagner",
+    "title": "Senior AI Researcher",
+    "email": "anna.wagner@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 534 74259751",
+    "image": "/experts/anna-wagner.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AutoML"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Finance",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

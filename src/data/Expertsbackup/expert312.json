@@ -1,0 +1,41 @@
+{
+  "id": "exp312",
+  "personalInfo": {
+    "fullName": "PD Dr. Michael Becker",
+    "title": "Senior AI Researcher",
+    "email": "michael.becker@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 705 61140395",
+    "image": "/experts/michael-becker.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Explainable AI",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

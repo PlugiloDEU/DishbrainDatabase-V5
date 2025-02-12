@@ -1,0 +1,41 @@
+{
+  "id": "exp042",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Anna Müller",
+    "title": "Professor für KI und ML",
+    "email": "anna.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 848 83386516",
+    "image": "/experts/anna-mueller.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Neural Networks",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp265",
+  "personalInfo": {
+    "fullName": "PD Dr. Maria Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "maria.schmidt@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 562 31864025",
+    "image": "/experts/maria-schmidt.jpg",
+    "languages": [
+      "Spanisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Robotics",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AutoML"
+    ],
+    "industries": [
+      "Research",
+      "Finance",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

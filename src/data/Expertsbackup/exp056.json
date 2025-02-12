@@ -1,0 +1,41 @@
+{
+  "id": "exp056",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Weber",
+    "title": "Professor für KI und ML",
+    "email": "julia.weber@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 660 52299320",
+    "image": "/experts/julia-weber.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

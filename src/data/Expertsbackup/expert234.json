@@ -1,0 +1,42 @@
+{
+  "id": "exp234",
+  "personalInfo": {
+    "fullName": "Dr. Thomas Koch",
+    "title": "Senior AI Researcher",
+    "email": "thomas.koch@fraunhofer-iais.de",
+    "phone": "+49 173 49128466",
+    "image": "/experts/thomas-koch.jpg",
+    "languages": [
+      "Spanisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Neural Networks",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Automotive",
+      "Energy",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

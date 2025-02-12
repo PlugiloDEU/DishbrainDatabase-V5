@@ -1,65 +1,28 @@
 {
   "id": "exp108",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Lukas",
-    "lastName": "Hüttis",
-    "fullName": "Lukas Hüttis",
-    "image": "/experts/lukas-h-ttis.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Web3, AI & Music",
-    "position": "Speaker",
-    "department": null,
-    "website": "ogcon.de"
-  },
-  "expertise": {
-    "primary": [
-      "KI Anwendung"
-    ],
-    "secondary": [],
-    "industries": [
-      "AI"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Speaker",
-    "organization": "Web3, AI & Music",
-    "focus": "KI Anwendung"
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/lukas-hüttis-3b7998139/",
-    "company": "ogcon.de"
-  },
-  "tags": [
-    "KI Anwendung",
-    "Speaker"
+  "titel": "",
+  "position": "Speaker",
+  "organisation": "Web3, AI & Music",
+  "fachgebiet": "KI Anwendung",
+  "expertise": [
+    "KI Anwendung"
   ],
-  "source": "ogcon.de",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/lukas-hüttis-3b7998139/"
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:11.752Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

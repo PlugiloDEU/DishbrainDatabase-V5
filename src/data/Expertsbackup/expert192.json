@@ -1,0 +1,42 @@
+{
+  "id": "exp192",
+  "personalInfo": {
+    "fullName": "Dr. Martin Weber",
+    "title": "Senior AI Researcher",
+    "email": "martin.weber@technische-universitaet-muenchen.de",
+    "phone": "+49 562 58455922",
+    "image": "/experts/martin-weber.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Neural Networks",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AutoML"
+    ],
+    "industries": [
+      "Automotive",
+      "Finance",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

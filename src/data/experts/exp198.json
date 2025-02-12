@@ -1,53 +1,29 @@
 {
   "id": "exp198",
-  "personalInfo": {
-    "fullName": "Prof. Thomas Meyer",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Ludwig-Maximilians-Universität München",
+  "fachgebiet": "Neural Networks",
+  "expertise": [
+    "Neural Networks",
+    "AI Ethics",
+    "Machine Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "thomas.meyer@ludwig-maximilians-universitaet-muenchen.de",
-    "phone": "+49 260 20140350",
-    "image": "/experts/thomas-meyer.jpg",
-    "languages": [
-      "Spanisch",
-      "Italienisch"
-    ]
+    "phone": "+49 260 20140350"
   },
-  "institution": {
-    "name": "Ludwig-Maximilians-Universität München",
-    "department": "Machine Learning Lab",
-    "position": "Professor",
-    "location": "München"
-  },
-  "expertise": {
-    "primary": [
-      "Neural Networks",
-      "AI Ethics",
-      "Machine Learning"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Education",
-      "Manufacturing",
-      "Finance"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Ludwig-Maximilians-Universität München",
-    "focus": "Forschung in Machine Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:01.269Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

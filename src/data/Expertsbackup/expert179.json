@@ -1,0 +1,41 @@
+{
+  "id": "exp179",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Müller",
+    "title": "Professor für KI und ML",
+    "email": "thomas.mueller@rwth-aachen.de",
+    "phone": "+49 913 16379132",
+    "image": "/experts/thomas-mueller.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Research",
+      "Finance",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

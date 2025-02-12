@@ -1,0 +1,42 @@
+{
+  "id": "exp216",
+  "personalInfo": {
+    "fullName": "Dr. Maria Wagner",
+    "title": "Senior AI Researcher",
+    "email": "maria.wagner@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 437 92715261",
+    "image": "/experts/maria-wagner.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "AI Ethics",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AutoML"
+    ],
+    "industries": [
+      "Robotics",
+      "Manufacturing",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

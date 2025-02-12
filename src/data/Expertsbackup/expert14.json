@@ -1,0 +1,42 @@
+{
+  "id": "exp014",
+  "personalInfo": {
+    "fullName": "PD Dr. Laura Wagner",
+    "title": "Senior AI Researcher",
+    "email": "laura.wagner@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 249 39865739",
+    "image": "/experts/laura-wagner.jpg",
+    "languages": [
+      "Italienisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Energy",
+      "Finance",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

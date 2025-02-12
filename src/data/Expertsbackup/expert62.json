@@ -1,0 +1,41 @@
+{
+  "id": "exp062",
+  "personalInfo": {
+    "fullName": "Dr. Julia Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "julia.hoffmann@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 440 65271212",
+    "image": "/experts/julia-hoffmann.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Finance",
+      "Healthcare",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

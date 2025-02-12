@@ -1,65 +1,28 @@
 {
   "id": "exp424",
-  "personalInfo": {
-    "title": null,
-    "firstName": "David",
-    "lastName": "Ha",
-    "fullName": "David Ha",
-    "image": "/experts/david-ha.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Sakana AI",
-    "position": "KI-Experte",
-    "department": null,
-    "website": "Sakana AI Homepage"
-  },
-  "expertise": {
-    "primary": [
-      "Tech Industry"
-    ],
-    "secondary": [],
-    "industries": [
-      "Technology"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "KI-Experte",
-    "organization": "Sakana AI",
-    "focus": "Tech Industry"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "Sakana AI Homepage"
-  },
-  "tags": [
-    "Tech Industry",
-    "KI-Experte"
+  "titel": "",
+  "position": "KI-Experte",
+  "organisation": "Sakana AI",
+  "fachgebiet": "Tech Industry",
+  "expertise": [
+    "Tech Industry"
   ],
-  "source": "t3n.de",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:57.124Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

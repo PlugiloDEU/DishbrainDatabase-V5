@@ -1,52 +1,29 @@
 {
   "id": "exp395",
-  "personalInfo": {
-    "fullName": "Prof. Michael Wagner",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Neural Networks",
+  "expertise": [
+    "Neural Networks",
+    "Explainable AI",
+    "Machine Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "michael.wagner@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 270 99026757",
-    "image": "/experts/michael-wagner.jpg",
-    "languages": [
-      "Spanisch"
-    ]
+    "phone": "+49 270 99026757"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "Machine Learning Lab",
-    "position": "Professor",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Neural Networks",
-      "Explainable AI",
-      "Machine Learning"
-    ],
-    "secondary": [
-      "AI Security",
-      "Edge Computing"
-    ],
-    "industries": [
-      "Energy",
-      "Finance",
-      "Automotive"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in Machine Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:07.438Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

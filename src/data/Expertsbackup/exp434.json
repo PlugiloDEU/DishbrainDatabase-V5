@@ -1,0 +1,42 @@
+{
+  "id": "exp434",
+  "personalInfo": {
+    "fullName": "Dr. Laura Wagner",
+    "title": "Senior AI Researcher",
+    "email": "laura.wagner@technische-universitaet-muenchen.de",
+    "phone": "+49 623 74422997",
+    "image": "/experts/laura-wagner.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Education",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp376",
+  "personalInfo": {
+    "fullName": "Dr. Martin Fischer",
+    "title": "Senior AI Researcher",
+    "email": "martin.fischer@rwth-aachen.de",
+    "phone": "+49 392 15106808",
+    "image": "/experts/martin-fischer.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Neural Networks",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Governance"
+    ],
+    "industries": [
+      "Healthcare",
+      "Energy",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp121",
+  "personalInfo": {
+    "fullName": "Dr. Michael Weber",
+    "title": "Senior AI Researcher",
+    "email": "michael.weber@rwth-aachen.de",
+    "phone": "+49 740 96383524",
+    "image": "/experts/michael-weber.jpg",
+    "languages": [
+      "Französisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Neural Networks",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Finance",
+      "Robotics",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

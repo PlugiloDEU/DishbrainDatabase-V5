@@ -1,52 +1,29 @@
 {
   "id": "exp027",
-  "personalInfo": {
-    "fullName": "Prof. Christian Becker",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Max-Planck-Institut für Intelligente Systeme",
+  "fachgebiet": "Natural Language Processing",
+  "expertise": [
+    "Natural Language Processing",
+    "Explainable AI",
+    "Quantum AI"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "christian.becker@max-planck-institut-fuer-intelligente-systeme.de",
-    "phone": "+49 575 86498758",
-    "image": "/experts/christian-becker.jpg",
-    "languages": [
-      "Englisch"
-    ]
+    "phone": "+49 575 86498758"
   },
-  "institution": {
-    "name": "Max-Planck-Institut für Intelligente Systeme",
-    "department": "AI Research Center",
-    "position": "Professor",
-    "location": "Tübingen"
-  },
-  "expertise": {
-    "primary": [
-      "Natural Language Processing",
-      "Explainable AI",
-      "Quantum AI"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Robotics",
-      "Energy",
-      "Automotive"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Max-Planck-Institut für Intelligente Systeme",
-    "focus": "Forschung in Natural Language Processing",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:05.956Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

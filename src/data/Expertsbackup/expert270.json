@@ -1,0 +1,41 @@
+{
+  "id": "exp270",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Koch",
+    "title": "Professor für KI und ML",
+    "email": "julia.koch@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 302 63036095",
+    "image": "/experts/julia-koch.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Robotics"
+    ],
+    "secondary": [
+      "AI Security",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp120",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Michael Koch",
+    "title": "Professor für KI und ML",
+    "email": "michael.koch@fraunhofer-iais.de",
+    "phone": "+49 371 25762728",
+    "image": "/experts/michael-koch.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Robotics",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Security"
+    ],
+    "industries": [
+      "Education",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

@@ -1,63 +1,28 @@
 {
   "id": "exp160",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Torsten",
-    "lastName": "Holler",
-    "fullName": "Torsten Holler",
-    "image": "/experts/torsten-holler.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Autor",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Journalismus"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Autor",
-    "organization": null,
-    "focus": "Journalismus"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": null
-  },
-  "tags": [
-    "Journalismus",
-    "Autor"
+  "titel": "",
+  "position": "Autor",
+  "organisation": null,
+  "fachgebiet": "Journalismus",
+  "expertise": [
+    "Journalismus"
   ],
-  "source": "Artikelbild",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:15.006Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

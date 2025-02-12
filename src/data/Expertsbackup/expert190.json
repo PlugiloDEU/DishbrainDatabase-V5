@@ -1,0 +1,41 @@
+{
+  "id": "exp190",
+  "personalInfo": {
+    "fullName": "Dr. Martin Müller",
+    "title": "Senior AI Researcher",
+    "email": "martin.mueller@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 284 87216127",
+    "image": "/experts/martin-mueller.jpg",
+    "languages": [
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Neural Networks",
+      "Robotics"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Energy",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

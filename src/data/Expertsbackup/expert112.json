@@ -1,0 +1,42 @@
+{
+  "id": "exp112",
+  "personalInfo": {
+    "fullName": "PD Dr. Michael Müller",
+    "title": "Senior AI Researcher",
+    "email": "michael.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 337 70387972",
+    "image": "/experts/michael-mueller.jpg",
+    "languages": [
+      "Deutsch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AutoML"
+    ],
+    "industries": [
+      "Energy",
+      "Finance",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

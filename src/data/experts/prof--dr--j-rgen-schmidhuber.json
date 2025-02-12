@@ -1,65 +1,30 @@
 {
   "id": "exp354",
-  "personalInfo": {
-    "title": "Prof. Dr.",
-    "firstName": "Jürgen",
-    "lastName": "Schmidhuber",
-    "fullName": "Prof. Dr. Jürgen Schmidhuber",
-    "image": "/experts/prof--dr--j-rgen-schmidhuber.jpg",
-    "email": "https://docs.google.com/document/d/1k-1ryjC3aJJNvdouG5jqPnSPoXU4F1X0/edit",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "KAUST, NNAISENSE, Swiss AI Lab IDSIA",
-    "position": "Director, Co-Founder & Chief Scientist, Scientific Director",
-    "department": null,
-    "website": "https://www.idsia.ch/, https://www.nnaisense.com/"
-  },
-  "expertise": {
-    "primary": [
-      "Forscher",
-      "Kultfigur"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Director, Co-Founder & Chief Scientist, Scientific Director",
-    "organization": "KAUST, NNAISENSE, Swiss AI Lab IDSIA",
-    "focus": "Forscher, Kultfigur"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.idsia.ch/, https://www.nnaisense.com/"
-  },
-  "tags": [
+  "titel": "Prof. Dr.",
+  "position": "Director, Co-Founder & Chief Scientist, Scientific Director",
+  "organisation": "KAUST, NNAISENSE, Swiss AI Lab IDSIA",
+  "fachgebiet": "Forscher",
+  "expertise": [
     "Forscher",
-    "Kultfigur",
-    "Director, Co-Founder & Chief Scientist, Scientific Director"
+    "Kultfigur"
   ],
-  "source": "https://riseof.ai/conference-2024/",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://docs.google.com/document/d/1k-1ryjC3aJJNvdouG5jqPnSPoXU4F1X0/edit",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +82,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:13.614Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

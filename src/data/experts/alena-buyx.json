@@ -61,23 +61,9 @@
   }
 ],
 "kontakt": {
-  "email": "alena.buyx@tum.de",
-  "phone": "+49 89 4140 4041",
-  "website": "https://www.geschichte.med.tum.de/institut/personen/buyx/",
-  "address": {
-    "institution": "Technical University of Munich",
-    "department": "Institute for History and Ethics of Medicine",
-    "country": "Germany"
+    "email": "alena.buyx@tum.de"
   },
-  "officeHours": {
-    "monday-thursday": "9:00-15:00",
-    "friday": "9:00-13:00"
-  }
-},
-"social_media": {
-  "linkedin": "https://www.linkedin.com/in/alena-buyx/",
-  "twitter": "https://twitter.com/alenabuyx"
-},
+  "social_media": {},
 "standort": "München, Deutschland",
 "selectedPublications": [
   {
@@ -147,42 +133,6 @@
     "year": 2021
   }
 ],
-"tags": [
-  "Ethik",
-  "KI",
-  "Medizin",
-  "Digitalisierung",
-  "AI Ethics",
-  "Medical Ethics",
-  "Health Technologies",
-  "Research Ethics",
-  "Biomedical Innovation"
-],
-  "languages": [
-    "German",
-    "English"
-  ],
-"image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Re-publica_22_-_Alena_Buyx.jpg",
-"created_at": "2024-02-03T12:00:00.000Z",
-"last_updated": "2024-02-05T14:30:00.000Z",
-"verified": true,
-"verification_source": "human",
-"expertise_sources": {
-  "Medizinethik": "human",
-  "KI-Ethik": "human",
-  "Bioethik": "human",
-  "Digitale Gesundheit": "ai",
-  "Ethische Aspekte der KI in der Medizin": "human"
-},
-"data_sources": {
-  "personal_info": "human",
-  "publications": "human",
-  "contact": "human",
-  "academic_positions": "human",
-  "awards": "human",
-  "research_interests": "ai"
-},
-  "description": "Alena Buyx is a physician, philosopher, and Professor of Medical Ethics and Health Technologies at the Technical University of Munich (TUM). She is also the Director of the Institute of History and Ethics in Medicine at TUM. Her work focuses on ethical issues in medicine and health technologies, particularly in the context of artificial intelligence, big data, and digitalization. She is also the Chair of the German Ethics Council.",
   "sources": {
     "personal_info": {
       "name": {
@@ -474,5 +424,10 @@
     "last_full_verification": "2024-02-05",
     "verification_method": "manual human verification",
     "missing_fields": []
-  }
+  },
+"created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2025-02-12T19:17:55.565Z",
+"verified": true,
+"verification_source": "human",
+  "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Re-publica_22_-_Alena_Buyx.jpg"
 }

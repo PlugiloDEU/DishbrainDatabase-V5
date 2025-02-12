@@ -1,0 +1,42 @@
+{
+  "id": "exp095",
+  "personalInfo": {
+    "fullName": "Prof. Alexander Wagner",
+    "title": "Professor für KI und ML",
+    "email": "alexander.wagner@rwth-aachen.de",
+    "phone": "+49 646 78335616",
+    "image": "/experts/alexander-wagner.jpg",
+    "languages": [
+      "Englisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "AI Ethics",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "AutoML"
+    ],
+    "industries": [
+      "Robotics",
+      "Energy",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

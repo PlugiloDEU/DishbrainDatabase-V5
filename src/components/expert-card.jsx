@@ -1,7 +1,7 @@
 "use client";
 import React from 'react';
 
-const ExpertCard = ({ expert, onClick }) => {
+const ExpertCard = ({ expert, onClick, onUpdate }) => {
   // Helper to get the expert's name
   const getName = () => {
     if (typeof expert.name === 'string') return expert.name;
@@ -101,87 +101,105 @@ const ExpertCard = ({ expert, onClick }) => {
   const title = getTitle();
   const organization = getOrganization();
 
+  const handleDetailUpdate = (newDetails) => {
+    const updatedExpert = {
+      ...expert,
+      ...newDetails,
+      // Force update timestamp
+      last_updated: new Date().toISOString()
+    };
+    onUpdate(updatedExpert);
+  };
+
   return (
-    <div 
-      className="bg-white rounded-lg shadow-md p-4 hover:shadow-lg transition-shadow cursor-pointer"
-      onClick={() => onClick(expert)}
-    >
-      <div className="flex items-start gap-4">
-        {/* Avatar/Image */}
-        <div className="w-16 h-16 rounded-full bg-gray-200 flex-shrink-0 overflow-hidden">
-          {getAvatarUrl() ? (
-            <img 
-              src={getAvatarUrl()}
-              alt={getName()}
-              className="w-full h-full object-cover"
-              onError={(e) => {
-                e.target.onerror = null; // Prevent infinite loop
-                e.target.src = '/experts/default-expert-avatar.png';
-              }}
-            />
-          ) : (
-            <div className="w-full h-full flex items-center justify-center bg-blue-100 text-blue-600">
-              <span className="text-xl font-bold">
-                {getName().charAt(0)}
-              </span>
+    <div className="relative">
+      <div 
+        className="bg-white rounded-lg shadow-md p-4 hover:shadow-lg transition-shadow cursor-pointer"
+        onClick={() => onClick(expert)}
+      >
+        <div className="flex items-start gap-4">
+          {/* Avatar/Image */}
+          <div className="w-16 h-16 rounded-full bg-gray-200 flex-shrink-0 overflow-hidden">
+            {getAvatarUrl() ? (
+              <img 
+                src={getAvatarUrl()}
+                alt={getName()}
+                className="w-full h-full object-cover"
+                onError={(e) => {
+                  e.target.onerror = null; // Prevent infinite loop
+                  e.target.src = '/experts/default-expert-avatar.png';
+                }}
+              />
+            ) : (
+              <div className="w-full h-full flex items-center justify-center bg-blue-100 text-blue-600">
+                <span className="text-xl font-bold">
+                  {getName().charAt(0)}
+                </span>
+              </div>
+            )}
+          </div>
+
+          {/* Expert Info */}
+          <div className="flex-1">
+            <h3 className="text-lg font-semibold text-gray-900">{getName()}</h3>
+            
+            {/* Title & Organization - Always show */}
+            <div className="text-sm text-gray-600 mb-2">
+              <span className="font-medium">{title || 'Keine Position angegeben'}</span>
+              {organization && (
+                <>
+                  <span className="mx-1">·</span>
+                  <span>{organization}</span>
+                </>
+              )}
+            </div>
+
+            {/* Expertise Tags - Always show */}
+            <div className="flex flex-wrap gap-2 mt-2">
+              {expertise.length > 0 ? (
+                <>
+                  {expertise.slice(0, 3).map((item, index) => (
+                    <span
+                      key={index}
+                      className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800"
+                    >
+                      {item}
+                    </span>
+                  ))}
+                  {expertise.length > 3 && (
+                    <span className="text-xs text-gray-500">
+                      +{expertise.length - 3} more
+                    </span>
+                  )}
+                </>
+              ) : (
+                <span className="text-xs text-gray-500 italic">
+                  Keine Expertise angegeben
+                </span>
+              )}
+            </div>
+
+            {/* Location - Always show */}
+            <div className="flex items-center mt-2 text-sm text-gray-500">
+              <i className="fas fa-map-marker-alt mr-1"></i>
+              <span>{location || 'Standort nicht angegeben'}</span>
+            </div>
+          </div>
+
+          {/* Verification Badge */}
+          {expert.verified && (
+            <div className="text-blue-500" title="Verified Expert">
+              <i className="fas fa-check-circle"></i>
             </div>
           )}
         </div>
-
-        {/* Expert Info */}
-        <div className="flex-1">
-          <h3 className="text-lg font-semibold text-gray-900">{getName()}</h3>
-          
-          {/* Title & Organization - Always show */}
-          <div className="text-sm text-gray-600 mb-2">
-            <span className="font-medium">{title || 'Keine Position angegeben'}</span>
-            {organization && (
-              <>
-                <span className="mx-1">·</span>
-                <span>{organization}</span>
-              </>
-            )}
-          </div>
-
-          {/* Expertise Tags - Always show */}
-          <div className="flex flex-wrap gap-2 mt-2">
-            {expertise.length > 0 ? (
-              <>
-                {expertise.slice(0, 3).map((item, index) => (
-                  <span
-                    key={index}
-                    className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800"
-                  >
-                    {item}
-                  </span>
-                ))}
-                {expertise.length > 3 && (
-                  <span className="text-xs text-gray-500">
-                    +{expertise.length - 3} more
-                  </span>
-                )}
-              </>
-            ) : (
-              <span className="text-xs text-gray-500 italic">
-                Keine Expertise angegeben
-              </span>
-            )}
-          </div>
-
-          {/* Location - Always show */}
-          <div className="flex items-center mt-2 text-sm text-gray-500">
-            <i className="fas fa-map-marker-alt mr-1"></i>
-            <span>{location || 'Standort nicht angegeben'}</span>
-          </div>
-        </div>
-
-        {/* Verification Badge */}
-        {expert.verified && (
-          <div className="text-blue-500" title="Verified Expert">
-            <i className="fas fa-check-circle"></i>
-          </div>
-        )}
       </div>
+      <button 
+        onClick={() => handleDetailUpdate({ position: 'New Position' })}
+        className="absolute bottom-2 right-2 p-2 text-sm bg-blue-100 hover:bg-blue-200 rounded-full"
+      >
+        <i className="fas fa-sync-alt"></i>
+      </button>
     </div>
   );
 };

@@ -1,0 +1,41 @@
+{
+  "id": "exp425",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Fischer",
+    "title": "Professor für KI und ML",
+    "email": "christian.fischer@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 341 55736247",
+    "image": "/experts/christian-fischer.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Governance"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Research",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp392",
+  "personalInfo": {
+    "fullName": "Prof. Martin Becker",
+    "title": "Professor für KI und ML",
+    "email": "martin.becker@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 892 37379283",
+    "image": "/experts/martin-becker.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Natural Language Processing",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Security",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Automotive",
+      "Healthcare",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

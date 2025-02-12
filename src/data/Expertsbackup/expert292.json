@@ -1,0 +1,42 @@
+{
+  "id": "exp292",
+  "personalInfo": {
+    "fullName": "Prof. Anna Becker",
+    "title": "Professor für KI und ML",
+    "email": "anna.becker@technische-universitaet-berlin.de",
+    "phone": "+49 399 69180171",
+    "image": "/experts/anna-becker.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Governance"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

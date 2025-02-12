@@ -1,0 +1,42 @@
+{
+  "id": "exp478",
+  "personalInfo": {
+    "fullName": "Dr. Martin Müller",
+    "title": "Senior AI Researcher",
+    "email": "martin.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 210 89988946",
+    "image": "/experts/martin-mueller.jpg",
+    "languages": [
+      "Mandarin",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Computer Vision",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

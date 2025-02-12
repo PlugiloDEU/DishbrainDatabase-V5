@@ -1,0 +1,42 @@
+{
+  "id": "exp208",
+  "personalInfo": {
+    "fullName": "Dr. Sophie Koch",
+    "title": "Senior AI Researcher",
+    "email": "sophie.koch@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 492 71486498",
+    "image": "/experts/sophie-koch.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Quantum AI",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

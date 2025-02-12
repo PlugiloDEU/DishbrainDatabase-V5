@@ -1,0 +1,41 @@
+{
+  "id": "exp116",
+  "personalInfo": {
+    "fullName": "PD Dr. Thomas Meyer",
+    "title": "Senior AI Researcher",
+    "email": "thomas.meyer@rwth-aachen.de",
+    "phone": "+49 259 78032577",
+    "image": "/experts/thomas-meyer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Neural Networks",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Automotive",
+      "Finance",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

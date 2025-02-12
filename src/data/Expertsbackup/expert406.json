@@ -1,0 +1,41 @@
+{
+  "id": "exp406",
+  "personalInfo": {
+    "fullName": "Prof. Anna Schmidt",
+    "title": "Professor für KI und ML",
+    "email": "anna.schmidt@fraunhofer-iais.de",
+    "phone": "+49 843 78342839",
+    "image": "/experts/anna-schmidt.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "AI Ethics",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AI Security",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Automotive",
+      "Education",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

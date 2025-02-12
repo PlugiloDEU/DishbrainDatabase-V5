@@ -1,52 +1,29 @@
 {
   "id": "exp320",
-  "personalInfo": {
-    "fullName": "Dr. Christian Müller",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Technische Universität München",
+  "fachgebiet": "Neural Networks",
+  "expertise": [
+    "Neural Networks",
+    "AI Ethics",
+    "Machine Learning"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "christian.mueller@technische-universitaet-muenchen.de",
-    "phone": "+49 893 42286101",
-    "image": "/experts/christian-mueller.jpg",
-    "languages": [
-      "Mandarin"
-    ]
+    "phone": "+49 893 42286101"
   },
-  "institution": {
-    "name": "Technische Universität München",
-    "department": "Fakultät für Informatik",
-    "position": "Researcher",
-    "location": "München"
-  },
-  "expertise": {
-    "primary": [
-      "Neural Networks",
-      "AI Ethics",
-      "Machine Learning"
-    ],
-    "secondary": [
-      "Edge Computing",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Energy",
-      "Research",
-      "Healthcare"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Technische Universität München",
-    "focus": "Forschung in Neural Networks",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:06.488Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

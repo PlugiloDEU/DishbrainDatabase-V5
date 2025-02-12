@@ -1,0 +1,41 @@
+{
+  "id": "exp450",
+  "personalInfo": {
+    "fullName": "Dr. Michael Wagner",
+    "title": "Senior AI Researcher",
+    "email": "michael.wagner@technische-universitaet-berlin.de",
+    "phone": "+49 575 67235426",
+    "image": "/experts/michael-wagner.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Reinforcement Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Education",
+      "Robotics",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "exp268",
+  "personalInfo": {
+    "fullName": "Prof. Anna Meyer",
+    "title": "Professor für KI und ML",
+    "email": "anna.meyer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 498 88575710",
+    "image": "/experts/anna-meyer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Reinforcement Learning",
+      "Robotics"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

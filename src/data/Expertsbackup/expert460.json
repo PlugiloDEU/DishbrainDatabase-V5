@@ -1,0 +1,41 @@
+{
+  "id": "exp460",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Laura Fischer",
+    "title": "Professor für KI und ML",
+    "email": "laura.fischer@technische-universitaet-berlin.de",
+    "phone": "+49 769 71526381",
+    "image": "/experts/laura-fischer.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Robotics",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "AI Security",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

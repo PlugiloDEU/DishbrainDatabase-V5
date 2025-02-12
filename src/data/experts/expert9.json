@@ -1,53 +1,29 @@
 {
   "id": "exp009",
-  "personalInfo": {
-    "fullName": "Dr. Thomas Meyer",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Deutsches Forschungszentrum für KI",
+  "fachgebiet": "AI Ethics",
+  "expertise": [
+    "AI Ethics",
+    "Deep Learning",
+    "Neural Networks"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "thomas.meyer@deutsches-forschungszentrum-fuer-ki.de",
-    "phone": "+49 510 16280998",
-    "image": "/experts/thomas-meyer.jpg",
-    "languages": [
-      "Italienisch",
-      "Englisch"
-    ]
+    "phone": "+49 510 16280998"
   },
-  "institution": {
-    "name": "Deutsches Forschungszentrum für KI",
-    "department": "Fakultät für Informatik",
-    "position": "Researcher",
-    "location": "Kaiserslautern"
-  },
-  "expertise": {
-    "primary": [
-      "AI Ethics",
-      "Deep Learning",
-      "Neural Networks"
-    ],
-    "secondary": [
-      "AutoML",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Research",
-      "Healthcare",
-      "Automotive"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Deutsches Forschungszentrum für KI",
-    "focus": "Forschung in Deep Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:08.867Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

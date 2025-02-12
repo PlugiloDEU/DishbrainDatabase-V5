@@ -1,0 +1,41 @@
+{
+  "id": "exp348",
+  "personalInfo": {
+    "fullName": "Prof. Alexander Fischer",
+    "title": "Professor für KI und ML",
+    "email": "alexander.fischer@fraunhofer-iais.de",
+    "phone": "+49 523 69639696",
+    "image": "/experts/alexander-fischer.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "AutoML",
+      "AI Security"
+    ],
+    "industries": [
+      "Healthcare",
+      "Research",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

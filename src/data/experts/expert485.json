@@ -1,52 +1,29 @@
 {
   "id": "exp485",
-  "personalInfo": {
-    "fullName": "Dr. Sophie Becker",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Karlsruher Institut für Technologie",
+  "fachgebiet": "Neural Networks",
+  "expertise": [
+    "Neural Networks",
+    "Machine Learning",
+    "AI Ethics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "sophie.becker@karlsruher-institut-fuer-technologie.de",
-    "phone": "+49 812 10823896",
-    "image": "/experts/sophie-becker.jpg",
-    "languages": [
-      "Spanisch"
-    ]
+    "phone": "+49 812 10823896"
   },
-  "institution": {
-    "name": "Karlsruher Institut für Technologie",
-    "department": "Institut für Intelligente Systeme",
-    "position": "Researcher",
-    "location": "Karlsruhe"
-  },
-  "expertise": {
-    "primary": [
-      "Neural Networks",
-      "Machine Learning",
-      "AI Ethics"
-    ],
-    "secondary": [
-      "Human-AI Interaction",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Research",
-      "Robotics",
-      "Automotive"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Karlsruher Institut für Technologie",
-    "focus": "Forschung in AI Ethics",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:08.471Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

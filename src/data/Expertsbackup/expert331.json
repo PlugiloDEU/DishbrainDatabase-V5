@@ -1,0 +1,42 @@
+{
+  "id": "exp331",
+  "personalInfo": {
+    "fullName": "Prof. Michael Meyer",
+    "title": "Professor für KI und ML",
+    "email": "michael.meyer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 666 85540670",
+    "image": "/experts/michael-meyer.jpg",
+    "languages": [
+      "Französisch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Natural Language Processing",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Edge Computing",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp468",
+  "personalInfo": {
+    "fullName": "Dr. Alexander Wagner",
+    "title": "Senior AI Researcher",
+    "email": "alexander.wagner@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 438 98766241",
+    "image": "/experts/alexander-wagner.jpg",
+    "languages": [
+      "Englisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp326",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Laura Schulz",
+    "title": "Professor für KI und ML",
+    "email": "laura.schulz@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 266 92119580",
+    "image": "/experts/laura-schulz.jpg",
+    "languages": [
+      "Italienisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Natural Language Processing",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Research",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

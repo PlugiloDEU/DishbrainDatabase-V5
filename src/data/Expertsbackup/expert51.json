@@ -1,0 +1,42 @@
+{
+  "id": "exp051",
+  "personalInfo": {
+    "fullName": "Prof. Christian Becker",
+    "title": "Professor für KI und ML",
+    "email": "christian.becker@rwth-aachen.de",
+    "phone": "+49 156 93447576",
+    "image": "/experts/christian-becker.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Robotics",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

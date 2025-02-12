@@ -1,0 +1,41 @@
+{
+  "id": "exp064",
+  "personalInfo": {
+    "fullName": "Prof. Christian Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "christian.hoffmann@rwth-aachen.de",
+    "phone": "+49 647 16765423",
+    "image": "/experts/christian-hoffmann.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Reinforcement Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

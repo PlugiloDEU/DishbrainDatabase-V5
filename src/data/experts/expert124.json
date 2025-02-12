@@ -1,53 +1,29 @@
 {
   "id": "exp124",
-  "personalInfo": {
-    "fullName": "Prof. Dr. Martin Schulz",
-    "title": "Professor für KI und ML",
+  "titel": "Professor für KI und ML",
+  "position": "Professor für Künstliche Intelligenz",
+  "organisation": "Technische Universität Berlin",
+  "fachgebiet": "Natural Language Processing",
+  "expertise": [
+    "Natural Language Processing",
+    "Reinforcement Learning",
+    "Neural Networks"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "martin.schulz@technische-universitaet-berlin.de",
-    "phone": "+49 455 11979548",
-    "image": "/experts/martin-schulz.jpg",
-    "languages": [
-      "Spanisch",
-      "Deutsch"
-    ]
+    "phone": "+49 455 11979548"
   },
-  "institution": {
-    "name": "Technische Universität Berlin",
-    "department": "Fakultät für Informatik",
-    "position": "Professor",
-    "location": "Berlin"
-  },
-  "expertise": {
-    "primary": [
-      "Natural Language Processing",
-      "Reinforcement Learning",
-      "Neural Networks"
-    ],
-    "secondary": [
-      "Edge Computing",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Healthcare",
-      "Research",
-      "Automotive"
-    ]
-  },
-  "currentRole": {
-    "title": "Professor für Künstliche Intelligenz",
-    "organization": "Technische Universität Berlin",
-    "focus": "Forschung in Reinforcement Learning",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:04.030Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

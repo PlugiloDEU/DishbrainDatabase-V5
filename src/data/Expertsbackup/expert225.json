@@ -1,0 +1,42 @@
+{
+  "id": "exp225",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Becker",
+    "title": "Professor für KI und ML",
+    "email": "thomas.becker@technische-universitaet-muenchen.de",
+    "phone": "+49 400 25281459",
+    "image": "/experts/thomas-becker.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Machine Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Security"
+    ],
+    "industries": [
+      "Robotics",
+      "Education",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

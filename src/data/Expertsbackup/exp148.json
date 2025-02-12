@@ -1,0 +1,42 @@
+{
+  "id": "exp148",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "alexander.hoffmann@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 729 30403922",
+    "image": "/experts/alexander-hoffmann.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Quantum AI",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Robotics",
+      "Automotive",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

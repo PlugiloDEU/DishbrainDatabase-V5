@@ -1,0 +1,41 @@
+{
+  "id": "exp300",
+  "personalInfo": {
+    "fullName": "PD Dr. Alexander Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "alexander.hoffmann@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 556 96304887",
+    "image": "/experts/alexander-hoffmann.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Natural Language Processing",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

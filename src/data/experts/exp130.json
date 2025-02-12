@@ -1,63 +1,28 @@
 {
   "id": "exp130",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Hilary",
-    "lastName": "Lamb",
-    "fullName": "Hilary Lamb",
-    "image": "/experts/hilary-lamb.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": null,
-    "position": "Beraterin, Wissenschafts- und Technologiejournalistin",
-    "department": null,
-    "website": "N/A"
-  },
-  "expertise": {
-    "primary": [
-      "Journalismus / Beratung"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Beraterin, Wissenschafts- und Technologiejournalistin",
-    "organization": null,
-    "focus": "Journalismus / Beratung"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "N/A"
-  },
-  "tags": [
-    "Journalismus / Beratung",
-    "Beraterin, Wissenschafts- und Technologiejournalistin"
+  "titel": "",
+  "position": "Beraterin, Wissenschafts- und Technologiejournalistin",
+  "organisation": null,
+  "fachgebiet": "Journalismus / Beratung",
+  "expertise": [
+    "Journalismus / Beratung"
   ],
-  "source": "Bucheintrag",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:00.753Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

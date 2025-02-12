@@ -1,0 +1,41 @@
+{
+  "id": "exp084",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Fischer",
+    "title": "Professor für KI und ML",
+    "email": "julia.fischer@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 692 40682712",
+    "image": "/experts/julia-fischer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "AI Ethics",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Education",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

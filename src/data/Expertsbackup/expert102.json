@@ -1,0 +1,42 @@
+{
+  "id": "exp102",
+  "personalInfo": {
+    "fullName": "Dr. Julia Müller",
+    "title": "Senior AI Researcher",
+    "email": "julia.mueller@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 267 98425034",
+    "image": "/experts/julia-mueller.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Machine Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Robotics",
+      "Education",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

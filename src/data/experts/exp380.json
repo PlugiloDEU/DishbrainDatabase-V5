@@ -1,63 +1,28 @@
 {
   "id": "exp380",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Priscilla",
-    "lastName": "Chan",
-    "fullName": "Priscilla Chan",
-    "image": "/experts/priscilla-chan.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Chan Zuckerberg Initiative",
-    "position": "Co-Founder and co-CEO",
-    "department": null,
-    "website": "https://chanzuckerberg.com"
-  },
-  "expertise": {
-    "primary": [
-      "Non-Profit"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Co-Founder and co-CEO",
-    "organization": "Chan Zuckerberg Initiative",
-    "focus": "Non-Profit"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://chanzuckerberg.com"
-  },
-  "tags": [
-    "Non-Profit",
-    "Co-Founder and co-CEO"
+  "titel": "",
+  "position": "Co-Founder and co-CEO",
+  "organisation": "Chan Zuckerberg Initiative",
+  "fachgebiet": "Non-Profit",
+  "expertise": [
+    "Non-Profit"
   ],
-  "source": "https://www.nvidia.com/gtc/speakers/?regcode=progr-174500-vt16&ncid=progr-174500-vt16&regcode=no-ncid&ncid=no-ncid",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:02.933Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

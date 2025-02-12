@@ -1,0 +1,41 @@
+{
+  "id": "exp405",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Sophie Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "sophie.hoffmann@technische-universitaet-berlin.de",
+    "phone": "+49 148 87559813",
+    "image": "/experts/sophie-hoffmann.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "AI Ethics",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

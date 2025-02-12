@@ -1,63 +1,29 @@
 {
   "id": "exp344",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Joachim",
-    "lastName": "Köhler",
-    "fullName": "Joachim Köhler",
-    "image": "/experts/joachim-k-hler.jpg",
-    "email": "https://docs.google.com/document/u/1/d/1jeabCmGUy-zOK_GBW91Lr2TyqoKz3HlU/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "Servicezentrum WestAI, Nordrhein-Westfalen",
-    "position": "Exekutivdirektor",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Akademisch"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Exekutivdirektor",
-    "organization": "Servicezentrum WestAI, Nordrhein-Westfalen",
-    "focus": "Akademisch"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": null
-  },
-  "tags": [
-    "Akademisch",
-    "Exekutivdirektor"
+  "titel": "",
+  "position": "Exekutivdirektor",
+  "organisation": "Servicezentrum WestAI, Nordrhein-Westfalen",
+  "fachgebiet": "Akademisch",
+  "expertise": [
+    "Akademisch"
   ],
-  "source": "https://www.handelsblatt.com/technik/ki/insight-innovation-chipmangel-buerokratie-warum-deutsche-ki-forscher-nicht-mithalten-koennen/100011263.html",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://docs.google.com/document/u/1/d/1jeabCmGUy-zOK_GBW91Lr2TyqoKz3HlU/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -115,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:02.585Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

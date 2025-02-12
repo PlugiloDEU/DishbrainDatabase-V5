@@ -1,52 +1,29 @@
 {
   "id": "exp499",
-  "personalInfo": {
-    "fullName": "PD Dr. Michael Fischer",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Fraunhofer IAIS",
+  "fachgebiet": "Machine Learning",
+  "expertise": [
+    "Machine Learning",
+    "AI Ethics",
+    "Natural Language Processing"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "michael.fischer@fraunhofer-iais.de",
-    "phone": "+49 980 72937544",
-    "image": "/experts/michael-fischer.jpg",
-    "languages": [
-      "Deutsch"
-    ]
+    "phone": "+49 980 72937544"
   },
-  "institution": {
-    "name": "Fraunhofer IAIS",
-    "department": "Institut für Intelligente Systeme",
-    "position": "Researcher",
-    "location": "Sankt Augustin"
-  },
-  "expertise": {
-    "primary": [
-      "Machine Learning",
-      "AI Ethics",
-      "Natural Language Processing"
-    ],
-    "secondary": [
-      "Federated Learning",
-      "Big Data Analytics"
-    ],
-    "industries": [
-      "Robotics",
-      "Education",
-      "Research"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Fraunhofer IAIS",
-    "focus": "Forschung in Natural Language Processing",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -104,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:08.520Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

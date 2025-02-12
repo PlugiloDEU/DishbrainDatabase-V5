@@ -1,0 +1,42 @@
+{
+  "id": "exp069",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Julia Weber",
+    "title": "Professor für KI und ML",
+    "email": "julia.weber@technische-universitaet-berlin.de",
+    "phone": "+49 719 98143944",
+    "image": "/experts/julia-weber.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Robotics",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

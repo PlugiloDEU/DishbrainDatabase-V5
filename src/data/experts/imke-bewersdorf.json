@@ -1,65 +1,28 @@
 {
   "id": "exp173",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Imke",
-    "lastName": "Bewersdorf",
-    "fullName": "Imke Bewersdorf",
-    "image": "/experts/imke-bewersdorf.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "BIG PICTURE",
-    "position": "Product Owner and CX Consultant",
-    "department": null,
-    "website": null
-  },
-  "expertise": {
-    "primary": [
-      "Technologie"
-    ],
-    "secondary": [],
-    "industries": [
-      "Technology"
-    ]
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Product Owner and CX Consultant",
-    "organization": "BIG PICTURE",
-    "focus": "Technologie"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": null
-  },
-  "tags": [
-    "Technologie",
-    "Product Owner and CX Consultant"
+  "titel": "",
+  "position": "Product Owner and CX Consultant",
+  "organisation": "BIG PICTURE",
+  "fachgebiet": "Technologie",
+  "expertise": [
+    "Technologie"
   ],
-  "source": "Teamseite",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +80,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:10.004Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

@@ -1,53 +1,29 @@
 {
   "id": "exp493",
-  "personalInfo": {
-    "fullName": "Dr. Michael Schulz",
-    "title": "Senior AI Researcher",
+  "titel": "Senior AI Researcher",
+  "position": "Senior AI Researcher",
+  "organisation": "Technische Universität München",
+  "fachgebiet": "Computer Vision",
+  "expertise": [
+    "Computer Vision",
+    "Machine Learning",
+    "AI Ethics"
+  ],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "michael.schulz@technische-universitaet-muenchen.de",
-    "phone": "+49 418 62913184",
-    "image": "/experts/michael-schulz.jpg",
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
+    "phone": "+49 418 62913184"
   },
-  "institution": {
-    "name": "Technische Universität München",
-    "department": "Institut für Künstliche Intelligenz",
-    "position": "Researcher",
-    "location": "München"
-  },
-  "expertise": {
-    "primary": [
-      "Computer Vision",
-      "Machine Learning",
-      "AI Ethics"
-    ],
-    "secondary": [
-      "Knowledge Graphs",
-      "Federated Learning"
-    ],
-    "industries": [
-      "Education",
-      "Healthcare",
-      "Energy"
-    ]
-  },
-  "currentRole": {
-    "title": "Senior AI Researcher",
-    "organization": "Technische Universität München",
-    "focus": "Forschung in Computer Vision",
-    "status": "active"
-  },
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
-  },
+  "social_media": {},
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -105,8 +81,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:03.712Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

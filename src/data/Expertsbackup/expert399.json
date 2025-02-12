@@ -1,0 +1,42 @@
+{
+  "id": "exp399",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Fischer",
+    "title": "Professor für KI und ML",
+    "email": "christian.fischer@rwth-aachen.de",
+    "phone": "+49 549 89857549",
+    "image": "/experts/christian-fischer.jpg",
+    "languages": [
+      "Deutsch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Computer Vision",
+      "Robotics"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AutoML"
+    ],
+    "industries": [
+      "Finance",
+      "Education",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

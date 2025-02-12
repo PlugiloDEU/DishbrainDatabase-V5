@@ -1,0 +1,42 @@
+{
+  "id": "exp432",
+  "personalInfo": {
+    "fullName": "PD Dr. Thomas Meyer",
+    "title": "Senior AI Researcher",
+    "email": "thomas.meyer@rwth-aachen.de",
+    "phone": "+49 792 25236951",
+    "image": "/experts/thomas-meyer.jpg",
+    "languages": [
+      "Spanisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  }
+}

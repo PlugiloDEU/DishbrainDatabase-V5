@@ -1,0 +1,41 @@
+{
+  "id": "exp347",
+  "personalInfo": {
+    "fullName": "Prof. Anna Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "anna.hoffmann@technische-universitaet-muenchen.de",
+    "phone": "+49 604 28536672",
+    "image": "/experts/anna-hoffmann.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Machine Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

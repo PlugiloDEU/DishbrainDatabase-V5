@@ -1,0 +1,41 @@
+{
+  "id": "exp104",
+  "personalInfo": {
+    "fullName": "Prof. Christian Schulz",
+    "title": "Professor für KI und ML",
+    "email": "christian.schulz@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 639 98640911",
+    "image": "/experts/christian-schulz.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Neural Networks",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Research",
+      "Healthcare",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

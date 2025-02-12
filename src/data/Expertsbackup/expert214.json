@@ -1,0 +1,41 @@
+{
+  "id": "exp214",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Fischer",
+    "title": "Professor für KI und ML",
+    "email": "christian.fischer@fraunhofer-iais.de",
+    "phone": "+49 664 21966398",
+    "image": "/experts/christian-fischer.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Robotics"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Energy",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

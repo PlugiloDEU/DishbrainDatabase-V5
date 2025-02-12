@@ -1,0 +1,42 @@
+{
+  "id": "exp197",
+  "personalInfo": {
+    "fullName": "Prof. Alexander Wagner",
+    "title": "Professor für KI und ML",
+    "email": "alexander.wagner@technische-universitaet-muenchen.de",
+    "phone": "+49 352 76747225",
+    "image": "/experts/alexander-wagner.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Machine Learning",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Education",
+      "Robotics",
+      "Energy"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

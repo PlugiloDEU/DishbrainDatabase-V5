@@ -1,0 +1,41 @@
+{
+  "id": "exp398",
+  "personalInfo": {
+    "fullName": "Prof. Alexander Meyer",
+    "title": "Professor für KI und ML",
+    "email": "alexander.meyer@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 885 61344204",
+    "image": "/experts/alexander-meyer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Computer Vision",
+      "Quantum AI",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

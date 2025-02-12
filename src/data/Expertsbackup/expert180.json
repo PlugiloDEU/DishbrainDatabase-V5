@@ -1,0 +1,41 @@
+{
+  "id": "exp180",
+  "personalInfo": {
+    "fullName": "PD Dr. Laura Müller",
+    "title": "Senior AI Researcher",
+    "email": "laura.mueller@rwth-aachen.de",
+    "phone": "+49 777 22724798",
+    "image": "/experts/laura-mueller.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Deep Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Security"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

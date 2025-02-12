@@ -1,0 +1,41 @@
+{
+  "id": "exp412",
+  "personalInfo": {
+    "fullName": "Prof. Anna Meyer",
+    "title": "Professor für KI und ML",
+    "email": "anna.meyer@rwth-aachen.de",
+    "phone": "+49 414 79261501",
+    "image": "/experts/anna-meyer.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Computer Vision",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Automotive",
+      "Energy",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

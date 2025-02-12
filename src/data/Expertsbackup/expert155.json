@@ -1,0 +1,42 @@
+{
+  "id": "exp155",
+  "personalInfo": {
+    "fullName": "Dr. Anna Weber",
+    "title": "Senior AI Researcher",
+    "email": "anna.weber@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 875 37055935",
+    "image": "/experts/anna-weber.jpg",
+    "languages": [
+      "Spanisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Machine Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AutoML"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  }
+}

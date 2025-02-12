@@ -1,0 +1,41 @@
+{
+  "id": "exp282",
+  "personalInfo": {
+    "fullName": "Dr. Michael Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "michael.hoffmann@technische-universitaet-muenchen.de",
+    "phone": "+49 685 30821738",
+    "image": "/experts/michael-hoffmann.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Security",
+      "AI Governance"
+    ],
+    "industries": [
+      "Robotics",
+      "Finance",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}

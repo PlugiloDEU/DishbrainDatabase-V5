@@ -1,0 +1,41 @@
+{
+  "id": "exp058",
+  "personalInfo": {
+    "fullName": "Prof. Sophie Becker",
+    "title": "Professor für KI und ML",
+    "email": "sophie.becker@rwth-aachen.de",
+    "phone": "+49 359 26729628",
+    "image": "/experts/sophie-becker.jpg",
+    "languages": [
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Robotics",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AI Security"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

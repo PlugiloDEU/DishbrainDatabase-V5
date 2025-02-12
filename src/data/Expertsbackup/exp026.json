@@ -1,0 +1,42 @@
+{
+  "id": "exp026",
+  "personalInfo": {
+    "fullName": "PD Dr. Sophie Müller",
+    "title": "Senior AI Researcher",
+    "email": "sophie.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 268 99674874",
+    "image": "/experts/sophie-mueller.jpg",
+    "languages": [
+      "Italienisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Robotics",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Energy",
+      "Robotics",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "exp013",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Laura Weber",
+    "title": "Professor für KI und ML",
+    "email": "laura.weber@rwth-aachen.de",
+    "phone": "+49 235 56799392",
+    "image": "/experts/laura-weber.jpg",
+    "languages": [
+      "Englisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AI Security"
+    ],
+    "industries": [
+      "Finance",
+      "Energy",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  }
+}

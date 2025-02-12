@@ -1,60 +1,27 @@
 {
   "id": "exp288",
-  "personalInfo": {
-    "title": null,
-    "firstName": "Christoph",
-    "lastName": "Lütge",
-    "fullName": "Christoph Lütge",
-    "image": "/experts/christoph-l-tge.jpg",
+  "titel": "",
+  "position": "Direktor",
+  "organisation": "Instituts für Ethik in der KI an der TU München",
+  "fachgebiet": "Direktor",
+  "expertise": [],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
+  },
+  "academicPositions": [],
+  "kontakt": {
     "email": "https://drive.google.com/open?id=1L2MPGk8f3A7zP40GUujUQlt9PhjCC3Yl&authuser=1",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
+    "phone": null
   },
-  "institution": {
-    "name": "Instituts für Ethik in der KI an der TU München",
-    "position": "Direktor",
-    "department": null,
-    "website": null
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/christophluetge/"
   },
-  "expertise": {
-    "primary": [],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Direktor",
-    "organization": "Instituts für Ethik in der KI an der TU München",
-    "focus": null
-  },
-  "profiles": {
-    "linkedin": "https://www.linkedin.com/in/christophluetge/",
-    "company": null
-  },
-  "tags": [
-    "Direktor"
-  ],
-  "source": "https://www.burda.com/de/news/wie-ki-unser-leben-beeinflusst-interdisziplinarer/",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -112,8 +79,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:57.072Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

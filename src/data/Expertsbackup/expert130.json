@@ -1,0 +1,42 @@
+{
+  "id": "exp130",
+  "personalInfo": {
+    "fullName": "Dr. Sophie Fischer",
+    "title": "Senior AI Researcher",
+    "email": "sophie.fischer@technische-universitaet-berlin.de",
+    "phone": "+49 124 31273272",
+    "image": "/experts/sophie-fischer.jpg",
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität Berlin",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Berlin"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Machine Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AI Governance"
+    ],
+    "industries": [
+      "Energy",
+      "Automotive",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Technische Universität Berlin",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

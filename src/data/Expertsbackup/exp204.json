@@ -1,0 +1,42 @@
+{
+  "id": "exp204",
+  "personalInfo": {
+    "fullName": "Dr. Michael Schmidt",
+    "title": "Senior AI Researcher",
+    "email": "michael.schmidt@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 327 69638623",
+    "image": "/experts/michael-schmidt.jpg",
+    "languages": [
+      "Deutsch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Education",
+      "Finance",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Deep Learning",
+    "status": "active"
+  }
+}

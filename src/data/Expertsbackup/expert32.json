@@ -1,0 +1,41 @@
+{
+  "id": "exp032",
+  "personalInfo": {
+    "fullName": "Prof. Maria Fischer",
+    "title": "Professor für KI und ML",
+    "email": "maria.fischer@rwth-aachen.de",
+    "phone": "+49 876 14517622",
+    "image": "/experts/maria-fischer.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "AI Research Center",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Computer Vision",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Finance",
+      "Automotive",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Explainable AI",
+    "status": "active"
+  }
+}

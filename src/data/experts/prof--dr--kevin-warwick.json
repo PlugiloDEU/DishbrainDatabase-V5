@@ -1,65 +1,30 @@
 {
   "id": "exp359",
-  "personalInfo": {
-    "title": "Prof. Dr.",
-    "firstName": "Kevin",
-    "lastName": "Warwick",
-    "fullName": "Prof. Dr. Kevin Warwick",
-    "image": "/experts/prof--dr--kevin-warwick.jpg",
-    "email": "https://drive.google.com/file/d/1bMDyInzkAi8Vkjb-EpyRHsg1opGLhPMn/view",
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
-  },
-  "institution": {
-    "name": "0",
-    "position": "Professor für Kybernetik",
-    "department": null,
-    "website": "0"
-  },
-  "expertise": {
-    "primary": [
-      "Forscher",
-      "Kultfigur"
-    ],
-    "secondary": [],
-    "industries": []
-  },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Professor für Kybernetik",
-    "organization": "0",
-    "focus": "Forscher, Kultfigur"
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "0"
-  },
-  "tags": [
+  "titel": "Prof. Dr.",
+  "position": "Professor für Kybernetik",
+  "organisation": "0",
+  "fachgebiet": "Forscher",
+  "expertise": [
     "Forscher",
-    "Kultfigur",
-    "Professor für Kybernetik"
+    "Kultfigur"
   ],
-  "source": "https://riseof.ai/conference-2024/",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "human"
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
+  "academicPositions": [],
+  "kontakt": {
+    "email": "https://drive.google.com/file/d/1bMDyInzkAi8Vkjb-EpyRHsg1opGLhPMn/view",
+    "phone": null
+  },
+  "social_media": {
+    "linkedin": null
+  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -117,8 +82,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:18:13.617Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

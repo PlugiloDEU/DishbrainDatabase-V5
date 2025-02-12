@@ -1,60 +1,26 @@
 {
   "id": "exp007",
-  "personalInfo": {
-    "title": "Dr.",
-    "firstName": "Malte",
-    "lastName": "Baumann",
-    "fullName": "Dr. Malte Baumann",
-    "image": "/experts/dr--malte-baumann.jpg",
-    "email": null,
-    "phone": null,
-    "languages": [
-      "Deutsch",
-      "Englisch"
-    ]
+  "titel": "Dr.",
+  "position": "Rechtsanwalt",
+  "organisation": "Nordemann Czychowski & Partner",
+  "fachgebiet": "Rechtsanwalt",
+  "expertise": [],
+  "education": {
+    "fields": [],
+    "universities": [],
+    "degrees": []
   },
-  "institution": {
-    "name": "Nordemann Czychowski & Partner",
-    "position": "Rechtsanwalt",
-    "department": null,
-    "website": "https://www.nordemann.de"
+  "academicPositions": [],
+  "kontakt": {
+    "phone": null
   },
-  "expertise": {
-    "primary": [],
-    "secondary": [],
-    "industries": []
+  "social_media": {
+    "linkedin": null
   },
-  "academicMetrics": {
-    "publications": {
-      "total": null,
-      "sources": {
-        "googleScholar": null,
-        "scopus": null
-      }
-    }
-  },
-  "currentRole": {
-    "title": "Rechtsanwalt",
-    "organization": "Nordemann Czychowski & Partner",
-    "focus": null
-  },
-  "profiles": {
-    "linkedin": null,
-    "company": "https://www.nordemann.de"
-  },
-  "tags": [
-    "Rechtsanwalt"
-  ],
-  "source": "Bitkom",
-  "expertise_sources": {},
-  "data_sources": {
-    "personal_info": "human",
-    "publications": "human",
-    "contact": "human",
-    "academic_positions": "human",
-    "awards": "human",
-    "research_interests": "ai"
-  },
+  "standort": "",
+  "selectedPublications": [],
+  "professionalMemberships": [],
+  "awards": [],
   "sources": {
     "personal_info": {
       "name": {
@@ -112,8 +78,7 @@
     "missing_fields": []
   },
   "created_at": "2024-02-03T12:00:00.000Z",
-  "last_updated": "2024-02-05T14:30:00.000Z",
+  "last_updated": "2025-02-12T19:17:58.458Z",
   "verified": true,
-  "verification_source": "human",
-  "image_url": null
+  "verification_source": "human"
 }

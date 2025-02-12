@@ -1,0 +1,42 @@
+{
+  "id": "exp291",
+  "personalInfo": {
+    "fullName": "Dr. Maria Wagner",
+    "title": "Senior AI Researcher",
+    "email": "maria.wagner@rwth-aachen.de",
+    "phone": "+49 522 78584505",
+    "image": "/experts/maria-wagner.jpg",
+    "languages": [
+      "Französisch",
+      "Mandarin"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Robotics",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "AI Governance",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Robotics",
+      "Manufacturing",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  }
+}

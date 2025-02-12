@@ -1,0 +1,42 @@
+{
+  "id": "exp329",
+  "personalInfo": {
+    "fullName": "Prof. Thomas Müller",
+    "title": "Professor für KI und ML",
+    "email": "thomas.mueller@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 864 57499508",
+    "image": "/experts/thomas-mueller.jpg",
+    "languages": [
+      "Spanisch",
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Deep Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "AI Governance"
+    ],
+    "industries": [
+      "Education",
+      "Manufacturing",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Computer Vision",
+    "status": "active"
+  }
+}
