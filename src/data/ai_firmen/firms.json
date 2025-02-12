@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "DeepMind Deutschland GmbH",
+    "location": "Berlin",
+    "focus": "Künstliche Intelligenz & Deep Learning",
+    "employees": 250,
+    "founded": 2018,
+    "projects": "AlphaFold, Robotik-Steuerung",
+    "logo": "/company1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "AI Solutions AG",
+    "location": "München",
+    "focus": "Machine Learning & Predictive Analytics",
+    "employees": 120,
+    "founded": 2015,
+    "projects": "Industrieautomatisierung, Smart City",
+    "logo": "/company2.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Neural Systems GmbH",
+    "location": "Hamburg",
+    "focus": "Neuronale Netze & Computer Vision",
+    "employees": 80,
+    "founded": 2019,
+    "projects": "Bildverarbeitung, Qualitätskontrolle",
+    "logo": "/company3.jpg"
+  }
+] 

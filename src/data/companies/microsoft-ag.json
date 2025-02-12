@@ -1,0 +1,134 @@
+{
+  "id": "microsoft-Corp",
+  "name": "Microsoft Corp",
+  "website": "https://www.microsoft.de",
+  "legal_name": "Microsoft Corporation",
+  "industry": "Computer Software",
+  "company_type": "Public",
+  "founded_year": "1975",
+  "employee_count": "221,000",
+  "revenue_range": "$200B+",
+  "description": "Microsoft Corporation is an American multinational technology company that develops, licenses, and supports a wide range of software products, services, and devices. Known for flagship products such as Windows, Microsoft Office, and Azure cloud computing services, Microsoft drives digital transformation and innovation globally. The German entity, operating as Microsoft AG GmbH, serves the local market with tailored solutions in software and AI.",
+  "city": "Munich",
+  "country": "Germany",
+  "street_address": "Walter-Gropius-Straße 5",
+  "postal_code": "80807",
+  "phone": "+49 89 22 70 0",
+  "email": "info@microsoft.com",
+  "linkedin_url": "https://www.linkedin.com/company/microsoft/",
+  "twitter_url": "https://twitter.com/Microsoft",
+  "facebook_url": "https://www.facebook.com/Microsoft",
+  "technologies": [
+    "Azure",
+    "Office 365",
+    "Windows",
+    "Dynamics 365",
+    "GitHub",
+    "Microsoft Teams"
+  ],
+  "ai_focus_areas": [
+    "Machine Learning",
+    "Natural Language Processing",
+    "Computer Vision",
+    "Conversational AI",
+    "Robotics"
+  ],
+  "products": [
+    "Windows",
+    "Microsoft Office",
+    "Azure",
+    "Xbox",
+    "Surface",
+    "Dynamics 365",
+    "Bing",
+    "LinkedIn"
+  ],
+  "services": [
+    "Cloud Computing",
+    "AI and Machine Learning Services",
+    "Enterprise Software Solutions",
+    "Technical Support",
+    "Consulting Services"
+  ],
+  "created_at": "2025-01-31T23:31:16.115Z",
+  "last_updated": "2025-02-03T06:20:00.000Z",
+  "domain": "microsoft.de",
+  "logo_url": "https://logo.clearbit.com/microsoft.de",
+  "file_path": "src/data/companies/microsoft-ag.json",
+  "url": "https://www.microsoft.de",
+  "company_info": {
+    "legal_name": "Microsoft AG GmbH",
+    "company_type": "Public",
+    "industry": "Computer Software",
+    "industry_group": "Technology",
+    "sector": "Information Technology",
+    "sub_industry": "Software & AI",
+    "gics_code": null,
+    "founded_year": "1975",
+    "employee_count": "221,000",
+    "revenue_range": "$200B+",
+    "description": "Microsoft Corporation is a global leader in software, services, devices, and solutions that help individuals and businesses realize their full potential. Its German entity, Microsoft AG GmbH, operates in the local market with an emphasis on innovation in software and AI."
+  },
+  "location": {
+    "address": "Walter-Gropius-Straße 5",
+    "city": "Munich",
+    "state": "Bavaria",
+    "country": "Germany",
+    "postal_code": "80807"
+  },
+  "contact": {
+    "phone": "+49 89 22 70 0",
+    "email": "info@microsoft.com",
+    "website": "https://www.microsoft.de"
+  },
+  "financials": {
+    "annual_revenue": "$200B+",
+    "market_cap": "$2.3T",
+    "investments": "Extensive investments in AI, cloud, and emerging technologies"
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/company/microsoft/",
+    "twitter": "https://twitter.com/Microsoft",
+    "facebook": "https://www.facebook.com/Microsoft"
+  },
+  "tech_stack": {
+    "technologies": [
+      "Azure",
+      "Office 365",
+      "Windows",
+      "Dynamics 365",
+      "GitHub",
+      "Microsoft Teams"
+    ],
+    "categories": [
+      "Cloud Computing",
+      "Productivity Software",
+      "Operating Systems",
+      "Enterprise Software",
+      "AI"
+    ],
+    "tags": [
+      "Cloud",
+      "Software",
+      "AI",
+      "Enterprise"
+    ]
+  },
+  "ai_enrichment": {
+    "last_updated": "2025-02-03T06:20:00.000Z",
+    "confidence": 85,
+    "enriched_fields": [
+      "company_info",
+      "location",
+      "contact",
+      "financials",
+      "social_media",
+      "tech_stack"
+    ]
+  },
+  "tags": [
+    "Software",
+    "AI",
+    "Cloud"
+  ]
+}

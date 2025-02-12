@@ -1,0 +1,112 @@
+{
+  "id": "exp315",
+  "personalInfo": {
+    "fullName": "PD Dr. Martin Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "martin.hoffmann@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 948 46144430",
+    "image": "/experts/martin-hoffmann.jpg",
+    "languages": [
+      "Deutsch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Natural Language Processing",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "AI Security"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp315",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp315",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp315",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.8936471851718322,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

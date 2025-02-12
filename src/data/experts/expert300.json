@@ -1,0 +1,111 @@
+{
+  "id": "exp300",
+  "personalInfo": {
+    "fullName": "PD Dr. Alexander Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "alexander.hoffmann@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 556 96304887",
+    "image": "/experts/alexander-hoffmann.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Natural Language Processing",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Energy",
+      "Research",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp300",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp300",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp300",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.8501929474518971,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

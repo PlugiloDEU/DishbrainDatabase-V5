@@ -1,0 +1,40 @@
+Function Descriptions:
+
+### `src/app/page.jsx`
+- **AdvancedSearchModal**: Handles advanced search functionality.
+- **getExpertiseArray**: Processes an expert's data to return an array of expertise.
+- **getTopCategories**: Analyzes a list of experts to determine top categories.
+- **renderCompanyField**: Renders a company field in the UI.
+- **getCompanyLogo**: Retrieves the company logo based on the domain.
+- **renderExpertCard**: Renders an expert card in the UI.
+- **renderSearchField**: Renders a search field in the UI.
+- **renderFilterTag**: Renders a filter tag in the UI.
+- **Page**: Main component with various event handlers and rendering logic.
+- **handleMenuClick, handleEnrichment, handlePageChange, handleAdvancedSearch, handleExpertUpdate, handleExpertClick, loadMore, handleCompanyClick, handleCompanyUpdate**: Event handlers for user interactions.
+- **loadInitialData, loadCompanyData**: Asynchronous functions for loading data.
+- **renderContent, renderLoading**: Functions for rendering content and loading states.
+
+### `src/components`
+- **ApArInvoiceManager**: Functions for handling input changes, processing invoices, and adding invoices.
+- **CompanyDetailsPopup**: Functions for rendering fields, handling research results, enrichment, saving, and deleting company data.
+- **CompanyFormPopup**: Functions for validation, submission handling, and enrichment.
+- **CompanyResearchPopup**: Functions for fetching data, extracting and normalizing values, and handling save operations.
+- **Component3DButtonDesign**: UI enhancement functions.
+- **CrmManager**: Functions for adding customers and handling input changes.
+- **EmployeeManagementInterface**: Functions for adding employees.
+- **ErrorBoundary**: Lifecycle methods for error handling.
+- **ExpertCard**: Functions for retrieving expert details.
+- **ExpertDetailsPopup**: Functions for rendering fields, handling research results, enrichment, and saving data.
+- **ExpertFormPopup**: Functions for submission and enrichment handling.
+- **ExportButton**: Asynchronous function for exporting data.
+- **FilterModal**: Functions for filtering data.
+- **GeneralLedgerManager**: Functions for adding and updating accounts.
+- **InvoiceManager**: Functions for adding invoices and handling submissions.
+- **ItemInventoryManager**: Functions for managing inventory items.
+- **Layout**: Functions for structuring the application.
+- **LoadingFallback and LoadingState**: Functions for displaying loading states.
+- **MeasurementUnitSelector**: Functions for selecting measurement units.
+- **PaymentGatewayManager**: Functions for adding gateways and integrating with ChatGPT.
+- **PayrollManager**: Functions for handling input changes, adding, and removing employees.
+- **ProjectManager**: Functions for handling project details and adding projects.
+- **ResearchAIAgentPopup**: Functions for fetching results, handling field toggles, saving, and image uploads.

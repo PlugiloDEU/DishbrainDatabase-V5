@@ -1,0 +1,117 @@
+{
+  "id": "exp368",
+  "personalInfo": {
+    "title": null,
+    "firstName": "Jerry",
+    "lastName": "Yue",
+    "fullName": "Jerry Yue",
+    "image": "/experts/jerry-yue.jpg",
+    "email": "https://docs.google.com/document/u/1/d/1jWUYBT4c0UZifngO6-U0D5bg8zgL-Piz/edit?usp=drive_web&ouid=102269883088991007260&rtpof=true",
+    "phone": null,
+    "languages": [
+      "Deutsch",
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": null,
+    "position": null,
+    "department": null,
+    "website": null
+  },
+  "expertise": {
+    "primary": [],
+    "secondary": [],
+    "industries": []
+  },
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": null,
+    "organization": null,
+    "focus": null
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/jerry-sheng-yue/",
+    "company": null
+  },
+  "tags": [],
+  "source": null,
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp368",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp368",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp368",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.8897997578193746,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

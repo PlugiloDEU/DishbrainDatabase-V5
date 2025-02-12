@@ -1,0 +1,111 @@
+{
+  "id": "exp444",
+  "personalInfo": {
+    "fullName": "PD Dr. Sophie Wagner",
+    "title": "Senior AI Researcher",
+    "email": "sophie.wagner@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 319 29291475",
+    "image": "/experts/sophie-wagner.jpg",
+    "languages": [
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Deep Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "AutoML",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Education",
+      "Healthcare",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp444",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp444",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp444",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.8538754538506176,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

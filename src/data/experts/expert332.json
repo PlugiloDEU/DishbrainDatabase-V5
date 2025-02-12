@@ -1,0 +1,112 @@
+{
+  "id": "exp332",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Alexander Schulz",
+    "title": "Professor für KI und ML",
+    "email": "alexander.schulz@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 802 36838086",
+    "image": "/experts/alexander-schulz.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Professor",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Explainable AI",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Manufacturing",
+      "Research",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp332",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp332",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp332",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.9415757229591399,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

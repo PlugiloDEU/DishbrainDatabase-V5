@@ -1,0 +1,112 @@
+{
+  "id": "exp117",
+  "personalInfo": {
+    "fullName": "Dr. Alexander Schulz",
+    "title": "Senior AI Researcher",
+    "email": "alexander.schulz@deutsches-forschungszentrum-fuer-ki.de",
+    "phone": "+49 832 61729117",
+    "image": "/experts/alexander-schulz.jpg",
+    "languages": [
+      "Englisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Deutsches Forschungszentrum für KI",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Kaiserslautern"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "AI Ethics",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Human-AI Interaction"
+    ],
+    "industries": [
+      "Finance",
+      "Healthcare",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Deutsches Forschungszentrum für KI",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp117",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp117",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp117",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.8691622476691184,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

@@ -1,0 +1,112 @@
+{
+  "id": "exp015",
+  "personalInfo": {
+    "fullName": "Prof. Michael Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "michael.hoffmann@fraunhofer-iais.de",
+    "phone": "+49 162 13407630",
+    "image": "/experts/michael-hoffmann.jpg",
+    "languages": [
+      "Englisch",
+      "Französisch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Fakultät für Informatik",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Reinforcement Learning",
+      "Computer Vision"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "Federated Learning"
+    ],
+    "industries": [
+      "Finance",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Robotics",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp015",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp015",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp015",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.9098410930141626,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

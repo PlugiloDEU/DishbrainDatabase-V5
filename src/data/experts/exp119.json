@@ -1,0 +1,112 @@
+{
+  "id": "exp119",
+  "personalInfo": {
+    "fullName": "PD Dr. Michael Schulz",
+    "title": "Senior AI Researcher",
+    "email": "michael.schulz@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 556 78084868",
+    "image": "/experts/michael-schulz.jpg",
+    "languages": [
+      "Deutsch",
+      "Italienisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Robotics",
+      "Neural Networks",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "AI Security"
+    ],
+    "industries": [
+      "Education",
+      "Robotics",
+      "Finance"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Neural Networks",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp119",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp119",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp119",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.9371586660172605,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

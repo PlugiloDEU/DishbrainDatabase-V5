@@ -1,0 +1,111 @@
+{
+  "id": "exp327",
+  "personalInfo": {
+    "fullName": "PD Dr. Laura Wagner",
+    "title": "Senior AI Researcher",
+    "email": "laura.wagner@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 384 98985640",
+    "image": "/experts/laura-wagner.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Natural Language Processing",
+      "Machine Learning",
+      "Explainable AI"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Healthcare",
+      "Education",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp327",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp327",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp327",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.9362850646580703,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

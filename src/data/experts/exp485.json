@@ -1,0 +1,111 @@
+{
+  "id": "exp485",
+  "personalInfo": {
+    "fullName": "Dr. Sophie Becker",
+    "title": "Senior AI Researcher",
+    "email": "sophie.becker@karlsruher-institut-fuer-technologie.de",
+    "phone": "+49 812 10823896",
+    "image": "/experts/sophie-becker.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Karlsruher Institut für Technologie",
+    "department": "Institut für Intelligente Systeme",
+    "position": "Researcher",
+    "location": "Karlsruhe"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Machine Learning",
+      "AI Ethics"
+    ],
+    "secondary": [
+      "Human-AI Interaction",
+      "Big Data Analytics"
+    ],
+    "industries": [
+      "Research",
+      "Robotics",
+      "Automotive"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Karlsruher Institut für Technologie",
+    "focus": "Forschung in AI Ethics",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp485",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp485",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp485",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.9317935430116888,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

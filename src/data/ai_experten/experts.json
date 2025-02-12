@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "personalInfo": {
+      "fullName": "Dr. Anna Schmidt",
+      "title": "Dr.",
+      "image": "/experts/anna-schmidt.jpg",
+      "email": "anna.schmidt@ai-institute.de",
+      "phone": "+49 30 1234567"
+    },
+    "institution": {
+      "name": "Berlin Institute of AI",
+      "department": "Machine Learning",
+      "position": "Senior Researcher"
+    },
+    "currentRole": {
+      "title": "Lead AI Researcher",
+      "organization": "Berlin Institute of AI",
+      "focus": "Deep Learning Applications"
+    },
+    "expertise": {
+      "primary": ["Machine Learning", "Neural Networks", "Computer Vision"],
+      "secondary": ["Natural Language Processing", "Robotics"]
+    },
+    "academicMetrics": {
+      "publications": {
+        "total": 45
+      },
+      "hIndex": 18
+    }
+  },
+  {
+    "id": "2",
+    "personalInfo": {
+      "fullName": "Prof. Dr. Marcus Weber",
+      "title": "Prof. Dr.",
+      "image": "/experts/marcus-weber.jpg",
+      "email": "m.weber@tech-uni.de",
+      "phone": "+49 89 9876543"
+    },
+    "institution": {
+      "name": "Technical University Munich",
+      "department": "AI & Robotics",
+      "position": "Department Head"
+    },
+    "currentRole": {
+      "title": "Professor of AI",
+      "organization": "Technical University Munich",
+      "focus": "AI in Robotics"
+    },
+    "expertise": {
+      "primary": ["Robotics", "AI Systems", "Automation"],
+      "secondary": ["Machine Learning", "Sensor Fusion"]
+    },
+    "academicMetrics": {
+      "publications": {
+        "total": 78
+      },
+      "hIndex": 25
+    }
+  }
+] 

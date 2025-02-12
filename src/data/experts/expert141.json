@@ -1,0 +1,111 @@
+{
+  "id": "exp141",
+  "personalInfo": {
+    "fullName": "Prof. Julia Koch",
+    "title": "Professor für KI und ML",
+    "email": "julia.koch@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 407 73566914",
+    "image": "/experts/julia-koch.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Explainable AI",
+      "Robotics",
+      "Machine Learning"
+    ],
+    "secondary": [
+      "AI Security",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Robotics",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp141",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp141",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp141",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.9268416699347745,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

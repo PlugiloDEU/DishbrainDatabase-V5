@@ -1,0 +1,217 @@
+{
+  "id": "sarah-chen",
+  "name": "Sarah Chen",
+  "titel": "Prof. Dr.",
+  "fullName": "Prof. Dr. Sarah J. Chen",
+  "position": "Director of AI Safety Research",
+  "organisation": "ETH Zürich",
+  "fachgebiet": "KI-Sicherheit und Robustheit",
+  "dateOfBirth": "1983-11-23",
+  "nationality": "Swiss-Chinese",
+  "expertise": [
+    "KI-Sicherheit",
+    "Robuste KI-Systeme",
+    "Adversarial Machine Learning",
+    "Vertrauenswürdige KI",
+    "KI-Validierung"
+  ],
+  "education": {
+    "fields": [
+      "Computer Science",
+      "Mathematics",
+      "AI Safety"
+    ],
+    "universities": [
+      "ETH Zürich",
+      "Stanford University",
+      "Tsinghua University"
+    ],
+    "degrees": [
+      "Ph.D. in Computer Science",
+      "M.Sc. in Machine Learning",
+      "B.Sc. in Mathematics"
+    ]
+  },
+  "academicPositions": [
+    {
+      "title": "Professor of AI Safety",
+      "institution": "ETH Zürich",
+      "period": "2020-present",
+      "additionalRole": "Director, AI Safety Lab"
+    },
+    {
+      "title": "Senior Research Scientist",
+      "institution": "DeepMind",
+      "period": "2017-2020",
+      "additionalRole": "AI Safety Team Lead"
+    },
+    {
+      "title": "Research Scientist",
+      "institution": "Google Research",
+      "period": "2015-2017",
+      "additionalRole": "Robustness Team"
+    }
+  ],
+  "projects": [
+    {
+      "name": "SafeAI Framework",
+      "start_date": "2021",
+      "status": "ongoing",
+      "description": "Entwicklung eines umfassenden Frameworks zur Validierung und Verifizierung von KI-Systemen, mit Fokus auf Sicherheit und Robustheit.",
+      "url": "https://safai.ethz.ch"
+    },
+    {
+      "name": "Adversarial Robustness Initiative",
+      "start_date": "2022",
+      "status": "ongoing",
+      "description": "Forschungsprojekt zur Verbesserung der Widerstandsfähigkeit von KI-Systemen gegen adversariale Angriffe.",
+      "url": "https://robustai.ethz.ch"
+    }
+  ],
+  "kontakt": {
+    "email": "sarah.chen@inf.ethz.ch",
+    "phone": "+41 44 632 1111",
+    "website": "https://ai.ethz.ch/~schen",
+    "address": {
+      "institution": "ETH Zürich",
+      "department": "Department of Computer Science",
+      "country": "Switzerland"
+    },
+    "officeHours": {
+      "tuesday": "13:00-15:00",
+      "thursday": "10:00-12:00"
+    }
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/sarahjchen",
+    "twitter": "https://twitter.com/safeai_chen",
+    "github": "https://github.com/sarahchen-ai"
+  },
+  "standort": "Zürich, Schweiz",
+  "selectedPublications": [
+    {
+      "title": "Towards Provably Safe AI Systems: A Framework for Validation",
+      "journal": "Nature Machine Intelligence",
+      "year": 2023,
+      "doi": "10.1038/s42256-023-00001-x"
+    },
+    {
+      "title": "Robust Deep Learning: From Theory to Practice",
+      "journal": "Journal of Machine Learning Research",
+      "year": 2022,
+      "doi": "10.5555/3454287.3454290"
+    },
+    {
+      "title": "Adversarial Training Methods for Neural Networks",
+      "journal": "ICML",
+      "year": 2021,
+      "doi": "10.1109/ICML.2021.1234"
+    }
+  ],
+  "professionalMemberships": [
+    {
+      "organization": "ACM",
+      "roles": [
+        {
+          "position": "Distinguished Member",
+          "period": "2022-present"
+        }
+      ]
+    },
+    {
+      "organization": "AI Safety Network Switzerland",
+      "role": "Founding Member",
+      "period": "2021-present"
+    }
+  ],
+  "awards": [
+    {
+      "name": "ETH Excellence in Research Award",
+      "year": 2023,
+      "institution": "ETH Zürich"
+    },
+    {
+      "name": "Outstanding Paper Award",
+      "year": 2022,
+      "institution": "NeurIPS"
+    },
+    {
+      "name": "Google Research Prize",
+      "year": 2021,
+      "institution": "Google"
+    }
+  ],
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://inf.ethz.ch/people/professors/schen",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.research-collection.ethz.ch/handle/20.500.11850/123456",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {
+      "KI-Sicherheit": {
+        "url": "https://ai.ethz.ch/research/ai-safety",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "Robuste KI-Systeme": {
+        "url": "https://robustai.ethz.ch",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "projects": {
+      "safeai_framework": {
+        "url": "https://safai.ethz.ch",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "adversarial_robustness": {
+        "url": "https://robustai.ethz.ch",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "publications": {
+      "provably_safe_ai": {
+        "url": "https://doi.org/10.1038/s42256-023-00001-x",
+        "doi": "10.1038/s42256-023-00001-x",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.92,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "expertise_sources": {
+    "KI-Sicherheit": "human",
+    "Robuste KI-Systeme": "human",
+    "Adversarial Machine Learning": "human",
+    "Vertrauenswürdige KI": "human",
+    "KI-Validierung": "ai"
+  },
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

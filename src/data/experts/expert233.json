@@ -1,0 +1,112 @@
+{
+  "id": "exp233",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Christian Hoffmann",
+    "title": "Professor für KI und ML",
+    "email": "christian.hoffmann@ludwig-maximilians-universitaet-muenchen.de",
+    "phone": "+49 980 56291605",
+    "image": "/experts/christian-hoffmann.jpg",
+    "languages": [
+      "Italienisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Ludwig-Maximilians-Universität München",
+    "department": "Machine Learning Lab",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Robotics",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Robotics",
+      "Energy",
+      "Healthcare"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Ludwig-Maximilians-Universität München",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp233",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp233",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp233",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.8664946206006344,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

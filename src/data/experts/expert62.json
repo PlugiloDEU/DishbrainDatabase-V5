@@ -1,0 +1,111 @@
+{
+  "id": "exp062",
+  "personalInfo": {
+    "fullName": "Dr. Julia Hoffmann",
+    "title": "Senior AI Researcher",
+    "email": "julia.hoffmann@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 440 65271212",
+    "image": "/experts/julia-hoffmann.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "AI Research Center",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Neural Networks",
+      "Computer Vision",
+      "Natural Language Processing"
+    ],
+    "secondary": [
+      "Federated Learning",
+      "Knowledge Graphs"
+    ],
+    "industries": [
+      "Finance",
+      "Healthcare",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Natural Language Processing",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp062",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp062",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp062",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.8963266863996348,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

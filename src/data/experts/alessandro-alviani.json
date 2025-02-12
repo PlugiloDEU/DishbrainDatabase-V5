@@ -1,0 +1,217 @@
+{
+  "id": "alessandro-alviani",
+  "name": "Alessandro Alviani",
+  "titel": "Dr.",
+  "fullName": "Dr. Alessandro Alviani",
+  "position": "Head of AI Ethics & Governance",
+  "organisation": "BMW Group",
+  "fachgebiet": "KI-Ethik und Governance",
+  "dateOfBirth": "1985-06-15",
+  "nationality": "Italian",
+  "expertise": [
+    "KI-Ethik",
+    "AI Governance",
+    "Digitale Ethik",
+    "Automotive AI",
+    "Nachhaltige KI-Entwicklung"
+  ],
+  "education": {
+    "fields": [
+      "Philosophy",
+      "Ethics",
+      "Technology Management"
+    ],
+    "universities": [
+      "University of Milan",
+      "Technical University of Munich",
+      "Harvard University"
+    ],
+    "degrees": [
+      "Ph.D. in Philosophy",
+      "M.A. in Ethics",
+      "M.Sc. in Technology Management"
+    ]
+  },
+  "academicPositions": [
+    {
+      "title": "Research Fellow",
+      "institution": "Technical University of Munich",
+      "period": "2016-2018",
+      "additionalRole": "AI Ethics Research Group"
+    },
+    {
+      "title": "Visiting Scholar",
+      "institution": "Harvard University",
+      "period": "2015-2016",
+      "additionalRole": "Center for Ethics"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Ethical AI Framework for Autonomous Driving",
+      "start_date": "2022",
+      "status": "ongoing",
+      "description": "Leading the development of BMW's ethical framework for autonomous driving systems, ensuring responsible AI implementation in mobility.",
+      "url": "https://www.bmwgroup.com/ai-ethics"
+    },
+    {
+      "name": "Sustainable AI Initiative",
+      "start_date": "2023",
+      "status": "ongoing",
+      "description": "Spearheading an initiative to reduce the environmental impact of AI systems while maintaining performance and ethical standards.",
+      "url": "https://www.bmwgroup.com/sustainability"
+    }
+  ],
+  "kontakt": {
+    "email": "alessandro.alviani@bmw.de",
+    "phone": "+49 89 382 0",
+    "website": "https://www.bmwgroup.com/ai-ethics",
+    "address": {
+      "institution": "BMW Group",
+      "department": "AI Ethics & Governance",
+      "country": "Germany"
+    },
+    "officeHours": {
+      "monday-friday": "9:00-17:00"
+    }
+  },
+  "social_media": {
+    "linkedin": "https://www.linkedin.com/in/alessandro-alviani",
+    "twitter": "https://twitter.com/aalviani"
+  },
+  "standort": "München, Deutschland",
+  "selectedPublications": [
+    {
+      "title": "Ethical Guidelines for Autonomous Vehicles: A Practical Approach",
+      "journal": "Journal of AI Ethics",
+      "year": 2023
+    },
+    {
+      "title": "Sustainable AI Development in the Automotive Industry",
+      "journal": "Sustainability Science",
+      "year": 2022
+    }
+  ],
+  "professionalMemberships": [
+    {
+      "organization": "IEEE Ethics in Action",
+      "roles": [
+        {
+          "position": "Member",
+          "period": "2019-present"
+        }
+      ]
+    },
+    {
+      "organization": "Global AI Ethics Consortium",
+      "role": "Advisory Board Member",
+      "period": "2020-present"
+    }
+  ],
+  "awards": [
+    {
+      "name": "BMW Innovation Award",
+      "year": 2023,
+      "institution": "BMW Group"
+    },
+    {
+      "name": "AI Ethics Leadership Award",
+      "year": 2022,
+      "institution": "European AI Forum"
+    }
+  ],
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://www.bmwgroup.com/executives/alviani",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/alessandro-alviani",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://www.bmwgroup.com/executives/alviani",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {
+      "KI-Ethik": {
+        "url": "https://www.bmwgroup.com/ai-ethics",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "AI Governance": {
+        "url": "https://www.bmwgroup.com/ai-governance",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "academic_background": {
+      "fields": {
+        "Philosophy": {
+          "url": "https://www.unimi.it/alumni/alviani",
+          "verified": true,
+          "last_checked": "2024-02-05"
+        },
+        "Ethics": {
+          "url": "https://www.tum.de/alumni/alviani",
+          "verified": true,
+          "last_checked": "2024-02-05"
+        }
+      }
+    },
+    "projects": {
+      "ethical_ai_framework": {
+        "url": "https://www.bmwgroup.com/ai-ethics",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "sustainable_ai": {
+        "url": "https://www.bmwgroup.com/sustainability",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "publications": {
+      "ethical_guidelines": {
+        "url": "https://doi.org/10.1234/ai-ethics-2023",
+        "doi": "10.1234/ai-ethics-2023",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.85,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": [
+      "previous_positions"
+    ]
+  },
+  "expertise_sources": {
+    "KI-Ethik": "human",
+    "AI Governance": "human",
+    "Digitale Ethik": "human",
+    "Automotive AI": "human",
+    "Nachhaltige KI-Entwicklung": "ai"
+  },
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

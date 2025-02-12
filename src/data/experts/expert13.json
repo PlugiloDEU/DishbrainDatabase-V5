@@ -1,0 +1,112 @@
+{
+  "id": "exp013",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Laura Weber",
+    "title": "Professor für KI und ML",
+    "email": "laura.weber@rwth-aachen.de",
+    "phone": "+49 235 56799392",
+    "image": "/experts/laura-weber.jpg",
+    "languages": [
+      "Englisch",
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "RWTH Aachen",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Aachen"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Computer Vision",
+      "Deep Learning"
+    ],
+    "secondary": [
+      "AI Governance",
+      "AI Security"
+    ],
+    "industries": [
+      "Finance",
+      "Energy",
+      "Manufacturing"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "RWTH Aachen",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp013",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp013",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp013",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.9296146879835155,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

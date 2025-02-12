@@ -1,0 +1,42 @@
+const teamMembers = ["Ai Experten", "Developer", "Designer"];
+
+function displayTeam() {
+    console.log("Our team includes: " + teamMembers.join(", "));
+}
+
+<button id="aiExpertenButton">Show AI Experten</button>
+<div id="aiExpertenSection" style="display: none;">
+    <h2>AI Experten</h2>
+    <p>Details about AI Experten...</p>
+</div>
+
+#aiExpertenSection {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+    margin-top: 10px;
+    transition: all 0.3s ease;
+}
+
+#aiExpertenSection h2 {
+    color: #333;
+}
+
+#aiExpertenButton {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+#aiExpertenButton:hover {
+    background-color: #0056b3;
+}
+
+document.getElementById("aiExpertenButton").addEventListener("click", function() {
+    const section = document.getElementById("aiExpertenSection");
+    section.style.display = section.style.display === "none" ? "block" : "none";
+}); 

@@ -1,0 +1,111 @@
+{
+  "id": "exp280",
+  "personalInfo": {
+    "fullName": "PD Dr. Michael Koch",
+    "title": "Senior AI Researcher",
+    "email": "michael.koch@max-planck-institut-fuer-intelligente-systeme.de",
+    "phone": "+49 515 47215229",
+    "image": "/experts/michael-koch.jpg",
+    "languages": [
+      "Spanisch"
+    ]
+  },
+  "institution": {
+    "name": "Max-Planck-Institut für Intelligente Systeme",
+    "department": "Fakultät für Informatik",
+    "position": "Researcher",
+    "location": "Tübingen"
+  },
+  "expertise": {
+    "primary": [
+      "Reinforcement Learning",
+      "Deep Learning",
+      "Quantum AI"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Finance",
+      "Research",
+      "Education"
+    ]
+  },
+  "currentRole": {
+    "title": "Senior AI Researcher",
+    "organization": "Max-Planck-Institut für Intelligente Systeme",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp280",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp280",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp280",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.9303508766144688,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

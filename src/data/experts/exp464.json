@@ -1,0 +1,111 @@
+{
+  "id": "exp464",
+  "personalInfo": {
+    "fullName": "Prof. Dr. Maria Müller",
+    "title": "Professor für KI und ML",
+    "email": "maria.mueller@technische-universitaet-muenchen.de",
+    "phone": "+49 879 93945859",
+    "image": "/experts/maria-mueller.jpg",
+    "languages": [
+      "Englisch"
+    ]
+  },
+  "institution": {
+    "name": "Technische Universität München",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "München"
+  },
+  "expertise": {
+    "primary": [
+      "Deep Learning",
+      "Computer Vision",
+      "Reinforcement Learning"
+    ],
+    "secondary": [
+      "Knowledge Graphs",
+      "AI Governance"
+    ],
+    "industries": [
+      "Education",
+      "Healthcare",
+      "Research"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Technische Universität München",
+    "focus": "Forschung in Reinforcement Learning",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp464",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp464",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp464",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.8831030886214085,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}

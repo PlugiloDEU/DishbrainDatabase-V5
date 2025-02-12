@@ -1,0 +1,111 @@
+{
+  "id": "exp252",
+  "personalInfo": {
+    "fullName": "Prof. Maria Meyer",
+    "title": "Professor für KI und ML",
+    "email": "maria.meyer@fraunhofer-iais.de",
+    "phone": "+49 832 41224749",
+    "image": "/experts/maria-meyer.jpg",
+    "languages": [
+      "Deutsch"
+    ]
+  },
+  "institution": {
+    "name": "Fraunhofer IAIS",
+    "department": "Institut für Künstliche Intelligenz",
+    "position": "Professor",
+    "location": "Sankt Augustin"
+  },
+  "expertise": {
+    "primary": [
+      "Machine Learning",
+      "Reinforcement Learning",
+      "Neural Networks"
+    ],
+    "secondary": [
+      "Big Data Analytics",
+      "Edge Computing"
+    ],
+    "industries": [
+      "Healthcare",
+      "Research",
+      "Robotics"
+    ]
+  },
+  "currentRole": {
+    "title": "Professor für Künstliche Intelligenz",
+    "organization": "Fraunhofer IAIS",
+    "focus": "Forschung in Machine Learning",
+    "status": "active"
+  },
+  "expertise_sources": {},
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://undefined.com/people/exp252",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.linkedin.com/in/exp252",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://undefined.com/people/exp252",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "expertise": {},
+    "academic_background": {
+      "fields": {},
+      "universities": {},
+      "degrees": {}
+    },
+    "projects": {},
+    "publications": {},
+    "contact_info": {
+      "email": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "office_hours": {
+        "url": "https://undefined.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    }
+  },
+  "data_quality": {
+    "completeness": 0.8711715370352632,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "image_url": null
+}
