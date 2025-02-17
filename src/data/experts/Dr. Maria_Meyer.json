@@ -1,0 +1,539 @@
+{
+    "id": "exp1066406412",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Maria",
+        "lastName": "Meyer",
+        "fullName": "Dr. Maria Meyer",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQH8wmiJBEZ-WA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722865198020?e=1745452800&v=beta&t=Q5B8KFlSQFWgtWQ7G44yCue3BmPrmWBeBYsEAmmJk7U",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Polnisch",
+            "Tschechisch"
+        ],
+        "allData": {
+            "id": "1066406412",
+            "profileId": "ACoAAD-QEgwBZbxgswVGaoazDeajhiUQ1Fp2-Is",
+            "firstName": "Dr. Maria",
+            "lastName": "Meyer",
+            "occupation": "Jeder Augenblick ist von unendlichem Wert (Goethe)",
+            "publicIdentifier": "dr-maria-meyer-deloitte-services-gmbh",
+            "trackingId": "s2nWdexyTaWmvQSlXv+xmg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH8wmiJBEZ-WA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722865198020?e=1745452800&v=beta&t=Q5B8KFlSQFWgtWQ7G44yCue3BmPrmWBeBYsEAmmJk7U",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101534271",
+            "positions": [
+                {
+                    "title": "Senior Solution Engineer",
+                    "description": "I joined the team at Deloitte in August 2023. So far, the focus of my work has been in the areas of project management and project work in the field of public administration and public services, support with funding applications, requests for information from authorities, concept development and project management.",
+                    "locationName": "Görlitz, Sachsen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1038",
+                        "entityUrn": "urn:li:fs_miniCompany:1038",
+                        "name": "Deloitte",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                        "universalName": "deloitte",
+                        "dashCompanyUrn": "urn:li:fsd_company:1038",
+                        "trackingId": "HLBRjN33QAyUPXfydwWcqw=="
+                    },
+                    "companyName": "Deloitte Consulting"
+                },
+                {
+                    "title": "Expert",
+                    "locationName": "Görlitz, Sachsen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1038",
+                        "entityUrn": "urn:li:fs_miniCompany:1038",
+                        "name": "Deloitte",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                        "universalName": "deloitte",
+                        "dashCompanyUrn": "urn:li:fsd_company:1038",
+                        "trackingId": "SAnQO7k7QmajK4u16As/3Q=="
+                    },
+                    "companyName": "Deloitte Consulting"
+                },
+                {
+                    "title": "Referent der Geschäftsführung",
+                    "locationName": "Zittau, Sachsen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:37098838",
+                        "entityUrn": "urn:li:fs_miniCompany:37098838",
+                        "name": "Zittauer Stadtentwicklungsgesellschaft mbH",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "zittauer-stadtentwicklungsgesellschaft-mbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:37098838",
+                        "trackingId": "43Gr1VR0QB+1Pwtdw9zJfw=="
+                    },
+                    "companyName": "Zittauer Stadtentwicklungsgesellschaft mbH"
+                },
+                {
+                    "title": "Mitarbeiterin der Wirtschaftsförderung ",
+                    "description": "Beratung der Existenzgründer; Beratung bestehender Unternehmen aus den Bereichen Handel, Dienstleitung und Gastronomie; Vorträge zum Thema Existenzgründung; Fördermittelberatung und Stellungnahmen zu Investitionsvorhaben; Veranstaltungsorganisation; Juniorentätigkeit in Wettbewerben",
+                    "locationName": "Zittau, Sachsen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2014
+                        }
+                    },
+                    "companyName": "Industrie- und Handelskammer Dresden"
+                },
+                {
+                    "title": "Projektmanagerin Wirtschaftsförderung ",
+                    "description": "Akquisition und Ansiedlung von Unternehmen, Behördenlotse für potenzielle Investoren, Beratung zu Fördermitteln, Gewerbeflächenmanagement, Mitarbeit in Branchen-, Unternehmens- und Marketingsnetzwerken; Veranstaltungsorganisation und Standortpräsentation",
+                    "locationName": "Görlitz, Sachsen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:2586011",
+                        "entityUrn": "urn:li:fs_miniCompany:2586011",
+                        "name": "Europastadt GörlitzZgorzelec GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHnUWa5ZDG6Uw/company-logo_200_200/company-logo_200_200/0/1655468486934/europastadt_g_rlitzzgorzelec_gmbh_logo?e=1747872000&v=beta&t=3InCQPI-jFebXDOSFgxs2I-LtEovGhyBWjfqHW1fsj8",
+                        "universalName": "europastadt-goerlitzzgorzelec-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:2586011",
+                        "trackingId": "Wgbuq9glS6umqB4zVvKtKw=="
+                    },
+                    "companyName": "Europastadt GörlitzZgorzelec GmbH"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "schoolName": "London Metropolitan University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Betriebswirt",
+                    "fieldOfStudy": "Internationales Management",
+                    "schoolName": "Internationales Hochschulinstitut (IHI) Zittau (TU Dresden)",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2003
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Magister",
+                    "fieldOfStudy": "Finanz- und Bankwesen",
+                    "schoolName": "Uniwersytet Ekonomiczny we Wrocławiu",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2000
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "PRINCE2 Foundation",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2028
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2025
+                        }
+                    },
+                    "authority": "PeopleCert"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Stipendiat des Europäischen Programms LEONARDO da Vinci Mobilität",
+                    "issueDate": {
+                        "year": 2004
+                    }
+                },
+                {
+                    "title": "Stipendium des Premierministers für besondere Leistungen, Polen",
+                    "issueDate": {
+                        "year": 1999
+                    },
+                    "issuer": "Premierministers Polens"
+                },
+                {
+                    "title": "Preisträger in der XIII Wirtschaftskenntnisse-Olympiade, Warschau, Polen"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Polnisch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Tschechisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Projektmanagement",
+                "Stakeholder-Management",
+                "Kommunikation"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Mitglied",
+                    "companyName": "Deutscher Kinderschutzbund Ortsverband Zittau e.V.",
+                    "cause": "CHILDREN"
+                }
+            ],
+            "headline": "Jeder Augenblick ist von unendlichem Wert (Goethe)",
+            "student": false,
+            "industryName": "Management Consulting",
+            "industryUrn": "urn:li:fs_industry:11",
+            "geoLocationName": "Oderwitz, Saxony",
+            "geoCountryName": "Germany",
+            "jobTitle": "Senior Solution Engineer",
+            "companyName": "Deloitte Consulting",
+            "companyPublicId": "deloitte",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/deloitte",
+            "following": false,
+            "followable": true,
+            "followersCount": 309,
+            "connectionsCount": 306,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Deloitte Consulting",
+        "position": "Senior Solution Engineer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Management Consulting"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Solution Engineer",
+        "organization": "Deloitte Consulting",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-maria-meyer-deloitte-services-gmbh/",
+        "company": "https://www.linkedin.com/company/deloitte"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Solution Engineer",
+            "description": "I joined the team at Deloitte in August 2023. So far, the focus of my work has been in the areas of project management and project work in the field of public administration and public services, support with funding applications, requests for information from authorities, concept development and project management.",
+            "locationName": "Görlitz, Sachsen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1038",
+                "entityUrn": "urn:li:fs_miniCompany:1038",
+                "name": "Deloitte",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                "universalName": "deloitte",
+                "dashCompanyUrn": "urn:li:fsd_company:1038",
+                "trackingId": "HLBRjN33QAyUPXfydwWcqw=="
+            },
+            "companyName": "Deloitte Consulting"
+        },
+        {
+            "title": "Expert",
+            "locationName": "Görlitz, Sachsen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1038",
+                "entityUrn": "urn:li:fs_miniCompany:1038",
+                "name": "Deloitte",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                "universalName": "deloitte",
+                "dashCompanyUrn": "urn:li:fsd_company:1038",
+                "trackingId": "SAnQO7k7QmajK4u16As/3Q=="
+            },
+            "companyName": "Deloitte Consulting"
+        },
+        {
+            "title": "Referent der Geschäftsführung",
+            "locationName": "Zittau, Sachsen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:37098838",
+                "entityUrn": "urn:li:fs_miniCompany:37098838",
+                "name": "Zittauer Stadtentwicklungsgesellschaft mbH",
+                "showcase": false,
+                "active": true,
+                "universalName": "zittauer-stadtentwicklungsgesellschaft-mbh",
+                "dashCompanyUrn": "urn:li:fsd_company:37098838",
+                "trackingId": "43Gr1VR0QB+1Pwtdw9zJfw=="
+            },
+            "companyName": "Zittauer Stadtentwicklungsgesellschaft mbH"
+        },
+        {
+            "title": "Mitarbeiterin der Wirtschaftsförderung ",
+            "description": "Beratung der Existenzgründer; Beratung bestehender Unternehmen aus den Bereichen Handel, Dienstleitung und Gastronomie; Vorträge zum Thema Existenzgründung; Fördermittelberatung und Stellungnahmen zu Investitionsvorhaben; Veranstaltungsorganisation; Juniorentätigkeit in Wettbewerben",
+            "locationName": "Zittau, Sachsen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2014
+                }
+            },
+            "companyName": "Industrie- und Handelskammer Dresden"
+        },
+        {
+            "title": "Projektmanagerin Wirtschaftsförderung ",
+            "description": "Akquisition und Ansiedlung von Unternehmen, Behördenlotse für potenzielle Investoren, Beratung zu Fördermitteln, Gewerbeflächenmanagement, Mitarbeit in Branchen-, Unternehmens- und Marketingsnetzwerken; Veranstaltungsorganisation und Standortpräsentation",
+            "locationName": "Görlitz, Sachsen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:2586011",
+                "entityUrn": "urn:li:fs_miniCompany:2586011",
+                "name": "Europastadt GörlitzZgorzelec GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHnUWa5ZDG6Uw/company-logo_200_200/company-logo_200_200/0/1655468486934/europastadt_g_rlitzzgorzelec_gmbh_logo?e=1747872000&v=beta&t=3InCQPI-jFebXDOSFgxs2I-LtEovGhyBWjfqHW1fsj8",
+                "universalName": "europastadt-goerlitzzgorzelec-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:2586011",
+                "trackingId": "Wgbuq9glS6umqB4zVvKtKw=="
+            },
+            "companyName": "Europastadt GörlitzZgorzelec GmbH"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "schoolName": "London Metropolitan University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "degreeName": "Betriebswirt",
+            "fieldOfStudy": "Internationales Management",
+            "schoolName": "Internationales Hochschulinstitut (IHI) Zittau (TU Dresden)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2003
+                }
+            }
+        },
+        {
+            "degreeName": "Magister",
+            "fieldOfStudy": "Finanz- und Bankwesen",
+            "schoolName": "Uniwersytet Ekonomiczny we Wrocławiu",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2005
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2000
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PRINCE2 Foundation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2028
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2025
+                }
+            },
+            "authority": "PeopleCert"
+        }
+    ],
+    "skills": [
+        "Projektmanagement",
+        "Stakeholder-Management",
+        "Kommunikation"
+    ],
+    "lastEnriched": "2025-02-17"
+}

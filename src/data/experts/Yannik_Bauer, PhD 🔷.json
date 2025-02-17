@@ -1,0 +1,728 @@
+{
+    "id": "exp197278660",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Yannik",
+        "lastName": "Bauer, PhD 🔷",
+        "fullName": "Yannik Bauer, PhD 🔷",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQGm23byiSd7mw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699022580698?e=1745452800&v=beta&t=tL315Fc40bgMGgCvHaLowGJvnDCeNO5_pNtZF1B7k4M",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "Estonian",
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "197278660",
+            "profileId": "ACoAAAvCO8QBOy7vKtRDJ-lHGEsnAiz6ELGupPo",
+            "firstName": "Yannik",
+            "lastName": "Bauer, PhD 🔷",
+            "occupation": "Data Science & GenAI | Consultant | Computational Neuroscientist",
+            "publicIdentifier": "yannikbauer",
+            "trackingId": "vTFZ8IlpQtCezae/Vgvfpw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGm23byiSd7mw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699022580698?e=1745452800&v=beta&t=tL315Fc40bgMGgCvHaLowGJvnDCeNO5_pNtZF1B7k4M",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFB0jxTI1hIag/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1678469833040?e=1745452800&v=beta&t=7IqKyLXyfCQPDLlOyntFgSDF0xm_dLdwsE94WXD9fpY",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009735",
+            "positions": [
+                {
+                    "title": "Principal AI Researcher & Consultant",
+                    "description": "• Deeper focus on GenAI/LLM Multi-Agent Systems (MAS)\n - organizing company R&D Task Forces\n - blog articles, white papers, webinars\n - building demo apps deployed on company-internal platform (terraform, AWS, GitLab) for sales pitches and marketing\n - further technologies (on top of tech in previous position): AutoGen, CrewAI, LangGraph, LangSmith, GPTs, Azure OpenAI Studio, Llama3, Qdrant\n• Public sector work on job skill extraction from job offers and CVs via classic NLP and LLMs\n- developed processing pipeline for Web UI in production (tens of thousands requests/day, <1s/document)\n- tools/technologies: Named Entity Recognition (NER), Named Entity Linking (NEL), spaCy, huggingface, transformer Modelle, MLFlow, hnsw, MongoDB, PostgresSQL, Bitbucket, Docker, pytest, poetry, Factory Design Patterns, pre-commit hooks, GDPR-compliant anonymization\n• Sales pitches\n• Interviewing",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:2804401",
+                        "entityUrn": "urn:li:fs_miniCompany:2804401",
+                        "name": "Alexander Thamm [at] ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEA8cK6QGAFOg/company-logo_200_200/company-logo_200_200/0/1720420670784/alexander_thamm_gmbh_logo?e=1747872000&v=beta&t=vdsvS_VwISYnm1bE2Flxt5gN0gNK8HDxpsb2U9iw-xw",
+                        "universalName": "alexander-thamm-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:2804401",
+                        "trackingId": "Kv2UgIs0T8Odko2ZsN+Pyw=="
+                    },
+                    "companyName": "Alexander Thamm [at] "
+                },
+                {
+                    "title": "Senior Data Science Consultant",
+                    "description": "• Data Science and AI consulting\n• Webinars, seminars, workshops and hackathons about Data Science, Generative Ai (GenAI) and Prompt Engineering \n• Public sector and automotive industry\n• Development of LLM chatbots on custom data:\n - Retrieval Augmented Generation (RAG) via semantic search on Vector Databases (ChromaDB, Weaviate)\n - Use of various open and closed source LLMs and providers (OpenAI GPT-3.5, Meta Llama2, Databricks Dolly, NVIDIA Megatron, Aleph Alpha Luminous) \n - LLM Finetuning, Prompt Engineering, HuggingFace, LangChain\n• Development of AI image generator apps\n - comic generator app (streamlit, GPT-3.5, Stable Diffusion)\n• classic NLP:\n - Text classification, NER, SpaCy\n• Data anonymization and encryption for GDPR compliance\n• Streaming/telematics data analysis",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:2804401",
+                        "entityUrn": "urn:li:fs_miniCompany:2804401",
+                        "name": "Alexander Thamm [at] ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEA8cK6QGAFOg/company-logo_200_200/company-logo_200_200/0/1720420670784/alexander_thamm_gmbh_logo?e=1747872000&v=beta&t=vdsvS_VwISYnm1bE2Flxt5gN0gNK8HDxpsb2U9iw-xw",
+                        "universalName": "alexander-thamm-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:2804401",
+                        "trackingId": "vdQzFy+3TsSmZ6owMfmkSQ=="
+                    },
+                    "companyName": "Alexander Thamm [at] "
+                },
+                {
+                    "title": "PhD in Computational Neuroscience & Vision Data Science",
+                    "description": "• Combined vision neuroscience & data science | machine learning to dynamically predict neural activity to natural movie stimuli and study feedback loops and system robustness, with the goal to eventually emulate vision with a Deep Neural Network (DNNs) | Artificial Intelligence (AI)\n• 6 years of experience building Python-based SQL database pipelines with version control, code review, unit testing, performance optimization, remote access and integration with multiple collaborative lab code repositories \n• Custom-built, grid-search-optimized and cross-validated models, and classified neurons via regression, PCA, ICA, SVD, clustering and matrix factorization \n• Performed standard parametric and non-parametric, as well as custom-made bootstrapped statistical tests\n• Planned and executed complex long term project collaboration across three labs in Munich and Tübingen\n• Formulated scientific questions, developed, planned and conducted experiments, and collected, cleaned, analyzed and visualised data\n• Self-organized teamwork with fellow students for biweekly report deadlines to supervisors, using various project, task and time management tools for effective and adaptive schedules and priorities\n• Mentored and taught several MSc students, raised morale and motivation in the face of failures and got all of them onto publications\n• Collaborated with colleagues and contributed to their published projects\n• Scouted Master’s and PhD recruits to get best people into the team\n• Set up a lab wiki to iteratively consolidate our SOPs\n• Established a lab meeting agenda to capture task responsibilities, objectives and key results\n• Constructed a lab website to increase public outreach\n• Increased awareness of people management (regular student talks and lab survey to address potential issues)\n• Published in multiple peer-reviewed journals, gave talks and poster presentations at conferences\n\n\nJoint supervisors: Prof. Busse (LMU), Prof. Berens (U Tübingen) and Prof. Euler (U Tübingen)",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:596185",
+                        "entityUrn": "urn:li:fs_miniCompany:596185",
+                        "name": "Ludwig-Maximilians-Universität München",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                        "universalName": "lmu.muenchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:596185",
+                        "trackingId": "XJwZeD3tQR+4TpACxIq/zA=="
+                    },
+                    "companyName": "Ludwig-Maximilians-Universität München"
+                },
+                {
+                    "title": "Course tutor for Introduction to Scientific Programming and Statistics in Python",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:596185",
+                        "entityUrn": "urn:li:fs_miniCompany:596185",
+                        "name": "Ludwig-Maximilians-Universität München",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                        "universalName": "lmu.muenchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:596185",
+                        "trackingId": "c69AV/hvS7+Wa3jRDG+7dQ=="
+                    },
+                    "companyName": "Ludwig-Maximilians-Universität München"
+                },
+                {
+                    "title": "Graduate Research Student SmartStart Program Computational Neuroscience | Data Science | ML | AI",
+                    "description": "Graduate research in neural data science with my PhD advisors in the one-year programme offered by the German National Bernstein Network for Computational Neuroscience (BNCN), funded by the Volkswagen Foundation (30,000 €).\n\nwww.smartstart-compneuro.de/\nwww.nncn.de",
+                    "locationName": "University of Tübingen & LMU Munich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:2465512",
+                        "entityUrn": "urn:li:fs_miniCompany:2465512",
+                        "name": "Bernstein Network Computational Neuroscience",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEpknyHf-bpCQ/company-logo_200_200/company-logo_200_200/0/1631358490387/bernstein_network_computational_neuroscience_germany_logo?e=1747872000&v=beta&t=Fw_JXdC6eHyU447TqnSmxztekQqJV_et6KGpeZu9P00",
+                        "universalName": "bernstein-network-computational-neuroscience",
+                        "dashCompanyUrn": "urn:li:fsd_company:2465512",
+                        "trackingId": "1X4BbAmKQLWARhtKQH13IQ=="
+                    },
+                    "companyName": "Bernstein Network Computational Neuroscience"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Arts - BA",
+                    "fieldOfStudy": "Psychology & Philosophy",
+                    "schoolName": "University of Oxford",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "Neuroscience @ International Max-Planck Research School (IMPRS) & Graduate Training Centre (GTC)",
+                    "schoolName": "University of Tübingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "fieldOfStudy": "Computational Neuroscience & Vision Data Science @ Graduate School for Systemic Neurosciences",
+                    "schoolName": "Ludwig-Maximilians-Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2017
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Machine Learning",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2018
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "Deep Learning Specialization",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "Computational Neuroscience",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "R Programming",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "Advanced Scientific Programming in Python summer school (Bordeaux)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "ASPP faculty"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "SmartStart2 Stipend",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2016
+                    },
+                    "issuer": "VolkswagenFoundation & Bernstein Network for Computational Neuroscience"
+                },
+                {
+                    "title": "Brackenbury Fund",
+                    "description": "Funding for summer research project with Prof Mark Stokes",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2013
+                    },
+                    "issuer": "Balliol College, University of Oxford"
+                },
+                {
+                    "title": "Lifetime fellow of the German National Academic Foundation (Studienstiftung des Deutschen Volkes)",
+                    "issueDate": {
+                        "year": 2012
+                    },
+                    "issuer": "Studienstiftung des Deutschen Volkes"
+                },
+                {
+                    "title": "Apollinaire Prize for outstanding achievements in French",
+                    "issueDate": {
+                        "month": 7,
+                        "year": 2008
+                    },
+                    "issuer": "Robert Bosch Trust"
+                },
+                {
+                    "title": "Stipend for the Deutsche Schülerakademie",
+                    "issueDate": {
+                        "month": 7,
+                        "year": 2008
+                    },
+                    "issuer": "Deutsche Schülerakademie"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Estonian",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Consulting",
+                "Continuous Integration and Continuous Delivery (CI/CD)",
+                "Object-Oriented Programming (OOP)",
+                "Software Testing"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Organizing committee member for Talking Science events",
+                    "description": "Talking Science is a unique opportunity to meet and talk about neuroscience with a leading researcher in an informal atmosphere - a two-day program for the MSc and PhD students of LMU, TUM, and the MPIs.\nhttps://www.talking-science.de/",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Graduate School of Systemic Neurosciences - LMU Munich"
+                },
+                {
+                    "role": "Student Representative",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2014
+                        }
+                    },
+                    "companyName": "Graduate Training Center of Neuroscience"
+                },
+                {
+                    "role": "Student Representative for Oxford University Psychology undergraduates",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2012
+                        }
+                    },
+                    "companyName": "The British Psychological Society"
+                }
+            ],
+            "headline": "Data Science & GenAI | Consultant | Computational Neuroscientist",
+            "summary": "I am a data science | AI researcher and consultant focusing on GenAI | LLM | NLP | RAG | Multi-Agent System (MAS) technologies. In my client and internal R&D projects, I build those systems (PoCs, demos, and in production), and give seminars and trainings about prompt engineering for ChatGPT, Midjourney, Stable Diffusion, and other closed- and open-source models. Starting my life as a Northern German countryside boy from a non-academic background, my journey has taken many improbable paths*. There are still many things I’d like to do, but if none of them came true, that would also be okay. \n\nSome of my guiding principles:\n• life and the universe have no intrinsic goal – what we call purpose or meaningful are the things we value, and that's all that's needed        (to make their pursuit worthwhile and life beautiful)\n• people first        (or the ultimate goal should be the flourishing of sentient beings)\n• don't treat others like you wouldn't want to be treated (silver rule), treat others like you would like to be treated (golden), treat others like they would like to be treated (diamond)\n• freedom, equality, and justice       (everyone should get a fair chance to flourish in their way)\n• everything is transient        (and one primary cause for suffering is non-acceptance of this reality through craving and aversion)\n• our selves are made up of multiple selves (recognition of this fact allows us to integrate our conflicting parts)\n• judge an action by its consequences in context (don't get stuck on principles)\n• done is better than perfect        (good enough is better than not done)\n\nMaking the world a better place is a noble but difficult goal. In my view, Effective Altruism (EA) is one of the better ways to care about global priority topics and the long-term future before we run out of time to find infinity.\n\nMy hobbies past and present include fine arts, photography, guitar, reading, juggling, jogging, linguistics, Ultimate Frisbee, swimming, cycling, triathlons, yoga, Lindy Hop dancing, and Vipassana meditation. \n\nIf you are curious or inspired to connect, feel free to reach out and we can explore things together!\n\n*Also including stints as a volunteer for people with special needs in Aberdeen, Scotland, and as a journalist in Lomé, Togo.",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "Greater Munich Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Principal AI Researcher & Consultant",
+            "companyName": "Alexander Thamm [at] ",
+            "companyPublicId": "alexander-thamm-gmbh",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/alexander-thamm-gmbh",
+            "following": false,
+            "followable": true,
+            "followersCount": 1399,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Alexander Thamm [at] ",
+        "position": "Principal AI Researcher & Consultant",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Management Consulting"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Principal AI Researcher & Consultant",
+        "organization": "Alexander Thamm [at] ",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/yannikbauer/",
+        "company": "https://www.linkedin.com/company/alexander-thamm-gmbh"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Principal AI Researcher & Consultant",
+            "description": "• Deeper focus on GenAI/LLM Multi-Agent Systems (MAS)\n - organizing company R&D Task Forces\n - blog articles, white papers, webinars\n - building demo apps deployed on company-internal platform (terraform, AWS, GitLab) for sales pitches and marketing\n - further technologies (on top of tech in previous position): AutoGen, CrewAI, LangGraph, LangSmith, GPTs, Azure OpenAI Studio, Llama3, Qdrant\n• Public sector work on job skill extraction from job offers and CVs via classic NLP and LLMs\n- developed processing pipeline for Web UI in production (tens of thousands requests/day, <1s/document)\n- tools/technologies: Named Entity Recognition (NER), Named Entity Linking (NEL), spaCy, huggingface, transformer Modelle, MLFlow, hnsw, MongoDB, PostgresSQL, Bitbucket, Docker, pytest, poetry, Factory Design Patterns, pre-commit hooks, GDPR-compliant anonymization\n• Sales pitches\n• Interviewing",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:2804401",
+                "entityUrn": "urn:li:fs_miniCompany:2804401",
+                "name": "Alexander Thamm [at] ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEA8cK6QGAFOg/company-logo_200_200/company-logo_200_200/0/1720420670784/alexander_thamm_gmbh_logo?e=1747872000&v=beta&t=vdsvS_VwISYnm1bE2Flxt5gN0gNK8HDxpsb2U9iw-xw",
+                "universalName": "alexander-thamm-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:2804401",
+                "trackingId": "Kv2UgIs0T8Odko2ZsN+Pyw=="
+            },
+            "companyName": "Alexander Thamm [at] "
+        },
+        {
+            "title": "Senior Data Science Consultant",
+            "description": "• Data Science and AI consulting\n• Webinars, seminars, workshops and hackathons about Data Science, Generative Ai (GenAI) and Prompt Engineering \n• Public sector and automotive industry\n• Development of LLM chatbots on custom data:\n - Retrieval Augmented Generation (RAG) via semantic search on Vector Databases (ChromaDB, Weaviate)\n - Use of various open and closed source LLMs and providers (OpenAI GPT-3.5, Meta Llama2, Databricks Dolly, NVIDIA Megatron, Aleph Alpha Luminous) \n - LLM Finetuning, Prompt Engineering, HuggingFace, LangChain\n• Development of AI image generator apps\n - comic generator app (streamlit, GPT-3.5, Stable Diffusion)\n• classic NLP:\n - Text classification, NER, SpaCy\n• Data anonymization and encryption for GDPR compliance\n• Streaming/telematics data analysis",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:2804401",
+                "entityUrn": "urn:li:fs_miniCompany:2804401",
+                "name": "Alexander Thamm [at] ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEA8cK6QGAFOg/company-logo_200_200/company-logo_200_200/0/1720420670784/alexander_thamm_gmbh_logo?e=1747872000&v=beta&t=vdsvS_VwISYnm1bE2Flxt5gN0gNK8HDxpsb2U9iw-xw",
+                "universalName": "alexander-thamm-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:2804401",
+                "trackingId": "vdQzFy+3TsSmZ6owMfmkSQ=="
+            },
+            "companyName": "Alexander Thamm [at] "
+        },
+        {
+            "title": "PhD in Computational Neuroscience & Vision Data Science",
+            "description": "• Combined vision neuroscience & data science | machine learning to dynamically predict neural activity to natural movie stimuli and study feedback loops and system robustness, with the goal to eventually emulate vision with a Deep Neural Network (DNNs) | Artificial Intelligence (AI)\n• 6 years of experience building Python-based SQL database pipelines with version control, code review, unit testing, performance optimization, remote access and integration with multiple collaborative lab code repositories \n• Custom-built, grid-search-optimized and cross-validated models, and classified neurons via regression, PCA, ICA, SVD, clustering and matrix factorization \n• Performed standard parametric and non-parametric, as well as custom-made bootstrapped statistical tests\n• Planned and executed complex long term project collaboration across three labs in Munich and Tübingen\n• Formulated scientific questions, developed, planned and conducted experiments, and collected, cleaned, analyzed and visualised data\n• Self-organized teamwork with fellow students for biweekly report deadlines to supervisors, using various project, task and time management tools for effective and adaptive schedules and priorities\n• Mentored and taught several MSc students, raised morale and motivation in the face of failures and got all of them onto publications\n• Collaborated with colleagues and contributed to their published projects\n• Scouted Master’s and PhD recruits to get best people into the team\n• Set up a lab wiki to iteratively consolidate our SOPs\n• Established a lab meeting agenda to capture task responsibilities, objectives and key results\n• Constructed a lab website to increase public outreach\n• Increased awareness of people management (regular student talks and lab survey to address potential issues)\n• Published in multiple peer-reviewed journals, gave talks and poster presentations at conferences\n\n\nJoint supervisors: Prof. Busse (LMU), Prof. Berens (U Tübingen) and Prof. Euler (U Tübingen)",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:596185",
+                "entityUrn": "urn:li:fs_miniCompany:596185",
+                "name": "Ludwig-Maximilians-Universität München",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                "universalName": "lmu.muenchen",
+                "dashCompanyUrn": "urn:li:fsd_company:596185",
+                "trackingId": "XJwZeD3tQR+4TpACxIq/zA=="
+            },
+            "companyName": "Ludwig-Maximilians-Universität München"
+        },
+        {
+            "title": "Course tutor for Introduction to Scientific Programming and Statistics in Python",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:596185",
+                "entityUrn": "urn:li:fs_miniCompany:596185",
+                "name": "Ludwig-Maximilians-Universität München",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                "universalName": "lmu.muenchen",
+                "dashCompanyUrn": "urn:li:fsd_company:596185",
+                "trackingId": "c69AV/hvS7+Wa3jRDG+7dQ=="
+            },
+            "companyName": "Ludwig-Maximilians-Universität München"
+        },
+        {
+            "title": "Graduate Research Student SmartStart Program Computational Neuroscience | Data Science | ML | AI",
+            "description": "Graduate research in neural data science with my PhD advisors in the one-year programme offered by the German National Bernstein Network for Computational Neuroscience (BNCN), funded by the Volkswagen Foundation (30,000 €).\n\nwww.smartstart-compneuro.de/\nwww.nncn.de",
+            "locationName": "University of Tübingen & LMU Munich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:2465512",
+                "entityUrn": "urn:li:fs_miniCompany:2465512",
+                "name": "Bernstein Network Computational Neuroscience",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEpknyHf-bpCQ/company-logo_200_200/company-logo_200_200/0/1631358490387/bernstein_network_computational_neuroscience_germany_logo?e=1747872000&v=beta&t=Fw_JXdC6eHyU447TqnSmxztekQqJV_et6KGpeZu9P00",
+                "universalName": "bernstein-network-computational-neuroscience",
+                "dashCompanyUrn": "urn:li:fsd_company:2465512",
+                "trackingId": "1X4BbAmKQLWARhtKQH13IQ=="
+            },
+            "companyName": "Bernstein Network Computational Neuroscience"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Arts - BA",
+            "fieldOfStudy": "Psychology & Philosophy",
+            "schoolName": "University of Oxford",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "Neuroscience @ International Max-Planck Research School (IMPRS) & Graduate Training Centre (GTC)",
+            "schoolName": "University of Tübingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "Computational Neuroscience & Vision Data Science @ Graduate School for Systemic Neurosciences",
+            "schoolName": "Ludwig-Maximilians-Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2017
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Machine Learning",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "Deep Learning Specialization",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "Computational Neuroscience",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "R Programming",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "Advanced Scientific Programming in Python summer school (Bordeaux)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "authority": "ASPP faculty"
+        }
+    ],
+    "skills": [
+        "Consulting",
+        "Continuous Integration and Continuous Delivery (CI/CD)",
+        "Object-Oriented Programming (OOP)",
+        "Software Testing"
+    ],
+    "lastEnriched": "2025-02-17"
+}

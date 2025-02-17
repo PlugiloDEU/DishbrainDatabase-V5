@@ -1,0 +1,481 @@
+{
+    "id": "exp588033792",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Thomas",
+        "lastName": "Schultz",
+        "fullName": "Thomas Schultz",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQG_1nI5RR1rJQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1596575659461?e=1745452800&v=beta&t=U2s7yKAy3rdr1JZvmHVamxe27jJNNB47-IEEKeZYvQ8",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "588033792",
+            "profileId": "ACoAACMMrwABOb5NeenCLkcMAFFUYGvRPg7QeLI",
+            "firstName": "Thomas",
+            "lastName": "Schultz",
+            "occupation": "Associate Professor of Accountancy, Haworth College of Business",
+            "publicIdentifier": "thomas-schultz-400b21144",
+            "trackingId": "wyyPDbSLTe262hz0em+Oeg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQG_1nI5RR1rJQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1596575659461?e=1745452800&v=beta&t=U2s7yKAy3rdr1JZvmHVamxe27jJNNB47-IEEKeZYvQ8",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5116AQEu-4QXDtbvpA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516953608435?e=1745452800&v=beta&t=SnszN0ZMyfbkMInVCl4cPYtaTvlCilKY0xi4zFcDfN4",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000372",
+            "positions": [
+                {
+                    "title": "Associate Professor",
+                    "locationName": "Kalamazoo, Michigan Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:8625",
+                        "entityUrn": "urn:li:fs_miniCompany:8625",
+                        "name": "Western Michigan University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE9-K9PnQclIg/company-logo_200_200/company-logo_200_200/0/1633032392884/westernmichu_logo?e=1747872000&v=beta&t=4oEyGjbaqeUiFLUWMAECilYAw2hj3VeTq51yLqvJT20",
+                        "universalName": "westernmichu",
+                        "dashCompanyUrn": "urn:li:fsd_company:8625",
+                        "trackingId": "lO4R1PeaQrC3OZNsKOmfRg=="
+                    },
+                    "companyName": "Western Michigan University"
+                },
+                {
+                    "title": "Assistant Professor",
+                    "locationName": "Oxford, OH",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:6729",
+                        "entityUrn": "urn:li:fs_miniCompany:6729",
+                        "name": "Miami University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHuMcdsr2R2Yg/company-logo_200_200/company-logo_200_200/0/1630577479053/miami_university_logo?e=1747872000&v=beta&t=WcLuZgt6ZSFbX5jYifUkRnjDRADAoabrC_8VippX7y0",
+                        "universalName": "miami-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:6729",
+                        "trackingId": "oiNEMJgkQuCUV0e2jSPMuQ=="
+                    },
+                    "companyName": "Miami University"
+                },
+                {
+                    "title": "Assistant Professor",
+                    "locationName": "Cleveland, OH",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:157330",
+                        "entityUrn": "urn:li:fs_miniCompany:157330",
+                        "name": "Case Western Reserve University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPwBDBTA9tvA/company-logo_200_200/company-logo_200_200/0/1713131155807/case_western_reserve_university_logo?e=1747872000&v=beta&t=sv_LHtn35fzpTmUMkAhtDP5_-fn7v2a6AbH-wylyybQ",
+                        "universalName": "case-western-reserve-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:157330",
+                        "trackingId": "xHJXCBwIRC2aBqc9YTfq/Q=="
+                    },
+                    "companyName": "Case Western Reserve University"
+                },
+                {
+                    "title": "Teaching Associate & Research Assistant",
+                    "locationName": "Tempe, AZ",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4292",
+                        "entityUrn": "urn:li:fs_miniCompany:4292",
+                        "name": "Arizona State University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_200_200/company-logo_200_200/0/1631309406468?e=1747872000&v=beta&t=utPIQfqgtzVBbGY7o2-W9gWk6J9Qj7miXIc-qMQLY9c",
+                        "universalName": "arizona-state-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:4292",
+                        "trackingId": "EIErG+gMSOiB2aN7JBehLA=="
+                    },
+                    "companyName": "Arizona State University"
+                },
+                {
+                    "title": "Supplemental Accountancy Instructor, Educational Services & Programs",
+                    "locationName": "DeKalb, IL",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1996
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:8143",
+                        "entityUrn": "urn:li:fs_miniCompany:8143",
+                        "name": "Northern Illinois University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHmZ6HOffQBuw/company-logo_200_200/company-logo_200_200/0/1630585604760/northern_illinois_university_logo?e=1747872000&v=beta&t=mcjfUcIwdXm6AoRK9CYOGNrKL6HKXgpX7r0R37WaOaI",
+                        "universalName": "northern-illinois-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:8143",
+                        "trackingId": "svZlav2tQfe67bKlJwhClw=="
+                    },
+                    "companyName": "Northern Illinois University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Ph.D., Business Administration",
+                    "fieldOfStudy": "Accountancy",
+                    "schoolName": "Arizona State University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Accounting Science",
+                    "schoolName": "Northern Illinois University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1996
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Business Administration",
+                    "fieldOfStudy": "Public Accounting",
+                    "schoolName": "Loyola University Chicago",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1989
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Certified Public Accountant (CPA)",
+                    "authority": "Registered, State of Illinois"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Faculty Teaching Award",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2017
+                    },
+                    "issuer": "Haworth College of Business, WMU"
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Individual Taxation",
+                "Business Entity Taxation",
+                "Classroom Instruction",
+                "Online Instruction"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Associate Professor of Accountancy,         Haworth College of Business",
+            "summary": "Helping students build the foundations for successful accounting and tax careers. Teaching courses on income taxation, financial reporting, and sustainability topics.  Researching interactions between the financial and tax accounting requirements of U.S. multinational enterprises.",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Greater Kalamazoo Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Associate Professor",
+            "companyName": "Western Michigan University",
+            "companyPublicId": "westernmichu",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/westernmichu",
+            "following": false,
+            "followable": true,
+            "followersCount": 251,
+            "connectionsCount": 250,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Western Michigan University",
+        "position": "Associate Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Associate Professor",
+        "organization": "Western Michigan University",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/thomas-schultz-400b21144/",
+        "company": "https://www.linkedin.com/company/westernmichu"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Associate Professor",
+            "locationName": "Kalamazoo, Michigan Area",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:8625",
+                "entityUrn": "urn:li:fs_miniCompany:8625",
+                "name": "Western Michigan University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE9-K9PnQclIg/company-logo_200_200/company-logo_200_200/0/1633032392884/westernmichu_logo?e=1747872000&v=beta&t=4oEyGjbaqeUiFLUWMAECilYAw2hj3VeTq51yLqvJT20",
+                "universalName": "westernmichu",
+                "dashCompanyUrn": "urn:li:fsd_company:8625",
+                "trackingId": "lO4R1PeaQrC3OZNsKOmfRg=="
+            },
+            "companyName": "Western Michigan University"
+        },
+        {
+            "title": "Assistant Professor",
+            "locationName": "Oxford, OH",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:6729",
+                "entityUrn": "urn:li:fs_miniCompany:6729",
+                "name": "Miami University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHuMcdsr2R2Yg/company-logo_200_200/company-logo_200_200/0/1630577479053/miami_university_logo?e=1747872000&v=beta&t=WcLuZgt6ZSFbX5jYifUkRnjDRADAoabrC_8VippX7y0",
+                "universalName": "miami-university",
+                "dashCompanyUrn": "urn:li:fsd_company:6729",
+                "trackingId": "oiNEMJgkQuCUV0e2jSPMuQ=="
+            },
+            "companyName": "Miami University"
+        },
+        {
+            "title": "Assistant Professor",
+            "locationName": "Cleveland, OH",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:157330",
+                "entityUrn": "urn:li:fs_miniCompany:157330",
+                "name": "Case Western Reserve University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPwBDBTA9tvA/company-logo_200_200/company-logo_200_200/0/1713131155807/case_western_reserve_university_logo?e=1747872000&v=beta&t=sv_LHtn35fzpTmUMkAhtDP5_-fn7v2a6AbH-wylyybQ",
+                "universalName": "case-western-reserve-university",
+                "dashCompanyUrn": "urn:li:fsd_company:157330",
+                "trackingId": "xHJXCBwIRC2aBqc9YTfq/Q=="
+            },
+            "companyName": "Case Western Reserve University"
+        },
+        {
+            "title": "Teaching Associate & Research Assistant",
+            "locationName": "Tempe, AZ",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4292",
+                "entityUrn": "urn:li:fs_miniCompany:4292",
+                "name": "Arizona State University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHDGjY1IZJuog/company-logo_200_200/company-logo_200_200/0/1631309406468?e=1747872000&v=beta&t=utPIQfqgtzVBbGY7o2-W9gWk6J9Qj7miXIc-qMQLY9c",
+                "universalName": "arizona-state-university",
+                "dashCompanyUrn": "urn:li:fsd_company:4292",
+                "trackingId": "EIErG+gMSOiB2aN7JBehLA=="
+            },
+            "companyName": "Arizona State University"
+        },
+        {
+            "title": "Supplemental Accountancy Instructor, Educational Services & Programs",
+            "locationName": "DeKalb, IL",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:8143",
+                "entityUrn": "urn:li:fs_miniCompany:8143",
+                "name": "Northern Illinois University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHmZ6HOffQBuw/company-logo_200_200/company-logo_200_200/0/1630585604760/northern_illinois_university_logo?e=1747872000&v=beta&t=mcjfUcIwdXm6AoRK9CYOGNrKL6HKXgpX7r0R37WaOaI",
+                "universalName": "northern-illinois-university",
+                "dashCompanyUrn": "urn:li:fsd_company:8143",
+                "trackingId": "svZlav2tQfe67bKlJwhClw=="
+            },
+            "companyName": "Northern Illinois University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Ph.D., Business Administration",
+            "fieldOfStudy": "Accountancy",
+            "schoolName": "Arizona State University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Accounting Science",
+            "schoolName": "Northern Illinois University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Business Administration",
+            "fieldOfStudy": "Public Accounting",
+            "schoolName": "Loyola University Chicago",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1989
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Public Accountant (CPA)",
+            "authority": "Registered, State of Illinois"
+        }
+    ],
+    "skills": [
+        "Individual Taxation",
+        "Business Entity Taxation",
+        "Classroom Instruction",
+        "Online Instruction"
+    ],
+    "lastEnriched": "2025-02-17"
+}

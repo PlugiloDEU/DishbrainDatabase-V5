@@ -1,0 +1,498 @@
+{
+    "id": "exp188643748",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Martin",
+        "lastName": "Becker",
+        "fullName": "Martin Becker",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "188643748",
+            "profileId": "ACoAAAs-eaQBr785jisXIPeGwJE_nRdWSu763eM",
+            "firstName": "Martin",
+            "lastName": "Becker",
+            "occupation": "Assistant Professor for Knowledge-Centric Machine Learning",
+            "publicIdentifier": "mgbckr",
+            "trackingId": "yqPlmJnPR8GS2wM7ms/89A==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHpwbWRS14_CA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1692631148097?e=1745452800&v=beta&t=4LlVOxd-H1cpsVv69qTKrdpf9IGBHtJRFRZj4W6Slw8",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:102685769",
+            "positions": [
+                {
+                    "title": "Assistant Professor",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:23014",
+                        "entityUrn": "urn:li:fs_miniCompany:23014",
+                        "name": "Universität Rostock",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGRdaMnlH5zLg/company-logo_200_200/company-logo_200_200/0/1631326066131?e=1747872000&v=beta&t=OU8VzHdamBD2W1ZRYzwPdUtZrZaunUNTtlW6F8DCbLA",
+                        "universalName": "university-of-rostock",
+                        "dashCompanyUrn": "urn:li:fsd_company:23014",
+                        "trackingId": "yyLtNexhTSC4Vn5A7QYLdw=="
+                    },
+                    "companyName": "Universität Rostock"
+                },
+                {
+                    "title": "Postdoctoral Fellow",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1792",
+                        "entityUrn": "urn:li:fs_miniCompany:1792",
+                        "name": "Stanford University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                        "universalName": "stanford-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:1792",
+                        "trackingId": "/uJN87F3RJedanvgC6Coig=="
+                    },
+                    "companyName": "Stanford University"
+                },
+                {
+                    "title": "Postdoctoral Researcher",
+                    "locationName": "Würzburg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15092565",
+                        "entityUrn": "urn:li:fs_miniCompany:15092565",
+                        "name": "The Julius Maximilians University of Würzburg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGd8Jrt459hQ/company-logo_200_200/company-logo_200_200/0/1653976044180/julius_maximilians_universitat_wurzburg_logo?e=1747872000&v=beta&t=tAcNVTJqogRtje2PTnw6u2dJybWuHZJeJsY1Ap6oVFM",
+                        "universalName": "julius-maximilians-universitat-wurzburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:15092565",
+                        "trackingId": "Ni/iVLiCQIu23W61eEh9TQ=="
+                    },
+                    "companyName": "The Julius Maximilians University of Würzburg"
+                },
+                {
+                    "title": "Research Assistant",
+                    "locationName": "Würzburg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15092565",
+                        "entityUrn": "urn:li:fs_miniCompany:15092565",
+                        "name": "The Julius Maximilians University of Würzburg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGd8Jrt459hQ/company-logo_200_200/company-logo_200_200/0/1653976044180/julius_maximilians_universitat_wurzburg_logo?e=1747872000&v=beta&t=tAcNVTJqogRtje2PTnw6u2dJybWuHZJeJsY1Ap6oVFM",
+                        "universalName": "julius-maximilians-universitat-wurzburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:15092565",
+                        "trackingId": "rfkKm66NQsuQQLANyPz8gA=="
+                    },
+                    "companyName": "The Julius Maximilians University of Würzburg"
+                },
+                {
+                    "title": "Research Assistant",
+                    "locationName": "Hannover Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:44603",
+                        "entityUrn": "urn:li:fs_miniCompany:44603",
+                        "name": "L3S Research Center",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnqRc1iRt6YA/company-logo_200_200/company-logo_200_200/0/1734588664962/l3s_research_center_logo?e=1747872000&v=beta&t=-gEwWcA54a37FwUIoWv0bhBkB5EY3PHBb6bOaKtE0xk",
+                        "universalName": "l3s-research-center",
+                        "dashCompanyUrn": "urn:li:fsd_company:44603",
+                        "trackingId": "n5Jbn3wKT/6uwy97+f4UQw=="
+                    },
+                    "companyName": "L3S Research Center"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "The Julius Maximilians University of Würzburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master's degree",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "The Julius Maximilians University of Würzburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "The University of Texas at Austin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Machine Learning",
+                "Data Science",
+                "Research",
+                "Leadership"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Assistant Professor for Knowledge-Centric Machine Learning",
+            "summary": "Professor for Intelligent Data Analytics aiming to develop knowledge-centric machine learning methods to solve real-world problem settings at the interaction of biomedicine, human behavior, and the environment.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Rostock, Mecklenburg-West Pomerania",
+            "geoCountryName": "Germany",
+            "jobTitle": "Assistant Professor",
+            "companyName": "Universität Rostock",
+            "companyPublicId": "university-of-rostock",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/university-of-rostock",
+            "following": false,
+            "followable": true,
+            "followersCount": 312,
+            "connectionsCount": 259,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Universität Rostock",
+        "position": "Assistant Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence",
+            "Data Science"
+        ],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Assistant Professor",
+        "organization": "Universität Rostock",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/mgbckr/",
+        "company": "https://www.linkedin.com/company/university-of-rostock"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Assistant Professor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:23014",
+                "entityUrn": "urn:li:fs_miniCompany:23014",
+                "name": "Universität Rostock",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGRdaMnlH5zLg/company-logo_200_200/company-logo_200_200/0/1631326066131?e=1747872000&v=beta&t=OU8VzHdamBD2W1ZRYzwPdUtZrZaunUNTtlW6F8DCbLA",
+                "universalName": "university-of-rostock",
+                "dashCompanyUrn": "urn:li:fsd_company:23014",
+                "trackingId": "yyLtNexhTSC4Vn5A7QYLdw=="
+            },
+            "companyName": "Universität Rostock"
+        },
+        {
+            "title": "Postdoctoral Fellow",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1792",
+                "entityUrn": "urn:li:fs_miniCompany:1792",
+                "name": "Stanford University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                "universalName": "stanford-university",
+                "dashCompanyUrn": "urn:li:fsd_company:1792",
+                "trackingId": "/uJN87F3RJedanvgC6Coig=="
+            },
+            "companyName": "Stanford University"
+        },
+        {
+            "title": "Postdoctoral Researcher",
+            "locationName": "Würzburg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15092565",
+                "entityUrn": "urn:li:fs_miniCompany:15092565",
+                "name": "The Julius Maximilians University of Würzburg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGd8Jrt459hQ/company-logo_200_200/company-logo_200_200/0/1653976044180/julius_maximilians_universitat_wurzburg_logo?e=1747872000&v=beta&t=tAcNVTJqogRtje2PTnw6u2dJybWuHZJeJsY1Ap6oVFM",
+                "universalName": "julius-maximilians-universitat-wurzburg",
+                "dashCompanyUrn": "urn:li:fsd_company:15092565",
+                "trackingId": "Ni/iVLiCQIu23W61eEh9TQ=="
+            },
+            "companyName": "The Julius Maximilians University of Würzburg"
+        },
+        {
+            "title": "Research Assistant",
+            "locationName": "Würzburg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15092565",
+                "entityUrn": "urn:li:fs_miniCompany:15092565",
+                "name": "The Julius Maximilians University of Würzburg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGd8Jrt459hQ/company-logo_200_200/company-logo_200_200/0/1653976044180/julius_maximilians_universitat_wurzburg_logo?e=1747872000&v=beta&t=tAcNVTJqogRtje2PTnw6u2dJybWuHZJeJsY1Ap6oVFM",
+                "universalName": "julius-maximilians-universitat-wurzburg",
+                "dashCompanyUrn": "urn:li:fsd_company:15092565",
+                "trackingId": "rfkKm66NQsuQQLANyPz8gA=="
+            },
+            "companyName": "The Julius Maximilians University of Würzburg"
+        },
+        {
+            "title": "Research Assistant",
+            "locationName": "Hannover Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:44603",
+                "entityUrn": "urn:li:fs_miniCompany:44603",
+                "name": "L3S Research Center",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnqRc1iRt6YA/company-logo_200_200/company-logo_200_200/0/1734588664962/l3s_research_center_logo?e=1747872000&v=beta&t=-gEwWcA54a37FwUIoWv0bhBkB5EY3PHBb6bOaKtE0xk",
+                "universalName": "l3s-research-center",
+                "dashCompanyUrn": "urn:li:fsd_company:44603",
+                "trackingId": "n5Jbn3wKT/6uwy97+f4UQw=="
+            },
+            "companyName": "L3S Research Center"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "The Julius Maximilians University of Würzburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        },
+        {
+            "degreeName": "Master's degree",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "The Julius Maximilians University of Würzburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "The University of Texas at Austin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Machine Learning",
+        "Data Science",
+        "Research",
+        "Leadership"
+    ],
+    "lastEnriched": "2025-02-17"
+}

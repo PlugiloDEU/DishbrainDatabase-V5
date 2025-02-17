@@ -1,0 +1,579 @@
+{
+    "id": "exp319071496",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Maria",
+        "lastName": "Schmidt",
+        "fullName": "Dr. Maria Schmidt",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Schwedisch"
+        ],
+        "allData": {
+            "id": "319071496",
+            "profileId": "ACoAABMEpQgBLfRnSR5jYbc5VHwxR0wbx9eA7F8",
+            "firstName": "Dr. Maria",
+            "lastName": "Schmidt",
+            "occupation": "Senior Manager Software-Defined Vehicle bei MHP – A Porsche Company",
+            "publicIdentifier": "dr-maria-schmidt-a34a338a",
+            "trackingId": "A3/o9c05RH+HPg+GvDeJgQ==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFJuo7S2lWfTw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1645792299942?e=1745452800&v=beta&t=4wjYHjzHZrOdIyB3DBrj_j1lEcDJ7eUViavEZw_xpfM",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Senior Manager",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:24371",
+                        "entityUrn": "urn:li:fs_miniCompany:24371",
+                        "name": "MHP – A Porsche Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKy831xpYw3Q/company-logo_200_200/company-logo_200_200/0/1722949741787/mhp_a_porsche_company_logo?e=1747872000&v=beta&t=xh5tkzceBEOyohWBQ62U1OA4fhik4CmkbDoSlpptRDw",
+                        "universalName": "mhp-a-porsche-company",
+                        "dashCompanyUrn": "urn:li:fsd_company:24371",
+                        "trackingId": "/GmRCfpcRSqeAWJdd9DDBw=="
+                    },
+                    "companyName": "MHP – A Porsche Company"
+                },
+                {
+                    "title": "Manager",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:24371",
+                        "entityUrn": "urn:li:fs_miniCompany:24371",
+                        "name": "MHP – A Porsche Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKy831xpYw3Q/company-logo_200_200/company-logo_200_200/0/1722949741787/mhp_a_porsche_company_logo?e=1747872000&v=beta&t=xh5tkzceBEOyohWBQ62U1OA4fhik4CmkbDoSlpptRDw",
+                        "universalName": "mhp-a-porsche-company",
+                        "dashCompanyUrn": "urn:li:fsd_company:24371",
+                        "trackingId": "lDTnev1qR+Ct4bfgAo3Bqw=="
+                    },
+                    "companyName": "MHP – A Porsche Company"
+                },
+                {
+                    "title": "Senior Consultant",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:24371",
+                        "entityUrn": "urn:li:fs_miniCompany:24371",
+                        "name": "MHP – A Porsche Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKy831xpYw3Q/company-logo_200_200/company-logo_200_200/0/1722949741787/mhp_a_porsche_company_logo?e=1747872000&v=beta&t=xh5tkzceBEOyohWBQ62U1OA4fhik4CmkbDoSlpptRDw",
+                        "universalName": "mhp-a-porsche-company",
+                        "dashCompanyUrn": "urn:li:fsd_company:24371",
+                        "trackingId": "PaRA2Xf4SDuMEkjdH9qsaQ=="
+                    },
+                    "companyName": "MHP – A Porsche Company"
+                },
+                {
+                    "title": "Industrial PhD Student / MBUX Speech Technology",
+                    "description": "PhD in cooperation with Ulm University\n\nTopic: Adaptive and Proactive Voice Assistants for Secondary Tasks",
+                    "locationName": "Sindelfingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:5383634",
+                        "entityUrn": "urn:li:fs_miniCompany:5383634",
+                        "name": "Mercedes-Benz AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFCUz3w4RDVtw/company-logo_200_200/company-logo_200_200/0/1719907715437/mercedes_benz_ag_logo?e=1747872000&v=beta&t=rOAZKiaaSFgQdaA4gfIFFZTHgJebhaFya4hsvF13w0s",
+                        "universalName": "mercedes-benz_ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:5383634",
+                        "trackingId": "IYcpHKQMR2e/2vz9Br7FpA=="
+                    },
+                    "companyName": "Mercedes-Benz AG"
+                },
+                {
+                    "title": "Wissenschaftliche Mitarbeiterin / Doktorandin",
+                    "description": "Social Spoken Dialog Systems, Human-Robot Interaction",
+                    "locationName": "Karlsruhe",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15093461",
+                        "entityUrn": "urn:li:fs_miniCompany:15093461",
+                        "name": "Karlsruhe Institute of Technology (KIT)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHFNeaizijaeg/company-logo_200_200/company-logo_200_200/0/1631353427640?e=1747872000&v=beta&t=4lYIlYLAYF0fWJLvf3T13QMF8arbTMxrJ1D00dF7T0E",
+                        "universalName": "kit",
+                        "dashCompanyUrn": "urn:li:fsd_company:15093461",
+                        "trackingId": "O3pE72iBSSiIFT8fkKOmBA=="
+                    },
+                    "companyName": "Karlsruhe Institute of Technology (KIT) / University of Karlsruhe (TH)"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr. rer. nat.",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Universität Ulm",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Arts (M.A.)",
+                    "fieldOfStudy": "Computational Linguistics",
+                    "schoolName": "Eberhard-Karls-Universität Tübingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "degreeName": "2nd Master semester",
+                    "fieldOfStudy": "Computational Linguistics",
+                    "schoolName": "Uppsala universitet",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Certified SAFe® 5 Agilist",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "Scaled Agile, Inc."
+                },
+                {
+                    "name": "ITIL® Foundation Certificate in IT Service Management",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "PeopleCert"
+                },
+                {
+                    "name": "Professional Scrum Master™ I (PSM I)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "Scrum.org"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Schwedisch",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "Speech Technology",
+                "Computational Linguistics",
+                "Dialog Manager",
+                "Java"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Senior Manager Software-Defined Vehicle bei MHP – A Porsche Company",
+            "student": false,
+            "industryName": "Automotive",
+            "industryUrn": "urn:li:fs_industry:53",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Senior Manager",
+            "companyName": "MHP – A Porsche Company",
+            "companyPublicId": "mhp-a-porsche-company",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/mhp-a-porsche-company",
+            "following": false,
+            "followable": true,
+            "followersCount": 431,
+            "connectionsCount": 427,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "MHP – A Porsche Company",
+        "position": "Senior Manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Management Consulting"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Manager",
+        "organization": "MHP – A Porsche Company",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-maria-schmidt-a34a338a/",
+        "company": "https://www.linkedin.com/company/mhp-a-porsche-company"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Manager",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:24371",
+                "entityUrn": "urn:li:fs_miniCompany:24371",
+                "name": "MHP – A Porsche Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKy831xpYw3Q/company-logo_200_200/company-logo_200_200/0/1722949741787/mhp_a_porsche_company_logo?e=1747872000&v=beta&t=xh5tkzceBEOyohWBQ62U1OA4fhik4CmkbDoSlpptRDw",
+                "universalName": "mhp-a-porsche-company",
+                "dashCompanyUrn": "urn:li:fsd_company:24371",
+                "trackingId": "/GmRCfpcRSqeAWJdd9DDBw=="
+            },
+            "companyName": "MHP – A Porsche Company"
+        },
+        {
+            "title": "Manager",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:24371",
+                "entityUrn": "urn:li:fs_miniCompany:24371",
+                "name": "MHP – A Porsche Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKy831xpYw3Q/company-logo_200_200/company-logo_200_200/0/1722949741787/mhp_a_porsche_company_logo?e=1747872000&v=beta&t=xh5tkzceBEOyohWBQ62U1OA4fhik4CmkbDoSlpptRDw",
+                "universalName": "mhp-a-porsche-company",
+                "dashCompanyUrn": "urn:li:fsd_company:24371",
+                "trackingId": "lDTnev1qR+Ct4bfgAo3Bqw=="
+            },
+            "companyName": "MHP – A Porsche Company"
+        },
+        {
+            "title": "Senior Consultant",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:24371",
+                "entityUrn": "urn:li:fs_miniCompany:24371",
+                "name": "MHP – A Porsche Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHKy831xpYw3Q/company-logo_200_200/company-logo_200_200/0/1722949741787/mhp_a_porsche_company_logo?e=1747872000&v=beta&t=xh5tkzceBEOyohWBQ62U1OA4fhik4CmkbDoSlpptRDw",
+                "universalName": "mhp-a-porsche-company",
+                "dashCompanyUrn": "urn:li:fsd_company:24371",
+                "trackingId": "PaRA2Xf4SDuMEkjdH9qsaQ=="
+            },
+            "companyName": "MHP – A Porsche Company"
+        },
+        {
+            "title": "Industrial PhD Student / MBUX Speech Technology",
+            "description": "PhD in cooperation with Ulm University\n\nTopic: Adaptive and Proactive Voice Assistants for Secondary Tasks",
+            "locationName": "Sindelfingen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:5383634",
+                "entityUrn": "urn:li:fs_miniCompany:5383634",
+                "name": "Mercedes-Benz AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFCUz3w4RDVtw/company-logo_200_200/company-logo_200_200/0/1719907715437/mercedes_benz_ag_logo?e=1747872000&v=beta&t=rOAZKiaaSFgQdaA4gfIFFZTHgJebhaFya4hsvF13w0s",
+                "universalName": "mercedes-benz_ag",
+                "dashCompanyUrn": "urn:li:fsd_company:5383634",
+                "trackingId": "IYcpHKQMR2e/2vz9Br7FpA=="
+            },
+            "companyName": "Mercedes-Benz AG"
+        },
+        {
+            "title": "Wissenschaftliche Mitarbeiterin / Doktorandin",
+            "description": "Social Spoken Dialog Systems, Human-Robot Interaction",
+            "locationName": "Karlsruhe",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15093461",
+                "entityUrn": "urn:li:fs_miniCompany:15093461",
+                "name": "Karlsruhe Institute of Technology (KIT)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHFNeaizijaeg/company-logo_200_200/company-logo_200_200/0/1631353427640?e=1747872000&v=beta&t=4lYIlYLAYF0fWJLvf3T13QMF8arbTMxrJ1D00dF7T0E",
+                "universalName": "kit",
+                "dashCompanyUrn": "urn:li:fsd_company:15093461",
+                "trackingId": "O3pE72iBSSiIFT8fkKOmBA=="
+            },
+            "companyName": "Karlsruhe Institute of Technology (KIT) / University of Karlsruhe (TH)"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr. rer. nat.",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Universität Ulm",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Arts (M.A.)",
+            "fieldOfStudy": "Computational Linguistics",
+            "schoolName": "Eberhard-Karls-Universität Tübingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "degreeName": "2nd Master semester",
+            "fieldOfStudy": "Computational Linguistics",
+            "schoolName": "Uppsala universitet",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified SAFe® 5 Agilist",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "authority": "Scaled Agile, Inc."
+        },
+        {
+            "name": "ITIL® Foundation Certificate in IT Service Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "authority": "PeopleCert"
+        },
+        {
+            "name": "Professional Scrum Master™ I (PSM I)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "authority": "Scrum.org"
+        }
+    ],
+    "skills": [
+        "Speech Technology",
+        "Computational Linguistics",
+        "Dialog Manager",
+        "Java"
+    ],
+    "lastEnriched": "2025-02-17"
+}

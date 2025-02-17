@@ -1,0 +1,467 @@
+{
+    "id": "exp687942501",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Pascal",
+        "lastName": "Pöhler",
+        "fullName": "Pascal Pöhler",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQGxv8IeuBdL7g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718774055728?e=1745452800&v=beta&t=f0Sa5zufCJVUBqELr5Z4UsvlZFF3teg4Cou6bBkHlDs",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "687942501",
+            "profileId": "ACoAACkBK2UBZwmVevpe3JQk8yNxc0_CjrcwSlM",
+            "firstName": "Pascal",
+            "lastName": "Pöhler",
+            "occupation": "Nachhaltigkeit trifft Effizienz: Verpackungen neu gedacht",
+            "publicIdentifier": "pascal-pöhler-a59482172",
+            "trackingId": "5pHouqzsRPmHD0uTOH36jg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGxv8IeuBdL7g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718774055728?e=1745452800&v=beta&t=f0Sa5zufCJVUBqELr5Z4UsvlZFF3teg4Cou6bBkHlDs",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106818154",
+            "positions": [
+                {
+                    "title": "Prokurist",
+                    "locationName": "Delbrück, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "industries": [
+                            "Packaging and Containers"
+                        ],
+                        "objectUrn": "urn:li:company:7330986",
+                        "entityUrn": "urn:li:fs_miniCompany:7330986",
+                        "name": "Josef Schulte GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "josef-schulte-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:7330986",
+                        "trackingId": "F/mpYWIZTnq8svXrl7Sn3g=="
+                    },
+                    "companyName": "Josef Schulte GmbH"
+                },
+                {
+                    "title": "Assistent der Geschäftsführung",
+                    "locationName": "Delbrück",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "industries": [
+                            "Packaging and Containers"
+                        ],
+                        "objectUrn": "urn:li:company:7330986",
+                        "entityUrn": "urn:li:fs_miniCompany:7330986",
+                        "name": "Josef Schulte GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "josef-schulte-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:7330986",
+                        "trackingId": "N1YJT6S7RTCOJ1zoRHefDw=="
+                    },
+                    "companyName": "Josef Schulte GmbH"
+                },
+                {
+                    "title": "Masterand",
+                    "locationName": "Lippstadt",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:8901",
+                        "entityUrn": "urn:li:fs_miniCompany:8901",
+                        "name": "FORVIA HELLA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHYwOoWgUhUUg/company-logo_200_200/company-logo_200_200/0/1707231362780/hella_logo?e=1747872000&v=beta&t=Hv_GPVjaHiDJ8MwXeuOPQtuFqwu8mRgrtsEb7MPDi2Y",
+                        "universalName": "forviahella",
+                        "dashCompanyUrn": "urn:li:fsd_company:8901",
+                        "trackingId": "YwDinu/fS4ejMBCS7p6lJA=="
+                    },
+                    "companyName": "HELLA"
+                },
+                {
+                    "title": "Praktikant",
+                    "locationName": "Lippstadt",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:8901",
+                        "entityUrn": "urn:li:fs_miniCompany:8901",
+                        "name": "FORVIA HELLA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHYwOoWgUhUUg/company-logo_200_200/company-logo_200_200/0/1707231362780/hella_logo?e=1747872000&v=beta&t=Hv_GPVjaHiDJ8MwXeuOPQtuFqwu8mRgrtsEb7MPDi2Y",
+                        "universalName": "forviahella",
+                        "dashCompanyUrn": "urn:li:fsd_company:8901",
+                        "trackingId": "pvkx1QghTBq+uCBy+D5SwA=="
+                    },
+                    "companyName": "HELLA"
+                },
+                {
+                    "title": "Studentische Hilfskraft",
+                    "locationName": "Paderborn",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:20970",
+                        "entityUrn": "urn:li:fs_miniCompany:20970",
+                        "name": "Paderborn University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF3euqqmWXayg/company-logo_200_200/company-logo_200_200/0/1690982561621/uni_paderborn_logo?e=1747872000&v=beta&t=EP5QzcsprGgohDPZl0D7sEn1cvBxioYle-lQ_NCBkts",
+                        "universalName": "uni-paderborn",
+                        "dashCompanyUrn": "urn:li:fsd_company:20970",
+                        "trackingId": "K0zjSz3oQdaHH/tms0DYQw=="
+                    },
+                    "companyName": "Universität Paderborn"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Science",
+                    "fieldOfStudy": "Wirtschaftsingenieurwesen",
+                    "schoolName": "Universität Paderborn",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science",
+                    "fieldOfStudy": "Wirtschaftsingenieurwesen",
+                    "schoolName": "Universität Paderborn",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Leistungsbezogenes Stipendium",
+                    "issuer": "Stiftung Studienfonds OWL"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Process-Mining",
+                "Business Development",
+                "Business Intelligence (BI)",
+                "Unternehmensstrategie"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Nachhaltigkeit trifft Effizienz: Verpackungen neu gedacht",
+            "student": false,
+            "industryName": "Packaging & Containers",
+            "industryUrn": "urn:li:fs_industry:146",
+            "geoLocationName": "Delbrück, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Prokurist",
+            "companyName": "Josef Schulte GmbH",
+            "companyPublicId": "josef-schulte-gmbh",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/josef-schulte-gmbh",
+            "following": false,
+            "followable": true,
+            "followersCount": 343,
+            "connectionsCount": 333,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Josef Schulte GmbH",
+        "position": "Prokurist",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Packaging and Containers"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Prokurist",
+        "organization": "Josef Schulte GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/pascal-pöhler-a59482172/",
+        "company": "https://www.linkedin.com/company/josef-schulte-gmbh"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Prokurist",
+            "locationName": "Delbrück, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "industries": [
+                    "Packaging and Containers"
+                ],
+                "objectUrn": "urn:li:company:7330986",
+                "entityUrn": "urn:li:fs_miniCompany:7330986",
+                "name": "Josef Schulte GmbH",
+                "showcase": false,
+                "active": true,
+                "universalName": "josef-schulte-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:7330986",
+                "trackingId": "F/mpYWIZTnq8svXrl7Sn3g=="
+            },
+            "companyName": "Josef Schulte GmbH"
+        },
+        {
+            "title": "Assistent der Geschäftsführung",
+            "locationName": "Delbrück",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "industries": [
+                    "Packaging and Containers"
+                ],
+                "objectUrn": "urn:li:company:7330986",
+                "entityUrn": "urn:li:fs_miniCompany:7330986",
+                "name": "Josef Schulte GmbH",
+                "showcase": false,
+                "active": true,
+                "universalName": "josef-schulte-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:7330986",
+                "trackingId": "N1YJT6S7RTCOJ1zoRHefDw=="
+            },
+            "companyName": "Josef Schulte GmbH"
+        },
+        {
+            "title": "Masterand",
+            "locationName": "Lippstadt",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:8901",
+                "entityUrn": "urn:li:fs_miniCompany:8901",
+                "name": "FORVIA HELLA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHYwOoWgUhUUg/company-logo_200_200/company-logo_200_200/0/1707231362780/hella_logo?e=1747872000&v=beta&t=Hv_GPVjaHiDJ8MwXeuOPQtuFqwu8mRgrtsEb7MPDi2Y",
+                "universalName": "forviahella",
+                "dashCompanyUrn": "urn:li:fsd_company:8901",
+                "trackingId": "YwDinu/fS4ejMBCS7p6lJA=="
+            },
+            "companyName": "HELLA"
+        },
+        {
+            "title": "Praktikant",
+            "locationName": "Lippstadt",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:8901",
+                "entityUrn": "urn:li:fs_miniCompany:8901",
+                "name": "FORVIA HELLA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHYwOoWgUhUUg/company-logo_200_200/company-logo_200_200/0/1707231362780/hella_logo?e=1747872000&v=beta&t=Hv_GPVjaHiDJ8MwXeuOPQtuFqwu8mRgrtsEb7MPDi2Y",
+                "universalName": "forviahella",
+                "dashCompanyUrn": "urn:li:fsd_company:8901",
+                "trackingId": "pvkx1QghTBq+uCBy+D5SwA=="
+            },
+            "companyName": "HELLA"
+        },
+        {
+            "title": "Studentische Hilfskraft",
+            "locationName": "Paderborn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:20970",
+                "entityUrn": "urn:li:fs_miniCompany:20970",
+                "name": "Paderborn University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF3euqqmWXayg/company-logo_200_200/company-logo_200_200/0/1690982561621/uni_paderborn_logo?e=1747872000&v=beta&t=EP5QzcsprGgohDPZl0D7sEn1cvBxioYle-lQ_NCBkts",
+                "universalName": "uni-paderborn",
+                "dashCompanyUrn": "urn:li:fsd_company:20970",
+                "trackingId": "K0zjSz3oQdaHH/tms0DYQw=="
+            },
+            "companyName": "Universität Paderborn"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Science",
+            "fieldOfStudy": "Wirtschaftsingenieurwesen",
+            "schoolName": "Universität Paderborn",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science",
+            "fieldOfStudy": "Wirtschaftsingenieurwesen",
+            "schoolName": "Universität Paderborn",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Process-Mining",
+        "Business Development",
+        "Business Intelligence (BI)",
+        "Unternehmensstrategie"
+    ],
+    "lastEnriched": "2025-02-17"
+}

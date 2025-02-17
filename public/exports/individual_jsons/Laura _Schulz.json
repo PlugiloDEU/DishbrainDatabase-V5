@@ -1,0 +1,669 @@
+{
+    "id": "exp971036546",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura ",
+        "lastName": "Schulz",
+        "fullName": "Laura  Schulz",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQH4qoD3nX45lA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1646390437519?e=1745452800&v=beta&t=5YYhuC7ISoQBTsnRr5ITG_2a2IjSGNGdnzCg6YSnzeA",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French"
+        ],
+        "allData": {
+            "id": "971036546",
+            "profileId": "ACoAADng14IBvIrsZE0il3b7b-_SdsdkUAsCsxQ",
+            "firstName": "Laura ",
+            "lastName": "Schulz",
+            "occupation": "Research Assistant at the Centre for Novostics",
+            "publicIdentifier": "laura-schulz1",
+            "trackingId": "9lFFy5/GS5empidBGtOYYQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQH4qoD3nX45lA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1646390437519?e=1745452800&v=beta&t=5YYhuC7ISoQBTsnRr5ITG_2a2IjSGNGdnzCg6YSnzeA",
+            "countryCode": "hk",
+            "geoUrn": "urn:li:fs_geo:102817007",
+            "positions": [
+                {
+                    "title": "Research Assistant",
+                    "description": "Researcher in the field of Molecular Diagnostics, particularily focusing on the applications of liquid biopsy for cancer and prenatal diagnosis.\n\nUnder the guidance of Professor Dennis Lo.",
+                    "locationName": "Hong Kong SAR",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:97988962",
+                        "entityUrn": "urn:li:fs_miniCompany:97988962",
+                        "name": "Centre for Novostics",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHOEi4jzcHamQ/company-logo_200_200/company-logo_200_200/0/1704706472770/centre_for_novostics_ltd_logo?e=1747872000&v=beta&t=Mw_I01h0Xue25NSkOQlk8uQaS7Y2hsHWPuQSmGW1y9I",
+                        "universalName": "centre-for-novostics-ltd",
+                        "dashCompanyUrn": "urn:li:fsd_company:97988962",
+                        "trackingId": "/uaPzkqsT/yQwqdd0dt+CQ=="
+                    },
+                    "companyName": "Centre for Novostics"
+                },
+                {
+                    "title": "Undergraduate Research Fellowship Program ",
+                    "description": "Lab of Dr. Richard Kao within the Department of Microbiology\n\nProject: In-vitro characterization of antiviral compounds against Rhinovirus and their cellular cytotoxicity \n\n- Relevant procedures performed include high throughput screening, culturing mammalian cell lines, performing in-vitro virus infections and cytotoxicity assays including MTT",
+                    "locationName": "Hong Kong SAR",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:675376",
+                        "entityUrn": "urn:li:fs_miniCompany:675376",
+                        "name": "The University of Hong Kong",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEubCTgcfA2sQ/company-logo_200_200/company-logo_200_200/0/1631325687808?e=1747872000&v=beta&t=Xt39RIefaTMM6wj7IR246OesJ2mcz5_cwoq2sT2flVQ",
+                        "universalName": "universityofhongkong",
+                        "dashCompanyUrn": "urn:li:fsd_company:675376",
+                        "trackingId": "h2X3Cu5hTP2hu1CBY5GVMA=="
+                    },
+                    "companyName": "The University of Hong Kong"
+                },
+                {
+                    "title": "Kinesiology Student Helper",
+                    "description": "- Data extraction of raw DXA and blood measurements into a data pool collected manually from 12 sources\n- Data entry of material from over 100 participants health questionnaires involving numerous parameters including Mental health status, Sleep quality, and several Physical health measures",
+                    "locationName": "Hong Kong, Hong Kong SAR",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:675376",
+                        "entityUrn": "urn:li:fs_miniCompany:675376",
+                        "name": "The University of Hong Kong",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEubCTgcfA2sQ/company-logo_200_200/company-logo_200_200/0/1631325687808?e=1747872000&v=beta&t=Xt39RIefaTMM6wj7IR246OesJ2mcz5_cwoq2sT2flVQ",
+                        "universalName": "universityofhongkong",
+                        "dashCompanyUrn": "urn:li:fsd_company:675376",
+                        "trackingId": "dUGk57XuRfOINbCjpxEAVg=="
+                    },
+                    "companyName": "The University of Hong Kong"
+                },
+                {
+                    "title": "Floor Vice Chair ",
+                    "description": "- Composed a Budget of 15,00 HKD for expenditures including hall orientation, merchandise, daily expenditures, gatherings, and floor activities\n- Set up communication channels with Tutors, the Students’ Association, and our college office to resolve issues brought up by students and developed possible solutions",
+                    "locationName": "Hong Kong SAR",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:14631897",
+                        "entityUrn": "urn:li:fs_miniCompany:14631897",
+                        "name": "St. John's College, University of Hong Kong",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQFBox2mzWvurA/company-logo_200_200/company-logo_200_200/0/1630585013237/sjchku_logo?e=1747872000&v=beta&t=DFjtnGUSSi2tC-SuGtPbGrkrIB1lWeuu1e-VeXLNNGk",
+                        "universalName": "sjchku",
+                        "dashCompanyUrn": "urn:li:fsd_company:14631897",
+                        "trackingId": "SsBOHmNLRx611vqICqIUSA=="
+                    },
+                    "companyName": "St. John's College, University of Hong Kong"
+                },
+                {
+                    "title": "Research Intern",
+                    "description": "Lab of Professor Cora Lai in the School of Biomedical Science, focusing on synaptic plasticity in learning and memory\n\nResearch Focus: The role of Protein Arginine Methyltransferase 8 (PRMT8) in dendritic spine plasticity within the auditory cortex of mice\n\n- Analysis of dendritic spine images, including the identification of dendritic spine subtypes and the calculation of dendritic spine densities for over 100 images. \n- Subcloning and plasmid and primer construction via SnapGene\n- Imaging of mice auditory cortex samples, followed by the confirmation of the precise image location by sectioning via a Vibratome.\n- Shadowing of animal handling techniques and overseeing behavioral tests, including fear conditioning and the startle response assay, on KOF and wildtype mice to explore changes in fear response",
+                    "locationName": "Hong Kong, Hong Kong SAR",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:675376",
+                        "entityUrn": "urn:li:fs_miniCompany:675376",
+                        "name": "The University of Hong Kong",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEubCTgcfA2sQ/company-logo_200_200/company-logo_200_200/0/1631325687808?e=1747872000&v=beta&t=Xt39RIefaTMM6wj7IR246OesJ2mcz5_cwoq2sT2flVQ",
+                        "universalName": "universityofhongkong",
+                        "dashCompanyUrn": "urn:li:fsd_company:675376",
+                        "trackingId": "5x7MBdGRRyaPxrSht0O4HA=="
+                    },
+                    "companyName": "The University of Hong Kong"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor's degree",
+                    "fieldOfStudy": "Biomedical Sciences, General",
+                    "schoolName": "The University of Hong Kong",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "degreeName": "High School Diploma",
+                    "fieldOfStudy": "GCE A-Levels Cambridge and Edexcel",
+                    "schoolName": "YMCA of Hong Kong Christian College ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2013
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "U21 Sustainability Leadership Program",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "authority": "Common Purpose"
+                },
+                {
+                    "name": "Genomic Data Science Specialization by Johns Hopkins University",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "Coursera"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Basic Biomedical Laboratory Techniques"
+                },
+                {
+                    "name": "Biological Psychology"
+                },
+                {
+                    "name": "Biostatistics"
+                },
+                {
+                    "name": "Emerging Infections"
+                },
+                {
+                    "name": "Human Anatomy"
+                },
+                {
+                    "name": "Human Genetics"
+                },
+                {
+                    "name": "Medical Microbiology"
+                },
+                {
+                    "name": "Neurobiological Basis of Psychological Issues"
+                },
+                {
+                    "name": "Physiological Basis of Health and Disease"
+                },
+                {
+                    "name": "Research Methods in Medicine and Health Sciences"
+                }
+            ],
+            "honors": [
+                {
+                    "title": "Faculty of Medicine: Deans Honor List (2020-2024)",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2024
+                    },
+                    "issuer": "Li Ka Shing Faculty of Medicine"
+                },
+                {
+                    "title": "St. John's College Martin Scholar (2020-2024)",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2024
+                    },
+                    "issuer": "St. Johns college"
+                },
+                {
+                    "title": "HKLSS Scholarship Award",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2023
+                    },
+                    "issuer": "Hong Kong Life Science's Society"
+                },
+                {
+                    "title": "Dr Veronica Lam Prize",
+                    "issueDate": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "issuer": "Li Ka Shing Faculty of Medicine"
+                },
+                {
+                    "title": "Outstanding Pearson Learner Award",
+                    "description": "Attained the Highest mark for GCE Advanced Level Physical Education out of a cohort of 575 students globally",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "issuer": "Pearson"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Clinical Research",
+                "Genomics",
+                "Genome Sequencing",
+                "Bioinformatics"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Volunteer",
+                    "description": "- Facilitating socialization and providing care for young animals, including puppies and kittens, to ensure their well-being and development.\n- Maintaining cleanliness within the designated areas to promote a safe and healthy environment for the animals.\n- Assisting and engaging with visitors, providing information and support to enhance their experience and promote a positive interaction with the animals.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2024
+                        }
+                    },
+                    "companyName": "Paws United Charity",
+                    "cause": "ANIMAL_RIGHTS"
+                },
+                {
+                    "role": "Popular Science Article Writer ",
+                    "description": "- Extensively researched and drafted Popular Science Articles aiming to inform the public regarding breakthroughs in the Biomedical field\n- Covered topics spanning numerous fields including Cancer Research and Epilepsy treatment",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Biomedical Review Society, The University of Hong Kong",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                },
+                {
+                    "role": "Student Volunteer",
+                    "description": "- Raised over $10,000HKD with my team in order to raise awareness regarding the cause of modern-day slavery",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2018
+                        }
+                    },
+                    "companyName": "24 Hour Race (Running To Stop The Traffik)",
+                    "cause": "HUMAN_RIGHTS"
+                }
+            ],
+            "headline": "Research Assistant at the Centre for Novostics",
+            "summary": "Researcher within the field of molecular diagnostics at the Centre for Novostics, with a background in Microbiology and a Bachelors degree in Biomedical Science from the University of Hong Kong.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Hong Kong",
+            "geoCountryName": "Hong Kong SAR",
+            "jobTitle": "Research Assistant",
+            "companyName": "Centre for Novostics",
+            "companyPublicId": "centre-for-novostics-ltd",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/centre-for-novostics-ltd",
+            "following": false,
+            "followable": true,
+            "followersCount": 741,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Centre for Novostics",
+        "position": "Research Assistant",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Biotechnology"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Research Assistant",
+        "organization": "Centre for Novostics",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laura-schulz1/",
+        "company": "https://www.linkedin.com/company/centre-for-novostics-ltd"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Research Assistant",
+            "description": "Researcher in the field of Molecular Diagnostics, particularily focusing on the applications of liquid biopsy for cancer and prenatal diagnosis.\n\nUnder the guidance of Professor Dennis Lo.",
+            "locationName": "Hong Kong SAR",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:97988962",
+                "entityUrn": "urn:li:fs_miniCompany:97988962",
+                "name": "Centre for Novostics",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHOEi4jzcHamQ/company-logo_200_200/company-logo_200_200/0/1704706472770/centre_for_novostics_ltd_logo?e=1747872000&v=beta&t=Mw_I01h0Xue25NSkOQlk8uQaS7Y2hsHWPuQSmGW1y9I",
+                "universalName": "centre-for-novostics-ltd",
+                "dashCompanyUrn": "urn:li:fsd_company:97988962",
+                "trackingId": "/uaPzkqsT/yQwqdd0dt+CQ=="
+            },
+            "companyName": "Centre for Novostics"
+        },
+        {
+            "title": "Undergraduate Research Fellowship Program ",
+            "description": "Lab of Dr. Richard Kao within the Department of Microbiology\n\nProject: In-vitro characterization of antiviral compounds against Rhinovirus and their cellular cytotoxicity \n\n- Relevant procedures performed include high throughput screening, culturing mammalian cell lines, performing in-vitro virus infections and cytotoxicity assays including MTT",
+            "locationName": "Hong Kong SAR",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:675376",
+                "entityUrn": "urn:li:fs_miniCompany:675376",
+                "name": "The University of Hong Kong",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEubCTgcfA2sQ/company-logo_200_200/company-logo_200_200/0/1631325687808?e=1747872000&v=beta&t=Xt39RIefaTMM6wj7IR246OesJ2mcz5_cwoq2sT2flVQ",
+                "universalName": "universityofhongkong",
+                "dashCompanyUrn": "urn:li:fsd_company:675376",
+                "trackingId": "h2X3Cu5hTP2hu1CBY5GVMA=="
+            },
+            "companyName": "The University of Hong Kong"
+        },
+        {
+            "title": "Kinesiology Student Helper",
+            "description": "- Data extraction of raw DXA and blood measurements into a data pool collected manually from 12 sources\n- Data entry of material from over 100 participants health questionnaires involving numerous parameters including Mental health status, Sleep quality, and several Physical health measures",
+            "locationName": "Hong Kong, Hong Kong SAR",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:675376",
+                "entityUrn": "urn:li:fs_miniCompany:675376",
+                "name": "The University of Hong Kong",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEubCTgcfA2sQ/company-logo_200_200/company-logo_200_200/0/1631325687808?e=1747872000&v=beta&t=Xt39RIefaTMM6wj7IR246OesJ2mcz5_cwoq2sT2flVQ",
+                "universalName": "universityofhongkong",
+                "dashCompanyUrn": "urn:li:fsd_company:675376",
+                "trackingId": "dUGk57XuRfOINbCjpxEAVg=="
+            },
+            "companyName": "The University of Hong Kong"
+        },
+        {
+            "title": "Floor Vice Chair ",
+            "description": "- Composed a Budget of 15,00 HKD for expenditures including hall orientation, merchandise, daily expenditures, gatherings, and floor activities\n- Set up communication channels with Tutors, the Students’ Association, and our college office to resolve issues brought up by students and developed possible solutions",
+            "locationName": "Hong Kong SAR",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:14631897",
+                "entityUrn": "urn:li:fs_miniCompany:14631897",
+                "name": "St. John's College, University of Hong Kong",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQFBox2mzWvurA/company-logo_200_200/company-logo_200_200/0/1630585013237/sjchku_logo?e=1747872000&v=beta&t=DFjtnGUSSi2tC-SuGtPbGrkrIB1lWeuu1e-VeXLNNGk",
+                "universalName": "sjchku",
+                "dashCompanyUrn": "urn:li:fsd_company:14631897",
+                "trackingId": "SsBOHmNLRx611vqICqIUSA=="
+            },
+            "companyName": "St. John's College, University of Hong Kong"
+        },
+        {
+            "title": "Research Intern",
+            "description": "Lab of Professor Cora Lai in the School of Biomedical Science, focusing on synaptic plasticity in learning and memory\n\nResearch Focus: The role of Protein Arginine Methyltransferase 8 (PRMT8) in dendritic spine plasticity within the auditory cortex of mice\n\n- Analysis of dendritic spine images, including the identification of dendritic spine subtypes and the calculation of dendritic spine densities for over 100 images. \n- Subcloning and plasmid and primer construction via SnapGene\n- Imaging of mice auditory cortex samples, followed by the confirmation of the precise image location by sectioning via a Vibratome.\n- Shadowing of animal handling techniques and overseeing behavioral tests, including fear conditioning and the startle response assay, on KOF and wildtype mice to explore changes in fear response",
+            "locationName": "Hong Kong, Hong Kong SAR",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:675376",
+                "entityUrn": "urn:li:fs_miniCompany:675376",
+                "name": "The University of Hong Kong",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEubCTgcfA2sQ/company-logo_200_200/company-logo_200_200/0/1631325687808?e=1747872000&v=beta&t=Xt39RIefaTMM6wj7IR246OesJ2mcz5_cwoq2sT2flVQ",
+                "universalName": "universityofhongkong",
+                "dashCompanyUrn": "urn:li:fsd_company:675376",
+                "trackingId": "5x7MBdGRRyaPxrSht0O4HA=="
+            },
+            "companyName": "The University of Hong Kong"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor's degree",
+            "fieldOfStudy": "Biomedical Sciences, General",
+            "schoolName": "The University of Hong Kong",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "degreeName": "High School Diploma",
+            "fieldOfStudy": "GCE A-Levels Cambridge and Edexcel",
+            "schoolName": "YMCA of Hong Kong Christian College ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2013
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "U21 Sustainability Leadership Program",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "authority": "Common Purpose"
+        },
+        {
+            "name": "Genomic Data Science Specialization by Johns Hopkins University",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2024
+                }
+            },
+            "authority": "Coursera"
+        }
+    ],
+    "skills": [
+        "Clinical Research",
+        "Genomics",
+        "Genome Sequencing",
+        "Bioinformatics"
+    ],
+    "lastEnriched": "2025-02-17"
+}

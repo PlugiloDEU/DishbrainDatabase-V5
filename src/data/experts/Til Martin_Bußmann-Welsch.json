@@ -1,0 +1,592 @@
+{
+    "id": "exp497516832",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Til Martin",
+        "lastName": "Bußmann-Welsch",
+        "fullName": "Til Martin Bußmann-Welsch",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQFr7tRr61cCEg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1586344029041?e=1745452800&v=beta&t=ZmPSkNJYonA81AaoqXR1N_pIJuuExEl77C_tEkOC9xI",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English (C 1)",
+            "French (B 1)",
+            "German",
+            "Swedish (A 1)"
+        ],
+        "allData": {
+            "id": "497516832",
+            "profileId": "ACoAAB2ngSABJjE_vSvB4mJWyJ83_ZYs6WuSFyQ",
+            "firstName": "Til Martin",
+            "lastName": "Bußmann-Welsch",
+            "occupation": "CXO & Co-Founder of the iur.crowd, ex co-founder of iur.reform, Ph.D.-student in the area of judge analytics, Assessor jur.",
+            "publicIdentifier": "til-martin-bußmann-welsch-a0074a11a",
+            "trackingId": "KRNuFFcsQZeVtxSE8KAOmA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFr7tRr61cCEg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1586344029041?e=1745452800&v=beta&t=ZmPSkNJYonA81AaoqXR1N_pIJuuExEl77C_tEkOC9xI",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5116AQGGeg2gjNxmQg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517621442248?e=1745452800&v=beta&t=YLKlmgZB3RRGrnaT_mnDLPmqew8WWcb82NQ_E7KW6cg",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106967730",
+            "positions": [
+                {
+                    "title": "Gruppenleiter",
+                    "description": "Start-Up Accelerator program of Fraunhofer HHI + Silicon Allee",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:105177529",
+                        "entityUrn": "urn:li:fs_miniCompany:105177529",
+                        "name": "AI @ Fraunhofer HHI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGsTbmZgLb1ww/company-logo_200_200/company-logo_200_200/0/1726498669785/ai_fraunhofer_hhi_logo?e=1747872000&v=beta&t=twgdrPQBq8mPAQjXeJjacaWnvCH3o1lVPMw-vGrUFJ4",
+                        "universalName": "ai-fraunhofer-hhi",
+                        "dashCompanyUrn": "urn:li:fsd_company:105177529",
+                        "trackingId": "tBAYYCw5TLGMEjjCvgNMPw=="
+                    },
+                    "companyName": "AI @ Fraunhofer HHI"
+                },
+                {
+                    "title": "Co-Founder",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:79590329",
+                        "entityUrn": "urn:li:fs_miniCompany:79590329",
+                        "name": "iur.crowd",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFlMY2sdGYfnw/company-logo_200_200/company-logo_200_200/0/1662719566376/iurcrowd_logo?e=1747872000&v=beta&t=iBs0sDxaTc1ZAbaNjwBRLVeEbIhvCb4z4E5hf4EaBY4",
+                        "universalName": "iurcrowd",
+                        "dashCompanyUrn": "urn:li:fsd_company:79590329",
+                        "trackingId": "HOLBCgsrRxybSrXJViAZnA=="
+                    },
+                    "companyName": "iur.crowd"
+                },
+                {
+                    "title": "PHD Student",
+                    "description": "PhD-scholarship: Stiftung der deutschen Wirtschaft\nTopic: Legal and practical possibilities/boundaries of legal analytics with regards to judges in Germany\nSupervisors: Prof Dr. Stephan Breidenbach & Prof. Dr. Dirk Heckmann",
+                    "locationName": "Berlin, München",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15093421",
+                        "entityUrn": "urn:li:fs_miniCompany:15093421",
+                        "name": "European-University Viadrina",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHwYgLToXrpQw/company-logo_200_200/company-logo_200_200/0/1631338271629?e=1747872000&v=beta&t=clQiB72zB1-d-BKFv6QvqP-TS3vT_ry3Ut97VE6B4b0",
+                        "universalName": "europa-universitaet-viadrina",
+                        "dashCompanyUrn": "urn:li:fsd_company:15093421",
+                        "trackingId": "IHpxnPzbQYaBORQIv96BTg=="
+                    },
+                    "companyName": "Europa-Universität Viadrina Frankfurt (Oder)"
+                },
+                {
+                    "title": "Autor",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:3850040",
+                        "entityUrn": "urn:li:fs_miniCompany:3850040",
+                        "name": "juris GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEZLLV3CPAM0A/company-logo_200_200/company-logo_200_200/0/1642051497201/juris_rechtsportal_logo?e=1747872000&v=beta&t=_NK3wCPOt4D9ZOEWGUWz1vOE2hsu9Wmm5OSKpAoSGiI",
+                        "universalName": "juris-rechtsportal",
+                        "dashCompanyUrn": "urn:li:fsd_company:3850040",
+                        "trackingId": "JwSmAKLbT3+B6UyLim9OMA=="
+                    },
+                    "companyName": "juris GmbH"
+                },
+                {
+                    "title": "Legal Trainee",
+                    "description": "Grade: 9,36\n\n1. Station: Clerk at the regional civil court of Berlin in a chamber for i a. industrial property law (3 months).\n2. Station: Clerk at the prosecutor of Berlin in the organized cyber crime unit (3 months). \n3. Station: Clerk at the federal ministry of justice in the unit for digitalization of the justice system, fundamental questions of digitilaisation and AI (3 months).\n4. Station: Clerk at the Gesellschaft für Freiheitsrechte (3 months), see https://www.freiheitsrechte.org/\n5. Station: Clerk at Pöhlmann/Früchtl/Oppermann, (6 months), see https://www.pfo-anwaelte.de/index\n6. Station: Clerk at tks legal Berlin, (4 months), https://tkslegal.de/",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "Kammergericht"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "State examination",
+                    "fieldOfStudy": "Law",
+                    "schoolName": "Freie Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Summer school in International Relations (Islam and Politics)",
+                    "schoolName": "The London School of Economics and Political Science (LSE)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Trade, Business and Company Law",
+                    "schoolName": "Stockholms universitet",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "IELTS-Exam",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2015
+                        }
+                    },
+                    "authority": "British Council"
+                },
+                {
+                    "name": "Cambridge First Certificate ",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2009
+                        }
+                    },
+                    "authority": "British Council"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Scholarship holder of thé Stiftung der deutschen Wirtschaft",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2024
+                    },
+                    "issuer": "Stiftung der deutschen Wirtschaft"
+                },
+                {
+                    "title": "Holder of the ERASMUS-Mobility scholarship",
+                    "issueDate": {
+                        "month": 7,
+                        "year": 2016
+                    }
+                },
+                {
+                    "title": "Awardee of e-follows",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2016
+                    }
+                },
+                {
+                    "title": "Scholership holder of the Heinrich-Böll-Foundation",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2014
+                    }
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English (C 1)",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French (B 1)",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Swedish (A 1)",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Legal Research",
+                "Social Media",
+                "Public Speaking",
+                "Drafting Legal Contracts"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Coordinator",
+                    "description": "Fostering democracy and upholding human rights, taking action to prevent the destruction of the global ecosystem, advancing equality between women and men, securing peace through con­ flict prevention in crisis zones, and defending the freedom of individuals against excessive state and economic power – these are the objectives that drive the ideas and actions of the Heinrich Böll Foundation. \n\nhttps://www.boell.de/en",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2015
+                        }
+                    },
+                    "companyName": "Heinrich Böll Foundation",
+                    "cause": "POLITICS"
+                },
+                {
+                    "role": "Project-Coach",
+                    "description": "ProjectTogether is the first contact point to start a social project. Most people do not dare to pick up their ideas and to put them into practice, because they lack confidence. By personal guidance we make it very easy to get started with a social idea.\n\nhttps://www.projecttogether.org/",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "ProjectTogether",
+                    "cause": "EDUCATION"
+                },
+                {
+                    "role": "Participant of a working group for migration and human rights",
+                    "description": "In this working group, which is located at the interface of law and politics, we work out which human rights refugees are entitled to. We then examine how these are actually guaranteed at the different political levels - global, European, national - who the most important actors are and what barriers exist in the implementation of human rights. We critically examine how these obstacles can be mitigated or eliminated in the future. In terms of work, the focus is on the preparation of individual studies - preferably ready for publication.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "Studienstiftung des deutschen Volkes",
+                    "cause": "CIVIL_RIGHTS"
+                }
+            ],
+            "headline": "CXO & Co-Founder of the iur.crowd, ex co-founder of iur.reform, Ph.D.-student in the area of judge analytics, Assessor jur.",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Berlin, Berlin",
+            "geoCountryName": "Germany",
+            "jobTitle": "Gruppenleiter",
+            "companyName": "AI @ Fraunhofer HHI",
+            "companyPublicId": "ai-fraunhofer-hhi",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ai-fraunhofer-hhi",
+            "following": false,
+            "followable": true,
+            "followersCount": 1512,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "AI @ Fraunhofer HHI",
+        "position": "Gruppenleiter",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Gruppenleiter",
+        "organization": "AI @ Fraunhofer HHI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/til-martin-bußmann-welsch-a0074a11a/",
+        "company": "https://www.linkedin.com/company/ai-fraunhofer-hhi"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Gruppenleiter",
+            "description": "Start-Up Accelerator program of Fraunhofer HHI + Silicon Allee",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:105177529",
+                "entityUrn": "urn:li:fs_miniCompany:105177529",
+                "name": "AI @ Fraunhofer HHI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGsTbmZgLb1ww/company-logo_200_200/company-logo_200_200/0/1726498669785/ai_fraunhofer_hhi_logo?e=1747872000&v=beta&t=twgdrPQBq8mPAQjXeJjacaWnvCH3o1lVPMw-vGrUFJ4",
+                "universalName": "ai-fraunhofer-hhi",
+                "dashCompanyUrn": "urn:li:fsd_company:105177529",
+                "trackingId": "tBAYYCw5TLGMEjjCvgNMPw=="
+            },
+            "companyName": "AI @ Fraunhofer HHI"
+        },
+        {
+            "title": "Co-Founder",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:79590329",
+                "entityUrn": "urn:li:fs_miniCompany:79590329",
+                "name": "iur.crowd",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFlMY2sdGYfnw/company-logo_200_200/company-logo_200_200/0/1662719566376/iurcrowd_logo?e=1747872000&v=beta&t=iBs0sDxaTc1ZAbaNjwBRLVeEbIhvCb4z4E5hf4EaBY4",
+                "universalName": "iurcrowd",
+                "dashCompanyUrn": "urn:li:fsd_company:79590329",
+                "trackingId": "HOLBCgsrRxybSrXJViAZnA=="
+            },
+            "companyName": "iur.crowd"
+        },
+        {
+            "title": "PHD Student",
+            "description": "PhD-scholarship: Stiftung der deutschen Wirtschaft\nTopic: Legal and practical possibilities/boundaries of legal analytics with regards to judges in Germany\nSupervisors: Prof Dr. Stephan Breidenbach & Prof. Dr. Dirk Heckmann",
+            "locationName": "Berlin, München",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15093421",
+                "entityUrn": "urn:li:fs_miniCompany:15093421",
+                "name": "European-University Viadrina",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHwYgLToXrpQw/company-logo_200_200/company-logo_200_200/0/1631338271629?e=1747872000&v=beta&t=clQiB72zB1-d-BKFv6QvqP-TS3vT_ry3Ut97VE6B4b0",
+                "universalName": "europa-universitaet-viadrina",
+                "dashCompanyUrn": "urn:li:fsd_company:15093421",
+                "trackingId": "IHpxnPzbQYaBORQIv96BTg=="
+            },
+            "companyName": "Europa-Universität Viadrina Frankfurt (Oder)"
+        },
+        {
+            "title": "Autor",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:3850040",
+                "entityUrn": "urn:li:fs_miniCompany:3850040",
+                "name": "juris GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEZLLV3CPAM0A/company-logo_200_200/company-logo_200_200/0/1642051497201/juris_rechtsportal_logo?e=1747872000&v=beta&t=_NK3wCPOt4D9ZOEWGUWz1vOE2hsu9Wmm5OSKpAoSGiI",
+                "universalName": "juris-rechtsportal",
+                "dashCompanyUrn": "urn:li:fsd_company:3850040",
+                "trackingId": "JwSmAKLbT3+B6UyLim9OMA=="
+            },
+            "companyName": "juris GmbH"
+        },
+        {
+            "title": "Legal Trainee",
+            "description": "Grade: 9,36\n\n1. Station: Clerk at the regional civil court of Berlin in a chamber for i a. industrial property law (3 months).\n2. Station: Clerk at the prosecutor of Berlin in the organized cyber crime unit (3 months). \n3. Station: Clerk at the federal ministry of justice in the unit for digitalization of the justice system, fundamental questions of digitilaisation and AI (3 months).\n4. Station: Clerk at the Gesellschaft für Freiheitsrechte (3 months), see https://www.freiheitsrechte.org/\n5. Station: Clerk at Pöhlmann/Früchtl/Oppermann, (6 months), see https://www.pfo-anwaelte.de/index\n6. Station: Clerk at tks legal Berlin, (4 months), https://tkslegal.de/",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "companyName": "Kammergericht"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "State examination",
+            "fieldOfStudy": "Law",
+            "schoolName": "Freie Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Summer school in International Relations (Islam and Politics)",
+            "schoolName": "The London School of Economics and Political Science (LSE)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Trade, Business and Company Law",
+            "schoolName": "Stockholms universitet",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "IELTS-Exam",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            },
+            "authority": "British Council"
+        },
+        {
+            "name": "Cambridge First Certificate ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2009
+                }
+            },
+            "authority": "British Council"
+        }
+    ],
+    "skills": [
+        "Legal Research",
+        "Social Media",
+        "Public Speaking",
+        "Drafting Legal Contracts"
+    ],
+    "lastEnriched": "2025-02-17"
+}

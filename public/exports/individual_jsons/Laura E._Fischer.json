@@ -1,0 +1,495 @@
+{
+    "id": "exp466839324",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura E.",
+        "lastName": "Fischer",
+        "fullName": "Laura E. Fischer",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQGr4CMRlweupg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1664801724618?e=1745452800&v=beta&t=a7_fUZLLy6k8dR27Fds_bJdBAweY_pUrcvoGmhc5kQY",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "Italian"
+        ],
+        "allData": {
+            "id": "466839324",
+            "profileId": "ACoAABvTZxwBMyNr5JMUHjuRxzHVymDDmghfcm8",
+            "firstName": "Laura E.",
+            "lastName": "Fischer",
+            "occupation": "Founder & CEO",
+            "publicIdentifier": "laura-e-fischer-790415110",
+            "trackingId": "hRFI81hcRLafWFnc0A2u2Q==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGr4CMRlweupg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1664801724618?e=1745452800&v=beta&t=a7_fUZLLy6k8dR27Fds_bJdBAweY_pUrcvoGmhc5kQY",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG5BSQXx8q9tA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1649788991228?e=1745452800&v=beta&t=QFI0v2OqkYKuvVdvtJG53cmayai9S7EQTX5fws2O5MQ",
+            "countryCode": "gb",
+            "geoUrn": "urn:li:fs_geo:101165590",
+            "positions": [
+                {
+                    "title": "Visiting Senior Research Fellow",
+                    "description": "Institute of Psychiatry, Psychology, and Neuroscience",
+                    "locationName": "London, England, United Kingdom",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:7198",
+                        "entityUrn": "urn:li:fs_miniCompany:7198",
+                        "name": "King's College London",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_200_200/company-logo_200_200/0/1630592448557/kings_college_london_logo?e=1747872000&v=beta&t=GQEWfQXbb2iif1ToMFMRoYJ3-_QDHx3KmWk26ugZUU0",
+                        "universalName": "king's-college-london",
+                        "dashCompanyUrn": "urn:li:fsd_company:7198",
+                        "trackingId": "856OQ5SYSKGamF+QwhBxpg=="
+                    },
+                    "companyName": "King's College London"
+                },
+                {
+                    "title": "Data Monitoring and Ethics Committee",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4477",
+                        "entityUrn": "urn:li:fs_miniCompany:4477",
+                        "name": "University of Oxford",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_200_200/company-logo_200_200/0/1709206435851/oxforduni_logo?e=1747872000&v=beta&t=Od-PJnEom7zO6HC_ljwv5Zy0sEDFFjsuVtRIKAjWkbY",
+                        "universalName": "oxforduni",
+                        "dashCompanyUrn": "urn:li:fsd_company:4477",
+                        "trackingId": "OKeBwKDhQlKJ59Rji/sayg=="
+                    },
+                    "companyName": "University of Oxford"
+                },
+                {
+                    "title": "Founder & CEO",
+                    "description": "Traumascapes is a survivor-led organisation dedicated to changing the ecosystem of trauma and creating new horizons for survivors through art and science.",
+                    "locationName": "London, England, United Kingdom",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:81302340",
+                        "entityUrn": "urn:li:fs_miniCompany:81302340",
+                        "name": "Traumascapes CIC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGoubHMJPsh3g/company-logo_200_200/company-logo_200_200/0/1649790459431/traumascapes_logo?e=1747872000&v=beta&t=5Yn8I_q35Ho1W_jNpMKmwUaYVIvuybAmbaaCBjbFTB8",
+                        "universalName": "traumascapes",
+                        "dashCompanyUrn": "urn:li:fsd_company:81302340",
+                        "trackingId": "AwolDI+JSxqd8hssQiNQgg=="
+                    },
+                    "companyName": "Traumascapes CIC"
+                },
+                {
+                    "title": "Visiting Lecturer",
+                    "description": "MSc Creative Arts and Mental Health",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:9911",
+                        "entityUrn": "urn:li:fs_miniCompany:9911",
+                        "name": "Queen Mary University of London",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEP4F_lVG4Fow/company-logo_200_200/company-logo_200_200/0/1690809151089/queen_mary_university_of_london_logo?e=1747872000&v=beta&t=-GrA2Wf1BrtTXAKLYCpoKG7wLVsFHbfCwbpQuF3YI5k",
+                        "universalName": "queen-mary-university-of-london",
+                        "dashCompanyUrn": "urn:li:fsd_company:9911",
+                        "trackingId": "vy+nOTXkQ1CISzkD7HfByA=="
+                    },
+                    "companyName": "Queen Mary University of London"
+                },
+                {
+                    "title": "Editorial Advisory Board (Psychiatry)",
+                    "locationName": "London, United Kingdom",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Publishing"
+                        ],
+                        "objectUrn": "urn:li:company:1155238",
+                        "entityUrn": "urn:li:fs_miniCompany:1155238",
+                        "name": "The Lancet Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGGqoe8sKrBtA/company-logo_200_200/company-logo_200_200/0/1735804852768/the_lancet_logo?e=1747872000&v=beta&t=xBW7GnyiJRYizHrLsGMbMhM1NXFGrp5bbUnpUznkwI0",
+                        "universalName": "the-lancet",
+                        "dashCompanyUrn": "urn:li:fsd_company:1155238",
+                        "trackingId": "/6hbyWvnQmez4hfVF6UlCQ=="
+                    },
+                    "companyName": "The Lancet"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "fieldOfStudy": "Institute of Psychiatry, Psychology and Neuroscience",
+                    "schoolName": "King's College London",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2021
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "Creative Arts and Mental Health",
+                    "schoolName": "Queen Mary University of London",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor’s Degree",
+                    "fieldOfStudy": "BA (Hons) Performance Design and Practice",
+                    "schoolName": "Central Saint Martins, University of The Arts London",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "Certificate in Traumatic Stress Studies, Trauma Center at JRI"
+                },
+                {
+                    "name": "Clinical Neuroscience, PESI"
+                },
+                {
+                    "name": "Foundation Training in Trauma Centre Trauma Sensitive Yoga, Trauma Center at JRI"
+                },
+                {
+                    "name": "Medical Neuroscience, Duke University"
+                },
+                {
+                    "name": "Social Context of Mental Health and Illness, University of Toronto"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Italian",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Art",
+                "Cross-disciplinary Art",
+                "Mental Health",
+                "Art Direction"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder & CEO",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoCountryName": "United Kingdom",
+            "jobTitle": "Visiting Senior Research Fellow",
+            "companyName": "King's College London",
+            "companyPublicId": "king's-college-london",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/king's-college-london",
+            "following": false,
+            "followable": true,
+            "followersCount": 724,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "King's College London",
+        "position": "Visiting Senior Research Fellow",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Visiting Senior Research Fellow",
+        "organization": "King's College London",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laura-e-fischer-790415110/",
+        "company": "https://www.linkedin.com/company/king's-college-london"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Visiting Senior Research Fellow",
+            "description": "Institute of Psychiatry, Psychology, and Neuroscience",
+            "locationName": "London, England, United Kingdom",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:7198",
+                "entityUrn": "urn:li:fs_miniCompany:7198",
+                "name": "King's College London",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_200_200/company-logo_200_200/0/1630592448557/kings_college_london_logo?e=1747872000&v=beta&t=GQEWfQXbb2iif1ToMFMRoYJ3-_QDHx3KmWk26ugZUU0",
+                "universalName": "king's-college-london",
+                "dashCompanyUrn": "urn:li:fsd_company:7198",
+                "trackingId": "856OQ5SYSKGamF+QwhBxpg=="
+            },
+            "companyName": "King's College London"
+        },
+        {
+            "title": "Data Monitoring and Ethics Committee",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4477",
+                "entityUrn": "urn:li:fs_miniCompany:4477",
+                "name": "University of Oxford",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnc4qXLbE8Sg/company-logo_200_200/company-logo_200_200/0/1709206435851/oxforduni_logo?e=1747872000&v=beta&t=Od-PJnEom7zO6HC_ljwv5Zy0sEDFFjsuVtRIKAjWkbY",
+                "universalName": "oxforduni",
+                "dashCompanyUrn": "urn:li:fsd_company:4477",
+                "trackingId": "OKeBwKDhQlKJ59Rji/sayg=="
+            },
+            "companyName": "University of Oxford"
+        },
+        {
+            "title": "Founder & CEO",
+            "description": "Traumascapes is a survivor-led organisation dedicated to changing the ecosystem of trauma and creating new horizons for survivors through art and science.",
+            "locationName": "London, England, United Kingdom",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:81302340",
+                "entityUrn": "urn:li:fs_miniCompany:81302340",
+                "name": "Traumascapes CIC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGoubHMJPsh3g/company-logo_200_200/company-logo_200_200/0/1649790459431/traumascapes_logo?e=1747872000&v=beta&t=5Yn8I_q35Ho1W_jNpMKmwUaYVIvuybAmbaaCBjbFTB8",
+                "universalName": "traumascapes",
+                "dashCompanyUrn": "urn:li:fsd_company:81302340",
+                "trackingId": "AwolDI+JSxqd8hssQiNQgg=="
+            },
+            "companyName": "Traumascapes CIC"
+        },
+        {
+            "title": "Visiting Lecturer",
+            "description": "MSc Creative Arts and Mental Health",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:9911",
+                "entityUrn": "urn:li:fs_miniCompany:9911",
+                "name": "Queen Mary University of London",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEP4F_lVG4Fow/company-logo_200_200/company-logo_200_200/0/1690809151089/queen_mary_university_of_london_logo?e=1747872000&v=beta&t=-GrA2Wf1BrtTXAKLYCpoKG7wLVsFHbfCwbpQuF3YI5k",
+                "universalName": "queen-mary-university-of-london",
+                "dashCompanyUrn": "urn:li:fsd_company:9911",
+                "trackingId": "vy+nOTXkQ1CISzkD7HfByA=="
+            },
+            "companyName": "Queen Mary University of London"
+        },
+        {
+            "title": "Editorial Advisory Board (Psychiatry)",
+            "locationName": "London, United Kingdom",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Publishing"
+                ],
+                "objectUrn": "urn:li:company:1155238",
+                "entityUrn": "urn:li:fs_miniCompany:1155238",
+                "name": "The Lancet Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGGqoe8sKrBtA/company-logo_200_200/company-logo_200_200/0/1735804852768/the_lancet_logo?e=1747872000&v=beta&t=xBW7GnyiJRYizHrLsGMbMhM1NXFGrp5bbUnpUznkwI0",
+                "universalName": "the-lancet",
+                "dashCompanyUrn": "urn:li:fsd_company:1155238",
+                "trackingId": "/6hbyWvnQmez4hfVF6UlCQ=="
+            },
+            "companyName": "The Lancet"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "Institute of Psychiatry, Psychology and Neuroscience",
+            "schoolName": "King's College London",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2021
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "Creative Arts and Mental Health",
+            "schoolName": "Queen Mary University of London",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor’s Degree",
+            "fieldOfStudy": "BA (Hons) Performance Design and Practice",
+            "schoolName": "Central Saint Martins, University of The Arts London",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Art",
+        "Cross-disciplinary Art",
+        "Mental Health",
+        "Art Direction"
+    ],
+    "lastEnriched": "2025-02-17"
+}

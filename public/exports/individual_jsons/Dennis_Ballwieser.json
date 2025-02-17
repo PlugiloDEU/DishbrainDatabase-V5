@@ -1,0 +1,532 @@
+{
+    "id": "exp17668518",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dennis",
+        "lastName": "Ballwieser",
+        "fullName": "Dennis Ballwieser",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQFN0HEf5Wjatg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1664525900720?e=1745452800&v=beta&t=NmO2uHdXqOcAJLwUMoZEQb10j02L0nQSLdp-gZspG3w",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German"
+        ],
+        "allData": {
+            "id": "17668518",
+            "profileId": "ACoAAAENmaYBiuXOZXfs2Dtkstja4SDc8NUhd5o",
+            "firstName": "Dennis",
+            "lastName": "Ballwieser",
+            "occupation": "Managing Director & Editor at Wort & Bild Verlag",
+            "publicIdentifier": "ballwieser",
+            "trackingId": "HxWcRql6StWgjZuByGoigw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFN0HEf5Wjatg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1664525900720?e=1745452800&v=beta&t=NmO2uHdXqOcAJLwUMoZEQb10j02L0nQSLdp-gZspG3w",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEMXuxpOldwew/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1666009118567?e=1745452800&v=beta&t=wQl3KiKdwY-RXw9wTDpAwOWuVeC_BVPLkPTK5iazKd0",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009735",
+            "positions": [
+                {
+                    "title": "Geschäftsführer (Managing Director)",
+                    "description": "Chief Executive of all editorial departments at Wort & Bild Verlag, the publisher of \"Apotheken Umschau\", Germany's largest magazine with about 20 million monthly readers and a circulation of nearly 10 million monthly copies. All our publications focus on health and are usually distributed via pharmacies to their customers.",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Publishing"
+                        ],
+                        "objectUrn": "urn:li:company:3848287",
+                        "entityUrn": "urn:li:fs_miniCompany:3848287",
+                        "name": "Wort & Bild Verlag",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFU93NNiukYLw/company-logo_200_200/company-logo_200_200/0/1666693938077/wort__bild_verlag_logo?e=1747872000&v=beta&t=0Hp9JfXqrXSf1k8iC_58TIsuev_nAbBgKUiO6ixfLiY",
+                        "universalName": "wort-&-bild-verlag",
+                        "dashCompanyUrn": "urn:li:fsd_company:3848287",
+                        "trackingId": "Dln25Y8FQLS0ZBWQ5lyglA=="
+                    },
+                    "companyName": "Wort & Bild Verlag"
+                },
+                {
+                    "title": "Freelance Columnist",
+                    "description": "Freelance Columnist at SPIEGEL ONLINE's health desk. SPIEGEL ONLINE is Germany's leading news website, associated with DER SPIEGEL, Germany's leading news magazine.",
+                    "locationName": "Hamburg Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:820258",
+                        "entityUrn": "urn:li:fs_miniCompany:820258",
+                        "name": "DER SPIEGEL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                        "universalName": "der-spiegel",
+                        "dashCompanyUrn": "urn:li:fsd_company:820258",
+                        "trackingId": "yf5uZUdOQn+hw2DZbq3GvA=="
+                    },
+                    "companyName": "Spiegel Online"
+                },
+                {
+                    "title": "Physician",
+                    "description": "Physician in the Department of Anaesthesiology of Ludwig-Maximilians-Universität Munich.",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:11944",
+                        "entityUrn": "urn:li:fs_miniCompany:11944",
+                        "name": "University of Munich",
+                        "showcase": false,
+                        "active": false,
+                        "universalName": "university-of-munich",
+                        "dashCompanyUrn": "urn:li:fsd_company:11944",
+                        "trackingId": "7vhZohRxS9i4QdJP3jZlTw=="
+                    },
+                    "companyName": "University of Munich"
+                },
+                {
+                    "title": "Editor",
+                    "description": "Editor at Wort & Bild Verlag, the publisher of \"Apotheken Umschau\", Germany's largest magazine with about 20 million monthly readers and a circulation of nearly 10 million monthly copies. All our publications focus on health and are usually distributed via pharmacies to their customers.",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2014
+                        }
+                    },
+                    "companyName": "Wort & Bild Verlag"
+                },
+                {
+                    "title": "Editor",
+                    "description": "Editor at SPIEGEL ONLINE's health desk. SPIEGEL ONLINE is Germany's leading news website. We are associated with DER SPIEGEL, Germany's leading news magazine.",
+                    "locationName": "Hamburg Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:820258",
+                        "entityUrn": "urn:li:fs_miniCompany:820258",
+                        "name": "DER SPIEGEL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                        "universalName": "der-spiegel",
+                        "dashCompanyUrn": "urn:li:fsd_company:820258",
+                        "trackingId": "V1ynU8khTU6fOulXR/f7lA=="
+                    },
+                    "companyName": "Spiegel Online"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "M. D.",
+                    "fieldOfStudy": "Medicine",
+                    "schoolName": "Ludwig-Maximilians-Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Research Scholar",
+                    "schoolName": "Yale School of Medicine",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Editor",
+                    "fieldOfStudy": "Journalism",
+                    "schoolName": "Deutsche Journalistenschule",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "edX Verified Certificate for Readings in Global Health",
+                    "authority": "edX"
+                },
+                {
+                    "name": "edX Verified Certificate for Readings in Global Health",
+                    "authority": "edX"
+                },
+                {
+                    "name": "Cybersecurity: Managing Risk in the Information Age",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Harvard’s Office of the Vice Provost for Advances in Learning, in association with HarvardX"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Research",
+                "Writing",
+                "Social Media",
+                "Science"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Arzt",
+                    "description": "Ehrenamtliches Engagement auf örtlicher, regionaler und Länderebene; in Erster Hilfe, Katastrophenschutz, Bildung, Ausbildung, Risiko- und Krisenkommunikation.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 1992
+                        }
+                    },
+                    "companyName": "Bayerisches Rotes Kreuz",
+                    "cause": "HUMAN_RIGHTS"
+                }
+            ],
+            "headline": "Managing Director & Editor at Wort & Bild Verlag",
+            "summary": "I am a trained physician and journalist with experience in medical science, patient care and editorial work. Currently I am serving as an executive editor with Germany's leading health-focused publishing company.\n\nToday I am focusing on delivering the best reliable, comprehensible, useful health and medical information for lay and professional audiences via all media channels (digital, print) and media forms (video, audio, text, photo, charts).\n\nI've had the chance to learn from top physicians and scientists during my training at University of Munich and Yale University, and to learn from the finest editors at the German School of Journalism and at different media outlets, e.g. German daily \"Süddeutsche Zeitung\", German public radio \"Bayerischer Rundfunk\" and German news magazine \"Der Spiegel\".\n\nAfter my training I worked in the Department of Anaesthesiology at University of Munich's hospital and at SPIEGEL ONLINE, \"Der Spiegel\"'s digital news outlet, before moving on to \"Wort & Bild Verlag\", where I am currently the Executive Editor.\n\nI am always happy to connect with people, especially those interested in the same topics as me. Please feel free to contact me.",
+            "student": false,
+            "industryName": "Media Production",
+            "industryUrn": "urn:li:fs_industry:126",
+            "geoLocationName": "Greater Munich Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Geschäftsführer (Managing Director)",
+            "companyName": "Wort & Bild Verlag",
+            "companyPublicId": "wort-&-bild-verlag",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/wort-&-bild-verlag",
+            "following": false,
+            "followable": true,
+            "followersCount": 1930,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Wort & Bild Verlag",
+        "position": "Geschäftsführer (Managing Director)",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Publishing"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Geschäftsführer (Managing Director)",
+        "organization": "Wort & Bild Verlag",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/ballwieser/",
+        "company": "https://www.linkedin.com/company/wort-&-bild-verlag"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Geschäftsführer (Managing Director)",
+            "description": "Chief Executive of all editorial departments at Wort & Bild Verlag, the publisher of \"Apotheken Umschau\", Germany's largest magazine with about 20 million monthly readers and a circulation of nearly 10 million monthly copies. All our publications focus on health and are usually distributed via pharmacies to their customers.",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Publishing"
+                ],
+                "objectUrn": "urn:li:company:3848287",
+                "entityUrn": "urn:li:fs_miniCompany:3848287",
+                "name": "Wort & Bild Verlag",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFU93NNiukYLw/company-logo_200_200/company-logo_200_200/0/1666693938077/wort__bild_verlag_logo?e=1747872000&v=beta&t=0Hp9JfXqrXSf1k8iC_58TIsuev_nAbBgKUiO6ixfLiY",
+                "universalName": "wort-&-bild-verlag",
+                "dashCompanyUrn": "urn:li:fsd_company:3848287",
+                "trackingId": "Dln25Y8FQLS0ZBWQ5lyglA=="
+            },
+            "companyName": "Wort & Bild Verlag"
+        },
+        {
+            "title": "Freelance Columnist",
+            "description": "Freelance Columnist at SPIEGEL ONLINE's health desk. SPIEGEL ONLINE is Germany's leading news website, associated with DER SPIEGEL, Germany's leading news magazine.",
+            "locationName": "Hamburg Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:820258",
+                "entityUrn": "urn:li:fs_miniCompany:820258",
+                "name": "DER SPIEGEL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                "universalName": "der-spiegel",
+                "dashCompanyUrn": "urn:li:fsd_company:820258",
+                "trackingId": "yf5uZUdOQn+hw2DZbq3GvA=="
+            },
+            "companyName": "Spiegel Online"
+        },
+        {
+            "title": "Physician",
+            "description": "Physician in the Department of Anaesthesiology of Ludwig-Maximilians-Universität Munich.",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:11944",
+                "entityUrn": "urn:li:fs_miniCompany:11944",
+                "name": "University of Munich",
+                "showcase": false,
+                "active": false,
+                "universalName": "university-of-munich",
+                "dashCompanyUrn": "urn:li:fsd_company:11944",
+                "trackingId": "7vhZohRxS9i4QdJP3jZlTw=="
+            },
+            "companyName": "University of Munich"
+        },
+        {
+            "title": "Editor",
+            "description": "Editor at Wort & Bild Verlag, the publisher of \"Apotheken Umschau\", Germany's largest magazine with about 20 million monthly readers and a circulation of nearly 10 million monthly copies. All our publications focus on health and are usually distributed via pharmacies to their customers.",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2014
+                }
+            },
+            "companyName": "Wort & Bild Verlag"
+        },
+        {
+            "title": "Editor",
+            "description": "Editor at SPIEGEL ONLINE's health desk. SPIEGEL ONLINE is Germany's leading news website. We are associated with DER SPIEGEL, Germany's leading news magazine.",
+            "locationName": "Hamburg Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:820258",
+                "entityUrn": "urn:li:fs_miniCompany:820258",
+                "name": "DER SPIEGEL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                "universalName": "der-spiegel",
+                "dashCompanyUrn": "urn:li:fsd_company:820258",
+                "trackingId": "V1ynU8khTU6fOulXR/f7lA=="
+            },
+            "companyName": "Spiegel Online"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "M. D.",
+            "fieldOfStudy": "Medicine",
+            "schoolName": "Ludwig-Maximilians-Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Research Scholar",
+            "schoolName": "Yale School of Medicine",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "Editor",
+            "fieldOfStudy": "Journalism",
+            "schoolName": "Deutsche Journalistenschule",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "edX Verified Certificate for Readings in Global Health",
+            "authority": "edX"
+        },
+        {
+            "name": "edX Verified Certificate for Readings in Global Health",
+            "authority": "edX"
+        },
+        {
+            "name": "Cybersecurity: Managing Risk in the Information Age",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "authority": "Harvard’s Office of the Vice Provost for Advances in Learning, in association with HarvardX"
+        }
+    ],
+    "skills": [
+        "Research",
+        "Writing",
+        "Social Media",
+        "Science"
+    ],
+    "lastEnriched": "2025-02-17"
+}

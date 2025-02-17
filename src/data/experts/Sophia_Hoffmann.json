@@ -1,0 +1,520 @@
+{
+    "id": "exp343433827",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sophia",
+        "lastName": "Hoffmann",
+        "fullName": "Sophia Hoffmann",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQFTSkkf2cwf3g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1705652609344?e=1745452800&v=beta&t=IKyPip7a9yQcEOkSU9UroQc2W4EJOul5pQzx4ufKNKk",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Arabic",
+            "English",
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "343433827",
+            "profileId": "ACoAABR4YmMBJwwUwrYObgrjfyJcD6NR9qpuwCg",
+            "firstName": "Sophia",
+            "lastName": "Hoffmann",
+            "occupation": "Professor of International Politics at University of Erfurt",
+            "publicIdentifier": "sophia-hoffmann-51702297",
+            "trackingId": "12oBaRavRbqfV9qmFHHhIA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFTSkkf2cwf3g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1705652609344?e=1745452800&v=beta&t=IKyPip7a9yQcEOkSU9UroQc2W4EJOul5pQzx4ufKNKk",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009712",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:57236",
+                        "entityUrn": "urn:li:fs_miniCompany:57236",
+                        "name": "Universität Erfurt",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_ELMnFotxug/company-logo_200_200/company-logo_200_200/0/1673365043172/university_of_erfurt_logo?e=1747872000&v=beta&t=fWGxY8WIxJigQzGZSi3Oc7l-Gi6jZGcsmwTTRBPGZYs",
+                        "universalName": "university-of-erfurt",
+                        "dashCompanyUrn": "urn:li:fsd_company:57236",
+                        "trackingId": "10wezbK8RiqjymkQlticZQ=="
+                    },
+                    "companyName": "Universität Erfurt"
+                },
+                {
+                    "title": "Research Group Lead",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:41316556",
+                        "entityUrn": "urn:li:fs_miniCompany:41316556",
+                        "name": "Leibniz Association",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGAPns7NgZPBw/company-logo_200_200/company-logo_200_200/0/1738157115270/leibniz_gemeinschaft_logo?e=1747872000&v=beta&t=wF-MZFaIJJvwylPg02L_UD6txv46UCoiS7KxnlsNAO0",
+                        "universalName": "leibniz-gemeinschaft",
+                        "dashCompanyUrn": "urn:li:fsd_company:41316556",
+                        "trackingId": "UNdq8QZ1R1if8jtAkCp1OA=="
+                    },
+                    "companyName": "Leibniz Association Leibniz-Zentrum Moderner Orient ZMO"
+                },
+                {
+                    "title": "Postdoctoral Researcher",
+                    "description": "Post-Doc at the Institute for International and Intercultural Studies, University of Bremen, Germany. \nTitle of research project: \"Humanitarian Action and Security in the Middle East\".",
+                    "locationName": "Bremen, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:12668",
+                        "entityUrn": "urn:li:fs_miniCompany:12668",
+                        "name": "University of Bremen",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHDg9uMpVgFFA/company-logo_200_200/company-logo_200_200/0/1630619159611/university_of_bremen_logo?e=1747872000&v=beta&t=EXeihO6wusWBbPRu-UA9uxg77jdxO_eKBebN3wfsVJQ",
+                        "universalName": "university-of-bremen",
+                        "dashCompanyUrn": "urn:li:fsd_company:12668",
+                        "trackingId": "pDu7xMuBT46oOU/4mBpq+w=="
+                    },
+                    "companyName": "University of Bremen"
+                },
+                {
+                    "title": "Teaching Fellow",
+                    "description": "Preparation and delivery of lectures on political science/migration/middle east on the Master’s Course “Humanitarian Action”.\n\nCo-coordinator of the “Diploma in Humanitarian Action”.",
+                    "locationName": "Geneva, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:282827",
+                        "entityUrn": "urn:li:fs_miniCompany:282827",
+                        "name": "Geneva Graduate Institute",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGFpXH03bXZrw/company-logo_200_200/company-logo_200_200/0/1649926787219/graduate_institute_of_international_and_development_studies_logo?e=1747872000&v=beta&t=Q_jyhUw9cnyxBdDhIgmDPC14BmlSQRkWGHqfHVQzSH8",
+                        "universalName": "graduate-institute-of-international-and-development-studies",
+                        "dashCompanyUrn": "urn:li:fsd_company:282827",
+                        "trackingId": "p5NvnnMSReeUZ5CLaXiNtw=="
+                    },
+                    "companyName": "Graduate Institute of International and Development Studies"
+                },
+                {
+                    "title": "Consultant",
+                    "locationName": "London, England, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:163205",
+                        "entityUrn": "urn:li:fs_miniCompany:163205",
+                        "name": "Control Risks",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFRd2aaF4b-Tg/company-logo_100_100/B4EZTvO_ELHMAQ-/0/1739180470944/control_risks_logo?e=1747872000&v=beta&t=OET2QeGtT_Ea4fcrKNyKfBt_MChR2pW5whEGSSGVUxg",
+                        "universalName": "control-risks",
+                        "dashCompanyUrn": "urn:li:fsd_company:163205",
+                        "trackingId": "ZimZFP4YQ5G5hB41m9I2zA=="
+                    },
+                    "companyName": "Control Risks"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "fieldOfStudy": "International Politi",
+                    "schoolName": "SOAS University of London",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Arts - MA",
+                    "fieldOfStudy": "International Relations ",
+                    "schoolName": "The London School of Economics and Political Science (LSE)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor's degree",
+                    "fieldOfStudy": "International Relations and Development Studies",
+                    "schoolName": "University of Sussex",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2002
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Arabic",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Foreign Policy Analysis",
+                "Research",
+                "Writing",
+                "Proposal Writing"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor of International Politics at University of Erfurt",
+            "summary": "I am an international relations scholar with a focus on international security, Middle East politics, intelligence agencies and migration. I regularly engage in policy consulting and knowledge-transfer activities outside of academia. ",
+            "student": false,
+            "industryName": "International Affairs",
+            "industryUrn": "urn:li:fs_industry:74",
+            "geoLocationName": "Berlin Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor",
+            "companyName": "Universität Erfurt",
+            "companyPublicId": "university-of-erfurt",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/university-of-erfurt",
+            "following": false,
+            "followable": true,
+            "followersCount": 1454,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Universität Erfurt",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "Universität Erfurt",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sophia-hoffmann-51702297/",
+        "company": "https://www.linkedin.com/company/university-of-erfurt"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:57236",
+                "entityUrn": "urn:li:fs_miniCompany:57236",
+                "name": "Universität Erfurt",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_ELMnFotxug/company-logo_200_200/company-logo_200_200/0/1673365043172/university_of_erfurt_logo?e=1747872000&v=beta&t=fWGxY8WIxJigQzGZSi3Oc7l-Gi6jZGcsmwTTRBPGZYs",
+                "universalName": "university-of-erfurt",
+                "dashCompanyUrn": "urn:li:fsd_company:57236",
+                "trackingId": "10wezbK8RiqjymkQlticZQ=="
+            },
+            "companyName": "Universität Erfurt"
+        },
+        {
+            "title": "Research Group Lead",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:41316556",
+                "entityUrn": "urn:li:fs_miniCompany:41316556",
+                "name": "Leibniz Association",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGAPns7NgZPBw/company-logo_200_200/company-logo_200_200/0/1738157115270/leibniz_gemeinschaft_logo?e=1747872000&v=beta&t=wF-MZFaIJJvwylPg02L_UD6txv46UCoiS7KxnlsNAO0",
+                "universalName": "leibniz-gemeinschaft",
+                "dashCompanyUrn": "urn:li:fsd_company:41316556",
+                "trackingId": "UNdq8QZ1R1if8jtAkCp1OA=="
+            },
+            "companyName": "Leibniz Association Leibniz-Zentrum Moderner Orient ZMO"
+        },
+        {
+            "title": "Postdoctoral Researcher",
+            "description": "Post-Doc at the Institute for International and Intercultural Studies, University of Bremen, Germany. \nTitle of research project: \"Humanitarian Action and Security in the Middle East\".",
+            "locationName": "Bremen, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:12668",
+                "entityUrn": "urn:li:fs_miniCompany:12668",
+                "name": "University of Bremen",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHDg9uMpVgFFA/company-logo_200_200/company-logo_200_200/0/1630619159611/university_of_bremen_logo?e=1747872000&v=beta&t=EXeihO6wusWBbPRu-UA9uxg77jdxO_eKBebN3wfsVJQ",
+                "universalName": "university-of-bremen",
+                "dashCompanyUrn": "urn:li:fsd_company:12668",
+                "trackingId": "pDu7xMuBT46oOU/4mBpq+w=="
+            },
+            "companyName": "University of Bremen"
+        },
+        {
+            "title": "Teaching Fellow",
+            "description": "Preparation and delivery of lectures on political science/migration/middle east on the Master’s Course “Humanitarian Action”.\n\nCo-coordinator of the “Diploma in Humanitarian Action”.",
+            "locationName": "Geneva, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:282827",
+                "entityUrn": "urn:li:fs_miniCompany:282827",
+                "name": "Geneva Graduate Institute",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGFpXH03bXZrw/company-logo_200_200/company-logo_200_200/0/1649926787219/graduate_institute_of_international_and_development_studies_logo?e=1747872000&v=beta&t=Q_jyhUw9cnyxBdDhIgmDPC14BmlSQRkWGHqfHVQzSH8",
+                "universalName": "graduate-institute-of-international-and-development-studies",
+                "dashCompanyUrn": "urn:li:fsd_company:282827",
+                "trackingId": "p5NvnnMSReeUZ5CLaXiNtw=="
+            },
+            "companyName": "Graduate Institute of International and Development Studies"
+        },
+        {
+            "title": "Consultant",
+            "locationName": "London, England, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:163205",
+                "entityUrn": "urn:li:fs_miniCompany:163205",
+                "name": "Control Risks",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFRd2aaF4b-Tg/company-logo_100_100/B4EZTvO_ELHMAQ-/0/1739180470944/control_risks_logo?e=1747872000&v=beta&t=OET2QeGtT_Ea4fcrKNyKfBt_MChR2pW5whEGSSGVUxg",
+                "universalName": "control-risks",
+                "dashCompanyUrn": "urn:li:fsd_company:163205",
+                "trackingId": "ZimZFP4YQ5G5hB41m9I2zA=="
+            },
+            "companyName": "Control Risks"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "International Politi",
+            "schoolName": "SOAS University of London",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Arts - MA",
+            "fieldOfStudy": "International Relations ",
+            "schoolName": "The London School of Economics and Political Science (LSE)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor's degree",
+            "fieldOfStudy": "International Relations and Development Studies",
+            "schoolName": "University of Sussex",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Foreign Policy Analysis",
+        "Research",
+        "Writing",
+        "Proposal Writing"
+    ],
+    "lastEnriched": "2025-02-17"
+}

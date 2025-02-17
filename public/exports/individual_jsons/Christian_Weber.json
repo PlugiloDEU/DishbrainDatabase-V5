@@ -1,0 +1,449 @@
+{
+    "id": "exp198869716",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christian",
+        "lastName": "Weber",
+        "fullName": "Christian Weber",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German"
+        ],
+        "allData": {
+            "id": "198869716",
+            "profileId": "ACoAAAvagtQBmeuZXF9O37dHPO1mj4d-HkXODYQ",
+            "firstName": "Christian",
+            "lastName": "Weber",
+            "occupation": "Director at Deloitte Switzerland",
+            "publicIdentifier": "christian-weber-78472656",
+            "trackingId": "PIkcNUOZQbmVV016obNfXA==",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:106693272",
+            "positions": [
+                {
+                    "title": "Director",
+                    "locationName": "Zurich, Switzerland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1038",
+                        "entityUrn": "urn:li:fs_miniCompany:1038",
+                        "name": "Deloitte",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                        "universalName": "deloitte",
+                        "dashCompanyUrn": "urn:li:fsd_company:1038",
+                        "trackingId": "4Vm5RGlbSW67Qmibj0PmQg=="
+                    },
+                    "companyName": "Deloitte Switzerland"
+                },
+                {
+                    "title": "Senior Manager",
+                    "locationName": "Zürich Area, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1038",
+                        "entityUrn": "urn:li:fs_miniCompany:1038",
+                        "name": "Deloitte",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                        "universalName": "deloitte",
+                        "dashCompanyUrn": "urn:li:fsd_company:1038",
+                        "trackingId": "Ml97t29KTYi+84cNIGxGtQ=="
+                    },
+                    "companyName": "Deloitte Switzerland"
+                },
+                {
+                    "title": "Senior Manager",
+                    "locationName": "Frankfurt Am Main Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1044",
+                        "entityUrn": "urn:li:fs_miniCompany:1044",
+                        "name": "PwC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnGELqq6HXHw/company-logo_200_200/company-logo_200_200/0/1720517867022/pwc_logo?e=1747872000&v=beta&t=LKKnhxvNF3-LpIXL2CjEN2A1jYc6EdmdGpZ1wqfwpBQ",
+                        "universalName": "pwc",
+                        "dashCompanyUrn": "urn:li:fsd_company:1044",
+                        "trackingId": "vaIY2GoLRsKX9PHztQIjeQ=="
+                    },
+                    "companyName": "PwC"
+                },
+                {
+                    "title": "Senior Manager",
+                    "locationName": "Hong Kong",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1044",
+                        "entityUrn": "urn:li:fs_miniCompany:1044",
+                        "name": "PwC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnGELqq6HXHw/company-logo_200_200/company-logo_200_200/0/1720517867022/pwc_logo?e=1747872000&v=beta&t=LKKnhxvNF3-LpIXL2CjEN2A1jYc6EdmdGpZ1wqfwpBQ",
+                        "universalName": "pwc",
+                        "dashCompanyUrn": "urn:li:fsd_company:1044",
+                        "trackingId": "+T+uBXH0QyqGCUJWsFa3iw=="
+                    },
+                    "companyName": "PwC"
+                },
+                {
+                    "title": "Manager",
+                    "locationName": "Frankfurt Am Main Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1044",
+                        "entityUrn": "urn:li:fs_miniCompany:1044",
+                        "name": "PwC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnGELqq6HXHw/company-logo_200_200/company-logo_200_200/0/1720517867022/pwc_logo?e=1747872000&v=beta&t=LKKnhxvNF3-LpIXL2CjEN2A1jYc6EdmdGpZ1wqfwpBQ",
+                        "universalName": "pwc",
+                        "dashCompanyUrn": "urn:li:fsd_company:1044",
+                        "trackingId": "ZpE4XpU/QE+ybhTXP8puOg=="
+                    },
+                    "companyName": "PwC"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master’s Degree",
+                    "fieldOfStudy": "Business Administration",
+                    "schoolName": "Technische Universität Bergakademie Freiberg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Assurance",
+                "Financial Reporting",
+                "Internal Controls",
+                "IFRS"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Director at Deloitte Switzerland",
+            "summary": "Chartered accountant with a profound accounting basis (IFRS, HKFRS, US GAAP, Swiss and German GAAP). \n\nExperience of more than 10 years in the financial sector as an auditor and advisor of asset managers, funds and banks in Germany and Hong Kong. \n\nProven experience in managing international and complex projects leading multi-national teams. \n\nExpertise in the financial regulatory environment of the EU and Hong Kong.\n",
+            "student": false,
+            "industryName": "Accounting",
+            "industryUrn": "urn:li:fs_industry:47",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Director",
+            "companyName": "Deloitte Switzerland",
+            "companyPublicId": "deloitte",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/deloitte",
+            "following": false,
+            "followable": true,
+            "followersCount": 785,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Deloitte Switzerland",
+        "position": "Director",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Management Consulting"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director",
+        "organization": "Deloitte Switzerland",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christian-weber-78472656/",
+        "company": "https://www.linkedin.com/company/deloitte"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director",
+            "locationName": "Zurich, Switzerland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1038",
+                "entityUrn": "urn:li:fs_miniCompany:1038",
+                "name": "Deloitte",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                "universalName": "deloitte",
+                "dashCompanyUrn": "urn:li:fsd_company:1038",
+                "trackingId": "4Vm5RGlbSW67Qmibj0PmQg=="
+            },
+            "companyName": "Deloitte Switzerland"
+        },
+        {
+            "title": "Senior Manager",
+            "locationName": "Zürich Area, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1038",
+                "entityUrn": "urn:li:fs_miniCompany:1038",
+                "name": "Deloitte",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                "universalName": "deloitte",
+                "dashCompanyUrn": "urn:li:fsd_company:1038",
+                "trackingId": "Ml97t29KTYi+84cNIGxGtQ=="
+            },
+            "companyName": "Deloitte Switzerland"
+        },
+        {
+            "title": "Senior Manager",
+            "locationName": "Frankfurt Am Main Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1044",
+                "entityUrn": "urn:li:fs_miniCompany:1044",
+                "name": "PwC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnGELqq6HXHw/company-logo_200_200/company-logo_200_200/0/1720517867022/pwc_logo?e=1747872000&v=beta&t=LKKnhxvNF3-LpIXL2CjEN2A1jYc6EdmdGpZ1wqfwpBQ",
+                "universalName": "pwc",
+                "dashCompanyUrn": "urn:li:fsd_company:1044",
+                "trackingId": "vaIY2GoLRsKX9PHztQIjeQ=="
+            },
+            "companyName": "PwC"
+        },
+        {
+            "title": "Senior Manager",
+            "locationName": "Hong Kong",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1044",
+                "entityUrn": "urn:li:fs_miniCompany:1044",
+                "name": "PwC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnGELqq6HXHw/company-logo_200_200/company-logo_200_200/0/1720517867022/pwc_logo?e=1747872000&v=beta&t=LKKnhxvNF3-LpIXL2CjEN2A1jYc6EdmdGpZ1wqfwpBQ",
+                "universalName": "pwc",
+                "dashCompanyUrn": "urn:li:fsd_company:1044",
+                "trackingId": "+T+uBXH0QyqGCUJWsFa3iw=="
+            },
+            "companyName": "PwC"
+        },
+        {
+            "title": "Manager",
+            "locationName": "Frankfurt Am Main Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1044",
+                "entityUrn": "urn:li:fs_miniCompany:1044",
+                "name": "PwC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGnGELqq6HXHw/company-logo_200_200/company-logo_200_200/0/1720517867022/pwc_logo?e=1747872000&v=beta&t=LKKnhxvNF3-LpIXL2CjEN2A1jYc6EdmdGpZ1wqfwpBQ",
+                "universalName": "pwc",
+                "dashCompanyUrn": "urn:li:fsd_company:1044",
+                "trackingId": "ZpE4XpU/QE+ybhTXP8puOg=="
+            },
+            "companyName": "PwC"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master’s Degree",
+            "fieldOfStudy": "Business Administration",
+            "schoolName": "Technische Universität Bergakademie Freiberg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Assurance",
+        "Financial Reporting",
+        "Internal Controls",
+        "IFRS"
+    ],
+    "lastEnriched": "2025-02-17"
+}

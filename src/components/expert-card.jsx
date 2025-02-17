@@ -114,7 +114,7 @@ const ExpertCard = ({ expert, onClick, onUpdate }) => {
   return (
     <div className="relative">
       <div 
-        className="bg-white rounded-lg shadow-md p-4 hover:shadow-lg transition-shadow cursor-pointer"
+        className="bg-white rounded-lg shadow-md p-4 hover:shadow-lg transition-shadow cursor-pointer h-[200px] overflow-hidden"
         onClick={() => onClick(expert)}
       >
         <div className="flex items-start gap-4">
@@ -126,7 +126,7 @@ const ExpertCard = ({ expert, onClick, onUpdate }) => {
                 alt={getName()}
                 className="w-full h-full object-cover"
                 onError={(e) => {
-                  e.target.onerror = null; // Prevent infinite loop
+                  e.target.onerror = null;
                   e.target.src = '/experts/default-expert-avatar.png';
                 }}
               />
@@ -140,35 +140,37 @@ const ExpertCard = ({ expert, onClick, onUpdate }) => {
           </div>
 
           {/* Expert Info */}
-          <div className="flex-1">
-            <h3 className="text-lg font-semibold text-gray-900">{getName()}</h3>
+          <div className="flex-1 min-w-0">
+            <h3 className="text-lg font-semibold text-gray-900 truncate">{getName()}</h3>
             
             {/* Title & Organization - Always show */}
             <div className="text-sm text-gray-600 mb-2">
-              <span className="font-medium">{title || 'Keine Position angegeben'}</span>
-              {organization && (
-                <>
-                  <span className="mx-1">·</span>
-                  <span>{organization}</span>
-                </>
-              )}
+              <div className="truncate">
+                <span className="font-medium">{title || 'Keine Position angegeben'}</span>
+                {organization && (
+                  <>
+                    <span className="mx-1">·</span>
+                    <span>{organization}</span>
+                  </>
+                )}
+              </div>
             </div>
 
             {/* Expertise Tags - Always show */}
-            <div className="flex flex-wrap gap-2 mt-2">
+            <div className="flex flex-wrap gap-2 mt-2 max-h-[40px] overflow-hidden">
               {expertise.length > 0 ? (
                 <>
-                  {expertise.slice(0, 3).map((item, index) => (
+                  {expertise.slice(0, 2).map((item, index) => (
                     <span
                       key={index}
-                      className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800"
+                      className="inline-flex items-center px-2.5 py-0.5 rounded-full text-xs font-medium bg-blue-100 text-blue-800 truncate max-w-[120px]"
                     >
                       {item}
                     </span>
                   ))}
-                  {expertise.length > 3 && (
+                  {expertise.length > 2 && (
                     <span className="text-xs text-gray-500">
-                      +{expertise.length - 3} more
+                      +{expertise.length - 2} more
                     </span>
                   )}
                 </>
@@ -182,7 +184,7 @@ const ExpertCard = ({ expert, onClick, onUpdate }) => {
             {/* Location - Always show */}
             <div className="flex items-center mt-2 text-sm text-gray-500">
               <i className="fas fa-map-marker-alt mr-1"></i>
-              <span>{location || 'Standort nicht angegeben'}</span>
+              <span className="truncate">{location || 'Standort nicht angegeben'}</span>
             </div>
           </div>
 

@@ -1,0 +1,443 @@
+{
+    "id": "exp413556767",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Igor",
+        "lastName": "Babuschkin",
+        "fullName": "Igor Babuschkin",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "413556767",
+            "profileId": "ACoAABimYB8Bh2PIfuDfQ-3WLC25wksbA13Tvho",
+            "firstName": "Igor",
+            "lastName": "Babuschkin",
+            "occupation": "Deep Learning and Reinforcement Learning: Alphastar, Parallel WaveNet, ...",
+            "publicIdentifier": "igor-babuschkin-9bb5bab6",
+            "trackingId": "2q/OvGw6R0+zVbri+bUPWw==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102277331",
+            "positions": [
+                {
+                    "title": "Co-Founder",
+                    "locationName": "San Francisco, California, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:96151950",
+                        "entityUrn": "urn:li:fs_miniCompany:96151950",
+                        "name": "xAI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQG-1TNr5eBwSg/company-logo_200_200/company-logo_200_200/0/1689735566812?e=1747872000&v=beta&t=ykTrlGm5o7l5NLGwG6O3XsqdzhhJDPvBPgOeWItBJco",
+                        "universalName": "xai",
+                        "dashCompanyUrn": "urn:li:fsd_company:96151950",
+                        "trackingId": "T2a0fodsQt2Ip6GU7e9C4Q=="
+                    },
+                    "companyName": "xAI"
+                },
+                {
+                    "title": "Senior Staff Research Engineer",
+                    "locationName": "Mountain View, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1594050",
+                        "entityUrn": "urn:li:fs_miniCompany:1594050",
+                        "name": "Google DeepMind",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                        "universalName": "googledeepmind",
+                        "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                        "trackingId": "XvyldvXhTjaZhwHaOUOYlg=="
+                    },
+                    "companyName": "DeepMind"
+                },
+                {
+                    "title": "Member of Technical Staff",
+                    "locationName": "San Francisco, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:11130470",
+                        "entityUrn": "urn:li:fs_miniCompany:11130470",
+                        "name": "OpenAI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                        "universalName": "openai",
+                        "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                        "trackingId": "X1LIXUgZTsaidV5ac7bbjA=="
+                    },
+                    "companyName": "OpenAI"
+                },
+                {
+                    "title": "Senior Research Engineer",
+                    "locationName": "London, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1594050",
+                        "entityUrn": "urn:li:fs_miniCompany:1594050",
+                        "name": "Google DeepMind",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                        "universalName": "googledeepmind",
+                        "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                        "trackingId": "FV4GSWUuRUiSVeJhmYfskg=="
+                    },
+                    "companyName": "DeepMind"
+                },
+                {
+                    "title": "Research Engineer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1594050",
+                        "entityUrn": "urn:li:fs_miniCompany:1594050",
+                        "name": "Google DeepMind",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                        "universalName": "googledeepmind",
+                        "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                        "trackingId": "e6c8pFEuSNKmk+WTckTJ2A=="
+                    },
+                    "companyName": "DeepMind"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master’s Degree",
+                    "fieldOfStudy": "Physics",
+                    "schoolName": "TU Dortmund",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "C++",
+                "LaTeX",
+                "Python",
+                "Reinforcement Learning"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Deep Learning and Reinforcement Learning: Alphastar, Parallel WaveNet, ...",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "San Francisco, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Co-Founder",
+            "companyName": "xAI",
+            "companyPublicId": "xai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/xai",
+            "following": false,
+            "followable": true,
+            "followersCount": 2452,
+            "connectionsCount": 407,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "xAI",
+        "position": "Co-Founder",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder",
+        "organization": "xAI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/igor-babuschkin-9bb5bab6/",
+        "company": "https://www.linkedin.com/company/xai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder",
+            "locationName": "San Francisco, California, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:96151950",
+                "entityUrn": "urn:li:fs_miniCompany:96151950",
+                "name": "xAI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQG-1TNr5eBwSg/company-logo_200_200/company-logo_200_200/0/1689735566812?e=1747872000&v=beta&t=ykTrlGm5o7l5NLGwG6O3XsqdzhhJDPvBPgOeWItBJco",
+                "universalName": "xai",
+                "dashCompanyUrn": "urn:li:fsd_company:96151950",
+                "trackingId": "T2a0fodsQt2Ip6GU7e9C4Q=="
+            },
+            "companyName": "xAI"
+        },
+        {
+            "title": "Senior Staff Research Engineer",
+            "locationName": "Mountain View, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1594050",
+                "entityUrn": "urn:li:fs_miniCompany:1594050",
+                "name": "Google DeepMind",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                "universalName": "googledeepmind",
+                "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                "trackingId": "XvyldvXhTjaZhwHaOUOYlg=="
+            },
+            "companyName": "DeepMind"
+        },
+        {
+            "title": "Member of Technical Staff",
+            "locationName": "San Francisco, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:11130470",
+                "entityUrn": "urn:li:fs_miniCompany:11130470",
+                "name": "OpenAI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                "universalName": "openai",
+                "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                "trackingId": "X1LIXUgZTsaidV5ac7bbjA=="
+            },
+            "companyName": "OpenAI"
+        },
+        {
+            "title": "Senior Research Engineer",
+            "locationName": "London, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1594050",
+                "entityUrn": "urn:li:fs_miniCompany:1594050",
+                "name": "Google DeepMind",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                "universalName": "googledeepmind",
+                "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                "trackingId": "FV4GSWUuRUiSVeJhmYfskg=="
+            },
+            "companyName": "DeepMind"
+        },
+        {
+            "title": "Research Engineer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1594050",
+                "entityUrn": "urn:li:fs_miniCompany:1594050",
+                "name": "Google DeepMind",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                "universalName": "googledeepmind",
+                "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                "trackingId": "e6c8pFEuSNKmk+WTckTJ2A=="
+            },
+            "companyName": "DeepMind"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master’s Degree",
+            "fieldOfStudy": "Physics",
+            "schoolName": "TU Dortmund",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "C++",
+        "LaTeX",
+        "Python",
+        "Reinforcement Learning"
+    ],
+    "lastEnriched": "2025-02-17"
+}

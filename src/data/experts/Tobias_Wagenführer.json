@@ -1,0 +1,500 @@
+{
+    "id": "exp49817249",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Tobias",
+        "lastName": "Wagenführer",
+        "fullName": "Tobias Wagenführer",
+        "image": "https://media.licdn.com/dms/image/v2/D4E35AQECPbE5LkRSMQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1667473430020?e=1740358800&v=beta&t=xH3BU1M-HVxHxeAk0D66gay8lqbDGNB_CmqW2jT-xiY",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "49817249",
+            "profileId": "ACoAAAL4JqEBI1OaCN3xPrizluj4yAyidGOiKdw",
+            "firstName": "Tobias",
+            "lastName": "Wagenführer",
+            "occupation": "Founder@Aaron.ai | Fighting for humane, instantly accessible healthcare for everyone",
+            "publicIdentifier": "tobiaswagenfuehrer",
+            "trackingId": "kqho4ByxRK+hI3HePp2usw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQECPbE5LkRSMQ/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1667473430020?e=1740358800&v=beta&t=xH3BU1M-HVxHxeAk0D66gay8lqbDGNB_CmqW2jT-xiY",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGfrRM-9wfEIw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1655449258003?e=1745452800&v=beta&t=KVC-WwaE8c7GBQ9TSPOvn11FFwBliwfo0PpETUXxB9k",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106967730",
+            "positions": [
+                {
+                    "title": "Co-Founder and CEO",
+                    "description": "Aaron.ai is the simplest way to automate your business processes by voice - in web, app, voice assistants and phone",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:6583263",
+                        "entityUrn": "urn:li:fs_miniCompany:6583263",
+                        "name": "Aaron.ai",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHXqU-3xb3dHA/company-logo_200_200/company-logo_200_200/0/1695125619069/aaron_ai_logo?e=1747872000&v=beta&t=AEabcckYdff7R1ln9AukSOX3ntlLiLN4g1m_9KMTE10",
+                        "universalName": "aaron-ai",
+                        "dashCompanyUrn": "urn:li:fsd_company:6583263",
+                        "trackingId": "ZDZnhajVR0eciqy+1ylzTQ=="
+                    },
+                    "companyName": "Aaron GmbH"
+                },
+                {
+                    "title": "Senior Associate",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1371",
+                        "entityUrn": "urn:li:fs_miniCompany:1371",
+                        "name": "McKinsey & Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                        "universalName": "mckinsey",
+                        "dashCompanyUrn": "urn:li:fsd_company:1371",
+                        "trackingId": "Kk9gF2+3T5mOEhuxcp+8lA=="
+                    },
+                    "companyName": "McKinsey & Company"
+                },
+                {
+                    "title": "Student Team Project Manager",
+                    "description": "Managed a small project team for an internationalization project of a global player in the consumer goods sector",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Market Research"
+                        ],
+                        "objectUrn": "urn:li:company:2072428",
+                        "entityUrn": "urn:li:fs_miniCompany:2072428",
+                        "name": "CLEVIS Research GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGa4GEeVOoqIA/company-logo_200_200/company-logo_200_200/0/1630584523250/clevis_research_gmbh_logo?e=1747872000&v=beta&t=VKMyq6AHyd4TtQnhqPTpjPJ0PzPZodmscxpABb_FsqI",
+                        "universalName": "clevis-research-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:2072428",
+                        "trackingId": "jPa/CCYUR4KklEJ7NIggAg=="
+                    },
+                    "companyName": "Clevis Research GmbH"
+                },
+                {
+                    "title": "Fellow Intern",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1371",
+                        "entityUrn": "urn:li:fs_miniCompany:1371",
+                        "name": "McKinsey & Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                        "universalName": "mckinsey",
+                        "dashCompanyUrn": "urn:li:fsd_company:1371",
+                        "trackingId": "Bp4HUDrQTeqkRwpCmTcgaQ=="
+                    },
+                    "companyName": "McKinsey & Company"
+                },
+                {
+                    "title": "Active student's union member and representative",
+                    "description": "- Elected member of leadership committee of student's union of University of Mannheim's faculty of Business Administration in 2007 and 2008\n- Elected student's representative in faculty committee of studies for Business Administration in 2009 and 2010\n- Help with the organization of faculty parties\n- Organization of seminar weekends for student's union and for Business Administration Graduate class 2009\n- Organization of graduation gala for Bus. Admin. class 2009",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2006
+                        }
+                    },
+                    "companyName": "Fachschaft BWL"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "M. Sc.",
+                    "fieldOfStudy": "Finance, Entrepreneurship",
+                    "schoolName": "Universität Mannheim",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master",
+                    "fieldOfStudy": "Global Management",
+                    "schoolName": "Queen's University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Study Abroad",
+                    "fieldOfStudy": "Business Administration",
+                    "schoolName": "Universidad de Granada",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Auslandsstipendium",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2010
+                    },
+                    "issuer": "DAAD"
+                },
+                {
+                    "title": "Stipendiat",
+                    "issueDate": {
+                        "month": 1,
+                        "year": 2007
+                    },
+                    "issuer": "Studienstiftung "
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Spanish",
+                "Research",
+                "Data Analysis",
+                "Business Strategy"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder@Aaron.ai | Fighting for humane, instantly accessible healthcare for everyone",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Berlin, Berlin",
+            "geoCountryName": "Germany",
+            "jobTitle": "Co-Founder and CEO",
+            "companyName": "Aaron GmbH",
+            "companyPublicId": "aaron-ai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/aaron-ai",
+            "following": false,
+            "followable": true,
+            "followersCount": 1414,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Aaron GmbH",
+        "position": "Co-Founder and CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder and CEO",
+        "organization": "Aaron GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/tobiaswagenfuehrer/",
+        "company": "https://www.linkedin.com/company/aaron-ai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder and CEO",
+            "description": "Aaron.ai is the simplest way to automate your business processes by voice - in web, app, voice assistants and phone",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:6583263",
+                "entityUrn": "urn:li:fs_miniCompany:6583263",
+                "name": "Aaron.ai",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHXqU-3xb3dHA/company-logo_200_200/company-logo_200_200/0/1695125619069/aaron_ai_logo?e=1747872000&v=beta&t=AEabcckYdff7R1ln9AukSOX3ntlLiLN4g1m_9KMTE10",
+                "universalName": "aaron-ai",
+                "dashCompanyUrn": "urn:li:fsd_company:6583263",
+                "trackingId": "ZDZnhajVR0eciqy+1ylzTQ=="
+            },
+            "companyName": "Aaron GmbH"
+        },
+        {
+            "title": "Senior Associate",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1371",
+                "entityUrn": "urn:li:fs_miniCompany:1371",
+                "name": "McKinsey & Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                "universalName": "mckinsey",
+                "dashCompanyUrn": "urn:li:fsd_company:1371",
+                "trackingId": "Kk9gF2+3T5mOEhuxcp+8lA=="
+            },
+            "companyName": "McKinsey & Company"
+        },
+        {
+            "title": "Student Team Project Manager",
+            "description": "Managed a small project team for an internationalization project of a global player in the consumer goods sector",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Market Research"
+                ],
+                "objectUrn": "urn:li:company:2072428",
+                "entityUrn": "urn:li:fs_miniCompany:2072428",
+                "name": "CLEVIS Research GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGa4GEeVOoqIA/company-logo_200_200/company-logo_200_200/0/1630584523250/clevis_research_gmbh_logo?e=1747872000&v=beta&t=VKMyq6AHyd4TtQnhqPTpjPJ0PzPZodmscxpABb_FsqI",
+                "universalName": "clevis-research-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:2072428",
+                "trackingId": "jPa/CCYUR4KklEJ7NIggAg=="
+            },
+            "companyName": "Clevis Research GmbH"
+        },
+        {
+            "title": "Fellow Intern",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1371",
+                "entityUrn": "urn:li:fs_miniCompany:1371",
+                "name": "McKinsey & Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                "universalName": "mckinsey",
+                "dashCompanyUrn": "urn:li:fsd_company:1371",
+                "trackingId": "Bp4HUDrQTeqkRwpCmTcgaQ=="
+            },
+            "companyName": "McKinsey & Company"
+        },
+        {
+            "title": "Active student's union member and representative",
+            "description": "- Elected member of leadership committee of student's union of University of Mannheim's faculty of Business Administration in 2007 and 2008\n- Elected student's representative in faculty committee of studies for Business Administration in 2009 and 2010\n- Help with the organization of faculty parties\n- Organization of seminar weekends for student's union and for Business Administration Graduate class 2009\n- Organization of graduation gala for Bus. Admin. class 2009",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2006
+                }
+            },
+            "companyName": "Fachschaft BWL"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "M. Sc.",
+            "fieldOfStudy": "Finance, Entrepreneurship",
+            "schoolName": "Universität Mannheim",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        },
+        {
+            "degreeName": "Master",
+            "fieldOfStudy": "Global Management",
+            "schoolName": "Queen's University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "degreeName": "Study Abroad",
+            "fieldOfStudy": "Business Administration",
+            "schoolName": "Universidad de Granada",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Spanish",
+        "Research",
+        "Data Analysis",
+        "Business Strategy"
+    ],
+    "lastEnriched": "2025-02-17"
+}

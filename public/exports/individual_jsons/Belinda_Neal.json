@@ -1,0 +1,431 @@
+{
+    "id": "exp96186934",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Belinda",
+        "lastName": "Neal",
+        "fullName": "Belinda Neal",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQGIBnLGoQygrQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1654018466162?e=1745452800&v=beta&t=QuwKeKKmvtKiNh4AJdcTDeArEE5Qeb44G2WxZ0bEfOk",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "96186934",
+            "profileId": "ACoAAAW7sjYB_0ntAJqtDb7_3RrVRJbgVB1MN5M",
+            "firstName": "Belinda",
+            "lastName": "Neal",
+            "occupation": "Managing Director at Goldman Sachs",
+            "publicIdentifier": "belindaneal",
+            "trackingId": "0WWYeLBBTMKnWOyp/UB2eA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQGIBnLGoQygrQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1654018466162?e=1745452800&v=beta&t=QuwKeKKmvtKiNh4AJdcTDeArEE5Qeb44G2WxZ0bEfOk",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102571732",
+            "positions": [
+                {
+                    "title": "Board Member",
+                    "locationName": "New York, New York, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:10631560",
+                        "entityUrn": "urn:li:fs_miniCompany:10631560",
+                        "name": "Tech:NYC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFwzjSa2VsNvA/company-logo_200_200/company-logo_200_200/0/1631352648815?e=1747872000&v=beta&t=rTcpQiks3pwp-MVBD3XZJAPfdmvumZHe1-n4S-W0fmc",
+                        "universalName": "tech-nyc",
+                        "dashCompanyUrn": "urn:li:fsd_company:10631560",
+                        "trackingId": "8CWzc1bMRL6YxyTOYcJEnw=="
+                    },
+                    "companyName": "Tech:NYC"
+                },
+                {
+                    "title": "Chief Operating Officer and Head of Product, Core Engineering, Managing Director",
+                    "locationName": "New York, New York, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1382",
+                        "entityUrn": "urn:li:fs_miniCompany:1382",
+                        "name": "Goldman Sachs",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_200_200/company-logo_200_200/0/1722506756452/goldman_sachs_logo?e=1747872000&v=beta&t=yaJMXZbBpMhoT8wZx_oZ_7Bgs8Y45HWBl_YsW77xCxw",
+                        "universalName": "goldman-sachs",
+                        "dashCompanyUrn": "urn:li:fsd_company:1382",
+                        "trackingId": "cK7XdZBKSm2Zug1IL3ypoQ=="
+                    },
+                    "companyName": "Goldman Sachs"
+                },
+                {
+                    "title": "GS Value Accelerator - Operating Advisor",
+                    "description": "https://www.valueaccelerator.gs.com",
+                    "locationName": "New York, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1382",
+                        "entityUrn": "urn:li:fs_miniCompany:1382",
+                        "name": "Goldman Sachs",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_200_200/company-logo_200_200/0/1722506756452/goldman_sachs_logo?e=1747872000&v=beta&t=yaJMXZbBpMhoT8wZx_oZ_7Bgs8Y45HWBl_YsW77xCxw",
+                        "universalName": "goldman-sachs",
+                        "dashCompanyUrn": "urn:li:fsd_company:1382",
+                        "trackingId": "5V3Da2bATr2kZcq7Nj9Z0Q=="
+                    },
+                    "companyName": "Goldman Sachs"
+                },
+                {
+                    "title": "Head of Engineering Partnerships, Managing Director",
+                    "description": "Engineering Partnerships including, Technology Business Development, GS Innovation Center, Engineering Vendor Program Office. Focus on Generative AI, AI/ML, Cloud, Data Management, Client Experience.",
+                    "locationName": "New York, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1382",
+                        "entityUrn": "urn:li:fs_miniCompany:1382",
+                        "name": "Goldman Sachs",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_200_200/company-logo_200_200/0/1722506756452/goldman_sachs_logo?e=1747872000&v=beta&t=yaJMXZbBpMhoT8wZx_oZ_7Bgs8Y45HWBl_YsW77xCxw",
+                        "universalName": "goldman-sachs",
+                        "dashCompanyUrn": "urn:li:fsd_company:1382",
+                        "trackingId": "eUCfTpTZSOG0RsvFZuHIZA=="
+                    },
+                    "companyName": "Goldman Sachs"
+                },
+                {
+                    "title": "Chief Of Staff to Chief Information Officer (CIO), Managing Director",
+                    "locationName": "New York, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1382",
+                        "entityUrn": "urn:li:fs_miniCompany:1382",
+                        "name": "Goldman Sachs",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_200_200/company-logo_200_200/0/1722506756452/goldman_sachs_logo?e=1747872000&v=beta&t=yaJMXZbBpMhoT8wZx_oZ_7Bgs8Y45HWBl_YsW77xCxw",
+                        "universalName": "goldman-sachs",
+                        "dashCompanyUrn": "urn:li:fsd_company:1382",
+                        "trackingId": "aKWVx9mKQEm2dYK7dSvTWA=="
+                    },
+                    "companyName": "Goldman Sachs"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Business Administration - MBA",
+                    "fieldOfStudy": "Business Administration and Management, General",
+                    "schoolName": "London Business School"
+                },
+                {
+                    "degreeName": "MBA Elective Exchange Program",
+                    "schoolName": "Columbia Business School"
+                },
+                {
+                    "degreeName": "Bachelor of Science (B.Sc.) (Hons)",
+                    "fieldOfStudy": "Chemistry",
+                    "schoolName": "Macquarie University"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "London Business School Student Award",
+                    "issueDate": {
+                        "month": 7,
+                        "year": 2017
+                    },
+                    "issuer": "London Business School"
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Artificial Intelligence (AI)",
+                "People Management",
+                "Digital Strategy",
+                "Business Strategy"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Managing Director at Goldman Sachs",
+            "student": false,
+            "industryName": "Financial Services",
+            "industryUrn": "urn:li:fs_industry:43",
+            "geoLocationName": "New York, New York",
+            "geoCountryName": "United States",
+            "jobTitle": "Board Member",
+            "companyName": "Tech:NYC",
+            "companyPublicId": "tech-nyc",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/tech-nyc",
+            "following": false,
+            "followable": true,
+            "followersCount": 1981,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Tech:NYC",
+        "position": "Board Member",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Board Member",
+        "organization": "Tech:NYC",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/belindaneal/",
+        "company": "https://www.linkedin.com/company/tech-nyc"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Board Member",
+            "locationName": "New York, New York, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:10631560",
+                "entityUrn": "urn:li:fs_miniCompany:10631560",
+                "name": "Tech:NYC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFwzjSa2VsNvA/company-logo_200_200/company-logo_200_200/0/1631352648815?e=1747872000&v=beta&t=rTcpQiks3pwp-MVBD3XZJAPfdmvumZHe1-n4S-W0fmc",
+                "universalName": "tech-nyc",
+                "dashCompanyUrn": "urn:li:fsd_company:10631560",
+                "trackingId": "8CWzc1bMRL6YxyTOYcJEnw=="
+            },
+            "companyName": "Tech:NYC"
+        },
+        {
+            "title": "Chief Operating Officer and Head of Product, Core Engineering, Managing Director",
+            "locationName": "New York, New York, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1382",
+                "entityUrn": "urn:li:fs_miniCompany:1382",
+                "name": "Goldman Sachs",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_200_200/company-logo_200_200/0/1722506756452/goldman_sachs_logo?e=1747872000&v=beta&t=yaJMXZbBpMhoT8wZx_oZ_7Bgs8Y45HWBl_YsW77xCxw",
+                "universalName": "goldman-sachs",
+                "dashCompanyUrn": "urn:li:fsd_company:1382",
+                "trackingId": "cK7XdZBKSm2Zug1IL3ypoQ=="
+            },
+            "companyName": "Goldman Sachs"
+        },
+        {
+            "title": "GS Value Accelerator - Operating Advisor",
+            "description": "https://www.valueaccelerator.gs.com",
+            "locationName": "New York, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1382",
+                "entityUrn": "urn:li:fs_miniCompany:1382",
+                "name": "Goldman Sachs",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_200_200/company-logo_200_200/0/1722506756452/goldman_sachs_logo?e=1747872000&v=beta&t=yaJMXZbBpMhoT8wZx_oZ_7Bgs8Y45HWBl_YsW77xCxw",
+                "universalName": "goldman-sachs",
+                "dashCompanyUrn": "urn:li:fsd_company:1382",
+                "trackingId": "5V3Da2bATr2kZcq7Nj9Z0Q=="
+            },
+            "companyName": "Goldman Sachs"
+        },
+        {
+            "title": "Head of Engineering Partnerships, Managing Director",
+            "description": "Engineering Partnerships including, Technology Business Development, GS Innovation Center, Engineering Vendor Program Office. Focus on Generative AI, AI/ML, Cloud, Data Management, Client Experience.",
+            "locationName": "New York, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1382",
+                "entityUrn": "urn:li:fs_miniCompany:1382",
+                "name": "Goldman Sachs",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_200_200/company-logo_200_200/0/1722506756452/goldman_sachs_logo?e=1747872000&v=beta&t=yaJMXZbBpMhoT8wZx_oZ_7Bgs8Y45HWBl_YsW77xCxw",
+                "universalName": "goldman-sachs",
+                "dashCompanyUrn": "urn:li:fsd_company:1382",
+                "trackingId": "eUCfTpTZSOG0RsvFZuHIZA=="
+            },
+            "companyName": "Goldman Sachs"
+        },
+        {
+            "title": "Chief Of Staff to Chief Information Officer (CIO), Managing Director",
+            "locationName": "New York, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1382",
+                "entityUrn": "urn:li:fs_miniCompany:1382",
+                "name": "Goldman Sachs",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG9L7InIQVZrQ/company-logo_200_200/company-logo_200_200/0/1722506756452/goldman_sachs_logo?e=1747872000&v=beta&t=yaJMXZbBpMhoT8wZx_oZ_7Bgs8Y45HWBl_YsW77xCxw",
+                "universalName": "goldman-sachs",
+                "dashCompanyUrn": "urn:li:fsd_company:1382",
+                "trackingId": "aKWVx9mKQEm2dYK7dSvTWA=="
+            },
+            "companyName": "Goldman Sachs"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Business Administration - MBA",
+            "fieldOfStudy": "Business Administration and Management, General",
+            "schoolName": "London Business School"
+        },
+        {
+            "degreeName": "MBA Elective Exchange Program",
+            "schoolName": "Columbia Business School"
+        },
+        {
+            "degreeName": "Bachelor of Science (B.Sc.) (Hons)",
+            "fieldOfStudy": "Chemistry",
+            "schoolName": "Macquarie University"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Artificial Intelligence (AI)",
+        "People Management",
+        "Digital Strategy",
+        "Business Strategy"
+    ],
+    "lastEnriched": "2025-02-17"
+}

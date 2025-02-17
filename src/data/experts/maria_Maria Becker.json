@@ -1,0 +1,129 @@
+{
+    "id": "exp120962426",
+    "personalInfo": {
+        "title": null,
+        "firstName": "maria",
+        "lastName": "Maria Becker",
+        "fullName": "maria Maria Becker",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "120962426",
+            "profileId": "ACoAAAc1vXoBQf1BoRNkdEkF1UV_X7I0Ombh5Fk",
+            "firstName": "maria",
+            "lastName": "Maria Becker",
+            "occupation": "Dr at UCLA",
+            "publicIdentifier": "maria-maria-becker-4a261534",
+            "trackingId": "XwZfT13JTJCqBqn3nnkLag==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:106002613",
+            "positions": [
+                {
+                    "title": "Dr",
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:2477",
+                        "entityUrn": "urn:li:fs_miniCompany:2477",
+                        "name": "UCLA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_200_200/company-logo_200_200/0/1688403831517/ucla_logo?e=1747872000&v=beta&t=4Nybbk_FDxKOdTJa0r_JSD-ZxRV_b5QeSyCjDgngPYQ",
+                        "universalName": "ucla",
+                        "dashCompanyUrn": "urn:li:fsd_company:2477",
+                        "trackingId": "Rn5LcK2TQXSjR95+uISQBQ=="
+                    },
+                    "companyName": "UCLA"
+                }
+            ],
+            "educations": [],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Dr at UCLA",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Maidens, Virginia",
+            "geoCountryName": "United States",
+            "jobTitle": "Dr",
+            "companyName": "UCLA",
+            "companyPublicId": "ucla",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ucla",
+            "following": false,
+            "followable": true,
+            "followersCount": 16,
+            "connectionsCount": 16,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "UCLA",
+        "position": "Dr",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Dr",
+        "organization": "UCLA",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/maria-maria-becker-4a261534/",
+        "company": "https://www.linkedin.com/company/ucla"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Dr",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:2477",
+                "entityUrn": "urn:li:fs_miniCompany:2477",
+                "name": "UCLA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_200_200/company-logo_200_200/0/1688403831517/ucla_logo?e=1747872000&v=beta&t=4Nybbk_FDxKOdTJa0r_JSD-ZxRV_b5QeSyCjDgngPYQ",
+                "universalName": "ucla",
+                "dashCompanyUrn": "urn:li:fsd_company:2477",
+                "trackingId": "Rn5LcK2TQXSjR95+uISQBQ=="
+            },
+            "companyName": "UCLA"
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

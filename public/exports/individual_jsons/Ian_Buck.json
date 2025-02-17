@@ -1,0 +1,341 @@
+{
+    "id": "exp50787902",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Ian",
+        "lastName": "Buck",
+        "fullName": "Ian Buck",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQE_kgZ5JXPsnw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516550745576?e=1745452800&v=beta&t=bERXumjIDMUcjGvnujf_vuA5Muw0_l8iqmMaKpniWjI",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "50787902",
+            "profileId": "ACoAAAMG9j4BKec0WDsYohza8ek_HDu8GLjrvfA",
+            "firstName": "Ian",
+            "lastName": "Buck",
+            "occupation": "VP / General Manager, Hyperscale and HPC - NVIDIA",
+            "publicIdentifier": "ian-buck-19201315",
+            "trackingId": "hm+oMIeBQ/691kcM+oCFiQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQE_kgZ5JXPsnw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516550745576?e=1745452800&v=beta&t=bERXumjIDMUcjGvnujf_vuA5Muw0_l8iqmMaKpniWjI",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:100075706",
+            "positions": [
+                {
+                    "title": "VP / General Manager",
+                    "description": "VP / General Manager, Data Center business unit, responsible for GPU product lines for cloud and HPC",
+                    "locationName": "Santa Clara, CA",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Hardware"
+                        ],
+                        "objectUrn": "urn:li:company:3608",
+                        "entityUrn": "urn:li:fs_miniCompany:3608",
+                        "name": "NVIDIA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7YExLMK6L2Q/company-logo_200_200/company-logo_200_200/0/1724879902635/nvidia_logo?e=1747872000&v=beta&t=hMuRj7bLpkk_AwMX1S19QtD51ZjQUJUfJFaK_9LIFRE",
+                        "universalName": "nvidia",
+                        "dashCompanyUrn": "urn:li:fsd_company:3608",
+                        "trackingId": "qmgoTXr3RruqbGB+auzDYA=="
+                    },
+                    "companyName": "NVIDIA"
+                },
+                {
+                    "title": "Systems Engineer/Director",
+                    "locationName": "Santa Clara, CA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2004
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Hardware"
+                        ],
+                        "objectUrn": "urn:li:company:3608",
+                        "entityUrn": "urn:li:fs_miniCompany:3608",
+                        "name": "NVIDIA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7YExLMK6L2Q/company-logo_200_200/company-logo_200_200/0/1724879902635/nvidia_logo?e=1747872000&v=beta&t=hMuRj7bLpkk_AwMX1S19QtD51ZjQUJUfJFaK_9LIFRE",
+                        "universalName": "nvidia",
+                        "dashCompanyUrn": "urn:li:fsd_company:3608",
+                        "trackingId": "br/4HjajQ4uYASDFgwItrA=="
+                    },
+                    "companyName": "NVIDIA"
+                },
+                {
+                    "title": "Graphics Engineer",
+                    "locationName": "Mountain View, CA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 1997
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Computer Hardware"
+                        ],
+                        "objectUrn": "urn:li:company:1972",
+                        "entityUrn": "urn:li:fs_miniCompany:1972",
+                        "name": "SGI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFOLF_fxds3BA/company-logo_200_200/company-logo_200_200/0/1631331877392?e=1747872000&v=beta&t=H6Eg2x_iARipBlOy5ZQ1BlTDaIi98gk64l292QTNxd4",
+                        "universalName": "sgi",
+                        "dashCompanyUrn": "urn:li:fsd_company:1972",
+                        "trackingId": "2HX3UFDyQKqCBFEE5j2pXw=="
+                    },
+                    "companyName": "SGI"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Ph.D.",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Stanford University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BSE",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Princeton University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "GPGPU",
+                "GPU",
+                "CUDA",
+                "High Performance Computing"
+            ],
+            "volunteerExperiences": [],
+            "headline": "VP / General Manager, Hyperscale and HPC - NVIDIA",
+            "summary": "VP / General Manager, of NVIDIA's Hyperscale and HPC Computing Business.  A multi-billion dollar business unit which includes NVIDIA datacenter GPU products for AI & HPC.\n\nInventor of CUDA, the established standard for GPU Computing worldwide.   Built engineering team from two people into international and matrixed organization in numerical libraries, compilers, system software, IDEs, profilers, debuggers, APIs, QA, build and release, and AI frameworks.\n\nBroad expertise in  Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Simulation, and HPC.",
+            "student": false,
+            "industryName": "Computer Hardware",
+            "industryUrn": "urn:li:fs_industry:3",
+            "geoLocationName": "Santa Clara, California",
+            "geoCountryName": "United States",
+            "jobTitle": "VP / General Manager",
+            "companyName": "NVIDIA",
+            "companyPublicId": "nvidia",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/nvidia",
+            "following": false,
+            "followable": false,
+            "followersCount": 1028,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "NVIDIA",
+        "position": "VP / General Manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Hardware"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP / General Manager",
+        "organization": "NVIDIA",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/ian-buck-19201315/",
+        "company": "https://www.linkedin.com/company/nvidia"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP / General Manager",
+            "description": "VP / General Manager, Data Center business unit, responsible for GPU product lines for cloud and HPC",
+            "locationName": "Santa Clara, CA",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Hardware"
+                ],
+                "objectUrn": "urn:li:company:3608",
+                "entityUrn": "urn:li:fs_miniCompany:3608",
+                "name": "NVIDIA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7YExLMK6L2Q/company-logo_200_200/company-logo_200_200/0/1724879902635/nvidia_logo?e=1747872000&v=beta&t=hMuRj7bLpkk_AwMX1S19QtD51ZjQUJUfJFaK_9LIFRE",
+                "universalName": "nvidia",
+                "dashCompanyUrn": "urn:li:fsd_company:3608",
+                "trackingId": "qmgoTXr3RruqbGB+auzDYA=="
+            },
+            "companyName": "NVIDIA"
+        },
+        {
+            "title": "Systems Engineer/Director",
+            "locationName": "Santa Clara, CA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2004
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Hardware"
+                ],
+                "objectUrn": "urn:li:company:3608",
+                "entityUrn": "urn:li:fs_miniCompany:3608",
+                "name": "NVIDIA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7YExLMK6L2Q/company-logo_200_200/company-logo_200_200/0/1724879902635/nvidia_logo?e=1747872000&v=beta&t=hMuRj7bLpkk_AwMX1S19QtD51ZjQUJUfJFaK_9LIFRE",
+                "universalName": "nvidia",
+                "dashCompanyUrn": "urn:li:fsd_company:3608",
+                "trackingId": "br/4HjajQ4uYASDFgwItrA=="
+            },
+            "companyName": "NVIDIA"
+        },
+        {
+            "title": "Graphics Engineer",
+            "locationName": "Mountain View, CA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 1998
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 1997
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Hardware"
+                ],
+                "objectUrn": "urn:li:company:1972",
+                "entityUrn": "urn:li:fs_miniCompany:1972",
+                "name": "SGI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFOLF_fxds3BA/company-logo_200_200/company-logo_200_200/0/1631331877392?e=1747872000&v=beta&t=H6Eg2x_iARipBlOy5ZQ1BlTDaIi98gk64l292QTNxd4",
+                "universalName": "sgi",
+                "dashCompanyUrn": "urn:li:fsd_company:1972",
+                "trackingId": "2HX3UFDyQKqCBFEE5j2pXw=="
+            },
+            "companyName": "SGI"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Ph.D.",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Stanford University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        },
+        {
+            "degreeName": "BSE",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Princeton University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "GPGPU",
+        "GPU",
+        "CUDA",
+        "High Performance Computing"
+    ],
+    "lastEnriched": "2025-02-17"
+}

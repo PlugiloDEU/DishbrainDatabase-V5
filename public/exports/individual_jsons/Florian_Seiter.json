@@ -1,0 +1,440 @@
+{
+    "id": "exp613774270",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Florian",
+        "lastName": "Seiter",
+        "fullName": "Florian Seiter",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQEZAHBIh8JZcA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517890688593?e=1745452800&v=beta&t=F2L3wPj8UysE-ewvqEHiLtrrfL-QgJLch0Giedfb2YU",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch"
+        ],
+        "allData": {
+            "id": "613774270",
+            "profileId": "ACoAACSVc74BJPrICEHGahYE0Rm2aI0Hv23xxHw",
+            "firstName": "Florian",
+            "lastName": "Seiter",
+            "occupation": "Rechtsanwalt im Bereich IP, IT und Medien",
+            "publicIdentifier": "florian-seiter-53a675151",
+            "trackingId": "3tkYF2BVTQamVzYdEdPS8A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEZAHBIh8JZcA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517890688593?e=1745452800&v=beta&t=F2L3wPj8UysE-ewvqEHiLtrrfL-QgJLch0Giedfb2YU",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Rechtsanwalt",
+                    "description": "Bereich: IP, IT und Medien",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:18030326",
+                        "entityUrn": "urn:li:fs_miniCompany:18030326",
+                        "name": "Heussen Rechtsanwaltsgesellschaft mbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaG_JX3nbQDw/company-logo_200_200/company-logo_200_200/0/1695202112274/heussengermany_logo?e=1747872000&v=beta&t=-AnbBgXHvTwN0ACGeRT_XuMvxOk7X4GUjsisarWND9E",
+                        "universalName": "heussengermany",
+                        "dashCompanyUrn": "urn:li:fsd_company:18030326",
+                        "trackingId": "3fIsfyN+RFOmoqw+rZggHg=="
+                    },
+                    "companyName": "HEUSSEN Rechtsanwaltsgesellschaft mbH"
+                },
+                {
+                    "title": "Wissenschaftlicher Mitarbeiter",
+                    "description": "Bereich: IT und Datenschutz",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:318488",
+                        "entityUrn": "urn:li:fs_miniCompany:318488",
+                        "name": "Bird & Bird",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGikjbt6-YYKw/company-logo_200_200/company-logo_200_200/0/1719830161461/bird__bird_llp_logo?e=1747872000&v=beta&t=ZgV56fIg6sj4RS6lCF2d-oR5FaTyXyRHWC4UPk4SoVs",
+                        "universalName": "bird-&-bird-llp",
+                        "dashCompanyUrn": "urn:li:fsd_company:318488",
+                        "trackingId": "A7NsiX1nQDW65QyfZV1nSQ=="
+                    },
+                    "companyName": "Bird & Bird"
+                },
+                {
+                    "title": "Rechtsreferendar",
+                    "description": "Stationen: Landgericht Ulm, Staatsanwaltschaft Ulm, Heussen Rechtsanwaltsgesellschaft mbH und Bayerische Landeszentrale für neue Medien (BLM)",
+                    "locationName": "Ulm",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:7490126",
+                        "entityUrn": "urn:li:fs_miniCompany:7490126",
+                        "name": "Oberlandesgericht Stuttgart",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "oberlandesgericht-stuttgart",
+                        "dashCompanyUrn": "urn:li:fsd_company:7490126",
+                        "trackingId": "2pnfbSRbTMaZgjhwBz+L5Q=="
+                    },
+                    "companyName": "Oberlandesgericht Stuttgart"
+                },
+                {
+                    "title": "Wissenschaftlicher Mitarbeiter",
+                    "description": "Bereich: IP, IT und Medien",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:18030326",
+                        "entityUrn": "urn:li:fs_miniCompany:18030326",
+                        "name": "Heussen Rechtsanwaltsgesellschaft mbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaG_JX3nbQDw/company-logo_200_200/company-logo_200_200/0/1695202112274/heussengermany_logo?e=1747872000&v=beta&t=-AnbBgXHvTwN0ACGeRT_XuMvxOk7X4GUjsisarWND9E",
+                        "universalName": "heussengermany",
+                        "dashCompanyUrn": "urn:li:fsd_company:18030326",
+                        "trackingId": "SVxp0AXbRCyqAe8vgTClkg=="
+                    },
+                    "companyName": "Heussen Rechtsanwaltsgesellschaft mbH"
+                },
+                {
+                    "title": "Studentische Hilfskraft",
+                    "description": "Bereich: Internetrecht",
+                    "locationName": "Universität Passau",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Lehrstuhl für Öffentliches Recht, Sicherheitsrecht  und Internetrecht – Prof. Dr. Dirk Heckmann"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Zweites Staatsexamen",
+                    "fieldOfStudy": "Rechtswissenschaft",
+                    "schoolName": "Oberlandesgericht Stuttgart",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Erstes Staatsexamen",
+                    "fieldOfStudy": "Rechtswissenschaft",
+                    "schoolName": "Universität Passau",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Rechtsanwalt im Bereich IP, IT und Medien",
+            "summary": "Ich bin seit 2021 Rechtsanwalt am Münchener Standort von HEUSSEN und dort in der Praxisgruppe IT, IP und Medienrecht tätig. Mit den verschiedenen Bereichen des IT-, IP- und Medienrechts beschäftige ich mich bereits seit meinem Studium.\n\n---\n\nImpressum:\nFlorian Seiter, Rechtsanwalt bei HEUSSEN Rechtsanwaltsgesellschaft mbH\n\nAdresse: \nBrienner Straße 9 / Amiraplatz, 80333 München, Germany\nTel: +49 (0)89 29 09 70\nFax: +49 (0)89 29 09 7200\nE-Mail: florian.seiter[\"at\"]heussen-law.de \n\nStaat der Zulassung: \nBundesrepublik Deutschland\n\nZuständige Kammer (zugleich Aufsichtsbehörde): \nRechtsanwaltskammer für den Oberlandesgerichtsbezirk München\nKörperschaft des öffentlichen Rechts:\nTal 33, 80331 München \nTel.: +49 (0)89 53 29 44-0 \nFax: +49 (0)89 53 29 44-28 \n\nBerufsrechtliche Regelungen:\n-Bundesrechtsanwaltsordnung (BRAO)\n-Berufsordnung für Rechtsanwälte (BORA)\n-Fachanwaltsordnungen der Bundesrechtsanwaltskammer (FAO)\n-Gesetz über die Tätigkeit europäischer Rechtsanwälte in Deutschland (EuRAG)\n-Berufsregeln der Rechtsanwälte der Europäischen Union (CCBE)\n-Gesetz über die Vergütung von Rechtsanwältinnen und Rechtsanwälten (RVG)\n\nDie vorgenannten und weitere anwendbare Vorschriften können Sie auf der Webseite der Bundesrechtsanwaltskammer unter www.brak.de unter „Berufsrecht“ finden und nachlesen.",
+            "student": false,
+            "industryName": "Law Practice",
+            "industryUrn": "urn:li:fs_industry:9",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Rechtsanwalt",
+            "companyName": "HEUSSEN Rechtsanwaltsgesellschaft mbH",
+            "companyPublicId": "heussengermany",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/heussengermany",
+            "following": false,
+            "followable": true,
+            "followersCount": 160,
+            "connectionsCount": 156,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "HEUSSEN Rechtsanwaltsgesellschaft mbH",
+        "position": "Rechtsanwalt",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Law Practice"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Rechtsanwalt",
+        "organization": "HEUSSEN Rechtsanwaltsgesellschaft mbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/florian-seiter-53a675151/",
+        "company": "https://www.linkedin.com/company/heussengermany"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Rechtsanwalt",
+            "description": "Bereich: IP, IT und Medien",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:18030326",
+                "entityUrn": "urn:li:fs_miniCompany:18030326",
+                "name": "Heussen Rechtsanwaltsgesellschaft mbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaG_JX3nbQDw/company-logo_200_200/company-logo_200_200/0/1695202112274/heussengermany_logo?e=1747872000&v=beta&t=-AnbBgXHvTwN0ACGeRT_XuMvxOk7X4GUjsisarWND9E",
+                "universalName": "heussengermany",
+                "dashCompanyUrn": "urn:li:fsd_company:18030326",
+                "trackingId": "3fIsfyN+RFOmoqw+rZggHg=="
+            },
+            "companyName": "HEUSSEN Rechtsanwaltsgesellschaft mbH"
+        },
+        {
+            "title": "Wissenschaftlicher Mitarbeiter",
+            "description": "Bereich: IT und Datenschutz",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:318488",
+                "entityUrn": "urn:li:fs_miniCompany:318488",
+                "name": "Bird & Bird",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGikjbt6-YYKw/company-logo_200_200/company-logo_200_200/0/1719830161461/bird__bird_llp_logo?e=1747872000&v=beta&t=ZgV56fIg6sj4RS6lCF2d-oR5FaTyXyRHWC4UPk4SoVs",
+                "universalName": "bird-&-bird-llp",
+                "dashCompanyUrn": "urn:li:fsd_company:318488",
+                "trackingId": "A7NsiX1nQDW65QyfZV1nSQ=="
+            },
+            "companyName": "Bird & Bird"
+        },
+        {
+            "title": "Rechtsreferendar",
+            "description": "Stationen: Landgericht Ulm, Staatsanwaltschaft Ulm, Heussen Rechtsanwaltsgesellschaft mbH und Bayerische Landeszentrale für neue Medien (BLM)",
+            "locationName": "Ulm",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:7490126",
+                "entityUrn": "urn:li:fs_miniCompany:7490126",
+                "name": "Oberlandesgericht Stuttgart",
+                "showcase": false,
+                "active": true,
+                "universalName": "oberlandesgericht-stuttgart",
+                "dashCompanyUrn": "urn:li:fsd_company:7490126",
+                "trackingId": "2pnfbSRbTMaZgjhwBz+L5Q=="
+            },
+            "companyName": "Oberlandesgericht Stuttgart"
+        },
+        {
+            "title": "Wissenschaftlicher Mitarbeiter",
+            "description": "Bereich: IP, IT und Medien",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:18030326",
+                "entityUrn": "urn:li:fs_miniCompany:18030326",
+                "name": "Heussen Rechtsanwaltsgesellschaft mbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaG_JX3nbQDw/company-logo_200_200/company-logo_200_200/0/1695202112274/heussengermany_logo?e=1747872000&v=beta&t=-AnbBgXHvTwN0ACGeRT_XuMvxOk7X4GUjsisarWND9E",
+                "universalName": "heussengermany",
+                "dashCompanyUrn": "urn:li:fsd_company:18030326",
+                "trackingId": "SVxp0AXbRCyqAe8vgTClkg=="
+            },
+            "companyName": "Heussen Rechtsanwaltsgesellschaft mbH"
+        },
+        {
+            "title": "Studentische Hilfskraft",
+            "description": "Bereich: Internetrecht",
+            "locationName": "Universität Passau",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "companyName": "Lehrstuhl für Öffentliches Recht, Sicherheitsrecht  und Internetrecht – Prof. Dr. Dirk Heckmann"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Zweites Staatsexamen",
+            "fieldOfStudy": "Rechtswissenschaft",
+            "schoolName": "Oberlandesgericht Stuttgart",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "Erstes Staatsexamen",
+            "fieldOfStudy": "Rechtswissenschaft",
+            "schoolName": "Universität Passau",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

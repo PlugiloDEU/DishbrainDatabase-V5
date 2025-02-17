@@ -1,0 +1,373 @@
+{
+    "id": "exp788186280",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sophie",
+        "lastName": "Wagner",
+        "fullName": "Sophie Wagner",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQHAuS2EyklorQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692809032038?e=1745452800&v=beta&t=-V72zzOurCSDPckOXPKqKbMm3PdwvDwoIYgfJXBlEwE",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "788186280",
+            "profileId": "ACoAAC76xKgBBYMEwN9N5zKl38BP6vTB0q0c_gY",
+            "firstName": "Sophie",
+            "lastName": "Wagner",
+            "occupation": "Research Analyst at CUIMC | M.S. in Data Science Student at Columbia Engineering",
+            "publicIdentifier": "sophie-wagner-cu",
+            "trackingId": "nOcOPItrQSym+mx6nLi08A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHAuS2EyklorQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692809032038?e=1745452800&v=beta&t=-V72zzOurCSDPckOXPKqKbMm3PdwvDwoIYgfJXBlEwE",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGGSCQgTNEOnA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1692808348579?e=1745452800&v=beta&t=w6dHUaHbbJ1yFtBElhy-0ikYx9UlS8x-USsFhpe1suY",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102571732",
+            "positions": [
+                {
+                    "title": "Research Analyst",
+                    "description": "• Developed Markov cohort models in Python and TreeAge to evaluate colorectal cancer (CRC) screening strategies for (1) potential to increase protocol adherence in the U.S. and (2) feasibility of implementing screening in the Dominican Republic\n• Directed lab's utilization of the SEER-Medicare database and developed SAS data cleaning scripts to support the design of retrospective cohort studies on gastrointestinal cancer outcomes\n• Performed micro-costing for a clinical pediatric obesity program and designed a Markov model in Python to determine cost-effectiveness of implementation\n• Advanced the development of the esophageal adenocarcinoma microsimulation model (EACMo) to support improved cancer prevention and management strategies",
+                    "locationName": "New York, New York, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:2623",
+                        "entityUrn": "urn:li:fs_miniCompany:2623",
+                        "name": "Columbia University Irving Medical Center",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGkDORuw2xKnA/company-logo_200_200/company-logo_200_200/0/1656689553384?e=1747872000&v=beta&t=hx61hmR--Jdm5LBkyxIrBAJ2t0omyn6FiJze7mwJOBw",
+                        "universalName": "columbiamed",
+                        "dashCompanyUrn": "urn:li:fsd_company:2623",
+                        "trackingId": "2jacUtO3Tj+PEoBSPnBLNQ=="
+                    },
+                    "companyName": "Columbia University Irving Medical Center"
+                },
+                {
+                    "title": "Research Assistant",
+                    "description": "• Conducted research in collaboration with Professor David Singerman, focusing on scientific innovation and knowledge dissemination patterns within the U.S. sugar empire during the late 19th century\n• Analyzed historical texts, transcribed materials, and primary sources\n• Created and managed a database for efficient text and network analysis of historical data",
+                    "locationName": "Charlottesville, Virginia, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4298",
+                        "entityUrn": "urn:li:fs_miniCompany:4298",
+                        "name": "University of Virginia",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPXxfaisprvA/company-logo_200_200/company-logo_200_200/0/1712014926451?e=1747872000&v=beta&t=LBIh38KayZh802ns4RBou01W6H5fx06FIT67THFJ4DQ",
+                        "universalName": "university-of-virginia",
+                        "dashCompanyUrn": "urn:li:fsd_company:4298",
+                        "trackingId": "i3jix5ejSHaNIkzEKnPjJQ=="
+                    },
+                    "companyName": "University of Virginia"
+                },
+                {
+                    "title": "Data Analytics Business Intelligence Intern",
+                    "description": "• Tested and improved functionality of Tableau dashboards for clients in healthcare industry \n• Acquired proficiency in Azure Databricks; constructed user guide with optimized data cleaning and validation procedures, reducing load of future machine learning ventures",
+                    "locationName": "McLean, Virginia, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Accounting"
+                        ],
+                        "objectUrn": "urn:li:company:3743",
+                        "entityUrn": "urn:li:fs_miniCompany:3743",
+                        "name": "RSM US LLP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHxq8HXIBPJjA/company-logo_200_200/company-logo_200_200/0/1719934153474/rsm_us_llp_logo?e=1747872000&v=beta&t=InA5qvx4YZM3A4KJ7R2wVQRvxx0CUJ2-NKCG6nja3sg",
+                        "universalName": "rsm-us-llp",
+                        "dashCompanyUrn": "urn:li:fsd_company:3743",
+                        "trackingId": "F0zessX+SLKzEfaEW+3+aA=="
+                    },
+                    "companyName": "RSM US LLP"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor's degree",
+                    "fieldOfStudy": "Statistics & Global Development Studies",
+                    "schoolName": "University of Virginia",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "year": 2018
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "Data Science",
+                    "schoolName": "Columbia University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2025
+                        },
+                        "startDate": {
+                            "year": 2023
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Statistics",
+                "Natural Language Processing (NLP)",
+                "Deep Learning",
+                "PyTorch"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Tutor, Sin Barreras ",
+                    "description": "Taught English as a second language to individuals in the Charlottesville community. ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Madison House | Charlottesville, VA",
+                    "cause": "CIVIL_RIGHTS"
+                }
+            ],
+            "headline": "Research Analyst at CUIMC | M.S. in Data Science Student at Columbia Engineering",
+            "summary": "I am a full-time research analyst at CUIMC and part-time graduate student in Data Science at Columbia University School of Engineering. I have a passion for community health and development, and am interested in leveraging data science tools to inform policy decisions surrounding these issues. At CUIMC, I perform cost-effective analysis to assess various health interventions, including cancer screening strategies. Last year, I began my Master of Science in Data Science, where I am honing my modelling and machine learning skills.",
+            "student": false,
+            "industryName": "Government Administration",
+            "industryUrn": "urn:li:fs_industry:75",
+            "geoLocationName": "New York, New York",
+            "geoCountryName": "United States",
+            "jobTitle": "Research Analyst",
+            "companyName": "Columbia University Irving Medical Center",
+            "companyPublicId": "columbiamed",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/columbiamed",
+            "following": false,
+            "followable": true,
+            "followersCount": 418,
+            "connectionsCount": 415,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Columbia University Irving Medical Center",
+        "position": "Research Analyst",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Hospital & Health Care"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Research Analyst",
+        "organization": "Columbia University Irving Medical Center",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sophie-wagner-cu/",
+        "company": "https://www.linkedin.com/company/columbiamed"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Research Analyst",
+            "description": "• Developed Markov cohort models in Python and TreeAge to evaluate colorectal cancer (CRC) screening strategies for (1) potential to increase protocol adherence in the U.S. and (2) feasibility of implementing screening in the Dominican Republic\n• Directed lab's utilization of the SEER-Medicare database and developed SAS data cleaning scripts to support the design of retrospective cohort studies on gastrointestinal cancer outcomes\n• Performed micro-costing for a clinical pediatric obesity program and designed a Markov model in Python to determine cost-effectiveness of implementation\n• Advanced the development of the esophageal adenocarcinoma microsimulation model (EACMo) to support improved cancer prevention and management strategies",
+            "locationName": "New York, New York, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:2623",
+                "entityUrn": "urn:li:fs_miniCompany:2623",
+                "name": "Columbia University Irving Medical Center",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGkDORuw2xKnA/company-logo_200_200/company-logo_200_200/0/1656689553384?e=1747872000&v=beta&t=hx61hmR--Jdm5LBkyxIrBAJ2t0omyn6FiJze7mwJOBw",
+                "universalName": "columbiamed",
+                "dashCompanyUrn": "urn:li:fsd_company:2623",
+                "trackingId": "2jacUtO3Tj+PEoBSPnBLNQ=="
+            },
+            "companyName": "Columbia University Irving Medical Center"
+        },
+        {
+            "title": "Research Assistant",
+            "description": "• Conducted research in collaboration with Professor David Singerman, focusing on scientific innovation and knowledge dissemination patterns within the U.S. sugar empire during the late 19th century\n• Analyzed historical texts, transcribed materials, and primary sources\n• Created and managed a database for efficient text and network analysis of historical data",
+            "locationName": "Charlottesville, Virginia, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4298",
+                "entityUrn": "urn:li:fs_miniCompany:4298",
+                "name": "University of Virginia",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPXxfaisprvA/company-logo_200_200/company-logo_200_200/0/1712014926451?e=1747872000&v=beta&t=LBIh38KayZh802ns4RBou01W6H5fx06FIT67THFJ4DQ",
+                "universalName": "university-of-virginia",
+                "dashCompanyUrn": "urn:li:fsd_company:4298",
+                "trackingId": "i3jix5ejSHaNIkzEKnPjJQ=="
+            },
+            "companyName": "University of Virginia"
+        },
+        {
+            "title": "Data Analytics Business Intelligence Intern",
+            "description": "• Tested and improved functionality of Tableau dashboards for clients in healthcare industry \n• Acquired proficiency in Azure Databricks; constructed user guide with optimized data cleaning and validation procedures, reducing load of future machine learning ventures",
+            "locationName": "McLean, Virginia, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Accounting"
+                ],
+                "objectUrn": "urn:li:company:3743",
+                "entityUrn": "urn:li:fs_miniCompany:3743",
+                "name": "RSM US LLP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHxq8HXIBPJjA/company-logo_200_200/company-logo_200_200/0/1719934153474/rsm_us_llp_logo?e=1747872000&v=beta&t=InA5qvx4YZM3A4KJ7R2wVQRvxx0CUJ2-NKCG6nja3sg",
+                "universalName": "rsm-us-llp",
+                "dashCompanyUrn": "urn:li:fsd_company:3743",
+                "trackingId": "F0zessX+SLKzEfaEW+3+aA=="
+            },
+            "companyName": "RSM US LLP"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor's degree",
+            "fieldOfStudy": "Statistics & Global Development Studies",
+            "schoolName": "University of Virginia",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "Data Science",
+            "schoolName": "Columbia University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2025
+                },
+                "startDate": {
+                    "year": 2023
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Statistics",
+        "Natural Language Processing (NLP)",
+        "Deep Learning",
+        "PyTorch"
+    ],
+    "lastEnriched": "2025-02-17"
+}

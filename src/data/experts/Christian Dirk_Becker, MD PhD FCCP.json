@@ -1,0 +1,573 @@
+{
+    "id": "exp113288474",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christian Dirk",
+        "lastName": "Becker, MD PhD FCCP",
+        "fullName": "Christian Dirk Becker, MD PhD FCCP",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German"
+        ],
+        "allData": {
+            "id": "113288474",
+            "profileId": "ACoAAAbApRoBHNjrHCaxTFYF1M7vgBRIT7km7O4",
+            "firstName": "Christian Dirk",
+            "lastName": "Becker, MD PhD FCCP",
+            "occupation": "Associate Professor at New York Medical College",
+            "publicIdentifier": "christian-dirk-becker-md-phd-fccp-562b3431",
+            "trackingId": "vlF9m01kTrWpyMWsAhvJtA==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102571732",
+            "positions": [
+                {
+                    "title": "Associate Director, eHealth Center; Director for Research, Medical Education and Quality",
+                    "description": "Associate Director, Center for Telemedicine & eHealth\nDirector for Research, Medical Education and Quality",
+                    "locationName": "Taylor Pavilion, Room O102 100 Woods Road Valhalla, NY 10595",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:21721",
+                        "entityUrn": "urn:li:fs_miniCompany:21721",
+                        "name": "Westchester Medical Center Health Network",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFAmbmslCt09Q/company-logo_200_200/company-logo_200_200/0/1721418711817/westchester_medical_center_logo?e=1747872000&v=beta&t=TVJ7Yonm-43k4MAi1fd4S4ZBbT-HTBitQL-P81vq4nY",
+                        "universalName": "westchester-medical-center-health-network",
+                        "dashCompanyUrn": "urn:li:fsd_company:21721",
+                        "trackingId": "G/JYWdxgRSeUO2Hi7ymkAQ=="
+                    },
+                    "companyName": "Westchester Medical Center"
+                },
+                {
+                    "title": "Associate Professor",
+                    "locationName": "40 Sunshine Cottage Road Valhalla, NY 10595",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:20202",
+                        "entityUrn": "urn:li:fs_miniCompany:20202",
+                        "name": "New York Medical College",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHdnhXAZAD82A/company-logo_200_200/company-logo_200_200/0/1684351463776/new_york_medical_college_logo?e=1747872000&v=beta&t=lL6uOHAK-mDdDzebKwhbGJD4t5Py_bLU8FOlVr6cWq8",
+                        "universalName": "new-york-medical-college",
+                        "dashCompanyUrn": "urn:li:fsd_company:20202",
+                        "trackingId": "76kp/Q8pRKKACdrNXMKkCw=="
+                    },
+                    "companyName": "New York Medical College"
+                },
+                {
+                    "title": "Adjunct Senior Research Faculty",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:6154",
+                        "entityUrn": "urn:li:fs_miniCompany:6154",
+                        "name": "Icahn School of Medicine at Mount Sinai",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHRqzWcbfxu1g/company-logo_200_200/company-logo_200_200/0/1630575074351?e=1747872000&v=beta&t=vV4ZOjwBzr0D9fVtorN0XK-xjn9VlHM-mE9U7EiRnm4",
+                        "universalName": "icahnmountsinai",
+                        "dashCompanyUrn": "urn:li:fsd_company:6154",
+                        "trackingId": "jbT1Hb6DSlKxQqcUmd80zA=="
+                    },
+                    "companyName": "Icahn School of Medicine at Mount Sinai"
+                },
+                {
+                    "title": "Assistant Professor",
+                    "description": "Medical Director of Respiratory Intensive Care Unit\nHead, Pulmonary Disease Group, Human Immune Monitoring CORE",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:6154",
+                        "entityUrn": "urn:li:fs_miniCompany:6154",
+                        "name": "Icahn School of Medicine at Mount Sinai",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHRqzWcbfxu1g/company-logo_200_200/company-logo_200_200/0/1630575074351?e=1747872000&v=beta&t=vV4ZOjwBzr0D9fVtorN0XK-xjn9VlHM-mE9U7EiRnm4",
+                        "universalName": "icahnmountsinai",
+                        "dashCompanyUrn": "urn:li:fsd_company:6154",
+                        "trackingId": "KOtCP/MIRaWe4cDN/Nneyg=="
+                    },
+                    "companyName": "Icahn School of Medicine at Mount Sinai"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Research Fellowship",
+                    "fieldOfStudy": "Pulmonary Immunology",
+                    "schoolName": "Icahn School of Medicine at Mount Sinai",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Fellowship",
+                    "fieldOfStudy": "Pulmonary, Critical Care and Sleep Medicine",
+                    "schoolName": "Icahn School of Medicine at Mount Sinai",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Residency",
+                    "fieldOfStudy": "Internal Medicine",
+                    "schoolName": "Albert Einstein Medical Center, Philadelphia, PA",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Basic Medical Ultrasonography",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2000
+                        }
+                    },
+                    "authority": "Deutsche Gesellchaft fuer Innere Medizin"
+                },
+                {
+                    "name": "Advanced Medical Ultrasonography",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2002
+                        }
+                    },
+                    "authority": "Deutsche Gesellschaft fuer Innere Medizin"
+                },
+                {
+                    "name": "Advanced Echocardiography",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2002
+                        }
+                    },
+                    "authority": "Deutche Gesellschaft fuer Innere Medizin"
+                },
+                {
+                    "name": "Pulmonary Diseases",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    },
+                    "authority": "American Board of Internal Medicine"
+                },
+                {
+                    "name": "Critical Care Medicine",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    },
+                    "authority": "American Board of Internal Medicine"
+                },
+                {
+                    "name": "Internal Medicine",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2005
+                        }
+                    },
+                    "authority": "American Board of Internal Medicine"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Microsoft Office",
+                "Management",
+                "Microsoft Excel",
+                "Microsoft Word"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Associate Professor at New York Medical College",
+            "student": false,
+            "industryName": "Hospital & Health Care",
+            "industryUrn": "urn:li:fs_industry:14",
+            "geoLocationName": "New York, New York",
+            "geoCountryName": "United States",
+            "jobTitle": "Associate Director, eHealth Center; Director for Research, Medical Education and Quality",
+            "companyName": "Westchester Medical Center",
+            "companyPublicId": "westchester-medical-center-health-network",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/westchester-medical-center-health-network",
+            "following": false,
+            "followable": true,
+            "followersCount": 366,
+            "connectionsCount": 355,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Westchester Medical Center",
+        "position": "Associate Director, eHealth Center; Director for Research, Medical Education and Quality",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Hospital & Health Care"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Associate Director, eHealth Center; Director for Research, Medical Education and Quality",
+        "organization": "Westchester Medical Center",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christian-dirk-becker-md-phd-fccp-562b3431/",
+        "company": "https://www.linkedin.com/company/westchester-medical-center-health-network"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Associate Director, eHealth Center; Director for Research, Medical Education and Quality",
+            "description": "Associate Director, Center for Telemedicine & eHealth\nDirector for Research, Medical Education and Quality",
+            "locationName": "Taylor Pavilion, Room O102 100 Woods Road Valhalla, NY 10595",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:21721",
+                "entityUrn": "urn:li:fs_miniCompany:21721",
+                "name": "Westchester Medical Center Health Network",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFAmbmslCt09Q/company-logo_200_200/company-logo_200_200/0/1721418711817/westchester_medical_center_logo?e=1747872000&v=beta&t=TVJ7Yonm-43k4MAi1fd4S4ZBbT-HTBitQL-P81vq4nY",
+                "universalName": "westchester-medical-center-health-network",
+                "dashCompanyUrn": "urn:li:fsd_company:21721",
+                "trackingId": "G/JYWdxgRSeUO2Hi7ymkAQ=="
+            },
+            "companyName": "Westchester Medical Center"
+        },
+        {
+            "title": "Associate Professor",
+            "locationName": "40 Sunshine Cottage Road Valhalla, NY 10595",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:20202",
+                "entityUrn": "urn:li:fs_miniCompany:20202",
+                "name": "New York Medical College",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHdnhXAZAD82A/company-logo_200_200/company-logo_200_200/0/1684351463776/new_york_medical_college_logo?e=1747872000&v=beta&t=lL6uOHAK-mDdDzebKwhbGJD4t5Py_bLU8FOlVr6cWq8",
+                "universalName": "new-york-medical-college",
+                "dashCompanyUrn": "urn:li:fsd_company:20202",
+                "trackingId": "76kp/Q8pRKKACdrNXMKkCw=="
+            },
+            "companyName": "New York Medical College"
+        },
+        {
+            "title": "Adjunct Senior Research Faculty",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:6154",
+                "entityUrn": "urn:li:fs_miniCompany:6154",
+                "name": "Icahn School of Medicine at Mount Sinai",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHRqzWcbfxu1g/company-logo_200_200/company-logo_200_200/0/1630575074351?e=1747872000&v=beta&t=vV4ZOjwBzr0D9fVtorN0XK-xjn9VlHM-mE9U7EiRnm4",
+                "universalName": "icahnmountsinai",
+                "dashCompanyUrn": "urn:li:fsd_company:6154",
+                "trackingId": "jbT1Hb6DSlKxQqcUmd80zA=="
+            },
+            "companyName": "Icahn School of Medicine at Mount Sinai"
+        },
+        {
+            "title": "Assistant Professor",
+            "description": "Medical Director of Respiratory Intensive Care Unit\nHead, Pulmonary Disease Group, Human Immune Monitoring CORE",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:6154",
+                "entityUrn": "urn:li:fs_miniCompany:6154",
+                "name": "Icahn School of Medicine at Mount Sinai",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHRqzWcbfxu1g/company-logo_200_200/company-logo_200_200/0/1630575074351?e=1747872000&v=beta&t=vV4ZOjwBzr0D9fVtorN0XK-xjn9VlHM-mE9U7EiRnm4",
+                "universalName": "icahnmountsinai",
+                "dashCompanyUrn": "urn:li:fsd_company:6154",
+                "trackingId": "KOtCP/MIRaWe4cDN/Nneyg=="
+            },
+            "companyName": "Icahn School of Medicine at Mount Sinai"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Research Fellowship",
+            "fieldOfStudy": "Pulmonary Immunology",
+            "schoolName": "Icahn School of Medicine at Mount Sinai",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "Fellowship",
+            "fieldOfStudy": "Pulmonary, Critical Care and Sleep Medicine",
+            "schoolName": "Icahn School of Medicine at Mount Sinai",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        },
+        {
+            "degreeName": "Residency",
+            "fieldOfStudy": "Internal Medicine",
+            "schoolName": "Albert Einstein Medical Center, Philadelphia, PA",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Basic Medical Ultrasonography",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2000
+                }
+            },
+            "authority": "Deutsche Gesellchaft fuer Innere Medizin"
+        },
+        {
+            "name": "Advanced Medical Ultrasonography",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "authority": "Deutsche Gesellschaft fuer Innere Medizin"
+        },
+        {
+            "name": "Advanced Echocardiography",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "authority": "Deutche Gesellschaft fuer Innere Medizin"
+        },
+        {
+            "name": "Pulmonary Diseases",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2026
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "authority": "American Board of Internal Medicine"
+        },
+        {
+            "name": "Critical Care Medicine",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2026
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "authority": "American Board of Internal Medicine"
+        },
+        {
+            "name": "Internal Medicine",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "authority": "American Board of Internal Medicine"
+        }
+    ],
+    "skills": [
+        "Microsoft Office",
+        "Management",
+        "Microsoft Excel",
+        "Microsoft Word"
+    ],
+    "lastEnriched": "2025-02-17"
+}

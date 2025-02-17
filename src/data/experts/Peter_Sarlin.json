@@ -1,0 +1,489 @@
+{
+    "id": "exp25664958",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Peter",
+        "lastName": "Sarlin",
+        "fullName": "Peter Sarlin",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "25664958",
+            "profileId": "ACoAAAGHnb4B_wUGS_VPQFZaDMeiHHbj2MeYBqY",
+            "firstName": "Peter",
+            "lastName": "Sarlin",
+            "occupation": "Co-Founder & CVP at AMD Silo AI | Professor at Aalto University | #AIforPeople",
+            "publicIdentifier": "psarlin",
+            "trackingId": "/eNYXn38RC+sq4Niim5+gQ==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQE0ciYG2Nw9yg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1726946114715?e=1745452800&v=beta&t=gSPjdYS8uUIWyWvZ0RAw7V6_7qCVR_g3w39I9Lx208g",
+            "countryCode": "fi",
+            "geoUrn": "urn:li:fs_geo:106591199",
+            "positions": [
+                {
+                    "title": "Co-Founder & CVP",
+                    "description": "As part of AMD, we are shaping the future of AI computing.",
+                    "locationName": "Helsinki, Finland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:24982265",
+                        "entityUrn": "urn:li:fs_miniCompany:24982265",
+                        "name": "AMD Silo AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGoHeexJ8WD0Q/company-logo_200_200/company-logo_200_200/0/1737714832800/amdsiloai_logo?e=1747872000&v=beta&t=wGjOf5UUEw_SWzu_SRScWxG2FJhzRK2Cn7yg8RFNsqQ",
+                        "universalName": "amdsiloai",
+                        "dashCompanyUrn": "urn:li:fsd_company:24982265",
+                        "trackingId": "zixH317jTjqeSfhM5ApT3A=="
+                    },
+                    "companyName": "AMD Silo AI"
+                },
+                {
+                    "title": "Professor of Practice",
+                    "description": "Professor of Practice in applied machine learning and AI. Part-time role, with a focus on connecting state-of-the-art AI research with practical relevance in research, teaching, and industry cooperation.",
+                    "locationName": "Helsinki Metropolitan Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:738178",
+                        "entityUrn": "urn:li:fs_miniCompany:738178",
+                        "name": "Aalto University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG-CEfULBIE8A/company-logo_200_200/company-logo_200_200/0/1630616253213/aalto_university_logo?e=1747872000&v=beta&t=_F_EVce1rji6VYSVrWDVLOngGJIp10XlnC551vlep14",
+                        "universalName": "aalto-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:738178",
+                        "trackingId": "j1f89e5uRAKUzvRyz5HGxA=="
+                    },
+                    "companyName": "Aalto University"
+                },
+                {
+                    "title": "Founder & Chairman",
+                    "description": "www.infolytika.com | A venture builder and consultancy helping digital companies become AI first and reach their full potential.\n\nInfolytika's early work included pioneering AI solutions and products for safeguarding financial stability, covering work with the European Central Bank, International Monetary Fund, Bank of Finland, Deutsche Bundesbank, De Nederlandsche Bank, Bank of Indonesia, Banco de la República of Colombia, PSP Investments, as well as several other private organizations.",
+                    "locationName": "Finland",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:3499168",
+                        "entityUrn": "urn:li:fs_miniCompany:3499168",
+                        "name": "Infolytika Ventures",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQH4mOHwLtp39Q/company-logo_200_200/company-logo_200_200/0/1631378500168?e=1747872000&v=beta&t=0KfnfZELI8LCEBhbDR3TXm-b20STlq6yFdXGJ9PwrL0",
+                        "universalName": "infolytika",
+                        "dashCompanyUrn": "urn:li:fsd_company:3499168",
+                        "trackingId": "OXmXkZVaS3+lGH3p82oVqg=="
+                    },
+                    "companyName": "Infolytika Ventures"
+                },
+                {
+                    "title": "Co-Founder & CEO",
+                    "description": "As Europe’s largest private AI lab, Silo AI was acquired by AMD in the largest AI acquisition in Europe's history. Silo AI grew in 6 years to employ 300+ people with 150+ PhDs in AI-related technologies, working on applied AI projects ranging from autonomous vehicles to robot guidance and generative AI. Silo AI provides its customers unique access to world-class AI models and research, as well as the SiloGen model-as-a-service platform. As part of SiloGen, Silo AI is currently building market leading open source LLMs to ensure European digital sovereignty and democratize access to LLMs.",
+                    "locationName": "Helsinki Area, Finland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:24982265",
+                        "entityUrn": "urn:li:fs_miniCompany:24982265",
+                        "name": "AMD Silo AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGoHeexJ8WD0Q/company-logo_200_200/company-logo_200_200/0/1737714832800/amdsiloai_logo?e=1747872000&v=beta&t=wGjOf5UUEw_SWzu_SRScWxG2FJhzRK2Cn7yg8RFNsqQ",
+                        "universalName": "amdsiloai",
+                        "dashCompanyUrn": "urn:li:fsd_company:24982265",
+                        "trackingId": "MMJdar60Rrulo/mzcmy6eg=="
+                    },
+                    "companyName": "Silo AI"
+                },
+                {
+                    "title": "Professor of Practice",
+                    "description": "Professor of Practice. Machine learning and artificial intelligence, with a special focus on applications in financial, economic and societal disciplines.",
+                    "locationName": "Helsinki, Finland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:11926",
+                        "entityUrn": "urn:li:fs_miniCompany:11926",
+                        "name": "Hanken",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHpQYyLCUFudw/company-logo_200_200/company-logo_200_200/0/1630589134682/hanken_logo?e=1747872000&v=beta&t=kw0MxcyLSer-zfQGt__hAJlT82yWkBCVwFWOeGyjWS0",
+                        "universalName": "hanken",
+                        "dashCompanyUrn": "urn:li:fsd_company:11926",
+                        "trackingId": "ZTmAcGHbTeij1iYRJ3G72Q=="
+                    },
+                    "companyName": "Hanken"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Visiting PhD student",
+                    "schoolName": "Stockholm University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Machine Learning Summer School",
+                    "schoolName": "The Australian National University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "degreeName": "PhD (Information Systems), specializing in machine learning",
+                    "schoolName": "Turku Centre for Computer Science",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Artificial Intelligence",
+                "Machine Learning",
+                "Econometrics",
+                "Economics"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Co-Founder & CVP at AMD Silo AI | Professor at Aalto University | #AIforPeople",
+            "summary": "Peter Sarlin is the CEO and co-founder of Silo AI, Europe’s largest private AI lab, and a Professor of Practice at Aalto University, specializing in machine learning and AI. With a PhD in machine learning, he has a rich academic background that spans roles as a tenured professor, visiting professor and research associate at institutions like the Imperial College London, London School of Economics, University of Technology Sydney, Goethe University Frankfurt, University of Pavia, Stockholm University, IWH Halle, and University of Cape Town.\n\nPeter's expertise is further recognized by his former roles as Vice Chair of the IEEE Computational Finance and Economics Technical Committee and the IEEE Analytics and Risk Technical Committee. His professional journey includes tenures at the European Central Bank and the International Monetary Fund, among others.\n\nE-mail: peter [at] silo.ai\nTwitter: @petersarlin\nWebsite:  sarlin.ai",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Helsinki, Uusimaa",
+            "geoCountryName": "Finland",
+            "jobTitle": "Co-Founder & CVP",
+            "companyName": "AMD Silo AI",
+            "companyPublicId": "amdsiloai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/amdsiloai",
+            "following": false,
+            "followable": true,
+            "followersCount": 33094,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "AMD Silo AI",
+        "position": "Co-Founder & CVP",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder & CVP",
+        "organization": "AMD Silo AI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/psarlin/",
+        "company": "https://www.linkedin.com/company/amdsiloai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder & CVP",
+            "description": "As part of AMD, we are shaping the future of AI computing.",
+            "locationName": "Helsinki, Finland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:24982265",
+                "entityUrn": "urn:li:fs_miniCompany:24982265",
+                "name": "AMD Silo AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGoHeexJ8WD0Q/company-logo_200_200/company-logo_200_200/0/1737714832800/amdsiloai_logo?e=1747872000&v=beta&t=wGjOf5UUEw_SWzu_SRScWxG2FJhzRK2Cn7yg8RFNsqQ",
+                "universalName": "amdsiloai",
+                "dashCompanyUrn": "urn:li:fsd_company:24982265",
+                "trackingId": "zixH317jTjqeSfhM5ApT3A=="
+            },
+            "companyName": "AMD Silo AI"
+        },
+        {
+            "title": "Professor of Practice",
+            "description": "Professor of Practice in applied machine learning and AI. Part-time role, with a focus on connecting state-of-the-art AI research with practical relevance in research, teaching, and industry cooperation.",
+            "locationName": "Helsinki Metropolitan Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:738178",
+                "entityUrn": "urn:li:fs_miniCompany:738178",
+                "name": "Aalto University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG-CEfULBIE8A/company-logo_200_200/company-logo_200_200/0/1630616253213/aalto_university_logo?e=1747872000&v=beta&t=_F_EVce1rji6VYSVrWDVLOngGJIp10XlnC551vlep14",
+                "universalName": "aalto-university",
+                "dashCompanyUrn": "urn:li:fsd_company:738178",
+                "trackingId": "j1f89e5uRAKUzvRyz5HGxA=="
+            },
+            "companyName": "Aalto University"
+        },
+        {
+            "title": "Founder & Chairman",
+            "description": "www.infolytika.com | A venture builder and consultancy helping digital companies become AI first and reach their full potential.\n\nInfolytika's early work included pioneering AI solutions and products for safeguarding financial stability, covering work with the European Central Bank, International Monetary Fund, Bank of Finland, Deutsche Bundesbank, De Nederlandsche Bank, Bank of Indonesia, Banco de la República of Colombia, PSP Investments, as well as several other private organizations.",
+            "locationName": "Finland",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:3499168",
+                "entityUrn": "urn:li:fs_miniCompany:3499168",
+                "name": "Infolytika Ventures",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQH4mOHwLtp39Q/company-logo_200_200/company-logo_200_200/0/1631378500168?e=1747872000&v=beta&t=0KfnfZELI8LCEBhbDR3TXm-b20STlq6yFdXGJ9PwrL0",
+                "universalName": "infolytika",
+                "dashCompanyUrn": "urn:li:fsd_company:3499168",
+                "trackingId": "OXmXkZVaS3+lGH3p82oVqg=="
+            },
+            "companyName": "Infolytika Ventures"
+        },
+        {
+            "title": "Co-Founder & CEO",
+            "description": "As Europe’s largest private AI lab, Silo AI was acquired by AMD in the largest AI acquisition in Europe's history. Silo AI grew in 6 years to employ 300+ people with 150+ PhDs in AI-related technologies, working on applied AI projects ranging from autonomous vehicles to robot guidance and generative AI. Silo AI provides its customers unique access to world-class AI models and research, as well as the SiloGen model-as-a-service platform. As part of SiloGen, Silo AI is currently building market leading open source LLMs to ensure European digital sovereignty and democratize access to LLMs.",
+            "locationName": "Helsinki Area, Finland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:24982265",
+                "entityUrn": "urn:li:fs_miniCompany:24982265",
+                "name": "AMD Silo AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGoHeexJ8WD0Q/company-logo_200_200/company-logo_200_200/0/1737714832800/amdsiloai_logo?e=1747872000&v=beta&t=wGjOf5UUEw_SWzu_SRScWxG2FJhzRK2Cn7yg8RFNsqQ",
+                "universalName": "amdsiloai",
+                "dashCompanyUrn": "urn:li:fsd_company:24982265",
+                "trackingId": "MMJdar60Rrulo/mzcmy6eg=="
+            },
+            "companyName": "Silo AI"
+        },
+        {
+            "title": "Professor of Practice",
+            "description": "Professor of Practice. Machine learning and artificial intelligence, with a special focus on applications in financial, economic and societal disciplines.",
+            "locationName": "Helsinki, Finland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:11926",
+                "entityUrn": "urn:li:fs_miniCompany:11926",
+                "name": "Hanken",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHpQYyLCUFudw/company-logo_200_200/company-logo_200_200/0/1630589134682/hanken_logo?e=1747872000&v=beta&t=kw0MxcyLSer-zfQGt__hAJlT82yWkBCVwFWOeGyjWS0",
+                "universalName": "hanken",
+                "dashCompanyUrn": "urn:li:fsd_company:11926",
+                "trackingId": "ZTmAcGHbTeij1iYRJ3G72Q=="
+            },
+            "companyName": "Hanken"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Visiting PhD student",
+            "schoolName": "Stockholm University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        },
+        {
+            "degreeName": "Machine Learning Summer School",
+            "schoolName": "The Australian National University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "degreeName": "PhD (Information Systems), specializing in machine learning",
+            "schoolName": "Turku Centre for Computer Science",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Econometrics",
+        "Economics"
+    ],
+    "lastEnriched": "2025-02-17"
+}

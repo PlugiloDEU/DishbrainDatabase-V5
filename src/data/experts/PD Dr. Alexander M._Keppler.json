@@ -1,0 +1,466 @@
+{
+    "id": "exp388414398",
+    "personalInfo": {
+        "title": null,
+        "firstName": "PD Dr. Alexander M.",
+        "lastName": "Keppler",
+        "fullName": "PD Dr. Alexander M. Keppler",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGvT78RxxfAzg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1651080849953?e=1745452800&v=beta&t=vtrxgVFtoRjXreniX7Mq3JurZ3YTKjwzSijGTV0x258",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "388414398",
+            "profileId": "ACoAABcmu74B36g8jW_HDa85WsLeDXK1dK3zlW4",
+            "firstName": "PD Dr. Alexander M.",
+            "lastName": "Keppler",
+            "occupation": "Priv.-Doz. | Dr. med. | MHBA | Oberarzt Orthopädie und Unfallchirurgie | Notfallmedizin @ LMU Klinikum",
+            "publicIdentifier": "pd-dr-alexander-m-keppler-a260b4aa",
+            "trackingId": "t4YUuegWRoiH9fuWnwC5bA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGvT78RxxfAzg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1651080849953?e=1745452800&v=beta&t=vtrxgVFtoRjXreniX7Mq3JurZ3YTKjwzSijGTV0x258",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQFb0w9FNGy1Ng/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1665598482850?e=1745452800&v=beta&t=TikkwRY83SNPc4Y-kImp1tIhqD0b9Dc_QVcC4w4AFyE",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Editorial Board Member BMC Muskuloskeletal Disorders",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Publishing"
+                        ],
+                        "objectUrn": "urn:li:company:7051",
+                        "entityUrn": "urn:li:fs_miniCompany:7051",
+                        "name": "Springer Nature",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQESXdw_iIJXXA/company-logo_200_200/company-logo_200_200/0/1738764899104/springernature_logo?e=1747872000&v=beta&t=9rRYXUVk1U-r0dFVjrJ90VnC14SUfMT2LdY1VWI0hFA",
+                        "universalName": "springernature",
+                        "dashCompanyUrn": "urn:li:fsd_company:7051",
+                        "trackingId": "JdF9PzqWRCimK2A87xU9vA=="
+                    },
+                    "companyName": "Springer Nature"
+                },
+                {
+                    "title": "Oberarzt",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:74055402",
+                        "entityUrn": "urn:li:fs_miniCompany:74055402",
+                        "name": "MUM - Muskuloskelettales UniversitätsZentrum München",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG9596M1yIVJw/company-logo_200_200/company-logo_200_200/0/1630559953002/mum_muskuloskelettales_universittszentrum_mnchen_logo?e=1747872000&v=beta&t=VXbdKXeYaKOAGDu2rlwmGq6IviAMPnMmyBkQ6u9Xjxk",
+                        "universalName": "mum-muskuloskelettales-universitätszentrum-münchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:74055402",
+                        "trackingId": "TrNvEMqmRRufXRyHj0RF5A=="
+                    },
+                    "companyName": "MUM - Muskuloskelettales UniversitätsZentrum München"
+                },
+                {
+                    "title": "Privatdozent",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:596185",
+                        "entityUrn": "urn:li:fs_miniCompany:596185",
+                        "name": "Ludwig-Maximilians-Universität München",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                        "universalName": "lmu.muenchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:596185",
+                        "trackingId": "gpNjhEsIQUW2yxJrgxjH0g=="
+                    },
+                    "companyName": "Ludwig-Maximilians-Universität München"
+                },
+                {
+                    "title": "Ärztlicher Leiter Notarztstandort München Mitte",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Executive Office"
+                        ],
+                        "objectUrn": "urn:li:company:14806486",
+                        "entityUrn": "urn:li:fs_miniCompany:14806486",
+                        "name": "Berufsfeuerwehr München",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGfx3zx2mTJrw/company-logo_200_200/company-logo_200_200/0/1630508684989?e=1747872000&v=beta&t=r2uqqRzFKjLIC5PpGJdmeh3mPKx9RcbF6CrT69xw3Gs",
+                        "universalName": "feuerwehrmuenchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:14806486",
+                        "trackingId": "k80Ih0a9QPS4qk++zyD3aA=="
+                    },
+                    "companyName": "Berufsfeuerwehr München"
+                },
+                {
+                    "title": "Notarzt",
+                    "locationName": "NAW Mitte München",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Executive Office"
+                        ],
+                        "objectUrn": "urn:li:company:14806486",
+                        "entityUrn": "urn:li:fs_miniCompany:14806486",
+                        "name": "Berufsfeuerwehr München",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGfx3zx2mTJrw/company-logo_200_200/company-logo_200_200/0/1630508684989?e=1747872000&v=beta&t=r2uqqRzFKjLIC5PpGJdmeh3mPKx9RcbF6CrT69xw3Gs",
+                        "universalName": "feuerwehrmuenchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:14806486",
+                        "trackingId": "G6X5XC4CRHyxbV2YrkrlqA=="
+                    },
+                    "companyName": "Berufsfeuerwehr München"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "MHBA",
+                    "fieldOfStudy": "Health Business Administration",
+                    "schoolName": "FAU Erlangen-Nürnberg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "year": 2021
+                        }
+                    }
+                },
+                {
+                    "schoolName": "Ludwig-Maximilians Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2012
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Medizin",
+                    "schoolName": "Technische Universität Dresden",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2010
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Klinik",
+                "Unfall",
+                "Medizinische Forschung",
+                "Medizin"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Priv.-Doz. | Dr. med. | MHBA | Oberarzt Orthopädie und Unfallchirurgie | Notfallmedizin @ LMU Klinikum",
+            "summary": "Oberarzt Orthopädie und Unfallchirurgie | Notfallmedizin",
+            "student": false,
+            "industryName": "Hospital & Health Care",
+            "industryUrn": "urn:li:fs_industry:14",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Editorial Board Member BMC Muskuloskeletal Disorders",
+            "companyName": "Springer Nature",
+            "companyPublicId": "springernature",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/springernature",
+            "following": false,
+            "followable": true,
+            "followersCount": 422,
+            "connectionsCount": 410,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Springer Nature",
+        "position": "Editorial Board Member BMC Muskuloskeletal Disorders",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Publishing"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Editorial Board Member BMC Muskuloskeletal Disorders",
+        "organization": "Springer Nature",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/pd-dr-alexander-m-keppler-a260b4aa/",
+        "company": "https://www.linkedin.com/company/springernature"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Editorial Board Member BMC Muskuloskeletal Disorders",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Publishing"
+                ],
+                "objectUrn": "urn:li:company:7051",
+                "entityUrn": "urn:li:fs_miniCompany:7051",
+                "name": "Springer Nature",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQESXdw_iIJXXA/company-logo_200_200/company-logo_200_200/0/1738764899104/springernature_logo?e=1747872000&v=beta&t=9rRYXUVk1U-r0dFVjrJ90VnC14SUfMT2LdY1VWI0hFA",
+                "universalName": "springernature",
+                "dashCompanyUrn": "urn:li:fsd_company:7051",
+                "trackingId": "JdF9PzqWRCimK2A87xU9vA=="
+            },
+            "companyName": "Springer Nature"
+        },
+        {
+            "title": "Oberarzt",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:74055402",
+                "entityUrn": "urn:li:fs_miniCompany:74055402",
+                "name": "MUM - Muskuloskelettales UniversitätsZentrum München",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG9596M1yIVJw/company-logo_200_200/company-logo_200_200/0/1630559953002/mum_muskuloskelettales_universittszentrum_mnchen_logo?e=1747872000&v=beta&t=VXbdKXeYaKOAGDu2rlwmGq6IviAMPnMmyBkQ6u9Xjxk",
+                "universalName": "mum-muskuloskelettales-universitätszentrum-münchen",
+                "dashCompanyUrn": "urn:li:fsd_company:74055402",
+                "trackingId": "TrNvEMqmRRufXRyHj0RF5A=="
+            },
+            "companyName": "MUM - Muskuloskelettales UniversitätsZentrum München"
+        },
+        {
+            "title": "Privatdozent",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:596185",
+                "entityUrn": "urn:li:fs_miniCompany:596185",
+                "name": "Ludwig-Maximilians-Universität München",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                "universalName": "lmu.muenchen",
+                "dashCompanyUrn": "urn:li:fsd_company:596185",
+                "trackingId": "gpNjhEsIQUW2yxJrgxjH0g=="
+            },
+            "companyName": "Ludwig-Maximilians-Universität München"
+        },
+        {
+            "title": "Ärztlicher Leiter Notarztstandort München Mitte",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Executive Office"
+                ],
+                "objectUrn": "urn:li:company:14806486",
+                "entityUrn": "urn:li:fs_miniCompany:14806486",
+                "name": "Berufsfeuerwehr München",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGfx3zx2mTJrw/company-logo_200_200/company-logo_200_200/0/1630508684989?e=1747872000&v=beta&t=r2uqqRzFKjLIC5PpGJdmeh3mPKx9RcbF6CrT69xw3Gs",
+                "universalName": "feuerwehrmuenchen",
+                "dashCompanyUrn": "urn:li:fsd_company:14806486",
+                "trackingId": "k80Ih0a9QPS4qk++zyD3aA=="
+            },
+            "companyName": "Berufsfeuerwehr München"
+        },
+        {
+            "title": "Notarzt",
+            "locationName": "NAW Mitte München",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Executive Office"
+                ],
+                "objectUrn": "urn:li:company:14806486",
+                "entityUrn": "urn:li:fs_miniCompany:14806486",
+                "name": "Berufsfeuerwehr München",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGfx3zx2mTJrw/company-logo_200_200/company-logo_200_200/0/1630508684989?e=1747872000&v=beta&t=r2uqqRzFKjLIC5PpGJdmeh3mPKx9RcbF6CrT69xw3Gs",
+                "universalName": "feuerwehrmuenchen",
+                "dashCompanyUrn": "urn:li:fsd_company:14806486",
+                "trackingId": "G6X5XC4CRHyxbV2YrkrlqA=="
+            },
+            "companyName": "Berufsfeuerwehr München"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "MHBA",
+            "fieldOfStudy": "Health Business Administration",
+            "schoolName": "FAU Erlangen-Nürnberg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            }
+        },
+        {
+            "schoolName": "Ludwig-Maximilians Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Medizin",
+            "schoolName": "Technische Universität Dresden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Klinik",
+        "Unfall",
+        "Medizinische Forschung",
+        "Medizin"
+    ],
+    "lastEnriched": "2025-02-17"
+}

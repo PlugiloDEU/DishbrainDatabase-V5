@@ -1,0 +1,539 @@
+{
+    "id": "exp126953986",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Christian",
+        "lastName": "Hoffmann",
+        "fullName": "Dr. Christian Hoffmann",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQFn-ujJgLOx4w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516632390073?e=1745452800&v=beta&t=QDdK5HGYJb4uY-jVt3Dw8gnw4e0zZOXa1xUPgmD-oYw",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "126953986",
+            "profileId": "ACoAAAeRKgIBG3JWNXE6r85HBlCCmUaBjwLrFDk",
+            "firstName": "Dr. Christian",
+            "lastName": "Hoffmann",
+            "occupation": "Head of Project Management | Diagnostic Imaging IT DACH",
+            "publicIdentifier": "dr-christian-hoffmann-8aa62436",
+            "trackingId": "fev32aoXSyiNuwVpVVlkAQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFn-ujJgLOx4w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516632390073?e=1745452800&v=beta&t=QDdK5HGYJb4uY-jVt3Dw8gnw4e0zZOXa1xUPgmD-oYw",
+            "countryCode": "at",
+            "geoUrn": "urn:li:fs_geo:105890822",
+            "positions": [
+                {
+                    "title": "Head of Project Management | Diagnostic Imaging IT",
+                    "locationName": "Wien",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:69675866",
+                        "entityUrn": "urn:li:fs_miniCompany:69675866",
+                        "name": "Dedalus",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFF4ow2KzeQEQ/company-logo_200_200/company-logo_200_200/0/1646241413447/dedalus_group_logo?e=1747872000&v=beta&t=PX608E8qbqWgWmCQKJZcA1FWi345mpzH0Ee4tuLzjcQ",
+                        "universalName": "dedalus-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:69675866",
+                        "trackingId": "71voHrVqTqK/YzHMNHZN+g=="
+                    },
+                    "companyName": "Dedalus HealthCare Ges.m.b.H."
+                },
+                {
+                    "title": "Project Manager HealthCare IT",
+                    "locationName": "Österreich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:69675866",
+                        "entityUrn": "urn:li:fs_miniCompany:69675866",
+                        "name": "Dedalus",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFF4ow2KzeQEQ/company-logo_200_200/company-logo_200_200/0/1646241413447/dedalus_group_logo?e=1747872000&v=beta&t=PX608E8qbqWgWmCQKJZcA1FWi345mpzH0Ee4tuLzjcQ",
+                        "universalName": "dedalus-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:69675866",
+                        "trackingId": "KVbEDY1qQ1Cf3veV2UC4og=="
+                    },
+                    "companyName": "Dedalus HealthCare Ges.m.b.H."
+                },
+                {
+                    "title": "Project Manager HealthCare IT",
+                    "description": "HealthCare IT, Imaging Informatics, Medical Devices",
+                    "locationName": "Vienna",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:3226",
+                        "entityUrn": "urn:li:fs_miniCompany:3226",
+                        "name": "AGFA HealthCare",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHP-rh5HBJEKw/company-logo_200_200/company-logo_200_200/0/1630574877911/agfa_healthcare_logo?e=1747872000&v=beta&t=AKC6Lvc1uJ-IL1RucY6WhiIRDgWdVXVeGITABu6EKGw",
+                        "universalName": "agfa-healthcare",
+                        "dashCompanyUrn": "urn:li:fsd_company:3226",
+                        "trackingId": "FGAtgTZNQFe1vH7i59Kd+Q=="
+                    },
+                    "companyName": "Agfa HealthCare"
+                },
+                {
+                    "title": "Research Scientist | Ambient Assisted Living (AAL)",
+                    "description": "Project Evaluation Active & Assisted Living (Smart Home, Telemedicine) at the Department for Biomedical Systems",
+                    "locationName": "Vienna",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:526248",
+                        "entityUrn": "urn:li:fs_miniCompany:526248",
+                        "name": "AIT Austrian Institute of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFMT0J4TGYMag/company-logo_200_200/company-logo_200_200/0/1731511661085/austrian_institute_of_technology_logo?e=1747872000&v=beta&t=N0Inh7KesG09oGNUD-KlPgHOkdtrouWQkvMMwQtmNNI",
+                        "universalName": "austrian-institute-of-technology",
+                        "dashCompanyUrn": "urn:li:fsd_company:526248",
+                        "trackingId": "kzhReSYcSYKCOJdPMdTHrA=="
+                    },
+                    "companyName": "AIT Austrian Institute of Technology GmbH"
+                },
+                {
+                    "title": "Freelancer | Active and Ambient Assisted Living (AAL) | Intelligent Environments for Seniors",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    },
+                    "companyName": "Self-Employed"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Medical Science",
+                    "fieldOfStudy": "PhD in Public Health",
+                    "schoolName": "Medizinische Universität Wien",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MSc",
+                    "fieldOfStudy": "Innovation and Technology Management",
+                    "schoolName": "Fachhochschule Technikum Wien",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BSc",
+                    "fieldOfStudy": "Biomedical Engineering",
+                    "schoolName": "Fachhochschule Technikum Wien",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "PMI® Project Management Professional PMP",
+                    "authority": "Project Management Institute"
+                },
+                {
+                    "name": "IHE, ELGA & HL7 Expert",
+                    "authority": "Technikum Wien Academy"
+                },
+                {
+                    "name": "Befähigungsprüfung Handel mit Medizinprodukten (gewerberechtlicher Geschäftsführer) | Certificate for trade of medical equipment in accordance with § 94 Austrian Trade Act 1994",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2018
+                        }
+                    },
+                    "authority": "Wirtschaftskammer Wien"
+                },
+                {
+                    "name": "Organizational Design - Leading Organizations in the Digital Age",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "WU Executive Academy"
+                },
+                {
+                    "name": "Diplomlehrgang Unternehmenskultur und Organisationsentwicklung",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "BFI Wien"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Unternehmensführung",
+                "Projektmanagement",
+                "Informatik",
+                "Biotechnologie"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Head of Project Management | Diagnostic Imaging IT DACH",
+            "summary": "Management von Herausforderungen, IT-Projektleitung, Medizintechnik, Prozessanalyse und Solution Management im Gesundheitswesen, Clinical Quality & Risk Management, Medical IT, Project Management, Healthcare IT,  Methoden- und Vorschriftenkenntnisse von Medizinprodukten und Arzneimitteln (Regulatory), Vergaberecht Know-How, Contract Management, Ausschreibungswesen (öffentliche Aufträge - Bid Management), Moderation und Strukturierung von Innovations- und Ideenfindungsprozessen\n\nSpecialties: öffentliche Auftragsvergabe (Vergaberecht)\nProject Management",
+            "student": false,
+            "industryName": "Medical Device",
+            "industryUrn": "urn:li:fs_industry:17",
+            "geoLocationName": "Vienna, Vienna",
+            "geoCountryName": "Austria",
+            "jobTitle": "Head of Project Management | Diagnostic Imaging IT",
+            "companyName": "Dedalus HealthCare Ges.m.b.H.",
+            "companyPublicId": "dedalus-group",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/dedalus-group",
+            "following": false,
+            "followable": true,
+            "followersCount": 1018,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Dedalus HealthCare Ges.m.b.H.",
+        "position": "Head of Project Management | Diagnostic Imaging IT",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Head of Project Management | Diagnostic Imaging IT",
+        "organization": "Dedalus HealthCare Ges.m.b.H.",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-christian-hoffmann-8aa62436/",
+        "company": "https://www.linkedin.com/company/dedalus-group"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Head of Project Management | Diagnostic Imaging IT",
+            "locationName": "Wien",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:69675866",
+                "entityUrn": "urn:li:fs_miniCompany:69675866",
+                "name": "Dedalus",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFF4ow2KzeQEQ/company-logo_200_200/company-logo_200_200/0/1646241413447/dedalus_group_logo?e=1747872000&v=beta&t=PX608E8qbqWgWmCQKJZcA1FWi345mpzH0Ee4tuLzjcQ",
+                "universalName": "dedalus-group",
+                "dashCompanyUrn": "urn:li:fsd_company:69675866",
+                "trackingId": "71voHrVqTqK/YzHMNHZN+g=="
+            },
+            "companyName": "Dedalus HealthCare Ges.m.b.H."
+        },
+        {
+            "title": "Project Manager HealthCare IT",
+            "locationName": "Österreich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:69675866",
+                "entityUrn": "urn:li:fs_miniCompany:69675866",
+                "name": "Dedalus",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFF4ow2KzeQEQ/company-logo_200_200/company-logo_200_200/0/1646241413447/dedalus_group_logo?e=1747872000&v=beta&t=PX608E8qbqWgWmCQKJZcA1FWi345mpzH0Ee4tuLzjcQ",
+                "universalName": "dedalus-group",
+                "dashCompanyUrn": "urn:li:fsd_company:69675866",
+                "trackingId": "KVbEDY1qQ1Cf3veV2UC4og=="
+            },
+            "companyName": "Dedalus HealthCare Ges.m.b.H."
+        },
+        {
+            "title": "Project Manager HealthCare IT",
+            "description": "HealthCare IT, Imaging Informatics, Medical Devices",
+            "locationName": "Vienna",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:3226",
+                "entityUrn": "urn:li:fs_miniCompany:3226",
+                "name": "AGFA HealthCare",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHP-rh5HBJEKw/company-logo_200_200/company-logo_200_200/0/1630574877911/agfa_healthcare_logo?e=1747872000&v=beta&t=AKC6Lvc1uJ-IL1RucY6WhiIRDgWdVXVeGITABu6EKGw",
+                "universalName": "agfa-healthcare",
+                "dashCompanyUrn": "urn:li:fsd_company:3226",
+                "trackingId": "FGAtgTZNQFe1vH7i59Kd+Q=="
+            },
+            "companyName": "Agfa HealthCare"
+        },
+        {
+            "title": "Research Scientist | Ambient Assisted Living (AAL)",
+            "description": "Project Evaluation Active & Assisted Living (Smart Home, Telemedicine) at the Department for Biomedical Systems",
+            "locationName": "Vienna",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:526248",
+                "entityUrn": "urn:li:fs_miniCompany:526248",
+                "name": "AIT Austrian Institute of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFMT0J4TGYMag/company-logo_200_200/company-logo_200_200/0/1731511661085/austrian_institute_of_technology_logo?e=1747872000&v=beta&t=N0Inh7KesG09oGNUD-KlPgHOkdtrouWQkvMMwQtmNNI",
+                "universalName": "austrian-institute-of-technology",
+                "dashCompanyUrn": "urn:li:fsd_company:526248",
+                "trackingId": "kzhReSYcSYKCOJdPMdTHrA=="
+            },
+            "companyName": "AIT Austrian Institute of Technology GmbH"
+        },
+        {
+            "title": "Freelancer | Active and Ambient Assisted Living (AAL) | Intelligent Environments for Seniors",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "companyName": "Self-Employed"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Medical Science",
+            "fieldOfStudy": "PhD in Public Health",
+            "schoolName": "Medizinische Universität Wien",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        },
+        {
+            "degreeName": "MSc",
+            "fieldOfStudy": "Innovation and Technology Management",
+            "schoolName": "Fachhochschule Technikum Wien",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            }
+        },
+        {
+            "degreeName": "BSc",
+            "fieldOfStudy": "Biomedical Engineering",
+            "schoolName": "Fachhochschule Technikum Wien",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PMI® Project Management Professional PMP",
+            "authority": "Project Management Institute"
+        },
+        {
+            "name": "IHE, ELGA & HL7 Expert",
+            "authority": "Technikum Wien Academy"
+        },
+        {
+            "name": "Befähigungsprüfung Handel mit Medizinprodukten (gewerberechtlicher Geschäftsführer) | Certificate for trade of medical equipment in accordance with § 94 Austrian Trade Act 1994",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "authority": "Wirtschaftskammer Wien"
+        },
+        {
+            "name": "Organizational Design - Leading Organizations in the Digital Age",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "authority": "WU Executive Academy"
+        },
+        {
+            "name": "Diplomlehrgang Unternehmenskultur und Organisationsentwicklung",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2024
+                }
+            },
+            "authority": "BFI Wien"
+        }
+    ],
+    "skills": [
+        "Unternehmensführung",
+        "Projektmanagement",
+        "Informatik",
+        "Biotechnologie"
+    ],
+    "lastEnriched": "2025-02-17"
+}

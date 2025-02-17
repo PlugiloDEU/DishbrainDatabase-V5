@@ -1,0 +1,531 @@
+{
+    "id": "exp297204794",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Gabriel",
+        "lastName": "Elias",
+        "fullName": "Gabriel Elias",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Spanish"
+        ],
+        "allData": {
+            "id": "297204794",
+            "profileId": "ACoAABG2_DoBfWsWD29ylAd_BgUKm235zlvXr7M",
+            "firstName": "Gabriel",
+            "lastName": "Elias",
+            "occupation": "Field property claims adjuster at Liberty Mutual Insurance",
+            "publicIdentifier": "gabriel-elias-62264983",
+            "trackingId": "+AumAKXUS9WuHX4XvqyuZg==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104271920",
+            "positions": [
+                {
+                    "title": "Field property claims adjuster",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Insurance"
+                        ],
+                        "objectUrn": "urn:li:company:2701",
+                        "entityUrn": "urn:li:fs_miniCompany:2701",
+                        "name": "Liberty Mutual Insurance",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFQ4BDi2WFLoA/company-logo_200_200/company-logo_200_200/0/1630623768743/liberty_mutual_insurance_logo?e=1747872000&v=beta&t=PcNfuuyTvqBY_5H_MenCydH4802hA83JkRICcr9a3I0",
+                        "universalName": "liberty-mutual-insurance",
+                        "dashCompanyUrn": "urn:li:fsd_company:2701",
+                        "trackingId": "zjICHEteQ9ynfi7E2YoPDg=="
+                    },
+                    "companyName": "Liberty Mutual Insurance"
+                },
+                {
+                    "title": "Property Claims Adjuster",
+                    "locationName": "Brea, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Insurance"
+                        ],
+                        "objectUrn": "urn:li:company:9804",
+                        "entityUrn": "urn:li:fs_miniCompany:9804",
+                        "name": "Mercury Insurance",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE-82FFaPrG_Q/company-logo_200_200/company-logo_200_200/0/1630671396756/mercury_insurance_logo?e=1747872000&v=beta&t=wjc1UngGSaetr2cuEYq4-IhDEKanF_dJh39dBSQAuBo",
+                        "universalName": "mercury-insurance",
+                        "dashCompanyUrn": "urn:li:fsd_company:9804",
+                        "trackingId": "dtxFiv6aQ127xAzjX3rBVw=="
+                    },
+                    "companyName": "Mercury Insurance"
+                },
+                {
+                    "title": "Claims Representative",
+                    "locationName": "Ontario ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Insurance"
+                        ],
+                        "objectUrn": "urn:li:company:7720",
+                        "entityUrn": "urn:li:fs_miniCompany:7720",
+                        "name": "National General",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdwrX_bE2W1w/company-logo_200_200/company-logo_200_200/0/1645734465875/national_general_insurance_logo?e=1747872000&v=beta&t=vx1GGKEWI8Z-MGwCVxCkkdonxr7YLRjBjV6dxWp0xtU",
+                        "universalName": "national-general-insurance",
+                        "dashCompanyUrn": "urn:li:fsd_company:7720",
+                        "trackingId": "qP0znRqiSc6CtDukV0fMmQ=="
+                    },
+                    "companyName": "National General Insurance"
+                },
+                {
+                    "title": "San Bernardino County Field Supervisor",
+                    "description": "Manage the security officers of multiple client locations and act as the point of contact for emergency response and discipline issues.  Responsible for hiring, training and developing new security officers and site supervisors.\nEnsure the day to day security operation of 26 sites are in accordance with company and client policy. Maintain a constant accountability of all equipment, supplies and vehicles with appropriate inventory and maintenance check lists\nManage and train 74 personnel on Allied Barton policies a outlined in the handbooks, memos and on the portal. \nPrepares round the clock weekly operating schedules and payroll for assigned security personnel",
+                    "locationName": "San Bernardino",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Security and Investigations"
+                        ],
+                        "objectUrn": "urn:li:company:162381",
+                        "entityUrn": "urn:li:fs_miniCompany:162381",
+                        "name": "AlliedBarton Security Services",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGYbAOI50n55g/company-logo_200_200/company-logo_200_200/0/1702507917024/alliedbarton_security_services_logo?e=1747872000&v=beta&t=Tcsy9UEVZ1YIKVsGNyd8xOYtmHPVNabvCYH5oUzJH60",
+                        "universalName": "alliedbarton-security-services",
+                        "dashCompanyUrn": "urn:li:fsd_company:162381",
+                        "trackingId": "RLBc66KxQrqpVE1mWFukcw=="
+                    },
+                    "companyName": "AlliedBarton Security Services"
+                },
+                {
+                    "title": "13-B Cannon Crew Member",
+                    "description": "Serve as a Squad Leader to the Platoon Sergeant and Platoon Leader; responsible for the health and welfare of 6 Soldiers and responsible for morale, discipline and performance; responsible for personal and professional counseling, comply with standard operating procedures, inspections and physical fitness; trains, supervises and performs duties under Army training regulations. \nLoads and fires howitzers. Set fuses and charges on a variety of munitions, including high explosive artillery rounds, laser guided projectiles, scatter-able mines, and rocket assisted projectiles. \nUsed computer generated fire direction data to set elevation of cannon tube for loading and firing. \nEmployed rifles, machine guns, and grenade and rocket launchers in offensive and defensive operations. \nDrove and operates heavy and light wheeled trucks and tracked vehicles. Transported and manages artillery ammunition. \nParticipated in reconnaissance operations to include security operations and position preparation. \nOperated in reduced visibility environments with infrared and starlight enhancing night vision devices and other equipment. \nCoordinates movement into position. Camouflages position area. Communicated using voice and digital wire and radio equipment. \nUsed critical combat survival skills to operate in a hostile environment. \nMaintains operational readiness of vehicles and equipment.\nSupervises handling, transportation, accountability, and distribution of ammunition. \nAssists section chief in supervision of howitzer operations, maintenance, and training.\nLays weapon for direction, conducts bore sighting and basic periodic tests.\nSupervises the operation, loading, and maintenance of the Field Artillery Ammunition Support Vehicle.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Military"
+                        ],
+                        "objectUrn": "urn:li:company:1223",
+                        "entityUrn": "urn:li:fs_miniCompany:1223",
+                        "name": "US Army",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEp91nGwnXLng/company-logo_200_200/company-logo_200_200/0/1678286107166/us_army_logo?e=1747872000&v=beta&t=ktRko7rjNHhADky2OZSipjaXUbKCG1I5zjVe-NRR6Sw",
+                        "universalName": "us-army",
+                        "dashCompanyUrn": "urn:li:fsd_company:1223",
+                        "trackingId": "B+iLvuGFSZyYQkybx6ofcw=="
+                    },
+                    "companyName": "US Army"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor's Degree",
+                    "fieldOfStudy": "Criminal Justice/Administration Management",
+                    "schoolName": "University of Phoenix",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Guard Registration",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2013
+                        }
+                    },
+                    "authority": "Bureau of Security & Investigative Services"
+                },
+                {
+                    "name": "Adult CPR/AED, Child CPR 7 First Aid",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2013
+                        }
+                    },
+                    "authority": "American Red Cross"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Contemporary issues and futures in criminal justice"
+                },
+                {
+                    "name": "Criminal Procedure"
+                },
+                {
+                    "name": "Criminal justice management theory and practice"
+                },
+                {
+                    "name": "Criminal organiztions"
+                },
+                {
+                    "name": "Introduction to corrections"
+                },
+                {
+                    "name": "Organizational behavior and management"
+                },
+                {
+                    "name": "criminal justice management theory and practice"
+                },
+                {
+                    "name": "inttroduction to criminal justice"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Spanish"
+                }
+            ],
+            "skills": [
+                "Security",
+                "Law Enforcement Operations",
+                "Criminal Law",
+                "Firearms"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Field property claims adjuster at Liberty Mutual Insurance",
+            "summary": "Claims Professional offering 4 years of proven experience in property claims with an emphasis on policy knowledge and customer service. Career is supported by a B.S. Criminal Justice Administration and Management and 4+ years of successful claims experience.",
+            "student": false,
+            "industryName": "Insurance",
+            "industryUrn": "urn:li:fs_industry:42",
+            "geoLocationName": "Victorville, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Field property claims adjuster",
+            "companyName": "Liberty Mutual Insurance",
+            "companyPublicId": "liberty-mutual-insurance",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/liberty-mutual-insurance",
+            "following": false,
+            "followable": true,
+            "followersCount": 51,
+            "connectionsCount": 49,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Liberty Mutual Insurance",
+        "position": "Field property claims adjuster",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Insurance"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Field property claims adjuster",
+        "organization": "Liberty Mutual Insurance",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/gabriel-elias-62264983/",
+        "company": "https://www.linkedin.com/company/liberty-mutual-insurance"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Field property claims adjuster",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Insurance"
+                ],
+                "objectUrn": "urn:li:company:2701",
+                "entityUrn": "urn:li:fs_miniCompany:2701",
+                "name": "Liberty Mutual Insurance",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFQ4BDi2WFLoA/company-logo_200_200/company-logo_200_200/0/1630623768743/liberty_mutual_insurance_logo?e=1747872000&v=beta&t=PcNfuuyTvqBY_5H_MenCydH4802hA83JkRICcr9a3I0",
+                "universalName": "liberty-mutual-insurance",
+                "dashCompanyUrn": "urn:li:fsd_company:2701",
+                "trackingId": "zjICHEteQ9ynfi7E2YoPDg=="
+            },
+            "companyName": "Liberty Mutual Insurance"
+        },
+        {
+            "title": "Property Claims Adjuster",
+            "locationName": "Brea, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Insurance"
+                ],
+                "objectUrn": "urn:li:company:9804",
+                "entityUrn": "urn:li:fs_miniCompany:9804",
+                "name": "Mercury Insurance",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE-82FFaPrG_Q/company-logo_200_200/company-logo_200_200/0/1630671396756/mercury_insurance_logo?e=1747872000&v=beta&t=wjc1UngGSaetr2cuEYq4-IhDEKanF_dJh39dBSQAuBo",
+                "universalName": "mercury-insurance",
+                "dashCompanyUrn": "urn:li:fsd_company:9804",
+                "trackingId": "dtxFiv6aQ127xAzjX3rBVw=="
+            },
+            "companyName": "Mercury Insurance"
+        },
+        {
+            "title": "Claims Representative",
+            "locationName": "Ontario ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Insurance"
+                ],
+                "objectUrn": "urn:li:company:7720",
+                "entityUrn": "urn:li:fs_miniCompany:7720",
+                "name": "National General",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdwrX_bE2W1w/company-logo_200_200/company-logo_200_200/0/1645734465875/national_general_insurance_logo?e=1747872000&v=beta&t=vx1GGKEWI8Z-MGwCVxCkkdonxr7YLRjBjV6dxWp0xtU",
+                "universalName": "national-general-insurance",
+                "dashCompanyUrn": "urn:li:fsd_company:7720",
+                "trackingId": "qP0znRqiSc6CtDukV0fMmQ=="
+            },
+            "companyName": "National General Insurance"
+        },
+        {
+            "title": "San Bernardino County Field Supervisor",
+            "description": "Manage the security officers of multiple client locations and act as the point of contact for emergency response and discipline issues.  Responsible for hiring, training and developing new security officers and site supervisors.\nEnsure the day to day security operation of 26 sites are in accordance with company and client policy. Maintain a constant accountability of all equipment, supplies and vehicles with appropriate inventory and maintenance check lists\nManage and train 74 personnel on Allied Barton policies a outlined in the handbooks, memos and on the portal. \nPrepares round the clock weekly operating schedules and payroll for assigned security personnel",
+            "locationName": "San Bernardino",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Security and Investigations"
+                ],
+                "objectUrn": "urn:li:company:162381",
+                "entityUrn": "urn:li:fs_miniCompany:162381",
+                "name": "AlliedBarton Security Services",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGYbAOI50n55g/company-logo_200_200/company-logo_200_200/0/1702507917024/alliedbarton_security_services_logo?e=1747872000&v=beta&t=Tcsy9UEVZ1YIKVsGNyd8xOYtmHPVNabvCYH5oUzJH60",
+                "universalName": "alliedbarton-security-services",
+                "dashCompanyUrn": "urn:li:fsd_company:162381",
+                "trackingId": "RLBc66KxQrqpVE1mWFukcw=="
+            },
+            "companyName": "AlliedBarton Security Services"
+        },
+        {
+            "title": "13-B Cannon Crew Member",
+            "description": "Serve as a Squad Leader to the Platoon Sergeant and Platoon Leader; responsible for the health and welfare of 6 Soldiers and responsible for morale, discipline and performance; responsible for personal and professional counseling, comply with standard operating procedures, inspections and physical fitness; trains, supervises and performs duties under Army training regulations. \nLoads and fires howitzers. Set fuses and charges on a variety of munitions, including high explosive artillery rounds, laser guided projectiles, scatter-able mines, and rocket assisted projectiles. \nUsed computer generated fire direction data to set elevation of cannon tube for loading and firing. \nEmployed rifles, machine guns, and grenade and rocket launchers in offensive and defensive operations. \nDrove and operates heavy and light wheeled trucks and tracked vehicles. Transported and manages artillery ammunition. \nParticipated in reconnaissance operations to include security operations and position preparation. \nOperated in reduced visibility environments with infrared and starlight enhancing night vision devices and other equipment. \nCoordinates movement into position. Camouflages position area. Communicated using voice and digital wire and radio equipment. \nUsed critical combat survival skills to operate in a hostile environment. \nMaintains operational readiness of vehicles and equipment.\nSupervises handling, transportation, accountability, and distribution of ammunition. \nAssists section chief in supervision of howitzer operations, maintenance, and training.\nLays weapon for direction, conducts bore sighting and basic periodic tests.\nSupervises the operation, loading, and maintenance of the Field Artillery Ammunition Support Vehicle.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Military"
+                ],
+                "objectUrn": "urn:li:company:1223",
+                "entityUrn": "urn:li:fs_miniCompany:1223",
+                "name": "US Army",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEp91nGwnXLng/company-logo_200_200/company-logo_200_200/0/1678286107166/us_army_logo?e=1747872000&v=beta&t=ktRko7rjNHhADky2OZSipjaXUbKCG1I5zjVe-NRR6Sw",
+                "universalName": "us-army",
+                "dashCompanyUrn": "urn:li:fsd_company:1223",
+                "trackingId": "B+iLvuGFSZyYQkybx6ofcw=="
+            },
+            "companyName": "US Army"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor's Degree",
+            "fieldOfStudy": "Criminal Justice/Administration Management",
+            "schoolName": "University of Phoenix",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Guard Registration",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            },
+            "authority": "Bureau of Security & Investigative Services"
+        },
+        {
+            "name": "Adult CPR/AED, Child CPR 7 First Aid",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            },
+            "authority": "American Red Cross"
+        }
+    ],
+    "skills": [
+        "Security",
+        "Law Enforcement Operations",
+        "Criminal Law",
+        "Firearms"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,406 @@
+{
+    "id": "exp19163569",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Ralf",
+        "lastName": "Schmidt-Dannert",
+        "fullName": "Ralf Schmidt-Dannert",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "19163569",
+            "profileId": "ACoAAAEkabEBWC8IAgNr1SQjVxsGLRgN0ha_XZg",
+            "firstName": "Ralf",
+            "lastName": "Schmidt-Dannert",
+            "occupation": "Principal IT Specialist at IBM",
+            "publicIdentifier": "ralf-schmidt-dannert",
+            "trackingId": "qu6HcmUTQvOhI7eOoHaW+Q==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102370339",
+            "positions": [
+                {
+                    "title": "Principal Information Technology Consultant",
+                    "locationName": "Minneapolis, Minnesota, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1009",
+                        "entityUrn": "urn:li:fs_miniCompany:1009",
+                        "name": "IBM",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                        "universalName": "ibm",
+                        "dashCompanyUrn": "urn:li:fsd_company:1009",
+                        "trackingId": "oKTJQnivTQ6lVURdCcq+mg=="
+                    },
+                    "companyName": "IBM"
+                },
+                {
+                    "title": "Executive IT Specialist",
+                    "description": "IBM Advanced Technical Group, ISV on Power - Oracle Team member with focus on:\n- Oracle Databases on IBM Power servers with AIX\n- Oracle Retail solutions on IBM Power servers\n- Private cloud with IaaS and DBaaS ( Oracle focus) with IBM PowerVC managing AIX and Linux on Power\n- IBM Power Virtual Servers for Oracle software and Hybrid Cloud\n- Tool development in support of performance analysis and competitive sizing for environments running Oracle databases",
+                    "locationName": "Greater Minneapolis-St. Paul Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 1998
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1009",
+                        "entityUrn": "urn:li:fs_miniCompany:1009",
+                        "name": "IBM",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                        "universalName": "ibm",
+                        "dashCompanyUrn": "urn:li:fsd_company:1009",
+                        "trackingId": "1QDnywITS8KSd5F+7VmLkA=="
+                    },
+                    "companyName": "IBM"
+                },
+                {
+                    "title": "Senior IT Specialist",
+                    "locationName": "Stuttgart Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 1994
+                        }
+                    },
+                    "companyName": "SerCon GmbH (Service-Konzepte für Informations-Systeme GmbH)"
+                },
+                {
+                    "title": "IT Specialist",
+                    "locationName": "Braunschweig Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 1994
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 1990
+                        }
+                    },
+                    "companyName": "Unilab Software GmbH"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dipl. Inform.",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Technische Universitaet Braunschweig",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1990
+                        },
+                        "startDate": {
+                            "year": 1985
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "IT Specialist Profession Certification - Level 3",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2016
+                        }
+                    },
+                    "authority": "IBM"
+                },
+                {
+                    "name": "Professional Certification: Master Certified Technical Specialist, Packaged Application Implementation",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2016
+                        }
+                    },
+                    "authority": "The Open Group"
+                },
+                {
+                    "name": "IBM Recognized Teacher/ Educator",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2018
+                        }
+                    },
+                    "authority": "IBM"
+                },
+                {
+                    "name": "Technical Specialist Profession Certification - Level 3",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "IBM"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "AIX",
+                "Performance Tuning",
+                "Capacity Planning",
+                "Enterprise Architecture"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Principal IT Specialist at IBM",
+            "summary": "Experienced Information Technology Executive with a demonstrated history of working in the information technology and services industry. Skilled in Performance Tuning, Oracle Database, Capacity Planning, Enterprise Architecture, and Storage. Strong sales professional with a Dipl. Inform. focused in Computer Science from Technische Universitaet Braunschweig. ",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "St Paul, Minnesota",
+            "geoCountryName": "United States",
+            "jobTitle": "Principal Information Technology Consultant",
+            "companyName": "IBM",
+            "companyPublicId": "ibm",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ibm",
+            "following": false,
+            "followable": true,
+            "followersCount": 361,
+            "connectionsCount": 356,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "IBM",
+        "position": "Principal Information Technology Consultant",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Principal Information Technology Consultant",
+        "organization": "IBM",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/ralf-schmidt-dannert/",
+        "company": "https://www.linkedin.com/company/ibm"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Principal Information Technology Consultant",
+            "locationName": "Minneapolis, Minnesota, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "oKTJQnivTQ6lVURdCcq+mg=="
+            },
+            "companyName": "IBM"
+        },
+        {
+            "title": "Executive IT Specialist",
+            "description": "IBM Advanced Technical Group, ISV on Power - Oracle Team member with focus on:\n- Oracle Databases on IBM Power servers with AIX\n- Oracle Retail solutions on IBM Power servers\n- Private cloud with IaaS and DBaaS ( Oracle focus) with IBM PowerVC managing AIX and Linux on Power\n- IBM Power Virtual Servers for Oracle software and Hybrid Cloud\n- Tool development in support of performance analysis and competitive sizing for environments running Oracle databases",
+            "locationName": "Greater Minneapolis-St. Paul Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 1998
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "1QDnywITS8KSd5F+7VmLkA=="
+            },
+            "companyName": "IBM"
+        },
+        {
+            "title": "Senior IT Specialist",
+            "locationName": "Stuttgart Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 1998
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 1994
+                }
+            },
+            "companyName": "SerCon GmbH (Service-Konzepte für Informations-Systeme GmbH)"
+        },
+        {
+            "title": "IT Specialist",
+            "locationName": "Braunschweig Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 1994
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 1990
+                }
+            },
+            "companyName": "Unilab Software GmbH"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dipl. Inform.",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Technische Universitaet Braunschweig",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1990
+                },
+                "startDate": {
+                    "year": 1985
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "IT Specialist Profession Certification - Level 3",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "authority": "IBM"
+        },
+        {
+            "name": "Professional Certification: Master Certified Technical Specialist, Packaged Application Implementation",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "authority": "The Open Group"
+        },
+        {
+            "name": "IBM Recognized Teacher/ Educator",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "authority": "IBM"
+        },
+        {
+            "name": "Technical Specialist Profession Certification - Level 3",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "authority": "IBM"
+        }
+    ],
+    "skills": [
+        "AIX",
+        "Performance Tuning",
+        "Capacity Planning",
+        "Enterprise Architecture"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,581 @@
+{
+    "id": "exp600850131",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christoph",
+        "lastName": "Schreiber",
+        "fullName": "Christoph Schreiber",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHcP9ytbm3Gow/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1643731122737?e=1745452800&v=beta&t=DO3IWu24r5v3NPlk04ZMa2yy0SYqBINgqkZnjaFIpi0",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Italienisch",
+            "Polnisch"
+        ],
+        "allData": {
+            "id": "600850131",
+            "profileId": "ACoAACPQPtMBVrQ6OHPy8gJhLdRtOo1d2sQ3wOc",
+            "firstName": "Christoph",
+            "lastName": "Schreiber",
+            "occupation": "Chief Financial Officer | enspired",
+            "publicIdentifier": "christoph-schreiber-243282149",
+            "trackingId": "ffNGaqV1Rmi3l1bZysfM7w==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHcP9ytbm3Gow/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1643731122737?e=1745452800&v=beta&t=DO3IWu24r5v3NPlk04ZMa2yy0SYqBINgqkZnjaFIpi0",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQGrHfqW82YhJQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1643731310545?e=1745452800&v=beta&t=UNQcVsc-qO4pP8hV5x7sAgGiIXFoNQzivfXW_opfdhQ",
+            "countryCode": "at",
+            "geoUrn": "urn:li:fs_geo:103883259",
+            "positions": [
+                {
+                    "title": "Chief Financial Officer (CFO)",
+                    "locationName": "Vienna",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:64692551",
+                        "entityUrn": "urn:li:fs_miniCompany:64692551",
+                        "name": "enspired",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGF3ji36er-MQ/company-logo_200_200/company-logo_200_200/0/1730204784958/enspired_logo?e=1747872000&v=beta&t=ORPhStXqZfxCXxvGgRPgETlDBq2SeHo5S1_yRX8W2A0",
+                        "universalName": "enspired",
+                        "dashCompanyUrn": "urn:li:fsd_company:64692551",
+                        "trackingId": "NI4+wQ69Qa6val8z9Ihghw=="
+                    },
+                    "companyName": "enspired GmbH"
+                },
+                {
+                    "title": "Community Lead Finance",
+                    "locationName": "Wien, Österreich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:64692551",
+                        "entityUrn": "urn:li:fs_miniCompany:64692551",
+                        "name": "enspired",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGF3ji36er-MQ/company-logo_200_200/company-logo_200_200/0/1730204784958/enspired_logo?e=1747872000&v=beta&t=ORPhStXqZfxCXxvGgRPgETlDBq2SeHo5S1_yRX8W2A0",
+                        "universalName": "enspired",
+                        "dashCompanyUrn": "urn:li:fsd_company:64692551",
+                        "trackingId": "t0P52rkDSEerMfiiAizo/Q=="
+                    },
+                    "companyName": "enspired"
+                },
+                {
+                    "title": "Senior Finance Advisor",
+                    "locationName": "Wien, Österreich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:64692551",
+                        "entityUrn": "urn:li:fs_miniCompany:64692551",
+                        "name": "enspired",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGF3ji36er-MQ/company-logo_200_200/company-logo_200_200/0/1730204784958/enspired_logo?e=1747872000&v=beta&t=ORPhStXqZfxCXxvGgRPgETlDBq2SeHo5S1_yRX8W2A0",
+                        "universalName": "enspired",
+                        "dashCompanyUrn": "urn:li:fsd_company:64692551",
+                        "trackingId": "GpXM7qTMQnOrlbRK0UMdPQ=="
+                    },
+                    "companyName": "enspired"
+                },
+                {
+                    "title": "Head of Finance",
+                    "description": "- post-merger integration and setting up the groupwide Finance department and the finance processes of cyan AG, Munich\n- setting up the groupwide quarterly external reporting according to IFRS of a company listed on the scale-up segment in Frankfurt (cyan AG, Munich)\n- setting up the groupwide Controlling department and the internal management reporting, including the implementation of a groupwide Controlling tool\n- single point of contact for financial auditors\n- commercial support / advisor (convertible notes, restructuring) to the board of cyan AG, Munich\n- CFO, member of the board of I-New Unified Mobile Solutions AG, Vienna\n- authorized signatory of Cyan Security Group GmbH and I-New Unified Mobile Solutions GmbH",
+                    "locationName": "Vienna, Austria",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:18959074",
+                        "entityUrn": "urn:li:fs_miniCompany:18959074",
+                        "name": "cyan Digital Security",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGn6B898xh-Rg/company-logo_200_200/company-logo_200_200/0/1677005429662/cyandigitalsecurity_logo?e=1747872000&v=beta&t=WQE4hLdmr7GEak8YaCT7lzH9iZl9vo9bWC68z87NPh0",
+                        "universalName": "cyandigitalsecurity",
+                        "dashCompanyUrn": "urn:li:fsd_company:18959074",
+                        "trackingId": "57RuSWy3Qk2ZFGnCAC913Q=="
+                    },
+                    "companyName": "Cyan Digital Security"
+                },
+                {
+                    "title": "Interim Chief Financial Officer",
+                    "locationName": "Vienna, Austria",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:3163866",
+                        "entityUrn": "urn:li:fs_miniCompany:3163866",
+                        "name": "i-new | Compax MVNx Solutions",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQESJ4qUUbA-4g/company-logo_200_200/company-logo_200_200/0/1707761987850/i_new_unified_mobile_solutions_logo?e=1747872000&v=beta&t=b0MtXTetCyL6JxzxTRuR7kqKnTq_FL-OO-Z8YGR4vjU",
+                        "universalName": "i-new-solutions",
+                        "dashCompanyUrn": "urn:li:fsd_company:3163866",
+                        "trackingId": "qKWHyDUBR0mG2mYzdqtpvg=="
+                    },
+                    "companyName": "I-New Unified Mobile Solutions"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "without graduation",
+                    "fieldOfStudy": "business law",
+                    "schoolName": "Vienna University of Economics and Business",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master",
+                    "fieldOfStudy": "business administration",
+                    "schoolName": "Vienna University of Economics and Business",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Certified Advanced Controller Diplom",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2005
+                        }
+                    },
+                    "authority": "Controller Institut Vienna"
+                },
+                {
+                    "name": "Finance Manager",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2006
+                        }
+                    },
+                    "authority": "Controller Institut Vienna"
+                },
+                {
+                    "name": "Controller Diplom",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2004
+                        }
+                    },
+                    "authority": "Controller Institut Vienna"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Bildungspfad für junge Führungskräfte"
+                },
+                {
+                    "name": "Diversity Training"
+                },
+                {
+                    "name": "Drafting Contracts for Non-Lawyers"
+                },
+                {
+                    "name": "Financial Modelling"
+                },
+                {
+                    "name": "Führung in Projekten"
+                },
+                {
+                    "name": "Interkulturelles Management"
+                },
+                {
+                    "name": "Next Generation CFO Academy"
+                },
+                {
+                    "name": "Riskmanagement for Projectmanagers"
+                },
+                {
+                    "name": "Verhandlungstraining nach Harvard"
+                },
+                {
+                    "name": "Zeitmanagement und Arbeitstechnik"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Italienisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Polnisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Chief Financial Officer | enspired",
+            "student": false,
+            "industryName": "Renewables & Environment",
+            "industryUrn": "urn:li:fs_industry:144",
+            "geoCountryName": "Austria",
+            "jobTitle": "Chief Financial Officer (CFO)",
+            "companyName": "enspired GmbH",
+            "companyPublicId": "enspired",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/enspired",
+            "following": false,
+            "followable": true,
+            "followersCount": 766,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "enspired GmbH",
+        "position": "Chief Financial Officer (CFO)",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chief Financial Officer (CFO)",
+        "organization": "enspired GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christoph-schreiber-243282149/",
+        "company": "https://www.linkedin.com/company/enspired"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chief Financial Officer (CFO)",
+            "locationName": "Vienna",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:64692551",
+                "entityUrn": "urn:li:fs_miniCompany:64692551",
+                "name": "enspired",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGF3ji36er-MQ/company-logo_200_200/company-logo_200_200/0/1730204784958/enspired_logo?e=1747872000&v=beta&t=ORPhStXqZfxCXxvGgRPgETlDBq2SeHo5S1_yRX8W2A0",
+                "universalName": "enspired",
+                "dashCompanyUrn": "urn:li:fsd_company:64692551",
+                "trackingId": "NI4+wQ69Qa6val8z9Ihghw=="
+            },
+            "companyName": "enspired GmbH"
+        },
+        {
+            "title": "Community Lead Finance",
+            "locationName": "Wien, Österreich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:64692551",
+                "entityUrn": "urn:li:fs_miniCompany:64692551",
+                "name": "enspired",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGF3ji36er-MQ/company-logo_200_200/company-logo_200_200/0/1730204784958/enspired_logo?e=1747872000&v=beta&t=ORPhStXqZfxCXxvGgRPgETlDBq2SeHo5S1_yRX8W2A0",
+                "universalName": "enspired",
+                "dashCompanyUrn": "urn:li:fsd_company:64692551",
+                "trackingId": "t0P52rkDSEerMfiiAizo/Q=="
+            },
+            "companyName": "enspired"
+        },
+        {
+            "title": "Senior Finance Advisor",
+            "locationName": "Wien, Österreich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:64692551",
+                "entityUrn": "urn:li:fs_miniCompany:64692551",
+                "name": "enspired",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGF3ji36er-MQ/company-logo_200_200/company-logo_200_200/0/1730204784958/enspired_logo?e=1747872000&v=beta&t=ORPhStXqZfxCXxvGgRPgETlDBq2SeHo5S1_yRX8W2A0",
+                "universalName": "enspired",
+                "dashCompanyUrn": "urn:li:fsd_company:64692551",
+                "trackingId": "GpXM7qTMQnOrlbRK0UMdPQ=="
+            },
+            "companyName": "enspired"
+        },
+        {
+            "title": "Head of Finance",
+            "description": "- post-merger integration and setting up the groupwide Finance department and the finance processes of cyan AG, Munich\n- setting up the groupwide quarterly external reporting according to IFRS of a company listed on the scale-up segment in Frankfurt (cyan AG, Munich)\n- setting up the groupwide Controlling department and the internal management reporting, including the implementation of a groupwide Controlling tool\n- single point of contact for financial auditors\n- commercial support / advisor (convertible notes, restructuring) to the board of cyan AG, Munich\n- CFO, member of the board of I-New Unified Mobile Solutions AG, Vienna\n- authorized signatory of Cyan Security Group GmbH and I-New Unified Mobile Solutions GmbH",
+            "locationName": "Vienna, Austria",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:18959074",
+                "entityUrn": "urn:li:fs_miniCompany:18959074",
+                "name": "cyan Digital Security",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGn6B898xh-Rg/company-logo_200_200/company-logo_200_200/0/1677005429662/cyandigitalsecurity_logo?e=1747872000&v=beta&t=WQE4hLdmr7GEak8YaCT7lzH9iZl9vo9bWC68z87NPh0",
+                "universalName": "cyandigitalsecurity",
+                "dashCompanyUrn": "urn:li:fsd_company:18959074",
+                "trackingId": "57RuSWy3Qk2ZFGnCAC913Q=="
+            },
+            "companyName": "Cyan Digital Security"
+        },
+        {
+            "title": "Interim Chief Financial Officer",
+            "locationName": "Vienna, Austria",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:3163866",
+                "entityUrn": "urn:li:fs_miniCompany:3163866",
+                "name": "i-new | Compax MVNx Solutions",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQESJ4qUUbA-4g/company-logo_200_200/company-logo_200_200/0/1707761987850/i_new_unified_mobile_solutions_logo?e=1747872000&v=beta&t=b0MtXTetCyL6JxzxTRuR7kqKnTq_FL-OO-Z8YGR4vjU",
+                "universalName": "i-new-solutions",
+                "dashCompanyUrn": "urn:li:fsd_company:3163866",
+                "trackingId": "qKWHyDUBR0mG2mYzdqtpvg=="
+            },
+            "companyName": "I-New Unified Mobile Solutions"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "without graduation",
+            "fieldOfStudy": "business law",
+            "schoolName": "Vienna University of Economics and Business",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        },
+        {
+            "degreeName": "Master",
+            "fieldOfStudy": "business administration",
+            "schoolName": "Vienna University of Economics and Business",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Advanced Controller Diplom",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2005
+                }
+            },
+            "authority": "Controller Institut Vienna"
+        },
+        {
+            "name": "Finance Manager",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2006
+                }
+            },
+            "authority": "Controller Institut Vienna"
+        },
+        {
+            "name": "Controller Diplom",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2004
+                }
+            },
+            "authority": "Controller Institut Vienna"
+        }
+    ],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

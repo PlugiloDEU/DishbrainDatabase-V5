@@ -1,0 +1,451 @@
+{
+    "id": "exp551470134",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christian",
+        "lastName": "Becker",
+        "fullName": "Christian Becker",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQE7H8SBWfNY3Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1650829176970?e=1745452800&v=beta&t=TCQTidrGhQCj7X-pDspZrwNu-z4HnrhrSwLBsxrOpdw",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch"
+        ],
+        "allData": {
+            "id": "551470134",
+            "profileId": "ACoAACDexDYB75SSYlq9qacYcFrJ6xW1OvrVRqU",
+            "firstName": "Christian",
+            "lastName": "Becker",
+            "occupation": "Professor at TUHH - Hamburg University of Technology",
+            "publicIdentifier": "christian-becker-986829134",
+            "trackingId": "afzNDB3DQ9qZZGDDfx/IBw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQE7H8SBWfNY3Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1650829176970?e=1745452800&v=beta&t=TCQTidrGhQCj7X-pDspZrwNu-z4HnrhrSwLBsxrOpdw",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009725",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "locationName": "Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15092611",
+                        "entityUrn": "urn:li:fs_miniCompany:15092611",
+                        "name": "Hamburg University of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMnLVYYxpGqQ/company-logo_200_200/company-logo_200_200/0/1630640994858/technische_universitt_hamburg_logo?e=1747872000&v=beta&t=1UcGMpWJK13tg1TGKLqLhQZDoXUE0IneEDykIXMET_8",
+                        "universalName": "technische-universität-hamburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:15092611",
+                        "trackingId": "539FOew0TbS4S0g/ujukOQ=="
+                    },
+                    "companyName": "TUHH - Hamburg University of Technology"
+                },
+                {
+                    "title": "Head of Institute of Electrical Power and Energy Technology (ieet) at TUHH",
+                    "locationName": "Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:86320348",
+                        "entityUrn": "urn:li:fs_miniCompany:86320348",
+                        "name": "Institute of Electrical Power and Energy Technology (ieet) - TUHH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXGGREbL_P5A/company-logo_200_200/company-logo_200_200/0/1655123878708?e=1747872000&v=beta&t=fn2XfdJLyjkqlITuD5ARw4T4ys6yFruyNnEfRheD-Hg",
+                        "universalName": "ieet-tuhh",
+                        "dashCompanyUrn": "urn:li:fsd_company:86320348",
+                        "trackingId": "fM9TtrOoSfW7H8bi8iqxrw=="
+                    },
+                    "companyName": "Institute of Electrical Power and Energy Technology (ieet) - TUHH"
+                },
+                {
+                    "title": "Head of Ventilation Control & System Integration",
+                    "locationName": "Hamburg Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Aviation & Aerospace"
+                        ],
+                        "objectUrn": "urn:li:company:2734",
+                        "entityUrn": "urn:li:fs_miniCompany:2734",
+                        "name": "Airbus",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_200_200/company-logo_200_200/0/1631375371456/airbusgroup_logo?e=1747872000&v=beta&t=guxPZ8p5dl0QxZjkBq3QHl7rXz5tTkaiKqHui5FwGGY",
+                        "universalName": "airbusgroup",
+                        "dashCompanyUrn": "urn:li:fsd_company:2734",
+                        "trackingId": "r2ZUkQhwRPutZrTYyaQKNQ=="
+                    },
+                    "companyName": "Airbus Group"
+                },
+                {
+                    "title": "Project/Technical Lead / A380 and A350XWB",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Aviation & Aerospace"
+                        ],
+                        "objectUrn": "urn:li:company:2734",
+                        "entityUrn": "urn:li:fs_miniCompany:2734",
+                        "name": "Airbus",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_200_200/company-logo_200_200/0/1631375371456/airbusgroup_logo?e=1747872000&v=beta&t=guxPZ8p5dl0QxZjkBq3QHl7rXz5tTkaiKqHui5FwGGY",
+                        "universalName": "airbusgroup",
+                        "dashCompanyUrn": "urn:li:fsd_company:2734",
+                        "trackingId": "pBN4X+ZLScmslET4Ey51gQ=="
+                    },
+                    "companyName": "Airbus Group"
+                },
+                {
+                    "title": "System Engineer / A380",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Aviation & Aerospace"
+                        ],
+                        "objectUrn": "urn:li:company:2734",
+                        "entityUrn": "urn:li:fs_miniCompany:2734",
+                        "name": "Airbus",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_200_200/company-logo_200_200/0/1631375371456/airbusgroup_logo?e=1747872000&v=beta&t=guxPZ8p5dl0QxZjkBq3QHl7rXz5tTkaiKqHui5FwGGY",
+                        "universalName": "airbusgroup",
+                        "dashCompanyUrn": "urn:li:fsd_company:2734",
+                        "trackingId": "9UA3wvvoTemRC1RmjL6T3w=="
+                    },
+                    "companyName": "Airbus Group"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr.-Ing.",
+                    "fieldOfStudy": "Electrical Power Systems",
+                    "schoolName": "Technische Universität Dortmund",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom-Ingenieur",
+                    "fieldOfStudy": "Electrical Engineering / Automation and Control Engineering",
+                    "schoolName": "Technische Universität Dortmund",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1996
+                        },
+                        "startDate": {
+                            "year": 1991
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Professor at TUHH - Hamburg University of Technology",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Greater Hamburg Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor",
+            "companyName": "TUHH - Hamburg University of Technology",
+            "companyPublicId": "technische-universität-hamburg",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/technische-universität-hamburg",
+            "following": false,
+            "followable": false,
+            "followersCount": 524,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "TUHH - Hamburg University of Technology",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "TUHH - Hamburg University of Technology",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christian-becker-986829134/",
+        "company": "https://www.linkedin.com/company/technische-universität-hamburg"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "locationName": "Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15092611",
+                "entityUrn": "urn:li:fs_miniCompany:15092611",
+                "name": "Hamburg University of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMnLVYYxpGqQ/company-logo_200_200/company-logo_200_200/0/1630640994858/technische_universitt_hamburg_logo?e=1747872000&v=beta&t=1UcGMpWJK13tg1TGKLqLhQZDoXUE0IneEDykIXMET_8",
+                "universalName": "technische-universität-hamburg",
+                "dashCompanyUrn": "urn:li:fsd_company:15092611",
+                "trackingId": "539FOew0TbS4S0g/ujukOQ=="
+            },
+            "companyName": "TUHH - Hamburg University of Technology"
+        },
+        {
+            "title": "Head of Institute of Electrical Power and Energy Technology (ieet) at TUHH",
+            "locationName": "Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:86320348",
+                "entityUrn": "urn:li:fs_miniCompany:86320348",
+                "name": "Institute of Electrical Power and Energy Technology (ieet) - TUHH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEXGGREbL_P5A/company-logo_200_200/company-logo_200_200/0/1655123878708?e=1747872000&v=beta&t=fn2XfdJLyjkqlITuD5ARw4T4ys6yFruyNnEfRheD-Hg",
+                "universalName": "ieet-tuhh",
+                "dashCompanyUrn": "urn:li:fsd_company:86320348",
+                "trackingId": "fM9TtrOoSfW7H8bi8iqxrw=="
+            },
+            "companyName": "Institute of Electrical Power and Energy Technology (ieet) - TUHH"
+        },
+        {
+            "title": "Head of Ventilation Control & System Integration",
+            "locationName": "Hamburg Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Aviation & Aerospace"
+                ],
+                "objectUrn": "urn:li:company:2734",
+                "entityUrn": "urn:li:fs_miniCompany:2734",
+                "name": "Airbus",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_200_200/company-logo_200_200/0/1631375371456/airbusgroup_logo?e=1747872000&v=beta&t=guxPZ8p5dl0QxZjkBq3QHl7rXz5tTkaiKqHui5FwGGY",
+                "universalName": "airbusgroup",
+                "dashCompanyUrn": "urn:li:fsd_company:2734",
+                "trackingId": "r2ZUkQhwRPutZrTYyaQKNQ=="
+            },
+            "companyName": "Airbus Group"
+        },
+        {
+            "title": "Project/Technical Lead / A380 and A350XWB",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Aviation & Aerospace"
+                ],
+                "objectUrn": "urn:li:company:2734",
+                "entityUrn": "urn:li:fs_miniCompany:2734",
+                "name": "Airbus",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_200_200/company-logo_200_200/0/1631375371456/airbusgroup_logo?e=1747872000&v=beta&t=guxPZ8p5dl0QxZjkBq3QHl7rXz5tTkaiKqHui5FwGGY",
+                "universalName": "airbusgroup",
+                "dashCompanyUrn": "urn:li:fsd_company:2734",
+                "trackingId": "pBN4X+ZLScmslET4Ey51gQ=="
+            },
+            "companyName": "Airbus Group"
+        },
+        {
+            "title": "System Engineer / A380",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Aviation & Aerospace"
+                ],
+                "objectUrn": "urn:li:company:2734",
+                "entityUrn": "urn:li:fs_miniCompany:2734",
+                "name": "Airbus",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF2j_LDG_TOzg/company-logo_200_200/company-logo_200_200/0/1631375371456/airbusgroup_logo?e=1747872000&v=beta&t=guxPZ8p5dl0QxZjkBq3QHl7rXz5tTkaiKqHui5FwGGY",
+                "universalName": "airbusgroup",
+                "dashCompanyUrn": "urn:li:fsd_company:2734",
+                "trackingId": "9UA3wvvoTemRC1RmjL6T3w=="
+            },
+            "companyName": "Airbus Group"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr.-Ing.",
+            "fieldOfStudy": "Electrical Power Systems",
+            "schoolName": "Technische Universität Dortmund",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom-Ingenieur",
+            "fieldOfStudy": "Electrical Engineering / Automation and Control Engineering",
+            "schoolName": "Technische Universität Dortmund",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                },
+                "startDate": {
+                    "year": 1991
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

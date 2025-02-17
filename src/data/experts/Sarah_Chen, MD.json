@@ -1,0 +1,468 @@
+{
+    "id": "exp32638734",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sarah",
+        "lastName": "Chen, MD",
+        "fullName": "Sarah Chen, MD",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQHfEaGL8BZqjQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1587681134941?e=1745452800&v=beta&t=lwKqoR75Wi24FOFmoFQvpv4LaAcMJbtJ7-lWP4RnUnQ",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "Mandarin",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "32638734",
+            "profileId": "ACoAAAHyBw4BL6zddmvfjAJmeqghmyh_0aIuwZw",
+            "firstName": "Sarah",
+            "lastName": "Chen, MD",
+            "occupation": "VP of Clinical Innovation at Maven Clinic",
+            "publicIdentifier": "sarahpchen",
+            "trackingId": "mGscZRy5QE+kIKrx5g5xGQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHfEaGL8BZqjQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1587681134941?e=1745452800&v=beta&t=lwKqoR75Wi24FOFmoFQvpv4LaAcMJbtJ7-lWP4RnUnQ",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102277331",
+            "positions": [
+                {
+                    "title": "VP, Clinical Innovation",
+                    "description": "Leading Maven’s clinical programming function to design, develop and implement clinical products that drive clinical outcomes and improve care for women and families",
+                    "locationName": "San Francisco, California, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:3722337",
+                        "entityUrn": "urn:li:fs_miniCompany:3722337",
+                        "name": "Maven Clinic",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEnPawK9ZNHQg/company-logo_200_200/company-logo_200_200/0/1719807363907/mavenclinic_logo?e=1747872000&v=beta&t=8EzSTWIfHaL9_LwZsw3Unrfvi0U0Ix7ZtAAHe3Jro2s",
+                        "universalName": "mavenclinic",
+                        "dashCompanyUrn": "urn:li:fsd_company:3722337",
+                        "trackingId": "wMc8QrrOSASV6Zcho/phjw=="
+                    },
+                    "companyName": "Maven Clinic"
+                },
+                {
+                    "title": "Strategy Lead, Clinical Studies Platform",
+                    "description": "Oversaw several special projects for new leadership to determine strategy for CSP's core offerings (e.g., registries, digital biomarkers and devices, patient recruitment, Baseline Health Study).",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:17966039",
+                        "entityUrn": "urn:li:fs_miniCompany:17966039",
+                        "name": "Verily",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGV2uyxrLNV4A/company-logo_200_200/company-logo_200_200/0/1727201219448/verily_logo?e=1747872000&v=beta&t=XzV-GQ-KbCmoxh80XKgvIvNtnH8rKRaTC-bpwxyb-0Y",
+                        "universalName": "verily",
+                        "dashCompanyUrn": "urn:li:fsd_company:17966039",
+                        "trackingId": "Rx4TQvA+Ts2nmP4EEoUajQ=="
+                    },
+                    "companyName": "Verily"
+                },
+                {
+                    "title": "Engagement Manager/Lead, Clinical Studies Platform (formerly Baseline)",
+                    "description": "Led team that was responsible for managing client relationships, including selling and executing contracts, supporting clinical trial design and study operations, and tracking client health and success. Personally served as primary point of contact for several big pharma partnerships, including the COVID-19 Immune Response Study with Janssen.",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:17966039",
+                        "entityUrn": "urn:li:fs_miniCompany:17966039",
+                        "name": "Verily",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGV2uyxrLNV4A/company-logo_200_200/company-logo_200_200/0/1727201219448/verily_logo?e=1747872000&v=beta&t=XzV-GQ-KbCmoxh80XKgvIvNtnH8rKRaTC-bpwxyb-0Y",
+                        "universalName": "verily",
+                        "dashCompanyUrn": "urn:li:fsd_company:17966039",
+                        "trackingId": "3r30f661ShGLNr6UnMu2xw=="
+                    },
+                    "companyName": "Verily"
+                },
+                {
+                    "title": "VP, Product Management",
+                    "description": "Clarify Health leverages >300M lives worth of RWE data and longitudinal patient journeys to power enterprise analytics solutions for providers, health plans and life science companies. Solutions center around value-based care, clinical variation/provider performance, population risk prediction, network design and referrals.\n\nReporting to President/CPO, managed product delivery and development sprints across all products. Worked across product management, engineering, data science, commercial/sales and customer success and provided clinical, business and technical input to shape product design, data strategy, and prioritization.",
+                    "locationName": "San Francisco, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:10504306",
+                        "entityUrn": "urn:li:fs_miniCompany:10504306",
+                        "name": "Clarify Health Solutions",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH7AGywu9RhRA/company-logo_200_200/company-logo_200_200/0/1728345281605/clarify_health_solutions_logo?e=1747872000&v=beta&t=0VwZR_hlohZ_Rs3DPfn_Tk-NhMQkAs8zkULqHYaGKJw",
+                        "universalName": "clarify-health-solutions",
+                        "dashCompanyUrn": "urn:li:fsd_company:10504306",
+                        "trackingId": "tp6ma0OHSkeNbkQ0OPaZFw=="
+                    },
+                    "companyName": "Clarify Health Solutions"
+                },
+                {
+                    "title": "VP, Customer Impact",
+                    "description": "Joined as employee #10 and helped grow company from 10 to 150. Founding member of the Customer Impact team, reporting directly to CEO. Built and led a bicoastal team of 15+ to manage customer relationships, implement software and change management, and ultimately, deliver impact through Clarify's platform. \n\nHelped build Clarify’s initial suite of solutions (value-based analytics software, care coordination software, and patient engagement app) working closely with Product and Engineering to translate customer and clinical needs into software; this included creating product specifications, designing features, conducting QA, and product roadmapping.",
+                    "locationName": "San Francisco, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:10504306",
+                        "entityUrn": "urn:li:fs_miniCompany:10504306",
+                        "name": "Clarify Health Solutions",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH7AGywu9RhRA/company-logo_200_200/company-logo_200_200/0/1728345281605/clarify_health_solutions_logo?e=1747872000&v=beta&t=0VwZR_hlohZ_Rs3DPfn_Tk-NhMQkAs8zkULqHYaGKJw",
+                        "universalName": "clarify-health-solutions",
+                        "dashCompanyUrn": "urn:li:fsd_company:10504306",
+                        "trackingId": "/xiXSVC6RWGkOwDCHPhibg=="
+                    },
+                    "companyName": "Clarify Health Solutions"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "MD",
+                    "schoolName": "University of Pennsylvania School of Medicine"
+                },
+                {
+                    "degreeName": "BA",
+                    "fieldOfStudy": "Anthropology and Biology Double Major",
+                    "schoolName": "Washington University in St. Louis"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Mandarin",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "PowerPoint",
+                "Microsoft Excel",
+                "Healthcare Management",
+                "Management"
+            ],
+            "volunteerExperiences": [],
+            "headline": "VP of Clinical Innovation at Maven Clinic",
+            "summary": "Physician, startup leader, and former McKinsey manager with a passion for leveraging technology to elevate healthcare delivery and access. Over 15 years of experience across the entire healthcare value chain and 12 years in strategy, customer, and product functions. Known for excellence in execution/operations, building strong stakeholder relationships, collaborative problem-solving, and bringing out the best of her teams.",
+            "student": false,
+            "industryName": "Hospital & Health Care",
+            "industryUrn": "urn:li:fs_industry:14",
+            "geoLocationName": "San Francisco, California",
+            "geoCountryName": "United States",
+            "jobTitle": "VP, Clinical Innovation",
+            "companyName": "Maven Clinic",
+            "companyPublicId": "mavenclinic",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/mavenclinic",
+            "following": false,
+            "followable": true,
+            "followersCount": 1132,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Maven Clinic",
+        "position": "VP, Clinical Innovation",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Hospital & Health Care"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP, Clinical Innovation",
+        "organization": "Maven Clinic",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sarahpchen/",
+        "company": "https://www.linkedin.com/company/mavenclinic"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP, Clinical Innovation",
+            "description": "Leading Maven’s clinical programming function to design, develop and implement clinical products that drive clinical outcomes and improve care for women and families",
+            "locationName": "San Francisco, California, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:3722337",
+                "entityUrn": "urn:li:fs_miniCompany:3722337",
+                "name": "Maven Clinic",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEnPawK9ZNHQg/company-logo_200_200/company-logo_200_200/0/1719807363907/mavenclinic_logo?e=1747872000&v=beta&t=8EzSTWIfHaL9_LwZsw3Unrfvi0U0Ix7ZtAAHe3Jro2s",
+                "universalName": "mavenclinic",
+                "dashCompanyUrn": "urn:li:fsd_company:3722337",
+                "trackingId": "wMc8QrrOSASV6Zcho/phjw=="
+            },
+            "companyName": "Maven Clinic"
+        },
+        {
+            "title": "Strategy Lead, Clinical Studies Platform",
+            "description": "Oversaw several special projects for new leadership to determine strategy for CSP's core offerings (e.g., registries, digital biomarkers and devices, patient recruitment, Baseline Health Study).",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:17966039",
+                "entityUrn": "urn:li:fs_miniCompany:17966039",
+                "name": "Verily",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGV2uyxrLNV4A/company-logo_200_200/company-logo_200_200/0/1727201219448/verily_logo?e=1747872000&v=beta&t=XzV-GQ-KbCmoxh80XKgvIvNtnH8rKRaTC-bpwxyb-0Y",
+                "universalName": "verily",
+                "dashCompanyUrn": "urn:li:fsd_company:17966039",
+                "trackingId": "Rx4TQvA+Ts2nmP4EEoUajQ=="
+            },
+            "companyName": "Verily"
+        },
+        {
+            "title": "Engagement Manager/Lead, Clinical Studies Platform (formerly Baseline)",
+            "description": "Led team that was responsible for managing client relationships, including selling and executing contracts, supporting clinical trial design and study operations, and tracking client health and success. Personally served as primary point of contact for several big pharma partnerships, including the COVID-19 Immune Response Study with Janssen.",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:17966039",
+                "entityUrn": "urn:li:fs_miniCompany:17966039",
+                "name": "Verily",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGV2uyxrLNV4A/company-logo_200_200/company-logo_200_200/0/1727201219448/verily_logo?e=1747872000&v=beta&t=XzV-GQ-KbCmoxh80XKgvIvNtnH8rKRaTC-bpwxyb-0Y",
+                "universalName": "verily",
+                "dashCompanyUrn": "urn:li:fsd_company:17966039",
+                "trackingId": "3r30f661ShGLNr6UnMu2xw=="
+            },
+            "companyName": "Verily"
+        },
+        {
+            "title": "VP, Product Management",
+            "description": "Clarify Health leverages >300M lives worth of RWE data and longitudinal patient journeys to power enterprise analytics solutions for providers, health plans and life science companies. Solutions center around value-based care, clinical variation/provider performance, population risk prediction, network design and referrals.\n\nReporting to President/CPO, managed product delivery and development sprints across all products. Worked across product management, engineering, data science, commercial/sales and customer success and provided clinical, business and technical input to shape product design, data strategy, and prioritization.",
+            "locationName": "San Francisco, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:10504306",
+                "entityUrn": "urn:li:fs_miniCompany:10504306",
+                "name": "Clarify Health Solutions",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH7AGywu9RhRA/company-logo_200_200/company-logo_200_200/0/1728345281605/clarify_health_solutions_logo?e=1747872000&v=beta&t=0VwZR_hlohZ_Rs3DPfn_Tk-NhMQkAs8zkULqHYaGKJw",
+                "universalName": "clarify-health-solutions",
+                "dashCompanyUrn": "urn:li:fsd_company:10504306",
+                "trackingId": "tp6ma0OHSkeNbkQ0OPaZFw=="
+            },
+            "companyName": "Clarify Health Solutions"
+        },
+        {
+            "title": "VP, Customer Impact",
+            "description": "Joined as employee #10 and helped grow company from 10 to 150. Founding member of the Customer Impact team, reporting directly to CEO. Built and led a bicoastal team of 15+ to manage customer relationships, implement software and change management, and ultimately, deliver impact through Clarify's platform. \n\nHelped build Clarify’s initial suite of solutions (value-based analytics software, care coordination software, and patient engagement app) working closely with Product and Engineering to translate customer and clinical needs into software; this included creating product specifications, designing features, conducting QA, and product roadmapping.",
+            "locationName": "San Francisco, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:10504306",
+                "entityUrn": "urn:li:fs_miniCompany:10504306",
+                "name": "Clarify Health Solutions",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH7AGywu9RhRA/company-logo_200_200/company-logo_200_200/0/1728345281605/clarify_health_solutions_logo?e=1747872000&v=beta&t=0VwZR_hlohZ_Rs3DPfn_Tk-NhMQkAs8zkULqHYaGKJw",
+                "universalName": "clarify-health-solutions",
+                "dashCompanyUrn": "urn:li:fsd_company:10504306",
+                "trackingId": "/xiXSVC6RWGkOwDCHPhibg=="
+            },
+            "companyName": "Clarify Health Solutions"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "MD",
+            "schoolName": "University of Pennsylvania School of Medicine"
+        },
+        {
+            "degreeName": "BA",
+            "fieldOfStudy": "Anthropology and Biology Double Major",
+            "schoolName": "Washington University in St. Louis"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "PowerPoint",
+        "Microsoft Excel",
+        "Healthcare Management",
+        "Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

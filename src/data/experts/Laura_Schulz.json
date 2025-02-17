@@ -1,0 +1,131 @@
+{
+    "id": "exp1083977269",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura",
+        "lastName": "Schulz",
+        "fullName": "Laura Schulz",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "1083977269",
+            "profileId": "ACoAAECcLjUBnssupVRAcjHVkK8yQmlfUVpDEVE",
+            "firstName": "Laura",
+            "lastName": "Schulz",
+            "occupation": "Professor at Massachusetts Institute of Technology",
+            "publicIdentifier": "laura-schulz-7b1031263",
+            "trackingId": "eYTuU272Q5mHJcufy8KVpA==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104597301",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1503",
+                        "entityUrn": "urn:li:fs_miniCompany:1503",
+                        "name": "Massachusetts Institute of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                        "universalName": "mit",
+                        "dashCompanyUrn": "urn:li:fsd_company:1503",
+                        "trackingId": "R4j5MdGYTOeEZnU1u1B9sA=="
+                    },
+                    "companyName": "Massachusetts Institute of Technology"
+                }
+            ],
+            "educations": [],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Professor at Massachusetts Institute of Technology",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Cambridge, Massachusetts",
+            "geoCountryName": "United States",
+            "jobTitle": "Professor",
+            "companyName": "Massachusetts Institute of Technology",
+            "companyPublicId": "mit",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/mit",
+            "following": false,
+            "followable": true,
+            "followersCount": 6,
+            "connectionsCount": 1,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Massachusetts Institute of Technology",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "Massachusetts Institute of Technology",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laura-schulz-7b1031263/",
+        "company": "https://www.linkedin.com/company/mit"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1503",
+                "entityUrn": "urn:li:fs_miniCompany:1503",
+                "name": "Massachusetts Institute of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                "universalName": "mit",
+                "dashCompanyUrn": "urn:li:fsd_company:1503",
+                "trackingId": "R4j5MdGYTOeEZnU1u1B9sA=="
+            },
+            "companyName": "Massachusetts Institute of Technology"
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

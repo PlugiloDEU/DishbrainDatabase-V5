@@ -1,0 +1,327 @@
+{
+    "id": "exp514516937",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Prof. Dr. Boris Alexander",
+        "lastName": "Hoffmann",
+        "fullName": "Prof. Dr. Boris Alexander Hoffmann",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "514516937",
+            "profileId": "ACoAAB6q58kB0rSbAmxsawa7sHhOMcjf7FTa9uI",
+            "firstName": "Prof. Dr. Boris Alexander",
+            "lastName": "Hoffmann",
+            "occupation": "Chefarzt Kardiologie bei Asklepios Hamburg-Harburg",
+            "publicIdentifier": "prof-dr-boris-alexander-hoffmann-a35388124",
+            "trackingId": "lYCrV7zCQJuPV6FZ91ofwQ==",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105685631",
+            "positions": [
+                {
+                    "title": "Chefarzt Kardiologie",
+                    "locationName": "Hamburg und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:98645",
+                        "entityUrn": "urn:li:fs_miniCompany:98645",
+                        "name": "Asklepios",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaA7qFe9so9A/company-logo_200_200/company-logo_200_200/0/1709534256606/asklepios_logo?e=1747872000&v=beta&t=M0QohcxrZ10RR0uC8o0J173VbtW6mfQ-aG3GLeOO3Pk",
+                        "universalName": "asklepios",
+                        "dashCompanyUrn": "urn:li:fsd_company:98645",
+                        "trackingId": "8aEmS9A0TTWI7V0+y1ABdQ=="
+                    },
+                    "companyName": "Asklepios"
+                },
+                {
+                    "title": "Stellvertretender Klinikdirektor",
+                    "locationName": "Mainz und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:7217742",
+                        "entityUrn": "urn:li:fs_miniCompany:7217742",
+                        "name": "University Medical Center Mainz",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGZcElUl7e1hg/company-logo_200_200/company-logo_200_200/0/1643883354383/unimedizin_mainz_logo?e=1747872000&v=beta&t=E63hIR0MMXBDAUwqy-9h0-5wHZt2anasQSkMzSz7u54",
+                        "universalName": "unimedizin-mainz",
+                        "dashCompanyUrn": "urn:li:fsd_company:7217742",
+                        "trackingId": "HGFHoRsGRF2amSohRGP1VA=="
+                    },
+                    "companyName": "Universitätsmedizin Mainz"
+                },
+                {
+                    "title": "Oberarzt",
+                    "description": "Leitender Oberarzt - Kardiologie/Elektrophysiologie",
+                    "locationName": "Martinistr. 52, 20246 Hamburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2002
+                        }
+                    },
+                    "companyName": "Universitäres Herzzentrum Hamburg"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Humanmedizin",
+                    "schoolName": "Universität Hamburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                },
+                {
+                    "degreeName": "3. Staatsexamen",
+                    "fieldOfStudy": "Humanmedizin",
+                    "schoolName": "Georg-August-Universität Göttingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2002
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Humanmedizin",
+                    "schoolName": "Universität zu Lübeck",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Innere Medizin",
+                "Digitale Signalverarbeitung",
+                "Kardiologie",
+                "Kardiologische Elektrophysiologie"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Chefarzt Kardiologie bei Asklepios Hamburg-Harburg",
+            "student": false,
+            "industryName": "Hospital & Health Care",
+            "industryUrn": "urn:li:fs_industry:14",
+            "geoLocationName": "Stadt Hamburg, Hamburg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Chefarzt Kardiologie",
+            "companyName": "Asklepios",
+            "companyPublicId": "asklepios",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/asklepios",
+            "following": false,
+            "followable": true,
+            "followersCount": 1620,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Asklepios",
+        "position": "Chefarzt Kardiologie",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Hospital & Health Care"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chefarzt Kardiologie",
+        "organization": "Asklepios",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/prof-dr-boris-alexander-hoffmann-a35388124/",
+        "company": "https://www.linkedin.com/company/asklepios"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chefarzt Kardiologie",
+            "locationName": "Hamburg und Umgebung, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:98645",
+                "entityUrn": "urn:li:fs_miniCompany:98645",
+                "name": "Asklepios",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaA7qFe9so9A/company-logo_200_200/company-logo_200_200/0/1709534256606/asklepios_logo?e=1747872000&v=beta&t=M0QohcxrZ10RR0uC8o0J173VbtW6mfQ-aG3GLeOO3Pk",
+                "universalName": "asklepios",
+                "dashCompanyUrn": "urn:li:fsd_company:98645",
+                "trackingId": "8aEmS9A0TTWI7V0+y1ABdQ=="
+            },
+            "companyName": "Asklepios"
+        },
+        {
+            "title": "Stellvertretender Klinikdirektor",
+            "locationName": "Mainz und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:7217742",
+                "entityUrn": "urn:li:fs_miniCompany:7217742",
+                "name": "University Medical Center Mainz",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGZcElUl7e1hg/company-logo_200_200/company-logo_200_200/0/1643883354383/unimedizin_mainz_logo?e=1747872000&v=beta&t=E63hIR0MMXBDAUwqy-9h0-5wHZt2anasQSkMzSz7u54",
+                "universalName": "unimedizin-mainz",
+                "dashCompanyUrn": "urn:li:fsd_company:7217742",
+                "trackingId": "HGFHoRsGRF2amSohRGP1VA=="
+            },
+            "companyName": "Universitätsmedizin Mainz"
+        },
+        {
+            "title": "Oberarzt",
+            "description": "Leitender Oberarzt - Kardiologie/Elektrophysiologie",
+            "locationName": "Martinistr. 52, 20246 Hamburg",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2002
+                }
+            },
+            "companyName": "Universitäres Herzzentrum Hamburg"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Humanmedizin",
+            "schoolName": "Universität Hamburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        },
+        {
+            "degreeName": "3. Staatsexamen",
+            "fieldOfStudy": "Humanmedizin",
+            "schoolName": "Georg-August-Universität Göttingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Humanmedizin",
+            "schoolName": "Universität zu Lübeck",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Innere Medizin",
+        "Digitale Signalverarbeitung",
+        "Kardiologie",
+        "Kardiologische Elektrophysiologie"
+    ],
+    "lastEnriched": "2025-02-17"
+}

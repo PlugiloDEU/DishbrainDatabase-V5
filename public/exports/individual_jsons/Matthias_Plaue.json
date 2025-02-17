@@ -1,0 +1,503 @@
+{
+    "id": "exp149563282",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Matthias",
+        "lastName": "Plaue",
+        "fullName": "Matthias Plaue",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGj4xwlcAOAvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1553069163838?e=1745452800&v=beta&t=1M17ejYjdkNNJ8I-4YlUTZGxYnaFf3U0qX0JZIMI7EY",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German"
+        ],
+        "allData": {
+            "id": "149563282",
+            "profileId": "ACoAAAjqJ5IBE2HfyGfAmKJ2j_u_mbwaPSuP6ZU",
+            "firstName": "Matthias",
+            "lastName": "Plaue",
+            "occupation": "Mathematician, data scientist",
+            "publicIdentifier": "matthias-plaue-9aa10842",
+            "trackingId": "yCQq/xrMRrewRnf9kWcozQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGj4xwlcAOAvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1553069163838?e=1745452800&v=beta&t=1M17ejYjdkNNJ8I-4YlUTZGxYnaFf3U0qX0JZIMI7EY",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQFymzlIlVSpRg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516963559345?e=1745452800&v=beta&t=Qx53Hkk7OWqxKgV-pPC-fU2ZHau83cyyGG0ZOpW2yOQ",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009712",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "description": "As a professor at IU, I teach mathematics to students of engineering and management.",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15091817",
+                        "entityUrn": "urn:li:fs_miniCompany:15091817",
+                        "name": "IU International University of Applied Sciences",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF_i6KaCS8QHQ/company-logo_200_200/company-logo_200_200/0/1683807287506/iu_hochschule_logo?e=1747872000&v=beta&t=p7jWDCriFj_p5y9hsfFBOKtqkOAsI7aB_pZrAbgXUrQ",
+                        "universalName": "iu-hochschule",
+                        "dashCompanyUrn": "urn:li:fsd_company:15091817",
+                        "trackingId": "qAspV/bAQUK3gqArN/unyQ=="
+                    },
+                    "companyName": "IU International University of Applied Sciences"
+                },
+                {
+                    "title": "Chief Data Scientist",
+                    "description": "I am currently responsible for solving MAPEGY's challenges in data analysis and visualization.\n\nThe data science division at MAPEGY retrieves information from various heterogeneous, mostly unstructured data sources, such as patents, scientific publications, internet news, dictionaries, company registers.\n\nWe use that information to create actionable knowledge for our customers, via a host of methods such as natural language processing, network analysis, Bayesian statistics and many more.",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:2863698",
+                        "entityUrn": "urn:li:fs_miniCompany:2863698",
+                        "name": "MAPEGY",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEm18aD1WvFgg/company-logo_200_200/company-logo_200_200/0/1630465358658/mapegy_logo?e=1747872000&v=beta&t=HVPPti8GzM6k3ksw_-zOS8aQmAZiN-VJRogke_T2DIc",
+                        "universalName": "mapegy",
+                        "dashCompanyUrn": "urn:li:fsd_company:2863698",
+                        "trackingId": "bN6eqhcnTMapcSG+PUzNqw=="
+                    },
+                    "companyName": "Mapegy"
+                },
+                {
+                    "title": "Textbook author",
+                    "description": "I moonlight as an author of academic textbooks on data science and applied mathematics.",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Publishing"
+                        ],
+                        "objectUrn": "urn:li:company:7051",
+                        "entityUrn": "urn:li:fs_miniCompany:7051",
+                        "name": "Springer Nature",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQESXdw_iIJXXA/company-logo_200_200/company-logo_200_200/0/1738764899104/springernature_logo?e=1747872000&v=beta&t=9rRYXUVk1U-r0dFVjrJ90VnC14SUfMT2LdY1VWI0hFA",
+                        "universalName": "springernature",
+                        "dashCompanyUrn": "urn:li:fsd_company:7051",
+                        "trackingId": "ZC81PbU/SnCZBhGe7MojrA=="
+                    },
+                    "companyName": "Springer Nature Group"
+                },
+                {
+                    "title": "Researcher",
+                    "description": "I have a long-standing experience in academia and published numerous scientific works on topics in image processing, differential geometry, relativity theory and pedestrian dynamics.",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Education Management"
+                        ],
+                        "objectUrn": "urn:li:company:1188458",
+                        "entityUrn": "urn:li:fs_miniCompany:1188458",
+                        "name": "Technische Universität Berlin",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMPWp-fo0MWA/company-logo_200_200/company-logo_200_200/0/1675944963271/tuberlin_logo?e=1747872000&v=beta&t=J9Xp9mG9LYonP6xi5mWiQUnJ8RyAXM-2YOtsENQPNZc",
+                        "universalName": "tuberlin",
+                        "dashCompanyUrn": "urn:li:fsd_company:1188458",
+                        "trackingId": "+ZganFNbT9Gt7u/tnscuCg=="
+                    },
+                    "companyName": "Technische Universität Berlin"
+                },
+                {
+                    "title": "Researcher",
+                    "description": "At IWR in Heidelberg, I entered the world of (multi-dimensional) image processing and data analysis.",
+                    "locationName": "Heidelberg Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1026614",
+                        "entityUrn": "urn:li:fs_miniCompany:1026614",
+                        "name": "Interdisciplinary Center for Scientific Computing, Heidelberg University",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "interdisciplinary-center-for-scientific-computing-heidelberg-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:1026614",
+                        "trackingId": "JuRyxeQQRfWhI30ckgxbpg=="
+                    },
+                    "companyName": "Interdisciplinary Center for Scientific Computing, Heidelberg University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr. rer. nat.",
+                    "fieldOfStudy": "Theoretical and Mathematical Physics",
+                    "schoolName": "Technische Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Physics",
+                    "schoolName": "Technische Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Physics",
+                    "schoolName": "Ruprecht-Karls-Universität Heidelberg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1997
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Large Language Models (LLM)",
+                "R Shiny",
+                "English Translation",
+                "Professional Publications"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Mathematician, data scientist",
+            "summary": "I'm a versatile problem solver with broad interests and an open mind, always looking forward to tackling challenging questions in applied mathematics. My journey has taken me from being a researcher in mathematical physics to a lead data scientist, and more recently, I’ve added the role of professor of mathematics to my career.\n\nAt heart, I’m a scientist driven by curiosity. My current research and professional interests include:\n\n- Mathematical statistics and geometric data analysis\n- Visualizing networks and interpreting high-dimensional data\n- Exploring applications of large language models (LLMs), with a focus on embeddings and semantic search\n- Teaching and mentoring in mathematics and statistics\n\nIn the past, I’ve explored topics such as:\n\n- Mathematical relativity and Lorentzian geometry\n- Simulating pedestrian flows in complex environments\n- Image processing\n\nI love working on interdisciplinary problems, blending theory with practical approaches to push boundaries—whether in academia, industry, or anywhere in between.",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Berlin Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor",
+            "companyName": "IU International University of Applied Sciences",
+            "companyPublicId": "iu-hochschule",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/iu-hochschule",
+            "following": false,
+            "followable": true,
+            "followersCount": 1098,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "IU International University of Applied Sciences",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "IU International University of Applied Sciences",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/matthias-plaue-9aa10842/",
+        "company": "https://www.linkedin.com/company/iu-hochschule"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "description": "As a professor at IU, I teach mathematics to students of engineering and management.",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15091817",
+                "entityUrn": "urn:li:fs_miniCompany:15091817",
+                "name": "IU International University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF_i6KaCS8QHQ/company-logo_200_200/company-logo_200_200/0/1683807287506/iu_hochschule_logo?e=1747872000&v=beta&t=p7jWDCriFj_p5y9hsfFBOKtqkOAsI7aB_pZrAbgXUrQ",
+                "universalName": "iu-hochschule",
+                "dashCompanyUrn": "urn:li:fsd_company:15091817",
+                "trackingId": "qAspV/bAQUK3gqArN/unyQ=="
+            },
+            "companyName": "IU International University of Applied Sciences"
+        },
+        {
+            "title": "Chief Data Scientist",
+            "description": "I am currently responsible for solving MAPEGY's challenges in data analysis and visualization.\n\nThe data science division at MAPEGY retrieves information from various heterogeneous, mostly unstructured data sources, such as patents, scientific publications, internet news, dictionaries, company registers.\n\nWe use that information to create actionable knowledge for our customers, via a host of methods such as natural language processing, network analysis, Bayesian statistics and many more.",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:2863698",
+                "entityUrn": "urn:li:fs_miniCompany:2863698",
+                "name": "MAPEGY",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEm18aD1WvFgg/company-logo_200_200/company-logo_200_200/0/1630465358658/mapegy_logo?e=1747872000&v=beta&t=HVPPti8GzM6k3ksw_-zOS8aQmAZiN-VJRogke_T2DIc",
+                "universalName": "mapegy",
+                "dashCompanyUrn": "urn:li:fsd_company:2863698",
+                "trackingId": "bN6eqhcnTMapcSG+PUzNqw=="
+            },
+            "companyName": "Mapegy"
+        },
+        {
+            "title": "Textbook author",
+            "description": "I moonlight as an author of academic textbooks on data science and applied mathematics.",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Publishing"
+                ],
+                "objectUrn": "urn:li:company:7051",
+                "entityUrn": "urn:li:fs_miniCompany:7051",
+                "name": "Springer Nature",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQESXdw_iIJXXA/company-logo_200_200/company-logo_200_200/0/1738764899104/springernature_logo?e=1747872000&v=beta&t=9rRYXUVk1U-r0dFVjrJ90VnC14SUfMT2LdY1VWI0hFA",
+                "universalName": "springernature",
+                "dashCompanyUrn": "urn:li:fsd_company:7051",
+                "trackingId": "ZC81PbU/SnCZBhGe7MojrA=="
+            },
+            "companyName": "Springer Nature Group"
+        },
+        {
+            "title": "Researcher",
+            "description": "I have a long-standing experience in academia and published numerous scientific works on topics in image processing, differential geometry, relativity theory and pedestrian dynamics.",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Education Management"
+                ],
+                "objectUrn": "urn:li:company:1188458",
+                "entityUrn": "urn:li:fs_miniCompany:1188458",
+                "name": "Technische Universität Berlin",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMPWp-fo0MWA/company-logo_200_200/company-logo_200_200/0/1675944963271/tuberlin_logo?e=1747872000&v=beta&t=J9Xp9mG9LYonP6xi5mWiQUnJ8RyAXM-2YOtsENQPNZc",
+                "universalName": "tuberlin",
+                "dashCompanyUrn": "urn:li:fsd_company:1188458",
+                "trackingId": "+ZganFNbT9Gt7u/tnscuCg=="
+            },
+            "companyName": "Technische Universität Berlin"
+        },
+        {
+            "title": "Researcher",
+            "description": "At IWR in Heidelberg, I entered the world of (multi-dimensional) image processing and data analysis.",
+            "locationName": "Heidelberg Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1026614",
+                "entityUrn": "urn:li:fs_miniCompany:1026614",
+                "name": "Interdisciplinary Center for Scientific Computing, Heidelberg University",
+                "showcase": false,
+                "active": true,
+                "universalName": "interdisciplinary-center-for-scientific-computing-heidelberg-university",
+                "dashCompanyUrn": "urn:li:fsd_company:1026614",
+                "trackingId": "JuRyxeQQRfWhI30ckgxbpg=="
+            },
+            "companyName": "Interdisciplinary Center for Scientific Computing, Heidelberg University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr. rer. nat.",
+            "fieldOfStudy": "Theoretical and Mathematical Physics",
+            "schoolName": "Technische Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Physics",
+            "schoolName": "Technische Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Physics",
+            "schoolName": "Ruprecht-Karls-Universität Heidelberg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1997
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Large Language Models (LLM)",
+        "R Shiny",
+        "English Translation",
+        "Professional Publications"
+    ],
+    "lastEnriched": "2025-02-17"
+}

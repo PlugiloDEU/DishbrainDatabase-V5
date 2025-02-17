@@ -1,0 +1,597 @@
+{
+    "id": "exp210817002",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Simon",
+        "lastName": "Graff",
+        "fullName": "Simon Graff",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQHBQ7P5TXQlqQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1619574571079?e=1745452800&v=beta&t=7b7PUhVToGaxdPl5cGnuG1atIMbiZJXeOQGK6TkF_Y4",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "German",
+            "Swiss German"
+        ],
+        "allData": {
+            "id": "210817002",
+            "profileId": "ACoAAAyQz-oB98AsppeeFs745CgpiEtZx2RG6Bg",
+            "firstName": "Simon",
+            "lastName": "Graff",
+            "occupation": "Capital Markets Associate at JLL",
+            "publicIdentifier": "simon-graff-6b67285a",
+            "trackingId": "5C1L1GR8TXWXsYqhGxgMiw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHBQ7P5TXQlqQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1619574571079?e=1745452800&v=beta&t=7b7PUhVToGaxdPl5cGnuG1atIMbiZJXeOQGK6TkF_Y4",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFEpUbWp-1_RQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1619109746958?e=1745452800&v=beta&t=UQXl2LGAEd9VUzFItBMeEh7ZT0HP2te0FaP8-WsMy4M",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:106413121",
+            "positions": [
+                {
+                    "title": "Capital Markets Associate",
+                    "locationName": "Washington, District of Columbia, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Real Estate"
+                        ],
+                        "objectUrn": "urn:li:company:3178",
+                        "entityUrn": "urn:li:fs_miniCompany:3178",
+                        "name": "JLL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHfAF73OvlY2w/company-logo_200_200/company-logo_200_200/0/1682087823555/jll_logo?e=1747872000&v=beta&t=K5AIrEV3Rtq87RzJLdARk3SpgCEPZr1SR9TW6xOlxdA",
+                        "universalName": "jll",
+                        "dashCompanyUrn": "urn:li:fsd_company:3178",
+                        "trackingId": "fNsNBc6hSv2hwUTH4cQ1jg=="
+                    },
+                    "companyName": "JLL"
+                },
+                {
+                    "title": "Capital Markets Analyst",
+                    "locationName": "Washington D.C. Metro Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Real Estate"
+                        ],
+                        "objectUrn": "urn:li:company:3178",
+                        "entityUrn": "urn:li:fs_miniCompany:3178",
+                        "name": "JLL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHfAF73OvlY2w/company-logo_200_200/company-logo_200_200/0/1682087823555/jll_logo?e=1747872000&v=beta&t=K5AIrEV3Rtq87RzJLdARk3SpgCEPZr1SR9TW6xOlxdA",
+                        "universalName": "jll",
+                        "dashCompanyUrn": "urn:li:fsd_company:3178",
+                        "trackingId": "Xgg5KH/EQQ6TO4h0NQH5dQ=="
+                    },
+                    "companyName": "JLL"
+                },
+                {
+                    "title": "Pricing and Budget Specialist",
+                    "locationName": "Washington D.C. Metro Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "International Trade and Development"
+                        ],
+                        "objectUrn": "urn:li:company:11974",
+                        "entityUrn": "urn:li:fs_miniCompany:11974",
+                        "name": "Pact",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEFIPjvfveEww/company-logo_200_200/company-logo_200_200/0/1630661797042/pact_logo?e=1747872000&v=beta&t=_XPf7AeVSN_PE30jv4x6fCs9TL3QpmWoigzHpx-leIg",
+                        "universalName": "pact",
+                        "dashCompanyUrn": "urn:li:fsd_company:11974",
+                        "trackingId": "h4NNqOjnQ2OQ4fPPYk/ruQ=="
+                    },
+                    "companyName": "Pact"
+                },
+                {
+                    "title": "Socially Responsible Investment Finance Intern",
+                    "locationName": "Washington D.C. Metro Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "International Trade and Development"
+                        ],
+                        "objectUrn": "urn:li:company:15393",
+                        "entityUrn": "urn:li:fs_miniCompany:15393",
+                        "name": "U.S. International Development Finance Corporation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHAvIwhox_YQg/company-logo_200_200/company-logo_200_200/0/1684164313449/dfcgov_logo?e=1747872000&v=beta&t=cmQc-I3CJ2tfCRzjnwE23F5UHpGUQ2CUX9Si7jMLfwM",
+                        "universalName": "dfcgov",
+                        "dashCompanyUrn": "urn:li:fsd_company:15393",
+                        "trackingId": "jVx/w1+BQXOSFQAKw9Taxg=="
+                    },
+                    "companyName": "Overseas Private Investment Corporation"
+                },
+                {
+                    "title": "International Affairs Intern",
+                    "locationName": "Washington D.C. Metro Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "International Trade and Development"
+                        ],
+                        "objectUrn": "urn:li:company:864498",
+                        "entityUrn": "urn:li:fs_miniCompany:864498",
+                        "name": "Business Council for International Understanding (BCIU)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEu_AUOv9wmrw/company-logo_200_200/company-logo_200_200/0/1630504983583/business_council_for_international_undertanding_bciu_logo?e=1747872000&v=beta&t=ZuZOpVVu-1I6ILRg38c99BTttClLa3Y7FJYsP7rppy0",
+                        "universalName": "business-council-for-international-understanding-bciu",
+                        "dashCompanyUrn": "urn:li:fsd_company:864498",
+                        "trackingId": "2oIHiaLRSGSE38cSOl/UNA=="
+                    },
+                    "companyName": "Business Council for International Understanding (BCIU)"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Masters in Real Estate Finance",
+                    "schoolName": "Georgetown University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master’s Degree",
+                    "fieldOfStudy": "International Commerce and Policy",
+                    "schoolName": "George Mason University - Schar School of Policy and Government",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor's Degree",
+                    "fieldOfStudy": "Political Science and Government",
+                    "schoolName": "Miami University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Financial Modeling & Valuation Analyst (FMVA)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Corporate Finance Institute® (CFI)"
+                },
+                {
+                    "name": "REFM Certification in Excel for Real Estate - Levels 1, 2, and 3 (With Distinction)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Real Estate Financial Modeling"
+                },
+                {
+                    "name": "ARGUS Software Certified (ASC) - Enterprise",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "ARGUS Software Solutions"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "David Ricardo Award",
+                    "description": "Nominated by the faculty at George Mason University for academic excellence in the International Commerce and Policy Masters program.",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2017
+                    },
+                    "issuer": "George Mason University"
+                },
+                {
+                    "title": "Phi Kappa Phi Honor Society",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2017
+                    },
+                    "issuer": "The Honor Society of Phi Kappa Phi"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "German",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Swiss German",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Fluent in Swiss German"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Capital Markets Associate at JLL",
+            "student": false,
+            "industryName": "International Trade & Development",
+            "industryUrn": "urn:li:fs_industry:141",
+            "geoLocationName": "Arlington, Virginia",
+            "geoCountryName": "United States",
+            "jobTitle": "Capital Markets Associate",
+            "companyName": "JLL",
+            "companyPublicId": "jll",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/jll",
+            "following": false,
+            "followable": true,
+            "followersCount": 1003,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "JLL",
+        "position": "Capital Markets Associate",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Real Estate"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Capital Markets Associate",
+        "organization": "JLL",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/simon-graff-6b67285a/",
+        "company": "https://www.linkedin.com/company/jll"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Capital Markets Associate",
+            "locationName": "Washington, District of Columbia, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Real Estate"
+                ],
+                "objectUrn": "urn:li:company:3178",
+                "entityUrn": "urn:li:fs_miniCompany:3178",
+                "name": "JLL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHfAF73OvlY2w/company-logo_200_200/company-logo_200_200/0/1682087823555/jll_logo?e=1747872000&v=beta&t=K5AIrEV3Rtq87RzJLdARk3SpgCEPZr1SR9TW6xOlxdA",
+                "universalName": "jll",
+                "dashCompanyUrn": "urn:li:fsd_company:3178",
+                "trackingId": "fNsNBc6hSv2hwUTH4cQ1jg=="
+            },
+            "companyName": "JLL"
+        },
+        {
+            "title": "Capital Markets Analyst",
+            "locationName": "Washington D.C. Metro Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Real Estate"
+                ],
+                "objectUrn": "urn:li:company:3178",
+                "entityUrn": "urn:li:fs_miniCompany:3178",
+                "name": "JLL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHfAF73OvlY2w/company-logo_200_200/company-logo_200_200/0/1682087823555/jll_logo?e=1747872000&v=beta&t=K5AIrEV3Rtq87RzJLdARk3SpgCEPZr1SR9TW6xOlxdA",
+                "universalName": "jll",
+                "dashCompanyUrn": "urn:li:fsd_company:3178",
+                "trackingId": "Xgg5KH/EQQ6TO4h0NQH5dQ=="
+            },
+            "companyName": "JLL"
+        },
+        {
+            "title": "Pricing and Budget Specialist",
+            "locationName": "Washington D.C. Metro Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "International Trade and Development"
+                ],
+                "objectUrn": "urn:li:company:11974",
+                "entityUrn": "urn:li:fs_miniCompany:11974",
+                "name": "Pact",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEFIPjvfveEww/company-logo_200_200/company-logo_200_200/0/1630661797042/pact_logo?e=1747872000&v=beta&t=_XPf7AeVSN_PE30jv4x6fCs9TL3QpmWoigzHpx-leIg",
+                "universalName": "pact",
+                "dashCompanyUrn": "urn:li:fsd_company:11974",
+                "trackingId": "h4NNqOjnQ2OQ4fPPYk/ruQ=="
+            },
+            "companyName": "Pact"
+        },
+        {
+            "title": "Socially Responsible Investment Finance Intern",
+            "locationName": "Washington D.C. Metro Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "International Trade and Development"
+                ],
+                "objectUrn": "urn:li:company:15393",
+                "entityUrn": "urn:li:fs_miniCompany:15393",
+                "name": "U.S. International Development Finance Corporation",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHAvIwhox_YQg/company-logo_200_200/company-logo_200_200/0/1684164313449/dfcgov_logo?e=1747872000&v=beta&t=cmQc-I3CJ2tfCRzjnwE23F5UHpGUQ2CUX9Si7jMLfwM",
+                "universalName": "dfcgov",
+                "dashCompanyUrn": "urn:li:fsd_company:15393",
+                "trackingId": "jVx/w1+BQXOSFQAKw9Taxg=="
+            },
+            "companyName": "Overseas Private Investment Corporation"
+        },
+        {
+            "title": "International Affairs Intern",
+            "locationName": "Washington D.C. Metro Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "International Trade and Development"
+                ],
+                "objectUrn": "urn:li:company:864498",
+                "entityUrn": "urn:li:fs_miniCompany:864498",
+                "name": "Business Council for International Understanding (BCIU)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEu_AUOv9wmrw/company-logo_200_200/company-logo_200_200/0/1630504983583/business_council_for_international_undertanding_bciu_logo?e=1747872000&v=beta&t=ZuZOpVVu-1I6ILRg38c99BTttClLa3Y7FJYsP7rppy0",
+                "universalName": "business-council-for-international-understanding-bciu",
+                "dashCompanyUrn": "urn:li:fsd_company:864498",
+                "trackingId": "2oIHiaLRSGSE38cSOl/UNA=="
+            },
+            "companyName": "Business Council for International Understanding (BCIU)"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Masters in Real Estate Finance",
+            "schoolName": "Georgetown University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "degreeName": "Master’s Degree",
+            "fieldOfStudy": "International Commerce and Policy",
+            "schoolName": "George Mason University - Schar School of Policy and Government",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor's Degree",
+            "fieldOfStudy": "Political Science and Government",
+            "schoolName": "Miami University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Financial Modeling & Valuation Analyst (FMVA)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "authority": "Corporate Finance Institute® (CFI)"
+        },
+        {
+            "name": "REFM Certification in Excel for Real Estate - Levels 1, 2, and 3 (With Distinction)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "authority": "Real Estate Financial Modeling"
+        },
+        {
+            "name": "ARGUS Software Certified (ASC) - Enterprise",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "authority": "ARGUS Software Solutions"
+        }
+    ],
+    "skills": [
+        "Fluent in Swiss German"
+    ],
+    "lastEnriched": "2025-02-17"
+}

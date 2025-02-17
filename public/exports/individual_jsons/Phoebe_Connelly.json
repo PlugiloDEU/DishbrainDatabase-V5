@@ -1,0 +1,453 @@
+{
+    "id": "exp85474401",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Phoebe",
+        "lastName": "Connelly",
+        "fullName": "Phoebe Connelly",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQF3ZVKtvGtx8A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1708037235999?e=1745452800&v=beta&t=8XddTMA7c5j2qoFjYHb8u2Aa5kgWD9CpYTYJUZt50J4",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "85474401",
+            "profileId": "ACoAAAUYPGEBfABK68DNBs1HRyHLCC_M8gcyB0g",
+            "firstName": "Phoebe",
+            "lastName": "Connelly",
+            "occupation": "AI at The Washington Post",
+            "publicIdentifier": "phoebe-connelly",
+            "trackingId": "iov0TcH8TcyxPYVQzE8v1Q==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQF3ZVKtvGtx8A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1708037235999?e=1745452800&v=beta&t=8XddTMA7c5j2qoFjYHb8u2Aa5kgWD9CpYTYJUZt50J4",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104383890",
+            "positions": [
+                {
+                    "title": "Senior Editor, AI Strategy and Innovation",
+                    "locationName": "Washington, District of Columbia, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:166423",
+                        "entityUrn": "urn:li:fs_miniCompany:166423",
+                        "name": "The Washington Post",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                        "universalName": "washingtonpost",
+                        "dashCompanyUrn": "urn:li:fsd_company:166423",
+                        "trackingId": "3JFu5cLoSt+Kd5qK48OLpA=="
+                    },
+                    "companyName": "The Washington Post"
+                },
+                {
+                    "title": "Senior Editor, Next Generation Audience Development",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:166423",
+                        "entityUrn": "urn:li:fs_miniCompany:166423",
+                        "name": "The Washington Post",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                        "universalName": "washingtonpost",
+                        "dashCompanyUrn": "urn:li:fsd_company:166423",
+                        "trackingId": "h0Cp4XHZSRS2F/5ZkeIrMw=="
+                    },
+                    "companyName": "The Washington Post"
+                },
+                {
+                    "title": "Deputy Director, Video",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:166423",
+                        "entityUrn": "urn:li:fs_miniCompany:166423",
+                        "name": "The Washington Post",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                        "universalName": "washingtonpost",
+                        "dashCompanyUrn": "urn:li:fsd_company:166423",
+                        "trackingId": "DS0jFUB9Qr2760xepfkwfg=="
+                    },
+                    "companyName": "The Washington Post"
+                },
+                {
+                    "title": "Executive Producer",
+                    "description": "Oversee daily and breaking news team.\nProduct owner for video: managing roadmap, product feature set and timeline.\nHeading up emerging video tech: 360, drones. ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:166423",
+                        "entityUrn": "urn:li:fs_miniCompany:166423",
+                        "name": "The Washington Post",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                        "universalName": "washingtonpost",
+                        "dashCompanyUrn": "urn:li:fsd_company:166423",
+                        "trackingId": "B5R4ME9CQna7D5FMVDo58A=="
+                    },
+                    "companyName": "The Washington Post"
+                },
+                {
+                    "title": "Senior Producer",
+                    "description": "Oversee daily and breaking video content, as well as placement and social campaigns. Product owner for video technology at the Post.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:166423",
+                        "entityUrn": "urn:li:fs_miniCompany:166423",
+                        "name": "The Washington Post",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                        "universalName": "washingtonpost",
+                        "dashCompanyUrn": "urn:li:fsd_company:166423",
+                        "trackingId": "6EPGsdo1RS6Trf+5GT7KQw=="
+                    },
+                    "companyName": "The Washington Post"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "BA",
+                    "fieldOfStudy": "International Relations and Literature",
+                    "schoolName": "DePaul University"
+                },
+                {
+                    "schoolName": "Kiplinger Fellowship",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Business Development",
+                "Strategy",
+                "Cross-functional Team Leadership",
+                "Journalism"
+            ],
+            "volunteerExperiences": [],
+            "headline": "AI at The Washington Post",
+            "summary": "How can journalists and technologists employ and engage with Artificial Intelligence in ways that build engagement and trust with news consumers? I'm at my best when faced with a pivot, a new technology, or transitioning great teams to what comes next. \n\nIn my previous role as head of the Next Generation team at The Washington Post, we launched The 7 podcast, Style Sessions and a new team of political reporters who publish social-first. Before that, I was deputy director of video. I oversaw our daily and breaking news team and helped launch the Visual Forensics unit. Name a video format or platform, and I probably helped lead our experimentation! \n\nI've also had the chance to work closely with our product team as the newsroom product owner for video, where I helped build the technology stack that became part of Arc XP.\n \nLet's talk about digital strategy, cross-fuctional teams and how the news industry can harness moments of change.",
+            "student": false,
+            "industryName": "Newspapers",
+            "industryUrn": "urn:li:fs_industry:81",
+            "geoLocationName": "Washington, District of Columbia",
+            "geoCountryName": "United States",
+            "jobTitle": "Senior Editor, AI Strategy and Innovation",
+            "companyName": "The Washington Post",
+            "companyPublicId": "washingtonpost",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/washingtonpost",
+            "following": false,
+            "followable": true,
+            "followersCount": 1554,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "The Washington Post",
+        "position": "Senior Editor, AI Strategy and Innovation",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Newspapers"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Editor, AI Strategy and Innovation",
+        "organization": "The Washington Post",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/phoebe-connelly/",
+        "company": "https://www.linkedin.com/company/washingtonpost"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Editor, AI Strategy and Innovation",
+            "locationName": "Washington, District of Columbia, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:166423",
+                "entityUrn": "urn:li:fs_miniCompany:166423",
+                "name": "The Washington Post",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                "universalName": "washingtonpost",
+                "dashCompanyUrn": "urn:li:fsd_company:166423",
+                "trackingId": "3JFu5cLoSt+Kd5qK48OLpA=="
+            },
+            "companyName": "The Washington Post"
+        },
+        {
+            "title": "Senior Editor, Next Generation Audience Development",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:166423",
+                "entityUrn": "urn:li:fs_miniCompany:166423",
+                "name": "The Washington Post",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                "universalName": "washingtonpost",
+                "dashCompanyUrn": "urn:li:fsd_company:166423",
+                "trackingId": "h0Cp4XHZSRS2F/5ZkeIrMw=="
+            },
+            "companyName": "The Washington Post"
+        },
+        {
+            "title": "Deputy Director, Video",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:166423",
+                "entityUrn": "urn:li:fs_miniCompany:166423",
+                "name": "The Washington Post",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                "universalName": "washingtonpost",
+                "dashCompanyUrn": "urn:li:fsd_company:166423",
+                "trackingId": "DS0jFUB9Qr2760xepfkwfg=="
+            },
+            "companyName": "The Washington Post"
+        },
+        {
+            "title": "Executive Producer",
+            "description": "Oversee daily and breaking news team.\nProduct owner for video: managing roadmap, product feature set and timeline.\nHeading up emerging video tech: 360, drones. ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:166423",
+                "entityUrn": "urn:li:fs_miniCompany:166423",
+                "name": "The Washington Post",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                "universalName": "washingtonpost",
+                "dashCompanyUrn": "urn:li:fsd_company:166423",
+                "trackingId": "B5R4ME9CQna7D5FMVDo58A=="
+            },
+            "companyName": "The Washington Post"
+        },
+        {
+            "title": "Senior Producer",
+            "description": "Oversee daily and breaking video content, as well as placement and social campaigns. Product owner for video technology at the Post.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:166423",
+                "entityUrn": "urn:li:fs_miniCompany:166423",
+                "name": "The Washington Post",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHIAe2TVGy_0w/company-logo_200_200/company-logo_200_200/0/1630608589327/the_washington_post_logo?e=1747872000&v=beta&t=r64G6eS1TuVLDcP3iyUSN8Qx4BHX9e9pgGga_e4FRdM",
+                "universalName": "washingtonpost",
+                "dashCompanyUrn": "urn:li:fsd_company:166423",
+                "trackingId": "6EPGsdo1RS6Trf+5GT7KQw=="
+            },
+            "companyName": "The Washington Post"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "BA",
+            "fieldOfStudy": "International Relations and Literature",
+            "schoolName": "DePaul University"
+        },
+        {
+            "schoolName": "Kiplinger Fellowship",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Business Development",
+        "Strategy",
+        "Cross-functional Team Leadership",
+        "Journalism"
+    ],
+    "lastEnriched": "2025-02-17"
+}

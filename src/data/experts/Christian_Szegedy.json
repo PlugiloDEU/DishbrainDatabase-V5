@@ -1,0 +1,495 @@
+{
+    "id": "exp55836854",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christian",
+        "lastName": "Szegedy",
+        "fullName": "Christian Szegedy",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQG5VRTtP3JyrQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1532756119558?e=1745452800&v=beta&t=aC3azghRx7Gg45Au5tHEBnNhHwYjkUrWj2a3HJHnxq4",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German",
+            "Hungarian"
+        ],
+        "allData": {
+            "id": "55836854",
+            "profileId": "ACoAAANUALYB2IHPtwfwU9_t7E48_Ma7YzetcBY",
+            "firstName": "Christian",
+            "lastName": "Szegedy",
+            "occupation": "AI Researcher",
+            "publicIdentifier": "christian-szegedy-bb284816",
+            "trackingId": "/0VcXnuZS6O7N1pUcmna/Q==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG5VRTtP3JyrQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1532756119558?e=1745452800&v=beta&t=aC3azghRx7Gg45Au5tHEBnNhHwYjkUrWj2a3HJHnxq4",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000084",
+            "positions": [
+                {
+                    "title": "Co-Founder",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:96151950",
+                        "entityUrn": "urn:li:fs_miniCompany:96151950",
+                        "name": "xAI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQG-1TNr5eBwSg/company-logo_200_200/company-logo_200_200/0/1689735566812?e=1747872000&v=beta&t=ykTrlGm5o7l5NLGwG6O3XsqdzhhJDPvBPgOeWItBJco",
+                        "universalName": "xai",
+                        "dashCompanyUrn": "urn:li:fsd_company:96151950",
+                        "trackingId": "pT4LX91/S9uclu7GqoT2BQ=="
+                    },
+                    "companyName": "xAI"
+                },
+                {
+                    "title": "Staff Research Scientist",
+                    "description": "Deep Learning, Artificial Intelligence, Computer Vision, Video Analysis, Formal Reasoning.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "r+59vM4YT2i/RPZEnjm6Ww=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Senior Research Scientist",
+                    "description": "Computer Vision, Video Analysis, Artificial Intelligence",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "O/lDZBeVRqmldvAykxF/NQ=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Software engineer",
+                    "description": "Computer vision, machine learning, advertisement pricing optimization.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "Rc15Grq7RKqSCTcD00k4pQ=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Research Scientist",
+                    "description": "VLSI CAD physical design, logic synthesis",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:2157",
+                        "entityUrn": "urn:li:fs_miniCompany:2157",
+                        "name": "Cadence",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFORFBYBIoPHQ/company-logo_200_200/company-logo_200_200/0/1630668285973?e=1747872000&v=beta&t=N0J5Le8Tra9icMnMwBh6Z58V5LXe9K_AYfvibKC6cew",
+                        "universalName": "cadence",
+                        "dashCompanyUrn": "urn:li:fsd_company:2157",
+                        "trackingId": "lH7sgZ2jQTem/yo3dyEjtg=="
+                    },
+                    "companyName": "Cadence Design Systems"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy (Ph.D.)",
+                    "fieldOfStudy": "Applied Mathematics",
+                    "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn / University of Bonn",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 1998
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master’s Degree",
+                    "fieldOfStudy": "Mathematics",
+                    "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn / University of Bonn",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Mathematics and Computer Science",
+                    "schoolName": "Eötvös Loránd Tudományegyetem",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1992
+                        },
+                        "startDate": {
+                            "year": 1990
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "German"
+                },
+                {
+                    "name": "Hungarian"
+                }
+            ],
+            "skills": [
+                "Machine Learning",
+                "Algorithms",
+                "Artificial Intelligence",
+                "Computer Vision"
+            ],
+            "volunteerExperiences": [],
+            "headline": "AI Researcher",
+            "summary": "Trying to solve math.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "San Francisco Bay Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Co-Founder",
+            "companyName": "xAI",
+            "companyPublicId": "xai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/xai",
+            "following": false,
+            "followable": true,
+            "followersCount": 8972,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "xAI",
+        "position": "Co-Founder",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder",
+        "organization": "xAI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christian-szegedy-bb284816/",
+        "company": "https://www.linkedin.com/company/xai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:96151950",
+                "entityUrn": "urn:li:fs_miniCompany:96151950",
+                "name": "xAI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQG-1TNr5eBwSg/company-logo_200_200/company-logo_200_200/0/1689735566812?e=1747872000&v=beta&t=ykTrlGm5o7l5NLGwG6O3XsqdzhhJDPvBPgOeWItBJco",
+                "universalName": "xai",
+                "dashCompanyUrn": "urn:li:fsd_company:96151950",
+                "trackingId": "pT4LX91/S9uclu7GqoT2BQ=="
+            },
+            "companyName": "xAI"
+        },
+        {
+            "title": "Staff Research Scientist",
+            "description": "Deep Learning, Artificial Intelligence, Computer Vision, Video Analysis, Formal Reasoning.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "r+59vM4YT2i/RPZEnjm6Ww=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Senior Research Scientist",
+            "description": "Computer Vision, Video Analysis, Artificial Intelligence",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "O/lDZBeVRqmldvAykxF/NQ=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Software engineer",
+            "description": "Computer vision, machine learning, advertisement pricing optimization.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "Rc15Grq7RKqSCTcD00k4pQ=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Research Scientist",
+            "description": "VLSI CAD physical design, logic synthesis",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:2157",
+                "entityUrn": "urn:li:fs_miniCompany:2157",
+                "name": "Cadence",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFORFBYBIoPHQ/company-logo_200_200/company-logo_200_200/0/1630668285973?e=1747872000&v=beta&t=N0J5Le8Tra9icMnMwBh6Z58V5LXe9K_AYfvibKC6cew",
+                "universalName": "cadence",
+                "dashCompanyUrn": "urn:li:fsd_company:2157",
+                "trackingId": "lH7sgZ2jQTem/yo3dyEjtg=="
+            },
+            "companyName": "Cadence Design Systems"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy (Ph.D.)",
+            "fieldOfStudy": "Applied Mathematics",
+            "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn / University of Bonn",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            }
+        },
+        {
+            "degreeName": "Master’s Degree",
+            "fieldOfStudy": "Mathematics",
+            "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn / University of Bonn",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Mathematics and Computer Science",
+            "schoolName": "Eötvös Loránd Tudományegyetem",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1992
+                },
+                "startDate": {
+                    "year": 1990
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Machine Learning",
+        "Algorithms",
+        "Artificial Intelligence",
+        "Computer Vision"
+    ],
+    "lastEnriched": "2025-02-17"
+}

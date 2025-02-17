@@ -1,0 +1,353 @@
+{
+    "id": "exp25685558",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Noam",
+        "lastName": "Shazeer",
+        "fullName": "Noam Shazeer",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQGvlDAkVQPzuA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1592935201146?e=1745452800&v=beta&t=IoTSMiI10OpmNGskO0U2pStm3UXO26IGKHn65sXSC5Q",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "25685558",
+            "profileId": "ACoAAAGH7jYB_v03zRuaj_YJ3L5X04wXER_Egus",
+            "firstName": "Noam",
+            "lastName": "Shazeer",
+            "occupation": "VP Engineering, Gemini co-lead @ Google Deepmind",
+            "publicIdentifier": "noam-shazeer-3b27288",
+            "trackingId": "b7gnzYjwTfezxMHFMqyhEg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQGvlDAkVQPzuA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1592935201146?e=1745452800&v=beta&t=IoTSMiI10OpmNGskO0U2pStm3UXO26IGKHn65sXSC5Q",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:101876708",
+            "positions": [
+                {
+                    "title": "VP Engineering, Gemini Co-lead",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "CGN2sWpGT52zw9HakDzm6Q=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Chief Executive Officer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:89486558",
+                        "entityUrn": "urn:li:fs_miniCompany:89486558",
+                        "name": "Character.AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFnYb3w5mQMKQ/company-logo_200_200/company-logo_200_200/0/1679554051094/character_ai_logo?e=1747872000&v=beta&t=hnrJ-pTPrE21XSyZ-8posli0ZVwWwpKLa8-pTcdTMsY",
+                        "universalName": "character-ai",
+                        "dashCompanyUrn": "urn:li:fsd_company:89486558",
+                        "trackingId": "dJ+835nyQFeM4ioXVB5gZA=="
+                    },
+                    "companyName": "Character.AI"
+                },
+                {
+                    "title": "Principal Software Engineer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "je5Tfhc8TtatHyAU7G1XKw=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Software Engineer",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2000
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "MMlSSUpoSU2dP/nPnYWgAg=="
+                    },
+                    "companyName": "Google"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "Duke University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "VP Engineering, Gemini co-lead @ Google Deepmind",
+            "summary": "I have invented much of the current revolution in large language models.  Some of my inventions include:\n \n   • Transformer (2017)\n      (personally designed the multi-head attention, the residual architecture, and coded up the first better-than-SOTA working implementation)\n   • Sparsely-gated Mixture of Experts (2016) \n   • Mesh-Tensorflow (2018) - first practical system for training giant Transformers on supercomputers.\n   • T5 (2019)\n   • Major contributor to Google’s LaMDA dialog system, a project led by Daniel De Freitas, my now co-founder at Character AI.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Palo Alto, California",
+            "geoCountryName": "United States",
+            "jobTitle": "VP Engineering, Gemini Co-lead",
+            "companyName": "Google",
+            "companyPublicId": "google",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/google",
+            "following": false,
+            "followable": true,
+            "followersCount": 17221,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Google",
+        "position": "VP Engineering, Gemini Co-lead",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP Engineering, Gemini Co-lead",
+        "organization": "Google",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/noam-shazeer-3b27288/",
+        "company": "https://www.linkedin.com/company/google"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP Engineering, Gemini Co-lead",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "CGN2sWpGT52zw9HakDzm6Q=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Chief Executive Officer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:89486558",
+                "entityUrn": "urn:li:fs_miniCompany:89486558",
+                "name": "Character.AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFnYb3w5mQMKQ/company-logo_200_200/company-logo_200_200/0/1679554051094/character_ai_logo?e=1747872000&v=beta&t=hnrJ-pTPrE21XSyZ-8posli0ZVwWwpKLa8-pTcdTMsY",
+                "universalName": "character-ai",
+                "dashCompanyUrn": "urn:li:fsd_company:89486558",
+                "trackingId": "dJ+835nyQFeM4ioXVB5gZA=="
+            },
+            "companyName": "Character.AI"
+        },
+        {
+            "title": "Principal Software Engineer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "je5Tfhc8TtatHyAU7G1XKw=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Software Engineer",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2000
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "MMlSSUpoSU2dP/nPnYWgAg=="
+            },
+            "companyName": "Google"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "Duke University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

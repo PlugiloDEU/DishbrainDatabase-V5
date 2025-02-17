@@ -1,0 +1,437 @@
+{
+    "id": "exp611001341",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Fabio",
+        "lastName": "Schmidberger",
+        "fullName": "Fabio Schmidberger",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQGkVv0xNJQLMA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1585513887600?e=1745452800&v=beta&t=9OmhI03x6dVD-2xMpu6h5L8FFsOgb0OkROsWIdPrjVs",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "611001341",
+            "profileId": "ACoAACRrI_0BuDJ6UF4Z7GQWWwgfhL_k4KfACxA",
+            "firstName": "Fabio",
+            "lastName": "Schmidberger",
+            "occupation": "Co-Founder, CEO @ voize | YC W22 | Speech Recognition for Forms | Saving nurses 30 minutes every day with speech recognition",
+            "publicIdentifier": "fabioschmidberger",
+            "trackingId": "6+zc5j95QjaH6HJLgDesSQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQGkVv0xNJQLMA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1585513887600?e=1745452800&v=beta&t=9OmhI03x6dVD-2xMpu6h5L8FFsOgb0OkROsWIdPrjVs",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106967730",
+            "positions": [
+                {
+                    "title": "Co-Founder & CEO",
+                    "description": "voize is the digital voice assistant for documentation. Users speak freely, our AI automatically creates the correctly structured documentation records in existing software systems. This saves time, allows the user to focus on the tasks instead of the documentation, and significantly reduces error rates.",
+                    "locationName": "Potsdam Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:14858986",
+                        "entityUrn": "urn:li:fs_miniCompany:14858986",
+                        "name": "voize",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGKGfUC5cZ_Rw/company-logo_200_200/company-logo_200_200/0/1630540204382/voize_de_logo?e=1747872000&v=beta&t=RvC722Rlgvzfr_rR6pLVevdMCLHg0jurxn2JKEmoZIc",
+                        "universalName": "voize-de",
+                        "dashCompanyUrn": "urn:li:fsd_company:14858986",
+                        "trackingId": "MVpdCmNyRPSPqWDXkGCKpg=="
+                    },
+                    "companyName": "voize"
+                },
+                {
+                    "title": "Scholarship Holder",
+                    "description": "The German Academic Scholarship Foundation (German: Studienstiftung des deutschen Volkes) is Germany's largest, oldest and most prestigious scholarship foundation. In line with its statutes, it supports \"the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole\". The Studienstiftung is non-political, non-denominational and ideologically independent.\n(Wikipedia)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3649543",
+                        "entityUrn": "urn:li:fs_miniCompany:3649543",
+                        "name": "Studienstiftung des deutschen Volkes",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEJcXyRx2IWsw/company-logo_200_200/company-logo_200_200/0/1631337158121?e=1747872000&v=beta&t=QZrqMVEJb40Tup2YcU27HRAksDauBhBrZYVHIpPfnIE",
+                        "universalName": "studienstiftung",
+                        "dashCompanyUrn": "urn:li:fsd_company:3649543",
+                        "trackingId": "w7YkSmQlQU+2KBHZW6NbSw=="
+                    },
+                    "companyName": "Studienstiftung des deutschen Volkes"
+                },
+                {
+                    "title": "Scholarship Holder",
+                    "description": "The German Academic Exchange Service or DAAD (German: Deutscher Akademischer Austauschdienst) is the largest German support organization in the field of international academic co-operation.",
+                    "locationName": "San Jose, California",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:734787",
+                        "entityUrn": "urn:li:fs_miniCompany:734787",
+                        "name": "DAAD German Academic Exchange Service",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGRTYl8MEZGTQ/company-logo_200_200/company-logo_200_200/0/1630509099005/daad_worldwide_logo?e=1747872000&v=beta&t=976wqsGqxcGv02RtSdt75hkBFO2ZnaEoLFu1miIAuI8",
+                        "universalName": "daad-worldwide",
+                        "dashCompanyUrn": "urn:li:fsd_company:734787",
+                        "trackingId": "0uVVG2KjRBe6bfsa0L5DLg=="
+                    },
+                    "companyName": "DAAD German Academic Exchange Service"
+                },
+                {
+                    "title": "Software Engineer",
+                    "description": "- Designed and created complete CI/CD pipeline utilizing Gitlab CI and Docker \n- Containerized web applications and developed automatic Kubernetes deployment\n- Coached team members in Docker and Kubernetes through one-on-one training and presentations\n- Lead creation of a professional 11 part video training course for our software\n- Managed local IT infrastructure by building servers and provisioning them using Ansible\n- Collaborated with customers and customized our Java EE web application for them",
+                    "locationName": "Stuttgart Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:19241928",
+                        "entityUrn": "urn:li:fs_miniCompany:19241928",
+                        "name": "ecadia GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEyuXlUIA4dLQ/company-logo_200_200/company-logo_200_200/0/1630631962541?e=1747872000&v=beta&t=JSMoyK7IsOSn8Q6sPXEGKvOCwXzcFRwW8zWmdwtoXA8",
+                        "universalName": "ecadia-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:19241928",
+                        "trackingId": "7fa2RK6PSTOHvlccaisupA=="
+                    },
+                    "companyName": "ecadia GmbH"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "Y Combinator",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2022
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "IT-Systems Engineering",
+                    "schoolName": "Hasso Plattner Institute",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science - BS",
+                    "fieldOfStudy": "Software Engineering",
+                    "schoolName": "Universität Stuttgart",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Software Development",
+                "Leadership",
+                "Project Management",
+                "Teamwork"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Co-Founder, CEO @ voize | YC W22 | Speech Recognition for Forms | Saving nurses 30 minutes every day with speech recognition",
+            "summary": "Software Engineer and Entrepreneur",
+            "student": false,
+            "industryName": "Program Development",
+            "industryUrn": "urn:li:fs_industry:102",
+            "geoLocationName": "Berlin, Berlin",
+            "geoCountryName": "Germany",
+            "jobTitle": "Co-Founder & CEO",
+            "companyName": "voize",
+            "companyPublicId": "voize-de",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/voize-de",
+            "following": false,
+            "followable": true,
+            "followersCount": 3309,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "voize",
+        "position": "Co-Founder & CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder & CEO",
+        "organization": "voize",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/fabioschmidberger/",
+        "company": "https://www.linkedin.com/company/voize-de"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder & CEO",
+            "description": "voize is the digital voice assistant for documentation. Users speak freely, our AI automatically creates the correctly structured documentation records in existing software systems. This saves time, allows the user to focus on the tasks instead of the documentation, and significantly reduces error rates.",
+            "locationName": "Potsdam Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:14858986",
+                "entityUrn": "urn:li:fs_miniCompany:14858986",
+                "name": "voize",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGKGfUC5cZ_Rw/company-logo_200_200/company-logo_200_200/0/1630540204382/voize_de_logo?e=1747872000&v=beta&t=RvC722Rlgvzfr_rR6pLVevdMCLHg0jurxn2JKEmoZIc",
+                "universalName": "voize-de",
+                "dashCompanyUrn": "urn:li:fsd_company:14858986",
+                "trackingId": "MVpdCmNyRPSPqWDXkGCKpg=="
+            },
+            "companyName": "voize"
+        },
+        {
+            "title": "Scholarship Holder",
+            "description": "The German Academic Scholarship Foundation (German: Studienstiftung des deutschen Volkes) is Germany's largest, oldest and most prestigious scholarship foundation. In line with its statutes, it supports \"the university education of young people who, on account of their exceptional academic or artistic talents and their personalities, can be expected to make an outstanding contribution to society as a whole\". The Studienstiftung is non-political, non-denominational and ideologically independent.\n(Wikipedia)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3649543",
+                "entityUrn": "urn:li:fs_miniCompany:3649543",
+                "name": "Studienstiftung des deutschen Volkes",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEJcXyRx2IWsw/company-logo_200_200/company-logo_200_200/0/1631337158121?e=1747872000&v=beta&t=QZrqMVEJb40Tup2YcU27HRAksDauBhBrZYVHIpPfnIE",
+                "universalName": "studienstiftung",
+                "dashCompanyUrn": "urn:li:fsd_company:3649543",
+                "trackingId": "w7YkSmQlQU+2KBHZW6NbSw=="
+            },
+            "companyName": "Studienstiftung des deutschen Volkes"
+        },
+        {
+            "title": "Scholarship Holder",
+            "description": "The German Academic Exchange Service or DAAD (German: Deutscher Akademischer Austauschdienst) is the largest German support organization in the field of international academic co-operation.",
+            "locationName": "San Jose, California",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:734787",
+                "entityUrn": "urn:li:fs_miniCompany:734787",
+                "name": "DAAD German Academic Exchange Service",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGRTYl8MEZGTQ/company-logo_200_200/company-logo_200_200/0/1630509099005/daad_worldwide_logo?e=1747872000&v=beta&t=976wqsGqxcGv02RtSdt75hkBFO2ZnaEoLFu1miIAuI8",
+                "universalName": "daad-worldwide",
+                "dashCompanyUrn": "urn:li:fsd_company:734787",
+                "trackingId": "0uVVG2KjRBe6bfsa0L5DLg=="
+            },
+            "companyName": "DAAD German Academic Exchange Service"
+        },
+        {
+            "title": "Software Engineer",
+            "description": "- Designed and created complete CI/CD pipeline utilizing Gitlab CI and Docker \n- Containerized web applications and developed automatic Kubernetes deployment\n- Coached team members in Docker and Kubernetes through one-on-one training and presentations\n- Lead creation of a professional 11 part video training course for our software\n- Managed local IT infrastructure by building servers and provisioning them using Ansible\n- Collaborated with customers and customized our Java EE web application for them",
+            "locationName": "Stuttgart Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:19241928",
+                "entityUrn": "urn:li:fs_miniCompany:19241928",
+                "name": "ecadia GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEyuXlUIA4dLQ/company-logo_200_200/company-logo_200_200/0/1630631962541?e=1747872000&v=beta&t=JSMoyK7IsOSn8Q6sPXEGKvOCwXzcFRwW8zWmdwtoXA8",
+                "universalName": "ecadia-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:19241928",
+                "trackingId": "7fa2RK6PSTOHvlccaisupA=="
+            },
+            "companyName": "ecadia GmbH"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "Y Combinator",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "IT-Systems Engineering",
+            "schoolName": "Hasso Plattner Institute",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science - BS",
+            "fieldOfStudy": "Software Engineering",
+            "schoolName": "Universität Stuttgart",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Software Development",
+        "Leadership",
+        "Project Management",
+        "Teamwork"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,513 @@
+{
+    "id": "exp222191775",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Arthur",
+        "lastName": "Mensch",
+        "fullName": "Arthur Mensch",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQGYzszsRQCGdA/profile-displayphoto-shrink_200_200/B56ZPFsZ46HIAY-/0/1734188572824?e=1745452800&v=beta&t=_lyfUxn5yKb9XDUPqmZYJ3kQhu_EakJzhvkGelX2NEQ",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "222191775",
+            "profileId": "ACoAAA0-YJ8BhF_OCFXkP7jF_bXJtqA1ZNMenCg",
+            "firstName": "Arthur",
+            "lastName": "Mensch",
+            "occupation": "Cofounder & CEO @ Mistral AI",
+            "publicIdentifier": "arthur-mensch",
+            "trackingId": "///jJD7MSJyEItoGGPN8uA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGYzszsRQCGdA/profile-displayphoto-shrink_200_200/B56ZPFsZ46HIAY-/0/1734188572824?e=1745452800&v=beta&t=_lyfUxn5yKb9XDUPqmZYJ3kQhu_EakJzhvkGelX2NEQ",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQGusv-hGtMScA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1734188595968?e=1745452800&v=beta&t=dSpfbDiG2E05niBmrTrlWhh1e4eOCR7JPxaxLsmCZe4",
+            "countryCode": "fr",
+            "geoUrn": "urn:li:fs_geo:101240143",
+            "positions": [
+                {
+                    "title": "Co-founder & CEO",
+                    "locationName": "Paris, France",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:94273421",
+                        "entityUrn": "urn:li:fs_miniCompany:94273421",
+                        "name": "Mistral AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGdcHyGp31ycA/company-logo_200_200/company-logo_200_200/0/1738851256376/mistralai_logo?e=1747872000&v=beta&t=qcNYDcNIl9OeSXmAkfrt0elRL29BBp3KuTY6E8Cz7FY",
+                        "universalName": "mistralai",
+                        "dashCompanyUrn": "urn:li:fsd_company:94273421",
+                        "trackingId": "yS+UBL1MTVScVDSk7oYyrQ=="
+                    },
+                    "companyName": "Mistral AI"
+                },
+                {
+                    "title": "Staff Research Scientist",
+                    "description": "Large language modelling - multimodal models - retrieval",
+                    "locationName": "Paris, France",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1594050",
+                        "entityUrn": "urn:li:fs_miniCompany:1594050",
+                        "name": "Google DeepMind",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                        "universalName": "googledeepmind",
+                        "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                        "trackingId": "pwyXy2EvQa+t51YzZcFw7w=="
+                    },
+                    "companyName": "DeepMind"
+                },
+                {
+                    "title": "Senior Research Scientist",
+                    "description": "Large language modelling - multimodal models - retrieval",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1594050",
+                        "entityUrn": "urn:li:fs_miniCompany:1594050",
+                        "name": "Google DeepMind",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                        "universalName": "googledeepmind",
+                        "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                        "trackingId": "oKx7fvrkTHmxJazNar0Ivw=="
+                    },
+                    "companyName": "DeepMind"
+                },
+                {
+                    "title": "Research scientist",
+                    "description": "Deep learning - large language modelling - multimodal training",
+                    "locationName": "Ville de Paris, Île-de-France, France",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1594050",
+                        "entityUrn": "urn:li:fs_miniCompany:1594050",
+                        "name": "Google DeepMind",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                        "universalName": "googledeepmind",
+                        "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                        "trackingId": "WifPZgTITBKfpsDZ3UqgIw=="
+                    },
+                    "companyName": "DeepMind"
+                },
+                {
+                    "title": "Post-doc researcher",
+                    "description": "Transport optimal - optimisation stochastique - apprentissage automatique",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:12535",
+                        "entityUrn": "urn:li:fs_miniCompany:12535",
+                        "name": "Ecole normale supérieure",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEti1osG_EnhQ/company-logo_200_200/company-logo_200_200/0/1630478840945/ecolenormalesuperieure_logo?e=1747872000&v=beta&t=pXnZtc0EfD5k9EsnCqUZiJgkzbxiOFb0tj0RyCRuf-U",
+                        "universalName": "ecolenormalesuperieure",
+                        "dashCompanyUrn": "urn:li:fsd_company:12535",
+                        "trackingId": "LH3n4AEpS6aj+IpvWcG2Ew=="
+                    },
+                    "companyName": "Ecole normale supérieure"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy",
+                    "fieldOfStudy": "Machine learning",
+                    "schoolName": "Université Paris-Saclay",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science",
+                    "fieldOfStudy": "Mathematics, Vision, Learning",
+                    "schoolName": "École Normale Supérieure Paris-Saclay",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science",
+                    "fieldOfStudy": "Computer Science, Applied Mathematics",
+                    "schoolName": "Telecom ParisTech",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Cofounder & CEO @ Mistral AI",
+            "summary": "Talk to le Chat! Web: https://chat.mistral.ai iOS: https://mistral.ai/app/ios Android: https://mistral.ai/app/android",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Paris, Île-de-France",
+            "geoCountryName": "France",
+            "jobTitle": "Co-founder & CEO",
+            "companyName": "Mistral AI",
+            "companyPublicId": "mistralai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/mistralai",
+            "following": false,
+            "followable": true,
+            "followersCount": 45886,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Mistral AI",
+        "position": "Co-founder & CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-founder & CEO",
+        "organization": "Mistral AI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/arthur-mensch/",
+        "company": "https://www.linkedin.com/company/mistralai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-founder & CEO",
+            "locationName": "Paris, France",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:94273421",
+                "entityUrn": "urn:li:fs_miniCompany:94273421",
+                "name": "Mistral AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGdcHyGp31ycA/company-logo_200_200/company-logo_200_200/0/1738851256376/mistralai_logo?e=1747872000&v=beta&t=qcNYDcNIl9OeSXmAkfrt0elRL29BBp3KuTY6E8Cz7FY",
+                "universalName": "mistralai",
+                "dashCompanyUrn": "urn:li:fsd_company:94273421",
+                "trackingId": "yS+UBL1MTVScVDSk7oYyrQ=="
+            },
+            "companyName": "Mistral AI"
+        },
+        {
+            "title": "Staff Research Scientist",
+            "description": "Large language modelling - multimodal models - retrieval",
+            "locationName": "Paris, France",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1594050",
+                "entityUrn": "urn:li:fs_miniCompany:1594050",
+                "name": "Google DeepMind",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                "universalName": "googledeepmind",
+                "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                "trackingId": "pwyXy2EvQa+t51YzZcFw7w=="
+            },
+            "companyName": "DeepMind"
+        },
+        {
+            "title": "Senior Research Scientist",
+            "description": "Large language modelling - multimodal models - retrieval",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1594050",
+                "entityUrn": "urn:li:fs_miniCompany:1594050",
+                "name": "Google DeepMind",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                "universalName": "googledeepmind",
+                "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                "trackingId": "oKx7fvrkTHmxJazNar0Ivw=="
+            },
+            "companyName": "DeepMind"
+        },
+        {
+            "title": "Research scientist",
+            "description": "Deep learning - large language modelling - multimodal training",
+            "locationName": "Ville de Paris, Île-de-France, France",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1594050",
+                "entityUrn": "urn:li:fs_miniCompany:1594050",
+                "name": "Google DeepMind",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEntrYwxPlbQA/company-logo_200_200/company-logo_200_200/0/1692960425188/googledeepmind_logo?e=1747872000&v=beta&t=nin_qymvT1E8WLKcCQ3m6m6z0lNFhCzxSFrlUmls2Sc",
+                "universalName": "googledeepmind",
+                "dashCompanyUrn": "urn:li:fsd_company:1594050",
+                "trackingId": "WifPZgTITBKfpsDZ3UqgIw=="
+            },
+            "companyName": "DeepMind"
+        },
+        {
+            "title": "Post-doc researcher",
+            "description": "Transport optimal - optimisation stochastique - apprentissage automatique",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:12535",
+                "entityUrn": "urn:li:fs_miniCompany:12535",
+                "name": "Ecole normale supérieure",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEti1osG_EnhQ/company-logo_200_200/company-logo_200_200/0/1630478840945/ecolenormalesuperieure_logo?e=1747872000&v=beta&t=pXnZtc0EfD5k9EsnCqUZiJgkzbxiOFb0tj0RyCRuf-U",
+                "universalName": "ecolenormalesuperieure",
+                "dashCompanyUrn": "urn:li:fsd_company:12535",
+                "trackingId": "LH3n4AEpS6aj+IpvWcG2Ew=="
+            },
+            "companyName": "Ecole normale supérieure"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy",
+            "fieldOfStudy": "Machine learning",
+            "schoolName": "Université Paris-Saclay",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science",
+            "fieldOfStudy": "Mathematics, Vision, Learning",
+            "schoolName": "École Normale Supérieure Paris-Saclay",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science",
+            "fieldOfStudy": "Computer Science, Applied Mathematics",
+            "schoolName": "Telecom ParisTech",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

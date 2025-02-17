@@ -1,0 +1,446 @@
+{
+    "id": "exp5767029",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Gilad",
+        "lastName": "Shainer",
+        "fullName": "Gilad Shainer",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQFmc4g9l5iUZw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516234096153?e=1745452800&v=beta&t=nFRdJLyjzrIKq1YozCN8r-UOWl2QlZGUApsiCypbCM0",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "5767029",
+            "profileId": "ACoAAABX_3UB3b2tgawgreck4LQE9XB1TmhODm8",
+            "firstName": "Gilad",
+            "lastName": "Shainer",
+            "occupation": "Senior Vice President Marketing at NVIDIA",
+            "publicIdentifier": "giladshainer",
+            "trackingId": "wz6kzsuaRd21IqrHfleFag==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFmc4g9l5iUZw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516234096153?e=1745452800&v=beta&t=nFRdJLyjzrIKq1YozCN8r-UOWl2QlZGUApsiCypbCM0",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:100075706",
+            "positions": [
+                {
+                    "title": "Senior Vice President Marketing",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Hardware"
+                        ],
+                        "objectUrn": "urn:li:company:3608",
+                        "entityUrn": "urn:li:fs_miniCompany:3608",
+                        "name": "NVIDIA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7YExLMK6L2Q/company-logo_200_200/company-logo_200_200/0/1724879902635/nvidia_logo?e=1747872000&v=beta&t=hMuRj7bLpkk_AwMX1S19QtD51ZjQUJUfJFaK_9LIFRE",
+                        "universalName": "nvidia",
+                        "dashCompanyUrn": "urn:li:fsd_company:3608",
+                        "trackingId": "b3MkLYBvSUq9wIrNw62qwQ=="
+                    },
+                    "companyName": "NVIDIA"
+                },
+                {
+                    "title": "Senior Vice President Marketing",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Semiconductors"
+                        ],
+                        "objectUrn": "urn:li:company:15894",
+                        "entityUrn": "urn:li:fs_miniCompany:15894",
+                        "name": "Mellanox Technologies",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF4Em9fXLVsFw/company-logo_200_200/company-logo_200_200/0/1630486691174/mellanox_technologies_logo?e=1747872000&v=beta&t=AnpwXxQY9r54KNkbn77tcco74QnTTx5nyrr558MLUt8",
+                        "universalName": "mellanox-technologies",
+                        "dashCompanyUrn": "urn:li:fsd_company:15894",
+                        "trackingId": "a1W4voaCRo2QANSKx0pzdg=="
+                    },
+                    "companyName": "Mellanox Technologies"
+                },
+                {
+                    "title": "Vice President Marketing",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Semiconductors"
+                        ],
+                        "objectUrn": "urn:li:company:15894",
+                        "entityUrn": "urn:li:fs_miniCompany:15894",
+                        "name": "Mellanox Technologies",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF4Em9fXLVsFw/company-logo_200_200/company-logo_200_200/0/1630486691174/mellanox_technologies_logo?e=1747872000&v=beta&t=AnpwXxQY9r54KNkbn77tcco74QnTTx5nyrr558MLUt8",
+                        "universalName": "mellanox-technologies",
+                        "dashCompanyUrn": "urn:li:fsd_company:15894",
+                        "trackingId": "af9PmDhaShKJtZCoUmEfdw=="
+                    },
+                    "companyName": "Mellanox Technologies"
+                },
+                {
+                    "title": "Vice President, Market Development",
+                    "description": "Managing market development activities: High-Performance Computing, Web 2.0, Cloud Computing, Enterprise Data Center, Database, Storage, Applications",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2011
+                        }
+                    },
+                    "companyName": "Mellanox Technologies"
+                },
+                {
+                    "title": "Senior Director of HPC and Technical Computing",
+                    "description": "Evaluate HPC technologies and future needs, manage and responsible for collaborations with users and partners on new solutions development, work with application provides on optimizing performance, represent Mellanox in the PCISIG working groups, Open Fabrics working groups, Open MPI. Drive Mellanox proprietary engineering development and management of new proprietary product development process with engineering.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2005
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Semiconductors"
+                        ],
+                        "objectUrn": "urn:li:company:15894",
+                        "entityUrn": "urn:li:fs_miniCompany:15894",
+                        "name": "Mellanox Technologies",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF4Em9fXLVsFw/company-logo_200_200/company-logo_200_200/0/1630486691174/mellanox_technologies_logo?e=1747872000&v=beta&t=AnpwXxQY9r54KNkbn77tcco74QnTTx5nyrr558MLUt8",
+                        "universalName": "mellanox-technologies",
+                        "dashCompanyUrn": "urn:li:fsd_company:15894",
+                        "trackingId": "9ycDfKAuR9qX7EeryNgn1Q=="
+                    },
+                    "companyName": "Mellanox Technologies"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "MS.C.",
+                    "fieldOfStudy": "Electrical Engineering",
+                    "schoolName": "Technion - Israel Institute of Technology",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1998
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BS.C.",
+                    "fieldOfStudy": "Electrical Engineering",
+                    "schoolName": "Technion - Israel Institute of Technology",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "2019 R&D100 Award",
+                    "description": "Recipient of 2015 R&D100 award for the contribution to the Unified Communication X (UCX) technology",
+                    "issueDate": {
+                        "year": 2019
+                    }
+                },
+                {
+                    "title": "2015 R&D100 ",
+                    "description": "Recipient of 2015 R&D100 award for the contribution to the CORE-Direct collective offload technology",
+                    "issueDate": {
+                        "year": 2015
+                    }
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "High Performance Computing",
+                "Computing",
+                "Cloud Computing",
+                "Infiniband"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Senior Vice President Marketing at NVIDIA",
+            "summary": "High performance computing (HPC); Artificial Intelligence (AI),  cloud computing; high speed interconnect technologies, InfiniBand, Ethernet; clustering and network topologies; advanced computing;  performance benchmarks and analysis, multiple patents in the field of high speed interconnects.\n\nChairman of the HPC Advisory Council since May 2008 till current\n\nPresident of the UCF consortium\n\nPresident of the CCIX consortium\n\nMember of the PCISIG PCI-X and PCI Express Working Groups and have contributed to the definition of the PCI specifications.\n\nRecipient of 2015 R&D100 award for the contribution to the CORE-Direct collective offload technology\n\nRecipient of 2015 R&D100 award for the contribution to the UCX (Unified Communication X) technology",
+            "student": false,
+            "industryName": "Computer Networking",
+            "industryUrn": "urn:li:fs_industry:5",
+            "geoLocationName": "Santa Clara, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Senior Vice President Marketing",
+            "companyName": "NVIDIA",
+            "companyPublicId": "nvidia",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/nvidia",
+            "following": false,
+            "followable": true,
+            "followersCount": 3818,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "NVIDIA",
+        "position": "Senior Vice President Marketing",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Hardware"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Vice President Marketing",
+        "organization": "NVIDIA",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/giladshainer/",
+        "company": "https://www.linkedin.com/company/nvidia"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Vice President Marketing",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Hardware"
+                ],
+                "objectUrn": "urn:li:company:3608",
+                "entityUrn": "urn:li:fs_miniCompany:3608",
+                "name": "NVIDIA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7YExLMK6L2Q/company-logo_200_200/company-logo_200_200/0/1724879902635/nvidia_logo?e=1747872000&v=beta&t=hMuRj7bLpkk_AwMX1S19QtD51ZjQUJUfJFaK_9LIFRE",
+                "universalName": "nvidia",
+                "dashCompanyUrn": "urn:li:fsd_company:3608",
+                "trackingId": "b3MkLYBvSUq9wIrNw62qwQ=="
+            },
+            "companyName": "NVIDIA"
+        },
+        {
+            "title": "Senior Vice President Marketing",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Semiconductors"
+                ],
+                "objectUrn": "urn:li:company:15894",
+                "entityUrn": "urn:li:fs_miniCompany:15894",
+                "name": "Mellanox Technologies",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF4Em9fXLVsFw/company-logo_200_200/company-logo_200_200/0/1630486691174/mellanox_technologies_logo?e=1747872000&v=beta&t=AnpwXxQY9r54KNkbn77tcco74QnTTx5nyrr558MLUt8",
+                "universalName": "mellanox-technologies",
+                "dashCompanyUrn": "urn:li:fsd_company:15894",
+                "trackingId": "a1W4voaCRo2QANSKx0pzdg=="
+            },
+            "companyName": "Mellanox Technologies"
+        },
+        {
+            "title": "Vice President Marketing",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Semiconductors"
+                ],
+                "objectUrn": "urn:li:company:15894",
+                "entityUrn": "urn:li:fs_miniCompany:15894",
+                "name": "Mellanox Technologies",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF4Em9fXLVsFw/company-logo_200_200/company-logo_200_200/0/1630486691174/mellanox_technologies_logo?e=1747872000&v=beta&t=AnpwXxQY9r54KNkbn77tcco74QnTTx5nyrr558MLUt8",
+                "universalName": "mellanox-technologies",
+                "dashCompanyUrn": "urn:li:fsd_company:15894",
+                "trackingId": "af9PmDhaShKJtZCoUmEfdw=="
+            },
+            "companyName": "Mellanox Technologies"
+        },
+        {
+            "title": "Vice President, Market Development",
+            "description": "Managing market development activities: High-Performance Computing, Web 2.0, Cloud Computing, Enterprise Data Center, Database, Storage, Applications",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2011
+                }
+            },
+            "companyName": "Mellanox Technologies"
+        },
+        {
+            "title": "Senior Director of HPC and Technical Computing",
+            "description": "Evaluate HPC technologies and future needs, manage and responsible for collaborations with users and partners on new solutions development, work with application provides on optimizing performance, represent Mellanox in the PCISIG working groups, Open Fabrics working groups, Open MPI. Drive Mellanox proprietary engineering development and management of new proprietary product development process with engineering.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2005
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Semiconductors"
+                ],
+                "objectUrn": "urn:li:company:15894",
+                "entityUrn": "urn:li:fs_miniCompany:15894",
+                "name": "Mellanox Technologies",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF4Em9fXLVsFw/company-logo_200_200/company-logo_200_200/0/1630486691174/mellanox_technologies_logo?e=1747872000&v=beta&t=AnpwXxQY9r54KNkbn77tcco74QnTTx5nyrr558MLUt8",
+                "universalName": "mellanox-technologies",
+                "dashCompanyUrn": "urn:li:fsd_company:15894",
+                "trackingId": "9ycDfKAuR9qX7EeryNgn1Q=="
+            },
+            "companyName": "Mellanox Technologies"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "MS.C.",
+            "fieldOfStudy": "Electrical Engineering",
+            "schoolName": "Technion - Israel Institute of Technology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            }
+        },
+        {
+            "degreeName": "BS.C.",
+            "fieldOfStudy": "Electrical Engineering",
+            "schoolName": "Technion - Israel Institute of Technology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "High Performance Computing",
+        "Computing",
+        "Cloud Computing",
+        "Infiniband"
+    ],
+    "lastEnriched": "2025-02-17"
+}

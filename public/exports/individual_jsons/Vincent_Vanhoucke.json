@@ -1,0 +1,566 @@
+{
+    "id": "exp503415",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Vincent",
+        "lastName": "Vanhoucke",
+        "fullName": "Vincent Vanhoucke",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQFXTksl22ZawA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1593273616446?e=1745452800&v=beta&t=oY36wv69FzTUVULBtoM7DHs_4AVZD8GonL8blJfSfjo",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French"
+        ],
+        "allData": {
+            "id": "503415",
+            "profileId": "ACoAAAAHrncBKu8JRrueFqnPHhG98PfofhG2HkI",
+            "firstName": "Vincent",
+            "lastName": "Vanhoucke",
+            "occupation": "Distinguished Engineer, Waymo",
+            "publicIdentifier": "vanhoucke",
+            "trackingId": "nRG5GT6TR26VDO2eN/nndQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFXTksl22ZawA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1593273616446?e=1745452800&v=beta&t=oY36wv69FzTUVULBtoM7DHs_4AVZD8GonL8blJfSfjo",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQHylJQX5Es_ZA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732295908477?e=1745452800&v=beta&t=F4ap5Xk_1lce7qZS5uCnPSxRdtKEhvPi8TeMClOhaKY",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102277331",
+            "positions": [
+                {
+                    "title": "Distinguished Engineer",
+                    "description": "AI and Foundation Model Lead",
+                    "locationName": "San Francisco, California, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:17900793",
+                        "entityUrn": "urn:li:fs_miniCompany:17900793",
+                        "name": "Waymo",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/company-logo_200_200/0/1631313981466?e=1747872000&v=beta&t=Z2xO14HJXT8WsthtDJDPOJ6Fsa46OqBCDvmew7_ka6Q",
+                        "universalName": "waymo",
+                        "dashCompanyUrn": "urn:li:fsd_company:17900793",
+                        "trackingId": "Nq7pt9kxRjeNOKb9Y6AAjQ=="
+                    },
+                    "companyName": "Waymo"
+                },
+                {
+                    "title": "Senior Director",
+                    "description": "Head of Robotics, Google DeepMind",
+                    "locationName": "Mountain View, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "E2Z7REsCTkOnEHc4jopa2w=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Distinguished Scientist",
+                    "description": "Senior Director, Robotics at Google",
+                    "locationName": "Mountain View, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "AHH4+EZZTW2iuoyxMhGiiQ=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Principal Scientist",
+                    "description": "Director, Robotics at Google",
+                    "locationName": "Mountain View, CA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "Z505q2q9T22Zocy6xrCJqA=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Staff Research Scientist",
+                    "description": "Technical Lead / Manager, Brain team (deep learning infrastructure and research). Previously, speech technology team.",
+                    "locationName": "Mountain View, CA, USA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "44V7Pfi/TVq9LhG/OfWoPg=="
+                    },
+                    "companyName": "Google"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Electrical Engineering",
+                    "schoolName": "Stanford University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 1999
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MS",
+                    "fieldOfStudy": "Electrical Engineering",
+                    "schoolName": "Stanford University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 1998
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Ingenieur",
+                    "schoolName": "Ecole Centrale Paris",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 1996
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Fellow",
+                    "issueDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "issuer": "IEEE"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "French"
+                }
+            ],
+            "skills": [
+                "Machine Learning",
+                "Speech Recognition",
+                "Natural Language Processing",
+                "Pattern Recognition"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "President",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "Robot Learning Foundation",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                },
+                {
+                    "role": "Tech Strategy Board Member",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "A3 Artificial Intelligence",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                }
+            ],
+            "headline": "Distinguished Engineer, Waymo",
+            "summary": "I only connect on LinkedIn with people I know, and may not respond to cold calls.\nThank you for your understanding.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "San Francisco, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Distinguished Engineer",
+            "companyName": "Waymo",
+            "companyPublicId": "waymo",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/waymo",
+            "following": false,
+            "followable": true,
+            "followersCount": 11768,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Waymo",
+        "position": "Distinguished Engineer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Distinguished Engineer",
+        "organization": "Waymo",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/vanhoucke/",
+        "company": "https://www.linkedin.com/company/waymo"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Distinguished Engineer",
+            "description": "AI and Foundation Model Lead",
+            "locationName": "San Francisco, California, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:17900793",
+                "entityUrn": "urn:li:fs_miniCompany:17900793",
+                "name": "Waymo",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/company-logo_200_200/0/1631313981466?e=1747872000&v=beta&t=Z2xO14HJXT8WsthtDJDPOJ6Fsa46OqBCDvmew7_ka6Q",
+                "universalName": "waymo",
+                "dashCompanyUrn": "urn:li:fsd_company:17900793",
+                "trackingId": "Nq7pt9kxRjeNOKb9Y6AAjQ=="
+            },
+            "companyName": "Waymo"
+        },
+        {
+            "title": "Senior Director",
+            "description": "Head of Robotics, Google DeepMind",
+            "locationName": "Mountain View, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "E2Z7REsCTkOnEHc4jopa2w=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Distinguished Scientist",
+            "description": "Senior Director, Robotics at Google",
+            "locationName": "Mountain View, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "AHH4+EZZTW2iuoyxMhGiiQ=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Principal Scientist",
+            "description": "Director, Robotics at Google",
+            "locationName": "Mountain View, CA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "Z505q2q9T22Zocy6xrCJqA=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Staff Research Scientist",
+            "description": "Technical Lead / Manager, Brain team (deep learning infrastructure and research). Previously, speech technology team.",
+            "locationName": "Mountain View, CA, USA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "44V7Pfi/TVq9LhG/OfWoPg=="
+            },
+            "companyName": "Google"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Electrical Engineering",
+            "schoolName": "Stanford University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2003
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 1999
+                }
+            }
+        },
+        {
+            "degreeName": "MS",
+            "fieldOfStudy": "Electrical Engineering",
+            "schoolName": "Stanford University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 1999
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1998
+                }
+            }
+        },
+        {
+            "degreeName": "Ingenieur",
+            "schoolName": "Ecole Centrale Paris",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 1999
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1996
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Machine Learning",
+        "Speech Recognition",
+        "Natural Language Processing",
+        "Pattern Recognition"
+    ],
+    "lastEnriched": "2025-02-17"
+}

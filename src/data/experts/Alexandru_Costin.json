@@ -1,0 +1,464 @@
+{
+    "id": "exp138003",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alexandru",
+        "lastName": "Costin",
+        "fullName": "Alexandru Costin",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQFRRMWMa1htig/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1701725112489?e=1745452800&v=beta&t=-go3s0u1_MznT3ejzl8DvSlcYG_dtkC8hRfBEwyx7H4",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "Romanian"
+        ],
+        "allData": {
+            "id": "138003",
+            "profileId": "ACoAAAACGxMBGbmjsqJWvl_d8NzTBzLLp6iwO-E",
+            "firstName": "Alexandru",
+            "lastName": "Costin",
+            "occupation": "VP, Generative AI @ Adobe | Firefly models, applied research and APIs",
+            "publicIdentifier": "alexandru-costin-",
+            "trackingId": "aPZSXL13TH6WXqelQPIO7w==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFRRMWMa1htig/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1701725112489?e=1745452800&v=beta&t=-go3s0u1_MznT3ejzl8DvSlcYG_dtkC8hRfBEwyx7H4",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQHFKrfY6dTe3Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1699286294398?e=1745452800&v=beta&t=oo-hb2Fy_mhQzdjp4VEGW8v_zvMu4kSuXQcWkFRmmD0",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103585630",
+            "positions": [
+                {
+                    "title": "VP, Generative AI and Sensei - Firefly family of models",
+                    "description": "As the Vice President responsible for Adobe’s Firefly family of Generative AI models, I lead the development and integration of cutting-edge AI capabilities into our creative tools. Firefly is powered by the our Sensei platform, which manages curated AI training data, distributed training pipelines, and large-scale inference infrastructure for all Adobe AI researchers.\n\nCollaborating closely with Adobe Research labs, the Firefly team productizes professional-grade Generative AI models for content creation and editing. We are also pioneering agentic experiences through dialog-based user interfaces, as well as exploring next-generation paradigms such as neural document formats.\n\nOur AI Training Data team builds and curates comprehensive, ethically sourced datasets that support the development of models across a wide range of document types—from images and videos to text, vectors, and 3D.\n\nThe Sensei platform serves as our “AI Superhighway,” driving technology transfer and efficiency across Adobe’s research groups by streamlining distributed model training, GPU cluster utilization, and model optimization for both cloud-based and on-device execution.",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1480",
+                        "entityUrn": "urn:li:fs_miniCompany:1480",
+                        "name": "Adobe",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                        "universalName": "adobe",
+                        "dashCompanyUrn": "urn:li:fsd_company:1480",
+                        "trackingId": "jKRnPACuTYqXiXUhEiQgRg=="
+                    },
+                    "companyName": "Adobe"
+                },
+                {
+                    "title": "Vice President, Creative Cloud Services",
+                    "description": "Responsible for executing the Services strategy for Creative Cloud(CC): engagement (CC home and \"first mile\" onboarding), Cloud documents and CC Spaces, Design systems with CC Libraries, Extensibility, Fonts and Neural Filters. UI components, native and web SDKs and supporting micro-services integrated in Adobe XD, Photoshop, Illustrator, Indesign, Spark, Premiere, After Effects, Bridge,  etc\n\n• Leading a cross-functional, geo-distributed team of 300+ - partnering CC app teams, Adobe Design and Adobe Research.\n•  Lead the Cloud Documents strategy - enabling designer to designer collaboration by sharing documents in the cloud, with optimized sync, versioning and desktop/mobile/web access\n•  Lead the CC Review capabilities - enabling designer to stakeholder collaboration in our applications - using in app and web commenting, invitation components and email notifications.\n•  Building a Design System with CC Libraries - helping teams of designers scale with brand guidelines\n•  Supporting Adobe Fonts - making ~20000 high quality fonts accessible to all CC customers with deep integration in all creative apps\n•  Delivering the Universal Extensibility Platform - enabling the creation of native user experiences in our desktop products by 1st party and 3rd party developers. Similar to React Native but adapted for Adobe apps and platforms, and implementing our Adobe apps design language (Spectrum).\n•  Building Neural Filters - enabling AI powered based plugins in our applications to scale Adobe magic creation and accelerate machine learning tech transfer from Adobe Research.\n•  Leading the team building a new on-boarding UI (“first-mile experience”) for millions of new Creative Cloud customers interacting with our applications (from Photoshop to Adobe XD). The new experience, powered by machine-learning, enables personalized and app-specific workflows based on individual user’s context and intent.",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1480",
+                        "entityUrn": "urn:li:fs_miniCompany:1480",
+                        "name": "Adobe",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                        "universalName": "adobe",
+                        "dashCompanyUrn": "urn:li:fsd_company:1480",
+                        "trackingId": "g1yq4JKTTHOFW0EkwwoJcg=="
+                    },
+                    "companyName": "Adobe"
+                },
+                {
+                    "title": "Senior Director, Creative Cloud Services",
+                    "description": "Responsible for executing the Services strategy for Creative Cloud: engagement (cc web and \"first mile\" onboarding), cloud documents and projects, design systems with libraries, extensibility and fonts. UI components, SDKs and supporting micro-services integrated in Adobe XD, Photoshop, Illustrator, Indesign, Premiere, After Effects, Bridge, etc",
+                    "locationName": "San Jose",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1480",
+                        "entityUrn": "urn:li:fs_miniCompany:1480",
+                        "name": "Adobe",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                        "universalName": "adobe",
+                        "dashCompanyUrn": "urn:li:fsd_company:1480",
+                        "trackingId": "KZ4w2BtpTHK2fr/viK1exw=="
+                    },
+                    "companyName": "Adobe"
+                },
+                {
+                    "title": "Sr. Director, Digital Imaging and Product Strategy",
+                    "description": "Responsible for Digital Imaging Services strategy, enabling cloud photo storage for Lightroom CC and Lightroom Web and improving onboarding for photography customers.\n\n• Leading a team of 50+ cloud and web engineers - partnering with the Photoshop and Lightroom teams\n• Partnered with Adobe design to explore the re-invention of the Lightroom CC UI iterating on a live Electron prototype\n• Drove the scalability improvements for our AWS based cloud storage to enable the launch of Lightroom CC with RAW photo support. COGS analysis and planning.\n• Single digit increased conversion for Creative Cloud Photography Plan by improving the web onboarding flow and using in-browser application deployments.\n• Started machine learning based exploration of photo auto-tagging and auto-edit in Adobe Camera Raw and Lightroom\n• Pioneered webassembly (pnacl/emscripten) deployments of large Adobe codebases on the web.\n• Built Torq, an internal JavaScript framework similar to React.js designed for high-complexity UI applications that was used in 20+ projects in Adobe (we ended up moving to React to benefit from the open source community)\n• Innovated in the desktop application space by extending Electron with GPU capabilities to support hybrid (web + native) application development on desktop. Technology powering Adobe Dimension.\n• Advisor for Digital Imaging leadership on mobile and web strategy, focused on funnel conversion and customer workflow optimization.",
+                    "locationName": "San Jose",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1480",
+                        "entityUrn": "urn:li:fs_miniCompany:1480",
+                        "name": "Adobe",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                        "universalName": "adobe",
+                        "dashCompanyUrn": "urn:li:fsd_company:1480",
+                        "trackingId": "VGt9OvOyS/yCcEsKXs4BQQ=="
+                    },
+                    "companyName": "Adobe Systems"
+                },
+                {
+                    "title": "Senior Director - Adobe Romania",
+                    "description": "Running Adobe Romania, focusing on next generation web products development and research.\n\n• Contributed to the strategy around Adobe's foray in DIgital Marketing, part of the Omniture technical due-dilligence team and integration with Creative Suite\n• Contributed to the Adobe reinvention in the web space, driving the first HTML5 Webkit contribution efforts taking Adobe page layout technologies and making them open source (CSS Regions).\n• Grew the site from 30 to ~500 people, focused mostly on building next generation products in the web and services space - from Web Content Management to Video Analytics and Adobe Oauth services.\n• Several times winner of Best Company to Work for in Romania.\n• One Patent in Intelligent Ads with client side targeting",
+                    "locationName": "Bucharest, Romania",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1480",
+                        "entityUrn": "urn:li:fs_miniCompany:1480",
+                        "name": "Adobe",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                        "universalName": "adobe",
+                        "dashCompanyUrn": "urn:li:fsd_company:1480",
+                        "trackingId": "sMLpnLzqQgCuo9gKKWULwA=="
+                    },
+                    "companyName": "Adobe Systems"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master’s Degree",
+                    "fieldOfStudy": "Computer Science, French Stream",
+                    "schoolName": "University POLITEHNICA of Bucharest",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2002
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "French"
+                },
+                {
+                    "name": "Romanian"
+                }
+            ],
+            "skills": [
+                "Distributed Training",
+                "Generative AI",
+                "User Experience (UX)",
+                "Distributed Computing"
+            ],
+            "volunteerExperiences": [],
+            "headline": "VP, Generative AI @ Adobe | Firefly models, applied research and APIs",
+            "summary": "As the Vice President of Generative AI at Adobe, I lead a global team of over 300 applied researchers and engineers developing and integrating Firefly generative AI models into our creative tools. I oversee the AI platform, providing curated training data, distributed training pipelines, and large-scale inference technologies for Adobe Research and Applied Research.\n\nMy mission is to enable creative professionals and enthusiasts to bring their visions to life through the transformative power of AI. With more than two decades of experience spanning web development, digital imaging, product strategy, cloud services, and machine learning, I bring a holistic perspective to driving innovation. Previously, I founded InterAKT, a web tools company acquired by Adobe, and led Adobe Romania for a decade. I remain passionate about the impact of machine learning and the limitless opportunities it creates for collaboration and growth.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Los Gatos, California",
+            "geoCountryName": "United States",
+            "jobTitle": "VP, Generative AI and Sensei - Firefly family of models",
+            "companyName": "Adobe",
+            "companyPublicId": "adobe",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/adobe",
+            "following": false,
+            "followable": true,
+            "followersCount": 10489,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Adobe",
+        "position": "VP, Generative AI and Sensei - Firefly family of models",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP, Generative AI and Sensei - Firefly family of models",
+        "organization": "Adobe",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alexandru-costin-/",
+        "company": "https://www.linkedin.com/company/adobe"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP, Generative AI and Sensei - Firefly family of models",
+            "description": "As the Vice President responsible for Adobe’s Firefly family of Generative AI models, I lead the development and integration of cutting-edge AI capabilities into our creative tools. Firefly is powered by the our Sensei platform, which manages curated AI training data, distributed training pipelines, and large-scale inference infrastructure for all Adobe AI researchers.\n\nCollaborating closely with Adobe Research labs, the Firefly team productizes professional-grade Generative AI models for content creation and editing. We are also pioneering agentic experiences through dialog-based user interfaces, as well as exploring next-generation paradigms such as neural document formats.\n\nOur AI Training Data team builds and curates comprehensive, ethically sourced datasets that support the development of models across a wide range of document types—from images and videos to text, vectors, and 3D.\n\nThe Sensei platform serves as our “AI Superhighway,” driving technology transfer and efficiency across Adobe’s research groups by streamlining distributed model training, GPU cluster utilization, and model optimization for both cloud-based and on-device execution.",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1480",
+                "entityUrn": "urn:li:fs_miniCompany:1480",
+                "name": "Adobe",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                "universalName": "adobe",
+                "dashCompanyUrn": "urn:li:fsd_company:1480",
+                "trackingId": "jKRnPACuTYqXiXUhEiQgRg=="
+            },
+            "companyName": "Adobe"
+        },
+        {
+            "title": "Vice President, Creative Cloud Services",
+            "description": "Responsible for executing the Services strategy for Creative Cloud(CC): engagement (CC home and \"first mile\" onboarding), Cloud documents and CC Spaces, Design systems with CC Libraries, Extensibility, Fonts and Neural Filters. UI components, native and web SDKs and supporting micro-services integrated in Adobe XD, Photoshop, Illustrator, Indesign, Spark, Premiere, After Effects, Bridge,  etc\n\n• Leading a cross-functional, geo-distributed team of 300+ - partnering CC app teams, Adobe Design and Adobe Research.\n•  Lead the Cloud Documents strategy - enabling designer to designer collaboration by sharing documents in the cloud, with optimized sync, versioning and desktop/mobile/web access\n•  Lead the CC Review capabilities - enabling designer to stakeholder collaboration in our applications - using in app and web commenting, invitation components and email notifications.\n•  Building a Design System with CC Libraries - helping teams of designers scale with brand guidelines\n•  Supporting Adobe Fonts - making ~20000 high quality fonts accessible to all CC customers with deep integration in all creative apps\n•  Delivering the Universal Extensibility Platform - enabling the creation of native user experiences in our desktop products by 1st party and 3rd party developers. Similar to React Native but adapted for Adobe apps and platforms, and implementing our Adobe apps design language (Spectrum).\n•  Building Neural Filters - enabling AI powered based plugins in our applications to scale Adobe magic creation and accelerate machine learning tech transfer from Adobe Research.\n•  Leading the team building a new on-boarding UI (“first-mile experience”) for millions of new Creative Cloud customers interacting with our applications (from Photoshop to Adobe XD). The new experience, powered by machine-learning, enables personalized and app-specific workflows based on individual user’s context and intent.",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1480",
+                "entityUrn": "urn:li:fs_miniCompany:1480",
+                "name": "Adobe",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                "universalName": "adobe",
+                "dashCompanyUrn": "urn:li:fsd_company:1480",
+                "trackingId": "g1yq4JKTTHOFW0EkwwoJcg=="
+            },
+            "companyName": "Adobe"
+        },
+        {
+            "title": "Senior Director, Creative Cloud Services",
+            "description": "Responsible for executing the Services strategy for Creative Cloud: engagement (cc web and \"first mile\" onboarding), cloud documents and projects, design systems with libraries, extensibility and fonts. UI components, SDKs and supporting micro-services integrated in Adobe XD, Photoshop, Illustrator, Indesign, Premiere, After Effects, Bridge, etc",
+            "locationName": "San Jose",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1480",
+                "entityUrn": "urn:li:fs_miniCompany:1480",
+                "name": "Adobe",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                "universalName": "adobe",
+                "dashCompanyUrn": "urn:li:fsd_company:1480",
+                "trackingId": "KZ4w2BtpTHK2fr/viK1exw=="
+            },
+            "companyName": "Adobe"
+        },
+        {
+            "title": "Sr. Director, Digital Imaging and Product Strategy",
+            "description": "Responsible for Digital Imaging Services strategy, enabling cloud photo storage for Lightroom CC and Lightroom Web and improving onboarding for photography customers.\n\n• Leading a team of 50+ cloud and web engineers - partnering with the Photoshop and Lightroom teams\n• Partnered with Adobe design to explore the re-invention of the Lightroom CC UI iterating on a live Electron prototype\n• Drove the scalability improvements for our AWS based cloud storage to enable the launch of Lightroom CC with RAW photo support. COGS analysis and planning.\n• Single digit increased conversion for Creative Cloud Photography Plan by improving the web onboarding flow and using in-browser application deployments.\n• Started machine learning based exploration of photo auto-tagging and auto-edit in Adobe Camera Raw and Lightroom\n• Pioneered webassembly (pnacl/emscripten) deployments of large Adobe codebases on the web.\n• Built Torq, an internal JavaScript framework similar to React.js designed for high-complexity UI applications that was used in 20+ projects in Adobe (we ended up moving to React to benefit from the open source community)\n• Innovated in the desktop application space by extending Electron with GPU capabilities to support hybrid (web + native) application development on desktop. Technology powering Adobe Dimension.\n• Advisor for Digital Imaging leadership on mobile and web strategy, focused on funnel conversion and customer workflow optimization.",
+            "locationName": "San Jose",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1480",
+                "entityUrn": "urn:li:fs_miniCompany:1480",
+                "name": "Adobe",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                "universalName": "adobe",
+                "dashCompanyUrn": "urn:li:fsd_company:1480",
+                "trackingId": "VGt9OvOyS/yCcEsKXs4BQQ=="
+            },
+            "companyName": "Adobe Systems"
+        },
+        {
+            "title": "Senior Director - Adobe Romania",
+            "description": "Running Adobe Romania, focusing on next generation web products development and research.\n\n• Contributed to the strategy around Adobe's foray in DIgital Marketing, part of the Omniture technical due-dilligence team and integration with Creative Suite\n• Contributed to the Adobe reinvention in the web space, driving the first HTML5 Webkit contribution efforts taking Adobe page layout technologies and making them open source (CSS Regions).\n• Grew the site from 30 to ~500 people, focused mostly on building next generation products in the web and services space - from Web Content Management to Video Analytics and Adobe Oauth services.\n• Several times winner of Best Company to Work for in Romania.\n• One Patent in Intelligent Ads with client side targeting",
+            "locationName": "Bucharest, Romania",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1480",
+                "entityUrn": "urn:li:fs_miniCompany:1480",
+                "name": "Adobe",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFrtK-ioO1rsQ/company-logo_200_200/company-logo_200_200/0/1630645864762/adobe_logo?e=1747872000&v=beta&t=eUDk-zOK5hfkEurQtN9JpXntWCFO-evB40Ww0QeQBrs",
+                "universalName": "adobe",
+                "dashCompanyUrn": "urn:li:fsd_company:1480",
+                "trackingId": "sMLpnLzqQgCuo9gKKWULwA=="
+            },
+            "companyName": "Adobe Systems"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master’s Degree",
+            "fieldOfStudy": "Computer Science, French Stream",
+            "schoolName": "University POLITEHNICA of Bucharest",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Distributed Training",
+        "Generative AI",
+        "User Experience (UX)",
+        "Distributed Computing"
+    ],
+    "lastEnriched": "2025-02-17"
+}

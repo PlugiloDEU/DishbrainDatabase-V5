@@ -1,0 +1,525 @@
+{
+    "id": "exp563510354",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Larissa",
+        "lastName": "Holzki",
+        "fullName": "Larissa Holzki",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQG0n5QDykgPEA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1703938041659?e=1745452800&v=beta&t=4GJM3ezZ8IHkQiML0riJeYSZGw3SWsSe4pq_cw8zp2A",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch",
+            "Portugiesisch"
+        ],
+        "allData": {
+            "id": "563510354",
+            "profileId": "ACoAACGWfFIBjq7kp-6qDMi8Eythvx24aZ5TSNM",
+            "firstName": "Larissa",
+            "lastName": "Holzki",
+            "occupation": "AI Team Leader and Senior Reporter at Handelsblatt, author, and moderator for panels and events",
+            "publicIdentifier": "larissa-holzki",
+            "trackingId": "K9B0ZajaTxuKzbXSAstuKA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQG0n5QDykgPEA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1703938041659?e=1745452800&v=beta&t=4GJM3ezZ8IHkQiML0riJeYSZGw3SWsSe4pq_cw8zp2A",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEqLXDDUTnt3A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1738396394352?e=1745452800&v=beta&t=drg9cNI8VL27S8dWrho-z6vMz9jE_sQLf8xylcVF8vQ",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105890944",
+            "positions": [
+                {
+                    "title": "Artificial Intelligence - Team Lead and Reporter",
+                    "locationName": "Dusseldorf",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:3040074",
+                        "entityUrn": "urn:li:fs_miniCompany:3040074",
+                        "name": "Handelsblatt",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                        "universalName": "handelsblatt",
+                        "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                        "trackingId": "EUpc7mSVTli8wb/ytgFoWA=="
+                    },
+                    "companyName": "Handelsblatt"
+                },
+                {
+                    "title": "Book Author",
+                    "description": "Inside KI. Book project with Stephan Scheuer, Handelsblatt correspondent in Silicon Valley.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Publishing"
+                        ],
+                        "objectUrn": "urn:li:company:582663",
+                        "entityUrn": "urn:li:fs_miniCompany:582663",
+                        "name": "Verlag Herder",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEXz3tGHYeVdg/company-logo_200_200/company-logo_200_200/0/1722938103254/verlag_herder_logo?e=1747872000&v=beta&t=pgIyldqA2jlvIVQ5lX4-6HRBGdlngQGlu4H5AdcO3qQ",
+                        "universalName": "verlag-herder",
+                        "dashCompanyUrn": "urn:li:fsd_company:582663",
+                        "trackingId": "CCbSwqY6RXaLzkhpFqqAmA=="
+                    },
+                    "companyName": "Verlag Herder GmbH"
+                },
+                {
+                    "title": "Technology and Defense Reporter",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:3040074",
+                        "entityUrn": "urn:li:fs_miniCompany:3040074",
+                        "name": "Handelsblatt",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                        "universalName": "handelsblatt",
+                        "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                        "trackingId": "AImCdV5MRz+W+0ty6uKREA=="
+                    },
+                    "companyName": "Handelsblatt"
+                },
+                {
+                    "title": "Start-ups and Big Tech Reporter",
+                    "locationName": "Central editorial office, Dusseldorf",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:3040074",
+                        "entityUrn": "urn:li:fs_miniCompany:3040074",
+                        "name": "Handelsblatt",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                        "universalName": "handelsblatt",
+                        "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                        "trackingId": "jc+beJ/5Qw2AP67cx2O2Ow=="
+                    },
+                    "companyName": "Handelsblatt"
+                },
+                {
+                    "title": "Education & Career Editor",
+                    "locationName": "Central editorial office, Munich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:61161",
+                        "entityUrn": "urn:li:fs_miniCompany:61161",
+                        "name": "Süddeutsche Zeitung",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHST7PMC8ei6A/company-logo_200_200/company-logo_200_200/0/1630580579192/sddeutsche_zeitung_logo?e=1747872000&v=beta&t=bc23WG557Oz3ph2ndTgRTjuwd6BrPdCFTsEwgGkQUfM",
+                        "universalName": "süddeutsche-zeitung",
+                        "dashCompanyUrn": "urn:li:fsd_company:61161",
+                        "trackingId": "4G34D8xhTd+60S01yhSA9g=="
+                    },
+                    "companyName": "Süddeutsche Zeitung"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "M.A.",
+                    "fieldOfStudy": "International Criminology",
+                    "schoolName": "University of Hamburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "degreeName": "M.A.",
+                    "fieldOfStudy": "Work, Business, Society - Economic and Sociological Studies",
+                    "schoolName": "University of Hamburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Social Sciences and Economics",
+                    "schoolName": "Cologne School of Journalism",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "Ada Fellowship "
+                }
+            ],
+            "honors": [
+                {
+                    "title": "Stipendiatin der Studienstiftung des Deutschen Volkes",
+                    "issuer": "Studienstiftung des deutschen Volkes"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch"
+                },
+                {
+                    "name": "Englisch"
+                },
+                {
+                    "name": "Französisch"
+                },
+                {
+                    "name": "Portugiesisch"
+                }
+            ],
+            "skills": [
+                "Autorin",
+                "Journalismus",
+                "Moderation",
+                "Podcast"
+            ],
+            "volunteerExperiences": [],
+            "headline": "AI Team Leader and Senior Reporter at Handelsblatt, author, and moderator for panels and events",
+            "summary": "The AI team holds a pivotal role at Handelsblatt, working alongside our main departments like Politics, Business, and Finance. Our central objective is to elevate Handelsblatt's coverage on Artificial Intelligence, recognizing its profound importance to our readers. Internally, our team is focused on understanding the specific requirements AI development brings to the editorial process and determining the best ways to address them. To support this internal mission, we've initiated a specialized task force.",
+            "student": false,
+            "industryName": "Fine Art",
+            "industryUrn": "urn:li:fs_industry:38",
+            "geoLocationName": "Cologne, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Artificial Intelligence - Team Lead and Reporter",
+            "companyName": "Handelsblatt",
+            "companyPublicId": "handelsblatt",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/handelsblatt",
+            "following": false,
+            "followable": true,
+            "followersCount": 34964,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Handelsblatt",
+        "position": "Artificial Intelligence - Team Lead and Reporter",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Newspapers"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Artificial Intelligence - Team Lead and Reporter",
+        "organization": "Handelsblatt",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/larissa-holzki/",
+        "company": "https://www.linkedin.com/company/handelsblatt"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Artificial Intelligence - Team Lead and Reporter",
+            "locationName": "Dusseldorf",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:3040074",
+                "entityUrn": "urn:li:fs_miniCompany:3040074",
+                "name": "Handelsblatt",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                "universalName": "handelsblatt",
+                "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                "trackingId": "EUpc7mSVTli8wb/ytgFoWA=="
+            },
+            "companyName": "Handelsblatt"
+        },
+        {
+            "title": "Book Author",
+            "description": "Inside KI. Book project with Stephan Scheuer, Handelsblatt correspondent in Silicon Valley.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Publishing"
+                ],
+                "objectUrn": "urn:li:company:582663",
+                "entityUrn": "urn:li:fs_miniCompany:582663",
+                "name": "Verlag Herder",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEXz3tGHYeVdg/company-logo_200_200/company-logo_200_200/0/1722938103254/verlag_herder_logo?e=1747872000&v=beta&t=pgIyldqA2jlvIVQ5lX4-6HRBGdlngQGlu4H5AdcO3qQ",
+                "universalName": "verlag-herder",
+                "dashCompanyUrn": "urn:li:fsd_company:582663",
+                "trackingId": "CCbSwqY6RXaLzkhpFqqAmA=="
+            },
+            "companyName": "Verlag Herder GmbH"
+        },
+        {
+            "title": "Technology and Defense Reporter",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:3040074",
+                "entityUrn": "urn:li:fs_miniCompany:3040074",
+                "name": "Handelsblatt",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                "universalName": "handelsblatt",
+                "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                "trackingId": "AImCdV5MRz+W+0ty6uKREA=="
+            },
+            "companyName": "Handelsblatt"
+        },
+        {
+            "title": "Start-ups and Big Tech Reporter",
+            "locationName": "Central editorial office, Dusseldorf",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:3040074",
+                "entityUrn": "urn:li:fs_miniCompany:3040074",
+                "name": "Handelsblatt",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                "universalName": "handelsblatt",
+                "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                "trackingId": "jc+beJ/5Qw2AP67cx2O2Ow=="
+            },
+            "companyName": "Handelsblatt"
+        },
+        {
+            "title": "Education & Career Editor",
+            "locationName": "Central editorial office, Munich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:61161",
+                "entityUrn": "urn:li:fs_miniCompany:61161",
+                "name": "Süddeutsche Zeitung",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHST7PMC8ei6A/company-logo_200_200/company-logo_200_200/0/1630580579192/sddeutsche_zeitung_logo?e=1747872000&v=beta&t=bc23WG557Oz3ph2ndTgRTjuwd6BrPdCFTsEwgGkQUfM",
+                "universalName": "süddeutsche-zeitung",
+                "dashCompanyUrn": "urn:li:fsd_company:61161",
+                "trackingId": "4G34D8xhTd+60S01yhSA9g=="
+            },
+            "companyName": "Süddeutsche Zeitung"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "M.A.",
+            "fieldOfStudy": "International Criminology",
+            "schoolName": "University of Hamburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "degreeName": "M.A.",
+            "fieldOfStudy": "Work, Business, Society - Economic and Sociological Studies",
+            "schoolName": "University of Hamburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Social Sciences and Economics",
+            "schoolName": "Cologne School of Journalism",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Autorin",
+        "Journalismus",
+        "Moderation",
+        "Podcast"
+    ],
+    "lastEnriched": "2025-02-17"
+}

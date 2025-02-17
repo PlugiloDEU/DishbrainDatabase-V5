@@ -1,0 +1,543 @@
+{
+    "id": "exp478188821",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Lorenz",
+        "lastName": "Kupfer",
+        "fullName": "Lorenz Kupfer",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch"
+        ],
+        "allData": {
+            "id": "478188821",
+            "profileId": "ACoAAByAlRUBqcmPdotncYr6lfI6Ygn9nCY911M",
+            "firstName": "Lorenz",
+            "lastName": "Kupfer",
+            "occupation": "Senior Industry Advisor at Microsoft. Business Facilitator. Expert for AI & Sustainability in Higher Education.",
+            "publicIdentifier": "lorenz-kupfer-785189114",
+            "trackingId": "FqACi3/9RHqRUd+BUl1m7w==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQHPrSwZTzRpmw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1542896523198?e=1745452800&v=beta&t=GIevasBBq-7zCWU7LbqWSsJm5Cyd2H49XV5wLehiews",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100080482",
+            "positions": [
+                {
+                    "title": "Senior Industry Advisor (Education) ",
+                    "description": "Industry Black Belt, Worldwide Public Sector, Education",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1035",
+                        "entityUrn": "urn:li:fs_miniCompany:1035",
+                        "name": "Microsoft",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                        "universalName": "microsoft",
+                        "dashCompanyUrn": "urn:li:fsd_company:1035",
+                        "trackingId": "RWaBJ+KyS+Cx+Mws8BQjlg=="
+                    },
+                    "companyName": "Microsoft"
+                },
+                {
+                    "title": "Industry Advisor (Education)",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1035",
+                        "entityUrn": "urn:li:fs_miniCompany:1035",
+                        "name": "Microsoft",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                        "universalName": "microsoft",
+                        "dashCompanyUrn": "urn:li:fsd_company:1035",
+                        "trackingId": "lWF4HkYmR6C2eMZK6/r0Xg=="
+                    },
+                    "companyName": "Microsoft"
+                },
+                {
+                    "title": "Industry Executive (Education)",
+                    "locationName": "München und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2001
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1035",
+                        "entityUrn": "urn:li:fs_miniCompany:1035",
+                        "name": "Microsoft",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                        "universalName": "microsoft",
+                        "dashCompanyUrn": "urn:li:fsd_company:1035",
+                        "trackingId": "9u6WD2JwSOOj5VgE7MfwnA=="
+                    },
+                    "companyName": "Microsoft"
+                },
+                {
+                    "title": "Marketing Specialist",
+                    "description": "Marketing & Vertrieb von All-in-One Server Appliances (auf Linux)",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2000
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Networking"
+                        ],
+                        "objectUrn": "urn:li:company:35411",
+                        "entityUrn": "urn:li:fs_miniCompany:35411",
+                        "name": "Right Vision",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "right-vision",
+                        "dashCompanyUrn": "urn:li:fsd_company:35411",
+                        "trackingId": "XbX4fGBTSvmfSRUXjQhmww=="
+                    },
+                    "companyName": "Right Vision"
+                },
+                {
+                    "title": "Project Manager",
+                    "locationName": "Herzogenaurach",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 1997
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Sporting Goods"
+                        ],
+                        "objectUrn": "urn:li:company:3748",
+                        "entityUrn": "urn:li:fs_miniCompany:3748",
+                        "name": "adidas",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGY6MPyClOhVw/company-logo_200_200/company-logo_200_200/0/1722241280747/adidas_logo?e=1747872000&v=beta&t=weGBt6na8KEcwrjyMClHU-Oot3gc1frNswN0qGRD6fM",
+                        "universalName": "adidas",
+                        "dashCompanyUrn": "urn:li:fsd_company:3748",
+                        "trackingId": "8xJgODcCSe2jZFdNcqg66Q=="
+                    },
+                    "companyName": "adidas"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom-Kulturwirt",
+                    "fieldOfStudy": "Sprachen- Wirtschafts- und Kulturraumstudien (\"International Cultural and Business Studies\")",
+                    "schoolName": "Universität Passau",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1995
+                        },
+                        "startDate": {
+                            "year": 1990
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Business Administration (MBA)",
+                    "fieldOfStudy": "Marketing",
+                    "schoolName": "IAE Toulouse, Ecole de Management de l'Université Toulouse 1 Capitole",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Diplom-Kulturwirt",
+                    "authority": "Universität Passau"
+                },
+                {
+                    "name": "Global Sales Challenger"
+                },
+                {
+                    "name": "Data & AI for Sustainable Business Transformation Badge",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2025
+                        }
+                    },
+                    "authority": "Microsoft"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Gold Star Award",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2013
+                    },
+                    "issuer": "Microsoft Corporation"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Marketingstrategie",
+                "Marketing",
+                "Vertrieb",
+                "Partnermanagement"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Coach Basketballl U-16",
+                    "description": "Sehr bereichernd",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2014
+                        }
+                    },
+                    "companyName": "Sportverein MTV Dießen E.V."
+                }
+            ],
+            "headline": "Senior Industry Advisor at Microsoft. Business Facilitator. Expert for AI & Sustainability in Higher Education.",
+            "summary": "From managing Marketing via End Customer Sales towards being the Facilitator for a sustainable Business. ",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Diessen am Ammersee, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Senior Industry Advisor (Education) ",
+            "companyName": "Microsoft",
+            "companyPublicId": "microsoft",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/microsoft",
+            "following": false,
+            "followable": true,
+            "followersCount": 1915,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Microsoft",
+        "position": "Senior Industry Advisor (Education) ",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Industry Advisor (Education) ",
+        "organization": "Microsoft",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/lorenz-kupfer-785189114/",
+        "company": "https://www.linkedin.com/company/microsoft"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Industry Advisor (Education) ",
+            "description": "Industry Black Belt, Worldwide Public Sector, Education",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "RWaBJ+KyS+Cx+Mws8BQjlg=="
+            },
+            "companyName": "Microsoft"
+        },
+        {
+            "title": "Industry Advisor (Education)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "lWF4HkYmR6C2eMZK6/r0Xg=="
+            },
+            "companyName": "Microsoft"
+        },
+        {
+            "title": "Industry Executive (Education)",
+            "locationName": "München und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2001
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "9u6WD2JwSOOj5VgE7MfwnA=="
+            },
+            "companyName": "Microsoft"
+        },
+        {
+            "title": "Marketing Specialist",
+            "description": "Marketing & Vertrieb von All-in-One Server Appliances (auf Linux)",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2001
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2000
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Networking"
+                ],
+                "objectUrn": "urn:li:company:35411",
+                "entityUrn": "urn:li:fs_miniCompany:35411",
+                "name": "Right Vision",
+                "showcase": false,
+                "active": true,
+                "universalName": "right-vision",
+                "dashCompanyUrn": "urn:li:fsd_company:35411",
+                "trackingId": "XbX4fGBTSvmfSRUXjQhmww=="
+            },
+            "companyName": "Right Vision"
+        },
+        {
+            "title": "Project Manager",
+            "locationName": "Herzogenaurach",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2000
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 1997
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Sporting Goods"
+                ],
+                "objectUrn": "urn:li:company:3748",
+                "entityUrn": "urn:li:fs_miniCompany:3748",
+                "name": "adidas",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGY6MPyClOhVw/company-logo_200_200/company-logo_200_200/0/1722241280747/adidas_logo?e=1747872000&v=beta&t=weGBt6na8KEcwrjyMClHU-Oot3gc1frNswN0qGRD6fM",
+                "universalName": "adidas",
+                "dashCompanyUrn": "urn:li:fsd_company:3748",
+                "trackingId": "8xJgODcCSe2jZFdNcqg66Q=="
+            },
+            "companyName": "adidas"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom-Kulturwirt",
+            "fieldOfStudy": "Sprachen- Wirtschafts- und Kulturraumstudien (\"International Cultural and Business Studies\")",
+            "schoolName": "Universität Passau",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1995
+                },
+                "startDate": {
+                    "year": 1990
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Business Administration (MBA)",
+            "fieldOfStudy": "Marketing",
+            "schoolName": "IAE Toulouse, Ecole de Management de l'Université Toulouse 1 Capitole",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Diplom-Kulturwirt",
+            "authority": "Universität Passau"
+        },
+        {
+            "name": "Global Sales Challenger"
+        },
+        {
+            "name": "Data & AI for Sustainable Business Transformation Badge",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2025
+                }
+            },
+            "authority": "Microsoft"
+        }
+    ],
+    "skills": [
+        "Marketingstrategie",
+        "Marketing",
+        "Vertrieb",
+        "Partnermanagement"
+    ],
+    "lastEnriched": "2025-02-17"
+}

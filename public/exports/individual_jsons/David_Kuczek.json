@@ -1,0 +1,494 @@
+{
+    "id": "exp2238778",
+    "personalInfo": {
+        "title": null,
+        "firstName": "David",
+        "lastName": "Kuczek",
+        "fullName": "David Kuczek",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQEPAxJppCxPDg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1681356076230?e=1745452800&v=beta&t=rpGzP0darkeLcrgWNuIM1dQBY66fnPL3GdxxGEhr_pU",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "2238778",
+            "profileId": "ACoAAAAiKToB_LN_DmX8We0BkXdqHLg_zmqrTTc",
+            "firstName": "David",
+            "lastName": "Kuczek",
+            "occupation": "Salesforce Business Development | Consulting Leadership",
+            "publicIdentifier": "david-kuczek",
+            "trackingId": "UTAXkPZQTqSidDbLJN7NKg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEPAxJppCxPDg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1681356076230?e=1745452800&v=beta&t=rpGzP0darkeLcrgWNuIM1dQBY66fnPL3GdxxGEhr_pU",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQG6_5-nbPUU0A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1614457463121?e=1745452800&v=beta&t=ss2ne7-3OncdVtLdNWKZrJhaI8FqOV0bqmgkit2oroY",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104727230",
+            "positions": [
+                {
+                    "title": "Director of Sales",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:35689710",
+                        "entityUrn": "urn:li:fs_miniCompany:35689710",
+                        "name": "DeveloCo",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEl7oOGDBlnHg/company-logo_200_200/company-logo_200_200/0/1630608823023?e=1747872000&v=beta&t=mwPUPKt1QPJXbnpY7VYyaitIf1GH7cbKkyCHGlWXK3s",
+                        "universalName": "develoco",
+                        "dashCompanyUrn": "urn:li:fsd_company:35689710",
+                        "trackingId": "HZA8V0CwTniiVoGDjMqySA=="
+                    },
+                    "companyName": "DeveloCo"
+                },
+                {
+                    "title": "Senior Director, Business Development",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:10801655",
+                        "entityUrn": "urn:li:fs_miniCompany:10801655",
+                        "name": "Publicis Sapient",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGJTJzA4iTTMQ/company-logo_200_200/company-logo_200_200/0/1719924913731/publicissapient_logo?e=1747872000&v=beta&t=Z18w1PjdG8-mI8DmW_rEcpzndfRazQNw9c78HUnpsVE",
+                        "universalName": "publicissapient",
+                        "dashCompanyUrn": "urn:li:fsd_company:10801655",
+                        "trackingId": "bJKU9WGBSVKWpJ7ymiUIJQ=="
+                    },
+                    "companyName": "Publicis Sapient"
+                },
+                {
+                    "title": "Engagement Manager",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:34357",
+                        "entityUrn": "urn:li:fs_miniCompany:34357",
+                        "name": "Astadia",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH1aIX1T0t1Ng/company-logo_200_200/company-logo_200_200/0/1699377876413/astadia_logo?e=1747872000&v=beta&t=E5lIv1qJJJwN_9VyqkscyjyeaUY73JyURC9kfcXThpE",
+                        "universalName": "astadia",
+                        "dashCompanyUrn": "urn:li:fsd_company:34357",
+                        "trackingId": "0CS5CAZUSo2jKzFlbP7FvA=="
+                    },
+                    "companyName": "Astadia"
+                },
+                {
+                    "title": "Project Manager / Salesforce Solution Architect",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:3185",
+                        "entityUrn": "urn:li:fs_miniCompany:3185",
+                        "name": "Salesforce",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1747872000&v=beta&t=NktgrMPDIMY0hELsMQmjVyvMb0DC5ZqCPdqkzRgg1DA",
+                        "universalName": "salesforce",
+                        "dashCompanyUrn": "urn:li:fsd_company:3185",
+                        "trackingId": "cYMB8qzxTpafmUhf/hbQMQ=="
+                    },
+                    "companyName": "Model Metrics, a Salesforce.com Company"
+                },
+                {
+                    "title": "Salesforce Solution Architect",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2006
+                        }
+                    },
+                    "companyName": "Centerstance"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor's Degree",
+                    "fieldOfStudy": "Finance and Economics",
+                    "schoolName": "Syracuse University"
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Certified Service Cloud Consultant",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2011
+                        }
+                    },
+                    "authority": "salesforce.com"
+                },
+                {
+                    "name": "Certified Sales Cloud Consultant",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2011
+                        }
+                    },
+                    "authority": "salesforce.com"
+                },
+                {
+                    "name": "Certified Administrator",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2009
+                        }
+                    },
+                    "authority": "salesforce.com"
+                },
+                {
+                    "name": "Certified Advanced Administrator",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2012
+                        }
+                    },
+                    "authority": "salesforce.com"
+                },
+                {
+                    "name": "Certified Developer",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2009
+                        }
+                    },
+                    "authority": "salesforce.com"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Business Analysis",
+                "Solution Selling",
+                "Salesforce.com",
+                "Leadership"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Salesforce Business Development | Consulting Leadership",
+            "summary": "I am a seasoned professional with a passion for developing consultative partnerships and guiding clients through their business transformation journeys.  I have an unwavering commitment to delivering high-value technology solutions that drive innovation and success. I also have expertise in helping organizations leveraging Salesforce solutions to unlock their full potential.\n\nThroughout my career, I have embraced my role as an agent of change, consistently driving innovation as a business analyst, solution architect, project manager, engagement manager, and sales executive. I thrive on understanding my clients' unique challenges and leveraging my expertise to identify and deliver technology solutions that expand capabilities, optimize operations, enhance competitive advantage, and deliver unparalleled customer experiences.\n\nI am driven to deliver high quality solutions and a superior customer experience. I understand that success lies in fostering differentiated and frictionless relationships with customers, employees, partners, and stakeholders. By considering your business needs, priorities, and transformation goals, I ensure that my solutions align with your strategic objectives while delivering an exceptional customer experience.\n\nI have a deep understanding of Salesforce and the broader Salesforce ecosystem.  I have expertise in integrating Salesforce seamlessly with other systems to create tailored, best-of-breed solutions. My background in project lifecycle management and solution architecture allows me to navigate technical complexities and define projects that adhere to best practices and effectively utilize agile methodologies while mitigating risks.\n\nI believe in forging deep, high-touch relationships with customers to drive strategy and innovation and to differentiate your organization from the competition. Whether you are considering the next steps in customer service, customer experience, or embarking on a digital transformation journey, I am eager to collaborate with you. Reach out to me to discuss your business needs, priorities, and transformation goals. Together, we can plan a transformative journey to unlock the full potential of your business using Salesforce solutions.",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "Portland, Oregon",
+            "geoCountryName": "United States",
+            "jobTitle": "Director of Sales",
+            "companyName": "DeveloCo",
+            "companyPublicId": "develoco",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/develoco",
+            "following": false,
+            "followable": true,
+            "followersCount": 575,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "DeveloCo",
+        "position": "Director of Sales",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director of Sales",
+        "organization": "DeveloCo",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/david-kuczek/",
+        "company": "https://www.linkedin.com/company/develoco"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director of Sales",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:35689710",
+                "entityUrn": "urn:li:fs_miniCompany:35689710",
+                "name": "DeveloCo",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEl7oOGDBlnHg/company-logo_200_200/company-logo_200_200/0/1630608823023?e=1747872000&v=beta&t=mwPUPKt1QPJXbnpY7VYyaitIf1GH7cbKkyCHGlWXK3s",
+                "universalName": "develoco",
+                "dashCompanyUrn": "urn:li:fsd_company:35689710",
+                "trackingId": "HZA8V0CwTniiVoGDjMqySA=="
+            },
+            "companyName": "DeveloCo"
+        },
+        {
+            "title": "Senior Director, Business Development",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:10801655",
+                "entityUrn": "urn:li:fs_miniCompany:10801655",
+                "name": "Publicis Sapient",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGJTJzA4iTTMQ/company-logo_200_200/company-logo_200_200/0/1719924913731/publicissapient_logo?e=1747872000&v=beta&t=Z18w1PjdG8-mI8DmW_rEcpzndfRazQNw9c78HUnpsVE",
+                "universalName": "publicissapient",
+                "dashCompanyUrn": "urn:li:fsd_company:10801655",
+                "trackingId": "bJKU9WGBSVKWpJ7ymiUIJQ=="
+            },
+            "companyName": "Publicis Sapient"
+        },
+        {
+            "title": "Engagement Manager",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:34357",
+                "entityUrn": "urn:li:fs_miniCompany:34357",
+                "name": "Astadia",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH1aIX1T0t1Ng/company-logo_200_200/company-logo_200_200/0/1699377876413/astadia_logo?e=1747872000&v=beta&t=E5lIv1qJJJwN_9VyqkscyjyeaUY73JyURC9kfcXThpE",
+                "universalName": "astadia",
+                "dashCompanyUrn": "urn:li:fsd_company:34357",
+                "trackingId": "0CS5CAZUSo2jKzFlbP7FvA=="
+            },
+            "companyName": "Astadia"
+        },
+        {
+            "title": "Project Manager / Salesforce Solution Architect",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:3185",
+                "entityUrn": "urn:li:fs_miniCompany:3185",
+                "name": "Salesforce",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1747872000&v=beta&t=NktgrMPDIMY0hELsMQmjVyvMb0DC5ZqCPdqkzRgg1DA",
+                "universalName": "salesforce",
+                "dashCompanyUrn": "urn:li:fsd_company:3185",
+                "trackingId": "cYMB8qzxTpafmUhf/hbQMQ=="
+            },
+            "companyName": "Model Metrics, a Salesforce.com Company"
+        },
+        {
+            "title": "Salesforce Solution Architect",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2006
+                }
+            },
+            "companyName": "Centerstance"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor's Degree",
+            "fieldOfStudy": "Finance and Economics",
+            "schoolName": "Syracuse University"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certified Service Cloud Consultant",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2011
+                }
+            },
+            "authority": "salesforce.com"
+        },
+        {
+            "name": "Certified Sales Cloud Consultant",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2011
+                }
+            },
+            "authority": "salesforce.com"
+        },
+        {
+            "name": "Certified Administrator",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2009
+                }
+            },
+            "authority": "salesforce.com"
+        },
+        {
+            "name": "Certified Advanced Administrator",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2012
+                }
+            },
+            "authority": "salesforce.com"
+        },
+        {
+            "name": "Certified Developer",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2009
+                }
+            },
+            "authority": "salesforce.com"
+        }
+    ],
+    "skills": [
+        "Business Analysis",
+        "Solution Selling",
+        "Salesforce.com",
+        "Leadership"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,513 @@
+{
+    "id": "exp291924548",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Ashish",
+        "lastName": "Vaswani",
+        "fullName": "Ashish Vaswani",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQEDhAJzTfYLvA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1650996874298?e=1745452800&v=beta&t=CWXr3jE59wrLYY5z5niy4k6UQgFyQUvRSldwMY4PNNE",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "291924548",
+            "profileId": "ACoAABFmakQBEluVepxY639zEmykn0ExwFzLlFI",
+            "firstName": "Ashish",
+            "lastName": "Vaswani",
+            "occupation": "Co-founder and CEO at Essential AI",
+            "publicIdentifier": "ashish-vaswani-99892181",
+            "trackingId": "OySNnwBdSr+uXVSYwJqymw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQEDhAJzTfYLvA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1650996874298?e=1745452800&v=beta&t=CWXr3jE59wrLYY5z5niy4k6UQgFyQUvRSldwMY4PNNE",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102277331",
+            "positions": [
+                {
+                    "title": "Co-Founder and CEO",
+                    "description": "Pushing the frontier of human machine partnership",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:99112759",
+                        "entityUrn": "urn:li:fs_miniCompany:99112759",
+                        "name": "Essential AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGQxjmrs_fatQ/company-logo_200_200/company-logo_200_200/0/1702351017582/essentialai_logo?e=1747872000&v=beta&t=Bvd9asrjjHoJz6Vptd3jUiJIyVaWvRmY72ai_dXVLSk",
+                        "universalName": "essentialai",
+                        "dashCompanyUrn": "urn:li:fsd_company:99112759",
+                        "trackingId": "uVZK/DFXQUKK3UKH4pG0DA=="
+                    },
+                    "companyName": "Essential AI"
+                },
+                {
+                    "title": "Co-Founder and Chief Scientist",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:81330326",
+                        "entityUrn": "urn:li:fs_miniCompany:81330326",
+                        "name": "Adept",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHoZ-QBmwsa0g/company-logo_200_200/company-logo_200_200/0/1677107534930/adeptailabs_logo?e=1747872000&v=beta&t=pMYNemWBXRAdA1FavIPzvdGQh1i0vtfCPH5NQaxhYBU",
+                        "universalName": "adeptai",
+                        "dashCompanyUrn": "urn:li:fsd_company:81330326",
+                        "trackingId": "ry9qaRKIRmKcX37x0scNMQ=="
+                    },
+                    "companyName": "Adept AI Labs"
+                },
+                {
+                    "title": "Staff Research Scientist",
+                    "description": "At Google Brain",
+                    "locationName": "Moutain View",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "kl8DSNu2SO6rqwcWHa8Xaw=="
+                    },
+                    "companyName": "Google Brain"
+                },
+                {
+                    "title": "Computer Scientist",
+                    "locationName": "Marina Del Rey",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:15092",
+                        "entityUrn": "urn:li:fs_miniCompany:15092",
+                        "name": "USC Information Sciences Institute",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYTeFo9SN7Ig/company-logo_200_200/company-logo_200_200/0/1694027982155/information_sciences_institute_logo?e=1747872000&v=beta&t=4DOGRijJUutTBgvV94JzbohppfZKtw383k4p6xacbs8",
+                        "universalName": "information-sciences-institute",
+                        "dashCompanyUrn": "urn:li:fsd_company:15092",
+                        "trackingId": "sU4ANC6wRheSWQPQ9Mq4+w=="
+                    },
+                    "companyName": "Information Sciences Institute"
+                },
+                {
+                    "title": "Graduate Research Assistant",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3084",
+                        "entityUrn": "urn:li:fs_miniCompany:3084",
+                        "name": "University of Southern California",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_200_200/company-logo_200_200/0/1631312619853?e=1747872000&v=beta&t=7Q4mOH-wh3--4y9ad1opf1fzwuTZfFkM_Os_c251YLI",
+                        "universalName": "university-of-southern-california",
+                        "dashCompanyUrn": "urn:li:fsd_company:3084",
+                        "trackingId": "++thzcSQQB6ri56oBjUBTg=="
+                    },
+                    "companyName": "University of Southern California"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy (Ph.D.)",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "University of Southern California",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master's degree",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "University of Southern California",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2004
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor's degree",
+                    "fieldOfStudy": "Computer Science and Engineering",
+                    "schoolName": "Birla Institute of Technology",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2002
+                        },
+                        "startDate": {
+                            "year": 1998
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Best Paper Award at the Information Sciences Institute Graduate Research Symposium, 2010",
+                    "issueDate": {
+                        "year": 2010
+                    }
+                },
+                {
+                    "title": "Best Paper Award at the 25th Army Science Conference, 2006",
+                    "issueDate": {
+                        "year": 2006
+                    }
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Natural Language Processing",
+                "Machine Learning",
+                "Algorithms",
+                "Pattern Recognition"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Co-founder and CEO at Essential AI",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "San Francisco, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Co-Founder and CEO",
+            "companyName": "Essential AI",
+            "companyPublicId": "essentialai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/essentialai",
+            "following": false,
+            "followable": true,
+            "followersCount": 24664,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Essential AI",
+        "position": "Co-Founder and CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder and CEO",
+        "organization": "Essential AI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/ashish-vaswani-99892181/",
+        "company": "https://www.linkedin.com/company/essentialai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder and CEO",
+            "description": "Pushing the frontier of human machine partnership",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:99112759",
+                "entityUrn": "urn:li:fs_miniCompany:99112759",
+                "name": "Essential AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGQxjmrs_fatQ/company-logo_200_200/company-logo_200_200/0/1702351017582/essentialai_logo?e=1747872000&v=beta&t=Bvd9asrjjHoJz6Vptd3jUiJIyVaWvRmY72ai_dXVLSk",
+                "universalName": "essentialai",
+                "dashCompanyUrn": "urn:li:fsd_company:99112759",
+                "trackingId": "uVZK/DFXQUKK3UKH4pG0DA=="
+            },
+            "companyName": "Essential AI"
+        },
+        {
+            "title": "Co-Founder and Chief Scientist",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:81330326",
+                "entityUrn": "urn:li:fs_miniCompany:81330326",
+                "name": "Adept",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHoZ-QBmwsa0g/company-logo_200_200/company-logo_200_200/0/1677107534930/adeptailabs_logo?e=1747872000&v=beta&t=pMYNemWBXRAdA1FavIPzvdGQh1i0vtfCPH5NQaxhYBU",
+                "universalName": "adeptai",
+                "dashCompanyUrn": "urn:li:fsd_company:81330326",
+                "trackingId": "ry9qaRKIRmKcX37x0scNMQ=="
+            },
+            "companyName": "Adept AI Labs"
+        },
+        {
+            "title": "Staff Research Scientist",
+            "description": "At Google Brain",
+            "locationName": "Moutain View",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "kl8DSNu2SO6rqwcWHa8Xaw=="
+            },
+            "companyName": "Google Brain"
+        },
+        {
+            "title": "Computer Scientist",
+            "locationName": "Marina Del Rey",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:15092",
+                "entityUrn": "urn:li:fs_miniCompany:15092",
+                "name": "USC Information Sciences Institute",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHYTeFo9SN7Ig/company-logo_200_200/company-logo_200_200/0/1694027982155/information_sciences_institute_logo?e=1747872000&v=beta&t=4DOGRijJUutTBgvV94JzbohppfZKtw383k4p6xacbs8",
+                "universalName": "information-sciences-institute",
+                "dashCompanyUrn": "urn:li:fsd_company:15092",
+                "trackingId": "sU4ANC6wRheSWQPQ9Mq4+w=="
+            },
+            "companyName": "Information Sciences Institute"
+        },
+        {
+            "title": "Graduate Research Assistant",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3084",
+                "entityUrn": "urn:li:fs_miniCompany:3084",
+                "name": "University of Southern California",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHatTfEv4Af6w/company-logo_200_200/company-logo_200_200/0/1631312619853?e=1747872000&v=beta&t=7Q4mOH-wh3--4y9ad1opf1fzwuTZfFkM_Os_c251YLI",
+                "universalName": "university-of-southern-california",
+                "dashCompanyUrn": "urn:li:fsd_company:3084",
+                "trackingId": "++thzcSQQB6ri56oBjUBTg=="
+            },
+            "companyName": "University of Southern California"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy (Ph.D.)",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "University of Southern California",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            }
+        },
+        {
+            "degreeName": "Master's degree",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "University of Southern California",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor's degree",
+            "fieldOfStudy": "Computer Science and Engineering",
+            "schoolName": "Birla Institute of Technology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Algorithms",
+        "Pattern Recognition"
+    ],
+    "lastEnriched": "2025-02-17"
+}

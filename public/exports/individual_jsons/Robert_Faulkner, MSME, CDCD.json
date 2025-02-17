@@ -1,0 +1,494 @@
+{
+    "id": "exp23192986",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Robert",
+        "lastName": "Faulkner, MSME, CDCD",
+        "fullName": "Robert Faulkner, MSME, CDCD",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQH9arSLruGAFg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1596837735633?e=1745452800&v=beta&t=bbeZc54Wfy2jJgb71awdKvLqTFl53kkQ4x5bcPv15k0",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "Ich lerne jetzt Deutsch"
+        ],
+        "allData": {
+            "id": "23192986",
+            "profileId": "ACoAAAFh5ZoBBcJp2kFRbUHguwS9XndOxeVRrE4",
+            "firstName": "Robert",
+            "lastName": "Faulkner, MSME, CDCD",
+            "occupation": "VP, Engineering and Operations @ Enconnex | Technology Leader, Driving Results",
+            "publicIdentifier": "robertjfaulkner",
+            "trackingId": "Ds19hW4wQ72gsRG6SH/xiQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQH9arSLruGAFg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1596837735633?e=1745452800&v=beta&t=bbeZc54Wfy2jJgb71awdKvLqTFl53kkQ4x5bcPv15k0",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQE10oYUmPic5Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1649981598581?e=1745452800&v=beta&t=pLrBd6QEnp4nkqvG31arXG2PNJbZ4dum1L24pcueMnM",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:106693758",
+            "positions": [
+                {
+                    "title": "VP, Engineering and Operations",
+                    "locationName": "Reno, Nevada, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:13376025",
+                        "entityUrn": "urn:li:fs_miniCompany:13376025",
+                        "name": "Enconnex",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEfxQbBbelS9w/company-logo_200_200/company-logo_200_200/0/1659638282251/enconnex_llc_logo?e=1747872000&v=beta&t=ij6hZycDoW_6T8xKrKwMcF24G5O9B4cdaNTGPW3_ulY",
+                        "universalName": "enconnex-llc",
+                        "dashCompanyUrn": "urn:li:fsd_company:13376025",
+                        "trackingId": "7U4WbQaERIiYh/70uasRXg=="
+                    },
+                    "companyName": "Enconnex"
+                },
+                {
+                    "title": "Senior Director of Engineering",
+                    "description": "Driving results in design and manufacturing",
+                    "locationName": "Reno, Nevada Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:13376025",
+                        "entityUrn": "urn:li:fs_miniCompany:13376025",
+                        "name": "Enconnex",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEfxQbBbelS9w/company-logo_200_200/company-logo_200_200/0/1659638282251/enconnex_llc_logo?e=1747872000&v=beta&t=ij6hZycDoW_6T8xKrKwMcF24G5O9B4cdaNTGPW3_ulY",
+                        "universalName": "enconnex-llc",
+                        "dashCompanyUrn": "urn:li:fsd_company:13376025",
+                        "trackingId": "1I84gdhvRu6Np+k/KJjz4w=="
+                    },
+                    "companyName": "Enconnex"
+                },
+                {
+                    "title": "Director Of Engineering",
+                    "description": "Driving design of data center solutions.",
+                    "locationName": "Reno, Nevada",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:2261627",
+                        "entityUrn": "urn:li:fs_miniCompany:2261627",
+                        "name": "Rahi",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDQFK10uiXhQ/company-logo_200_200/company-logo_200_200/0/1656524525970/rahi_systems_logo?e=1747872000&v=beta&t=sr3_Cvu8O8isRvzuQZE6NN51mN78YfXYLQiB6TSuUDo",
+                        "universalName": "rahi-systems",
+                        "dashCompanyUrn": "urn:li:fsd_company:2261627",
+                        "trackingId": "hkMJay7FQ4uo6faCD4HQsg=="
+                    },
+                    "companyName": "Rahi Systems"
+                },
+                {
+                    "title": "Sr. Product Manager",
+                    "description": "• Key client advocacy and program management\n• Product life-cycle management\n• Product marketing\n• Market analysis\n• Defining product requirements\n• Ensuring profitability",
+                    "locationName": "Reno, NV",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:37987",
+                        "entityUrn": "urn:li:fs_miniCompany:37987",
+                        "name": "Server Technology, a brand of Legrand",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFEp9VQzqyXug/company-logo_200_200/company-logo_200_200/0/1634661629735/server_technology_logo?e=1747872000&v=beta&t=j3zsj8ddZ-8KK510cSxqiwa44X679LZ0otVFTgKDydU",
+                        "universalName": "server-technology",
+                        "dashCompanyUrn": "urn:li:fsd_company:37987",
+                        "trackingId": "YJUrB7ywTLG9ScLPvH9xCA=="
+                    },
+                    "companyName": "Server Technology"
+                },
+                {
+                    "title": "Product Manager",
+                    "description": "• Product life-cycle management\n• Competitive analysis\n• Market analysis\n• Defining product requirements\n• Product positioning and release documentation\n• Ensuring profitability",
+                    "locationName": "Reno, NV",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:37987",
+                        "entityUrn": "urn:li:fs_miniCompany:37987",
+                        "name": "Server Technology, a brand of Legrand",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFEp9VQzqyXug/company-logo_200_200/company-logo_200_200/0/1634661629735/server_technology_logo?e=1747872000&v=beta&t=j3zsj8ddZ-8KK510cSxqiwa44X679LZ0otVFTgKDydU",
+                        "universalName": "server-technology",
+                        "dashCompanyUrn": "urn:li:fsd_company:37987",
+                        "trackingId": "MBUDCN0ZQFudjbcU6t8OMg=="
+                    },
+                    "companyName": "Server Technology"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "MS",
+                    "fieldOfStudy": "Mechanical Engineering",
+                    "schoolName": "University of Nevada, Reno",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BS",
+                    "fieldOfStudy": "Mechanical Engineering",
+                    "schoolName": "University of Nevada, Reno",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1995
+                        },
+                        "startDate": {
+                            "year": 1991
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "Ich lerne jetzt Deutsch"
+                }
+            ],
+            "skills": [
+                "Project Management",
+                "Mechanical Engineering",
+                "Engineering",
+                "Power Distribution"
+            ],
+            "volunteerExperiences": [],
+            "headline": "VP, Engineering and Operations @ Enconnex | Technology Leader, Driving Results",
+            "summary": "As the VP of Engineering and Operations at Enconnex, I lead a team of talented engineers and operations professionals who are passionate about creating and delivering data center solutions that meet the needs and expectations of our customers. I have over 25 years of experience in product and project management, product marketing, personnel management, training development and delivery, mechanical and manufacturing engineering, and general problem solving.\n\nMy mission is to drive innovation, quality, and efficiency in the design and manufacturing of data center products, such as racks, cabinets, power distribution units, cables, and accessories. I work closely with the sales, marketing, and finance teams to ensure alignment of our product strategy, roadmap, and execution with the company's vision, goals, and values. I also collaborate with our partners and suppliers to optimize our supply chain, logistics, and customer service. I am always eager to learn new technologies, trends, and best practices in the data center industry and to share my knowledge and expertise with my team and the wider community.",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "Reno, Nevada",
+            "geoCountryName": "United States",
+            "jobTitle": "VP, Engineering and Operations",
+            "companyName": "Enconnex",
+            "companyPublicId": "enconnex-llc",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/enconnex-llc",
+            "following": false,
+            "followable": true,
+            "followersCount": 1659,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Enconnex",
+        "position": "VP, Engineering and Operations",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP, Engineering and Operations",
+        "organization": "Enconnex",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/robertjfaulkner/",
+        "company": "https://www.linkedin.com/company/enconnex-llc"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP, Engineering and Operations",
+            "locationName": "Reno, Nevada, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:13376025",
+                "entityUrn": "urn:li:fs_miniCompany:13376025",
+                "name": "Enconnex",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEfxQbBbelS9w/company-logo_200_200/company-logo_200_200/0/1659638282251/enconnex_llc_logo?e=1747872000&v=beta&t=ij6hZycDoW_6T8xKrKwMcF24G5O9B4cdaNTGPW3_ulY",
+                "universalName": "enconnex-llc",
+                "dashCompanyUrn": "urn:li:fsd_company:13376025",
+                "trackingId": "7U4WbQaERIiYh/70uasRXg=="
+            },
+            "companyName": "Enconnex"
+        },
+        {
+            "title": "Senior Director of Engineering",
+            "description": "Driving results in design and manufacturing",
+            "locationName": "Reno, Nevada Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:13376025",
+                "entityUrn": "urn:li:fs_miniCompany:13376025",
+                "name": "Enconnex",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEfxQbBbelS9w/company-logo_200_200/company-logo_200_200/0/1659638282251/enconnex_llc_logo?e=1747872000&v=beta&t=ij6hZycDoW_6T8xKrKwMcF24G5O9B4cdaNTGPW3_ulY",
+                "universalName": "enconnex-llc",
+                "dashCompanyUrn": "urn:li:fsd_company:13376025",
+                "trackingId": "1I84gdhvRu6Np+k/KJjz4w=="
+            },
+            "companyName": "Enconnex"
+        },
+        {
+            "title": "Director Of Engineering",
+            "description": "Driving design of data center solutions.",
+            "locationName": "Reno, Nevada",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:2261627",
+                "entityUrn": "urn:li:fs_miniCompany:2261627",
+                "name": "Rahi",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDQFK10uiXhQ/company-logo_200_200/company-logo_200_200/0/1656524525970/rahi_systems_logo?e=1747872000&v=beta&t=sr3_Cvu8O8isRvzuQZE6NN51mN78YfXYLQiB6TSuUDo",
+                "universalName": "rahi-systems",
+                "dashCompanyUrn": "urn:li:fsd_company:2261627",
+                "trackingId": "hkMJay7FQ4uo6faCD4HQsg=="
+            },
+            "companyName": "Rahi Systems"
+        },
+        {
+            "title": "Sr. Product Manager",
+            "description": "• Key client advocacy and program management\n• Product life-cycle management\n• Product marketing\n• Market analysis\n• Defining product requirements\n• Ensuring profitability",
+            "locationName": "Reno, NV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:37987",
+                "entityUrn": "urn:li:fs_miniCompany:37987",
+                "name": "Server Technology, a brand of Legrand",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFEp9VQzqyXug/company-logo_200_200/company-logo_200_200/0/1634661629735/server_technology_logo?e=1747872000&v=beta&t=j3zsj8ddZ-8KK510cSxqiwa44X679LZ0otVFTgKDydU",
+                "universalName": "server-technology",
+                "dashCompanyUrn": "urn:li:fsd_company:37987",
+                "trackingId": "YJUrB7ywTLG9ScLPvH9xCA=="
+            },
+            "companyName": "Server Technology"
+        },
+        {
+            "title": "Product Manager",
+            "description": "• Product life-cycle management\n• Competitive analysis\n• Market analysis\n• Defining product requirements\n• Product positioning and release documentation\n• Ensuring profitability",
+            "locationName": "Reno, NV",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:37987",
+                "entityUrn": "urn:li:fs_miniCompany:37987",
+                "name": "Server Technology, a brand of Legrand",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFEp9VQzqyXug/company-logo_200_200/company-logo_200_200/0/1634661629735/server_technology_logo?e=1747872000&v=beta&t=j3zsj8ddZ-8KK510cSxqiwa44X679LZ0otVFTgKDydU",
+                "universalName": "server-technology",
+                "dashCompanyUrn": "urn:li:fsd_company:37987",
+                "trackingId": "MBUDCN0ZQFudjbcU6t8OMg=="
+            },
+            "companyName": "Server Technology"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "MS",
+            "fieldOfStudy": "Mechanical Engineering",
+            "schoolName": "University of Nevada, Reno",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        },
+        {
+            "degreeName": "BS",
+            "fieldOfStudy": "Mechanical Engineering",
+            "schoolName": "University of Nevada, Reno",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1995
+                },
+                "startDate": {
+                    "year": 1991
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Project Management",
+        "Mechanical Engineering",
+        "Engineering",
+        "Power Distribution"
+    ],
+    "lastEnriched": "2025-02-17"
+}

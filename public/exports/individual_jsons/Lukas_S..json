@@ -1,0 +1,498 @@
+{
+    "id": "exp382036675",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Lukas",
+        "lastName": "S.",
+        "fullName": "Lukas S.",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGhNh5P-ykE_g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1648484235667?e=1745452800&v=beta&t=JcnONLmwQDUqIcoWMK1Q1jTSXa9djnISEDwJj-ehPAA",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Englisch",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "382036675",
+            "profileId": "ACoAABbFasMBfSh8nlPl34bEYyo_A0_ebnGMq6I",
+            "firstName": "Lukas",
+            "lastName": "S.",
+            "occupation": "Generative AI @ BMW | CTO @ Recoro",
+            "publicIdentifier": "lukasstappen",
+            "trackingId": "TK9ncUA6RRmVTqp0Wb1/XQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGhNh5P-ykE_g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1648484235667?e=1745452800&v=beta&t=JcnONLmwQDUqIcoWMK1Q1jTSXa9djnISEDwJj-ehPAA",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGSkRHUyf7Mbw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1698951529518?e=1745452800&v=beta&t=hKJYpy5ZNM1xC2cqNMUAkEQAoFBBNRmYxdP5gr_WANI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105973663",
+            "positions": [
+                {
+                    "title": "Generative AI Tech Lead",
+                    "description": "R&D for Generative AI in-vehicle functions\nLead LLM Technologies: conversational in-vehicle assistant",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:2387",
+                        "entityUrn": "urn:li:fs_miniCompany:2387",
+                        "name": "BMW Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG-ty2ieqUafw/company-logo_200_200/company-logo_200_200/0/1719814324897/bmw_group_logo?e=1747872000&v=beta&t=sUIOjFGC1UE3I8iZA7-xguj3-AhU4aDtaXVyupDl-SQ",
+                        "universalName": "bmw-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:2387",
+                        "trackingId": "pzYMyI6jQQ+MIu2CSZ3Tkg=="
+                    },
+                    "companyName": "BMW Group"
+                },
+                {
+                    "title": "CTO & Co-Founder",
+                    "description": "Building conversational AI, cloud-first product (architecture, data, and DL models) from scratch \nHiring and leading a multidisciplinary  team of ML Researcher/ Engineers, DevOps, UX (5 FTE)",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:80959767",
+                        "entityUrn": "urn:li:fs_miniCompany:80959767",
+                        "name": "Recoro",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFFAb4TTgi7Ng/company-logo_200_200/company-logo_200_200/0/1666252874067/recoro_logo?e=1747872000&v=beta&t=KFgf6rZf9qZr7uohawvnYXRi0Vc9HjKUW7wiP6wsZhY",
+                        "universalName": "recoro",
+                        "dashCompanyUrn": "urn:li:fsd_company:80959767",
+                        "trackingId": "1nnOXCe6TjeEhDp3kGwO5Q=="
+                    },
+                    "companyName": "Recoro"
+                },
+                {
+                    "title": "Lead Machine Learning Engineer / Research Scientist",
+                    "description": "- ML PoCs of video Q&A by multimodal video understanding (audio, text, visual)\n- Natural language processing of spoken language",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:2387",
+                        "entityUrn": "urn:li:fs_miniCompany:2387",
+                        "name": "BMW Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG-ty2ieqUafw/company-logo_200_200/company-logo_200_200/0/1719814324897/bmw_group_logo?e=1747872000&v=beta&t=sUIOjFGC1UE3I8iZA7-xguj3-AhU4aDtaXVyupDl-SQ",
+                        "universalName": "bmw-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:2387",
+                        "trackingId": "Q0AcQPACRxWaHvveZ8cjCg=="
+                    },
+                    "companyName": "BMW Group"
+                },
+                {
+                    "title": "Senior Data Scientist",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Retail"
+                        ],
+                        "objectUrn": "urn:li:company:7179",
+                        "entityUrn": "urn:li:fs_miniCompany:7179",
+                        "name": "MediaMarktSaturn",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQECZ38KLSnHIA/company-logo_200_200/company-logo_200_200/0/1675153401052/media_markt_saturn_logo?e=1747872000&v=beta&t=mu1O7STwk76wzSXJVeLdPQSwlH6JsQvdjHzmqHDbq9k",
+                        "universalName": "media-markt-saturn",
+                        "dashCompanyUrn": "urn:li:fsd_company:7179",
+                        "trackingId": "ZQ3DtQA0QT+D+MI6q9HpzQ=="
+                    },
+                    "companyName": "MediaMarktSaturn"
+                },
+                {
+                    "title": "Software and Data Engineer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Retail"
+                        ],
+                        "objectUrn": "urn:li:company:7179",
+                        "entityUrn": "urn:li:fs_miniCompany:7179",
+                        "name": "MediaMarktSaturn",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQECZ38KLSnHIA/company-logo_200_200/company-logo_200_200/0/1675153401052/media_markt_saturn_logo?e=1747872000&v=beta&t=mu1O7STwk76wzSXJVeLdPQSwlH6JsQvdjHzmqHDbq9k",
+                        "universalName": "media-markt-saturn",
+                        "dashCompanyUrn": "urn:li:fsd_company:7179",
+                        "trackingId": "wjsxAFbbQ6OV+rZU4AQ5BA=="
+                    },
+                    "companyName": "Media-Saturn"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "PhD Computer Science",
+                    "schoolName": "Imperial College London"
+                },
+                {
+                    "degreeName": "Dr.-Ing.",
+                    "fieldOfStudy": "PhD Computer Science",
+                    "schoolName": "University of Augsburg"
+                },
+                {
+                    "degreeName": "Master’s Degree",
+                    "fieldOfStudy": "Data Science M.Sc.",
+                    "schoolName": "King's College London - University of London"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Best Paper Award @ IEEE 21st MMSP at Kuala Lumpur, Malaysia",
+                    "description": "For the paper “From Speech to Facial Activity: Towards Cross-Modal Sequence-to-Sequence Attention Networks”.",
+                    "issueDate": {
+                        "year": 2019
+                    },
+                    "issuer": "Global AI Network & YouTube Inc."
+                },
+                {
+                    "title": "KCL Robotics Grant",
+                    "description": "Built an automated tattoo machine",
+                    "issueDate": {
+                        "year": 2017
+                    }
+                },
+                {
+                    "title": "Academic Excellence Scholarship",
+                    "description": "Max-Weber Program / Scholarship of the Studienstiftung des deutschen Volkes: Mentoring, study field trips (e.g., Japan, Cambridge, Vatican), King's tuition fees, cost of living in London, summer schools etc.",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2014,
+                        "day": 1
+                    }
+                },
+                {
+                    "title": "Granted study place @RMIT",
+                    "issueDate": {
+                        "year": 2014
+                    }
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Englisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Machine Learning",
+                "Deep Learning",
+                "Large Language Models (LLM)",
+                "Generative AI"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Generative AI @ BMW | CTO @ Recoro",
+            "summary": "I am interested in a wide range of machine learning methods/ applications and always happy to hear from like-minded people, research and projects in this field.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Generative AI Tech Lead",
+            "companyName": "BMW Group",
+            "companyPublicId": "bmw-group",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/bmw-group",
+            "following": false,
+            "followable": false,
+            "followersCount": 1110,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "BMW Group",
+        "position": "Generative AI Tech Lead",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Automotive"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Generative AI Tech Lead",
+        "organization": "BMW Group",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/lukasstappen/",
+        "company": "https://www.linkedin.com/company/bmw-group"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Generative AI Tech Lead",
+            "description": "R&D for Generative AI in-vehicle functions\nLead LLM Technologies: conversational in-vehicle assistant",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:2387",
+                "entityUrn": "urn:li:fs_miniCompany:2387",
+                "name": "BMW Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG-ty2ieqUafw/company-logo_200_200/company-logo_200_200/0/1719814324897/bmw_group_logo?e=1747872000&v=beta&t=sUIOjFGC1UE3I8iZA7-xguj3-AhU4aDtaXVyupDl-SQ",
+                "universalName": "bmw-group",
+                "dashCompanyUrn": "urn:li:fsd_company:2387",
+                "trackingId": "pzYMyI6jQQ+MIu2CSZ3Tkg=="
+            },
+            "companyName": "BMW Group"
+        },
+        {
+            "title": "CTO & Co-Founder",
+            "description": "Building conversational AI, cloud-first product (architecture, data, and DL models) from scratch \nHiring and leading a multidisciplinary  team of ML Researcher/ Engineers, DevOps, UX (5 FTE)",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:80959767",
+                "entityUrn": "urn:li:fs_miniCompany:80959767",
+                "name": "Recoro",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFFAb4TTgi7Ng/company-logo_200_200/company-logo_200_200/0/1666252874067/recoro_logo?e=1747872000&v=beta&t=KFgf6rZf9qZr7uohawvnYXRi0Vc9HjKUW7wiP6wsZhY",
+                "universalName": "recoro",
+                "dashCompanyUrn": "urn:li:fsd_company:80959767",
+                "trackingId": "1nnOXCe6TjeEhDp3kGwO5Q=="
+            },
+            "companyName": "Recoro"
+        },
+        {
+            "title": "Lead Machine Learning Engineer / Research Scientist",
+            "description": "- ML PoCs of video Q&A by multimodal video understanding (audio, text, visual)\n- Natural language processing of spoken language",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:2387",
+                "entityUrn": "urn:li:fs_miniCompany:2387",
+                "name": "BMW Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG-ty2ieqUafw/company-logo_200_200/company-logo_200_200/0/1719814324897/bmw_group_logo?e=1747872000&v=beta&t=sUIOjFGC1UE3I8iZA7-xguj3-AhU4aDtaXVyupDl-SQ",
+                "universalName": "bmw-group",
+                "dashCompanyUrn": "urn:li:fsd_company:2387",
+                "trackingId": "Q0AcQPACRxWaHvveZ8cjCg=="
+            },
+            "companyName": "BMW Group"
+        },
+        {
+            "title": "Senior Data Scientist",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ],
+                "objectUrn": "urn:li:company:7179",
+                "entityUrn": "urn:li:fs_miniCompany:7179",
+                "name": "MediaMarktSaturn",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQECZ38KLSnHIA/company-logo_200_200/company-logo_200_200/0/1675153401052/media_markt_saturn_logo?e=1747872000&v=beta&t=mu1O7STwk76wzSXJVeLdPQSwlH6JsQvdjHzmqHDbq9k",
+                "universalName": "media-markt-saturn",
+                "dashCompanyUrn": "urn:li:fsd_company:7179",
+                "trackingId": "ZQ3DtQA0QT+D+MI6q9HpzQ=="
+            },
+            "companyName": "MediaMarktSaturn"
+        },
+        {
+            "title": "Software and Data Engineer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ],
+                "objectUrn": "urn:li:company:7179",
+                "entityUrn": "urn:li:fs_miniCompany:7179",
+                "name": "MediaMarktSaturn",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQECZ38KLSnHIA/company-logo_200_200/company-logo_200_200/0/1675153401052/media_markt_saturn_logo?e=1747872000&v=beta&t=mu1O7STwk76wzSXJVeLdPQSwlH6JsQvdjHzmqHDbq9k",
+                "universalName": "media-markt-saturn",
+                "dashCompanyUrn": "urn:li:fsd_company:7179",
+                "trackingId": "wjsxAFbbQ6OV+rZU4AQ5BA=="
+            },
+            "companyName": "Media-Saturn"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "PhD Computer Science",
+            "schoolName": "Imperial College London"
+        },
+        {
+            "degreeName": "Dr.-Ing.",
+            "fieldOfStudy": "PhD Computer Science",
+            "schoolName": "University of Augsburg"
+        },
+        {
+            "degreeName": "Master’s Degree",
+            "fieldOfStudy": "Data Science M.Sc.",
+            "schoolName": "King's College London - University of London"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Machine Learning",
+        "Deep Learning",
+        "Large Language Models (LLM)",
+        "Generative AI"
+    ],
+    "lastEnriched": "2025-02-17"
+}

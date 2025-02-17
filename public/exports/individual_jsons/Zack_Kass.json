@@ -1,0 +1,362 @@
+{
+    "id": "exp66625513",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Zack",
+        "lastName": "Kass",
+        "fullName": "Zack Kass",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQET3aqFG8eHlw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1702531889343?e=1745452800&v=beta&t=Z0a4EciC6sTcN3XGB6-DFxWAaTVZQRtl4lJumsk5LlY",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "66625513",
+            "profileId": "ACoAAAP4n-kB-sh0lV6o9PjmU22e71wlPvIz-kY",
+            "firstName": "Zack",
+            "lastName": "Kass",
+            "occupation": "AI Futurist, Former Head of GTM at OpenAI",
+            "publicIdentifier": "zackkass",
+            "trackingId": "qmRwg31ES+WtcEBlmkeAow==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQET3aqFG8eHlw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1702531889343?e=1745452800&v=beta&t=Z0a4EciC6sTcN3XGB6-DFxWAaTVZQRtl4lJumsk5LlY",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQHSDHXEjapV2w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1702531960041?e=1745452800&v=beta&t=Pr2evDu8q1ug9GJU0I6zsDYnal6XmKhQLDoy3P3Y5XY",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:106474520",
+            "positions": [
+                {
+                    "title": "AI Advisor and Keynote Speaker",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2023
+                        }
+                    },
+                    "companyName": "Self-employed"
+                },
+                {
+                    "title": "Head of GTM",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:11130470",
+                        "entityUrn": "urn:li:fs_miniCompany:11130470",
+                        "name": "OpenAI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                        "universalName": "openai",
+                        "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                        "trackingId": "gotGd5ozTDy3bCdLh5hg6w=="
+                    },
+                    "companyName": "OpenAI"
+                },
+                {
+                    "title": "Advisor",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Translation and Localization"
+                        ],
+                        "objectUrn": "urn:li:company:6652390",
+                        "entityUrn": "urn:li:fs_miniCompany:6652390",
+                        "name": " LILT AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGApBrqMLrj9A/company-logo_200_200/company-logo_200_200/0/1711558773394/lilthq_logo?e=1747872000&v=beta&t=Skj3IDLYLG0jgMAre3XTMxYZQHTSBC0uQXQsXethqWY",
+                        "universalName": "lilthq",
+                        "dashCompanyUrn": "urn:li:fsd_company:6652390",
+                        "trackingId": "pgf42/7ZTLSUzZIop6b0kw=="
+                    },
+                    "companyName": "Lilt"
+                },
+                {
+                    "title": "VP of Revenue",
+                    "description": "Lilt is the modern language service and technology provider enabling localized customer experiences.",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Translation and Localization"
+                        ],
+                        "objectUrn": "urn:li:company:6652390",
+                        "entityUrn": "urn:li:fs_miniCompany:6652390",
+                        "name": " LILT AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGApBrqMLrj9A/company-logo_200_200/company-logo_200_200/0/1711558773394/lilthq_logo?e=1747872000&v=beta&t=Skj3IDLYLG0jgMAre3XTMxYZQHTSBC0uQXQsXethqWY",
+                        "universalName": "lilthq",
+                        "dashCompanyUrn": "urn:li:fsd_company:6652390",
+                        "trackingId": "C5b5OaQbSGyYJ9ed6cvfqQ=="
+                    },
+                    "companyName": "Lilt"
+                },
+                {
+                    "title": "Advisor",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Translation and Localization"
+                        ],
+                        "objectUrn": "urn:li:company:6652390",
+                        "entityUrn": "urn:li:fs_miniCompany:6652390",
+                        "name": " LILT AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGApBrqMLrj9A/company-logo_200_200/company-logo_200_200/0/1711558773394/lilthq_logo?e=1747872000&v=beta&t=Skj3IDLYLG0jgMAre3XTMxYZQHTSBC0uQXQsXethqWY",
+                        "universalName": "lilthq",
+                        "dashCompanyUrn": "urn:li:fsd_company:6652390",
+                        "trackingId": "OJDtan3CS7SjiVxwMRPn6A=="
+                    },
+                    "companyName": "Lilt"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Arts (BA)",
+                    "fieldOfStudy": "History",
+                    "schoolName": "University of California, Berkeley"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "AI Futurist, Former Head of GTM at OpenAI",
+            "summary": "Enterprise Sales/Strategy enthusiast.\n\nInspired by hard problems and profound shared experiences.",
+            "student": false,
+            "industryName": "Internet",
+            "industryUrn": "urn:li:fs_industry:6",
+            "geoLocationName": "Santa Barbara, California",
+            "geoCountryName": "United States",
+            "jobTitle": "AI Advisor and Keynote Speaker",
+            "companyName": "Self-employed",
+            "following": false,
+            "followable": true,
+            "followersCount": 18309,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Self-employed",
+        "position": "AI Advisor and Keynote Speaker",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "AI Advisor and Keynote Speaker",
+        "organization": "Self-employed",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/zackkass/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "AI Advisor and Keynote Speaker",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2023
+                }
+            },
+            "companyName": "Self-employed"
+        },
+        {
+            "title": "Head of GTM",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:11130470",
+                "entityUrn": "urn:li:fs_miniCompany:11130470",
+                "name": "OpenAI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                "universalName": "openai",
+                "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                "trackingId": "gotGd5ozTDy3bCdLh5hg6w=="
+            },
+            "companyName": "OpenAI"
+        },
+        {
+            "title": "Advisor",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Translation and Localization"
+                ],
+                "objectUrn": "urn:li:company:6652390",
+                "entityUrn": "urn:li:fs_miniCompany:6652390",
+                "name": " LILT AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGApBrqMLrj9A/company-logo_200_200/company-logo_200_200/0/1711558773394/lilthq_logo?e=1747872000&v=beta&t=Skj3IDLYLG0jgMAre3XTMxYZQHTSBC0uQXQsXethqWY",
+                "universalName": "lilthq",
+                "dashCompanyUrn": "urn:li:fsd_company:6652390",
+                "trackingId": "pgf42/7ZTLSUzZIop6b0kw=="
+            },
+            "companyName": "Lilt"
+        },
+        {
+            "title": "VP of Revenue",
+            "description": "Lilt is the modern language service and technology provider enabling localized customer experiences.",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Translation and Localization"
+                ],
+                "objectUrn": "urn:li:company:6652390",
+                "entityUrn": "urn:li:fs_miniCompany:6652390",
+                "name": " LILT AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGApBrqMLrj9A/company-logo_200_200/company-logo_200_200/0/1711558773394/lilthq_logo?e=1747872000&v=beta&t=Skj3IDLYLG0jgMAre3XTMxYZQHTSBC0uQXQsXethqWY",
+                "universalName": "lilthq",
+                "dashCompanyUrn": "urn:li:fsd_company:6652390",
+                "trackingId": "C5b5OaQbSGyYJ9ed6cvfqQ=="
+            },
+            "companyName": "Lilt"
+        },
+        {
+            "title": "Advisor",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Translation and Localization"
+                ],
+                "objectUrn": "urn:li:company:6652390",
+                "entityUrn": "urn:li:fs_miniCompany:6652390",
+                "name": " LILT AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGApBrqMLrj9A/company-logo_200_200/company-logo_200_200/0/1711558773394/lilthq_logo?e=1747872000&v=beta&t=Skj3IDLYLG0jgMAre3XTMxYZQHTSBC0uQXQsXethqWY",
+                "universalName": "lilthq",
+                "dashCompanyUrn": "urn:li:fsd_company:6652390",
+                "trackingId": "OJDtan3CS7SjiVxwMRPn6A=="
+            },
+            "companyName": "Lilt"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Arts (BA)",
+            "fieldOfStudy": "History",
+            "schoolName": "University of California, Berkeley"
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

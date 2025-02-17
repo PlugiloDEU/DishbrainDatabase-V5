@@ -1,0 +1,488 @@
+{
+    "id": "exp464457335",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Tamay",
+        "lastName": "Besiroglu",
+        "fullName": "Tamay Besiroglu",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQFTm9aQm8fy_A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1539472602877?e=1745452800&v=beta&t=8dmOdAOLH6JhyzPfCTFSBawQ5nvc1_om0xtd-sUBeUw",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "464457335",
+            "profileId": "ACoAABuvDncB5ScmOQgGvo3KsTFc0tYCZjupbZc",
+            "firstName": "Tamay",
+            "lastName": "Besiroglu",
+            "occupation": "Associate Director at Epoch AI",
+            "publicIdentifier": "tamay-besiroglu",
+            "trackingId": "85NcGa5tStuq+btZEpjGLg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFTm9aQm8fy_A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1539472602877?e=1745452800&v=beta&t=8dmOdAOLH6JhyzPfCTFSBawQ5nvc1_om0xtd-sUBeUw",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQHmA52p7pbwBg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695094425229?e=1745452800&v=beta&t=82emBI4Lb4qPF1oRZXw59MqCCt36_QJd1Zm6S5zkQTQ",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104481114",
+            "positions": [
+                {
+                    "title": "Associate Director",
+                    "description": "Co-founded Epoch AI in 2022",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:81889281",
+                        "entityUrn": "urn:li:fs_miniCompany:81889281",
+                        "name": "Epoch AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFYG_MdnxcZCA/company-logo_200_200/company-logo_200_200/0/1701217878007/epochai_logo?e=1747872000&v=beta&t=Tgt2Y8_oHYnwwxTOPEZK4pAO6IqC_WgqyzkVnXkfW0w",
+                        "universalName": "epochai",
+                        "dashCompanyUrn": "urn:li:fsd_company:81889281",
+                        "trackingId": "afv0zrtqSYi19N3PeHacFQ=="
+                    },
+                    "companyName": "Epoch AI"
+                },
+                {
+                    "title": "Research Scientist",
+                    "locationName": "Cambridge, Massachusetts, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1503",
+                        "entityUrn": "urn:li:fs_miniCompany:1503",
+                        "name": "Massachusetts Institute of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                        "universalName": "mit",
+                        "dashCompanyUrn": "urn:li:fsd_company:1503",
+                        "trackingId": "pA5mgaALRPeTrZlk6CYF5g=="
+                    },
+                    "companyName": "Massachusetts Institute of Technology"
+                },
+                {
+                    "title": "Strategy & Operations Lead",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:6648097",
+                        "entityUrn": "urn:li:fs_miniCompany:6648097",
+                        "name": "Metaculus",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFm5gfVS4pBcA/company-logo_200_200/company-logo_200_200/0/1630661571848/metaculus_logo?e=1747872000&v=beta&t=YES5SHZJV_8UgduR1dfB_pAQI5aHn8GgCGTg8xtN_Fw",
+                        "universalName": "metaculus",
+                        "dashCompanyUrn": "urn:li:fsd_company:6648097",
+                        "trackingId": "CNrVdKP5S5GD/DGAWSAHMQ=="
+                    },
+                    "companyName": "Metaculus"
+                },
+                {
+                    "title": "Research Intern",
+                    "locationName": "Oxford, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:10768812",
+                        "entityUrn": "urn:li:fs_miniCompany:10768812",
+                        "name": "Future of Humanity Institute (Oxford University)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHBWvUDLush7g/company-logo_200_200/company-logo_200_200/0/1631347945883?e=1747872000&v=beta&t=qKwh39SS4zh1TvKDxzZztTzvbzhfoJLYYXW6Qq1Qqhs",
+                        "universalName": "future-of-humanity-institute",
+                        "dashCompanyUrn": "urn:li:fsd_company:10768812",
+                        "trackingId": "hC8lqzCDRgmRtDLTbwpbJQ=="
+                    },
+                    "companyName": "Future of Humanity Institute (Oxford University)"
+                },
+                {
+                    "title": "Intern",
+                    "locationName": "London, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:2494",
+                        "entityUrn": "urn:li:fs_miniCompany:2494",
+                        "name": "Bloomberg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF0uyE7RGKDGg/company-logo_200_200/company-logo_200_200/0/1631374698859/bloomberg_lp_logo?e=1747872000&v=beta&t=00IeZZkGpBWOPO2p8bVW6ulTBceKCgq3yVoiWXrqJ8U",
+                        "universalName": "bloomberg",
+                        "dashCompanyUrn": "urn:li:fsd_company:2494",
+                        "trackingId": "P/z87zeiTVqi6EKFGzaVuA=="
+                    },
+                    "companyName": "Bloomberg LP"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Philosophy - MPhil",
+                    "fieldOfStudy": "Economics",
+                    "schoolName": "University of Cambridge",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2018
+                        }
+                    }
+                },
+                {
+                    "degreeName": "International Baccalaureate",
+                    "schoolName": "Rotterdam International Secondary School",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Stevenson Prize",
+                    "description": "Top performance for MPhil in Economics",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2020
+                    },
+                    "issuer": "University of Cambridge"
+                },
+                {
+                    "title": "Examiner's Prize",
+                    "description": "Top marks in Research in Applied Economics",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2017
+                    },
+                    "issuer": "Department of Economics"
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Leadership",
+                "Public Speaking",
+                "Microsoft Excel",
+                "Teamwork"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Associate Director at Epoch AI",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Berkeley, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Associate Director",
+            "companyName": "Epoch AI",
+            "companyPublicId": "epochai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/epochai",
+            "following": false,
+            "followable": true,
+            "followersCount": 740,
+            "connectionsCount": 447,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Epoch AI",
+        "position": "Associate Director",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Associate Director",
+        "organization": "Epoch AI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/tamay-besiroglu/",
+        "company": "https://www.linkedin.com/company/epochai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Associate Director",
+            "description": "Co-founded Epoch AI in 2022",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:81889281",
+                "entityUrn": "urn:li:fs_miniCompany:81889281",
+                "name": "Epoch AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFYG_MdnxcZCA/company-logo_200_200/company-logo_200_200/0/1701217878007/epochai_logo?e=1747872000&v=beta&t=Tgt2Y8_oHYnwwxTOPEZK4pAO6IqC_WgqyzkVnXkfW0w",
+                "universalName": "epochai",
+                "dashCompanyUrn": "urn:li:fsd_company:81889281",
+                "trackingId": "afv0zrtqSYi19N3PeHacFQ=="
+            },
+            "companyName": "Epoch AI"
+        },
+        {
+            "title": "Research Scientist",
+            "locationName": "Cambridge, Massachusetts, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1503",
+                "entityUrn": "urn:li:fs_miniCompany:1503",
+                "name": "Massachusetts Institute of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                "universalName": "mit",
+                "dashCompanyUrn": "urn:li:fsd_company:1503",
+                "trackingId": "pA5mgaALRPeTrZlk6CYF5g=="
+            },
+            "companyName": "Massachusetts Institute of Technology"
+        },
+        {
+            "title": "Strategy & Operations Lead",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:6648097",
+                "entityUrn": "urn:li:fs_miniCompany:6648097",
+                "name": "Metaculus",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFm5gfVS4pBcA/company-logo_200_200/company-logo_200_200/0/1630661571848/metaculus_logo?e=1747872000&v=beta&t=YES5SHZJV_8UgduR1dfB_pAQI5aHn8GgCGTg8xtN_Fw",
+                "universalName": "metaculus",
+                "dashCompanyUrn": "urn:li:fsd_company:6648097",
+                "trackingId": "CNrVdKP5S5GD/DGAWSAHMQ=="
+            },
+            "companyName": "Metaculus"
+        },
+        {
+            "title": "Research Intern",
+            "locationName": "Oxford, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:10768812",
+                "entityUrn": "urn:li:fs_miniCompany:10768812",
+                "name": "Future of Humanity Institute (Oxford University)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHBWvUDLush7g/company-logo_200_200/company-logo_200_200/0/1631347945883?e=1747872000&v=beta&t=qKwh39SS4zh1TvKDxzZztTzvbzhfoJLYYXW6Qq1Qqhs",
+                "universalName": "future-of-humanity-institute",
+                "dashCompanyUrn": "urn:li:fsd_company:10768812",
+                "trackingId": "hC8lqzCDRgmRtDLTbwpbJQ=="
+            },
+            "companyName": "Future of Humanity Institute (Oxford University)"
+        },
+        {
+            "title": "Intern",
+            "locationName": "London, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:2494",
+                "entityUrn": "urn:li:fs_miniCompany:2494",
+                "name": "Bloomberg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF0uyE7RGKDGg/company-logo_200_200/company-logo_200_200/0/1631374698859/bloomberg_lp_logo?e=1747872000&v=beta&t=00IeZZkGpBWOPO2p8bVW6ulTBceKCgq3yVoiWXrqJ8U",
+                "universalName": "bloomberg",
+                "dashCompanyUrn": "urn:li:fsd_company:2494",
+                "trackingId": "P/z87zeiTVqi6EKFGzaVuA=="
+            },
+            "companyName": "Bloomberg LP"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Philosophy - MPhil",
+            "fieldOfStudy": "Economics",
+            "schoolName": "University of Cambridge",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            }
+        },
+        {
+            "degreeName": "International Baccalaureate",
+            "schoolName": "Rotterdam International Secondary School",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Leadership",
+        "Public Speaking",
+        "Microsoft Excel",
+        "Teamwork"
+    ],
+    "lastEnriched": "2025-02-17"
+}

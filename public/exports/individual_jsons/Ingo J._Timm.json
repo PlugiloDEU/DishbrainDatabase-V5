@@ -1,0 +1,472 @@
+{
+    "id": "exp461279",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Ingo J.",
+        "lastName": "Timm",
+        "fullName": "Ingo J. Timm",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHQD_-WCqazCg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1612795094255?e=1745452800&v=beta&t=N4_zWAO--9iLXMBnp7IQGX5riDtK4tBYPZ0fGuYamCo",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "461279",
+            "profileId": "ACoAAAAHCd8Bvz7n8_T06gFfIqPDDxndq_AQQ7g",
+            "firstName": "Ingo J.",
+            "lastName": "Timm",
+            "occupation": "Professor at Trier University | Scientific Director at German Research Center for Artificial Intelligence (DFKI)",
+            "publicIdentifier": "itimm",
+            "trackingId": "vOeSYYNxSvGTvbCDf2dxNA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHQD_-WCqazCg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1612795094255?e=1745452800&v=beta&t=N4_zWAO--9iLXMBnp7IQGX5riDtK4tBYPZ0fGuYamCo",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQG5YFzDUnjKLg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1612795122257?e=1745452800&v=beta&t=o1_10onDIrswv931X1p2pvIXrM10U8OH28IvdDRTiuk",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105583818",
+            "positions": [
+                {
+                    "title": "Scientific Director",
+                    "locationName": "Trier Region",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2025
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "cGYOWKTYRDe9V+//nXhZXA=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Professor",
+                    "description": "Chair for Business Informatics I\nResearch focus on: \n- information systems, (actor-based/event-driven) simulation\n- distributed artificial intelligence, strategic management of autonomous software systems\n- applications in production, logistics, health, traffic",
+                    "locationName": "Trier, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:32524",
+                        "entityUrn": "urn:li:fs_miniCompany:32524",
+                        "name": "Universität Trier",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH5TcpLmaAfRw/company-logo_200_200/company-logo_200_200/0/1686725281733/trieruni_logo?e=1747872000&v=beta&t=aN90rcBkMJPLXqiq56lFF_df47sEKMEerPgcZFsD19o",
+                        "universalName": "trieruni",
+                        "dashCompanyUrn": "urn:li:fsd_company:32524",
+                        "trackingId": "+JNZhd8HTCGwxlvXG0Y49Q=="
+                    },
+                    "companyName": "Universität Trier"
+                },
+                {
+                    "title": "Teamleiter",
+                    "locationName": "Trier Region",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2025
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "9ebtYWehTNiGwFZFVC2ztg=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Professor",
+                    "description": "Department of Computer Science &amp; Mathematics\nInstitute of Computer Science\nInformation Systems and Simulation\n\nhttp://www.is.informatik.uni-frankfurt.de",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15094023",
+                        "entityUrn": "urn:li:fs_miniCompany:15094023",
+                        "name": "Goethe University Frankfurt",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHcLaDDvW5OMA/company-logo_200_200/company-logo_200_200/0/1683557263505/goethe_universitat_frankfurt_logo?e=1747872000&v=beta&t=jjtYjmMYmIdy3e-SHA21RayX_F80GkfUOEQbjLF3OB4",
+                        "universalName": "goethe-universitat-frankfurt",
+                        "dashCompanyUrn": "urn:li:fsd_company:15094023",
+                        "trackingId": "RzzfJFuKT8yFmonLc8yUIQ=="
+                    },
+                    "companyName": "Goethe University Frankfurt"
+                },
+                {
+                    "title": "Senior Researcher",
+                    "locationName": "Bremen, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:12668",
+                        "entityUrn": "urn:li:fs_miniCompany:12668",
+                        "name": "University of Bremen",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHDg9uMpVgFFA/company-logo_200_200/company-logo_200_200/0/1630619159611/university_of_bremen_logo?e=1747872000&v=beta&t=EXeihO6wusWBbPRu-UA9uxg77jdxO_eKBebN3wfsVJQ",
+                        "universalName": "university-of-bremen",
+                        "dashCompanyUrn": "urn:li:fsd_company:12668",
+                        "trackingId": "rZAYzGAUQAacceKUX5BLKA=="
+                    },
+                    "companyName": "University of Bremen"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Informatik",
+                    "schoolName": "Universität Bremen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Computer Science",
+                "Artificial Intelligence",
+                "Software Engineering",
+                "LaTeX"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Board Member",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "Zukunftsforum Öffentliche Sicherheit e.V.",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                },
+                {
+                    "role": "Co-Chair Section on Artificial Intelligence",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2018
+                        }
+                    },
+                    "companyName": "German Informatics Society",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                }
+            ],
+            "headline": "Professor at Trier University | Scientific Director at German Research Center for Artificial Intelligence (DFKI)",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Gusterath, Rhineland-Palatinate",
+            "geoCountryName": "Germany",
+            "jobTitle": "Scientific Director",
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+            "companyPublicId": "dfki",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/dfki",
+            "following": false,
+            "followable": true,
+            "followersCount": 973,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+        "position": "Scientific Director",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Scientific Director",
+        "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/itimm/",
+        "company": "https://www.linkedin.com/company/dfki"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Scientific Director",
+            "locationName": "Trier Region",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2025
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "cGYOWKTYRDe9V+//nXhZXA=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Professor",
+            "description": "Chair for Business Informatics I\nResearch focus on: \n- information systems, (actor-based/event-driven) simulation\n- distributed artificial intelligence, strategic management of autonomous software systems\n- applications in production, logistics, health, traffic",
+            "locationName": "Trier, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:32524",
+                "entityUrn": "urn:li:fs_miniCompany:32524",
+                "name": "Universität Trier",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH5TcpLmaAfRw/company-logo_200_200/company-logo_200_200/0/1686725281733/trieruni_logo?e=1747872000&v=beta&t=aN90rcBkMJPLXqiq56lFF_df47sEKMEerPgcZFsD19o",
+                "universalName": "trieruni",
+                "dashCompanyUrn": "urn:li:fsd_company:32524",
+                "trackingId": "+JNZhd8HTCGwxlvXG0Y49Q=="
+            },
+            "companyName": "Universität Trier"
+        },
+        {
+            "title": "Teamleiter",
+            "locationName": "Trier Region",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2025
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "9ebtYWehTNiGwFZFVC2ztg=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Professor",
+            "description": "Department of Computer Science &amp; Mathematics\nInstitute of Computer Science\nInformation Systems and Simulation\n\nhttp://www.is.informatik.uni-frankfurt.de",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15094023",
+                "entityUrn": "urn:li:fs_miniCompany:15094023",
+                "name": "Goethe University Frankfurt",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHcLaDDvW5OMA/company-logo_200_200/company-logo_200_200/0/1683557263505/goethe_universitat_frankfurt_logo?e=1747872000&v=beta&t=jjtYjmMYmIdy3e-SHA21RayX_F80GkfUOEQbjLF3OB4",
+                "universalName": "goethe-universitat-frankfurt",
+                "dashCompanyUrn": "urn:li:fsd_company:15094023",
+                "trackingId": "RzzfJFuKT8yFmonLc8yUIQ=="
+            },
+            "companyName": "Goethe University Frankfurt"
+        },
+        {
+            "title": "Senior Researcher",
+            "locationName": "Bremen, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:12668",
+                "entityUrn": "urn:li:fs_miniCompany:12668",
+                "name": "University of Bremen",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHDg9uMpVgFFA/company-logo_200_200/company-logo_200_200/0/1630619159611/university_of_bremen_logo?e=1747872000&v=beta&t=EXeihO6wusWBbPRu-UA9uxg77jdxO_eKBebN3wfsVJQ",
+                "universalName": "university-of-bremen",
+                "dashCompanyUrn": "urn:li:fsd_company:12668",
+                "trackingId": "rZAYzGAUQAacceKUX5BLKA=="
+            },
+            "companyName": "University of Bremen"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Informatik",
+            "schoolName": "Universität Bremen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Computer Science",
+        "Artificial Intelligence",
+        "Software Engineering",
+        "LaTeX"
+    ],
+    "lastEnriched": "2025-02-17"
+}

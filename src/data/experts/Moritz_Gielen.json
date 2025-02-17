@@ -1,0 +1,332 @@
+{
+    "id": "exp1290624439",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Moritz",
+        "lastName": "Gielen",
+        "fullName": "Moritz Gielen",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQHsOwXegu6OMg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711579801043?e=1745452800&v=beta&t=n1erS8iH7CBsLVm1GjwPEd_Cr2kmMZHgeScRH_8gSz0",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "1290624439",
+            "profileId": "ACoAAEztXbcBYBC_jUwi20ovVCD3EFweRTz7pps",
+            "firstName": "Moritz",
+            "lastName": "Gielen",
+            "occupation": "Rechtsanwalt bei WBS.LEGAL",
+            "publicIdentifier": "moritz-gielen-187289300",
+            "trackingId": "pzy6cY/nRL+05g2SLJJ92w==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHsOwXegu6OMg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711579801043?e=1745452800&v=beta&t=n1erS8iH7CBsLVm1GjwPEd_Cr2kmMZHgeScRH_8gSz0",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105890944",
+            "positions": [
+                {
+                    "title": "Rechtsanwalt",
+                    "description": "Rechtsanwalt im Datenschutz- und IT-Recht, Datenschutzbeauftragter",
+                    "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:5519707",
+                        "entityUrn": "urn:li:fs_miniCompany:5519707",
+                        "name": "WBS.LEGAL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQErfRdu0nem9w/company-logo_200_200/company-logo_200_200/0/1666642942580/wilde_beuger_solmecke_rechtsanwlte_logo?e=1747872000&v=beta&t=1Vhqrm75jxKYY1uJs1-nbqDkZ9RWHFq1wabXmYgf_vM",
+                        "universalName": "wilde-beuger-solmecke-rechtsanwälte",
+                        "dashCompanyUrn": "urn:li:fsd_company:5519707",
+                        "trackingId": "ctT9sVogTJa7H9hMw4ga3Q=="
+                    },
+                    "companyName": "WBS.LEGAL"
+                },
+                {
+                    "title": "Rechtsreferendar",
+                    "description": "Ausbildung im Rahmen des juristischen Vorbereitungsdienstes",
+                    "locationName": "Städteregion Aachen, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:7374784",
+                        "entityUrn": "urn:li:fs_miniCompany:7374784",
+                        "name": "Landgericht Aachen",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "landgericht-aachen",
+                        "dashCompanyUrn": "urn:li:fsd_company:7374784",
+                        "trackingId": "I+pcLxD5RP67C6fIn8WIcA=="
+                    },
+                    "companyName": "Landgericht Aachen"
+                },
+                {
+                    "title": "Wissenschaftlicher Mitarbeiter",
+                    "description": "Verfassen von Schriftsätzen und Klageschriften, Recherchetätigkeiten zu Kanzleispezifischen Rechtsgebieten (Bau- und Architektenrecht, Miet- und Pachtrecht sowie Immobilien- und Grundstücksrecht) sowie administrative Bürotätigkeiten.",
+                    "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Schöler Anwaltskanzlei Köln"
+                },
+                {
+                    "title": "Mitarbeiter im Kundendienst",
+                    "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Retail"
+                        ],
+                        "objectUrn": "urn:li:company:2743",
+                        "entityUrn": "urn:li:fs_miniCompany:2743",
+                        "name": "IKEA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHFZRoCWlWZ-g/company-logo_200_200/company-logo_200_200/0/1630574725858/ikea_group_logo?e=1747872000&v=beta&t=npeT3nmqlDlxoUA0hL9W6I8YIzt_IbaBo7oU2D7wgYo",
+                        "universalName": "ikea",
+                        "dashCompanyUrn": "urn:li:fsd_company:2743",
+                        "trackingId": "NglancAMSiufwI6+cHe1YA=="
+                    },
+                    "companyName": "IKEA"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "1. Staatsexamen",
+                    "fieldOfStudy": "Rechtswissenschaften",
+                    "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2011
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Datenschutzrecht"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Rechtsanwalt bei WBS.LEGAL",
+            "student": false,
+            "industryName": "Legal Services",
+            "industryUrn": "urn:li:fs_industry:10",
+            "geoLocationName": "Cologne, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Rechtsanwalt",
+            "companyName": "WBS.LEGAL",
+            "companyPublicId": "wilde-beuger-solmecke-rechtsanwälte",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/wilde-beuger-solmecke-rechtsanwälte",
+            "following": false,
+            "followable": true,
+            "followersCount": 233,
+            "connectionsCount": 189,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "WBS.LEGAL",
+        "position": "Rechtsanwalt",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Law Practice"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Rechtsanwalt",
+        "organization": "WBS.LEGAL",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/moritz-gielen-187289300/",
+        "company": "https://www.linkedin.com/company/wilde-beuger-solmecke-rechtsanwälte"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Rechtsanwalt",
+            "description": "Rechtsanwalt im Datenschutz- und IT-Recht, Datenschutzbeauftragter",
+            "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:5519707",
+                "entityUrn": "urn:li:fs_miniCompany:5519707",
+                "name": "WBS.LEGAL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQErfRdu0nem9w/company-logo_200_200/company-logo_200_200/0/1666642942580/wilde_beuger_solmecke_rechtsanwlte_logo?e=1747872000&v=beta&t=1Vhqrm75jxKYY1uJs1-nbqDkZ9RWHFq1wabXmYgf_vM",
+                "universalName": "wilde-beuger-solmecke-rechtsanwälte",
+                "dashCompanyUrn": "urn:li:fsd_company:5519707",
+                "trackingId": "ctT9sVogTJa7H9hMw4ga3Q=="
+            },
+            "companyName": "WBS.LEGAL"
+        },
+        {
+            "title": "Rechtsreferendar",
+            "description": "Ausbildung im Rahmen des juristischen Vorbereitungsdienstes",
+            "locationName": "Städteregion Aachen, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:7374784",
+                "entityUrn": "urn:li:fs_miniCompany:7374784",
+                "name": "Landgericht Aachen",
+                "showcase": false,
+                "active": true,
+                "universalName": "landgericht-aachen",
+                "dashCompanyUrn": "urn:li:fsd_company:7374784",
+                "trackingId": "I+pcLxD5RP67C6fIn8WIcA=="
+            },
+            "companyName": "Landgericht Aachen"
+        },
+        {
+            "title": "Wissenschaftlicher Mitarbeiter",
+            "description": "Verfassen von Schriftsätzen und Klageschriften, Recherchetätigkeiten zu Kanzleispezifischen Rechtsgebieten (Bau- und Architektenrecht, Miet- und Pachtrecht sowie Immobilien- und Grundstücksrecht) sowie administrative Bürotätigkeiten.",
+            "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "companyName": "Schöler Anwaltskanzlei Köln"
+        },
+        {
+            "title": "Mitarbeiter im Kundendienst",
+            "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ],
+                "objectUrn": "urn:li:company:2743",
+                "entityUrn": "urn:li:fs_miniCompany:2743",
+                "name": "IKEA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHFZRoCWlWZ-g/company-logo_200_200/company-logo_200_200/0/1630574725858/ikea_group_logo?e=1747872000&v=beta&t=npeT3nmqlDlxoUA0hL9W6I8YIzt_IbaBo7oU2D7wgYo",
+                "universalName": "ikea",
+                "dashCompanyUrn": "urn:li:fsd_company:2743",
+                "trackingId": "NglancAMSiufwI6+cHe1YA=="
+            },
+            "companyName": "IKEA"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "1. Staatsexamen",
+            "fieldOfStudy": "Rechtswissenschaften",
+            "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2011
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Datenschutzrecht"
+    ],
+    "lastEnriched": "2025-02-17"
+}

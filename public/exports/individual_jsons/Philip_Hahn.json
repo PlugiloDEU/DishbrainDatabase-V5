@@ -1,0 +1,337 @@
+{
+    "id": "exp21252638",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Philip",
+        "lastName": "Hahn",
+        "fullName": "Philip Hahn",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "21252638",
+            "profileId": "ACoAAAFESh4BS_UzBdHwfGeGs38tU3cFLW3Seyg",
+            "firstName": "Philip",
+            "lastName": "Hahn",
+            "occupation": "Consultant to Biotech and Pharma Industry",
+            "publicIdentifier": "philip-hahn-b9214a7",
+            "trackingId": "5aLjacexSN64jSc1RKFxoQ==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102571732",
+            "positions": [
+                {
+                    "title": "Consultant to Biotech and Pharmaceutical Industries",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2008
+                        }
+                    },
+                    "companyName": "Various Companies"
+                },
+                {
+                    "title": "Director",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Pharmaceuticals"
+                        ],
+                        "objectUrn": "urn:li:company:754740",
+                        "entityUrn": "urn:li:fs_miniCompany:754740",
+                        "name": "Quark Pharmaceuticals Inc",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEBqUkZmmiGxA/company-logo_200_200/company-logo_200_200/0/1631319277827?e=1747872000&v=beta&t=5hC4BzDaPdfZE4v7WnRbmauNPGuiec3tQzXAESyCcJM",
+                        "universalName": "quark-pharmaceuticals-inc",
+                        "dashCompanyUrn": "urn:li:fsd_company:754740",
+                        "trackingId": "BxurJHUOTyu39yMv5kpMog=="
+                    },
+                    "companyName": "Quark Pharmaceuticals Inc"
+                },
+                {
+                    "title": "Vice President and Assistant General Counsel",
+                    "description": "Responsible for structuring, negotiating and drafting major licenses and collaborations with US, European and Japanese pharmaceutical and biotech companies. Broad experience in pharmaceutical and medical device businesses, including research, development, manufacturing and commercialization of products in US and foreign markets.",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 1978
+                        }
+                    },
+                    "companyName": "Pfizer Inc."
+                },
+                {
+                    "title": "General Counsel",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1992
+                        },
+                        "startDate": {
+                            "year": 1982
+                        }
+                    },
+                    "companyName": "Pfizer Medical Technology Group -- Howmedica"
+                },
+                {
+                    "title": "Associate",
+                    "description": "Commerical, corporate, banking, bankruptcy, and international law",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1978
+                        },
+                        "startDate": {
+                            "year": 1973
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:7913",
+                        "entityUrn": "urn:li:fs_miniCompany:7913",
+                        "name": "Proskauer Rose LLP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAwaw6j_L15g/company-logo_200_200/company-logo_200_200/0/1719933659514/proskauer_rose_llp_logo?e=1747872000&v=beta&t=xVSp0G0B8ihqzrZdI6ZtEQCy_XyT0Z7e5jL_CkPa4n8",
+                        "universalName": "proskauer-rose-llp",
+                        "dashCompanyUrn": "urn:li:fsd_company:7913",
+                        "trackingId": "Qt9QlD1wSjeNih+uIwPboQ=="
+                    },
+                    "companyName": "Proskauer Rose LLP"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "J.D.",
+                    "fieldOfStudy": "Law",
+                    "schoolName": "Yale Law School",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1967
+                        },
+                        "startDate": {
+                            "year": 1964
+                        }
+                    }
+                },
+                {
+                    "degreeName": "A.B.",
+                    "fieldOfStudy": "History",
+                    "schoolName": "Brown University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1964
+                        },
+                        "startDate": {
+                            "year": 1960
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Pharmaceutical Industry",
+                "Medical Devices",
+                "Commercialization",
+                "Negotiation"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Consultant to Biotech and Pharma Industry",
+            "student": false,
+            "industryName": "Pharmaceuticals",
+            "industryUrn": "urn:li:fs_industry:15",
+            "geoLocationName": "New York, New York",
+            "geoCountryName": "United States",
+            "jobTitle": "Consultant to Biotech and Pharmaceutical Industries",
+            "companyName": "Various Companies",
+            "following": false,
+            "followable": true,
+            "followersCount": 134,
+            "connectionsCount": 133,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Various Companies",
+        "position": "Consultant to Biotech and Pharmaceutical Industries",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Consultant to Biotech and Pharmaceutical Industries",
+        "organization": "Various Companies",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/philip-hahn-b9214a7/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Consultant to Biotech and Pharmaceutical Industries",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "companyName": "Various Companies"
+        },
+        {
+            "title": "Director",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ],
+                "objectUrn": "urn:li:company:754740",
+                "entityUrn": "urn:li:fs_miniCompany:754740",
+                "name": "Quark Pharmaceuticals Inc",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEBqUkZmmiGxA/company-logo_200_200/company-logo_200_200/0/1631319277827?e=1747872000&v=beta&t=5hC4BzDaPdfZE4v7WnRbmauNPGuiec3tQzXAESyCcJM",
+                "universalName": "quark-pharmaceuticals-inc",
+                "dashCompanyUrn": "urn:li:fsd_company:754740",
+                "trackingId": "BxurJHUOTyu39yMv5kpMog=="
+            },
+            "companyName": "Quark Pharmaceuticals Inc"
+        },
+        {
+            "title": "Vice President and Assistant General Counsel",
+            "description": "Responsible for structuring, negotiating and drafting major licenses and collaborations with US, European and Japanese pharmaceutical and biotech companies. Broad experience in pharmaceutical and medical device businesses, including research, development, manufacturing and commercialization of products in US and foreign markets.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 1978
+                }
+            },
+            "companyName": "Pfizer Inc."
+        },
+        {
+            "title": "General Counsel",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1992
+                },
+                "startDate": {
+                    "year": 1982
+                }
+            },
+            "companyName": "Pfizer Medical Technology Group -- Howmedica"
+        },
+        {
+            "title": "Associate",
+            "description": "Commerical, corporate, banking, bankruptcy, and international law",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1978
+                },
+                "startDate": {
+                    "year": 1973
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:7913",
+                "entityUrn": "urn:li:fs_miniCompany:7913",
+                "name": "Proskauer Rose LLP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAwaw6j_L15g/company-logo_200_200/company-logo_200_200/0/1719933659514/proskauer_rose_llp_logo?e=1747872000&v=beta&t=xVSp0G0B8ihqzrZdI6ZtEQCy_XyT0Z7e5jL_CkPa4n8",
+                "universalName": "proskauer-rose-llp",
+                "dashCompanyUrn": "urn:li:fsd_company:7913",
+                "trackingId": "Qt9QlD1wSjeNih+uIwPboQ=="
+            },
+            "companyName": "Proskauer Rose LLP"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "J.D.",
+            "fieldOfStudy": "Law",
+            "schoolName": "Yale Law School",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1967
+                },
+                "startDate": {
+                    "year": 1964
+                }
+            }
+        },
+        {
+            "degreeName": "A.B.",
+            "fieldOfStudy": "History",
+            "schoolName": "Brown University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1964
+                },
+                "startDate": {
+                    "year": 1960
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Pharmaceutical Industry",
+        "Medical Devices",
+        "Commercialization",
+        "Negotiation"
+    ],
+    "lastEnriched": "2025-02-17"
+}

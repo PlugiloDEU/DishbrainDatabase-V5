@@ -1,0 +1,636 @@
+{
+    "id": "exp660230585",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alexander",
+        "lastName": "Koch",
+        "fullName": "Alexander Koch",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHSZVHTSz_yKQ/profile-displayphoto-shrink_800_800/B4DZPZVa6GHcAc-/0/1734518091683?e=1745452800&v=beta&t=K2oTMkjP1QzRla4gYwdjwyW6y-56Hj_8WriZyGlM1jI",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Korean"
+        ],
+        "allData": {
+            "id": "660230585",
+            "profileId": "ACoAACdaUbkBB8vZesbFYP_PbdiJ2bwXzFEiuZM",
+            "firstName": "Alexander",
+            "lastName": "Koch",
+            "occupation": "Graduate Student in Computer Engineering | Dartmouth | TUM",
+            "publicIdentifier": "alexander-koch-a75139165",
+            "trackingId": "5tRszWXNSPaMNbU5A384cg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHSZVHTSz_yKQ/profile-displayphoto-shrink_800_800/B4DZPZVa6GHcAc-/0/1734518091683?e=1745452800&v=beta&t=K2oTMkjP1QzRla4gYwdjwyW6y-56Hj_8WriZyGlM1jI",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQE9pg1qrWZkCA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724157301683?e=1745452800&v=beta&t=RsS4-Fw-TF_X_yJLA8YXy-O49hor088vAL3nFouSQgA",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104029085",
+            "positions": [
+                {
+                    "title": "Software Engineering Intern",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:11471644",
+                        "entityUrn": "urn:li:fs_miniCompany:11471644",
+                        "name": "Ablacon, Inc. - acquired by Boston Scientific",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG41Jzz8t2lkw/company-logo_200_200/company-logo_200_200/0/1630520857228/ablacon_logo?e=1747872000&v=beta&t=qZR-sK5Nrec1ZW5JIDm0CETySLotRUtxGJpyQ11gFaQ",
+                        "universalName": "ablacon",
+                        "dashCompanyUrn": "urn:li:fsd_company:11471644",
+                        "trackingId": "Os4CYNVnSYif1AaVZEtzWg=="
+                    },
+                    "companyName": "Ablacon, Inc."
+                },
+                {
+                    "title": "Senior Business Analyst",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1349",
+                        "entityUrn": "urn:li:fs_miniCompany:1349",
+                        "name": "BearingPoint",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGvpPaTBtv2Ig/company-logo_200_200/company-logo_200_200/0/1654010943794/bearingpoint_logo?e=1747872000&v=beta&t=bwQkZpE1Sb6tZDXbErQ4FTzsSd0DwkJY3_aYtde_ntI",
+                        "universalName": "bearingpoint",
+                        "dashCompanyUrn": "urn:li:fsd_company:1349",
+                        "trackingId": "IWN9UPL9T9eIn9Yo9+ERnA=="
+                    },
+                    "companyName": "BearingPoint"
+                },
+                {
+                    "title": "Business Analyst",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1349",
+                        "entityUrn": "urn:li:fs_miniCompany:1349",
+                        "name": "BearingPoint",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGvpPaTBtv2Ig/company-logo_200_200/company-logo_200_200/0/1654010943794/bearingpoint_logo?e=1747872000&v=beta&t=bwQkZpE1Sb6tZDXbErQ4FTzsSd0DwkJY3_aYtde_ntI",
+                        "universalName": "bearingpoint",
+                        "dashCompanyUrn": "urn:li:fsd_company:1349",
+                        "trackingId": "JUn1fLndSM24MdI2sfk2OA=="
+                    },
+                    "companyName": "BearingPoint"
+                },
+                {
+                    "title": "Master Thesis Student",
+                    "description": "Master’s Thesis: Towards Fast High-sensitivity X-ray Phase-contrast Micro Computed Tomography\n• Development of a microCT computed tomography setup for application in ex-vivo small mammal oncology studies",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "hon8fvkTS56GTZLY39tbuA=="
+                    },
+                    "companyName": "Technical University of Munich"
+                },
+                {
+                    "title": "Laboratory Research Assistant",
+                    "description": "Chair for Biomedical Physics, Prof. Dr. Franz Pfeiffer & Prof. Dr. Julia Herzen\n• Conducted research on the development and translation of modern X-ray physics concepts to biomedical sciences and clinical applications using a rotating anode X-ray source computed tomography setup",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "it9h0Gt1Szep9Pg6BSicLQ=="
+                    },
+                    "companyName": "Technical University of Munich"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Engineering - MEng",
+                    "fieldOfStudy": "Computer Engineering",
+                    "schoolName": "Dartmouth College",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2024
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science - M.Sc.",
+                    "fieldOfStudy": "Physics - Applied and Engineering Physics",
+                    "schoolName": "Technische Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science - B.Sc.",
+                    "fieldOfStudy": "Physics",
+                    "schoolName": "Technische Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Professional Scrum Product Owner™ I (PSPO I)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Scrum.org"
+                },
+                {
+                    "name": "Professional Scrum Master™ I (PSM I)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Scrum.org"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Konrad Adenauer Scholarship",
+                    "description": "The Konrad-Adenauer-Scholarship is a federal scholarship granted to students with outstanding achievements in their studies and extracurricular commitments. The Konrad-Adenauer-Foundation (KAS) is one of the leading Think Tanks worldwide, with over 3500 current scholars in Germany and abroad. During my time as a KAS scholar, I participated in seminars on topics ranging from the geopolitics of China to the current state of affairs in contemporary US politics. Furthermore, I was elected group speaker of my local 25-person Munich chapter during the 2020/21 academic year.",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2019
+                    },
+                    "issuer": "Konrad-Adenauer-Stiftung"
+                },
+                {
+                    "title": "Abiturpreis in Physik der DPG",
+                    "description": "High School graduation prize awarded for outstanding achievements in the subject of physics.",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2015
+                    },
+                    "issuer": "German Physical Society (Deutsche Physikalische Gesellschaft, DPG)"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Korean",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Software Development",
+                "Machine Learning",
+                "Medical Imaging",
+                "Image Processing"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Group Speaker",
+                    "description": "• Organized and managed events for the KAS Munich 05 chapter of ca. 25 scholarship holders, including moderating guest talks on the 2020 US elections, artificial intelligence and machine learning hosted by renowned professors in their respective fields",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "Konrad-Adenauer-Stiftung"
+                },
+                {
+                    "role": "Vice Chairman",
+                    "description": "• Acted as spokesperson for the local Munich-Maxvorstadt CSU youth chapter, responsible for online press releases\n• Assisted local CSU politicians in their campaigns for political office on the state and federal level",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Junge Union München-Maxvorstadt"
+                },
+                {
+                    "role": "General Manager",
+                    "description": "• Organized and managed events for the Munich-Maxvorstadt CSU youth chapter, including hosting and moderating a roundtable discussion with ca. 20 people on contemporary political topics such as the legacy of Angela Merkel & the CDU/CSU",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "Junge Union München-Maxvorstadt"
+                }
+            ],
+            "headline": "Graduate Student in Computer Engineering | Dartmouth | TUM",
+            "student": false,
+            "industryName": "Computer Hardware",
+            "industryUrn": "urn:li:fs_industry:3",
+            "geoLocationName": "Hanover, New Hampshire",
+            "geoCountryName": "United States",
+            "jobTitle": "Software Engineering Intern",
+            "companyName": "Ablacon, Inc.",
+            "companyPublicId": "ablacon",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ablacon",
+            "following": false,
+            "followable": true,
+            "followersCount": 553,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Ablacon, Inc.",
+        "position": "Software Engineering Intern",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Software Engineering Intern",
+        "organization": "Ablacon, Inc.",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alexander-koch-a75139165/",
+        "company": "https://www.linkedin.com/company/ablacon"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Software Engineering Intern",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:11471644",
+                "entityUrn": "urn:li:fs_miniCompany:11471644",
+                "name": "Ablacon, Inc. - acquired by Boston Scientific",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG41Jzz8t2lkw/company-logo_200_200/company-logo_200_200/0/1630520857228/ablacon_logo?e=1747872000&v=beta&t=qZR-sK5Nrec1ZW5JIDm0CETySLotRUtxGJpyQ11gFaQ",
+                "universalName": "ablacon",
+                "dashCompanyUrn": "urn:li:fsd_company:11471644",
+                "trackingId": "Os4CYNVnSYif1AaVZEtzWg=="
+            },
+            "companyName": "Ablacon, Inc."
+        },
+        {
+            "title": "Senior Business Analyst",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1349",
+                "entityUrn": "urn:li:fs_miniCompany:1349",
+                "name": "BearingPoint",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGvpPaTBtv2Ig/company-logo_200_200/company-logo_200_200/0/1654010943794/bearingpoint_logo?e=1747872000&v=beta&t=bwQkZpE1Sb6tZDXbErQ4FTzsSd0DwkJY3_aYtde_ntI",
+                "universalName": "bearingpoint",
+                "dashCompanyUrn": "urn:li:fsd_company:1349",
+                "trackingId": "IWN9UPL9T9eIn9Yo9+ERnA=="
+            },
+            "companyName": "BearingPoint"
+        },
+        {
+            "title": "Business Analyst",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1349",
+                "entityUrn": "urn:li:fs_miniCompany:1349",
+                "name": "BearingPoint",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGvpPaTBtv2Ig/company-logo_200_200/company-logo_200_200/0/1654010943794/bearingpoint_logo?e=1747872000&v=beta&t=bwQkZpE1Sb6tZDXbErQ4FTzsSd0DwkJY3_aYtde_ntI",
+                "universalName": "bearingpoint",
+                "dashCompanyUrn": "urn:li:fsd_company:1349",
+                "trackingId": "JUn1fLndSM24MdI2sfk2OA=="
+            },
+            "companyName": "BearingPoint"
+        },
+        {
+            "title": "Master Thesis Student",
+            "description": "Master’s Thesis: Towards Fast High-sensitivity X-ray Phase-contrast Micro Computed Tomography\n• Development of a microCT computed tomography setup for application in ex-vivo small mammal oncology studies",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "hon8fvkTS56GTZLY39tbuA=="
+            },
+            "companyName": "Technical University of Munich"
+        },
+        {
+            "title": "Laboratory Research Assistant",
+            "description": "Chair for Biomedical Physics, Prof. Dr. Franz Pfeiffer & Prof. Dr. Julia Herzen\n• Conducted research on the development and translation of modern X-ray physics concepts to biomedical sciences and clinical applications using a rotating anode X-ray source computed tomography setup",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "it9h0Gt1Szep9Pg6BSicLQ=="
+            },
+            "companyName": "Technical University of Munich"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Engineering - MEng",
+            "fieldOfStudy": "Computer Engineering",
+            "schoolName": "Dartmouth College",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2024
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science - M.Sc.",
+            "fieldOfStudy": "Physics - Applied and Engineering Physics",
+            "schoolName": "Technische Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science - B.Sc.",
+            "fieldOfStudy": "Physics",
+            "schoolName": "Technische Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Professional Scrum Product Owner™ I (PSPO I)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "authority": "Scrum.org"
+        },
+        {
+            "name": "Professional Scrum Master™ I (PSM I)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "authority": "Scrum.org"
+        }
+    ],
+    "skills": [
+        "Software Development",
+        "Machine Learning",
+        "Medical Imaging",
+        "Image Processing"
+    ],
+    "lastEnriched": "2025-02-17"
+}

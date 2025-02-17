@@ -1,0 +1,468 @@
+{
+    "id": "exp441871666",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Linda",
+        "lastName": "Schumacher",
+        "fullName": "Linda Schumacher",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQGkKYvPt0771w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1668348360965?e=1745452800&v=beta&t=8G5ze7qLczgfh-1Tf9sT-IxG_qbO48IRAvRheEDyINk",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch",
+            "Schwedisch",
+            "Spanisch"
+        ],
+        "allData": {
+            "id": "441871666",
+            "profileId": "ACoAABpWbTIBSrUhSBuy02Psdh5_6kmuJ2PLBSQ",
+            "firstName": "Linda",
+            "lastName": "Schumacher",
+            "occupation": "Ph.D. (Law) I Blue Book Trainee",
+            "publicIdentifier": "linda-schumacher-92ab94103",
+            "trackingId": "fargxAAcTJSuW3JMTKnn/g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGkKYvPt0771w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1668348360965?e=1745452800&v=beta&t=8G5ze7qLczgfh-1Tf9sT-IxG_qbO48IRAvRheEDyINk",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101282230",
+            "positions": [
+                {
+                    "title": "Referentin",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "companyName": "Federal Ministry for Housing, Urban Development and Construction"
+                },
+                {
+                    "title": "Associate",
+                    "locationName": "Leipzig, Sachsen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:59677",
+                        "entityUrn": "urn:li:fs_miniCompany:59677",
+                        "name": "Luther Rechtsanwaltsgesellschaft mbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGs4C5oXRAcZw/company-logo_200_200/company-logo_200_200/0/1719818415308/luther_rechtsanwaltsgesellschaft_mbh_logo?e=1747872000&v=beta&t=SO1AkBmOPxR-Ql0uH55jz_FoKc9IxSxIDBzcJfcV2q4",
+                        "universalName": "luther-rechtsanwaltsgesellschaft-mbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:59677",
+                        "trackingId": "t7TsD8vxQs2u6T/VjsjutA=="
+                    },
+                    "companyName": "Luther Rechtsanwaltsgesellschaft mbH"
+                },
+                {
+                    "title": "Blue Book Trainee",
+                    "locationName": "Brussels",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:1809",
+                        "entityUrn": "urn:li:fs_miniCompany:1809",
+                        "name": "European Commission",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGG4tYa6RqBNw/company-logo_200_200/company-logo_200_200/0/1733038630925/european_commission_logo?e=1747872000&v=beta&t=GAmbgFa-LagL2VRmzJfHI9migJVBZc6eL4hQzC198WY",
+                        "universalName": "european-commission",
+                        "dashCompanyUrn": "urn:li:fsd_company:1809",
+                        "trackingId": "yXS6uD80TJmAiLzpLt4kag=="
+                    },
+                    "companyName": "European Commission"
+                },
+                {
+                    "title": "Rechtsreferendarin",
+                    "locationName": "Bremen und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:7123068",
+                        "entityUrn": "urn:li:fs_miniCompany:7123068",
+                        "name": "Hanseatisches Oberlandesgericht in Bremen",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "hanseatisches-oberlandesgericht-in-bremen",
+                        "dashCompanyUrn": "urn:li:fsd_company:7123068",
+                        "trackingId": "YvfkfQHKR/eZ5fi8QyjKAw=="
+                    },
+                    "companyName": "Hanseatisches Oberlandesgericht in Bremen"
+                },
+                {
+                    "title": "Wissenschaftliche Mitarbeiterin",
+                    "locationName": "Hamburg und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:34211742",
+                        "entityUrn": "urn:li:fs_miniCompany:34211742",
+                        "name": "Hogan Lovells Germany",
+                        "showcase": true,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEBxU2mRZpIPQ/company-logo_200_200/company-logo_200_200/0/1719256182634/hogan_lovells_germany_logo?e=1747872000&v=beta&t=cpVR4ELjij7K7sfN31JE7ZiNrBOF9WRyXpE7t86YFJQ",
+                        "universalName": "hogan-lovells-germany",
+                        "dashCompanyUrn": "urn:li:fsd_company:34211742",
+                        "trackingId": "wZ6PdIdZRIq8i7mtOqbXJQ=="
+                    },
+                    "companyName": "Hogan Lovells Germany"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Zweite juristische Staatsprüfung",
+                    "schoolName": "Hanseatisches Oberlandesgericht in Bremen",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Staatsexamen",
+                    "fieldOfStudy": "Jurastudium, allgemein",
+                    "schoolName": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Jurastudium, allgemein",
+                    "schoolName": "Universitat Pompeu Fabra",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Schwedisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Spanisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Forschung",
+                "Englisch",
+                "Microsoft Word",
+                "Vorträge"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Ph.D. (Law) I Blue Book Trainee",
+            "student": false,
+            "industryName": "Government Administration",
+            "industryUrn": "urn:li:fs_industry:75",
+            "geoCountryName": "Germany",
+            "jobTitle": "Referentin",
+            "companyName": "Federal Ministry for Housing, Urban Development and Construction",
+            "following": false,
+            "followable": true,
+            "followersCount": 255,
+            "connectionsCount": 255,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Federal Ministry for Housing, Urban Development and Construction",
+        "position": "Referentin",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Referentin",
+        "organization": "Federal Ministry for Housing, Urban Development and Construction",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/linda-schumacher-92ab94103/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Referentin",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "companyName": "Federal Ministry for Housing, Urban Development and Construction"
+        },
+        {
+            "title": "Associate",
+            "locationName": "Leipzig, Sachsen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:59677",
+                "entityUrn": "urn:li:fs_miniCompany:59677",
+                "name": "Luther Rechtsanwaltsgesellschaft mbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGs4C5oXRAcZw/company-logo_200_200/company-logo_200_200/0/1719818415308/luther_rechtsanwaltsgesellschaft_mbh_logo?e=1747872000&v=beta&t=SO1AkBmOPxR-Ql0uH55jz_FoKc9IxSxIDBzcJfcV2q4",
+                "universalName": "luther-rechtsanwaltsgesellschaft-mbh",
+                "dashCompanyUrn": "urn:li:fsd_company:59677",
+                "trackingId": "t7TsD8vxQs2u6T/VjsjutA=="
+            },
+            "companyName": "Luther Rechtsanwaltsgesellschaft mbH"
+        },
+        {
+            "title": "Blue Book Trainee",
+            "locationName": "Brussels",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:1809",
+                "entityUrn": "urn:li:fs_miniCompany:1809",
+                "name": "European Commission",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGG4tYa6RqBNw/company-logo_200_200/company-logo_200_200/0/1733038630925/european_commission_logo?e=1747872000&v=beta&t=GAmbgFa-LagL2VRmzJfHI9migJVBZc6eL4hQzC198WY",
+                "universalName": "european-commission",
+                "dashCompanyUrn": "urn:li:fsd_company:1809",
+                "trackingId": "yXS6uD80TJmAiLzpLt4kag=="
+            },
+            "companyName": "European Commission"
+        },
+        {
+            "title": "Rechtsreferendarin",
+            "locationName": "Bremen und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:7123068",
+                "entityUrn": "urn:li:fs_miniCompany:7123068",
+                "name": "Hanseatisches Oberlandesgericht in Bremen",
+                "showcase": false,
+                "active": true,
+                "universalName": "hanseatisches-oberlandesgericht-in-bremen",
+                "dashCompanyUrn": "urn:li:fsd_company:7123068",
+                "trackingId": "YvfkfQHKR/eZ5fi8QyjKAw=="
+            },
+            "companyName": "Hanseatisches Oberlandesgericht in Bremen"
+        },
+        {
+            "title": "Wissenschaftliche Mitarbeiterin",
+            "locationName": "Hamburg und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:34211742",
+                "entityUrn": "urn:li:fs_miniCompany:34211742",
+                "name": "Hogan Lovells Germany",
+                "showcase": true,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEBxU2mRZpIPQ/company-logo_200_200/company-logo_200_200/0/1719256182634/hogan_lovells_germany_logo?e=1747872000&v=beta&t=cpVR4ELjij7K7sfN31JE7ZiNrBOF9WRyXpE7t86YFJQ",
+                "universalName": "hogan-lovells-germany",
+                "dashCompanyUrn": "urn:li:fsd_company:34211742",
+                "trackingId": "wZ6PdIdZRIq8i7mtOqbXJQ=="
+            },
+            "companyName": "Hogan Lovells Germany"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Zweite juristische Staatsprüfung",
+            "schoolName": "Hanseatisches Oberlandesgericht in Bremen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "Staatsexamen",
+            "fieldOfStudy": "Jurastudium, allgemein",
+            "schoolName": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Jurastudium, allgemein",
+            "schoolName": "Universitat Pompeu Fabra",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Forschung",
+        "Englisch",
+        "Microsoft Word",
+        "Vorträge"
+    ],
+    "lastEnriched": "2025-02-17"
+}

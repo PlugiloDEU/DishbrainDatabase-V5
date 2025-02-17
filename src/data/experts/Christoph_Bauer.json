@@ -1,0 +1,546 @@
+{
+    "id": "exp802764705",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christoph",
+        "lastName": "Bauer",
+        "fullName": "Christoph Bauer",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQHVEShc97h5aw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1725476397837?e=1745452800&v=beta&t=CshefHzO1sxkKCOFd60X2_VwNGT02W4S5EliqC8HCSc",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German"
+        ],
+        "allData": {
+            "id": "802764705",
+            "profileId": "ACoAAC_ZN6EBoai725ri_JEONMSX0U85hWqKrGc",
+            "firstName": "Christoph",
+            "lastName": "Bauer",
+            "occupation": "Automotive | Manufacturing | Painted Exterior Parts | Polymer Adhesive Bonding | APQP | PPAP | Six Sigma | Problem Solving",
+            "publicIdentifier": "christoph-bauer-aa9a161a4",
+            "trackingId": "N6MD/ljaS1KRTeAx4gpK6A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHVEShc97h5aw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1725476397837?e=1745452800&v=beta&t=CshefHzO1sxkKCOFd60X2_VwNGT02W4S5EliqC8HCSc",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQF6k6NqsYEKSA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1610421781921?e=1745452800&v=beta&t=dyRjCxDdXM3flZJbL1cPvV946weLzQG1w9mEE1k1cqM",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:101738062",
+            "positions": [
+                {
+                    "title": "Quality Manager",
+                    "locationName": "Chattanooga, Tennessee, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:10047989",
+                        "entityUrn": "urn:li:fs_miniCompany:10047989",
+                        "name": "Yanfeng",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGsaQGl_Nb3zg/company-logo_200_200/company-logo_200_200/0/1721610524443/yanfeng_global_logo?e=1747872000&v=beta&t=b-QoP5WqG7nHLUfWiHy_QkQn8gHu1cUOTW4lQEt_Z3s",
+                        "universalName": "yanfeng-global",
+                        "dashCompanyUrn": "urn:li:fsd_company:10047989",
+                        "trackingId": "h5/OJDvwSGaMyUVzwEtmww=="
+                    },
+                    "companyName": "Yanfeng"
+                },
+                {
+                    "title": "Quality Engineering",
+                    "locationName": "Charleston, South Carolina Metropolitan Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:16162330",
+                        "entityUrn": "urn:li:fs_miniCompany:16162330",
+                        "name": "Volvo Car USA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFYpxKQsf55LA/company-logo_200_200/company-logo_200_200/0/1632316803769/volvo_car_usa_logo?e=1747872000&v=beta&t=WXgmrLmcmChfrx1pjQwjadUHXYOkOlXjTmxJJn886cw",
+                        "universalName": "volvo-car-usa",
+                        "dashCompanyUrn": "urn:li:fsd_company:16162330",
+                        "trackingId": "TU8yRIEgSVCROSscTPU49g=="
+                    },
+                    "companyName": "Volvo Car USA"
+                },
+                {
+                    "title": "Assistant Launch Manager",
+                    "locationName": "Greer, South Carolina, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:25025212",
+                        "entityUrn": "urn:li:fs_miniCompany:25025212",
+                        "name": "Minghua USA, Inc.",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNkc7YV1SDYA/company-logo_200_200/company-logo_200_200/0/1630624093436/minghua_usa_logo?e=1747872000&v=beta&t=kEZHu7nH9g1uKvABRxixqK4z_F0u07pegg_i0x0vKWM",
+                        "universalName": "minghua-usa",
+                        "dashCompanyUrn": "urn:li:fsd_company:25025212",
+                        "trackingId": "TG8kZBnhSPanBhI8D8UM8g=="
+                    },
+                    "companyName": "Minghua USA, Inc."
+                },
+                {
+                    "title": "Program Quality Engineer",
+                    "locationName": "Greer, South Carolina, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:25025212",
+                        "entityUrn": "urn:li:fs_miniCompany:25025212",
+                        "name": "Minghua USA, Inc.",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNkc7YV1SDYA/company-logo_200_200/company-logo_200_200/0/1630624093436/minghua_usa_logo?e=1747872000&v=beta&t=kEZHu7nH9g1uKvABRxixqK4z_F0u07pegg_i0x0vKWM",
+                        "universalName": "minghua-usa",
+                        "dashCompanyUrn": "urn:li:fsd_company:25025212",
+                        "trackingId": "UJ/SZgjZRWqeY0H2xX05mw=="
+                    },
+                    "companyName": "Minghua USA, Inc."
+                },
+                {
+                    "title": "Product Quality Engineer",
+                    "locationName": "Greer, South Carolina, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:25025212",
+                        "entityUrn": "urn:li:fs_miniCompany:25025212",
+                        "name": "Minghua USA, Inc.",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNkc7YV1SDYA/company-logo_200_200/company-logo_200_200/0/1630624093436/minghua_usa_logo?e=1747872000&v=beta&t=kEZHu7nH9g1uKvABRxixqK4z_F0u07pegg_i0x0vKWM",
+                        "universalName": "minghua-usa",
+                        "dashCompanyUrn": "urn:li:fsd_company:25025212",
+                        "trackingId": "/omc6VOQT6y/QfrJaIUDuw=="
+                    },
+                    "companyName": "Minghua USA, Inc."
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor's degree",
+                    "fieldOfStudy": "Business Studies, Logistics",
+                    "schoolName": "Ostbayerische Technische Hochschule Regensburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Mechanical Engineering & Electrical Engineering",
+                    "schoolName": "Ostbayerische Technische Hochschule Regensburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Product Safety & Conformity Representative (PSCR),",
+                    "authority": "Verband der Automobilindustrie (VDA) e.V."
+                },
+                {
+                    "name": "Green Belt Certification (GB)",
+                    "authority": "BMW of North America, LLC"
+                },
+                {
+                    "name": "FMEA Training",
+                    "authority": "TÜV SÜD"
+                },
+                {
+                    "name": "Polyworks and Faroarm Training",
+                    "authority": "PolyWorks USA"
+                },
+                {
+                    "name": "Standard First Aid, CPR and AED",
+                    "authority": "Cintas"
+                },
+                {
+                    "name": "Quality Core Tool (APQP, FMEA, SPC, PPAP & MSA)",
+                    "authority": "QHSE"
+                },
+                {
+                    "name": "Internal Product and Process Auditor",
+                    "authority": "Minghua USA, Inc."
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Paint and Color Training"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Adhesive Bonding",
+                "Project Management",
+                "Production Part Approval Process (PPAP)",
+                "Six Sigma Green Belt"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Automotive | Manufacturing | Painted Exterior Parts | Polymer Adhesive Bonding | APQP | PPAP | Six Sigma | Problem Solving",
+            "summary": "Process driven and result oriented Quality Manager with management skills and qualified experience in the automotive industry. Specialized in painted, bonded, and assembled exterior parts as well as in OEM manufacturing. Experienced in project management starting from project development over SOP to production support with continuous improvement. \n\nSkilled in Quality Control, Control Plans, Manufacturing, PFMEA, SPC, MSA, PPAP, APQP, IATF 16949, ISO 9001, ISO 14001 as well as in Problem solving via 8D, DoE and customer specific requirements.\nExperienced in Project Management, Data Analysis, approved Product Safety & Conformity Representative and certified Green Belt.",
+            "student": false,
+            "industryName": "Automotive",
+            "industryUrn": "urn:li:fs_industry:53",
+            "geoLocationName": "Greenville, South Carolina",
+            "geoCountryName": "United States",
+            "jobTitle": "Quality Manager",
+            "companyName": "Yanfeng",
+            "companyPublicId": "yanfeng-global",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/yanfeng-global",
+            "following": false,
+            "followable": true,
+            "followersCount": 277,
+            "connectionsCount": 275,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Yanfeng",
+        "position": "Quality Manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Automotive"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Quality Manager",
+        "organization": "Yanfeng",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christoph-bauer-aa9a161a4/",
+        "company": "https://www.linkedin.com/company/yanfeng-global"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Quality Manager",
+            "locationName": "Chattanooga, Tennessee, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:10047989",
+                "entityUrn": "urn:li:fs_miniCompany:10047989",
+                "name": "Yanfeng",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGsaQGl_Nb3zg/company-logo_200_200/company-logo_200_200/0/1721610524443/yanfeng_global_logo?e=1747872000&v=beta&t=b-QoP5WqG7nHLUfWiHy_QkQn8gHu1cUOTW4lQEt_Z3s",
+                "universalName": "yanfeng-global",
+                "dashCompanyUrn": "urn:li:fsd_company:10047989",
+                "trackingId": "h5/OJDvwSGaMyUVzwEtmww=="
+            },
+            "companyName": "Yanfeng"
+        },
+        {
+            "title": "Quality Engineering",
+            "locationName": "Charleston, South Carolina Metropolitan Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:16162330",
+                "entityUrn": "urn:li:fs_miniCompany:16162330",
+                "name": "Volvo Car USA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFYpxKQsf55LA/company-logo_200_200/company-logo_200_200/0/1632316803769/volvo_car_usa_logo?e=1747872000&v=beta&t=WXgmrLmcmChfrx1pjQwjadUHXYOkOlXjTmxJJn886cw",
+                "universalName": "volvo-car-usa",
+                "dashCompanyUrn": "urn:li:fsd_company:16162330",
+                "trackingId": "TU8yRIEgSVCROSscTPU49g=="
+            },
+            "companyName": "Volvo Car USA"
+        },
+        {
+            "title": "Assistant Launch Manager",
+            "locationName": "Greer, South Carolina, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:25025212",
+                "entityUrn": "urn:li:fs_miniCompany:25025212",
+                "name": "Minghua USA, Inc.",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNkc7YV1SDYA/company-logo_200_200/company-logo_200_200/0/1630624093436/minghua_usa_logo?e=1747872000&v=beta&t=kEZHu7nH9g1uKvABRxixqK4z_F0u07pegg_i0x0vKWM",
+                "universalName": "minghua-usa",
+                "dashCompanyUrn": "urn:li:fsd_company:25025212",
+                "trackingId": "TG8kZBnhSPanBhI8D8UM8g=="
+            },
+            "companyName": "Minghua USA, Inc."
+        },
+        {
+            "title": "Program Quality Engineer",
+            "locationName": "Greer, South Carolina, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:25025212",
+                "entityUrn": "urn:li:fs_miniCompany:25025212",
+                "name": "Minghua USA, Inc.",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNkc7YV1SDYA/company-logo_200_200/company-logo_200_200/0/1630624093436/minghua_usa_logo?e=1747872000&v=beta&t=kEZHu7nH9g1uKvABRxixqK4z_F0u07pegg_i0x0vKWM",
+                "universalName": "minghua-usa",
+                "dashCompanyUrn": "urn:li:fsd_company:25025212",
+                "trackingId": "UJ/SZgjZRWqeY0H2xX05mw=="
+            },
+            "companyName": "Minghua USA, Inc."
+        },
+        {
+            "title": "Product Quality Engineer",
+            "locationName": "Greer, South Carolina, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:25025212",
+                "entityUrn": "urn:li:fs_miniCompany:25025212",
+                "name": "Minghua USA, Inc.",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNkc7YV1SDYA/company-logo_200_200/company-logo_200_200/0/1630624093436/minghua_usa_logo?e=1747872000&v=beta&t=kEZHu7nH9g1uKvABRxixqK4z_F0u07pegg_i0x0vKWM",
+                "universalName": "minghua-usa",
+                "dashCompanyUrn": "urn:li:fsd_company:25025212",
+                "trackingId": "/omc6VOQT6y/QfrJaIUDuw=="
+            },
+            "companyName": "Minghua USA, Inc."
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor's degree",
+            "fieldOfStudy": "Business Studies, Logistics",
+            "schoolName": "Ostbayerische Technische Hochschule Regensburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Mechanical Engineering & Electrical Engineering",
+            "schoolName": "Ostbayerische Technische Hochschule Regensburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Product Safety & Conformity Representative (PSCR),",
+            "authority": "Verband der Automobilindustrie (VDA) e.V."
+        },
+        {
+            "name": "Green Belt Certification (GB)",
+            "authority": "BMW of North America, LLC"
+        },
+        {
+            "name": "FMEA Training",
+            "authority": "TÜV SÜD"
+        },
+        {
+            "name": "Polyworks and Faroarm Training",
+            "authority": "PolyWorks USA"
+        },
+        {
+            "name": "Standard First Aid, CPR and AED",
+            "authority": "Cintas"
+        },
+        {
+            "name": "Quality Core Tool (APQP, FMEA, SPC, PPAP & MSA)",
+            "authority": "QHSE"
+        },
+        {
+            "name": "Internal Product and Process Auditor",
+            "authority": "Minghua USA, Inc."
+        }
+    ],
+    "skills": [
+        "Adhesive Bonding",
+        "Project Management",
+        "Production Part Approval Process (PPAP)",
+        "Six Sigma Green Belt"
+    ],
+    "lastEnriched": "2025-02-17"
+}

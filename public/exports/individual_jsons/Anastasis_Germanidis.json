@@ -1,0 +1,478 @@
+{
+    "id": "exp330475526",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Anastasis",
+        "lastName": "Germanidis",
+        "fullName": "Anastasis Germanidis",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQGYINn9WAb4dQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517505113450?e=1745452800&v=beta&t=6D2epdaCfVti2wJwegJEAtPMrtNZ8CUN2c6b_ZuqvzM",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "330475526",
+            "profileId": "ACoAABOyqAYB1JAPd_zx66HR2IuC7jyMzsfravY",
+            "firstName": "Anastasis",
+            "lastName": "Germanidis",
+            "occupation": "Co-Founder & CTO at Runway",
+            "publicIdentifier": "agermanidis",
+            "trackingId": "EyRbWnd/T3G/B3sVCgzBOg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGYINn9WAb4dQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517505113450?e=1745452800&v=beta&t=6D2epdaCfVti2wJwegJEAtPMrtNZ8CUN2c6b_ZuqvzM",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQFt_I2QklqisA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1654570574536?e=1745452800&v=beta&t=0mPtXYOIdslKr5Q9CkLvhHT153TdGwh6mqfXYyN9mEI",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102571732",
+            "positions": [
+                {
+                    "title": "Co-Founder & CTO",
+                    "description": "Next-generation content creation with artificial intelligence. We're hiring: https://runwayml.com/about",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:11741116",
+                        "entityUrn": "urn:li:fs_miniCompany:11741116",
+                        "name": "Runway",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHOWEwcB3DPyQ/company-logo_200_200/company-logo_200_200/0/1734713843703/runwayml_logo?e=1747872000&v=beta&t=DA2HZ86qMeCGZRHQwclI8wvM_R9HLYa181S2hRAGvM4",
+                        "universalName": "runwayml",
+                        "dashCompanyUrn": "urn:li:fsd_company:11741116",
+                        "trackingId": "0cSKLbUUT7SQU4D7PNeNXg=="
+                    },
+                    "companyName": "Runway"
+                },
+                {
+                    "title": "Backend Engineer",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Internet"
+                        ],
+                        "objectUrn": "urn:li:company:167902",
+                        "entityUrn": "urn:li:fs_miniCompany:167902",
+                        "name": "Zocdoc",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF3Me2Rta5YTw/company-logo_200_200/company-logo_200_200/0/1730829220463/zocdoc_logo?e=1747872000&v=beta&t=n0VSxEIwtcRiJBGL7PrGIzFCg08S1FePzYDtDk1mEmk",
+                        "universalName": "zocdoc",
+                        "dashCompanyUrn": "urn:li:fsd_company:167902",
+                        "trackingId": "c8UfG8IeT4e7ldBhXgIYxA=="
+                    },
+                    "companyName": "Zocdoc"
+                },
+                {
+                    "title": "Machine Learning Researcher - Computer Vision",
+                    "description": "* Summer & Fall Research Intern\n* Deep learning research in video understanding as part of the Multimedia and Vision group. \n",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "IBM Research"
+                },
+                {
+                    "title": "Backend Engineer",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1004390",
+                        "entityUrn": "urn:li:fs_miniCompany:1004390",
+                        "name": "Chartbeat",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQHltkESkDnaAA/company-logo_200_200/company-logo_200_200/0/1631393406768?e=1747872000&v=beta&t=HvyIdJdWH7-eE4Uw4V5gQ5Y5xNUs284ay-Pw2Z2wLuw",
+                        "universalName": "chartbeat",
+                        "dashCompanyUrn": "urn:li:fsd_company:1004390",
+                        "trackingId": "+vspakCeSN6abXMQ924hzg=="
+                    },
+                    "companyName": "Chartbeat"
+                },
+                {
+                    "title": "Backend Engineer",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:60540",
+                        "entityUrn": "urn:li:fs_miniCompany:60540",
+                        "name": "Quantcast",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHgcT9K-gw5dA/company-logo_200_200/company-logo_200_200/0/1719256306367/quantcast_logo?e=1747872000&v=beta&t=MArQszW1d30ii3R-bTwvVxrn0s5zjwh7UbUYSwQ0RRw",
+                        "universalName": "quantcast",
+                        "dashCompanyUrn": "urn:li:fsd_company:60540",
+                        "trackingId": "5dd7WXIpR8mn12ErZOjXZQ=="
+                    },
+                    "companyName": "Quantcast"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "MPS, Interactive Telecommunications Program",
+                    "fieldOfStudy": "Human Computer Interaction",
+                    "schoolName": "New York University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BA",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Wesleyan University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Verizon Connected Futures III Grant Winner",
+                    "issueDate": {
+                        "month": 2,
+                        "year": 2018
+                    },
+                    "issuer": "Verizon & NYC Media Lab"
+                },
+                {
+                    "title": "Havas NY Fellowship - Prototyping the Augmented Island Recipient",
+                    "issueDate": {
+                        "month": 2,
+                        "year": 2017
+                    },
+                    "issuer": "Havas & NYC Media Lab"
+                },
+                {
+                    "title": "NEON Postgraduate Studies Scholarship Recipient",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2016
+                    },
+                    "issuer": "Neon"
+                },
+                {
+                    "title": "Tisch School of the Arts Scholarship Recipient",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2016
+                    },
+                    "issuer": "New York University"
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Product Design",
+                "Distributed Systems",
+                "Machine Learning",
+                "Mobile Applications"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Co-Founder & CTO at Runway",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "New York, New York",
+            "geoCountryName": "United States",
+            "jobTitle": "Co-Founder & CTO",
+            "companyName": "Runway",
+            "companyPublicId": "runwayml",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/runwayml",
+            "following": false,
+            "followable": true,
+            "followersCount": 2982,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "Runway",
+        "position": "Co-Founder & CTO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder & CTO",
+        "organization": "Runway",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/agermanidis/",
+        "company": "https://www.linkedin.com/company/runwayml"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder & CTO",
+            "description": "Next-generation content creation with artificial intelligence. We're hiring: https://runwayml.com/about",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:11741116",
+                "entityUrn": "urn:li:fs_miniCompany:11741116",
+                "name": "Runway",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHOWEwcB3DPyQ/company-logo_200_200/company-logo_200_200/0/1734713843703/runwayml_logo?e=1747872000&v=beta&t=DA2HZ86qMeCGZRHQwclI8wvM_R9HLYa181S2hRAGvM4",
+                "universalName": "runwayml",
+                "dashCompanyUrn": "urn:li:fsd_company:11741116",
+                "trackingId": "0cSKLbUUT7SQU4D7PNeNXg=="
+            },
+            "companyName": "Runway"
+        },
+        {
+            "title": "Backend Engineer",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Internet"
+                ],
+                "objectUrn": "urn:li:company:167902",
+                "entityUrn": "urn:li:fs_miniCompany:167902",
+                "name": "Zocdoc",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF3Me2Rta5YTw/company-logo_200_200/company-logo_200_200/0/1730829220463/zocdoc_logo?e=1747872000&v=beta&t=n0VSxEIwtcRiJBGL7PrGIzFCg08S1FePzYDtDk1mEmk",
+                "universalName": "zocdoc",
+                "dashCompanyUrn": "urn:li:fsd_company:167902",
+                "trackingId": "c8UfG8IeT4e7ldBhXgIYxA=="
+            },
+            "companyName": "Zocdoc"
+        },
+        {
+            "title": "Machine Learning Researcher - Computer Vision",
+            "description": "* Summer & Fall Research Intern\n* Deep learning research in video understanding as part of the Multimedia and Vision group. \n",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2017
+                }
+            },
+            "companyName": "IBM Research"
+        },
+        {
+            "title": "Backend Engineer",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1004390",
+                "entityUrn": "urn:li:fs_miniCompany:1004390",
+                "name": "Chartbeat",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHltkESkDnaAA/company-logo_200_200/company-logo_200_200/0/1631393406768?e=1747872000&v=beta&t=HvyIdJdWH7-eE4Uw4V5gQ5Y5xNUs284ay-Pw2Z2wLuw",
+                "universalName": "chartbeat",
+                "dashCompanyUrn": "urn:li:fsd_company:1004390",
+                "trackingId": "+vspakCeSN6abXMQ924hzg=="
+            },
+            "companyName": "Chartbeat"
+        },
+        {
+            "title": "Backend Engineer",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:60540",
+                "entityUrn": "urn:li:fs_miniCompany:60540",
+                "name": "Quantcast",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHgcT9K-gw5dA/company-logo_200_200/company-logo_200_200/0/1719256306367/quantcast_logo?e=1747872000&v=beta&t=MArQszW1d30ii3R-bTwvVxrn0s5zjwh7UbUYSwQ0RRw",
+                "universalName": "quantcast",
+                "dashCompanyUrn": "urn:li:fsd_company:60540",
+                "trackingId": "5dd7WXIpR8mn12ErZOjXZQ=="
+            },
+            "companyName": "Quantcast"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "MPS, Interactive Telecommunications Program",
+            "fieldOfStudy": "Human Computer Interaction",
+            "schoolName": "New York University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "degreeName": "BA",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Wesleyan University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Product Design",
+        "Distributed Systems",
+        "Machine Learning",
+        "Mobile Applications"
+    ],
+    "lastEnriched": "2025-02-17"
+}

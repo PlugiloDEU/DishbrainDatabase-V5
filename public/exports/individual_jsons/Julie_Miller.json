@@ -1,0 +1,440 @@
+{
+    "id": "exp140978389",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Julie",
+        "lastName": "Miller",
+        "fullName": "Julie Miller",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQEqChw2o1r7aQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516867914999?e=1745452800&v=beta&t=wEt5y8R5s6jeYsKyv6jw9JpfV_L_OEjKLDAGBZUm18A",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "140978389",
+            "profileId": "ACoAAAhnKNUBaiWSdQWq7o7mRM_XgghkFhjlvUQ",
+            "firstName": "Julie",
+            "lastName": "Miller",
+            "occupation": "Specialist Endocrine Surgeon Professor of Surgery",
+            "publicIdentifier": "julie-miller-8712683b",
+            "trackingId": "yRpVkQO6Rf6aZX1vg2D1Eg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQEqChw2o1r7aQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516867914999?e=1745452800&v=beta&t=wEt5y8R5s6jeYsKyv6jw9JpfV_L_OEjKLDAGBZUm18A",
+            "countryCode": "au",
+            "geoUrn": "urn:li:fs_geo:90009521",
+            "positions": [
+                {
+                    "title": "Professor of Surgery",
+                    "locationName": "Australia",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:5677",
+                        "entityUrn": "urn:li:fs_miniCompany:5677",
+                        "name": "University of Melbourne",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEACkXGOAWOFg/company-logo_200_200/company-logo_200_200/0/1691363410465?e=1747872000&v=beta&t=DKCdc4cEdHIawDdh-pQ_02rsZTDTKXRGqGk8NONp50I",
+                        "universalName": "university-of-melbourne",
+                        "dashCompanyUrn": "urn:li:fsd_company:5677",
+                        "trackingId": "kwLzvBcOSyOJoXFjlLa0qg=="
+                    },
+                    "companyName": "University of Melbourne"
+                },
+                {
+                    "title": "Head of Endocrine Surgery, The Royal Melbourne Hospital",
+                    "locationName": "Australia",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:32806",
+                        "entityUrn": "urn:li:fs_miniCompany:32806",
+                        "name": "The Royal Melbourne Hospital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqIzImmqsILg/company-logo_200_200/company-logo_200_200/0/1725238760175/theroyalmelbournehospital_logo?e=1747872000&v=beta&t=Sj7tKHtkGYcrMDe9GXKsoszJOfXRY0U08SD6g8COODg",
+                        "universalName": "theroyalmelbournehospital",
+                        "dashCompanyUrn": "urn:li:fsd_company:32806",
+                        "trackingId": "3Gd2F4y3QK2W/KTcKvbmUQ=="
+                    },
+                    "companyName": "The Royal Melbourne Hospital"
+                },
+                {
+                    "title": "Endocrine Surgeon",
+                    "description": "Thyroid surgeon\nParathyroid surgeon\nAdrenal surgeon",
+                    "locationName": "Melbourne, Australia",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:81661",
+                        "entityUrn": "urn:li:fs_miniCompany:81661",
+                        "name": "Epworth",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFxzbocYKN5CQ/company-logo_200_200/company-logo_200_200/0/1630642906550/epworth__logo?e=1747872000&v=beta&t=lB4xmnF6Ey-lkUswKeoS1dkcSC5yUNXCBYsnab8wOB0",
+                        "universalName": "epworth-",
+                        "dashCompanyUrn": "urn:li:fsd_company:81661",
+                        "trackingId": "P3qhZ9UNSfGuhjcSI+Sp5A=="
+                    },
+                    "companyName": "Epworth Hospital"
+                },
+                {
+                    "title": "Head of Thyroid and Endocrine Tumour Group",
+                    "description": "Thyroid cancer care\nCare of endocrine tumours\nChair MDM\nEducate trainee surgeons",
+                    "locationName": "Royal Melbourne Hospital",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2005
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:32806",
+                        "entityUrn": "urn:li:fs_miniCompany:32806",
+                        "name": "The Royal Melbourne Hospital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqIzImmqsILg/company-logo_200_200/company-logo_200_200/0/1725238760175/theroyalmelbournehospital_logo?e=1747872000&v=beta&t=Sj7tKHtkGYcrMDe9GXKsoszJOfXRY0U08SD6g8COODg",
+                        "universalName": "theroyalmelbournehospital",
+                        "dashCompanyUrn": "urn:li:fsd_company:32806",
+                        "trackingId": "8pPJ5qblSouqYjUOLI2MxQ=="
+                    },
+                    "companyName": "Melbourne Health"
+                },
+                {
+                    "title": "Endocrine Surgeon",
+                    "description": "Professor of Surgery\nHead of Endocrine Surgery \nChair of Thyroid Cancer MDT\nSpecialist Endocrine Surgeon\nThyroid Surgeon\nParathyroid Surgeon\nAdrenal Surgeon",
+                    "locationName": "Royal Melbourne Hospital",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2001
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:32806",
+                        "entityUrn": "urn:li:fs_miniCompany:32806",
+                        "name": "The Royal Melbourne Hospital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqIzImmqsILg/company-logo_200_200/company-logo_200_200/0/1725238760175/theroyalmelbournehospital_logo?e=1747872000&v=beta&t=Sj7tKHtkGYcrMDe9GXKsoszJOfXRY0U08SD6g8COODg",
+                        "universalName": "theroyalmelbournehospital",
+                        "dashCompanyUrn": "urn:li:fsd_company:32806",
+                        "trackingId": "qs2BS+ahQcm13NnHyncu0Q=="
+                    },
+                    "companyName": "Melbourne Health"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "MD",
+                    "fieldOfStudy": "Medicine",
+                    "schoolName": "Washington University in St. Louis School of Medicine",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1996
+                        },
+                        "startDate": {
+                            "year": 1992
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BA",
+                    "fieldOfStudy": "Plan II, Liberal Arts",
+                    "schoolName": "The University of Texas at Austin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1992
+                        },
+                        "startDate": {
+                            "year": 1987
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Minimally invasive parathyroid surgery",
+                "Minimally invasive adrenal surgery",
+                "Thyroid surgery",
+                "Thyroid and Parathyroid Ultrasound and FNA"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Specialist Endocrine Surgeon\nProfessor of Surgery",
+            "student": false,
+            "industryName": "Hospital & Health Care",
+            "industryUrn": "urn:li:fs_industry:14",
+            "geoLocationName": "Greater Melbourne Area",
+            "geoCountryName": "Australia",
+            "jobTitle": "Professor of Surgery",
+            "companyName": "University of Melbourne",
+            "companyPublicId": "university-of-melbourne",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/university-of-melbourne",
+            "following": false,
+            "followable": true,
+            "followersCount": 758,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "University of Melbourne",
+        "position": "Professor of Surgery",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor of Surgery",
+        "organization": "University of Melbourne",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/julie-miller-8712683b/",
+        "company": "https://www.linkedin.com/company/university-of-melbourne"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor of Surgery",
+            "locationName": "Australia",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:5677",
+                "entityUrn": "urn:li:fs_miniCompany:5677",
+                "name": "University of Melbourne",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEACkXGOAWOFg/company-logo_200_200/company-logo_200_200/0/1691363410465?e=1747872000&v=beta&t=DKCdc4cEdHIawDdh-pQ_02rsZTDTKXRGqGk8NONp50I",
+                "universalName": "university-of-melbourne",
+                "dashCompanyUrn": "urn:li:fsd_company:5677",
+                "trackingId": "kwLzvBcOSyOJoXFjlLa0qg=="
+            },
+            "companyName": "University of Melbourne"
+        },
+        {
+            "title": "Head of Endocrine Surgery, The Royal Melbourne Hospital",
+            "locationName": "Australia",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:32806",
+                "entityUrn": "urn:li:fs_miniCompany:32806",
+                "name": "The Royal Melbourne Hospital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqIzImmqsILg/company-logo_200_200/company-logo_200_200/0/1725238760175/theroyalmelbournehospital_logo?e=1747872000&v=beta&t=Sj7tKHtkGYcrMDe9GXKsoszJOfXRY0U08SD6g8COODg",
+                "universalName": "theroyalmelbournehospital",
+                "dashCompanyUrn": "urn:li:fsd_company:32806",
+                "trackingId": "3Gd2F4y3QK2W/KTcKvbmUQ=="
+            },
+            "companyName": "The Royal Melbourne Hospital"
+        },
+        {
+            "title": "Endocrine Surgeon",
+            "description": "Thyroid surgeon\nParathyroid surgeon\nAdrenal surgeon",
+            "locationName": "Melbourne, Australia",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:81661",
+                "entityUrn": "urn:li:fs_miniCompany:81661",
+                "name": "Epworth",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFxzbocYKN5CQ/company-logo_200_200/company-logo_200_200/0/1630642906550/epworth__logo?e=1747872000&v=beta&t=lB4xmnF6Ey-lkUswKeoS1dkcSC5yUNXCBYsnab8wOB0",
+                "universalName": "epworth-",
+                "dashCompanyUrn": "urn:li:fsd_company:81661",
+                "trackingId": "P3qhZ9UNSfGuhjcSI+Sp5A=="
+            },
+            "companyName": "Epworth Hospital"
+        },
+        {
+            "title": "Head of Thyroid and Endocrine Tumour Group",
+            "description": "Thyroid cancer care\nCare of endocrine tumours\nChair MDM\nEducate trainee surgeons",
+            "locationName": "Royal Melbourne Hospital",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2005
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:32806",
+                "entityUrn": "urn:li:fs_miniCompany:32806",
+                "name": "The Royal Melbourne Hospital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqIzImmqsILg/company-logo_200_200/company-logo_200_200/0/1725238760175/theroyalmelbournehospital_logo?e=1747872000&v=beta&t=Sj7tKHtkGYcrMDe9GXKsoszJOfXRY0U08SD6g8COODg",
+                "universalName": "theroyalmelbournehospital",
+                "dashCompanyUrn": "urn:li:fsd_company:32806",
+                "trackingId": "8pPJ5qblSouqYjUOLI2MxQ=="
+            },
+            "companyName": "Melbourne Health"
+        },
+        {
+            "title": "Endocrine Surgeon",
+            "description": "Professor of Surgery\nHead of Endocrine Surgery \nChair of Thyroid Cancer MDT\nSpecialist Endocrine Surgeon\nThyroid Surgeon\nParathyroid Surgeon\nAdrenal Surgeon",
+            "locationName": "Royal Melbourne Hospital",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2001
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:32806",
+                "entityUrn": "urn:li:fs_miniCompany:32806",
+                "name": "The Royal Melbourne Hospital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEqIzImmqsILg/company-logo_200_200/company-logo_200_200/0/1725238760175/theroyalmelbournehospital_logo?e=1747872000&v=beta&t=Sj7tKHtkGYcrMDe9GXKsoszJOfXRY0U08SD6g8COODg",
+                "universalName": "theroyalmelbournehospital",
+                "dashCompanyUrn": "urn:li:fsd_company:32806",
+                "trackingId": "qs2BS+ahQcm13NnHyncu0Q=="
+            },
+            "companyName": "Melbourne Health"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "MD",
+            "fieldOfStudy": "Medicine",
+            "schoolName": "Washington University in St. Louis School of Medicine",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            }
+        },
+        {
+            "degreeName": "BA",
+            "fieldOfStudy": "Plan II, Liberal Arts",
+            "schoolName": "The University of Texas at Austin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1992
+                },
+                "startDate": {
+                    "year": 1987
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Minimally invasive parathyroid surgery",
+        "Minimally invasive adrenal surgery",
+        "Thyroid surgery",
+        "Thyroid and Parathyroid Ultrasound and FNA"
+    ],
+    "lastEnriched": "2025-02-17"
+}

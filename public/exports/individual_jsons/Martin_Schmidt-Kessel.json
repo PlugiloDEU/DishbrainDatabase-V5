@@ -1,0 +1,428 @@
+{
+    "id": "exp26017595",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Martin",
+        "lastName": "Schmidt-Kessel",
+        "fullName": "Martin Schmidt-Kessel",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQFISSP9df02-Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517736269905?e=1745452800&v=beta&t=iEkocqxrYmBF-NKTYmQgJEnYlFt-WzRBmpNW7BBcLT4",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "26017595",
+            "profileId": "ACoAAAGM_zsBt1hM2hWSB4CxEUB3crTy_EOO2OA",
+            "firstName": "Martin",
+            "lastName": "Schmidt-Kessel",
+            "occupation": "Professor for consumer law at Bayreuth University",
+            "publicIdentifier": "martin-schmidt-kessel-58b8688",
+            "trackingId": "D+/Oc2NfSvas98JoYHFPrw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFISSP9df02-Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517736269905?e=1745452800&v=beta&t=iEkocqxrYmBF-NKTYmQgJEnYlFt-WzRBmpNW7BBcLT4",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQFqFTerP_fQ3w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1711127866626?e=1745452800&v=beta&t=zqJyiWHV-ooXWvrmN45CsaUWN4ZAJpeFUre6Nxd6Qnc",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101282230",
+            "positions": [
+                {
+                    "title": "Prof. Dr.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:30761",
+                        "entityUrn": "urn:li:fs_miniCompany:30761",
+                        "name": "University of Bayreuth",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGEF2qTvTKM1A/company-logo_200_200/company-logo_200_200/0/1630457517640/university_of_bayreuth_logo?e=1747872000&v=beta&t=bQbqDciinZWFIvQbD5VSs5r6lblI3Vs6ydsoI1qjGBo",
+                        "universalName": "university-of-bayreuth",
+                        "dashCompanyUrn": "urn:li:fsd_company:30761",
+                        "trackingId": "Xu/jpRPJTcC5eaarZ4DUoA=="
+                    },
+                    "companyName": "University of Bayreuth"
+                },
+                {
+                    "title": "Visiting Professor",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:20613",
+                        "entityUrn": "urn:li:fs_miniCompany:20613",
+                        "name": "University of Verona",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGJs3GnAZZZtA/company-logo_200_200/company-logo_200_200/0/1630639305095/university_of_verona_logo?e=1747872000&v=beta&t=Emt6JpZQtZfTHaaMOyPiDk3bvHESdVk20uIBkUUiiec",
+                        "universalName": "university-of-verona",
+                        "dashCompanyUrn": "urn:li:fsd_company:20613",
+                        "trackingId": "ofu/FiZVT4KWL1EZCw6jMA=="
+                    },
+                    "companyName": "University of Verona"
+                },
+                {
+                    "title": "Prof. Dr.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2004
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:45458",
+                        "entityUrn": "urn:li:fs_miniCompany:45458",
+                        "name": "Universität Osnabrück",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                        "universalName": "osnabrueck-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:45458",
+                        "trackingId": "XDZgWOhdRSO3JLK+ulJ6ag=="
+                    },
+                    "companyName": "University of Osnabrueck"
+                },
+                {
+                    "title": "Wissenschaftlicher Assistent",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 1993
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1763186",
+                        "entityUrn": "urn:li:fs_miniCompany:1763186",
+                        "name": "The University of Freiburg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGWRw584ibV7Q/company-logo_200_200/company-logo_200_200/0/1677671036177/albert_ludwigs_universitaet_freiburg_logo?e=1747872000&v=beta&t=VgdFf8Q6_fZYb9sS9ygLjicxaa4xRmNtS0_amSxxLFA",
+                        "universalName": "albert-ludwigs-universitaet-freiburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:1763186",
+                        "trackingId": "eon0w9NuTxC3cEQJvmN4wg=="
+                    },
+                    "companyName": "The University of Freiburg"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Staatsexamen",
+                    "fieldOfStudy": "Rechtswissenschaften",
+                    "schoolName": "The University of Freiburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 1993
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 1991
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Staatsexamen",
+                    "fieldOfStudy": "Rechtswissenschaften",
+                    "schoolName": "University of Cologne",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 1991
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 1990
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Staatsexamen",
+                    "fieldOfStudy": "Rechtswissenschaften",
+                    "schoolName": "Ludwig-Maximilians-Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 1990
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 1990
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "International Law",
+                "Lecturing",
+                "European Law",
+                "Research"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor for consumer law at Bayreuth University",
+            "student": false,
+            "industryName": "Legal Services",
+            "industryUrn": "urn:li:fs_industry:10",
+            "geoCountryName": "Germany",
+            "jobTitle": "Prof. Dr.",
+            "companyName": "University of Bayreuth",
+            "companyPublicId": "university-of-bayreuth",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/university-of-bayreuth",
+            "following": false,
+            "followable": true,
+            "followersCount": 6413,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "University of Bayreuth",
+        "position": "Prof. Dr.",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Prof. Dr.",
+        "organization": "University of Bayreuth",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/martin-schmidt-kessel-58b8688/",
+        "company": "https://www.linkedin.com/company/university-of-bayreuth"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Prof. Dr.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:30761",
+                "entityUrn": "urn:li:fs_miniCompany:30761",
+                "name": "University of Bayreuth",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGEF2qTvTKM1A/company-logo_200_200/company-logo_200_200/0/1630457517640/university_of_bayreuth_logo?e=1747872000&v=beta&t=bQbqDciinZWFIvQbD5VSs5r6lblI3Vs6ydsoI1qjGBo",
+                "universalName": "university-of-bayreuth",
+                "dashCompanyUrn": "urn:li:fsd_company:30761",
+                "trackingId": "Xu/jpRPJTcC5eaarZ4DUoA=="
+            },
+            "companyName": "University of Bayreuth"
+        },
+        {
+            "title": "Visiting Professor",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:20613",
+                "entityUrn": "urn:li:fs_miniCompany:20613",
+                "name": "University of Verona",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGJs3GnAZZZtA/company-logo_200_200/company-logo_200_200/0/1630639305095/university_of_verona_logo?e=1747872000&v=beta&t=Emt6JpZQtZfTHaaMOyPiDk3bvHESdVk20uIBkUUiiec",
+                "universalName": "university-of-verona",
+                "dashCompanyUrn": "urn:li:fsd_company:20613",
+                "trackingId": "ofu/FiZVT4KWL1EZCw6jMA=="
+            },
+            "companyName": "University of Verona"
+        },
+        {
+            "title": "Prof. Dr.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2004
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:45458",
+                "entityUrn": "urn:li:fs_miniCompany:45458",
+                "name": "Universität Osnabrück",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                "universalName": "osnabrueck-university",
+                "dashCompanyUrn": "urn:li:fsd_company:45458",
+                "trackingId": "XDZgWOhdRSO3JLK+ulJ6ag=="
+            },
+            "companyName": "University of Osnabrueck"
+        },
+        {
+            "title": "Wissenschaftlicher Assistent",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2003
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 1993
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1763186",
+                "entityUrn": "urn:li:fs_miniCompany:1763186",
+                "name": "The University of Freiburg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGWRw584ibV7Q/company-logo_200_200/company-logo_200_200/0/1677671036177/albert_ludwigs_universitaet_freiburg_logo?e=1747872000&v=beta&t=VgdFf8Q6_fZYb9sS9ygLjicxaa4xRmNtS0_amSxxLFA",
+                "universalName": "albert-ludwigs-universitaet-freiburg",
+                "dashCompanyUrn": "urn:li:fsd_company:1763186",
+                "trackingId": "eon0w9NuTxC3cEQJvmN4wg=="
+            },
+            "companyName": "The University of Freiburg"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Staatsexamen",
+            "fieldOfStudy": "Rechtswissenschaften",
+            "schoolName": "The University of Freiburg",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 1993
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 1991
+                }
+            }
+        },
+        {
+            "degreeName": "Staatsexamen",
+            "fieldOfStudy": "Rechtswissenschaften",
+            "schoolName": "University of Cologne",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 1991
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 1990
+                }
+            }
+        },
+        {
+            "degreeName": "Staatsexamen",
+            "fieldOfStudy": "Rechtswissenschaften",
+            "schoolName": "Ludwig-Maximilians-Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 1990
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 1990
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "International Law",
+        "Lecturing",
+        "European Law",
+        "Research"
+    ],
+    "lastEnriched": "2025-02-17"
+}

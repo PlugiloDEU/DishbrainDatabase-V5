@@ -1,0 +1,476 @@
+{
+    "id": "exp229872266",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Ole",
+        "lastName": "Reissmann",
+        "fullName": "Ole Reissmann",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFTxH_UN1N9Fw/profile-displayphoto-shrink_200_200/B4EZO2M5ezGYAY-/0/1733928655212?e=1745452800&v=beta&t=XT9z-Du1mEaXW1Uj3WdMSa58WWLfuvzhQSDnWJIU-ek",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "229872266",
+            "profileId": "ACoAAA2zkooB5995JnM_bp-WwRKB_R1lERna-iI",
+            "firstName": "Ole",
+            "lastName": "Reissmann",
+            "occupation": "AI and Journalism at DER SPIEGEL",
+            "publicIdentifier": "ole-reissmann",
+            "trackingId": "xlL0KfezRxOPP8oVIsQk2A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFTxH_UN1N9Fw/profile-displayphoto-shrink_200_200/B4EZO2M5ezGYAY-/0/1733928655212?e=1745452800&v=beta&t=XT9z-Du1mEaXW1Uj3WdMSa58WWLfuvzhQSDnWJIU-ek",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQHo6udCcxxKHg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517610711273?e=1745452800&v=beta&t=8_sED8n0c77glZIAJXnNs9NujoE3GUVQDSH0Z-4Bw34",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106430557",
+            "positions": [
+                {
+                    "title": "Director AI",
+                    "locationName": "Hamburg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Publishing"
+                        ],
+                        "objectUrn": "urn:li:company:79040698",
+                        "entityUrn": "urn:li:fs_miniCompany:79040698",
+                        "name": "SPIEGEL-Gruppe",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGABioSej13iA/company-logo_200_200/company-logo_200_200/0/1644503089518?e=1747872000&v=beta&t=BeNBDuCHdZLVuJSo4D1NG7JlnE5-xVAxHr7TlCufhzc",
+                        "universalName": "spiegel-gruppe",
+                        "dashCompanyUrn": "urn:li:fsd_company:79040698",
+                        "trackingId": "0mA0V9UjQimMi+KhfVLxdg=="
+                    },
+                    "companyName": "SPIEGEL-Gruppe"
+                },
+                {
+                    "title": "Head of Audio",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:820258",
+                        "entityUrn": "urn:li:fs_miniCompany:820258",
+                        "name": "DER SPIEGEL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                        "universalName": "der-spiegel",
+                        "dashCompanyUrn": "urn:li:fsd_company:820258",
+                        "trackingId": "QUZtvooaS8OEQJikSKcmGA=="
+                    },
+                    "companyName": "DER SPIEGEL"
+                },
+                {
+                    "title": "Managing Editor",
+                    "locationName": "Hamburg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:820258",
+                        "entityUrn": "urn:li:fs_miniCompany:820258",
+                        "name": "DER SPIEGEL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                        "universalName": "der-spiegel",
+                        "dashCompanyUrn": "urn:li:fsd_company:820258",
+                        "trackingId": "AMdDuf+YTYWdFxQUp1fBlA=="
+                    },
+                    "companyName": "DER SPIEGEL"
+                },
+                {
+                    "title": "Managing Editor",
+                    "locationName": "Hamburg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:820258",
+                        "entityUrn": "urn:li:fs_miniCompany:820258",
+                        "name": "DER SPIEGEL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                        "universalName": "der-spiegel",
+                        "dashCompanyUrn": "urn:li:fsd_company:820258",
+                        "trackingId": "wddSZQerTUKfX+d/bItBhw=="
+                    },
+                    "companyName": "SPIEGEL ONLINE"
+                },
+                {
+                    "title": "Editorial Development",
+                    "locationName": "Hamburg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:820258",
+                        "entityUrn": "urn:li:fs_miniCompany:820258",
+                        "name": "DER SPIEGEL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                        "universalName": "der-spiegel",
+                        "dashCompanyUrn": "urn:li:fsd_company:820258",
+                        "trackingId": "gTYoEYHETGCbcifrBMjBng=="
+                    },
+                    "companyName": "SPIEGEL ONLINE"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Arts - MA",
+                    "fieldOfStudy": "Journalism",
+                    "schoolName": "Hamburg Media School",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Arts - BA",
+                    "fieldOfStudy": "Political Science",
+                    "schoolName": "Universität Bremen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Data Analytics",
+                "Strategy",
+                "Public Speaking",
+                "Team Building"
+            ],
+            "volunteerExperiences": [],
+            "headline": "AI and Journalism at DER SPIEGEL",
+            "summary": "I'm a journalist who builds stuff. At SPIEGEL, I launched podcasts, apps, and newsletters, built and managed a newsroom, led teams, and developed platform strategies. Now I'm into AI.\n\nI teach product thinking for journalists at Hamburg Media School and the Institute for Arts and Media Management at Hamburg's HfMT.\n\nI've written about the Snowden leaks, hackers, activists, artists, and digital politics. My work has been cited in legal cases, the German Bundestag, and Wikipedia.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Hamburg, Hamburg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Director AI",
+            "companyName": "SPIEGEL-Gruppe",
+            "companyPublicId": "spiegel-gruppe",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/spiegel-gruppe",
+            "following": false,
+            "followable": true,
+            "followersCount": 2542,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "SPIEGEL-Gruppe",
+        "position": "Director AI",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Publishing"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director AI",
+        "organization": "SPIEGEL-Gruppe",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/ole-reissmann/",
+        "company": "https://www.linkedin.com/company/spiegel-gruppe"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director AI",
+            "locationName": "Hamburg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Publishing"
+                ],
+                "objectUrn": "urn:li:company:79040698",
+                "entityUrn": "urn:li:fs_miniCompany:79040698",
+                "name": "SPIEGEL-Gruppe",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGABioSej13iA/company-logo_200_200/company-logo_200_200/0/1644503089518?e=1747872000&v=beta&t=BeNBDuCHdZLVuJSo4D1NG7JlnE5-xVAxHr7TlCufhzc",
+                "universalName": "spiegel-gruppe",
+                "dashCompanyUrn": "urn:li:fsd_company:79040698",
+                "trackingId": "0mA0V9UjQimMi+KhfVLxdg=="
+            },
+            "companyName": "SPIEGEL-Gruppe"
+        },
+        {
+            "title": "Head of Audio",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:820258",
+                "entityUrn": "urn:li:fs_miniCompany:820258",
+                "name": "DER SPIEGEL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                "universalName": "der-spiegel",
+                "dashCompanyUrn": "urn:li:fsd_company:820258",
+                "trackingId": "QUZtvooaS8OEQJikSKcmGA=="
+            },
+            "companyName": "DER SPIEGEL"
+        },
+        {
+            "title": "Managing Editor",
+            "locationName": "Hamburg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:820258",
+                "entityUrn": "urn:li:fs_miniCompany:820258",
+                "name": "DER SPIEGEL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                "universalName": "der-spiegel",
+                "dashCompanyUrn": "urn:li:fsd_company:820258",
+                "trackingId": "AMdDuf+YTYWdFxQUp1fBlA=="
+            },
+            "companyName": "DER SPIEGEL"
+        },
+        {
+            "title": "Managing Editor",
+            "locationName": "Hamburg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:820258",
+                "entityUrn": "urn:li:fs_miniCompany:820258",
+                "name": "DER SPIEGEL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                "universalName": "der-spiegel",
+                "dashCompanyUrn": "urn:li:fsd_company:820258",
+                "trackingId": "wddSZQerTUKfX+d/bItBhw=="
+            },
+            "companyName": "SPIEGEL ONLINE"
+        },
+        {
+            "title": "Editorial Development",
+            "locationName": "Hamburg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:820258",
+                "entityUrn": "urn:li:fs_miniCompany:820258",
+                "name": "DER SPIEGEL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFfxm8BoCPlw/company-logo_200_200/company-logo_200_200/0/1630617288364/spiegel_online_logo?e=1747872000&v=beta&t=-PCgTs7Lb6GIElZXs73GIC-VGmMeNkJOqI_4AU4Q7I0",
+                "universalName": "der-spiegel",
+                "dashCompanyUrn": "urn:li:fsd_company:820258",
+                "trackingId": "gTYoEYHETGCbcifrBMjBng=="
+            },
+            "companyName": "SPIEGEL ONLINE"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Arts - MA",
+            "fieldOfStudy": "Journalism",
+            "schoolName": "Hamburg Media School",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Arts - BA",
+            "fieldOfStudy": "Political Science",
+            "schoolName": "Universität Bremen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Data Analytics",
+        "Strategy",
+        "Public Speaking",
+        "Team Building"
+    ],
+    "lastEnriched": "2025-02-17"
+}

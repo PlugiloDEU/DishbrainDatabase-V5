@@ -1,0 +1,465 @@
+{
+    "id": "exp555089355",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Max",
+        "lastName": "Gerken",
+        "fullName": "Max Gerken",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQHE-2BF4UoecQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1629152863615?e=1745452800&v=beta&t=-oOVOjuIDagzSWnwrtjUPTTapYhyMwparG-QWMppT0I",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "555089355",
+            "profileId": "ACoAACEV_csBBf3YrUX5AGesEHNqzgfFqW6mQ5A",
+            "firstName": "Max",
+            "lastName": "Gerken",
+            "occupation": "Tax Associate at Paychex",
+            "publicIdentifier": "maxgerken",
+            "trackingId": "tkxsi5C8SeGv4kfE4obbAw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHE-2BF4UoecQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1629152863615?e=1745452800&v=beta&t=-oOVOjuIDagzSWnwrtjUPTTapYhyMwparG-QWMppT0I",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFnF0nwxLTX_g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1629405356880?e=1745452800&v=beta&t=RzURQsVCyzU7uSEE_VyFTBvBYKEJlOaiceYlSeuHhQM",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103736294",
+            "positions": [
+                {
+                    "title": "Tax Associate",
+                    "locationName": "Denver, Colorado",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Human Resources"
+                        ],
+                        "objectUrn": "urn:li:company:4255",
+                        "entityUrn": "urn:li:fs_miniCompany:4255",
+                        "name": "Paychex",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGgCO8be7TBCw/company-logo_200_200/company-logo_200_200/0/1630653813842?e=1747872000&v=beta&t=UBWpQCTy8ELWPmOoJjzjOXcvx78ozvTbY8att3hPI_w",
+                        "universalName": "paychex",
+                        "dashCompanyUrn": "urn:li:fsd_company:4255",
+                        "trackingId": "rDo9XcY9RCOd3ZH2iG1dBg=="
+                    },
+                    "companyName": "Paychex"
+                },
+                {
+                    "title": "Client Banking Services Professional",
+                    "locationName": "Lone Tree, Colorado",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1855",
+                        "entityUrn": "urn:li:fs_miniCompany:1855",
+                        "name": "Charles Schwab",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFAw4THBAMbA/company-logo_200_200/company-logo_200_200/0/1675730284249/charles_schwab_logo?e=1747872000&v=beta&t=oEHO3irXDV31iviaNAu70vhkizcAkG_KdRjJLjkK4ss",
+                        "universalName": "charles-schwab",
+                        "dashCompanyUrn": "urn:li:fsd_company:1855",
+                        "trackingId": "kHzWa18SRoqfrrpw/EtUeQ=="
+                    },
+                    "companyName": "Charles Schwab"
+                },
+                {
+                    "title": "Associate Client Advisor",
+                    "locationName": "Denver, Colorado",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:13311",
+                        "entityUrn": "urn:li:fs_miniCompany:13311",
+                        "name": "Bessemer Trust",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHDhd7T1oldQg/company-logo_200_200/company-logo_200_200/0/1630596441662/bessemer_trust_logo?e=1747872000&v=beta&t=ugLXRqzc7tv5yXDi2wrBjeeKhIo6ezE2IwxbQ1XHYMA",
+                        "universalName": "bessemer-trust",
+                        "dashCompanyUrn": "urn:li:fsd_company:13311",
+                        "trackingId": "HCyOPxpVQA+wAC024MLQKg=="
+                    },
+                    "companyName": "Bessemer Trust"
+                },
+                {
+                    "title": "Relationship Manager",
+                    "locationName": "Centennial, Colorado",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2013
+                        }
+                    },
+                    "companyName": "Trust Company of America"
+                },
+                {
+                    "title": "Summer Internship",
+                    "locationName": "Newport Beach, California",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:7970",
+                        "entityUrn": "urn:li:fs_miniCompany:7970",
+                        "name": "PIMCO",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGrMVy2RBZREA/company-logo_200_200/company-logo_200_200/0/1728672795323/pimco_logo?e=1747872000&v=beta&t=AGWtEXm9IzsnPdMiGkxBVXDozL39-VEDKwZxEj01mW8",
+                        "universalName": "pimco",
+                        "dashCompanyUrn": "urn:li:fsd_company:7970",
+                        "trackingId": "qjrBGjhOTw+XD1A0EkSxvg=="
+                    },
+                    "companyName": "PIMCO"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Arts (B.A.)",
+                    "fieldOfStudy": "Economics",
+                    "schoolName": "Colorado College",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Claritas® Investment Certificate",
+                    "authority": "CFA Institute"
+                },
+                {
+                    "name": "Certified Trust and Fiduciary Advisor (CTFA - expired)",
+                    "authority": "American Bankers Association"
+                },
+                {
+                    "name": "Mastering Fund Accounting",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2025
+                        }
+                    },
+                    "authority": "The Fund Accountant"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Cannon Trust School graduate"
+                }
+            ],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Data Analysis",
+                "Problem Solving",
+                "Financial Analysis",
+                "Financial Services"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Big Brother",
+                    "companyName": "Big Brothers Big Sisters of Colorado"
+                },
+                {
+                    "role": "Assistant Cross Country Coach",
+                    "companyName": "Douglas County High School"
+                },
+                {
+                    "role": "Foster ",
+                    "companyName": "Denver Animal Shelter"
+                }
+            ],
+            "headline": "Tax Associate at Paychex",
+            "summary": "I'm an avid gamer, runner and fan of the Green Bay Packers.\n\nSome people want it to happen, some wish it could happen, others make it happen - Michael Jordan",
+            "student": false,
+            "industryName": "Financial Services",
+            "industryUrn": "urn:li:fs_industry:43",
+            "geoLocationName": "Denver, Colorado",
+            "geoCountryName": "United States",
+            "jobTitle": "Tax Associate",
+            "companyName": "Paychex",
+            "companyPublicId": "paychex",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/paychex",
+            "following": false,
+            "followable": true,
+            "followersCount": 247,
+            "connectionsCount": 246,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Paychex",
+        "position": "Tax Associate",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Human Resources"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Tax Associate",
+        "organization": "Paychex",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/maxgerken/",
+        "company": "https://www.linkedin.com/company/paychex"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Tax Associate",
+            "locationName": "Denver, Colorado",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Human Resources"
+                ],
+                "objectUrn": "urn:li:company:4255",
+                "entityUrn": "urn:li:fs_miniCompany:4255",
+                "name": "Paychex",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGgCO8be7TBCw/company-logo_200_200/company-logo_200_200/0/1630653813842?e=1747872000&v=beta&t=UBWpQCTy8ELWPmOoJjzjOXcvx78ozvTbY8att3hPI_w",
+                "universalName": "paychex",
+                "dashCompanyUrn": "urn:li:fsd_company:4255",
+                "trackingId": "rDo9XcY9RCOd3ZH2iG1dBg=="
+            },
+            "companyName": "Paychex"
+        },
+        {
+            "title": "Client Banking Services Professional",
+            "locationName": "Lone Tree, Colorado",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1855",
+                "entityUrn": "urn:li:fs_miniCompany:1855",
+                "name": "Charles Schwab",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGFAw4THBAMbA/company-logo_200_200/company-logo_200_200/0/1675730284249/charles_schwab_logo?e=1747872000&v=beta&t=oEHO3irXDV31iviaNAu70vhkizcAkG_KdRjJLjkK4ss",
+                "universalName": "charles-schwab",
+                "dashCompanyUrn": "urn:li:fsd_company:1855",
+                "trackingId": "kHzWa18SRoqfrrpw/EtUeQ=="
+            },
+            "companyName": "Charles Schwab"
+        },
+        {
+            "title": "Associate Client Advisor",
+            "locationName": "Denver, Colorado",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:13311",
+                "entityUrn": "urn:li:fs_miniCompany:13311",
+                "name": "Bessemer Trust",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHDhd7T1oldQg/company-logo_200_200/company-logo_200_200/0/1630596441662/bessemer_trust_logo?e=1747872000&v=beta&t=ugLXRqzc7tv5yXDi2wrBjeeKhIo6ezE2IwxbQ1XHYMA",
+                "universalName": "bessemer-trust",
+                "dashCompanyUrn": "urn:li:fsd_company:13311",
+                "trackingId": "HCyOPxpVQA+wAC024MLQKg=="
+            },
+            "companyName": "Bessemer Trust"
+        },
+        {
+            "title": "Relationship Manager",
+            "locationName": "Centennial, Colorado",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2013
+                }
+            },
+            "companyName": "Trust Company of America"
+        },
+        {
+            "title": "Summer Internship",
+            "locationName": "Newport Beach, California",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:7970",
+                "entityUrn": "urn:li:fs_miniCompany:7970",
+                "name": "PIMCO",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGrMVy2RBZREA/company-logo_200_200/company-logo_200_200/0/1728672795323/pimco_logo?e=1747872000&v=beta&t=AGWtEXm9IzsnPdMiGkxBVXDozL39-VEDKwZxEj01mW8",
+                "universalName": "pimco",
+                "dashCompanyUrn": "urn:li:fsd_company:7970",
+                "trackingId": "qjrBGjhOTw+XD1A0EkSxvg=="
+            },
+            "companyName": "PIMCO"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Arts (B.A.)",
+            "fieldOfStudy": "Economics",
+            "schoolName": "Colorado College",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Claritas® Investment Certificate",
+            "authority": "CFA Institute"
+        },
+        {
+            "name": "Certified Trust and Fiduciary Advisor (CTFA - expired)",
+            "authority": "American Bankers Association"
+        },
+        {
+            "name": "Mastering Fund Accounting",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2025
+                }
+            },
+            "authority": "The Fund Accountant"
+        }
+    ],
+    "skills": [
+        "Data Analysis",
+        "Problem Solving",
+        "Financial Analysis",
+        "Financial Services"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,420 @@
+{
+    "id": "exp168756435",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Brett",
+        "lastName": "Adcock",
+        "fullName": "Brett Adcock",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQHy-hzgc7CVQw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722918791445?e=1745452800&v=beta&t=u5aT7d3jGecOLdRyrN6TScgMaO7ZV2sZ-BF-CSJG2p8",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "168756435",
+            "profileId": "ACoAAAoPBNMBkk7Lpd2HuEaofe1x3kGJH6cvhlg",
+            "firstName": "Brett",
+            "lastName": "Adcock",
+            "occupation": "Founder @ Figure, Cover, & Archer Aviation",
+            "publicIdentifier": "brettadcock",
+            "trackingId": "lFVbVDswRiKe9Yoch+26yw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQHy-hzgc7CVQw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1722918791445?e=1745452800&v=beta&t=u5aT7d3jGecOLdRyrN6TScgMaO7ZV2sZ-BF-CSJG2p8",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQH65_NNRAJJog/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1722974789526?e=1745452800&v=beta&t=2uETElhevP-Kxa_pzhO2nQzO6_ubRdPFUZloJrQCqmg",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:101876708",
+            "positions": [
+                {
+                    "title": "Founder",
+                    "description": "Figure is an AI Robotics company developing a general purpose humanoid. Our Humanoid is designed for corporate tasks targeting labor shortages and jobs that are undesirable or unsafe. We are based in the San Francisco bay area.",
+                    "locationName": "Palo Alto, CA",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Machinery"
+                        ],
+                        "objectUrn": "urn:li:company:85645770",
+                        "entityUrn": "urn:li:fs_miniCompany:85645770",
+                        "name": "Figure",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFa2o7DQ7fzaQ/company-logo_200_200/company-logo_200_200/0/1677733856359/figure_ai_logo?e=1747872000&v=beta&t=ti3_cgkZfLYfH6cAwoXdQNRosdl--oUW1vmmWEiqAPc",
+                        "universalName": "figure-ai",
+                        "dashCompanyUrn": "urn:li:fsd_company:85645770",
+                        "trackingId": "8Q0dzMb/S0WETVlSm77Q2Q=="
+                    },
+                    "companyName": "Figure"
+                },
+                {
+                    "title": "Founder",
+                    "description": "Cover is an AI security company developing concealed weapon detection systems. Cover’s imaging technology scans students for concealed weapons in K-12 schools in the United States. Our goal is to prevent school shootings by identifying concealed weapons inside of bags and underneath clothing. Cover is headquartered in Sunnyvale, CA with offices in Pasadena, CA. ",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Security and Investigations"
+                        ],
+                        "objectUrn": "urn:li:company:103018264",
+                        "entityUrn": "urn:li:fs_miniCompany:103018264",
+                        "name": "Cover",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQFCOULakA6atw/company-logo_200_200/company-logo_200_200/0/1719256485364/coverthz_logo?e=1747872000&v=beta&t=xPMvswJlYP9JQKLICsFN2DoBbkgYjB9o38TtpC1ysMs",
+                        "universalName": "coverthz",
+                        "dashCompanyUrn": "urn:li:fsd_company:103018264",
+                        "trackingId": "H4oeHYBuRNaOiEvsNQVXIA=="
+                    },
+                    "companyName": "Cover"
+                },
+                {
+                    "title": "Founder",
+                    "description": "Archer (NYSE: ACHR) is an aerospace company building an all-electric vertical takeoff and landing aircraft focused on improving mobility in cities. The company's mission is to advance the benefits of sustainable air mobility. Archer was founded in October 2018 by Brett Adcock.",
+                    "locationName": "Palo Alto, CA",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Airlines/Aviation"
+                        ],
+                        "objectUrn": "urn:li:company:42881474",
+                        "entityUrn": "urn:li:fs_miniCompany:42881474",
+                        "name": "Archer",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGs7R7eNebUSQ/company-logo_200_200/company-logo_200_200/0/1630548352185/flyarcher_logo?e=1747872000&v=beta&t=e6YQkR-B2z258i6M0yyjewHMwwfgqpbMi44s2RnJxEQ",
+                        "universalName": "flyarcher",
+                        "dashCompanyUrn": "urn:li:fsd_company:42881474",
+                        "trackingId": "c+2PDjvFTjuaTQgHCrWs5g=="
+                    },
+                    "companyName": "Archer"
+                },
+                {
+                    "title": "Founder",
+                    "description": "Vettery is an online talent marketplace. The Company assists over 20,000 companies across 18 global markets. Vettery was founded in March 2013 by Brett Adcock. In February 2018, Vettery was acquired by The Adecco Group for $110M.",
+                    "locationName": "New York, NY",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:81893209",
+                        "entityUrn": "urn:li:fs_miniCompany:81893209",
+                        "name": "Vettery",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwusLnRoVshg/company-logo_200_200/company-logo_200_200/0/1653573976601/vettery1_logo?e=1747872000&v=beta&t=1gxZioeNnigOFf0MjzdR2n9mf8Tkb8mwsN36CrH9Qjw",
+                        "universalName": "vettery1",
+                        "dashCompanyUrn": "urn:li:fsd_company:81893209",
+                        "trackingId": "XJSrbPejRbm+vrgRHg8cbQ=="
+                    },
+                    "companyName": "Vettery"
+                },
+                {
+                    "title": "Founder",
+                    "description": "Brett Adcock founded several software and internet companies such as Street of Walls, and Working.io",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 0,
+                            "end": 1
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:68353711",
+                        "entityUrn": "urn:li:fs_miniCompany:68353711",
+                        "name": "Various Startups",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEJXjIEUpuMmg/company-logo_200_200/company-logo_200_200/0/1630620461491/various_startups1_logo?e=1747872000&v=beta&t=tlpHWSo22qOIVGHSyuuZLnaR1u47WFjV-w2YL_H2h2Q",
+                        "universalName": "various-startups1",
+                        "dashCompanyUrn": "urn:li:fsd_company:68353711",
+                        "trackingId": "I+GjyFxUS4arMqf27f6E5A=="
+                    },
+                    "companyName": "Various Startups"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "University of Florida",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2004
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Founder @ Figure, Cover, & Archer Aviation",
+            "summary": "Brett Adcock is a technology entrepreneur and founder/CEO of Figure. Figure is an AI Robotics company developing a general purpose humanoid. \n\nIn 2023, Mr. Adcock founded Cover, an AI security company developing concealed weapon detection systems. Cover’s imaging technology scans students for concealed weapons in K-12 schools in the United States.\n\nIn 2018, Mr. Adcock founded Archer Aviation (NYSE: ACHR) based in Palo Alto, CA. Archer is an aerospace company building an all-electric vertical takeoff and landing aircraft focused on improving mobility in cities. The company's mission is to advance the benefits of sustainable air mobility. \n\nIn 2013, Mr. Adcock founded Vettery, an online talent marketplace that was acquired by The Adecco Group in February 2018 for $110M. \n\nwww.BrettAdcock.com",
+            "student": false,
+            "industryName": "Machinery",
+            "industryUrn": "urn:li:fs_industry:55",
+            "geoLocationName": "Palo Alto, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Founder",
+            "companyName": "Figure",
+            "companyPublicId": "figure-ai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/figure-ai",
+            "following": false,
+            "followable": true,
+            "followersCount": 116022,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Figure",
+        "position": "Founder",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Machinery"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Founder",
+        "organization": "Figure",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/brettadcock/",
+        "company": "https://www.linkedin.com/company/figure-ai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Founder",
+            "description": "Figure is an AI Robotics company developing a general purpose humanoid. Our Humanoid is designed for corporate tasks targeting labor shortages and jobs that are undesirable or unsafe. We are based in the San Francisco bay area.",
+            "locationName": "Palo Alto, CA",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Machinery"
+                ],
+                "objectUrn": "urn:li:company:85645770",
+                "entityUrn": "urn:li:fs_miniCompany:85645770",
+                "name": "Figure",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFa2o7DQ7fzaQ/company-logo_200_200/company-logo_200_200/0/1677733856359/figure_ai_logo?e=1747872000&v=beta&t=ti3_cgkZfLYfH6cAwoXdQNRosdl--oUW1vmmWEiqAPc",
+                "universalName": "figure-ai",
+                "dashCompanyUrn": "urn:li:fsd_company:85645770",
+                "trackingId": "8Q0dzMb/S0WETVlSm77Q2Q=="
+            },
+            "companyName": "Figure"
+        },
+        {
+            "title": "Founder",
+            "description": "Cover is an AI security company developing concealed weapon detection systems. Cover’s imaging technology scans students for concealed weapons in K-12 schools in the United States. Our goal is to prevent school shootings by identifying concealed weapons inside of bags and underneath clothing. Cover is headquartered in Sunnyvale, CA with offices in Pasadena, CA. ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Security and Investigations"
+                ],
+                "objectUrn": "urn:li:company:103018264",
+                "entityUrn": "urn:li:fs_miniCompany:103018264",
+                "name": "Cover",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFCOULakA6atw/company-logo_200_200/company-logo_200_200/0/1719256485364/coverthz_logo?e=1747872000&v=beta&t=xPMvswJlYP9JQKLICsFN2DoBbkgYjB9o38TtpC1ysMs",
+                "universalName": "coverthz",
+                "dashCompanyUrn": "urn:li:fsd_company:103018264",
+                "trackingId": "H4oeHYBuRNaOiEvsNQVXIA=="
+            },
+            "companyName": "Cover"
+        },
+        {
+            "title": "Founder",
+            "description": "Archer (NYSE: ACHR) is an aerospace company building an all-electric vertical takeoff and landing aircraft focused on improving mobility in cities. The company's mission is to advance the benefits of sustainable air mobility. Archer was founded in October 2018 by Brett Adcock.",
+            "locationName": "Palo Alto, CA",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Airlines/Aviation"
+                ],
+                "objectUrn": "urn:li:company:42881474",
+                "entityUrn": "urn:li:fs_miniCompany:42881474",
+                "name": "Archer",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGs7R7eNebUSQ/company-logo_200_200/company-logo_200_200/0/1630548352185/flyarcher_logo?e=1747872000&v=beta&t=e6YQkR-B2z258i6M0yyjewHMwwfgqpbMi44s2RnJxEQ",
+                "universalName": "flyarcher",
+                "dashCompanyUrn": "urn:li:fsd_company:42881474",
+                "trackingId": "c+2PDjvFTjuaTQgHCrWs5g=="
+            },
+            "companyName": "Archer"
+        },
+        {
+            "title": "Founder",
+            "description": "Vettery is an online talent marketplace. The Company assists over 20,000 companies across 18 global markets. Vettery was founded in March 2013 by Brett Adcock. In February 2018, Vettery was acquired by The Adecco Group for $110M.",
+            "locationName": "New York, NY",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:81893209",
+                "entityUrn": "urn:li:fs_miniCompany:81893209",
+                "name": "Vettery",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHwusLnRoVshg/company-logo_200_200/company-logo_200_200/0/1653573976601/vettery1_logo?e=1747872000&v=beta&t=1gxZioeNnigOFf0MjzdR2n9mf8Tkb8mwsN36CrH9Qjw",
+                "universalName": "vettery1",
+                "dashCompanyUrn": "urn:li:fsd_company:81893209",
+                "trackingId": "XJSrbPejRbm+vrgRHg8cbQ=="
+            },
+            "companyName": "Vettery"
+        },
+        {
+            "title": "Founder",
+            "description": "Brett Adcock founded several software and internet companies such as Street of Walls, and Working.io",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:68353711",
+                "entityUrn": "urn:li:fs_miniCompany:68353711",
+                "name": "Various Startups",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEJXjIEUpuMmg/company-logo_200_200/company-logo_200_200/0/1630620461491/various_startups1_logo?e=1747872000&v=beta&t=tlpHWSo22qOIVGHSyuuZLnaR1u47WFjV-w2YL_H2h2Q",
+                "universalName": "various-startups1",
+                "dashCompanyUrn": "urn:li:fsd_company:68353711",
+                "trackingId": "I+GjyFxUS4arMqf27f6E5A=="
+            },
+            "companyName": "Various Startups"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "University of Florida",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

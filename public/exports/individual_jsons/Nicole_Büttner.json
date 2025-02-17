@@ -1,0 +1,419 @@
+{
+    "id": "exp59486205",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Nicole",
+        "lastName": "Büttner",
+        "fullName": "Nicole Büttner",
+        "image": "https://media.licdn.com/dms/image/v2/D4D35AQHtNByQhz9Xwg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1739081059567?e=1740358800&v=beta&t=v6amg7zfpJDLaTdVrS-80oBxIijdksbn1joPbpajRyY",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "59486205",
+            "profileId": "ACoAAAOLr_0BRjj0wCo8ryp_nZQcpORYKj-rA9E",
+            "firstName": "Nicole",
+            "lastName": "Büttner",
+            "occupation": "Founder & CEO Merantix Momentum, Founding Partner at Merantix Capital, WEF Digital Leader for Europe, Supervisory Board Member, Investor",
+            "publicIdentifier": "nicole-buettner",
+            "trackingId": "srhSB2olTtS/3aROzcvDcA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D35AQHtNByQhz9Xwg/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1739081059567?e=1740358800&v=beta&t=v6amg7zfpJDLaTdVrS-80oBxIijdksbn1joPbpajRyY",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQHu8BkPYj18pQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1662654338231?e=1745452800&v=beta&t=DvBAm_uwi2quENxfOJTRe66axlQubjs9xdI6YMH-r-U",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106967730",
+            "positions": [
+                {
+                    "title": "Founder & CEO",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:37059524",
+                        "entityUrn": "urn:li:fs_miniCompany:37059524",
+                        "name": "Merantix Momentum",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH1maZsfbDABw/company-logo_200_200/company-logo_200_200/0/1648046565289/merantix_labs_logo?e=1747872000&v=beta&t=3PBuwlruMpDT8MGtj9tBXg0yogKuu5z8aJxgf3LSOEU",
+                        "universalName": "merantix-momentum",
+                        "dashCompanyUrn": "urn:li:fsd_company:37059524",
+                        "trackingId": "3sGf6a3QQk2ikmCYft7P2A=="
+                    },
+                    "companyName": "Merantix Momentum"
+                },
+                {
+                    "title": "Founding Partner",
+                    "description": "Merantix Capital partners with visionary AI founders, from pre-idea to seed stage.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:7943887",
+                        "entityUrn": "urn:li:fs_miniCompany:7943887",
+                        "name": "Merantix Capital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQETtwNvpyAptg/company-logo_200_200/company-logo_200_200/0/1728376830172/merantix_capital_logo?e=1747872000&v=beta&t=QJSxtrNkOkPN1P8B55UiVSN84PXIsWKVp-U6BSxlfaM",
+                        "universalName": "merantix-capital",
+                        "dashCompanyUrn": "urn:li:fsd_company:7943887",
+                        "trackingId": "dEmq4jllRzqe2/7fqTk8eg=="
+                    },
+                    "companyName": "Merantix Capital"
+                },
+                {
+                    "title": "Vice President",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Government Relations"
+                        ],
+                        "objectUrn": "urn:li:company:2946527",
+                        "entityUrn": "urn:li:fs_miniCompany:2946527",
+                        "name": "Startup-Verband",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEz7OGbJi7g-Q/company-logo_200_200/company-logo_200_200/0/1645434132321/startup_verband_logo?e=1747872000&v=beta&t=YS1gctqrImbldGoWhLRas3CJOIvmak-KOCly9aFjl-8",
+                        "universalName": "startup-verband",
+                        "dashCompanyUrn": "urn:li:fsd_company:2946527",
+                        "trackingId": "nAD/8vw3T9eFSUc1bfoWtA=="
+                    },
+                    "companyName": "Startup-Verband"
+                },
+                {
+                    "title": "Digital Advisory Board to German Minister of Defense",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:1785062",
+                        "entityUrn": "urn:li:fs_miniCompany:1785062",
+                        "name": "Bundesministerium der Verteidigung",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "bundesministerium-der-verteidigung",
+                        "dashCompanyUrn": "urn:li:fsd_company:1785062",
+                        "trackingId": "H6vE7x70Qf2qGmFtC+6mCA=="
+                    },
+                    "companyName": "Bundesministerium der Verteidigung"
+                },
+                {
+                    "title": "Initiator and co-founder",
+                    "description": "Leading the Global Conversation on AI. With the AI House Davos, we are establishing a forum which promises to assemble and unite these thought leaders during the World Economic Forum.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:98467764",
+                        "entityUrn": "urn:li:fs_miniCompany:98467764",
+                        "name": "AI House Davos",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFLSQpA3gJmvQ/company-logo_200_200/company-logo_200_200/0/1695372698164/ai_house_davos_logo?e=1747872000&v=beta&t=3QeXwztZomyYu-QcRxhpkiyr_clwhTus2O0RW7b5FQA",
+                        "universalName": "ai-house-davos",
+                        "dashCompanyUrn": "urn:li:fsd_company:98467764",
+                        "trackingId": "b6ohOB9hQWWe7N3qFTrxvQ=="
+                    },
+                    "companyName": "AI House Davos"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Visiting Researcher",
+                    "fieldOfStudy": "Economics",
+                    "schoolName": "Stanford University"
+                },
+                {
+                    "fieldOfStudy": "Economics",
+                    "schoolName": "Handelshögskolan i Stockholm"
+                },
+                {
+                    "degreeName": "Master in Quantitative Economics and Finance",
+                    "fieldOfStudy": "Economics",
+                    "schoolName": "Universität St.Gallen - Hochschule für Wirtschafts-, Rechts- und Sozialwissenschaften"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Rising Talents 2019",
+                    "description": "The Women’s Forum Rising Talents initiative aims to distinguish highly talented young women who are on their way to becoming influential figures in our economies and societies. This initiative is a commitment to promote women leaders and bring the vision of rising generations to the Women’s Forum.\nThe Women’s Forum for the Economy & Society and its partners share a common belief: that the identification and nurturing of talent among women is critical for the future of global business and society.\nEach year some 15 young women join the Rising Talents network, attend the Women’s Forum Global Meeting and regional Women's Forum meetings, benefiting from enhanced networking activities during these events and in the future.",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2019
+                    },
+                    "issuer": "Women's Forum"
+                },
+                {
+                    "title": "40 under 40",
+                    "description": "Capital Magazine curates and publishes this list every year. ",
+                    "issuer": "Capital Magazine"
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Keynote Speaking",
+                "Artificial Intelligence for Business",
+                "AI Strategy",
+                "Board Level"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder & CEO Merantix Momentum, Founding Partner at Merantix Capital, WEF Digital Leader for Europe, Supervisory Board Member, Investor",
+            "summary": "I am an entrepreneur, economist and tech optimist. I believe artificial intelligence has the potential to create deep positive impact on individuals, businesses and society as a whole. I enjoy working on real-life challenges and developing new solutions with the help of machine learning and AI.\n\nInvesting in startups and serving as a board member in corporates is a way for me to widen the impact of my deep tech expertise as well as passion for transformation. \n\nI have been managing and enabling international teams for crucial decision-making processes and throughout project implementation in high stakes situations and innovation processes for over 9 years.\n\nI enjoy sharing my experience - be it lecturing at universities or speaking about Artificial Intelligence and Machine Learning at conferences.\nI am passionate about bringing digital technologies to government and setting the right agendas for a prosperous technology sector in Europe. Since 2018 I have the pleasure of serving on the Board of Alumni of the University of St.Gallen. Also, I am part of the Young Leaders of Aspen Institute and Rising Talents community of the Women's Forum.",
+            "student": false,
+            "industryName": "Non-profit Organization Management",
+            "industryUrn": "urn:li:fs_industry:100",
+            "geoLocationName": "Berlin, Berlin",
+            "geoCountryName": "Germany",
+            "jobTitle": "Founder & CEO",
+            "companyName": "Merantix Momentum",
+            "companyPublicId": "merantix-momentum",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/merantix-momentum",
+            "following": false,
+            "followable": true,
+            "followersCount": 23477,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Merantix Momentum",
+        "position": "Founder & CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Founder & CEO",
+        "organization": "Merantix Momentum",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/nicole-buettner/",
+        "company": "https://www.linkedin.com/company/merantix-momentum"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Founder & CEO",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:37059524",
+                "entityUrn": "urn:li:fs_miniCompany:37059524",
+                "name": "Merantix Momentum",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH1maZsfbDABw/company-logo_200_200/company-logo_200_200/0/1648046565289/merantix_labs_logo?e=1747872000&v=beta&t=3PBuwlruMpDT8MGtj9tBXg0yogKuu5z8aJxgf3LSOEU",
+                "universalName": "merantix-momentum",
+                "dashCompanyUrn": "urn:li:fsd_company:37059524",
+                "trackingId": "3sGf6a3QQk2ikmCYft7P2A=="
+            },
+            "companyName": "Merantix Momentum"
+        },
+        {
+            "title": "Founding Partner",
+            "description": "Merantix Capital partners with visionary AI founders, from pre-idea to seed stage.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:7943887",
+                "entityUrn": "urn:li:fs_miniCompany:7943887",
+                "name": "Merantix Capital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQETtwNvpyAptg/company-logo_200_200/company-logo_200_200/0/1728376830172/merantix_capital_logo?e=1747872000&v=beta&t=QJSxtrNkOkPN1P8B55UiVSN84PXIsWKVp-U6BSxlfaM",
+                "universalName": "merantix-capital",
+                "dashCompanyUrn": "urn:li:fsd_company:7943887",
+                "trackingId": "dEmq4jllRzqe2/7fqTk8eg=="
+            },
+            "companyName": "Merantix Capital"
+        },
+        {
+            "title": "Vice President",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Government Relations"
+                ],
+                "objectUrn": "urn:li:company:2946527",
+                "entityUrn": "urn:li:fs_miniCompany:2946527",
+                "name": "Startup-Verband",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEz7OGbJi7g-Q/company-logo_200_200/company-logo_200_200/0/1645434132321/startup_verband_logo?e=1747872000&v=beta&t=YS1gctqrImbldGoWhLRas3CJOIvmak-KOCly9aFjl-8",
+                "universalName": "startup-verband",
+                "dashCompanyUrn": "urn:li:fsd_company:2946527",
+                "trackingId": "nAD/8vw3T9eFSUc1bfoWtA=="
+            },
+            "companyName": "Startup-Verband"
+        },
+        {
+            "title": "Digital Advisory Board to German Minister of Defense",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:1785062",
+                "entityUrn": "urn:li:fs_miniCompany:1785062",
+                "name": "Bundesministerium der Verteidigung",
+                "showcase": false,
+                "active": true,
+                "universalName": "bundesministerium-der-verteidigung",
+                "dashCompanyUrn": "urn:li:fsd_company:1785062",
+                "trackingId": "H6vE7x70Qf2qGmFtC+6mCA=="
+            },
+            "companyName": "Bundesministerium der Verteidigung"
+        },
+        {
+            "title": "Initiator and co-founder",
+            "description": "Leading the Global Conversation on AI. With the AI House Davos, we are establishing a forum which promises to assemble and unite these thought leaders during the World Economic Forum.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:98467764",
+                "entityUrn": "urn:li:fs_miniCompany:98467764",
+                "name": "AI House Davos",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFLSQpA3gJmvQ/company-logo_200_200/company-logo_200_200/0/1695372698164/ai_house_davos_logo?e=1747872000&v=beta&t=3QeXwztZomyYu-QcRxhpkiyr_clwhTus2O0RW7b5FQA",
+                "universalName": "ai-house-davos",
+                "dashCompanyUrn": "urn:li:fsd_company:98467764",
+                "trackingId": "b6ohOB9hQWWe7N3qFTrxvQ=="
+            },
+            "companyName": "AI House Davos"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Visiting Researcher",
+            "fieldOfStudy": "Economics",
+            "schoolName": "Stanford University"
+        },
+        {
+            "fieldOfStudy": "Economics",
+            "schoolName": "Handelshögskolan i Stockholm"
+        },
+        {
+            "degreeName": "Master in Quantitative Economics and Finance",
+            "fieldOfStudy": "Economics",
+            "schoolName": "Universität St.Gallen - Hochschule für Wirtschafts-, Rechts- und Sozialwissenschaften"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Keynote Speaking",
+        "Artificial Intelligence for Business",
+        "AI Strategy",
+        "Board Level"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,468 @@
+{
+    "id": "exp897481",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Clara",
+        "lastName": "Shih",
+        "fullName": "Clara Shih",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQGZvN4mw9ecyg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1732046572061?e=1745452800&v=beta&t=q20TkpBfHcQM5yAThQhM10YVVgVGrQtO1bE3cD982Zw",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "897481",
+            "profileId": "ACoAAAANsckBlg1Xus_p33jdSIuUrgzXgMmE22s",
+            "firstName": "Clara",
+            "lastName": "Shih",
+            "occupation": "Head of Business AI at Meta | Founder of Hearsay | TIME 100 AI",
+            "publicIdentifier": "clarashih",
+            "trackingId": "78XBG55uTkisNJiKTjDt0A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGZvN4mw9ecyg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1732046572061?e=1745452800&v=beta&t=q20TkpBfHcQM5yAThQhM10YVVgVGrQtO1bE3cD982Zw",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQGxpYJTiD6ymQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732041157462?e=1745452800&v=beta&t=pfEXh_RdMMzPaovy7bbmkl8Av9XnpCZ5N2rFUn4m1Sw",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102277331",
+            "positions": [
+                {
+                    "title": "VP, Head of Business AI",
+                    "description": "Lead Meta's new Business AI group. This organization is focused on building products that make cutting-edge AI accessible to every business, from zero to one to scale.\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Today, 200M businesses each month turn to Facebook, Instagram and WhatsApp to connect with billions of consumers around the world. Meta’s Llama models have over 600M downloads to date, and Meta AI has more than 500M monthly actives. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.",
+                    "locationName": "San Francisco, California, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:10667",
+                        "entityUrn": "urn:li:fs_miniCompany:10667",
+                        "name": "Meta",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_200_200/company-logo_200_200/0/1636138754252/facebook_logo?e=1747872000&v=beta&t=3Jq_N6TnGlrfSMTFTUKLnvbonjXSinoNftWvOT5IjaQ",
+                        "universalName": "meta",
+                        "dashCompanyUrn": "urn:li:fsd_company:10667",
+                        "trackingId": "36vgYGM4Tnajcd/3f24BDQ=="
+                    },
+                    "companyName": "Meta"
+                },
+                {
+                    "title": "Advisor & Investor",
+                    "description": "Early stage investor and advisor to startups including Perplexity, Lakera, Bardeen, Qodo (Codium), Color, Ethos Life, and Gusto",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:88007673",
+                        "entityUrn": "urn:li:fs_miniCompany:88007673",
+                        "name": "Perplexity",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNCoFCub_8sw/company-logo_200_200/company-logo_200_200/0/1698290900915/perplexity_ai_logo?e=1747872000&v=beta&t=65Lsvs3hvwuyl6_WmGbrZGRqGrsNLUI65Oj_PCu8kGE",
+                        "universalName": "perplexity-ai",
+                        "dashCompanyUrn": "urn:li:fsd_company:88007673",
+                        "trackingId": "2zxT3fkkQ8SwmCUaruW1Lg=="
+                    },
+                    "companyName": "Perplexity"
+                },
+                {
+                    "title": "Diversity Advisory Council",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Primary/Secondary Education"
+                        ],
+                        "objectUrn": "urn:li:company:3129360",
+                        "entityUrn": "urn:li:fs_miniCompany:3129360",
+                        "name": "Code.org",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHX0AzJO3CpDw/company-logo_200_200/company-logo_200_200/0/1736982271391/code_org_logo?e=1747872000&v=beta&t=hd8Ye1BpoZKsNsHq_ZteLMPEayGCLwCMgq1SALSG2QE",
+                        "universalName": "code-org",
+                        "dashCompanyUrn": "urn:li:fsd_company:3129360",
+                        "trackingId": "3AtnpzioTGWPEWNZqOeSPQ=="
+                    },
+                    "companyName": "Code.org"
+                },
+                {
+                    "title": "CEO, Salesforce AI",
+                    "description": "Led AI efforts across Salesforce, including product, applied research (frontier team), domain-specific model development, go-to-market, revenue, adoption, partnerships, acquisitions, and responsible AI. The four years I spent as a boomerang at Salesforce have been some of the most rewarding in my career.  The organization we built, execution speed, and customer and revenue impact of the generative AI platform we developed from prototype to GA product were unmatched. \n\nIt all started in 2022 with 'Gucci GPT'-- an LLM application prototype we developed with Salesforce Research when I was leading Service Cloud, to suggest accurate, on-brand responses to customer service inquiries. We moved at startup speed and rapidly built a prototype that cut support resolution times while increasing NPS and commerce revenue. When ChatGPT captured the world's imagination that November, we were ready with our learnings and shipped 'Einstein GPT for Service and Sales' just a few months later. I was asked to take on a new role to build out an AI platform and organization to support sales, marketing, commerce, and 3p developer use cases beyond Service Cloud. \n\nOur team built the Einstein AI Trust Layer (prompt injection defense, toxicity filters, observability and monitoring), Prompt Builder, Model Builder (to support 3p models including Llama and OpenAI, and finetuning), Advanced RAG, and Agentforce Studio, shipping at incredible speed to get to product-market fit. We had to invent new methods to upskill our 11,000 salespeople and broader ecosystem. We started an applied research incubation team in partnership with Salesforce Research, called Frontier/Atlas, for rapid experimentation that has delivered Generative Canvas UX, LLM Benchmarks for CRM, and Atlas reasoning engine, to ensure an ongoing cadence of organic innovation. The company went through a difficult period in 2022, and these efforts helped re-energize the entire organization and ecosystem.",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:3185",
+                        "entityUrn": "urn:li:fs_miniCompany:3185",
+                        "name": "Salesforce",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1747872000&v=beta&t=NktgrMPDIMY0hELsMQmjVyvMb0DC5ZqCPdqkzRgg1DA",
+                        "universalName": "salesforce",
+                        "dashCompanyUrn": "urn:li:fsd_company:3185",
+                        "trackingId": "SOW1QWNST1erD+WS9EpjjQ=="
+                    },
+                    "companyName": "Salesforce"
+                },
+                {
+                    "title": "Founder & Executive Chair",
+                    "description": "Starting and scaling a company from 'zero to one' was one of the best, hardest experiences I've ever had. It's been a privilege to serve for 11 years as Hearsay's CEO. In 2020, I transitioned to Board Chair, and in 2024, Hearsay was acquired by Yext, Inc. (NASDAQ:YEXT).",
+                    "locationName": "San Francisco, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1695382",
+                        "entityUrn": "urn:li:fs_miniCompany:1695382",
+                        "name": "Hearsay Systems",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4Le_upfM1WA/company-logo_200_200/company-logo_200_200/0/1722545382144/hearsay_systems_logo?e=1747872000&v=beta&t=TUuNwbDpEwLOYqhF3UqYO_O0i8f4pAtUvoIQLRrT6IU",
+                        "universalName": "hearsay-systems",
+                        "dashCompanyUrn": "urn:li:fsd_company:1695382",
+                        "trackingId": "fT9Zebv2TLWUAbgXi+vGOA=="
+                    },
+                    "companyName": "Hearsay Systems"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "B.S.",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Stanford University"
+                },
+                {
+                    "degreeName": "M.S. Computer Science",
+                    "fieldOfStudy": "Distributed Systems and Human-Computer Interaction",
+                    "schoolName": "Stanford University"
+                },
+                {
+                    "degreeName": "Master of Science (M.Sc.)",
+                    "fieldOfStudy": "Department of Education and Oxford Internet Institute",
+                    "schoolName": "University of Oxford"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Ad Age 40 Under 40"
+                },
+                {
+                    "title": "CNBC Disruptor 50"
+                },
+                {
+                    "title": "Fast Company Most Creative People"
+                },
+                {
+                    "title": "Fortune 40 Under 40"
+                },
+                {
+                    "title": "Fortune Most Powerful Women Entrepreneurs"
+                },
+                {
+                    "title": "Girls Inc National Honoree"
+                },
+                {
+                    "title": "InvestmentNews 40 Under 40"
+                },
+                {
+                    "title": "San Francisco Business Times Most Admired CEO"
+                },
+                {
+                    "title": "TIME 100 Most Influential People in AI",
+                    "issuer": "TIME"
+                },
+                {
+                    "title": "World Economic Forum Young Global Leader"
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Enterprise Software",
+                "Artificial Intelligence (AI)",
+                "Start-ups",
+                "Strategy"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Head of Business AI at Meta | Founder of Hearsay | TIME 100 AI",
+            "summary": "Head of Business AI at Meta, founder of Hearsay Social (now part of NASDAQ:YEXT), angel investor, author of The Facebook Era (2009) and Social Business Imperative (2016), kindergarten room mom. Former CEO of Salesforce AI.\n\nInterests: AI, future of work, board governance, UX, and coffee.",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "San Francisco, California",
+            "geoCountryName": "United States",
+            "jobTitle": "VP, Head of Business AI",
+            "companyName": "Meta",
+            "companyPublicId": "meta",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/meta",
+            "following": false,
+            "followable": true,
+            "followersCount": 695490,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Meta",
+        "position": "VP, Head of Business AI",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP, Head of Business AI",
+        "organization": "Meta",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/clarashih/",
+        "company": "https://www.linkedin.com/company/meta"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP, Head of Business AI",
+            "description": "Lead Meta's new Business AI group. This organization is focused on building products that make cutting-edge AI accessible to every business, from zero to one to scale.\n\nMeta builds technologies that help people connect, find communities, and grow businesses. When Facebook launched in 2004, it changed the way people connect. Today, 200M businesses each month turn to Facebook, Instagram and WhatsApp to connect with billions of consumers around the world. Meta’s Llama models have over 600M downloads to date, and Meta AI has more than 500M monthly actives. Now, Meta is moving beyond 2D screens toward immersive experiences like augmented and virtual reality to help build the next evolution in social technology.",
+            "locationName": "San Francisco, California, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:10667",
+                "entityUrn": "urn:li:fs_miniCompany:10667",
+                "name": "Meta",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdNatYGiBelg/company-logo_200_200/company-logo_200_200/0/1636138754252/facebook_logo?e=1747872000&v=beta&t=3Jq_N6TnGlrfSMTFTUKLnvbonjXSinoNftWvOT5IjaQ",
+                "universalName": "meta",
+                "dashCompanyUrn": "urn:li:fsd_company:10667",
+                "trackingId": "36vgYGM4Tnajcd/3f24BDQ=="
+            },
+            "companyName": "Meta"
+        },
+        {
+            "title": "Advisor & Investor",
+            "description": "Early stage investor and advisor to startups including Perplexity, Lakera, Bardeen, Qodo (Codium), Color, Ethos Life, and Gusto",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:88007673",
+                "entityUrn": "urn:li:fs_miniCompany:88007673",
+                "name": "Perplexity",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFNCoFCub_8sw/company-logo_200_200/company-logo_200_200/0/1698290900915/perplexity_ai_logo?e=1747872000&v=beta&t=65Lsvs3hvwuyl6_WmGbrZGRqGrsNLUI65Oj_PCu8kGE",
+                "universalName": "perplexity-ai",
+                "dashCompanyUrn": "urn:li:fsd_company:88007673",
+                "trackingId": "2zxT3fkkQ8SwmCUaruW1Lg=="
+            },
+            "companyName": "Perplexity"
+        },
+        {
+            "title": "Diversity Advisory Council",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Primary/Secondary Education"
+                ],
+                "objectUrn": "urn:li:company:3129360",
+                "entityUrn": "urn:li:fs_miniCompany:3129360",
+                "name": "Code.org",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHX0AzJO3CpDw/company-logo_200_200/company-logo_200_200/0/1736982271391/code_org_logo?e=1747872000&v=beta&t=hd8Ye1BpoZKsNsHq_ZteLMPEayGCLwCMgq1SALSG2QE",
+                "universalName": "code-org",
+                "dashCompanyUrn": "urn:li:fsd_company:3129360",
+                "trackingId": "3AtnpzioTGWPEWNZqOeSPQ=="
+            },
+            "companyName": "Code.org"
+        },
+        {
+            "title": "CEO, Salesforce AI",
+            "description": "Led AI efforts across Salesforce, including product, applied research (frontier team), domain-specific model development, go-to-market, revenue, adoption, partnerships, acquisitions, and responsible AI. The four years I spent as a boomerang at Salesforce have been some of the most rewarding in my career.  The organization we built, execution speed, and customer and revenue impact of the generative AI platform we developed from prototype to GA product were unmatched. \n\nIt all started in 2022 with 'Gucci GPT'-- an LLM application prototype we developed with Salesforce Research when I was leading Service Cloud, to suggest accurate, on-brand responses to customer service inquiries. We moved at startup speed and rapidly built a prototype that cut support resolution times while increasing NPS and commerce revenue. When ChatGPT captured the world's imagination that November, we were ready with our learnings and shipped 'Einstein GPT for Service and Sales' just a few months later. I was asked to take on a new role to build out an AI platform and organization to support sales, marketing, commerce, and 3p developer use cases beyond Service Cloud. \n\nOur team built the Einstein AI Trust Layer (prompt injection defense, toxicity filters, observability and monitoring), Prompt Builder, Model Builder (to support 3p models including Llama and OpenAI, and finetuning), Advanced RAG, and Agentforce Studio, shipping at incredible speed to get to product-market fit. We had to invent new methods to upskill our 11,000 salespeople and broader ecosystem. We started an applied research incubation team in partnership with Salesforce Research, called Frontier/Atlas, for rapid experimentation that has delivered Generative Canvas UX, LLM Benchmarks for CRM, and Atlas reasoning engine, to ensure an ongoing cadence of organic innovation. The company went through a difficult period in 2022, and these efforts helped re-energize the entire organization and ecosystem.",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:3185",
+                "entityUrn": "urn:li:fs_miniCompany:3185",
+                "name": "Salesforce",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1747872000&v=beta&t=NktgrMPDIMY0hELsMQmjVyvMb0DC5ZqCPdqkzRgg1DA",
+                "universalName": "salesforce",
+                "dashCompanyUrn": "urn:li:fsd_company:3185",
+                "trackingId": "SOW1QWNST1erD+WS9EpjjQ=="
+            },
+            "companyName": "Salesforce"
+        },
+        {
+            "title": "Founder & Executive Chair",
+            "description": "Starting and scaling a company from 'zero to one' was one of the best, hardest experiences I've ever had. It's been a privilege to serve for 11 years as Hearsay's CEO. In 2020, I transitioned to Board Chair, and in 2024, Hearsay was acquired by Yext, Inc. (NASDAQ:YEXT).",
+            "locationName": "San Francisco, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1695382",
+                "entityUrn": "urn:li:fs_miniCompany:1695382",
+                "name": "Hearsay Systems",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQG4Le_upfM1WA/company-logo_200_200/company-logo_200_200/0/1722545382144/hearsay_systems_logo?e=1747872000&v=beta&t=TUuNwbDpEwLOYqhF3UqYO_O0i8f4pAtUvoIQLRrT6IU",
+                "universalName": "hearsay-systems",
+                "dashCompanyUrn": "urn:li:fsd_company:1695382",
+                "trackingId": "fT9Zebv2TLWUAbgXi+vGOA=="
+            },
+            "companyName": "Hearsay Systems"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "B.S.",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Stanford University"
+        },
+        {
+            "degreeName": "M.S. Computer Science",
+            "fieldOfStudy": "Distributed Systems and Human-Computer Interaction",
+            "schoolName": "Stanford University"
+        },
+        {
+            "degreeName": "Master of Science (M.Sc.)",
+            "fieldOfStudy": "Department of Education and Oxford Internet Institute",
+            "schoolName": "University of Oxford"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Enterprise Software",
+        "Artificial Intelligence (AI)",
+        "Start-ups",
+        "Strategy"
+    ],
+    "lastEnriched": "2025-02-17"
+}

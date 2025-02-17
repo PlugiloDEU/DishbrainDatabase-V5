@@ -1,0 +1,447 @@
+{
+    "id": "exp1002981749",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Michael",
+        "lastName": "Klimke",
+        "fullName": "Michael Klimke",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQF4ye6jQ5TYLA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729458287667?e=1745452800&v=beta&t=j2D68FU9vhESRIbRA256DTxbu_FKkZQ-zngusDmDCYw",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "1002981749",
+            "profileId": "ACoAADvISXUBhcfVb4ixKJ38JN2ydibCHz-aOGk",
+            "firstName": "Michael",
+            "lastName": "Klimke",
+            "occupation": "CEO Bavarian AI Agency - BAIOSPHERE",
+            "publicIdentifier": "michaelklimke-baiosphere",
+            "trackingId": "xUC7GSbZTnS4823Q6O8zxA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQF4ye6jQ5TYLA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729458287667?e=1745452800&v=beta&t=j2D68FU9vhESRIbRA256DTxbu_FKkZQ-zngusDmDCYw",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Geschäftsführer",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "Bayerische KI-Agentur"
+                },
+                {
+                    "title": "CEO",
+                    "description": "baiosphere - The Bavarian AI Agency",
+                    "locationName": "Munich, Bavaria",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:92917451",
+                        "entityUrn": "urn:li:fs_miniCompany:92917451",
+                        "name": "BAIOSPHERE",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFoDIye0kLJjA/company-logo_200_200/company-logo_200_200/0/1732703821420/baiosphere_logo?e=1747872000&v=beta&t=rVX1pb2ndEXhYB-QWBiNuo83yRWyiMULEt7jKyM53xM",
+                        "universalName": "baiosphere",
+                        "dashCompanyUrn": "urn:li:fsd_company:92917451",
+                        "trackingId": "ojsIq9+dSFq/ovXrXJF5Uw=="
+                    },
+                    "companyName": "baiosphere"
+                },
+                {
+                    "title": "Fakultätsgeschäftsführer & Leiter Standortentwicklung",
+                    "description": "Geschäftsführer Fakultät für Luftfahrt, Raumfahrt und Geodäsie und Leiter Standortentwicklung Ottobrunn/Taufkirchen, TUM School of Engineering and Design",
+                    "locationName": "Ottobrunn, Bayern, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "nvCkG6r9Tli6ZfO/y8PdBA=="
+                    },
+                    "companyName": "Technische Universität München"
+                },
+                {
+                    "title": "Geschäftsführer TUM Graduate School",
+                    "locationName": "Garching bei München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "KPaXMq1PSt2T7SrAW2hwPQ=="
+                    },
+                    "companyName": "Technische Universität München"
+                },
+                {
+                    "title": "Geschäftsführer International Graduate School of Science and Engineering IGSSE",
+                    "locationName": "Garching bei München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "qJuT2KmMQPyxCBNChtQDlQ=="
+                    },
+                    "companyName": "Technische Universität München"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doktor (Ph.D.)",
+                    "fieldOfStudy": "Luft- und Raumfahrttechnik, Aeronautik und Astronautik",
+                    "schoolName": "Universität Stuttgart",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom-Ingenieur",
+                    "fieldOfStudy": "Luft- und Raumfahrttechnik, Aeronautik und Astronautik",
+                    "schoolName": "Universität Stuttgart",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 1993
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Internationale Bildung",
+                "Englisch",
+                "Netzwerk-Marketing",
+                "Künstliche Intelligenz (KI)"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Vorstandsmitglied",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2003
+                        }
+                    },
+                    "companyName": "HOPE worldwide Deutschland",
+                    "cause": "SOCIAL_SERVICES"
+                }
+            ],
+            "headline": "CEO Bavarian AI Agency - BAIOSPHERE",
+            "summary": "On a mission to planet Earth and beyond",
+            "student": false,
+            "industryName": "Government Administration",
+            "industryUrn": "urn:li:fs_industry:75",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Geschäftsführer",
+            "companyName": "Bayerische KI-Agentur",
+            "following": false,
+            "followable": true,
+            "followersCount": 2418,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Bayerische KI-Agentur",
+        "position": "Geschäftsführer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Geschäftsführer",
+        "organization": "Bayerische KI-Agentur",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/michaelklimke-baiosphere/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Geschäftsführer",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "companyName": "Bayerische KI-Agentur"
+        },
+        {
+            "title": "CEO",
+            "description": "baiosphere - The Bavarian AI Agency",
+            "locationName": "Munich, Bavaria",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:92917451",
+                "entityUrn": "urn:li:fs_miniCompany:92917451",
+                "name": "BAIOSPHERE",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFoDIye0kLJjA/company-logo_200_200/company-logo_200_200/0/1732703821420/baiosphere_logo?e=1747872000&v=beta&t=rVX1pb2ndEXhYB-QWBiNuo83yRWyiMULEt7jKyM53xM",
+                "universalName": "baiosphere",
+                "dashCompanyUrn": "urn:li:fsd_company:92917451",
+                "trackingId": "ojsIq9+dSFq/ovXrXJF5Uw=="
+            },
+            "companyName": "baiosphere"
+        },
+        {
+            "title": "Fakultätsgeschäftsführer & Leiter Standortentwicklung",
+            "description": "Geschäftsführer Fakultät für Luftfahrt, Raumfahrt und Geodäsie und Leiter Standortentwicklung Ottobrunn/Taufkirchen, TUM School of Engineering and Design",
+            "locationName": "Ottobrunn, Bayern, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "nvCkG6r9Tli6ZfO/y8PdBA=="
+            },
+            "companyName": "Technische Universität München"
+        },
+        {
+            "title": "Geschäftsführer TUM Graduate School",
+            "locationName": "Garching bei München, Bayern, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "KPaXMq1PSt2T7SrAW2hwPQ=="
+            },
+            "companyName": "Technische Universität München"
+        },
+        {
+            "title": "Geschäftsführer International Graduate School of Science and Engineering IGSSE",
+            "locationName": "Garching bei München, Bayern, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "qJuT2KmMQPyxCBNChtQDlQ=="
+            },
+            "companyName": "Technische Universität München"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doktor (Ph.D.)",
+            "fieldOfStudy": "Luft- und Raumfahrttechnik, Aeronautik und Astronautik",
+            "schoolName": "Universität Stuttgart",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom-Ingenieur",
+            "fieldOfStudy": "Luft- und Raumfahrttechnik, Aeronautik und Astronautik",
+            "schoolName": "Universität Stuttgart",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 1993
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Internationale Bildung",
+        "Englisch",
+        "Netzwerk-Marketing",
+        "Künstliche Intelligenz (KI)"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,542 @@
+{
+    "id": "exp442818097",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Lukas",
+        "lastName": "Schier",
+        "fullName": "Lukas Schier",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQHiip8TM4X1qA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1694502049671?e=1745452800&v=beta&t=KpHblvnpVSWGCRNCWl7vhv2HQ3OwPzuRCHm3szoDmnM",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Spanisch"
+        ],
+        "allData": {
+            "id": "442818097",
+            "profileId": "ACoAABpk3jEBqB1mUy9YkLAgAqXPN37JJGIrysI",
+            "firstName": "Lukas",
+            "lastName": "Schier",
+            "occupation": "Guiding Digital Transformation in Pharma, Lab and MedTech",
+            "publicIdentifier": "lukas-schier",
+            "trackingId": "vL2/N/IvTgePgd264RRmCw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHiip8TM4X1qA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1694502049671?e=1745452800&v=beta&t=KpHblvnpVSWGCRNCWl7vhv2HQ3OwPzuRCHm3szoDmnM",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101282230",
+            "positions": [
+                {
+                    "title": "Presales Account Development Specialist",
+                    "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:28423178",
+                        "entityUrn": "urn:li:fs_miniCompany:28423178",
+                        "name": "Siemens Digital Industries Software",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_200_200/company-logo_200_200/0/1719793387652/siemenssoftware_logo?e=1747872000&v=beta&t=UtYheq6psRDztyQnohSNL5y1F3Ioajp_ZFXVtKBN9BE",
+                        "universalName": "siemenssoftware",
+                        "dashCompanyUrn": "urn:li:fsd_company:28423178",
+                        "trackingId": "jjEojH6cQXerJIaA8RJcFQ=="
+                    },
+                    "companyName": "Siemens Digital Industries Software"
+                },
+                {
+                    "title": "Market Business Development Manager - Life Sciences CER",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1935",
+                        "entityUrn": "urn:li:fs_miniCompany:1935",
+                        "name": "PTC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEpBSyxBzIEhw/company-logo_200_200/company-logo_200_200/0/1719854960782/ptcinc_logo?e=1747872000&v=beta&t=Bm_tZ5ZFuwCFH2JbuAUkeFcvrGpDnb2f5mkrRqcXvI8",
+                        "universalName": "ptcinc",
+                        "dashCompanyUrn": "urn:li:fsd_company:1935",
+                        "trackingId": "E5tA8ilSQ5KH8xcF8yXglA=="
+                    },
+                    "companyName": "PTC"
+                },
+                {
+                    "title": "Senior Presales Technical Specialist - IoT & AR",
+                    "locationName": "Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1935",
+                        "entityUrn": "urn:li:fs_miniCompany:1935",
+                        "name": "PTC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEpBSyxBzIEhw/company-logo_200_200/company-logo_200_200/0/1719854960782/ptcinc_logo?e=1747872000&v=beta&t=Bm_tZ5ZFuwCFH2JbuAUkeFcvrGpDnb2f5mkrRqcXvI8",
+                        "universalName": "ptcinc",
+                        "dashCompanyUrn": "urn:li:fsd_company:1935",
+                        "trackingId": "ZH/+Sij3S3mZ6RnnLn1qWA=="
+                    },
+                    "companyName": "PTC"
+                },
+                {
+                    "title": "Presales Technical Specialist - Industry 4.0",
+                    "description": "During this time I led collaborative projects with research institutions, was responsible for PTC's involvement in industry consortia, presented solutions to C-level and upper management audiences and was part of the core team of the Aachen Experience Center at RWTH Aachen University, developing pilot projects and POCs in long-term partnerships with customers becoming a trusted advisor. My focus expaned from a more technical perspective to a holistic Market Architect view.\n\nAfter successfully completing my part-time degree, I focused on understanding business processes, challenges and specifics in the process and life science industry and acted as first contact for different customer roles in projects with leading positions. By combining my expertise in leading IoT, AR and PLM systems and my process understanding and experience in the area of Industry 4.0, I help clients to understand and design disruptive solutions that not only convince in keywords but also generate real added value. \n\n\n",
+                    "locationName": "Düsseldorf und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1935",
+                        "entityUrn": "urn:li:fs_miniCompany:1935",
+                        "name": "PTC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEpBSyxBzIEhw/company-logo_200_200/company-logo_200_200/0/1719854960782/ptcinc_logo?e=1747872000&v=beta&t=Bm_tZ5ZFuwCFH2JbuAUkeFcvrGpDnb2f5mkrRqcXvI8",
+                        "universalName": "ptcinc",
+                        "dashCompanyUrn": "urn:li:fsd_company:1935",
+                        "trackingId": "zeg0JburS2iMxaFIyORg/g=="
+                    },
+                    "companyName": "PTC"
+                },
+                {
+                    "title": "Senior System Specialist",
+                    "description": "After my education I continued to work at PTC and took over more responsibility. I got involved in projects in the retail industry as well as the process industry. The focus remained on discrete manufacturing.\nIn my role as Presales Technical Specialist i was responsible for mapping customer needs to possible technical solutions, creating backend and front end prototypes and presenting those to decision makers.\n\nSince January 2018 I am running the PTC collaboration with various Partners in McKinsey‘s Digital Capability Center in Aachen. This includes planing, developing and executing projects in, finding and validating use cases and presenting the resulting applications to senior management clients.",
+                    "locationName": "Düsseldorf und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1935",
+                        "entityUrn": "urn:li:fs_miniCompany:1935",
+                        "name": "PTC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEpBSyxBzIEhw/company-logo_200_200/company-logo_200_200/0/1719854960782/ptcinc_logo?e=1747872000&v=beta&t=Bm_tZ5ZFuwCFH2JbuAUkeFcvrGpDnb2f5mkrRqcXvI8",
+                        "universalName": "ptcinc",
+                        "dashCompanyUrn": "urn:li:fsd_company:1935",
+                        "trackingId": "k5yhDEx9QG6jd6i5yGg4kg=="
+                    },
+                    "companyName": "PTC"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Science (B.Sc.)",
+                    "fieldOfStudy": "Wirtschaftsinformatik",
+                    "schoolName": "FOM Hochschule für Oekonomie & Management",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Fachinformatik",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Informationstechnologie",
+                    "schoolName": "Technische Universität Dortmund",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Spanisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "IoT",
+                "Data Analytics",
+                "ThingWorx",
+                "Internet of Things"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Stellvertretender Bundesführer",
+                    "description": "As a volunteer scout leader, I help children and young adults to grow up as self-confident, empathic, open minded and tolerant people and to show responsibility. By organizing Events like the yearly summer hike, we create lasting and formative experiences. True to the motto “youth leads youth” I nowadays focus on enabling the new leaders by co-hosting 10-days onsite leadership trainings and lobbying in political committees. Currently i am leading a planning team organizing a summer camp for 600 scouts in North Macedonia taking place in 2025.",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "Deutscher Pfadfinder*innenbund Mosaik",
+                    "cause": "CHILDREN"
+                },
+                {
+                    "role": "Mitglied des Pfarrgemeinderat",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "Pfarrgemeinde St. Peter und Paul",
+                    "cause": "SOCIAL_SERVICES"
+                }
+            ],
+            "headline": "Guiding Digital Transformation in Pharma, Lab and MedTech",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoCountryName": "Germany",
+            "jobTitle": "Presales Account Development Specialist",
+            "companyName": "Siemens Digital Industries Software",
+            "companyPublicId": "siemenssoftware",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/siemenssoftware",
+            "following": false,
+            "followable": true,
+            "followersCount": 734,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Siemens Digital Industries Software",
+        "position": "Presales Account Development Specialist",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Presales Account Development Specialist",
+        "organization": "Siemens Digital Industries Software",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/lukas-schier/",
+        "company": "https://www.linkedin.com/company/siemenssoftware"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Presales Account Development Specialist",
+            "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:28423178",
+                "entityUrn": "urn:li:fs_miniCompany:28423178",
+                "name": "Siemens Digital Industries Software",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFTiUh1DUJ3fA/company-logo_200_200/company-logo_200_200/0/1719793387652/siemenssoftware_logo?e=1747872000&v=beta&t=UtYheq6psRDztyQnohSNL5y1F3Ioajp_ZFXVtKBN9BE",
+                "universalName": "siemenssoftware",
+                "dashCompanyUrn": "urn:li:fsd_company:28423178",
+                "trackingId": "jjEojH6cQXerJIaA8RJcFQ=="
+            },
+            "companyName": "Siemens Digital Industries Software"
+        },
+        {
+            "title": "Market Business Development Manager - Life Sciences CER",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1935",
+                "entityUrn": "urn:li:fs_miniCompany:1935",
+                "name": "PTC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEpBSyxBzIEhw/company-logo_200_200/company-logo_200_200/0/1719854960782/ptcinc_logo?e=1747872000&v=beta&t=Bm_tZ5ZFuwCFH2JbuAUkeFcvrGpDnb2f5mkrRqcXvI8",
+                "universalName": "ptcinc",
+                "dashCompanyUrn": "urn:li:fsd_company:1935",
+                "trackingId": "E5tA8ilSQ5KH8xcF8yXglA=="
+            },
+            "companyName": "PTC"
+        },
+        {
+            "title": "Senior Presales Technical Specialist - IoT & AR",
+            "locationName": "Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1935",
+                "entityUrn": "urn:li:fs_miniCompany:1935",
+                "name": "PTC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEpBSyxBzIEhw/company-logo_200_200/company-logo_200_200/0/1719854960782/ptcinc_logo?e=1747872000&v=beta&t=Bm_tZ5ZFuwCFH2JbuAUkeFcvrGpDnb2f5mkrRqcXvI8",
+                "universalName": "ptcinc",
+                "dashCompanyUrn": "urn:li:fsd_company:1935",
+                "trackingId": "ZH/+Sij3S3mZ6RnnLn1qWA=="
+            },
+            "companyName": "PTC"
+        },
+        {
+            "title": "Presales Technical Specialist - Industry 4.0",
+            "description": "During this time I led collaborative projects with research institutions, was responsible for PTC's involvement in industry consortia, presented solutions to C-level and upper management audiences and was part of the core team of the Aachen Experience Center at RWTH Aachen University, developing pilot projects and POCs in long-term partnerships with customers becoming a trusted advisor. My focus expaned from a more technical perspective to a holistic Market Architect view.\n\nAfter successfully completing my part-time degree, I focused on understanding business processes, challenges and specifics in the process and life science industry and acted as first contact for different customer roles in projects with leading positions. By combining my expertise in leading IoT, AR and PLM systems and my process understanding and experience in the area of Industry 4.0, I help clients to understand and design disruptive solutions that not only convince in keywords but also generate real added value. \n\n\n",
+            "locationName": "Düsseldorf und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1935",
+                "entityUrn": "urn:li:fs_miniCompany:1935",
+                "name": "PTC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEpBSyxBzIEhw/company-logo_200_200/company-logo_200_200/0/1719854960782/ptcinc_logo?e=1747872000&v=beta&t=Bm_tZ5ZFuwCFH2JbuAUkeFcvrGpDnb2f5mkrRqcXvI8",
+                "universalName": "ptcinc",
+                "dashCompanyUrn": "urn:li:fsd_company:1935",
+                "trackingId": "zeg0JburS2iMxaFIyORg/g=="
+            },
+            "companyName": "PTC"
+        },
+        {
+            "title": "Senior System Specialist",
+            "description": "After my education I continued to work at PTC and took over more responsibility. I got involved in projects in the retail industry as well as the process industry. The focus remained on discrete manufacturing.\nIn my role as Presales Technical Specialist i was responsible for mapping customer needs to possible technical solutions, creating backend and front end prototypes and presenting those to decision makers.\n\nSince January 2018 I am running the PTC collaboration with various Partners in McKinsey‘s Digital Capability Center in Aachen. This includes planing, developing and executing projects in, finding and validating use cases and presenting the resulting applications to senior management clients.",
+            "locationName": "Düsseldorf und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1935",
+                "entityUrn": "urn:li:fs_miniCompany:1935",
+                "name": "PTC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEpBSyxBzIEhw/company-logo_200_200/company-logo_200_200/0/1719854960782/ptcinc_logo?e=1747872000&v=beta&t=Bm_tZ5ZFuwCFH2JbuAUkeFcvrGpDnb2f5mkrRqcXvI8",
+                "universalName": "ptcinc",
+                "dashCompanyUrn": "urn:li:fsd_company:1935",
+                "trackingId": "k5yhDEx9QG6jd6i5yGg4kg=="
+            },
+            "companyName": "PTC"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Science (B.Sc.)",
+            "fieldOfStudy": "Wirtschaftsinformatik",
+            "schoolName": "FOM Hochschule für Oekonomie & Management",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Fachinformatik",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Informationstechnologie",
+            "schoolName": "Technische Universität Dortmund",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "IoT",
+        "Data Analytics",
+        "ThingWorx",
+        "Internet of Things"
+    ],
+    "lastEnriched": "2025-02-17"
+}

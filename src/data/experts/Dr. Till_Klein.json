@@ -1,0 +1,622 @@
+{
+    "id": "exp48079162",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Till",
+        "lastName": "Klein",
+        "fullName": "Dr. Till Klein",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQEWBS3hg1_w0A/profile-displayphoto-shrink_400_400/B4DZOGe8FnHUAg-/0/1733128078194?e=1745452800&v=beta&t=SOGep5-GbiOJeW4Ze_dHYYj-z4SFhVWiky-lJHw1dU4",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German"
+        ],
+        "allData": {
+            "id": "48079162",
+            "profileId": "ACoAAALdoToBMx3fCF8g0iXZfFTTHL4MgZm0jd0",
+            "firstName": "Dr. Till",
+            "lastName": "Klein",
+            "occupation": "Accelerating Trustworthy AI at scale",
+            "publicIdentifier": "tillklein",
+            "trackingId": "gwfw+uQ5TaGOB18TuZS+Sw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEWBS3hg1_w0A/profile-displayphoto-shrink_400_400/B4DZOGe8FnHUAg-/0/1733128078194?e=1745452800&v=beta&t=SOGep5-GbiOJeW4Ze_dHYYj-z4SFhVWiky-lJHw1dU4",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEat0B4qdwMbw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1636408923780?e=1745452800&v=beta&t=1yRtWXxByybpa80rkkVuivEQIoz7DAFbFiyvJArUEZE",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105973663",
+            "positions": [
+                {
+                    "title": "Lecturer",
+                    "description": "Seminar AI for Innovation and Entrepreneurship",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "Kzi7K/R6ReWl569YpEsmvA=="
+                    },
+                    "companyName": "Technical University of Munich"
+                },
+                {
+                    "title": "Head of AI Regulation",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:91617533",
+                        "entityUrn": "urn:li:fs_miniCompany:91617533",
+                        "name": "appliedAI Institute for Europe gGmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGtyXxxQ_6nGg/company-logo_200_200/company-logo_200_200/0/1684585268819/appliedai_institute_for_europe_ggmbh_logo?e=1747872000&v=beta&t=dmj5dGA5zAQ3zNN2bn0VudaTjTVnvPwYTWrqgfRMTCw",
+                        "universalName": "appliedai-institute-for-europe-ggmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:91617533",
+                        "trackingId": "gZd7U4CnSk+kSnlvrWxZRg=="
+                    },
+                    "companyName": "appliedAI Institute for Europe gGmbH"
+                },
+                {
+                    "title": "Expert",
+                    "description": "External Expert in the Innovation & Commercialization Working Group",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "International Affairs"
+                        ],
+                        "objectUrn": "urn:li:company:69971845",
+                        "entityUrn": "urn:li:fs_miniCompany:69971845",
+                        "name": "GPAI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFwYu9MvDPy4g/company-logo_200_200/company-logo_200_200/0/1630652417329/globalpartnershipai_logo?e=1747872000&v=beta&t=TV0vhzqwiBliSE2clfu0GNoFA-C3YDoXoKQGko3p9M0",
+                        "universalName": "globalpartnershipai",
+                        "dashCompanyUrn": "urn:li:fsd_company:69971845",
+                        "trackingId": "nxHNBB0YRZi9Y4FWuUshKg=="
+                    },
+                    "companyName": "GPAI"
+                },
+                {
+                    "title": "Expert",
+                    "locationName": "Global",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:95699472",
+                        "entityUrn": "urn:li:fs_miniCompany:95699472",
+                        "name": "International Expert Consortium on AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGuv-TeTRT-dA/company-logo_200_200/company-logo_200_200/0/1687202956120?e=1747872000&v=beta&t=yKWMcpD9wEdWcUCvLrA1W2VggYa97IVNEfQp9FF2wqU",
+                        "universalName": "recsai",
+                        "dashCompanyUrn": "urn:li:fsd_company:95699472",
+                        "trackingId": "L32wpGb+Rt+apH+/B2rJhg=="
+                    },
+                    "companyName": "International Expert Consortium on AI"
+                },
+                {
+                    "title": "Member of the OECD Network of Experts on AI (ONE AI)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "International Affairs"
+                        ],
+                        "objectUrn": "urn:li:company:165285",
+                        "entityUrn": "urn:li:fs_miniCompany:165285",
+                        "name": "OECD - OCDE",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQExgCORoBO_BQ/company-logo_200_200/company-logo_200_200/0/1642691571423/organisation_eco_cooperation_development_organisation_cooperation_developpement_eco_logo?e=1747872000&v=beta&t=Mgb-JK4eEbFHMlvSJp96pKREY5X4Tuv8AF5NlMEooGU",
+                        "universalName": "organisation-eco-cooperation-development-organisation-cooperation-developpement-eco",
+                        "dashCompanyUrn": "urn:li:fsd_company:165285",
+                        "trackingId": "/w/x7PJQQGWTgQTMu8177g=="
+                    },
+                    "companyName": "OECD - OCDE"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "AI & bias: the road to Algorithmic Fairness",
+                    "fieldOfStudy": "Political Science and Government",
+                    "schoolName": "European University Institute",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2023
+                        }
+                    }
+                },
+                {
+                    "degreeName": "AI Summer School",
+                    "schoolName": "KU Leuven",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Doctor of Philosophy (PhD)",
+                    "fieldOfStudy": "Networked Innovation",
+                    "schoolName": "Swinburne University of Technology",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Elements of AI",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "University of Helsinki"
+                },
+                {
+                    "name": "Certified ScrumMaster® (CSM®)",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "Scrum Alliance"
+                },
+                {
+                    "name": "Design Thinking",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "UnternehmerTUM"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "CIRCLE Workshop on Measuring Innovation Networks through Social Network Analysis"
+                },
+                {
+                    "name": "Social Network Analysis using ERGMs"
+                }
+            ],
+            "honors": [
+                {
+                    "title": "Swinburne University Postgraduate Research Award (SUPRA)",
+                    "description": "Swinburne University Postgraduate Research Awards (SUPRAs) are awarded to students of exceptional research potential undertaking doctoral studies.",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2013
+                    },
+                    "issuer": "Swinburne University of Technology"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "AI Regulation",
+                "Internal Audit",
+                "ISO 13485",
+                "Regulatory Affairs"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Alumni Coordinator Europe",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Swinburne University of Technology",
+                    "cause": "EDUCATION"
+                },
+                {
+                    "role": "Student Mentor",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Manage&More by UnternehmerTUM",
+                    "cause": "EDUCATION"
+                },
+                {
+                    "role": "Fundraiser",
+                    "description": "My movember profile:\nhttps://au.movember.com/mospace/13404372",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Movember Foundation",
+                    "cause": "HEALTH"
+                }
+            ],
+            "headline": "Accelerating Trustworthy AI at scale",
+            "summary": "Dr. Till Klein is the Head of AI Regulation at the non-profit appliedAI Institute for Europe gGmbH, following the goal to accelerate Trustworthy AI at scale. At appliedAI, and in his engagements as Expert with OECD.AI and GPAI, he is driving the co-creation of training, methods and tools for operationalizing emerging AI regulations, standards, and principles, from Europe and beyond.\n\nTill gained several years of industry experience in Regulatory Affairs for Medical Devices, as Lead Auditor for Quality Management Systems, and as Head for Quality Management in a Drone Company, which equips him with practical skills and perspectives that are instrumental for applying Trustworthy AI.\n\nHe holds a Ph.D. in Business from the Centre for Transformative Innovation at the Swinburne University of Technology in Melbourne, Australia, and an undergraduate degree in Industrial Engineering. Besides AI, his research interests include Economic Geography, Social Networks, and Innovation Management.",
+            "student": false,
+            "industryName": "International Affairs",
+            "industryUrn": "urn:li:fs_industry:74",
+            "geoLocationName": "Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Lecturer",
+            "companyName": "Technical University of Munich",
+            "companyPublicId": "technische-universitat-munchen",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+            "following": false,
+            "followable": true,
+            "followersCount": 7234,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Technical University of Munich",
+        "position": "Lecturer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Lecturer",
+        "organization": "Technical University of Munich",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/tillklein/",
+        "company": "https://www.linkedin.com/company/technische-universitat-munchen"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Lecturer",
+            "description": "Seminar AI for Innovation and Entrepreneurship",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "Kzi7K/R6ReWl569YpEsmvA=="
+            },
+            "companyName": "Technical University of Munich"
+        },
+        {
+            "title": "Head of AI Regulation",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:91617533",
+                "entityUrn": "urn:li:fs_miniCompany:91617533",
+                "name": "appliedAI Institute for Europe gGmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGtyXxxQ_6nGg/company-logo_200_200/company-logo_200_200/0/1684585268819/appliedai_institute_for_europe_ggmbh_logo?e=1747872000&v=beta&t=dmj5dGA5zAQ3zNN2bn0VudaTjTVnvPwYTWrqgfRMTCw",
+                "universalName": "appliedai-institute-for-europe-ggmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:91617533",
+                "trackingId": "gZd7U4CnSk+kSnlvrWxZRg=="
+            },
+            "companyName": "appliedAI Institute for Europe gGmbH"
+        },
+        {
+            "title": "Expert",
+            "description": "External Expert in the Innovation & Commercialization Working Group",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "International Affairs"
+                ],
+                "objectUrn": "urn:li:company:69971845",
+                "entityUrn": "urn:li:fs_miniCompany:69971845",
+                "name": "GPAI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFwYu9MvDPy4g/company-logo_200_200/company-logo_200_200/0/1630652417329/globalpartnershipai_logo?e=1747872000&v=beta&t=TV0vhzqwiBliSE2clfu0GNoFA-C3YDoXoKQGko3p9M0",
+                "universalName": "globalpartnershipai",
+                "dashCompanyUrn": "urn:li:fsd_company:69971845",
+                "trackingId": "nxHNBB0YRZi9Y4FWuUshKg=="
+            },
+            "companyName": "GPAI"
+        },
+        {
+            "title": "Expert",
+            "locationName": "Global",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:95699472",
+                "entityUrn": "urn:li:fs_miniCompany:95699472",
+                "name": "International Expert Consortium on AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGuv-TeTRT-dA/company-logo_200_200/company-logo_200_200/0/1687202956120?e=1747872000&v=beta&t=yKWMcpD9wEdWcUCvLrA1W2VggYa97IVNEfQp9FF2wqU",
+                "universalName": "recsai",
+                "dashCompanyUrn": "urn:li:fsd_company:95699472",
+                "trackingId": "L32wpGb+Rt+apH+/B2rJhg=="
+            },
+            "companyName": "International Expert Consortium on AI"
+        },
+        {
+            "title": "Member of the OECD Network of Experts on AI (ONE AI)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "International Affairs"
+                ],
+                "objectUrn": "urn:li:company:165285",
+                "entityUrn": "urn:li:fs_miniCompany:165285",
+                "name": "OECD - OCDE",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQExgCORoBO_BQ/company-logo_200_200/company-logo_200_200/0/1642691571423/organisation_eco_cooperation_development_organisation_cooperation_developpement_eco_logo?e=1747872000&v=beta&t=Mgb-JK4eEbFHMlvSJp96pKREY5X4Tuv8AF5NlMEooGU",
+                "universalName": "organisation-eco-cooperation-development-organisation-cooperation-developpement-eco",
+                "dashCompanyUrn": "urn:li:fsd_company:165285",
+                "trackingId": "/w/x7PJQQGWTgQTMu8177g=="
+            },
+            "companyName": "OECD - OCDE"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "AI & bias: the road to Algorithmic Fairness",
+            "fieldOfStudy": "Political Science and Government",
+            "schoolName": "European University Institute",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            }
+        },
+        {
+            "degreeName": "AI Summer School",
+            "schoolName": "KU Leuven",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            }
+        },
+        {
+            "degreeName": "Doctor of Philosophy (PhD)",
+            "fieldOfStudy": "Networked Innovation",
+            "schoolName": "Swinburne University of Technology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Elements of AI",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "authority": "University of Helsinki"
+        },
+        {
+            "name": "Certified ScrumMaster® (CSM®)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "authority": "Scrum Alliance"
+        },
+        {
+            "name": "Design Thinking",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "authority": "UnternehmerTUM"
+        }
+    ],
+    "skills": [
+        "AI Regulation",
+        "Internal Audit",
+        "ISO 13485",
+        "Regulatory Affairs"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,688 @@
+{
+    "id": "exp285688223",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Arno",
+        "lastName": "Fuhrmann",
+        "fullName": "Arno Fuhrmann",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFprYeo7pEIAQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697652300931?e=1745452800&v=beta&t=bKUAGb5OXcHa3-cHwOmGLJXNuJPFm7hBeUjU1ak81i4",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Mandarin",
+            "Russian",
+            "Serbo-Croatian",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "285688223",
+            "profileId": "ACoAABEHQZ8Bi3_fqCmbfJerYThF9BKwjOg59Uc",
+            "firstName": "Arno",
+            "lastName": "Fuhrmann",
+            "occupation": "Head of Individual Solutions @ appliedAI | Speaker | Lecturer | Building Europe's largest AI ecosystem",
+            "publicIdentifier": "arno-fuhrmann",
+            "trackingId": "XDzgO/nrTVGzRqIohzHl7w==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFprYeo7pEIAQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697652300931?e=1745452800&v=beta&t=bKUAGb5OXcHa3-cHwOmGLJXNuJPFm7hBeUjU1ak81i4",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHu1FcmDbPmXw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1694603354145?e=1745452800&v=beta&t=6L1iQA5K1BkGOY4Axb3TBg1gi7uNnsb6igoIunqTIlY",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101266091",
+            "positions": [
+                {
+                    "title": "Head of Individual Solutions",
+                    "locationName": "Heilbronn, Baden-Württemberg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2025
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:27174449",
+                        "entityUrn": "urn:li:fs_miniCompany:27174449",
+                        "name": "appliedAI Initiative GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                        "universalName": "appliedai-initiative",
+                        "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                        "trackingId": "8kpYiBshRea2zrR62fJ8PQ=="
+                    },
+                    "companyName": "appliedAI Initiative GmbH"
+                },
+                {
+                    "title": "Partner",
+                    "locationName": "Frankfurt am Main, Hesse, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2025
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:105501606",
+                        "entityUrn": "urn:li:fs_miniCompany:105501606",
+                        "name": "KL-Systems",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHiT8z0hRH68Q/company-logo_200_200/company-logo_200_200/0/1736976775545/kl_systems_logo?e=1747872000&v=beta&t=6BRw_B57E4mxbjxF3NSVBDG_UmbYeYiXRt6EiIf5CtU",
+                        "universalName": "kl-systems",
+                        "dashCompanyUrn": "urn:li:fsd_company:105501606",
+                        "trackingId": "v+1/LptKRsGzAS4fItmTpQ=="
+                    },
+                    "companyName": "KL-Systems"
+                },
+                {
+                    "title": "Lecturer Innovation Management",
+                    "locationName": "Heilbronn, Baden-Württemberg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:12683673",
+                        "entityUrn": "urn:li:fs_miniCompany:12683673",
+                        "name": "DHBW Heilbronn",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHu8QnqifHBSQ/company-logo_200_200/company-logo_200_200/0/1630574744911/dhbw_heilbronn_logo?e=1747872000&v=beta&t=WR-kmpwhkwNC18jWzwRpZl2c69xxI4tBXffqvxAZveM",
+                        "universalName": "dhbw-heilbronn",
+                        "dashCompanyUrn": "urn:li:fsd_company:12683673",
+                        "trackingId": "nXVmLvNoQTuxVkpVwrTf6w=="
+                    },
+                    "companyName": "DHBW Heilbronn"
+                },
+                {
+                    "title": "Head of AI Engineering",
+                    "locationName": "Heilbronn, Baden-Württemberg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:27174449",
+                        "entityUrn": "urn:li:fs_miniCompany:27174449",
+                        "name": "appliedAI Initiative GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                        "universalName": "appliedai-initiative",
+                        "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                        "trackingId": "GLSDtHMzQYSehWVMp0HgdA=="
+                    },
+                    "companyName": "appliedAI Initiative GmbH"
+                },
+                {
+                    "title": "Project Manager Data Science",
+                    "locationName": "Stuttgart, Baden-Württemberg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:3823740",
+                        "entityUrn": "urn:li:fs_miniCompany:3823740",
+                        "name": "Porsche AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF2AxUTFOSHVw/company-logo_200_200/company-logo_200_200/0/1686553470700/porsche_ag_logo?e=1747872000&v=beta&t=s7xaq7nNAAYaY5TkEaBLPhWHgkadZhZmRgGpGFFlmFk",
+                        "universalName": "porsche-ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:3823740",
+                        "trackingId": "0t2BmfXlReiWXDDfmeNQbQ=="
+                    },
+                    "companyName": "Porsche AG"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Science (M.Sc.)",
+                    "fieldOfStudy": "Robotics, Cognition, Intelligence",
+                    "schoolName": "Technische Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science (B.Sc.)",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Frankfurt University of Applied Sciences",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Guest auditor",
+                    "fieldOfStudy": "Physics",
+                    "schoolName": "Technische Universität Darmstadt",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Ausbilder-Eignung nach §30 BBiG",
+                    "authority": "Industrie- und Handelskammer Frankfurt am Main"
+                },
+                {
+                    "name": "Machine Learning - Stanford University",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2016
+                        }
+                    },
+                    "authority": "Coursera Course Certificates"
+                },
+                {
+                    "name": "Professional Scrum Master",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Scrum.org"
+                },
+                {
+                    "name": "AWS Certified Cloud Practitioner",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "Amazon Web Services (AWS)"
+                },
+                {
+                    "name": "Certified SAFe® 5 Agilist",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "Scaled Agile, Inc."
+                },
+                {
+                    "name": "Certified SAFe® 5 Product Owner/Product Manager",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "Scaled Agile, Inc."
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Friedrich Dessauer Foundation Prize for Outstanding Thesis",
+                    "issueDate": {
+                        "month": 3,
+                        "year": 2018
+                    },
+                    "issuer": "Verband der Elektrotechnik, Elektronik und Informationstechnik"
+                },
+                {
+                    "title": "P&G Excellence Award for Site Coordination & Collaboration",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2011
+                    },
+                    "issuer": "Procter & Gamble"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Mandarin",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Russian",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Serbo-Croatian",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "Strategy",
+                "Communication",
+                "Management",
+                "Data Strategies"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Board Member",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2012
+                        }
+                    },
+                    "companyName": "Political Student Organization",
+                    "cause": "POLITICS"
+                },
+                {
+                    "role": "Chairman of the Board",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2006
+                        }
+                    },
+                    "companyName": "Political Youth Organisation",
+                    "cause": "POLITICS"
+                }
+            ],
+            "headline": "Head of Individual Solutions @ appliedAI | Speaker | Lecturer | Building Europe's largest AI ecosystem",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Heilbronn, Baden-Württemberg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Head of Individual Solutions",
+            "companyName": "appliedAI Initiative GmbH",
+            "companyPublicId": "appliedai-initiative",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/appliedai-initiative",
+            "following": false,
+            "followable": true,
+            "followersCount": 1644,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "appliedAI Initiative GmbH",
+        "position": "Head of Individual Solutions",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Head of Individual Solutions",
+        "organization": "appliedAI Initiative GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/arno-fuhrmann/",
+        "company": "https://www.linkedin.com/company/appliedai-initiative"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Head of Individual Solutions",
+            "locationName": "Heilbronn, Baden-Württemberg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2025
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:27174449",
+                "entityUrn": "urn:li:fs_miniCompany:27174449",
+                "name": "appliedAI Initiative GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                "universalName": "appliedai-initiative",
+                "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                "trackingId": "8kpYiBshRea2zrR62fJ8PQ=="
+            },
+            "companyName": "appliedAI Initiative GmbH"
+        },
+        {
+            "title": "Partner",
+            "locationName": "Frankfurt am Main, Hesse, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2025
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:105501606",
+                "entityUrn": "urn:li:fs_miniCompany:105501606",
+                "name": "KL-Systems",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHiT8z0hRH68Q/company-logo_200_200/company-logo_200_200/0/1736976775545/kl_systems_logo?e=1747872000&v=beta&t=6BRw_B57E4mxbjxF3NSVBDG_UmbYeYiXRt6EiIf5CtU",
+                "universalName": "kl-systems",
+                "dashCompanyUrn": "urn:li:fsd_company:105501606",
+                "trackingId": "v+1/LptKRsGzAS4fItmTpQ=="
+            },
+            "companyName": "KL-Systems"
+        },
+        {
+            "title": "Lecturer Innovation Management",
+            "locationName": "Heilbronn, Baden-Württemberg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:12683673",
+                "entityUrn": "urn:li:fs_miniCompany:12683673",
+                "name": "DHBW Heilbronn",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHu8QnqifHBSQ/company-logo_200_200/company-logo_200_200/0/1630574744911/dhbw_heilbronn_logo?e=1747872000&v=beta&t=WR-kmpwhkwNC18jWzwRpZl2c69xxI4tBXffqvxAZveM",
+                "universalName": "dhbw-heilbronn",
+                "dashCompanyUrn": "urn:li:fsd_company:12683673",
+                "trackingId": "nXVmLvNoQTuxVkpVwrTf6w=="
+            },
+            "companyName": "DHBW Heilbronn"
+        },
+        {
+            "title": "Head of AI Engineering",
+            "locationName": "Heilbronn, Baden-Württemberg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:27174449",
+                "entityUrn": "urn:li:fs_miniCompany:27174449",
+                "name": "appliedAI Initiative GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                "universalName": "appliedai-initiative",
+                "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                "trackingId": "GLSDtHMzQYSehWVMp0HgdA=="
+            },
+            "companyName": "appliedAI Initiative GmbH"
+        },
+        {
+            "title": "Project Manager Data Science",
+            "locationName": "Stuttgart, Baden-Württemberg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:3823740",
+                "entityUrn": "urn:li:fs_miniCompany:3823740",
+                "name": "Porsche AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF2AxUTFOSHVw/company-logo_200_200/company-logo_200_200/0/1686553470700/porsche_ag_logo?e=1747872000&v=beta&t=s7xaq7nNAAYaY5TkEaBLPhWHgkadZhZmRgGpGFFlmFk",
+                "universalName": "porsche-ag",
+                "dashCompanyUrn": "urn:li:fsd_company:3823740",
+                "trackingId": "0t2BmfXlReiWXDDfmeNQbQ=="
+            },
+            "companyName": "Porsche AG"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Science (M.Sc.)",
+            "fieldOfStudy": "Robotics, Cognition, Intelligence",
+            "schoolName": "Technische Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science (B.Sc.)",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Frankfurt University of Applied Sciences",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "degreeName": "Guest auditor",
+            "fieldOfStudy": "Physics",
+            "schoolName": "Technische Universität Darmstadt",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Ausbilder-Eignung nach §30 BBiG",
+            "authority": "Industrie- und Handelskammer Frankfurt am Main"
+        },
+        {
+            "name": "Machine Learning - Stanford University",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "authority": "Coursera Course Certificates"
+        },
+        {
+            "name": "Professional Scrum Master",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "authority": "Scrum.org"
+        },
+        {
+            "name": "AWS Certified Cloud Practitioner",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "authority": "Amazon Web Services (AWS)"
+        },
+        {
+            "name": "Certified SAFe® 5 Agilist",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "authority": "Scaled Agile, Inc."
+        },
+        {
+            "name": "Certified SAFe® 5 Product Owner/Product Manager",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "authority": "Scaled Agile, Inc."
+        }
+    ],
+    "skills": [
+        "Strategy",
+        "Communication",
+        "Management",
+        "Data Strategies"
+    ],
+    "lastEnriched": "2025-02-17"
+}

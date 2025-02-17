@@ -1,0 +1,552 @@
+{
+    "id": "exp1114988490",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alexander",
+        "lastName": "Schulz",
+        "fullName": "Alexander Schulz",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQEIwnwzfMPvJg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728499733121?e=1745452800&v=beta&t=Bv38K23liO1Q9VOivOQyj74exrCdJvlAyphwSHR8w4Q",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Englisch",
+            "Französisch"
+        ],
+        "allData": {
+            "id": "1114988490",
+            "profileId": "ACoAAEJ1X8oBONhGleLi4aj0SKR-iX6Ywpw18sQ",
+            "firstName": "Alexander",
+            "lastName": "Schulz",
+            "occupation": "MD | FESC | PostDoc at Harvard Medical School | Clinician Scientist Cardiac Imaging | Clinical Fellow Internal Medicine & Cardiology",
+            "publicIdentifier": "alexander-schulz-b764a7271",
+            "trackingId": "ETHMbncpQIeMnrlRp0GjIw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQEIwnwzfMPvJg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728499733121?e=1745452800&v=beta&t=Bv38K23liO1Q9VOivOQyj74exrCdJvlAyphwSHR8w4Q",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102380872",
+            "positions": [
+                {
+                    "title": "Postdoctoral Research Fellow",
+                    "description": "Cardiovascular Magnetic Resonance Imaging | Hypertrophic Cardiomyopathy | Cardiac MR Center, Boston USA",
+                    "locationName": "Boston, Massachusetts, Vereinigte Staaten von Amerika",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1645",
+                        "entityUrn": "urn:li:fs_miniCompany:1645",
+                        "name": "Harvard Medical School",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFpnx840JxXEA/company-logo_200_200/company-logo_200_200/0/1631308066635?e=1747872000&v=beta&t=_fmxmfIsa67b5L0pLTPogwMYaJLE60dlTsFDXwGWLp0",
+                        "universalName": "harvard-medical-school",
+                        "dashCompanyUrn": "urn:li:fsd_company:1645",
+                        "trackingId": "tRA2vf1XSc24C9+YUpJfow=="
+                    },
+                    "companyName": "Harvard Medical School"
+                },
+                {
+                    "title": "Clinical Fellow",
+                    "description": "Department of Cardiology and Pulmonology | Heart Centre Göttingen, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:33506",
+                        "entityUrn": "urn:li:fs_miniCompany:33506",
+                        "name": "The University of Göttingen",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEdjIObngm3RQ/company-logo_200_200/company-logo_200_200/0/1649142571426/_university_of_goettingen_logo?e=1747872000&v=beta&t=U6mKshsLpsIH2D78dkxPI_nB4tHcYlVcK59zPGEAsso",
+                        "universalName": "-university-of-goettingen",
+                        "dashCompanyUrn": "urn:li:fsd_company:33506",
+                        "trackingId": "+xr8sph9RYabH8yUSasMGQ=="
+                    },
+                    "companyName": "Georg-August-Universität Göttingen"
+                },
+                {
+                    "title": "Research Fellow",
+                    "description": "Non-Invasive Cardiac Imaging | Department of Cardiology and Pulmonology | Heart Centre Göttingen, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:33506",
+                        "entityUrn": "urn:li:fs_miniCompany:33506",
+                        "name": "The University of Göttingen",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEdjIObngm3RQ/company-logo_200_200/company-logo_200_200/0/1649142571426/_university_of_goettingen_logo?e=1747872000&v=beta&t=U6mKshsLpsIH2D78dkxPI_nB4tHcYlVcK59zPGEAsso",
+                        "universalName": "-university-of-goettingen",
+                        "dashCompanyUrn": "urn:li:fsd_company:33506",
+                        "trackingId": "MfhIq0s0T1ie1ObPvO1f4Q=="
+                    },
+                    "companyName": "Georg-August-Universität Göttingen"
+                },
+                {
+                    "title": "Research Associate",
+                    "locationName": "Region London, Vereinigtes Königreich",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:7198",
+                        "entityUrn": "urn:li:fs_miniCompany:7198",
+                        "name": "King's College London",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_200_200/company-logo_200_200/0/1630592448557/kings_college_london_logo?e=1747872000&v=beta&t=GQEWfQXbb2iif1ToMFMRoYJ3-_QDHx3KmWk26ugZUU0",
+                        "universalName": "king's-college-london",
+                        "dashCompanyUrn": "urn:li:fsd_company:7198",
+                        "trackingId": "l9w/TsxqRNK6fOfqaWRJrw=="
+                    },
+                    "companyName": "King's College London"
+                },
+                {
+                    "title": "Doctoral Student",
+                    "description": "Fetal Cardiac Magnetic Resonance Imaging | Cardiovascular Flow Measurements | Charité, Berlin, Deutschland",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:44032",
+                        "entityUrn": "urn:li:fs_miniCompany:44032",
+                        "name": "Charité - Universitätsmedizin Berlin",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFIVlxH821Uag/company-logo_200_200/company-logo_200_200/0/1690897237019/charite_logo?e=1747872000&v=beta&t=I25nT04GIP8hYNez-VM5QW_qzyIPcyfaPDR8E_MOKCU",
+                        "universalName": "charite",
+                        "dashCompanyUrn": "urn:li:fsd_company:44032",
+                        "trackingId": "JaU/SXt1RKCfAn1Zy57IXA=="
+                    },
+                    "companyName": "Charité - Universitätsmedizin Berlin"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Facharzt für Innere Medizin und Kardiologie",
+                    "schoolName": "Georg-August-Universität Göttingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2027
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Postdoctoral Research Fellow",
+                    "schoolName": "Harvard Medical School",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2024
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MBBS and license to practice | Medical Studies",
+                    "fieldOfStudy": "Humanmedizin",
+                    "schoolName": "Charité - Universitätsmedizin Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "SCMR Level 3",
+                    "authority": "Society for Cardiovascular Magnetic Resonance | SCMR"
+                },
+                {
+                    "name": "Advanced Life Support (ALS) Provider",
+                    "authority": "ERC European Resuscitation Council"
+                },
+                {
+                    "name": "Zertifizierter Prüfarzt",
+                    "authority": "GCP, MPG and more"
+                },
+                {
+                    "name": "SCCT Level 3",
+                    "authority": "Society of Cardiovascular Computed Tomography"
+                },
+                {
+                    "name": "Zusatzbezeichnung Notfallmedizin",
+                    "authority": "Arztekammer Niedersachsen"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "McKinsey Capstone",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2019
+                    },
+                    "issuer": "McKinsey"
+                },
+                {
+                    "title": "Kaltenbach Doktorandenstipendium ",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2018
+                    },
+                    "issuer": "Deutsche Herzstiftung "
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "Anatomy",
+                "Preparation",
+                "Teaching",
+                "Mentorship"
+            ],
+            "volunteerExperiences": [],
+            "headline": "MD | FESC | PostDoc at Harvard Medical School | Clinician Scientist Cardiac Imaging | Clinical Fellow Internal Medicine & Cardiology",
+            "summary": "As a cardiology fellow I’ve specialized in advanced multimodality cardiac imaging, including transthoracic and transesophageal echocardiography (TTE/TOE), cardiac computed tomography (CCT), and cardiac magnetic resonance imaging (CMR). After successful level 3 certification, I am now actively providing training in cardiac imaging myself.\nCurrently, as a postdoctoral research fellow at Harvard Medical School, I’m exploring on how CMR can enhance our understanding of heart failure and cardiomyopathies, aiming to connect technical advancements in imaging with clinical practice.",
+            "student": false,
+            "industryName": "Medical Practice",
+            "industryUrn": "urn:li:fs_industry:13",
+            "geoLocationName": "Boston, Massachusetts",
+            "geoCountryName": "United States",
+            "jobTitle": "Postdoctoral Research Fellow",
+            "companyName": "Harvard Medical School",
+            "companyPublicId": "harvard-medical-school",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/harvard-medical-school",
+            "following": false,
+            "followable": true,
+            "followersCount": 902,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Harvard Medical School",
+        "position": "Postdoctoral Research Fellow",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Postdoctoral Research Fellow",
+        "organization": "Harvard Medical School",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alexander-schulz-b764a7271/",
+        "company": "https://www.linkedin.com/company/harvard-medical-school"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Postdoctoral Research Fellow",
+            "description": "Cardiovascular Magnetic Resonance Imaging | Hypertrophic Cardiomyopathy | Cardiac MR Center, Boston USA",
+            "locationName": "Boston, Massachusetts, Vereinigte Staaten von Amerika",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1645",
+                "entityUrn": "urn:li:fs_miniCompany:1645",
+                "name": "Harvard Medical School",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFpnx840JxXEA/company-logo_200_200/company-logo_200_200/0/1631308066635?e=1747872000&v=beta&t=_fmxmfIsa67b5L0pLTPogwMYaJLE60dlTsFDXwGWLp0",
+                "universalName": "harvard-medical-school",
+                "dashCompanyUrn": "urn:li:fsd_company:1645",
+                "trackingId": "tRA2vf1XSc24C9+YUpJfow=="
+            },
+            "companyName": "Harvard Medical School"
+        },
+        {
+            "title": "Clinical Fellow",
+            "description": "Department of Cardiology and Pulmonology | Heart Centre Göttingen, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:33506",
+                "entityUrn": "urn:li:fs_miniCompany:33506",
+                "name": "The University of Göttingen",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEdjIObngm3RQ/company-logo_200_200/company-logo_200_200/0/1649142571426/_university_of_goettingen_logo?e=1747872000&v=beta&t=U6mKshsLpsIH2D78dkxPI_nB4tHcYlVcK59zPGEAsso",
+                "universalName": "-university-of-goettingen",
+                "dashCompanyUrn": "urn:li:fsd_company:33506",
+                "trackingId": "+xr8sph9RYabH8yUSasMGQ=="
+            },
+            "companyName": "Georg-August-Universität Göttingen"
+        },
+        {
+            "title": "Research Fellow",
+            "description": "Non-Invasive Cardiac Imaging | Department of Cardiology and Pulmonology | Heart Centre Göttingen, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:33506",
+                "entityUrn": "urn:li:fs_miniCompany:33506",
+                "name": "The University of Göttingen",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEdjIObngm3RQ/company-logo_200_200/company-logo_200_200/0/1649142571426/_university_of_goettingen_logo?e=1747872000&v=beta&t=U6mKshsLpsIH2D78dkxPI_nB4tHcYlVcK59zPGEAsso",
+                "universalName": "-university-of-goettingen",
+                "dashCompanyUrn": "urn:li:fsd_company:33506",
+                "trackingId": "MfhIq0s0T1ie1ObPvO1f4Q=="
+            },
+            "companyName": "Georg-August-Universität Göttingen"
+        },
+        {
+            "title": "Research Associate",
+            "locationName": "Region London, Vereinigtes Königreich",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:7198",
+                "entityUrn": "urn:li:fs_miniCompany:7198",
+                "name": "King's College London",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_200_200/company-logo_200_200/0/1630592448557/kings_college_london_logo?e=1747872000&v=beta&t=GQEWfQXbb2iif1ToMFMRoYJ3-_QDHx3KmWk26ugZUU0",
+                "universalName": "king's-college-london",
+                "dashCompanyUrn": "urn:li:fsd_company:7198",
+                "trackingId": "l9w/TsxqRNK6fOfqaWRJrw=="
+            },
+            "companyName": "King's College London"
+        },
+        {
+            "title": "Doctoral Student",
+            "description": "Fetal Cardiac Magnetic Resonance Imaging | Cardiovascular Flow Measurements | Charité, Berlin, Deutschland",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:44032",
+                "entityUrn": "urn:li:fs_miniCompany:44032",
+                "name": "Charité - Universitätsmedizin Berlin",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFIVlxH821Uag/company-logo_200_200/company-logo_200_200/0/1690897237019/charite_logo?e=1747872000&v=beta&t=I25nT04GIP8hYNez-VM5QW_qzyIPcyfaPDR8E_MOKCU",
+                "universalName": "charite",
+                "dashCompanyUrn": "urn:li:fsd_company:44032",
+                "trackingId": "JaU/SXt1RKCfAn1Zy57IXA=="
+            },
+            "companyName": "Charité - Universitätsmedizin Berlin"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Facharzt für Innere Medizin und Kardiologie",
+            "schoolName": "Georg-August-Universität Göttingen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2027
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "degreeName": "Postdoctoral Research Fellow",
+            "schoolName": "Harvard Medical School",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2024
+                }
+            }
+        },
+        {
+            "degreeName": "MBBS and license to practice | Medical Studies",
+            "fieldOfStudy": "Humanmedizin",
+            "schoolName": "Charité - Universitätsmedizin Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "SCMR Level 3",
+            "authority": "Society for Cardiovascular Magnetic Resonance | SCMR"
+        },
+        {
+            "name": "Advanced Life Support (ALS) Provider",
+            "authority": "ERC European Resuscitation Council"
+        },
+        {
+            "name": "Zertifizierter Prüfarzt",
+            "authority": "GCP, MPG and more"
+        },
+        {
+            "name": "SCCT Level 3",
+            "authority": "Society of Cardiovascular Computed Tomography"
+        },
+        {
+            "name": "Zusatzbezeichnung Notfallmedizin",
+            "authority": "Arztekammer Niedersachsen"
+        }
+    ],
+    "skills": [
+        "Anatomy",
+        "Preparation",
+        "Teaching",
+        "Mentorship"
+    ],
+    "lastEnriched": "2025-02-17"
+}

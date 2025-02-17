@@ -1,0 +1,445 @@
+{
+    "id": "exp197481743",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura",
+        "lastName": "Thompson",
+        "fullName": "Laura Thompson",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFp78S5MvZbUQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699025367060?e=1745452800&v=beta&t=wKHW_sj0gRjfraHGc5HRBzk6kc4LHKzsDt2OOjsbXkE",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "Greek",
+            "Italian",
+            "Portuguese",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "197481743",
+            "profileId": "ACoAAAvFVQ8BvzL33K1-LikpKmZXg2xEQ1MZXuU",
+            "firstName": "Laura",
+            "lastName": "Thompson",
+            "occupation": "Assistant Director General for External and Corporate Relations at the International Labour Office (ILO) and Former Deputy Director General at International Organization for Migration (IOM)",
+            "publicIdentifier": "laura-thompson-4bb17756",
+            "trackingId": "RBQU+UVaS9GvnS5RNbLMAA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFp78S5MvZbUQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699025367060?e=1745452800&v=beta&t=wKHW_sj0gRjfraHGc5HRBzk6kc4LHKzsDt2OOjsbXkE",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:106633403",
+            "positions": [
+                {
+                    "title": "Assistant Director General for External and Corporate Relations ",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "International Affairs"
+                        ],
+                        "objectUrn": "urn:li:company:164314",
+                        "entityUrn": "urn:li:fs_miniCompany:164314",
+                        "name": "International Labour Organization",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF1LqzU9GnGOw/company-logo_200_200/company-logo_200_200/0/1630605538720/international_labour_organization_ilo_logo?e=1747872000&v=beta&t=fT4nrvdWhFrJ_QERe-fXYV44XSGX8oePWM2Zr-epAWs",
+                        "universalName": "international-labour-organization-ilo",
+                        "dashCompanyUrn": "urn:li:fsd_company:164314",
+                        "trackingId": "nksi72CtRkqahvBVN0JdCg=="
+                    },
+                    "companyName": "International Labour Organization"
+                },
+                {
+                    "title": "Director, Centre for Innovation in Global Politics and Economics",
+                    "locationName": "Madrid, Community of Madrid, Spain",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Education Management"
+                        ],
+                        "objectUrn": "urn:li:company:2816303",
+                        "entityUrn": "urn:li:fs_miniCompany:2816303",
+                        "name": "IE University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE_cu0afFEiAw/company-logo_200_200/company-logo_200_200/0/1663153533407/ie_university_logo?e=1747872000&v=beta&t=mwQ0MSI4XqRC2t06cAvoKa5vH-mHco60se6iiY_-RLA",
+                        "universalName": "ie-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:2816303",
+                        "trackingId": "fg9JIP3JSiOa4/tPxVh8gA=="
+                    },
+                    "companyName": "IE University"
+                },
+                {
+                    "title": "Independent Expert / Adviser",
+                    "locationName": "Geneva, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Freelance"
+                },
+                {
+                    "title": "Deputy Director General",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "International Affairs"
+                        ],
+                        "objectUrn": "urn:li:company:164447",
+                        "entityUrn": "urn:li:fs_miniCompany:164447",
+                        "name": "IOM - UN Migration",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF47uUmjljbUA/company-logo_200_200/company-logo_200_200/0/1631310380740?e=1747872000&v=beta&t=8uJLtNYDnWij8YdtX62RU37HvANEQ-0mygSWRICEDNE",
+                        "universalName": "iom",
+                        "dashCompanyUrn": "urn:li:fsd_company:164447",
+                        "trackingId": "yZlaA6t0QceR0vAviy2GIQ=="
+                    },
+                    "companyName": "IOM - UN Migration"
+                },
+                {
+                    "title": "Ambassador Extraordinary and Plenipotentiary, Permanent Representative",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2007
+                        }
+                    },
+                    "companyName": "Permanent Mission of Costa Rica to United Nations and other International Organizations in Geneva"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Executive Education Certificate: The Challenge of Leadership - Creating Reflective Leaders",
+                    "fieldOfStudy": "Organizational Leadership",
+                    "schoolName": "INSEAD",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Executice Education Certificate: Senior Officials in Government",
+                    "fieldOfStudy": "Organizational Leadership",
+                    "schoolName": "Harvard University, John F. Kennedy School of Government",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplôme d’Etudes Supérieures (DES)",
+                    "fieldOfStudy": "International Relations with specialization International Law",
+                    "schoolName": "Graduate Institute of International and Development Studies",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Greek",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "Italian",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Portuguese",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "International Relations",
+                "Public International Law",
+                "International Humanitarian Law",
+                "Migration Law"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Assistant Director General for External and Corporate Relations at the International Labour Office (ILO) and Former Deputy Director General at International Organization for Migration (IOM)",
+            "summary": "Laura Thompson has vast experience in multilateral negotiations, an in-depth knowledge of the functioning of the International Organizations, their internal procedures and practices. \nIn addition to her deep knowledge of migration, refugees and internally displaced persons related matters, in which she has worked for the last 15 years, Laura has extensive expertise in management, institutional governance, Public Private Partnerships, change management processes, leadership, and gender issues.  \nShe has excellent managerial skills, strong leadership ability, vision and dynamism, is politically savvy, strategically-minded and results-oriented.  \nMs Thompson has an ease in working with people from diverse backgrounds, cultures and languages, qualities that, coupled with her solid academic background, enable her to lead Organizations, build strong working relationships within international/global operations, and facilitate an open dialogue amongst all partners. \nDuring her career, she has participated as a fellow professor, a keynote speaker or a panellist in several seminars and roundtables on a wide variety of subjects and has trained and mentored a large number of staff.",
+            "student": false,
+            "industryName": "International Affairs",
+            "industryUrn": "urn:li:fs_industry:74",
+            "geoLocationName": "Geneva, Geneva",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Assistant Director General for External and Corporate Relations ",
+            "companyName": "International Labour Organization",
+            "companyPublicId": "international-labour-organization-ilo",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/international-labour-organization-ilo",
+            "following": false,
+            "followable": true,
+            "followersCount": 616,
+            "connectionsCount": 446,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "International Labour Organization",
+        "position": "Assistant Director General for External and Corporate Relations ",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "International Affairs"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Assistant Director General for External and Corporate Relations ",
+        "organization": "International Labour Organization",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laura-thompson-4bb17756/",
+        "company": "https://www.linkedin.com/company/international-labour-organization-ilo"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Assistant Director General for External and Corporate Relations ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "International Affairs"
+                ],
+                "objectUrn": "urn:li:company:164314",
+                "entityUrn": "urn:li:fs_miniCompany:164314",
+                "name": "International Labour Organization",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF1LqzU9GnGOw/company-logo_200_200/company-logo_200_200/0/1630605538720/international_labour_organization_ilo_logo?e=1747872000&v=beta&t=fT4nrvdWhFrJ_QERe-fXYV44XSGX8oePWM2Zr-epAWs",
+                "universalName": "international-labour-organization-ilo",
+                "dashCompanyUrn": "urn:li:fsd_company:164314",
+                "trackingId": "nksi72CtRkqahvBVN0JdCg=="
+            },
+            "companyName": "International Labour Organization"
+        },
+        {
+            "title": "Director, Centre for Innovation in Global Politics and Economics",
+            "locationName": "Madrid, Community of Madrid, Spain",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Education Management"
+                ],
+                "objectUrn": "urn:li:company:2816303",
+                "entityUrn": "urn:li:fs_miniCompany:2816303",
+                "name": "IE University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE_cu0afFEiAw/company-logo_200_200/company-logo_200_200/0/1663153533407/ie_university_logo?e=1747872000&v=beta&t=mwQ0MSI4XqRC2t06cAvoKa5vH-mHco60se6iiY_-RLA",
+                "universalName": "ie-university",
+                "dashCompanyUrn": "urn:li:fsd_company:2816303",
+                "trackingId": "fg9JIP3JSiOa4/tPxVh8gA=="
+            },
+            "companyName": "IE University"
+        },
+        {
+            "title": "Independent Expert / Adviser",
+            "locationName": "Geneva, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "companyName": "Freelance"
+        },
+        {
+            "title": "Deputy Director General",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "International Affairs"
+                ],
+                "objectUrn": "urn:li:company:164447",
+                "entityUrn": "urn:li:fs_miniCompany:164447",
+                "name": "IOM - UN Migration",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF47uUmjljbUA/company-logo_200_200/company-logo_200_200/0/1631310380740?e=1747872000&v=beta&t=8uJLtNYDnWij8YdtX62RU37HvANEQ-0mygSWRICEDNE",
+                "universalName": "iom",
+                "dashCompanyUrn": "urn:li:fsd_company:164447",
+                "trackingId": "yZlaA6t0QceR0vAviy2GIQ=="
+            },
+            "companyName": "IOM - UN Migration"
+        },
+        {
+            "title": "Ambassador Extraordinary and Plenipotentiary, Permanent Representative",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2007
+                }
+            },
+            "companyName": "Permanent Mission of Costa Rica to United Nations and other International Organizations in Geneva"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Executive Education Certificate: The Challenge of Leadership - Creating Reflective Leaders",
+            "fieldOfStudy": "Organizational Leadership",
+            "schoolName": "INSEAD",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "degreeName": "Executice Education Certificate: Senior Officials in Government",
+            "fieldOfStudy": "Organizational Leadership",
+            "schoolName": "Harvard University, John F. Kennedy School of Government",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        },
+        {
+            "degreeName": "Diplôme d’Etudes Supérieures (DES)",
+            "fieldOfStudy": "International Relations with specialization International Law",
+            "schoolName": "Graduate Institute of International and Development Studies",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "International Relations",
+        "Public International Law",
+        "International Humanitarian Law",
+        "Migration Law"
+    ],
+    "lastEnriched": "2025-02-17"
+}

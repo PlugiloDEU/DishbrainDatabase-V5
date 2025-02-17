@@ -1,0 +1,131 @@
+{
+    "id": "exp74652688",
+    "personalInfo": {
+        "title": null,
+        "firstName": "BjÃ¸rn",
+        "lastName": "Mogensen",
+        "fullName": "BjÃ¸rn Mogensen",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "74652688",
+            "profileId": "ACoAAARzHBABHyq1n6EkAgkJQ3fw1ePvJUAWZJ0",
+            "firstName": "BjÃ¸rn",
+            "lastName": "Mogensen",
+            "occupation": "manager at My company",
+            "publicIdentifier": "bjã¸rn-mogensen-95400121",
+            "trackingId": "JGTVSSuFQ0OahNx8jl03/w==",
+            "countryCode": "dk",
+            "geoUrn": "urn:li:fs_geo:100780238",
+            "positions": [
+                {
+                    "title": "manager",
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 0,
+                            "end": 1
+                        },
+                        "industries": [
+                            "Alternative Medicine"
+                        ],
+                        "objectUrn": "urn:li:company:450618",
+                        "entityUrn": "urn:li:fs_miniCompany:450618",
+                        "name": "EUGF - Erfolgreich und gesund führen",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHag3tnQ5Cd9Q/company-logo_200_200/company-logo_200_200/0/1643647943677/my_company_logo?e=1747872000&v=beta&t=QFmM0OyWc499FEdDxrGe1dGIaZgEV1mY8q1InyQJ-N4",
+                        "universalName": "my-company",
+                        "dashCompanyUrn": "urn:li:fsd_company:450618",
+                        "trackingId": "u1gms54xQMWXR1wNFnGgGw=="
+                    },
+                    "companyName": "My company"
+                }
+            ],
+            "educations": [],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "manager at My company",
+            "student": false,
+            "industryName": "Professional Training & Coaching",
+            "industryUrn": "urn:li:fs_industry:105",
+            "geoLocationName": "Region of Southern Denmark",
+            "geoCountryName": "Denmark",
+            "jobTitle": "manager",
+            "companyName": "My company",
+            "companyPublicId": "my-company",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/my-company",
+            "following": false,
+            "followable": true,
+            "followersCount": 8,
+            "connectionsCount": 8,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "My company",
+        "position": "manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Alternative Medicine"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "manager",
+        "organization": "My company",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/bjã¸rn-mogensen-95400121/",
+        "company": "https://www.linkedin.com/company/my-company"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "manager",
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Alternative Medicine"
+                ],
+                "objectUrn": "urn:li:company:450618",
+                "entityUrn": "urn:li:fs_miniCompany:450618",
+                "name": "EUGF - Erfolgreich und gesund führen",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHag3tnQ5Cd9Q/company-logo_200_200/company-logo_200_200/0/1643647943677/my_company_logo?e=1747872000&v=beta&t=QFmM0OyWc499FEdDxrGe1dGIaZgEV1mY8q1InyQJ-N4",
+                "universalName": "my-company",
+                "dashCompanyUrn": "urn:li:fsd_company:450618",
+                "trackingId": "u1gms54xQMWXR1wNFnGgGw=="
+            },
+            "companyName": "My company"
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

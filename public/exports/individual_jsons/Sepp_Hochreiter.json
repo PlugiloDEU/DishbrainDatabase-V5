@@ -1,0 +1,385 @@
+{
+    "id": "exp161589329",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sepp",
+        "lastName": "Hochreiter",
+        "fullName": "Sepp Hochreiter",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQGmwVWwCpBs-A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517423100952?e=1745452800&v=beta&t=941Yu7jafKfKJcyEagwf92F9NNVaApAqr6YjtyiRG6M",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "161589329",
+            "profileId": "ACoAAAmhqFEBo6NtG3BrAA5lDtBxeI_447jziKg",
+            "firstName": "Sepp",
+            "lastName": "Hochreiter",
+            "occupation": "Professor at Johannes Kepler Universität Linz",
+            "publicIdentifier": "sepp-hochreiter-41514846",
+            "trackingId": "yipCjjPPRw6/dWwouKbuaw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQGmwVWwCpBs-A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517423100952?e=1745452800&v=beta&t=941Yu7jafKfKJcyEagwf92F9NNVaApAqr6YjtyiRG6M",
+            "countryCode": "at",
+            "geoUrn": "urn:li:fs_geo:103883259",
+            "positions": [
+                {
+                    "title": "Chief Scientist",
+                    "locationName": "Linz (Stadt), Oberösterreich, Österreich",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:101561073",
+                        "entityUrn": "urn:li:fs_miniCompany:101561073",
+                        "name": "NXAI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGu0e_AqzJd9A/company-logo_200_200/company-logo_200_200/0/1707123433616/nxai_logo?e=1747872000&v=beta&t=1_YYPKsC8YOEr7TcZaH7t074CWgoa0jWyrnYJU5oMkc",
+                        "universalName": "nxai",
+                        "dashCompanyUrn": "urn:li:fsd_company:101561073",
+                        "trackingId": "hZLN6IwGQBOP1umFJVXTIg=="
+                    },
+                    "companyName": "NXAI"
+                },
+                {
+                    "title": "Professor",
+                    "description": "I am the head of the Institute of Machine Learning. The Institute for Machine Learning conducts internationally renowned research and provides profound education in machine learning and artificial intelligence. Its research focuses on development and application of machine learning and statistical methods.",
+                    "locationName": "Linz, Upper Austria, Austria",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:49299",
+                        "entityUrn": "urn:li:fs_miniCompany:49299",
+                        "name": "Johannes Kepler Universität Linz",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHxCNDTcoewqw/company-logo_200_200/company-logo_200_200/0/1631308678749?e=1747872000&v=beta&t=M6G0mT6c5hVB4wD4pXMG4fMgTNLE1_23ty0MBlZnrWs",
+                        "universalName": "jkulinz",
+                        "dashCompanyUrn": "urn:li:fsd_company:49299",
+                        "trackingId": "ZHrwIZYcQn+bBvLj2rwL4A=="
+                    },
+                    "companyName": "Johannes Kepler Universität Linz"
+                },
+                {
+                    "title": "Director",
+                    "locationName": "Linz, Upper Austria, Austria",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "ELLIS Unit LINZ"
+                },
+                {
+                    "title": "Head",
+                    "description": "I am the head of the Artificial Intelligence Lab at the Linz Institute of Technology (LIT) located at the the Johannes Kepler University (JKU). The AI Lab advance research in Artificial Intelligence.",
+                    "locationName": "Linz, Upper Austria, Austria",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2018
+                        }
+                    },
+                    "companyName": "LIT AI Lab, Johannes Kepler University, Linz"
+                },
+                {
+                    "title": "Professor",
+                    "description": "I headed the Institute of Bioinformatics which conducts internationally renowned research and provides education in bioinformatics. Its research focuses on theoretically profound development and application of machine learning methods in bioinformatics. Applications are focused on, but not limited to, the biomedical domain.",
+                    "locationName": "Linz, Upper Austria, Austria",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:49299",
+                        "entityUrn": "urn:li:fs_miniCompany:49299",
+                        "name": "Johannes Kepler Universität Linz",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHxCNDTcoewqw/company-logo_200_200/company-logo_200_200/0/1631308678749?e=1747872000&v=beta&t=M6G0mT6c5hVB4wD4pXMG4fMgTNLE1_23ty0MBlZnrWs",
+                        "universalName": "jkulinz",
+                        "dashCompanyUrn": "urn:li:fsd_company:49299",
+                        "trackingId": "4DKB4n6SQxOqZ0pmtTBLVg=="
+                    },
+                    "companyName": "Johannes Kepler University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Computer Science / Machine Learning",
+                    "schoolName": "Technische Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1992
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MSc Computer Science (Dipl.-Inform.)",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Technische Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1991
+                        },
+                        "startDate": {
+                            "year": 1986
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Bioinformatics",
+                "Machine Learning",
+                "Computer Science",
+                "Computational Biology"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor at Johannes Kepler Universität Linz",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoCountryName": "Austria",
+            "jobTitle": "Chief Scientist",
+            "companyName": "NXAI",
+            "companyPublicId": "nxai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/nxai",
+            "following": false,
+            "followable": true,
+            "followersCount": 20223,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "NXAI",
+        "position": "Chief Scientist",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chief Scientist",
+        "organization": "NXAI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sepp-hochreiter-41514846/",
+        "company": "https://www.linkedin.com/company/nxai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chief Scientist",
+            "locationName": "Linz (Stadt), Oberösterreich, Österreich",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:101561073",
+                "entityUrn": "urn:li:fs_miniCompany:101561073",
+                "name": "NXAI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGu0e_AqzJd9A/company-logo_200_200/company-logo_200_200/0/1707123433616/nxai_logo?e=1747872000&v=beta&t=1_YYPKsC8YOEr7TcZaH7t074CWgoa0jWyrnYJU5oMkc",
+                "universalName": "nxai",
+                "dashCompanyUrn": "urn:li:fsd_company:101561073",
+                "trackingId": "hZLN6IwGQBOP1umFJVXTIg=="
+            },
+            "companyName": "NXAI"
+        },
+        {
+            "title": "Professor",
+            "description": "I am the head of the Institute of Machine Learning. The Institute for Machine Learning conducts internationally renowned research and provides profound education in machine learning and artificial intelligence. Its research focuses on development and application of machine learning and statistical methods.",
+            "locationName": "Linz, Upper Austria, Austria",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:49299",
+                "entityUrn": "urn:li:fs_miniCompany:49299",
+                "name": "Johannes Kepler Universität Linz",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHxCNDTcoewqw/company-logo_200_200/company-logo_200_200/0/1631308678749?e=1747872000&v=beta&t=M6G0mT6c5hVB4wD4pXMG4fMgTNLE1_23ty0MBlZnrWs",
+                "universalName": "jkulinz",
+                "dashCompanyUrn": "urn:li:fsd_company:49299",
+                "trackingId": "ZHrwIZYcQn+bBvLj2rwL4A=="
+            },
+            "companyName": "Johannes Kepler Universität Linz"
+        },
+        {
+            "title": "Director",
+            "locationName": "Linz, Upper Austria, Austria",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "companyName": "ELLIS Unit LINZ"
+        },
+        {
+            "title": "Head",
+            "description": "I am the head of the Artificial Intelligence Lab at the Linz Institute of Technology (LIT) located at the the Johannes Kepler University (JKU). The AI Lab advance research in Artificial Intelligence.",
+            "locationName": "Linz, Upper Austria, Austria",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "companyName": "LIT AI Lab, Johannes Kepler University, Linz"
+        },
+        {
+            "title": "Professor",
+            "description": "I headed the Institute of Bioinformatics which conducts internationally renowned research and provides education in bioinformatics. Its research focuses on theoretically profound development and application of machine learning methods in bioinformatics. Applications are focused on, but not limited to, the biomedical domain.",
+            "locationName": "Linz, Upper Austria, Austria",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:49299",
+                "entityUrn": "urn:li:fs_miniCompany:49299",
+                "name": "Johannes Kepler Universität Linz",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHxCNDTcoewqw/company-logo_200_200/company-logo_200_200/0/1631308678749?e=1747872000&v=beta&t=M6G0mT6c5hVB4wD4pXMG4fMgTNLE1_23ty0MBlZnrWs",
+                "universalName": "jkulinz",
+                "dashCompanyUrn": "urn:li:fsd_company:49299",
+                "trackingId": "4DKB4n6SQxOqZ0pmtTBLVg=="
+            },
+            "companyName": "Johannes Kepler University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Computer Science / Machine Learning",
+            "schoolName": "Technische Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            }
+        },
+        {
+            "degreeName": "MSc Computer Science (Dipl.-Inform.)",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Technische Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1991
+                },
+                "startDate": {
+                    "year": 1986
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Bioinformatics",
+        "Machine Learning",
+        "Computer Science",
+        "Computational Biology"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,612 @@
+{
+    "id": "exp591682910",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Bernhard",
+        "lastName": "Nebel",
+        "fullName": "Bernhard Nebel",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHGGla56oFvSA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1668097518958?e=1745452800&v=beta&t=xqH0M-xEgiy-Ls-ojcc_b01BQXA5VK2P3AtIxczXLOI",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "591682910",
+            "profileId": "ACoAACNEXV4BGjwDpllAKmC1ZhugJR4bIe8gQH4",
+            "firstName": "Bernhard",
+            "lastName": "Nebel",
+            "occupation": "Professor an der Albert-Ludwigs-Universität Freiburg im Breisgau",
+            "publicIdentifier": "bernhard-nebel-1121a1146",
+            "trackingId": "2J2/zZUKRzW16cZDg1E/aA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHGGla56oFvSA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1668097518958?e=1745452800&v=beta&t=xqH0M-xEgiy-Ls-ojcc_b01BQXA5VK2P3AtIxczXLOI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106032623",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "locationName": "Freiburg im Breisgau, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 1996
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1763186",
+                        "entityUrn": "urn:li:fs_miniCompany:1763186",
+                        "name": "The University of Freiburg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGWRw584ibV7Q/company-logo_200_200/company-logo_200_200/0/1677671036177/albert_ludwigs_universitaet_freiburg_logo?e=1747872000&v=beta&t=VgdFf8Q6_fZYb9sS9ygLjicxaa4xRmNtS0_amSxxLFA",
+                        "universalName": "albert-ludwigs-universitaet-freiburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:1763186",
+                        "trackingId": "ucdQ7ws3RtOjHvCeOBg90g=="
+                    },
+                    "companyName": "Albert-Ludwigs-Universität Freiburg im Breisgau"
+                },
+                {
+                    "title": "Professor",
+                    "locationName": "Ulm",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 1996
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 1993
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Education Management"
+                        ],
+                        "objectUrn": "urn:li:company:24504",
+                        "entityUrn": "urn:li:fs_miniCompany:24504",
+                        "name": "Ulm University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHNE-WihUTmUA/company-logo_200_200/company-logo_200_200/0/1630576944523/university_of_ulm_logo?e=1747872000&v=beta&t=QuUh3paWa2BSd2mF3O7LpfCUeQp62a5kwZNN8RNFFXw",
+                        "universalName": "ulm-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:24504",
+                        "trackingId": "9MwJJ4ibRhqWyWlI4/AcYg=="
+                    },
+                    "companyName": "Universität Ulm"
+                },
+                {
+                    "title": "Senior Researcher",
+                    "locationName": "Saarbrücken und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 1993
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 1989
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "RyRZlJskTNCa84JaKE6ayw=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Guest Researcher",
+                    "locationName": "Scientific Center Stuttgart",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 1989
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 1988
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1009",
+                        "entityUrn": "urn:li:fs_miniCompany:1009",
+                        "name": "IBM",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                        "universalName": "ibm",
+                        "dashCompanyUrn": "urn:li:fsd_company:1009",
+                        "trackingId": "l5QuLZhKTuSkbX+0lYsruA=="
+                    },
+                    "companyName": "IBM"
+                },
+                {
+                    "title": "Researcher",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 1988
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 1985
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Education Management"
+                        ],
+                        "objectUrn": "urn:li:company:1188458",
+                        "entityUrn": "urn:li:fs_miniCompany:1188458",
+                        "name": "Technische Universität Berlin",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMPWp-fo0MWA/company-logo_200_200/company-logo_200_200/0/1675944963271/tuberlin_logo?e=1747872000&v=beta&t=J9Xp9mG9LYonP6xi5mWiQUnJ8RyAXM-2YOtsENQPNZc",
+                        "universalName": "tuberlin",
+                        "dashCompanyUrn": "urn:li:fsd_company:1188458",
+                        "trackingId": "MM5wTMlEQF+Rl0hq6piS6w=="
+                    },
+                    "companyName": "Technische Universität Berlin"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doktor (Ph.D.)",
+                    "fieldOfStudy": "Informatik",
+                    "schoolName": "Universität des Saarlandes",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1989
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom-Informatiker",
+                    "fieldOfStudy": "Informatik",
+                    "schoolName": "Universität Hamburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1980
+                        },
+                        "startDate": {
+                            "year": 1975
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Abitur",
+                    "schoolName": "Gymnasium Rahlstedt",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1974
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Donald E. Walker Distinguished Service Award",
+                    "issueDate": {
+                        "month": 7,
+                        "year": 2022
+                    },
+                    "issuer": "International Joint Conference on Artificial Intelligence"
+                },
+                {
+                    "title": "ACM Fellow",
+                    "issueDate": {
+                        "month": 1,
+                        "year": 2022
+                    },
+                    "issuer": "ACM"
+                },
+                {
+                    "title": "Named as one of the ten formative researchers in AI in Germany",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2019
+                    },
+                    "issuer": "Gesellschaft für Informatik"
+                },
+                {
+                    "title": "AAAI Fellow",
+                    "issueDate": {
+                        "month": 8,
+                        "year": 2010
+                    },
+                    "issuer": "AAAI"
+                },
+                {
+                    "title": "Member of Leopoldina",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2009
+                    },
+                    "issuer": "German Academy of Science Leopoldina"
+                },
+                {
+                    "title": "Honorable Mention for Influential Paper",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2008
+                    },
+                    "issuer": "Interncational Conference on Automated Planning and Scheduling"
+                },
+                {
+                    "title": "IJCAI/JAIR Best Paper Award for the best JAIR paper in the previous five years",
+                    "issueDate": {
+                        "month": 7,
+                        "year": 2005
+                    },
+                    "issuer": "Journal of Articifical Intelligence Research"
+                },
+                {
+                    "title": "EURON Technology Transfer Award",
+                    "issueDate": {
+                        "month": 2,
+                        "year": 2005
+                    },
+                    "issuer": "EURON"
+                },
+                {
+                    "title": "EurAI Fellow",
+                    "issueDate": {
+                        "month": 8,
+                        "year": 2001
+                    },
+                    "issuer": "European Association for Artificial Intelligence"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Automated Planning",
+                "Computer Science",
+                "Artificial Intelligence",
+                "Wissenschaft"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Member of Fellow Selection Committee",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "companyName": "ACM, Association for Computing Machinery",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                },
+                {
+                    "role": "Member of Scientific Directorate",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    },
+                    "companyName": "Schloss Dagstuhl",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                },
+                {
+                    "role": "Treasurer",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    },
+                    "companyName": "International Joint Conference on Artificial Intelligence",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                }
+            ],
+            "headline": "Professor an der Albert-Ludwigs-Universität Freiburg im Breisgau",
+            "summary": "I am head of the lab of Foundations of AI. The research in our lab focuses on knowledge representation and reasoning, action planning, and on its application in robotics. Since April 2022, I am officially retired, but I am still a member of the University and active in research.\n\nIch leite die Abteilung für Grundlagen der Künstlichen Intelligenz. Unsere Forschung konzentriert sich auch Wissensrepräsentation und Aktionsplanung sowie deren Anwendung im Gebiet der Robotik. Seit April 2022 bin ich im Ruhestand, bin aber immer noch Mitglied der Universität und kann meine Hände nicht vollständig von der Forschung lassen.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Freiburg, Baden-Württemberg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor",
+            "companyName": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+            "companyPublicId": "albert-ludwigs-universitaet-freiburg",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/albert-ludwigs-universitaet-freiburg",
+            "following": false,
+            "followable": true,
+            "followersCount": 676,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/bernhard-nebel-1121a1146/",
+        "company": "https://www.linkedin.com/company/albert-ludwigs-universitaet-freiburg"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "locationName": "Freiburg im Breisgau, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 1996
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1763186",
+                "entityUrn": "urn:li:fs_miniCompany:1763186",
+                "name": "The University of Freiburg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGWRw584ibV7Q/company-logo_200_200/company-logo_200_200/0/1677671036177/albert_ludwigs_universitaet_freiburg_logo?e=1747872000&v=beta&t=VgdFf8Q6_fZYb9sS9ygLjicxaa4xRmNtS0_amSxxLFA",
+                "universalName": "albert-ludwigs-universitaet-freiburg",
+                "dashCompanyUrn": "urn:li:fsd_company:1763186",
+                "trackingId": "ucdQ7ws3RtOjHvCeOBg90g=="
+            },
+            "companyName": "Albert-Ludwigs-Universität Freiburg im Breisgau"
+        },
+        {
+            "title": "Professor",
+            "locationName": "Ulm",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 1996
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 1993
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Education Management"
+                ],
+                "objectUrn": "urn:li:company:24504",
+                "entityUrn": "urn:li:fs_miniCompany:24504",
+                "name": "Ulm University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHNE-WihUTmUA/company-logo_200_200/company-logo_200_200/0/1630576944523/university_of_ulm_logo?e=1747872000&v=beta&t=QuUh3paWa2BSd2mF3O7LpfCUeQp62a5kwZNN8RNFFXw",
+                "universalName": "ulm-university",
+                "dashCompanyUrn": "urn:li:fsd_company:24504",
+                "trackingId": "9MwJJ4ibRhqWyWlI4/AcYg=="
+            },
+            "companyName": "Universität Ulm"
+        },
+        {
+            "title": "Senior Researcher",
+            "locationName": "Saarbrücken und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 1993
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 1989
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "RyRZlJskTNCa84JaKE6ayw=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Guest Researcher",
+            "locationName": "Scientific Center Stuttgart",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 1989
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 1988
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "l5QuLZhKTuSkbX+0lYsruA=="
+            },
+            "companyName": "IBM"
+        },
+        {
+            "title": "Researcher",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 1988
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 1985
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Education Management"
+                ],
+                "objectUrn": "urn:li:company:1188458",
+                "entityUrn": "urn:li:fs_miniCompany:1188458",
+                "name": "Technische Universität Berlin",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMPWp-fo0MWA/company-logo_200_200/company-logo_200_200/0/1675944963271/tuberlin_logo?e=1747872000&v=beta&t=J9Xp9mG9LYonP6xi5mWiQUnJ8RyAXM-2YOtsENQPNZc",
+                "universalName": "tuberlin",
+                "dashCompanyUrn": "urn:li:fsd_company:1188458",
+                "trackingId": "MM5wTMlEQF+Rl0hq6piS6w=="
+            },
+            "companyName": "Technische Universität Berlin"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doktor (Ph.D.)",
+            "fieldOfStudy": "Informatik",
+            "schoolName": "Universität des Saarlandes",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1989
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom-Informatiker",
+            "fieldOfStudy": "Informatik",
+            "schoolName": "Universität Hamburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1980
+                },
+                "startDate": {
+                    "year": 1975
+                }
+            }
+        },
+        {
+            "degreeName": "Abitur",
+            "schoolName": "Gymnasium Rahlstedt",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1974
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Automated Planning",
+        "Computer Science",
+        "Artificial Intelligence",
+        "Wissenschaft"
+    ],
+    "lastEnriched": "2025-02-17"
+}

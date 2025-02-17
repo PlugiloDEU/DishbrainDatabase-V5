@@ -1,0 +1,494 @@
+{
+    "id": "exp26528014",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sebastian",
+        "lastName": "Matthes",
+        "fullName": "Sebastian Matthes",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQH7wDyIHTb0iA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1631621023157?e=1745452800&v=beta&t=LDTCKkuYD5MplzAPOYdMsZ56BM4zK7P-4MKifKSr8RA",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "26528014",
+            "profileId": "ACoAAAGUyQ4BWP_xXu6SjiOxZ_vJuL1cXnu3t0Q",
+            "firstName": "Sebastian",
+            "lastName": "Matthes",
+            "occupation": "Chefredakteur Handelsblatt / Podcast-Host Handelsblatt Disrupt",
+            "publicIdentifier": "sebastianmatthes",
+            "trackingId": "Ify2grliRIeM9pMBnWJLSw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQH7wDyIHTb0iA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1631621023157?e=1745452800&v=beta&t=LDTCKkuYD5MplzAPOYdMsZ56BM4zK7P-4MKifKSr8RA",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQGGxTWAeNJksg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1570099041320?e=1745452800&v=beta&t=-MUEkeQI5MVwK1t1Wy4LBGd0X1985lOmk7FpTFE_exc",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106491352",
+            "positions": [
+                {
+                    "title": "Chefredakteur",
+                    "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:3040074",
+                        "entityUrn": "urn:li:fs_miniCompany:3040074",
+                        "name": "Handelsblatt",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                        "universalName": "handelsblatt",
+                        "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                        "trackingId": "nT98m7hjR6alHn8n+OYxaQ=="
+                    },
+                    "companyName": "Handelsblatt"
+                },
+                {
+                    "title": "Stellv. des Chefredakteurs & Head of Digital",
+                    "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:3040074",
+                        "entityUrn": "urn:li:fs_miniCompany:3040074",
+                        "name": "Handelsblatt",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                        "universalName": "handelsblatt",
+                        "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                        "trackingId": "NbLYIKbiR4OMrrJe0Ip2Fw=="
+                    },
+                    "companyName": "Handelsblatt"
+                },
+                {
+                    "title": "Chefredakteur",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Online Media"
+                        ],
+                        "objectUrn": "urn:li:company:56980",
+                        "entityUrn": "urn:li:fs_miniCompany:56980",
+                        "name": "HuffPost",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGlFrPlE1viGQ/company-logo_200_200/company-logo_200_200/0/1630571995746/huffpost_logo?e=1747872000&v=beta&t=qArGUzGrs13I2oq06768aLCNBruMH2vuEyOlFLWMqJI",
+                        "universalName": "huffpost",
+                        "dashCompanyUrn": "urn:li:fsd_company:56980",
+                        "trackingId": "1IXsU0A5SHyXvM87IJSvoQ=="
+                    },
+                    "companyName": "HuffPost"
+                },
+                {
+                    "title": "Ressortleiter",
+                    "locationName": "Düsseldorf Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:984883",
+                        "entityUrn": "urn:li:fs_miniCompany:984883",
+                        "name": "WirtschaftsWoche",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG-gZEfgBOI3w/company-logo_200_200/company-logo_200_200/0/1632233150164/wirtschaftswoche_logo?e=1747872000&v=beta&t=XcTMeZYCKjV9Fm5ANRQuyrESMhTN7DTTmVq2kmxVI9I",
+                        "universalName": "wirtschaftswoche",
+                        "dashCompanyUrn": "urn:li:fsd_company:984883",
+                        "trackingId": "tf+/DlGKQPO/9dHHLVnT4w=="
+                    },
+                    "companyName": "WirtschaftsWoche"
+                },
+                {
+                    "title": "Reporter",
+                    "description": "Covering startups, tech and politics",
+                    "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:984883",
+                        "entityUrn": "urn:li:fs_miniCompany:984883",
+                        "name": "WirtschaftsWoche",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG-gZEfgBOI3w/company-logo_200_200/company-logo_200_200/0/1632233150164/wirtschaftswoche_logo?e=1747872000&v=beta&t=XcTMeZYCKjV9Fm5ANRQuyrESMhTN7DTTmVq2kmxVI9I",
+                        "universalName": "wirtschaftswoche",
+                        "dashCompanyUrn": "urn:li:fsd_company:984883",
+                        "trackingId": "kaAZKu4mT+alo5ogCxFlLg=="
+                    },
+                    "companyName": "WirtschaftsWoche"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Politics/Economics",
+                    "schoolName": "Universität Hamburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Abitur",
+                    "schoolName": "Gymnasium Hamburg-Blankenese",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "French"
+                },
+                {
+                    "name": "German"
+                },
+                {
+                    "name": "Spanish"
+                }
+            ],
+            "skills": [
+                "Leadership",
+                "Online-Journalismus",
+                "Wirtschaftsjournalismus",
+                "Newsletter"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Chefredakteur Handelsblatt / Podcast-Host Handelsblatt Disrupt",
+            "summary": "Editor-in-Chief of Germany’s business daily Handelsblatt, host of the podcast Handelsblatt Disrupt, reporting on transformation in politics, business and society for more than 15 years.",
+            "student": false,
+            "industryName": "Media Production",
+            "industryUrn": "urn:li:fs_industry:126",
+            "geoLocationName": "Düsseldorf, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Chefredakteur",
+            "companyName": "Handelsblatt",
+            "companyPublicId": "handelsblatt",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/handelsblatt",
+            "following": false,
+            "followable": true,
+            "followersCount": 33787,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "Handelsblatt",
+        "position": "Chefredakteur",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Newspapers"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chefredakteur",
+        "organization": "Handelsblatt",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sebastianmatthes/",
+        "company": "https://www.linkedin.com/company/handelsblatt"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chefredakteur",
+            "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:3040074",
+                "entityUrn": "urn:li:fs_miniCompany:3040074",
+                "name": "Handelsblatt",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                "universalName": "handelsblatt",
+                "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                "trackingId": "nT98m7hjR6alHn8n+OYxaQ=="
+            },
+            "companyName": "Handelsblatt"
+        },
+        {
+            "title": "Stellv. des Chefredakteurs & Head of Digital",
+            "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:3040074",
+                "entityUrn": "urn:li:fs_miniCompany:3040074",
+                "name": "Handelsblatt",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE01vYqPJaEvQ/company-logo_200_200/company-logo_200_200/0/1630524790571/handelsblatt_logo?e=1747872000&v=beta&t=otFLRPt8PWYFJH0Pdc6nvWiUlghbI6WTaKAnMsLwOMQ",
+                "universalName": "handelsblatt",
+                "dashCompanyUrn": "urn:li:fsd_company:3040074",
+                "trackingId": "NbLYIKbiR4OMrrJe0Ip2Fw=="
+            },
+            "companyName": "Handelsblatt"
+        },
+        {
+            "title": "Chefredakteur",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Online Media"
+                ],
+                "objectUrn": "urn:li:company:56980",
+                "entityUrn": "urn:li:fs_miniCompany:56980",
+                "name": "HuffPost",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGlFrPlE1viGQ/company-logo_200_200/company-logo_200_200/0/1630571995746/huffpost_logo?e=1747872000&v=beta&t=qArGUzGrs13I2oq06768aLCNBruMH2vuEyOlFLWMqJI",
+                "universalName": "huffpost",
+                "dashCompanyUrn": "urn:li:fsd_company:56980",
+                "trackingId": "1IXsU0A5SHyXvM87IJSvoQ=="
+            },
+            "companyName": "HuffPost"
+        },
+        {
+            "title": "Ressortleiter",
+            "locationName": "Düsseldorf Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:984883",
+                "entityUrn": "urn:li:fs_miniCompany:984883",
+                "name": "WirtschaftsWoche",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG-gZEfgBOI3w/company-logo_200_200/company-logo_200_200/0/1632233150164/wirtschaftswoche_logo?e=1747872000&v=beta&t=XcTMeZYCKjV9Fm5ANRQuyrESMhTN7DTTmVq2kmxVI9I",
+                "universalName": "wirtschaftswoche",
+                "dashCompanyUrn": "urn:li:fsd_company:984883",
+                "trackingId": "tf+/DlGKQPO/9dHHLVnT4w=="
+            },
+            "companyName": "WirtschaftsWoche"
+        },
+        {
+            "title": "Reporter",
+            "description": "Covering startups, tech and politics",
+            "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:984883",
+                "entityUrn": "urn:li:fs_miniCompany:984883",
+                "name": "WirtschaftsWoche",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG-gZEfgBOI3w/company-logo_200_200/company-logo_200_200/0/1632233150164/wirtschaftswoche_logo?e=1747872000&v=beta&t=XcTMeZYCKjV9Fm5ANRQuyrESMhTN7DTTmVq2kmxVI9I",
+                "universalName": "wirtschaftswoche",
+                "dashCompanyUrn": "urn:li:fsd_company:984883",
+                "trackingId": "kaAZKu4mT+alo5ogCxFlLg=="
+            },
+            "companyName": "WirtschaftsWoche"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Politics/Economics",
+            "schoolName": "Universität Hamburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "degreeName": "Abitur",
+            "schoolName": "Gymnasium Hamburg-Blankenese",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Leadership",
+        "Online-Journalismus",
+        "Wirtschaftsjournalismus",
+        "Newsletter"
+    ],
+    "lastEnriched": "2025-02-17"
+}

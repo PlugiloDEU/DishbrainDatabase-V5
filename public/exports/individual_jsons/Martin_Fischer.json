@@ -1,0 +1,603 @@
+{
+    "id": "exp37741495",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Martin",
+        "lastName": "Fischer",
+        "fullName": "Martin Fischer",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQFIa4cjnKFCqw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1553608438039?e=1745452800&v=beta&t=3QhA-fdCeqDNnT-XoriBN1ra0ObxhBg1zW6qPsohDfw",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "37741495",
+            "profileId": "ACoAAAI_47cBROkene1MnfhOdB6ESTsj8Ayntkg",
+            "firstName": "Martin",
+            "lastName": "Fischer",
+            "occupation": "Research Professor at Duke University",
+            "publicIdentifier": "martin-fischer-18778110",
+            "trackingId": "oQv2fJI4RaagwSk8Ruf5gA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFIa4cjnKFCqw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1553608438039?e=1745452800&v=beta&t=3QhA-fdCeqDNnT-XoriBN1ra0ObxhBg1zW6qPsohDfw",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:101915197",
+            "positions": [
+                {
+                    "title": "Research Professor",
+                    "locationName": "Durham, North Carolina, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3356",
+                        "entityUrn": "urn:li:fs_miniCompany:3356",
+                        "name": "Duke University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_200_200/company-logo_200_200/0/1704127476142/duke_university_logo?e=1747872000&v=beta&t=oPpSKobObFjSpEwMSkjpt03b4BjTq-2sOUFjly3Xjyc",
+                        "universalName": "duke-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:3356",
+                        "trackingId": "Xz9844X9Sj2ozPU0nMDUgA=="
+                    },
+                    "companyName": "Duke University"
+                },
+                {
+                    "title": "Associate Research Professor",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3356",
+                        "entityUrn": "urn:li:fs_miniCompany:3356",
+                        "name": "Duke University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_200_200/company-logo_200_200/0/1704127476142/duke_university_logo?e=1747872000&v=beta&t=oPpSKobObFjSpEwMSkjpt03b4BjTq-2sOUFjly3Xjyc",
+                        "universalName": "duke-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:3356",
+                        "trackingId": "K4joqMtqQ0mtCN2vryKvMA=="
+                    },
+                    "companyName": "Duke University"
+                },
+                {
+                    "title": "Assistant Research Professor",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3356",
+                        "entityUrn": "urn:li:fs_miniCompany:3356",
+                        "name": "Duke University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_200_200/company-logo_200_200/0/1704127476142/duke_university_logo?e=1747872000&v=beta&t=oPpSKobObFjSpEwMSkjpt03b4BjTq-2sOUFjly3Xjyc",
+                        "universalName": "duke-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:3356",
+                        "trackingId": "JsZ2K0mASfCq9chIi1y7Jw=="
+                    },
+                    "companyName": "Duke University"
+                },
+                {
+                    "title": "Research Associate",
+                    "description": "Performed two-photon optical metabolic imaging in biological tissue and magnetic resonance imaging studies on lung function using hyperpolarized gases.",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3165",
+                        "entityUrn": "urn:li:fs_miniCompany:3165",
+                        "name": "University of Pennsylvania",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHnbnsnJlBiZg/company-logo_200_200/company-logo_200_200/0/1630601168515/university_of_pennsylvania_logo?e=1747872000&v=beta&t=kAqbaMObwRP42DzO3196T-_ZsOkRZ7A7QcpO3qYqDRY",
+                        "universalName": "university-of-pennsylvania",
+                        "dashCompanyUrn": "urn:li:fsd_company:3165",
+                        "trackingId": "oaTvHexrTZaCKlq+6zo1dg=="
+                    },
+                    "companyName": "University of Pennsylvania"
+                },
+                {
+                    "title": "MTS",
+                    "description": "Performed optical systems research on high-speed transmission systems. Studied optical impairments (e.g. chromatic and polarization mode dispersion) and mitigation strategies (optical compensation, forward error correction).",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Semiconductors"
+                        ],
+                        "objectUrn": "urn:li:company:164778",
+                        "entityUrn": "urn:li:fs_miniCompany:164778",
+                        "name": "LSI, an Avago Technologies Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGkX0iUfvNqUw/company-logo_200_200/company-logo_200_200/0/1631310749146?e=1747872000&v=beta&t=CqwAtTq-6P-oKcMsBIJCh4HaknW2KeHXVUmIITdFsQo",
+                        "universalName": "lsi-corporation",
+                        "dashCompanyUrn": "urn:li:fsd_company:164778",
+                        "trackingId": "dIvhqPzCQbGOsqRyF+HO4w=="
+                    },
+                    "companyName": "Agere Systems"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Ph.D.",
+                    "fieldOfStudy": "Physics",
+                    "schoolName": "The University of Texas at Austin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Introduction to FPGA Design for Embedded Systems",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "Hardware Description Languages for FPGA Design",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "FPGA Softcore Processors and IP Acquisition",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2022
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "FPGA Capstone: Building FPGA Projects",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2022
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "Supervised Machine Learning: Regression and Classification",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "Advanced Learning Algorithms",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "FPGA Design for Embedded Systems",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Coursera"
+                },
+                {
+                    "name": "Leadership and Management in Core Facilities",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Kellogg Executive Education"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Core Managment",
+                "Machine Learning",
+                "Field-Programmable Gate Arrays (FPGA)",
+                "MRI"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Research Professor at Duke University",
+            "summary": "Research on intrinsic nonlinear optical contrast mechanisms for structural, metabolic, and functional imaging in biological tissue. Current focus is on femtosecond pulse shaping techniques for measurements of multi-photon absorption (e.g. transient absorption, Raman processes) and nonlinear phase contrast (e.g. self-phase modulation).\n\nSpecialties: Biomedical imaging, nonlinear microscopy, ultra-fast pulse shaping",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Durham, North Carolina",
+            "geoCountryName": "United States",
+            "jobTitle": "Research Professor",
+            "companyName": "Duke University",
+            "companyPublicId": "duke-university",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/duke-university",
+            "following": false,
+            "followable": true,
+            "followersCount": 229,
+            "connectionsCount": 223,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Duke University",
+        "position": "Research Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Research Professor",
+        "organization": "Duke University",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/martin-fischer-18778110/",
+        "company": "https://www.linkedin.com/company/duke-university"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Research Professor",
+            "locationName": "Durham, North Carolina, United States",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3356",
+                "entityUrn": "urn:li:fs_miniCompany:3356",
+                "name": "Duke University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_200_200/company-logo_200_200/0/1704127476142/duke_university_logo?e=1747872000&v=beta&t=oPpSKobObFjSpEwMSkjpt03b4BjTq-2sOUFjly3Xjyc",
+                "universalName": "duke-university",
+                "dashCompanyUrn": "urn:li:fsd_company:3356",
+                "trackingId": "Xz9844X9Sj2ozPU0nMDUgA=="
+            },
+            "companyName": "Duke University"
+        },
+        {
+            "title": "Associate Research Professor",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3356",
+                "entityUrn": "urn:li:fs_miniCompany:3356",
+                "name": "Duke University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_200_200/company-logo_200_200/0/1704127476142/duke_university_logo?e=1747872000&v=beta&t=oPpSKobObFjSpEwMSkjpt03b4BjTq-2sOUFjly3Xjyc",
+                "universalName": "duke-university",
+                "dashCompanyUrn": "urn:li:fsd_company:3356",
+                "trackingId": "K4joqMtqQ0mtCN2vryKvMA=="
+            },
+            "companyName": "Duke University"
+        },
+        {
+            "title": "Assistant Research Professor",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3356",
+                "entityUrn": "urn:li:fs_miniCompany:3356",
+                "name": "Duke University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_200_200/company-logo_200_200/0/1704127476142/duke_university_logo?e=1747872000&v=beta&t=oPpSKobObFjSpEwMSkjpt03b4BjTq-2sOUFjly3Xjyc",
+                "universalName": "duke-university",
+                "dashCompanyUrn": "urn:li:fsd_company:3356",
+                "trackingId": "JsZ2K0mASfCq9chIi1y7Jw=="
+            },
+            "companyName": "Duke University"
+        },
+        {
+            "title": "Research Associate",
+            "description": "Performed two-photon optical metabolic imaging in biological tissue and magnetic resonance imaging studies on lung function using hyperpolarized gases.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3165",
+                "entityUrn": "urn:li:fs_miniCompany:3165",
+                "name": "University of Pennsylvania",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHnbnsnJlBiZg/company-logo_200_200/company-logo_200_200/0/1630601168515/university_of_pennsylvania_logo?e=1747872000&v=beta&t=kAqbaMObwRP42DzO3196T-_ZsOkRZ7A7QcpO3qYqDRY",
+                "universalName": "university-of-pennsylvania",
+                "dashCompanyUrn": "urn:li:fsd_company:3165",
+                "trackingId": "oaTvHexrTZaCKlq+6zo1dg=="
+            },
+            "companyName": "University of Pennsylvania"
+        },
+        {
+            "title": "MTS",
+            "description": "Performed optical systems research on high-speed transmission systems. Studied optical impairments (e.g. chromatic and polarization mode dispersion) and mitigation strategies (optical compensation, forward error correction).",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Semiconductors"
+                ],
+                "objectUrn": "urn:li:company:164778",
+                "entityUrn": "urn:li:fs_miniCompany:164778",
+                "name": "LSI, an Avago Technologies Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGkX0iUfvNqUw/company-logo_200_200/company-logo_200_200/0/1631310749146?e=1747872000&v=beta&t=CqwAtTq-6P-oKcMsBIJCh4HaknW2KeHXVUmIITdFsQo",
+                "universalName": "lsi-corporation",
+                "dashCompanyUrn": "urn:li:fsd_company:164778",
+                "trackingId": "dIvhqPzCQbGOsqRyF+HO4w=="
+            },
+            "companyName": "Agere Systems"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Ph.D.",
+            "fieldOfStudy": "Physics",
+            "schoolName": "The University of Texas at Austin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Introduction to FPGA Design for Embedded Systems",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "Hardware Description Languages for FPGA Design",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "FPGA Softcore Processors and IP Acquisition",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "FPGA Capstone: Building FPGA Projects",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "Supervised Machine Learning: Regression and Classification",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "Advanced Learning Algorithms",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "Unsupervised Learning, Recommenders, Reinforcement Learning",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "FPGA Design for Embedded Systems",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "authority": "Coursera"
+        },
+        {
+            "name": "Leadership and Management in Core Facilities",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "authority": "Kellogg Executive Education"
+        }
+    ],
+    "skills": [
+        "Core Managment",
+        "Machine Learning",
+        "Field-Programmable Gate Arrays (FPGA)",
+        "MRI"
+    ],
+    "lastEnriched": "2025-02-17"
+}

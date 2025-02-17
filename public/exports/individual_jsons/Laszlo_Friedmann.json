@@ -1,0 +1,523 @@
+{
+    "id": "exp550073812",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laszlo",
+        "lastName": "Friedmann",
+        "fullName": "Laszlo Friedmann",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "550073812",
+            "profileId": "ACoAACDJddQBvsIeRzViN8Q1hEeg9MeGoiT6bPA",
+            "firstName": "Laszlo",
+            "lastName": "Friedmann",
+            "occupation": "Machine Learning Enthusiast",
+            "publicIdentifier": "laszlo-friedmann",
+            "trackingId": "SWPekwPgSru+qePwlZpFYw==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQHyHs3NdVrhKw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1639396510311?e=1745452800&v=beta&t=iQKixrTcdsyOiRau7_HwdjVSWbJYE4YchuwB_GC_0U4",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105890944",
+            "positions": [
+                {
+                    "title": "AI Strategist",
+                    "description": "• Consultant for large EU and national projects\n• Consultant for department strategy",
+                    "locationName": "Sankt Augustin, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:690761",
+                        "entityUrn": "urn:li:fs_miniCompany:690761",
+                        "name": "Fraunhofer IAIS",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEpsvjzSCntiw/company-logo_200_200/company-logo_200_200/0/1646325101402/fraunhofer_iais_logo?e=1747872000&v=beta&t=mTRs78Jgot7MaHXNFpWc7HigVNAS_DmaLOCTtNSbHWw",
+                        "universalName": "fraunhofer-iais",
+                        "dashCompanyUrn": "urn:li:fsd_company:690761",
+                        "trackingId": "TFZpbu7yShq6icn5RSdG1g=="
+                    },
+                    "companyName": "Fraunhofer IAIS"
+                },
+                {
+                    "title": "Senior Research Engineer",
+                    "description": "• Project lead of research and industrial projects\n• Algorithm development in various projects with focus on camera-based object detection and classification with neural networks\n• Project management",
+                    "locationName": "Sankt Augustin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:690761",
+                        "entityUrn": "urn:li:fs_miniCompany:690761",
+                        "name": "Fraunhofer IAIS",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEpsvjzSCntiw/company-logo_200_200/company-logo_200_200/0/1646325101402/fraunhofer_iais_logo?e=1747872000&v=beta&t=mTRs78Jgot7MaHXNFpWc7HigVNAS_DmaLOCTtNSbHWw",
+                        "universalName": "fraunhofer-iais",
+                        "dashCompanyUrn": "urn:li:fsd_company:690761",
+                        "trackingId": "xK1yUBjER4OmCEbHTZsRWQ=="
+                    },
+                    "companyName": "Fraunhofer IAIS"
+                },
+                {
+                    "title": "Lead Research Engineer Computer Vision (Interim)",
+                    "description": "• Team leader of Computer Vision team\n• Project and customer acquisition",
+                    "locationName": "Sankt Augustin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:690761",
+                        "entityUrn": "urn:li:fs_miniCompany:690761",
+                        "name": "Fraunhofer IAIS",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEpsvjzSCntiw/company-logo_200_200/company-logo_200_200/0/1646325101402/fraunhofer_iais_logo?e=1747872000&v=beta&t=mTRs78Jgot7MaHXNFpWc7HigVNAS_DmaLOCTtNSbHWw",
+                        "universalName": "fraunhofer-iais",
+                        "dashCompanyUrn": "urn:li:fsd_company:690761",
+                        "trackingId": "m/qizTDTQ9ypLy31pM7rjw=="
+                    },
+                    "companyName": "Fraunhofer IAIS"
+                },
+                {
+                    "title": "Research Assistant ",
+                    "description": "• Development of an image processing pipeline to classify medical images with convolutional neural networks\n• Research with network architectures, data augmentation, hyperparameter optimization\n• Planing and running of test series with following analysis, evaluation and documentation\n• Implementation of networks into a running productive system",
+                    "locationName": "Lübeck",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:11413461",
+                        "entityUrn": "urn:li:fs_miniCompany:11413461",
+                        "name": "Pattern Recognition Company GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQH0YgbGnPTR6w/company-logo_200_200/company-logo_200_200/0/1631398866214?e=1747872000&v=beta&t=feDcttH5jj-YdgWwRgHZGxNcS2PQNsqw0g0hhCgM3uA",
+                        "universalName": "prc-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:11413461",
+                        "trackingId": "DWPCDAqmT6+GFVe3f09dKQ=="
+                    },
+                    "companyName": "Pattern Recognition Company GmbH"
+                },
+                {
+                    "title": "Research Assistant",
+                    "description": "• Online marketing campaigns for events in scope of BMWi funded project 'EXIST-Culture of Entrepreneurship - Entrepreneur University'\n• Development and implementation of websites \n• Creative, conceptual and artistic work of varying media\n• Research and organization of events",
+                    "locationName": "Lübeck",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:11478318",
+                        "entityUrn": "urn:li:fs_miniCompany:11478318",
+                        "name": "Universität zu Lübeck",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxutFmRMb_2Q/company-logo_200_200/company-logo_200_200/0/1631338168667?e=1747872000&v=beta&t=qIPflzPJz7ixQG3KCBeVp9PVN0WSBV0jRwAnAT-Jg-4",
+                        "universalName": "uni-luebeck",
+                        "dashCompanyUrn": "urn:li:fsd_company:11478318",
+                        "trackingId": "vLXaia55Qf2DJDgHiQeA3w=="
+                    },
+                    "companyName": "Universität zu Lübeck"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Self-Driving Car Engineer Nanodegree",
+                    "schoolName": "Udacity",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science (M.Sc.)",
+                    "fieldOfStudy": "Medical Engineering Science",
+                    "schoolName": "Universität zu Lübeck",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science (B.Sc.)",
+                    "fieldOfStudy": "Medical Engineering Science",
+                    "schoolName": "Universität zu Lübeck",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                }
+            ],
+            "skills": [
+                "Deep Learning",
+                "Machine Learning",
+                "Image Processing",
+                "Computer Vision"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Machine Learning Enthusiast",
+            "summary": "Working in the field of Machine Learning with focus on Computer Vision applications. I want my work to have a positive impact on our society.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Cologne, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "AI Strategist",
+            "companyName": "Fraunhofer IAIS",
+            "companyPublicId": "fraunhofer-iais",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/fraunhofer-iais",
+            "following": false,
+            "followable": true,
+            "followersCount": 500,
+            "connectionsCount": 497,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Fraunhofer IAIS",
+        "position": "AI Strategist",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "AI Strategist",
+        "organization": "Fraunhofer IAIS",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laszlo-friedmann/",
+        "company": "https://www.linkedin.com/company/fraunhofer-iais"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "AI Strategist",
+            "description": "• Consultant for large EU and national projects\n• Consultant for department strategy",
+            "locationName": "Sankt Augustin, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:690761",
+                "entityUrn": "urn:li:fs_miniCompany:690761",
+                "name": "Fraunhofer IAIS",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEpsvjzSCntiw/company-logo_200_200/company-logo_200_200/0/1646325101402/fraunhofer_iais_logo?e=1747872000&v=beta&t=mTRs78Jgot7MaHXNFpWc7HigVNAS_DmaLOCTtNSbHWw",
+                "universalName": "fraunhofer-iais",
+                "dashCompanyUrn": "urn:li:fsd_company:690761",
+                "trackingId": "TFZpbu7yShq6icn5RSdG1g=="
+            },
+            "companyName": "Fraunhofer IAIS"
+        },
+        {
+            "title": "Senior Research Engineer",
+            "description": "• Project lead of research and industrial projects\n• Algorithm development in various projects with focus on camera-based object detection and classification with neural networks\n• Project management",
+            "locationName": "Sankt Augustin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:690761",
+                "entityUrn": "urn:li:fs_miniCompany:690761",
+                "name": "Fraunhofer IAIS",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEpsvjzSCntiw/company-logo_200_200/company-logo_200_200/0/1646325101402/fraunhofer_iais_logo?e=1747872000&v=beta&t=mTRs78Jgot7MaHXNFpWc7HigVNAS_DmaLOCTtNSbHWw",
+                "universalName": "fraunhofer-iais",
+                "dashCompanyUrn": "urn:li:fsd_company:690761",
+                "trackingId": "xK1yUBjER4OmCEbHTZsRWQ=="
+            },
+            "companyName": "Fraunhofer IAIS"
+        },
+        {
+            "title": "Lead Research Engineer Computer Vision (Interim)",
+            "description": "• Team leader of Computer Vision team\n• Project and customer acquisition",
+            "locationName": "Sankt Augustin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:690761",
+                "entityUrn": "urn:li:fs_miniCompany:690761",
+                "name": "Fraunhofer IAIS",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEpsvjzSCntiw/company-logo_200_200/company-logo_200_200/0/1646325101402/fraunhofer_iais_logo?e=1747872000&v=beta&t=mTRs78Jgot7MaHXNFpWc7HigVNAS_DmaLOCTtNSbHWw",
+                "universalName": "fraunhofer-iais",
+                "dashCompanyUrn": "urn:li:fsd_company:690761",
+                "trackingId": "m/qizTDTQ9ypLy31pM7rjw=="
+            },
+            "companyName": "Fraunhofer IAIS"
+        },
+        {
+            "title": "Research Assistant ",
+            "description": "• Development of an image processing pipeline to classify medical images with convolutional neural networks\n• Research with network architectures, data augmentation, hyperparameter optimization\n• Planing and running of test series with following analysis, evaluation and documentation\n• Implementation of networks into a running productive system",
+            "locationName": "Lübeck",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:11413461",
+                "entityUrn": "urn:li:fs_miniCompany:11413461",
+                "name": "Pattern Recognition Company GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQH0YgbGnPTR6w/company-logo_200_200/company-logo_200_200/0/1631398866214?e=1747872000&v=beta&t=feDcttH5jj-YdgWwRgHZGxNcS2PQNsqw0g0hhCgM3uA",
+                "universalName": "prc-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:11413461",
+                "trackingId": "DWPCDAqmT6+GFVe3f09dKQ=="
+            },
+            "companyName": "Pattern Recognition Company GmbH"
+        },
+        {
+            "title": "Research Assistant",
+            "description": "• Online marketing campaigns for events in scope of BMWi funded project 'EXIST-Culture of Entrepreneurship - Entrepreneur University'\n• Development and implementation of websites \n• Creative, conceptual and artistic work of varying media\n• Research and organization of events",
+            "locationName": "Lübeck",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:11478318",
+                "entityUrn": "urn:li:fs_miniCompany:11478318",
+                "name": "Universität zu Lübeck",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxutFmRMb_2Q/company-logo_200_200/company-logo_200_200/0/1631338168667?e=1747872000&v=beta&t=qIPflzPJz7ixQG3KCBeVp9PVN0WSBV0jRwAnAT-Jg-4",
+                "universalName": "uni-luebeck",
+                "dashCompanyUrn": "urn:li:fsd_company:11478318",
+                "trackingId": "vLXaia55Qf2DJDgHiQeA3w=="
+            },
+            "companyName": "Universität zu Lübeck"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Self-Driving Car Engineer Nanodegree",
+            "schoolName": "Udacity",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science (M.Sc.)",
+            "fieldOfStudy": "Medical Engineering Science",
+            "schoolName": "Universität zu Lübeck",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science (B.Sc.)",
+            "fieldOfStudy": "Medical Engineering Science",
+            "schoolName": "Universität zu Lübeck",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Deep Learning",
+        "Machine Learning",
+        "Image Processing",
+        "Computer Vision"
+    ],
+    "lastEnriched": "2025-02-17"
+}

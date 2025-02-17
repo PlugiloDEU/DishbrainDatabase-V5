@@ -1,0 +1,496 @@
+{
+    "id": "exp14000650",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Ralf",
+        "lastName": "Herbrich",
+        "fullName": "Ralf Herbrich",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHml-bnrP5JxA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1579679512148?e=1745452800&v=beta&t=gBtzKTpKCexAk0bU8XD12sNXqoiokc8AhqJkgSmnH4k",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German",
+            "Russian"
+        ],
+        "allData": {
+            "id": "14000650",
+            "profileId": "ACoAAADVogoBFUV_ZsMnMeSqiP4BeWOr7LSGjmA",
+            "firstName": "Ralf",
+            "lastName": "Herbrich",
+            "occupation": "Professor at Hasso Plattner Institute",
+            "publicIdentifier": "ralf-herbrich-28a8324",
+            "trackingId": "3ZUIsuQyTj6h4sSr4U1B2Q==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHml-bnrP5JxA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1579679512148?e=1745452800&v=beta&t=gBtzKTpKCexAk0bU8XD12sNXqoiokc8AhqJkgSmnH4k",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:103643618",
+            "positions": [
+                {
+                    "title": "Member of SAP's Supervisory Board",
+                    "description": "As member of SAP's supervisory board, I focus on product & technology as well as finance & investments.",
+                    "locationName": "Potsdam, Brandenburg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1115",
+                        "entityUrn": "urn:li:fs_miniCompany:1115",
+                        "name": "SAP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                        "universalName": "sap",
+                        "dashCompanyUrn": "urn:li:fsd_company:1115",
+                        "trackingId": "7p3TYxDIT0yXzM/wfY5BwQ=="
+                    },
+                    "companyName": "SAP"
+                },
+                {
+                    "title": "Managing Director",
+                    "locationName": "Potsdam, Brandenburg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:258692",
+                        "entityUrn": "urn:li:fs_miniCompany:258692",
+                        "name": "Hasso Plattner Institute",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVJMqbSVkv2w/company-logo_200_200/company-logo_200_200/0/1730820443292/hasso_plattner_institute_logo?e=1747872000&v=beta&t=JTWbNC2ZCF01AkZ4TvFqfpxOgA2KFKSfdE9lE6xc1_Y",
+                        "universalName": "hasso-plattner-institute",
+                        "dashCompanyUrn": "urn:li:fsd_company:258692",
+                        "trackingId": "VN9qh37uR02aMh4ga6U5xA=="
+                    },
+                    "companyName": "Hasso Plattner Institute"
+                },
+                {
+                    "title": "Professor",
+                    "description": "Chair for Artificial Intelligence and Sustainability research group.\n\nI believe that an energy-aware perspective is imperative for developing true artificial intelligence and that an AI-first approach is imperative for solving the challenge of transitioning to a sustainable future based on renewable energy. My research is organized under two broad themes: (1) Energy in Artificial Intelligence (the use of energy in developing AI). This area encapsulates research on the tradeoffs and limitations of energy usage in solving basic AI tasks such as classification, ranking or planning & search. The notion of what constitutes AI in a machine is most famously captured by the notion of the Turing test. Currently, this is an unfair test because AI systems that offer impressive performance on tasks in restricted domains (e.g., AlphaGo) are not judged fairly: while the human brain uses around 20W-25W of energy to perform such feasts, current AI methods use orders more energy today. Energy-efficient AI methods will also be required in the years to come to reduce their energy footprint in edge and cloud computing scenarios. (2) Artificial Intelligence in Energy (the use of AI technology in generating, storing and managing energy). This area encapsulates research into the development and application of state-of-the-art AI methods to particular problems arising from the larger reliance on renewable energy, starting with more refined modeling of batteries to enable the extension of their working lifetime, all the way to the development of AI methods for control of domestic energy consumption, necessitating research into computational privacy and explainable AI.",
+                    "locationName": "Potsdam, Brandenburg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:258692",
+                        "entityUrn": "urn:li:fs_miniCompany:258692",
+                        "name": "Hasso Plattner Institute",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVJMqbSVkv2w/company-logo_200_200/company-logo_200_200/0/1730820443292/hasso_plattner_institute_logo?e=1747872000&v=beta&t=JTWbNC2ZCF01AkZ4TvFqfpxOgA2KFKSfdE9lE6xc1_Y",
+                        "universalName": "hasso-plattner-institute",
+                        "dashCompanyUrn": "urn:li:fsd_company:258692",
+                        "trackingId": "JSuIiIuYSfqn+QZ2QuBZlA=="
+                    },
+                    "companyName": "Hasso Plattner Institute"
+                },
+                {
+                    "title": "Machine Learning & AI Scientific Advisor",
+                    "description": "betteries is a profit for impact start-up based in Berlin, Germany that up-cycles batteries from electric vehicles (EV) into connected affordable power systems to avert climate change and protect valuable resources - fully embracing the principles of a circular economy.\n\nWith our AI work, we are focusing on both estimating the state of health of EV batteries and optimizing their lifetime during second life.",
+                    "locationName": "Berlin, Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Renewables & Environment"
+                        ],
+                        "objectUrn": "urn:li:company:26179862",
+                        "entityUrn": "urn:li:fs_miniCompany:26179862",
+                        "name": "betteries AMPS GmbH",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGIIlqdkD-7pQ/company-logo_200_200/company-logo_200_200/0/1662473855970/betteries_logo?e=1747872000&v=beta&t=-XpAU9V_K9-dKoCSV24rUI5KgqBAk8d6aP8jBuB36II",
+                        "universalName": "betteries",
+                        "dashCompanyUrn": "urn:li:fsd_company:26179862",
+                        "trackingId": "W/T9O/iBSOmVyAmPaZiMvQ=="
+                    },
+                    "companyName": "betteries AMPS GmbH"
+                },
+                {
+                    "title": "SVP Builder Platform and AI",
+                    "locationName": "Berlin, Berlin, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Retail"
+                        ],
+                        "objectUrn": "urn:li:company:698916",
+                        "entityUrn": "urn:li:fs_miniCompany:698916",
+                        "name": "Zalando",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFr3zY0lxL0xA/company-logo_200_200/company-logo_200_200/0/1725959481841/zalando_logo?e=1747872000&v=beta&t=qg24uX6JUFmjDNNYPx9SCsCvf90KIO_y7RqpebmDPaY",
+                        "universalName": "zalando",
+                        "dashCompanyUrn": "urn:li:fsd_company:698916",
+                        "trackingId": "wCEsfnLSQhGjhCRLM46STQ=="
+                    },
+                    "companyName": "Zalando SE"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Research Fellow at Darwin College Cambridge",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Theoretical Statistics",
+                    "schoolName": "Technische Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "year": 1997
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diploma",
+                    "fieldOfStudy": "Computer Science & Business",
+                    "schoolName": "Technische Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "year": 1992
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Russian",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Project Management",
+                "Research",
+                "Group leader",
+                "C#"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor at Hasso Plattner Institute",
+            "summary": "In general, I want my work to have a positive impact to many people's lives. I particularly enjoy the application of principled research to large-scale real-world problems. I enjoy learning new things every day and getting to work with (new) people. \n\nI fundamentally believe in a people-first approach: As a scientist, I want to solve problems that people really have - also called \"working backwards\" and \"customer-obsession\"; as a manager, I always put people (development) over project (success) - the former being \"the end\" and the latter being \"the means\" (not the other way around); as a scientific leader, I always prefer to discuss ideas with another scientist over just reading their work - learning happens faster and in a more sustained way in a dialog rather than in reading.\n\nI do not accept existing scientific boundaries and think that the largest breakthroughs will be made at the intersection of existing disciplines. My research interests include Bayesian inference and decision making, game theory, information retrieval, natural language processing, computer vision, distributed systems, learning theory and knowledge representation and reasoning. I have published over 80 peer reviewed conference and journal papers in these fields. \n\nI am one of the inventors of the Drivatars™ system in the Forza Motorsport series as well as the TrueSkill™ ranking and matchmaking system in Xbox 360 Live. I also co-invented the click-prediction technology used in bing's online advertising system (adPredictor) which is used widely in the industry now. I am co-inventor for several patents relating to these inventions.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Potsdam, Brandenburg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Member of SAP's Supervisory Board",
+            "companyName": "SAP",
+            "companyPublicId": "sap",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/sap",
+            "following": false,
+            "followable": true,
+            "followersCount": 9948,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "SAP",
+        "position": "Member of SAP's Supervisory Board",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Member of SAP's Supervisory Board",
+        "organization": "SAP",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/ralf-herbrich-28a8324/",
+        "company": "https://www.linkedin.com/company/sap"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Member of SAP's Supervisory Board",
+            "description": "As member of SAP's supervisory board, I focus on product & technology as well as finance & investments.",
+            "locationName": "Potsdam, Brandenburg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "7p3TYxDIT0yXzM/wfY5BwQ=="
+            },
+            "companyName": "SAP"
+        },
+        {
+            "title": "Managing Director",
+            "locationName": "Potsdam, Brandenburg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:258692",
+                "entityUrn": "urn:li:fs_miniCompany:258692",
+                "name": "Hasso Plattner Institute",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVJMqbSVkv2w/company-logo_200_200/company-logo_200_200/0/1730820443292/hasso_plattner_institute_logo?e=1747872000&v=beta&t=JTWbNC2ZCF01AkZ4TvFqfpxOgA2KFKSfdE9lE6xc1_Y",
+                "universalName": "hasso-plattner-institute",
+                "dashCompanyUrn": "urn:li:fsd_company:258692",
+                "trackingId": "VN9qh37uR02aMh4ga6U5xA=="
+            },
+            "companyName": "Hasso Plattner Institute"
+        },
+        {
+            "title": "Professor",
+            "description": "Chair for Artificial Intelligence and Sustainability research group.\n\nI believe that an energy-aware perspective is imperative for developing true artificial intelligence and that an AI-first approach is imperative for solving the challenge of transitioning to a sustainable future based on renewable energy. My research is organized under two broad themes: (1) Energy in Artificial Intelligence (the use of energy in developing AI). This area encapsulates research on the tradeoffs and limitations of energy usage in solving basic AI tasks such as classification, ranking or planning & search. The notion of what constitutes AI in a machine is most famously captured by the notion of the Turing test. Currently, this is an unfair test because AI systems that offer impressive performance on tasks in restricted domains (e.g., AlphaGo) are not judged fairly: while the human brain uses around 20W-25W of energy to perform such feasts, current AI methods use orders more energy today. Energy-efficient AI methods will also be required in the years to come to reduce their energy footprint in edge and cloud computing scenarios. (2) Artificial Intelligence in Energy (the use of AI technology in generating, storing and managing energy). This area encapsulates research into the development and application of state-of-the-art AI methods to particular problems arising from the larger reliance on renewable energy, starting with more refined modeling of batteries to enable the extension of their working lifetime, all the way to the development of AI methods for control of domestic energy consumption, necessitating research into computational privacy and explainable AI.",
+            "locationName": "Potsdam, Brandenburg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:258692",
+                "entityUrn": "urn:li:fs_miniCompany:258692",
+                "name": "Hasso Plattner Institute",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVJMqbSVkv2w/company-logo_200_200/company-logo_200_200/0/1730820443292/hasso_plattner_institute_logo?e=1747872000&v=beta&t=JTWbNC2ZCF01AkZ4TvFqfpxOgA2KFKSfdE9lE6xc1_Y",
+                "universalName": "hasso-plattner-institute",
+                "dashCompanyUrn": "urn:li:fsd_company:258692",
+                "trackingId": "JSuIiIuYSfqn+QZ2QuBZlA=="
+            },
+            "companyName": "Hasso Plattner Institute"
+        },
+        {
+            "title": "Machine Learning & AI Scientific Advisor",
+            "description": "betteries is a profit for impact start-up based in Berlin, Germany that up-cycles batteries from electric vehicles (EV) into connected affordable power systems to avert climate change and protect valuable resources - fully embracing the principles of a circular economy.\n\nWith our AI work, we are focusing on both estimating the state of health of EV batteries and optimizing their lifetime during second life.",
+            "locationName": "Berlin, Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Renewables & Environment"
+                ],
+                "objectUrn": "urn:li:company:26179862",
+                "entityUrn": "urn:li:fs_miniCompany:26179862",
+                "name": "betteries AMPS GmbH",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGIIlqdkD-7pQ/company-logo_200_200/company-logo_200_200/0/1662473855970/betteries_logo?e=1747872000&v=beta&t=-XpAU9V_K9-dKoCSV24rUI5KgqBAk8d6aP8jBuB36II",
+                "universalName": "betteries",
+                "dashCompanyUrn": "urn:li:fsd_company:26179862",
+                "trackingId": "W/T9O/iBSOmVyAmPaZiMvQ=="
+            },
+            "companyName": "betteries AMPS GmbH"
+        },
+        {
+            "title": "SVP Builder Platform and AI",
+            "locationName": "Berlin, Berlin, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ],
+                "objectUrn": "urn:li:company:698916",
+                "entityUrn": "urn:li:fs_miniCompany:698916",
+                "name": "Zalando",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFr3zY0lxL0xA/company-logo_200_200/company-logo_200_200/0/1725959481841/zalando_logo?e=1747872000&v=beta&t=qg24uX6JUFmjDNNYPx9SCsCvf90KIO_y7RqpebmDPaY",
+                "universalName": "zalando",
+                "dashCompanyUrn": "urn:li:fsd_company:698916",
+                "trackingId": "wCEsfnLSQhGjhCRLM46STQ=="
+            },
+            "companyName": "Zalando SE"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Research Fellow at Darwin College Cambridge",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Theoretical Statistics",
+            "schoolName": "Technische Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1997
+                }
+            }
+        },
+        {
+            "degreeName": "Diploma",
+            "fieldOfStudy": "Computer Science & Business",
+            "schoolName": "Technische Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Project Management",
+        "Research",
+        "Group leader",
+        "C#"
+    ],
+    "lastEnriched": "2025-02-17"
+}

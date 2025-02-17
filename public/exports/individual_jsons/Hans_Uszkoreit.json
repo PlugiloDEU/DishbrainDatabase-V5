@@ -1,0 +1,446 @@
+{
+    "id": "exp4895820",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Hans",
+        "lastName": "Uszkoreit",
+        "fullName": "Hans Uszkoreit",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGmYhw9UMLftA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1640595192342?e=1745452800&v=beta&t=iEAjhBjrygrqQxgABZ9uwHvcB1fKGr6shgetWCQZ0aY",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "4895820",
+            "profileId": "ACoAAABKtEwB_FqCocKqWkPDnqK0RlSUZRDeuZ8",
+            "firstName": "Hans",
+            "lastName": "Uszkoreit",
+            "occupation": "AI/NLP scientist, Scientific Director at DFKI and Co-Founder of several AI startups",
+            "publicIdentifier": "hans-uszkoreit-2907811",
+            "trackingId": "H3viQ+rdS/KjScxzxQkvKQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGmYhw9UMLftA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1640595192342?e=1745452800&v=beta&t=iEAjhBjrygrqQxgABZ9uwHvcB1fKGr6shgetWCQZ0aY",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEJDYf23rAcRg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1622972226800?e=1745452800&v=beta&t=1h5fGBDZhLUg5CrvRXAoeXjOgwRAqQhb_CDJfejpvEA",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106967730",
+            "positions": [
+                {
+                    "title": "Chief Scientific Officer and Geschäftsführer",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:102562791",
+                        "entityUrn": "urn:li:fs_miniCompany:102562791",
+                        "name": "Amber Iris AI Consulting GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEHHDL5Rmwe-A/company-logo_200_200/company-logo_200_200/0/1714927831635?e=1747872000&v=beta&t=Gsx10XHE0oANVHUojEsmW16qqQXBV2Kxh0mDfQNXT34",
+                        "universalName": "amber-iris-ai-consulting-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:102562791",
+                        "trackingId": "fwnf97egS5uJJlYpNWS8lw=="
+                    },
+                    "companyName": "Amber Iris AI Consulting GmbH"
+                },
+                {
+                    "title": "Co-Founder and Scientific Advisor",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:14476864",
+                        "entityUrn": "urn:li:fs_miniCompany:14476864",
+                        "name": "UNICEPTA Corporate Intelligence",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYaOlwz_c9BA/company-logo_200_200/company-logo_200_200/0/1661866285420/giance_technologies_logo?e=1747872000&v=beta&t=IBMhqW0TJUO3xndmdxmxvL9jNmqwI9-lSHQVQDlTEtw",
+                        "universalName": "unicepta-corporate-intelligence",
+                        "dashCompanyUrn": "urn:li:fsd_company:14476864",
+                        "trackingId": "ldweJ8cjRY+xjIfKPe7QFw=="
+                    },
+                    "companyName": "UNICEPTA Corporate Intelligence"
+                },
+                {
+                    "title": "Scientific Director",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 1988
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "g9WxLq7qQTy68y5ydeAMmQ=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Co-Founder",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2002
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:431282",
+                        "entityUrn": "urn:li:fs_miniCompany:431282",
+                        "name": "Acrolinx",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGfTRZKE9yhjg/company-logo_200_200/company-logo_200_200/0/1719822330241/acrolinx_logo?e=1747872000&v=beta&t=BzTAK6nRkTl0Jp9sru8mRioQJ6ybz4sEXqf9YK2JHyo",
+                        "universalName": "acrolinx",
+                        "dashCompanyUrn": "urn:li:fsd_company:431282",
+                        "trackingId": "ZAGpVgGJQ1WOqNrlrurq7A=="
+                    },
+                    "companyName": "Acrolinx GmbH"
+                },
+                {
+                    "title": "AI/NLP scientist",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:95970653",
+                        "entityUrn": "urn:li:fs_miniCompany:95970653",
+                        "name": "nyonic",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnY9wxn_XIKg/company-logo_200_200/company-logo_200_200/0/1685451869556/nyonic_logo?e=1747872000&v=beta&t=VsqI8QslXJUJh-_iHuMc2u00MvYxMmLlgDOp6Xm5XTQ",
+                        "universalName": "nyonic",
+                        "dashCompanyUrn": "urn:li:fsd_company:95970653",
+                        "trackingId": "Mw9zW7VeRkOfkeGaGIr2Bg=="
+                    },
+                    "companyName": "nyonic"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Linguistics",
+                    "schoolName": "The University of Texas at Austin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1984
+                        },
+                        "startDate": {
+                            "year": 1977
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Linguistics and Computer Science",
+                    "schoolName": "Technische Universität Berlin / TU Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1977
+                        },
+                        "startDate": {
+                            "year": 1973
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Semantics",
+                "Linguistics",
+                "Natural Language Processing",
+                "Computational Linguistics"
+            ],
+            "volunteerExperiences": [],
+            "headline": "AI/NLP scientist, Scientific Director at DFKI and Co-Founder of several AI startups",
+            "summary": "AI/NLP scientist and expert in AI technology transfer, active as entrepreneur and consultant.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Berlin, Berlin",
+            "geoCountryName": "Germany",
+            "jobTitle": "Chief Scientific Officer and Geschäftsführer",
+            "companyName": "Amber Iris AI Consulting GmbH",
+            "companyPublicId": "amber-iris-ai-consulting-gmbh",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/amber-iris-ai-consulting-gmbh",
+            "following": false,
+            "followable": true,
+            "followersCount": 5709,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Amber Iris AI Consulting GmbH",
+        "position": "Chief Scientific Officer and Geschäftsführer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chief Scientific Officer and Geschäftsführer",
+        "organization": "Amber Iris AI Consulting GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/hans-uszkoreit-2907811/",
+        "company": "https://www.linkedin.com/company/amber-iris-ai-consulting-gmbh"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chief Scientific Officer and Geschäftsführer",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:102562791",
+                "entityUrn": "urn:li:fs_miniCompany:102562791",
+                "name": "Amber Iris AI Consulting GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEHHDL5Rmwe-A/company-logo_200_200/company-logo_200_200/0/1714927831635?e=1747872000&v=beta&t=Gsx10XHE0oANVHUojEsmW16qqQXBV2Kxh0mDfQNXT34",
+                "universalName": "amber-iris-ai-consulting-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:102562791",
+                "trackingId": "fwnf97egS5uJJlYpNWS8lw=="
+            },
+            "companyName": "Amber Iris AI Consulting GmbH"
+        },
+        {
+            "title": "Co-Founder and Scientific Advisor",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:14476864",
+                "entityUrn": "urn:li:fs_miniCompany:14476864",
+                "name": "UNICEPTA Corporate Intelligence",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHYaOlwz_c9BA/company-logo_200_200/company-logo_200_200/0/1661866285420/giance_technologies_logo?e=1747872000&v=beta&t=IBMhqW0TJUO3xndmdxmxvL9jNmqwI9-lSHQVQDlTEtw",
+                "universalName": "unicepta-corporate-intelligence",
+                "dashCompanyUrn": "urn:li:fsd_company:14476864",
+                "trackingId": "ldweJ8cjRY+xjIfKPe7QFw=="
+            },
+            "companyName": "UNICEPTA Corporate Intelligence"
+        },
+        {
+            "title": "Scientific Director",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 1988
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "g9WxLq7qQTy68y5ydeAMmQ=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Co-Founder",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2002
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:431282",
+                "entityUrn": "urn:li:fs_miniCompany:431282",
+                "name": "Acrolinx",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGfTRZKE9yhjg/company-logo_200_200/company-logo_200_200/0/1719822330241/acrolinx_logo?e=1747872000&v=beta&t=BzTAK6nRkTl0Jp9sru8mRioQJ6ybz4sEXqf9YK2JHyo",
+                "universalName": "acrolinx",
+                "dashCompanyUrn": "urn:li:fsd_company:431282",
+                "trackingId": "ZAGpVgGJQ1WOqNrlrurq7A=="
+            },
+            "companyName": "Acrolinx GmbH"
+        },
+        {
+            "title": "AI/NLP scientist",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:95970653",
+                "entityUrn": "urn:li:fs_miniCompany:95970653",
+                "name": "nyonic",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnY9wxn_XIKg/company-logo_200_200/company-logo_200_200/0/1685451869556/nyonic_logo?e=1747872000&v=beta&t=VsqI8QslXJUJh-_iHuMc2u00MvYxMmLlgDOp6Xm5XTQ",
+                "universalName": "nyonic",
+                "dashCompanyUrn": "urn:li:fsd_company:95970653",
+                "trackingId": "Mw9zW7VeRkOfkeGaGIr2Bg=="
+            },
+            "companyName": "nyonic"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Linguistics",
+            "schoolName": "The University of Texas at Austin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1984
+                },
+                "startDate": {
+                    "year": 1977
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Linguistics and Computer Science",
+            "schoolName": "Technische Universität Berlin / TU Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1977
+                },
+                "startDate": {
+                    "year": 1973
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Semantics",
+        "Linguistics",
+        "Natural Language Processing",
+        "Computational Linguistics"
+    ],
+    "lastEnriched": "2025-02-17"
+}

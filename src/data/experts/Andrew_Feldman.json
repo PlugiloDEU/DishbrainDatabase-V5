@@ -1,0 +1,473 @@
+{
+    "id": "exp9339132",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Andrew",
+        "lastName": "Feldman",
+        "fullName": "Andrew Feldman",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "9339132",
+            "profileId": "ACoAAACOgPwBT9sxYtde7f8W8fIDdc6Qol1EqHs",
+            "firstName": "Andrew",
+            "lastName": "Feldman",
+            "occupation": "Founder and CEO at Cerebras Systems",
+            "publicIdentifier": "andrewdfeldman",
+            "trackingId": "NjAvjXIrRYOI0B+SY0p70Q==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQEgC7RveXbRFw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1608757806519?e=1745452800&v=beta&t=ksZ4rn8AAPcn1xKGc9_CITbha7f0qNFpr_xQGNyp0_0",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000084",
+            "positions": [
+                {
+                    "title": "Founder and CEO",
+                    "description": "Cerebras Systems builds the fastest AI accelerators in the industry. Optimized for inference and for training, our solutions are based on our processor called the Wafer Scale Engine (WSE). The WSE is the largest and fastest processor ever built.  Our solutions are available in the cloud and on premise and are used by leading institutions around the world including but not limited to:  GSK, G42, AstraZeneca, Abbvie, TotalEnergies, Jasper, nference, Argonne National Laboratory, Lawrence Livermore National Laboratory, Pittsburgh Supercomputing Center, Leibniz Supercomputing Centre, National Center for Supercomputing Applications, Edinburgh Parallel Computing Centre (EPCC), National Energy Technology Laboratory, and Tokyo Electron Devices.",
+                    "locationName": "Menlo Park, California",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Computer Hardware"
+                        ],
+                        "objectUrn": "urn:li:company:10858000",
+                        "entityUrn": "urn:li:fs_miniCompany:10858000",
+                        "name": "Cerebras Systems",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHtQEsbXOmP2Q/company-logo_200_200/company-logo_200_200/0/1630577904771/cerebras_systems_logo?e=1747872000&v=beta&t=IqVeAq_LMNxhZxkkH3WD0O7fJIiAxeWrUmi3tgiPEjo",
+                        "universalName": "cerebras-systems",
+                        "dashCompanyUrn": "urn:li:fsd_company:10858000",
+                        "trackingId": "tnFVAj2qRuqB7TmLJp2zmA=="
+                    },
+                    "companyName": "Cerebras Systems"
+                },
+                {
+                    "title": "Corporate Vice President and General Manager",
+                    "description": "In February 2012, AMD acquired SeaMicro, where I was founder and CEO, for $355 million dollars. The SeaMicro team became the Data Center Server Solutions business unit inside of AMD. \n\nAt AMD, I led two business units: Data Center Server Solutions as well as Server CPUs.  Together, these businesses designed extraordinary CPUs, communication fabrics, and server systems. The goal was to transform the data center by developing products that are easier to use, and consume a fraction of the power and space of traditional devices.",
+                    "locationName": "Sunnyvale",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Semiconductors"
+                        ],
+                        "objectUrn": "urn:li:company:1497",
+                        "entityUrn": "urn:li:fs_miniCompany:1497",
+                        "name": "AMD",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEkjpiqeCK9Ag/company-logo_200_200/company-logo_200_200/0/1654804896089/amd_logo?e=1747872000&v=beta&t=Q_Y44G7JS9YoJfT_JGlu0QC3mVDCwI8wutFgT5INEJw",
+                        "universalName": "amd",
+                        "dashCompanyUrn": "urn:li:fsd_company:1497",
+                        "trackingId": "pMCMnRjYT5mlJN6ZO7AvWQ=="
+                    },
+                    "companyName": "AMD"
+                },
+                {
+                    "title": "Chief Executive Officer",
+                    "description": "SeaMicro was acquired by AMD in 2012 for $355 million.\n\nSeaMicro transformed the data center by building servers that drew one-quarter the power and took one-quarter the space of traditional servers. By delivering breakthrough innovations borne of multiple technology domains – CPU design, virtualization, supercomputing and networking – SeaMicro created a new server architecture purpose-built for scale out infrastructures such as those found in the web-tier, online gaming, search and index computation.",
+                    "locationName": "Sunnyvale",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Hardware"
+                        ],
+                        "objectUrn": "urn:li:company:885073",
+                        "entityUrn": "urn:li:fs_miniCompany:885073",
+                        "name": "SeaMicro",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFGH9Mm6BXigw/company-logo_200_200/company-logo_200_200/0/1631319410502?e=1747872000&v=beta&t=pjgK-ezx1V3Rh3DFwkU_H2if2A1mzVXLWDpwgL-koKc",
+                        "universalName": "seamicro",
+                        "dashCompanyUrn": "urn:li:fsd_company:885073",
+                        "trackingId": "Qc84YvtVSwO9Rh30JKZswg=="
+                    },
+                    "companyName": "SeaMicro"
+                },
+                {
+                    "title": "Entrepreneur In Residence",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:24378",
+                        "entityUrn": "urn:li:fs_miniCompany:24378",
+                        "name": "Crosslink Capital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQUHpONLNXvQ/company-logo_200_200/company-logo_200_200/0/1630614538819/crosslink_capital_logo?e=1747872000&v=beta&t=7V4omQfXSvnXLOHLSpEAhlfH9f4eWEwxfx8IjPGfr_o",
+                        "universalName": "crosslink-capital",
+                        "dashCompanyUrn": "urn:li:fsd_company:24378",
+                        "trackingId": "2E2CWBkwRqeK9ky7+Ch8RA=="
+                    },
+                    "companyName": "Crosslink Capital"
+                },
+                {
+                    "title": "Entrepreneur In Residence",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:57330",
+                        "entityUrn": "urn:li:fs_miniCompany:57330",
+                        "name": "U.S. Venture Partners",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQHe8lTl4swMmw/company-logo_200_200/company-logo_200_200/0/1631329854553?e=1747872000&v=beta&t=SCX-147WUsdWYqlUu55Zswb7ugoTtqMZizHIsPriscY",
+                        "universalName": "u.s.-venture-partners",
+                        "dashCompanyUrn": "urn:li:fsd_company:57330",
+                        "trackingId": "QVCeaso2SIGDB2qMiSvBDQ=="
+                    },
+                    "companyName": "U.S. Venture Partners"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Business Administration (MBA)",
+                    "schoolName": "Stanford University Graduate School of Business",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BA",
+                    "fieldOfStudy": "Economics/Political Science",
+                    "schoolName": "Stanford University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1991
+                        },
+                        "startDate": {
+                            "year": 1987
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Product Management",
+                "Strategic Partnerships",
+                "Go-to-market Strategy",
+                "Start-ups"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder and CEO at Cerebras Systems",
+            "summary": "I am a one of the founders and am CEO of Cerebras Systems. We are a team of pioneering computer architects, computer scientists, deep learning researchers, and engineers of all types. We have come together to build a new class of computer to accelerate artificial intelligence work by three orders of magnitude beyond the current state of the art. Our flagship product, the CS-3,  is the fastest AI computer in existence. It contains a collection of industry firsts, including the Cerebras Wafer Scale Engine (WSE-3). The WSE-3 is the largest chip ever built. It contains 4 trillion transistors and covers more than 46,225 square millimeters of silicon. The largest competitor's processor is only 80 billion transistors and covers 815 square millimeters. In artificial intelligence work, large chips process information more quickly producing answers in less time. As a result, neural networks that in the past took months to train, can now train in minutes and models that take tens of seconds to serve can be served immediately. \n\nPrior to co-founding Cerebras Systems, I was co-founder and CEO of SeaMicro.  SeaMicro (acquired by AMD for $355 million) was the pioneer in low power server technology. SeaMicro changed the trajectory of the server industry by inventing the high density, lower power, microserver category.\n\nPrior to co-founding SeaMicro, I was Vice President of Marketing and Product Management at Force10 (acquired by Dell for $800 Million) Networks, and Vice President of Corporate Marketing and Corporate Development for Riverstone Networks (NASDAQ: RSTN) from inception through IPO. \n\nMy passion is building teams that solve hard problems. Together we recognize large emerging opportunities, listen closely to customer requirements, build industry transforming products, and then bring these products to market in compelling fashion.",
+            "student": false,
+            "industryName": "Computer Hardware",
+            "industryUrn": "urn:li:fs_industry:3",
+            "geoLocationName": "San Francisco Bay Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Founder and CEO",
+            "companyName": "Cerebras Systems",
+            "companyPublicId": "cerebras-systems",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/cerebras-systems",
+            "following": false,
+            "followable": true,
+            "followersCount": 14031,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Cerebras Systems",
+        "position": "Founder and CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Hardware"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Founder and CEO",
+        "organization": "Cerebras Systems",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/andrewdfeldman/",
+        "company": "https://www.linkedin.com/company/cerebras-systems"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Founder and CEO",
+            "description": "Cerebras Systems builds the fastest AI accelerators in the industry. Optimized for inference and for training, our solutions are based on our processor called the Wafer Scale Engine (WSE). The WSE is the largest and fastest processor ever built.  Our solutions are available in the cloud and on premise and are used by leading institutions around the world including but not limited to:  GSK, G42, AstraZeneca, Abbvie, TotalEnergies, Jasper, nference, Argonne National Laboratory, Lawrence Livermore National Laboratory, Pittsburgh Supercomputing Center, Leibniz Supercomputing Centre, National Center for Supercomputing Applications, Edinburgh Parallel Computing Centre (EPCC), National Energy Technology Laboratory, and Tokyo Electron Devices.",
+            "locationName": "Menlo Park, California",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Hardware"
+                ],
+                "objectUrn": "urn:li:company:10858000",
+                "entityUrn": "urn:li:fs_miniCompany:10858000",
+                "name": "Cerebras Systems",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHtQEsbXOmP2Q/company-logo_200_200/company-logo_200_200/0/1630577904771/cerebras_systems_logo?e=1747872000&v=beta&t=IqVeAq_LMNxhZxkkH3WD0O7fJIiAxeWrUmi3tgiPEjo",
+                "universalName": "cerebras-systems",
+                "dashCompanyUrn": "urn:li:fsd_company:10858000",
+                "trackingId": "tnFVAj2qRuqB7TmLJp2zmA=="
+            },
+            "companyName": "Cerebras Systems"
+        },
+        {
+            "title": "Corporate Vice President and General Manager",
+            "description": "In February 2012, AMD acquired SeaMicro, where I was founder and CEO, for $355 million dollars. The SeaMicro team became the Data Center Server Solutions business unit inside of AMD. \n\nAt AMD, I led two business units: Data Center Server Solutions as well as Server CPUs.  Together, these businesses designed extraordinary CPUs, communication fabrics, and server systems. The goal was to transform the data center by developing products that are easier to use, and consume a fraction of the power and space of traditional devices.",
+            "locationName": "Sunnyvale",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Semiconductors"
+                ],
+                "objectUrn": "urn:li:company:1497",
+                "entityUrn": "urn:li:fs_miniCompany:1497",
+                "name": "AMD",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEkjpiqeCK9Ag/company-logo_200_200/company-logo_200_200/0/1654804896089/amd_logo?e=1747872000&v=beta&t=Q_Y44G7JS9YoJfT_JGlu0QC3mVDCwI8wutFgT5INEJw",
+                "universalName": "amd",
+                "dashCompanyUrn": "urn:li:fsd_company:1497",
+                "trackingId": "pMCMnRjYT5mlJN6ZO7AvWQ=="
+            },
+            "companyName": "AMD"
+        },
+        {
+            "title": "Chief Executive Officer",
+            "description": "SeaMicro was acquired by AMD in 2012 for $355 million.\n\nSeaMicro transformed the data center by building servers that drew one-quarter the power and took one-quarter the space of traditional servers. By delivering breakthrough innovations borne of multiple technology domains – CPU design, virtualization, supercomputing and networking – SeaMicro created a new server architecture purpose-built for scale out infrastructures such as those found in the web-tier, online gaming, search and index computation.",
+            "locationName": "Sunnyvale",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Hardware"
+                ],
+                "objectUrn": "urn:li:company:885073",
+                "entityUrn": "urn:li:fs_miniCompany:885073",
+                "name": "SeaMicro",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFGH9Mm6BXigw/company-logo_200_200/company-logo_200_200/0/1631319410502?e=1747872000&v=beta&t=pjgK-ezx1V3Rh3DFwkU_H2if2A1mzVXLWDpwgL-koKc",
+                "universalName": "seamicro",
+                "dashCompanyUrn": "urn:li:fsd_company:885073",
+                "trackingId": "Qc84YvtVSwO9Rh30JKZswg=="
+            },
+            "companyName": "SeaMicro"
+        },
+        {
+            "title": "Entrepreneur In Residence",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:24378",
+                "entityUrn": "urn:li:fs_miniCompany:24378",
+                "name": "Crosslink Capital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQUHpONLNXvQ/company-logo_200_200/company-logo_200_200/0/1630614538819/crosslink_capital_logo?e=1747872000&v=beta&t=7V4omQfXSvnXLOHLSpEAhlfH9f4eWEwxfx8IjPGfr_o",
+                "universalName": "crosslink-capital",
+                "dashCompanyUrn": "urn:li:fsd_company:24378",
+                "trackingId": "2E2CWBkwRqeK9ky7+Ch8RA=="
+            },
+            "companyName": "Crosslink Capital"
+        },
+        {
+            "title": "Entrepreneur In Residence",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:57330",
+                "entityUrn": "urn:li:fs_miniCompany:57330",
+                "name": "U.S. Venture Partners",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHe8lTl4swMmw/company-logo_200_200/company-logo_200_200/0/1631329854553?e=1747872000&v=beta&t=SCX-147WUsdWYqlUu55Zswb7ugoTtqMZizHIsPriscY",
+                "universalName": "u.s.-venture-partners",
+                "dashCompanyUrn": "urn:li:fsd_company:57330",
+                "trackingId": "QVCeaso2SIGDB2qMiSvBDQ=="
+            },
+            "companyName": "U.S. Venture Partners"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Business Administration (MBA)",
+            "schoolName": "Stanford University Graduate School of Business",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            }
+        },
+        {
+            "degreeName": "BA",
+            "fieldOfStudy": "Economics/Political Science",
+            "schoolName": "Stanford University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1991
+                },
+                "startDate": {
+                    "year": 1987
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Product Management",
+        "Strategic Partnerships",
+        "Go-to-market Strategy",
+        "Start-ups"
+    ],
+    "lastEnriched": "2025-02-17"
+}

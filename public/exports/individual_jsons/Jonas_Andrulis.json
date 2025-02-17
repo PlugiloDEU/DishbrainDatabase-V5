@@ -1,0 +1,413 @@
+{
+    "id": "exp352258228",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Jonas",
+        "lastName": "Andrulis",
+        "fullName": "Jonas Andrulis",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQFM0obRupjSow/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1646940014408?e=1745452800&v=beta&t=rlTDkPLa9BozmN1Dr9anDDRL_lPOcFQPKnphtIVioRA",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "352258228",
+            "profileId": "ACoAABT_CLQBO49wC-RZ6mO0V37PXuxXpSoVMDQ",
+            "firstName": "Jonas",
+            "lastName": "Andrulis",
+            "occupation": "Founder & CEO Aleph Alpha | Sovereignty in the AI era",
+            "publicIdentifier": "jonasandrulis",
+            "trackingId": "9l/U4wDKT5+5jzFMgDM7RA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFM0obRupjSow/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1646940014408?e=1745452800&v=beta&t=rlTDkPLa9BozmN1Dr9anDDRL_lPOcFQPKnphtIVioRA",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGaWLZ_ymFltw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1697114466044?e=1745452800&v=beta&t=FkO_jBQz4gXcd6sss2CT1ZCQHuDEy8dD68ME-jZfeDU",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105255837",
+            "positions": [
+                {
+                    "title": "Founder and CEO",
+                    "description": "Sovereignty in the AI era",
+                    "locationName": "Heidelberg",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:20143683",
+                        "entityUrn": "urn:li:fs_miniCompany:20143683",
+                        "name": "Aleph Alpha",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFLPsivF5akyw/company-logo_200_200/company-logo_200_200/0/1661777031414/aleph_alpha_logo?e=1747872000&v=beta&t=EZ8keh3sywccJaJtdZcwXvYr4073H8IVzJRAnErrzW0",
+                        "universalName": "aleph-alpha",
+                        "dashCompanyUrn": "urn:li:fsd_company:20143683",
+                        "trackingId": "SOuG57nHTVqmagDQJsg74w=="
+                    },
+                    "companyName": "Aleph Alpha GmbH"
+                },
+                {
+                    "title": "Sr. AI R&D Eng. Manager",
+                    "description": "Machine Learning R&D and Prototyping at scale.",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Consumer Electronics"
+                        ],
+                        "objectUrn": "urn:li:company:162479",
+                        "entityUrn": "urn:li:fs_miniCompany:162479",
+                        "name": "Apple",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_200_200/company-logo_200_200/0/1630637844948/apple_logo?e=1747872000&v=beta&t=wW2mIt400_ZNCktxY9Oi2cFroCoajrrbwr3t05xTMJ8",
+                        "universalName": "apple",
+                        "dashCompanyUrn": "urn:li:fsd_company:162479",
+                        "trackingId": "HedysPzeThePdVDHektFGg=="
+                    },
+                    "companyName": "Apple"
+                },
+                {
+                    "title": "Founder and CEO",
+                    "description": "Pallas Ludens combines state-of-the art machine learning and computer vision with human-in-the-loop microtasks to solve vision problems for all industries.",
+                    "locationName": "Heidelberg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:9407463",
+                        "entityUrn": "urn:li:fs_miniCompany:9407463",
+                        "name": "Pallas Ludens GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEThyKgbxbRpg/company-logo_200_200/company-logo_200_200/0/1631368874553/pallas_ludens_gmbh_logo?e=1747872000&v=beta&t=6wNbv1QYurbOHNXXQ0Mydcc-VxlE65xophSin3Jh9B4",
+                        "universalName": "pallas-ludens-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:9407463",
+                        "trackingId": "0re63a4cSi2zc5DFnShh3Q=="
+                    },
+                    "companyName": "Pallas Ludens GmbH"
+                },
+                {
+                    "title": "Manager",
+                    "description": "Strategic Impact Modeling (Lead)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1038",
+                        "entityUrn": "urn:li:fs_miniCompany:1038",
+                        "name": "Deloitte",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                        "universalName": "deloitte",
+                        "dashCompanyUrn": "urn:li:fsd_company:1038",
+                        "trackingId": "5UoD2ERjRd+/Ug2t4unYqQ=="
+                    },
+                    "companyName": "Deloitte"
+                },
+                {
+                    "title": "Managing Consultant",
+                    "description": "Machine learning  & quantitative Finance",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:2270127",
+                        "entityUrn": "urn:li:fs_miniCompany:2270127",
+                        "name": "Q_PERIOR",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFGQYI5c7EMdg/company-logo_200_200/company-logo_200_200/0/1630468716341/q_perior_logo?e=1747872000&v=beta&t=Uigkg75cceQp8_XqXM04hZeJ8H4zXEfqqjHpB5wyqjI",
+                        "universalName": "q_perior",
+                        "dashCompanyUrn": "urn:li:fsd_company:2270127",
+                        "trackingId": "7vdkK3cUTJepm9ATcPrmOw=="
+                    },
+                    "companyName": "Q_PERIOR"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom Wirtschaftsingenieur (Dipl. Wi.-Ing.)",
+                    "schoolName": "Karlsruher Institut für Technologie (KIT)"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Projektmanagement",
+                "Strategisches Management",
+                "Strategische Planung",
+                "Unternehmensberatung"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder & CEO Aleph Alpha | Sovereignty in the AI era",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "Heidelberg, Baden-Württemberg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Founder and CEO",
+            "companyName": "Aleph Alpha GmbH",
+            "companyPublicId": "aleph-alpha",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/aleph-alpha",
+            "following": false,
+            "followable": true,
+            "followersCount": 14692,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "Aleph Alpha GmbH",
+        "position": "Founder and CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Founder and CEO",
+        "organization": "Aleph Alpha GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/jonasandrulis/",
+        "company": "https://www.linkedin.com/company/aleph-alpha"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Founder and CEO",
+            "description": "Sovereignty in the AI era",
+            "locationName": "Heidelberg",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:20143683",
+                "entityUrn": "urn:li:fs_miniCompany:20143683",
+                "name": "Aleph Alpha",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFLPsivF5akyw/company-logo_200_200/company-logo_200_200/0/1661777031414/aleph_alpha_logo?e=1747872000&v=beta&t=EZ8keh3sywccJaJtdZcwXvYr4073H8IVzJRAnErrzW0",
+                "universalName": "aleph-alpha",
+                "dashCompanyUrn": "urn:li:fsd_company:20143683",
+                "trackingId": "SOuG57nHTVqmagDQJsg74w=="
+            },
+            "companyName": "Aleph Alpha GmbH"
+        },
+        {
+            "title": "Sr. AI R&D Eng. Manager",
+            "description": "Machine Learning R&D and Prototyping at scale.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Electronics"
+                ],
+                "objectUrn": "urn:li:company:162479",
+                "entityUrn": "urn:li:fs_miniCompany:162479",
+                "name": "Apple",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_200_200/company-logo_200_200/0/1630637844948/apple_logo?e=1747872000&v=beta&t=wW2mIt400_ZNCktxY9Oi2cFroCoajrrbwr3t05xTMJ8",
+                "universalName": "apple",
+                "dashCompanyUrn": "urn:li:fsd_company:162479",
+                "trackingId": "HedysPzeThePdVDHektFGg=="
+            },
+            "companyName": "Apple"
+        },
+        {
+            "title": "Founder and CEO",
+            "description": "Pallas Ludens combines state-of-the art machine learning and computer vision with human-in-the-loop microtasks to solve vision problems for all industries.",
+            "locationName": "Heidelberg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:9407463",
+                "entityUrn": "urn:li:fs_miniCompany:9407463",
+                "name": "Pallas Ludens GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEThyKgbxbRpg/company-logo_200_200/company-logo_200_200/0/1631368874553/pallas_ludens_gmbh_logo?e=1747872000&v=beta&t=6wNbv1QYurbOHNXXQ0Mydcc-VxlE65xophSin3Jh9B4",
+                "universalName": "pallas-ludens-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:9407463",
+                "trackingId": "0re63a4cSi2zc5DFnShh3Q=="
+            },
+            "companyName": "Pallas Ludens GmbH"
+        },
+        {
+            "title": "Manager",
+            "description": "Strategic Impact Modeling (Lead)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1038",
+                "entityUrn": "urn:li:fs_miniCompany:1038",
+                "name": "Deloitte",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGNtpblgQpJoQ/company-logo_200_200/company-logo_200_200/0/1662120928214/deloitte_logo?e=1747872000&v=beta&t=ieNAEdDg6WIWTetN9SqFxk9PrP-VPuFMstCoWx39V4o",
+                "universalName": "deloitte",
+                "dashCompanyUrn": "urn:li:fsd_company:1038",
+                "trackingId": "5UoD2ERjRd+/Ug2t4unYqQ=="
+            },
+            "companyName": "Deloitte"
+        },
+        {
+            "title": "Managing Consultant",
+            "description": "Machine learning  & quantitative Finance",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:2270127",
+                "entityUrn": "urn:li:fs_miniCompany:2270127",
+                "name": "Q_PERIOR",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFGQYI5c7EMdg/company-logo_200_200/company-logo_200_200/0/1630468716341/q_perior_logo?e=1747872000&v=beta&t=Uigkg75cceQp8_XqXM04hZeJ8H4zXEfqqjHpB5wyqjI",
+                "universalName": "q_perior",
+                "dashCompanyUrn": "urn:li:fsd_company:2270127",
+                "trackingId": "7vdkK3cUTJepm9ATcPrmOw=="
+            },
+            "companyName": "Q_PERIOR"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom Wirtschaftsingenieur (Dipl. Wi.-Ing.)",
+            "schoolName": "Karlsruher Institut für Technologie (KIT)"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Projektmanagement",
+        "Strategisches Management",
+        "Strategische Planung",
+        "Unternehmensberatung"
+    ],
+    "lastEnriched": "2025-02-17"
+}

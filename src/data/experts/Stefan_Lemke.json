@@ -1,0 +1,411 @@
+{
+    "id": "exp24203043",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Stefan",
+        "lastName": "Lemke",
+        "fullName": "Stefan Lemke",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQFD4dN6-zwMmA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516348925152?e=1745452800&v=beta&t=qD2ReE0SMYc9Z_IkpuEF6lModizby5sGT4O004Dt_CI",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "24203043",
+            "profileId": "ACoAAAFxTyMB9PVg6emZLCAWeshJ7KD-U0Ny_wA",
+            "firstName": "Stefan",
+            "lastName": "Lemke",
+            "occupation": "Vorstand und CIO, SIGNAL IDUNA Gruppe",
+            "publicIdentifier": "stefanlemke",
+            "trackingId": "rdo6AVN3SqqzkIMwVXF3Yg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFD4dN6-zwMmA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516348925152?e=1745452800&v=beta&t=qD2ReE0SMYc9Z_IkpuEF6lModizby5sGT4O004Dt_CI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:103990938",
+            "positions": [
+                {
+                    "title": "Member of the Executive Board and CIO",
+                    "locationName": "Dortmund and Hamburg",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Insurance"
+                        ],
+                        "objectUrn": "urn:li:company:11146938",
+                        "entityUrn": "urn:li:fs_miniCompany:11146938",
+                        "name": "SIGNAL IDUNA Gruppe",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGQoPU0C3ydwQ/company-logo_200_200/company-logo_200_200/0/1718888937438/signalidunagruppe_logo?e=1747872000&v=beta&t=OFcrh9Y-dCA9gYT6y9VudfqvSQfmnG-ynhss9OfCtCw",
+                        "universalName": "signalidunagruppe",
+                        "dashCompanyUrn": "urn:li:fsd_company:11146938",
+                        "trackingId": "KMBxpZJnQKyygidxv+Up3g=="
+                    },
+                    "companyName": "SIGNAL IDUNA Gruppe"
+                },
+                {
+                    "title": "Member of the Executive Board and CIO",
+                    "locationName": "Cologne Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Insurance"
+                        ],
+                        "objectUrn": "urn:li:company:2221",
+                        "entityUrn": "urn:li:fs_miniCompany:2221",
+                        "name": "AXA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHeXioeuXu7-w/company-logo_200_200/company-logo_200_200/0/1714640236991/axa_logo?e=1747872000&v=beta&t=mV4CR0OXXgnSGSCimwsnfrmvZHDEumH7gxoV5z1AItY",
+                        "universalName": "axa",
+                        "dashCompanyUrn": "urn:li:fsd_company:2221",
+                        "trackingId": "Bnr3T4iwQ9y/QeWUg00bFg=="
+                    },
+                    "companyName": "AXA"
+                },
+                {
+                    "title": "Chief Information Officer",
+                    "description": "Chief Information Technology Officer, Geschäftsführer IT der Zurich Service GmbH",
+                    "locationName": "Cologne and Bonn",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Insurance"
+                        ],
+                        "objectUrn": "urn:li:company:2458",
+                        "entityUrn": "urn:li:fs_miniCompany:2458",
+                        "name": "Zurich Insurance",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAnKFB3xoVLw/company-logo_200_200/company-logo_200_200/0/1719817296589/zurich_insurance_company_ltd_logo?e=1747872000&v=beta&t=TIK2s5i6ib9rt5M9cU9Uf4VTgl3lmhTggiMLJPHo6KY",
+                        "universalName": "zurich-insurance-company-ltd",
+                        "dashCompanyUrn": "urn:li:fsd_company:2458",
+                        "trackingId": "qG4VruNsSHGhCkZ6CmRfZg=="
+                    },
+                    "companyName": "Zurich Gruppe Deutschland"
+                },
+                {
+                    "title": "Senior Vice President",
+                    "description": "Business and IT Transformation of Allianz France (Core Insurance).",
+                    "locationName": "Paris and Munich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:2979",
+                        "entityUrn": "urn:li:fs_miniCompany:2979",
+                        "name": "Allianz",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGHx9VjaPq_EQ/company-logo_200_200/company-logo_200_200/0/1630462389804/allianz_logo?e=1747872000&v=beta&t=Z5NVV6jE4BrPFW-DXXnwdD0zobg3GqyfonGgHwENziM",
+                        "universalName": "allianz",
+                        "dashCompanyUrn": "urn:li:fsd_company:2979",
+                        "trackingId": "d1K612/fSM+sSUYkVrO/5g=="
+                    },
+                    "companyName": "Allianz Managed Operations and Services SE"
+                },
+                {
+                    "title": "Management Consultant",
+                    "description": "Infrastructure transformation: Took charge in service revision and improvements, process management, workforce effectiveness, and cost savings initiatives.",
+                    "locationName": "Munich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2010
+                        }
+                    },
+                    "companyName": "Dr. Stefan Lemke"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr. rer. nat.",
+                    "fieldOfStudy": "Diploma in Physics",
+                    "schoolName": "University of Tuebingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1994
+                        },
+                        "startDate": {
+                            "year": 1986
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "ITIL",
+                "Integration",
+                "Program Management",
+                "Management"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Vorstand und CIO, SIGNAL IDUNA Gruppe",
+            "summary": "Senior executive with passion to drive Business- and IT-transformation.\n\nDeep expertise in insurance and technology. \nSpecialties: Track record in strategy and technology architecture, innovation, application development and renewal, data and artificial intelligence, digitalization and business process management, agile and workforce transformation, service management and operations, sourcing and global delivery.\n\nAcademic background: Superconductivity, Quantum Electronics, Sensors, Micromechanics",
+            "student": false,
+            "industryName": "Insurance",
+            "industryUrn": "urn:li:fs_industry:42",
+            "geoLocationName": "Bonn, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Member of the Executive Board and CIO",
+            "companyName": "SIGNAL IDUNA Gruppe",
+            "companyPublicId": "signalidunagruppe",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/signalidunagruppe",
+            "following": false,
+            "followable": true,
+            "followersCount": 4427,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "SIGNAL IDUNA Gruppe",
+        "position": "Member of the Executive Board and CIO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Insurance"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Member of the Executive Board and CIO",
+        "organization": "SIGNAL IDUNA Gruppe",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/stefanlemke/",
+        "company": "https://www.linkedin.com/company/signalidunagruppe"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Member of the Executive Board and CIO",
+            "locationName": "Dortmund and Hamburg",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Insurance"
+                ],
+                "objectUrn": "urn:li:company:11146938",
+                "entityUrn": "urn:li:fs_miniCompany:11146938",
+                "name": "SIGNAL IDUNA Gruppe",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGQoPU0C3ydwQ/company-logo_200_200/company-logo_200_200/0/1718888937438/signalidunagruppe_logo?e=1747872000&v=beta&t=OFcrh9Y-dCA9gYT6y9VudfqvSQfmnG-ynhss9OfCtCw",
+                "universalName": "signalidunagruppe",
+                "dashCompanyUrn": "urn:li:fsd_company:11146938",
+                "trackingId": "KMBxpZJnQKyygidxv+Up3g=="
+            },
+            "companyName": "SIGNAL IDUNA Gruppe"
+        },
+        {
+            "title": "Member of the Executive Board and CIO",
+            "locationName": "Cologne Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Insurance"
+                ],
+                "objectUrn": "urn:li:company:2221",
+                "entityUrn": "urn:li:fs_miniCompany:2221",
+                "name": "AXA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHeXioeuXu7-w/company-logo_200_200/company-logo_200_200/0/1714640236991/axa_logo?e=1747872000&v=beta&t=mV4CR0OXXgnSGSCimwsnfrmvZHDEumH7gxoV5z1AItY",
+                "universalName": "axa",
+                "dashCompanyUrn": "urn:li:fsd_company:2221",
+                "trackingId": "Bnr3T4iwQ9y/QeWUg00bFg=="
+            },
+            "companyName": "AXA"
+        },
+        {
+            "title": "Chief Information Officer",
+            "description": "Chief Information Technology Officer, Geschäftsführer IT der Zurich Service GmbH",
+            "locationName": "Cologne and Bonn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Insurance"
+                ],
+                "objectUrn": "urn:li:company:2458",
+                "entityUrn": "urn:li:fs_miniCompany:2458",
+                "name": "Zurich Insurance",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHAnKFB3xoVLw/company-logo_200_200/company-logo_200_200/0/1719817296589/zurich_insurance_company_ltd_logo?e=1747872000&v=beta&t=TIK2s5i6ib9rt5M9cU9Uf4VTgl3lmhTggiMLJPHo6KY",
+                "universalName": "zurich-insurance-company-ltd",
+                "dashCompanyUrn": "urn:li:fsd_company:2458",
+                "trackingId": "qG4VruNsSHGhCkZ6CmRfZg=="
+            },
+            "companyName": "Zurich Gruppe Deutschland"
+        },
+        {
+            "title": "Senior Vice President",
+            "description": "Business and IT Transformation of Allianz France (Core Insurance).",
+            "locationName": "Paris and Munich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:2979",
+                "entityUrn": "urn:li:fs_miniCompany:2979",
+                "name": "Allianz",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGHx9VjaPq_EQ/company-logo_200_200/company-logo_200_200/0/1630462389804/allianz_logo?e=1747872000&v=beta&t=Z5NVV6jE4BrPFW-DXXnwdD0zobg3GqyfonGgHwENziM",
+                "universalName": "allianz",
+                "dashCompanyUrn": "urn:li:fsd_company:2979",
+                "trackingId": "d1K612/fSM+sSUYkVrO/5g=="
+            },
+            "companyName": "Allianz Managed Operations and Services SE"
+        },
+        {
+            "title": "Management Consultant",
+            "description": "Infrastructure transformation: Took charge in service revision and improvements, process management, workforce effectiveness, and cost savings initiatives.",
+            "locationName": "Munich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2010
+                }
+            },
+            "companyName": "Dr. Stefan Lemke"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr. rer. nat.",
+            "fieldOfStudy": "Diploma in Physics",
+            "schoolName": "University of Tuebingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1994
+                },
+                "startDate": {
+                    "year": 1986
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "ITIL",
+        "Integration",
+        "Program Management",
+        "Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

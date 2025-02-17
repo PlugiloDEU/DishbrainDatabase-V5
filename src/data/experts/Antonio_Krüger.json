@@ -1,0 +1,399 @@
+{
+    "id": "exp18649032",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Antonio",
+        "lastName": "Krüger",
+        "fullName": "Antonio Krüger",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "18649032",
+            "profileId": "ACoAAAEcj8gBRwoIRwthvndOQlm5VwE6c5CDLWA",
+            "firstName": "Antonio",
+            "lastName": "Krüger",
+            "occupation": "CEO DFKI GmbH, Professor for Computer Science, Saarland University",
+            "publicIdentifier": "antonio-krüger-3202b46",
+            "trackingId": "xoC4oMAnQy6sAtrcO2086w==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFPUTQOBf-vEQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1724075037173?e=1745452800&v=beta&t=1bp8xFVWb1V0pVFurp4s2nQeMdiLDmm7VUsySA637Rg",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009749",
+            "positions": [
+                {
+                    "title": "Chief Executive Officer",
+                    "locationName": "Saarbrücken, Saarland, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "MC62etS7Rj+rryAYasyUaQ=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Scientific Director Department \"Cognitive Assistants\"",
+                    "locationName": "Saarbrücken, Saarland, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "V8n6UADGTLmxyXPxj65CJA=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Professor for Computer Science",
+                    "locationName": "Saarbrücken, Saarland, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:165803",
+                        "entityUrn": "urn:li:fs_miniCompany:165803",
+                        "name": "Universität des Saarlandes",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHUKNuUNeNHZA/company-logo_200_200/company-logo_200_200/0/1631355954413?e=1747872000&v=beta&t=i53H2WJasQ0BgAJVOR6WXzDP7tPbj0Y9k3ce32Uhr8w",
+                        "universalName": "saarland-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:165803",
+                        "trackingId": "8ANRammPSBuGDSmenHfm+g=="
+                    },
+                    "companyName": "Universität des Saarlandes"
+                },
+                {
+                    "title": "Scientific Director Innovative Retail Laboratory",
+                    "locationName": "Saarbrücken, Saarland, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "/wrWnd6KTKe3ye/BFk6ACA=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Professor for Geoinformatics and Computer Science",
+                    "locationName": "Münster, North Rhine-Westphalia, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2004
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:15594",
+                        "entityUrn": "urn:li:fs_miniCompany:15594",
+                        "name": "University of Münster",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGpKl9fXcWaUQ/company-logo_200_200/company-logo_200_200/0/1671697645543/university_of_muenster_logo?e=1747872000&v=beta&t=FgbDqwMgQOkbLxUQ86yfE66pTixtk86sZ1-Iyln6DVc",
+                        "universalName": "university-of-muenster",
+                        "dashCompanyUrn": "urn:li:fsd_company:15594",
+                        "trackingId": "61AYXRMHQvSZUads9CNa/Q=="
+                    },
+                    "companyName": "University of Münster"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "Universität des Saarlandes"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Computer Science"
+            ],
+            "volunteerExperiences": [],
+            "headline": "CEO DFKI GmbH, Professor for Computer Science, Saarland University",
+            "summary": "I am the CEO of the German Research Center for Artificial Intelligence GmbH (DFKI) and head of the department “Cognitive Assistants” at DFKI. I am a full professor for Computer Science at Saarland University, heading the Ubiquitous Media Technology Lab (umtl.cs.uni-sb.de). My main research interests lie at the intersection of Artificial Intelligence and Human-Computer Interaction. I am particularly dedicated to the transfer of high quality research results into real-world applications so that \"human centred AI\" unfolds its full potential for our society. For more infos on my mission, please visit www.dfki.de or umtl.cs.uni-sb.de.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Saarland",
+            "geoCountryName": "Germany",
+            "jobTitle": "Chief Executive Officer",
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+            "companyPublicId": "dfki",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/dfki",
+            "following": false,
+            "followable": true,
+            "followersCount": 2440,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+        "position": "Chief Executive Officer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chief Executive Officer",
+        "organization": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/antonio-krüger-3202b46/",
+        "company": "https://www.linkedin.com/company/dfki"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chief Executive Officer",
+            "locationName": "Saarbrücken, Saarland, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "MC62etS7Rj+rryAYasyUaQ=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Scientific Director Department \"Cognitive Assistants\"",
+            "locationName": "Saarbrücken, Saarland, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "V8n6UADGTLmxyXPxj65CJA=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Professor for Computer Science",
+            "locationName": "Saarbrücken, Saarland, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:165803",
+                "entityUrn": "urn:li:fs_miniCompany:165803",
+                "name": "Universität des Saarlandes",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHUKNuUNeNHZA/company-logo_200_200/company-logo_200_200/0/1631355954413?e=1747872000&v=beta&t=i53H2WJasQ0BgAJVOR6WXzDP7tPbj0Y9k3ce32Uhr8w",
+                "universalName": "saarland-university",
+                "dashCompanyUrn": "urn:li:fsd_company:165803",
+                "trackingId": "8ANRammPSBuGDSmenHfm+g=="
+            },
+            "companyName": "Universität des Saarlandes"
+        },
+        {
+            "title": "Scientific Director Innovative Retail Laboratory",
+            "locationName": "Saarbrücken, Saarland, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "/wrWnd6KTKe3ye/BFk6ACA=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Professor for Geoinformatics and Computer Science",
+            "locationName": "Münster, North Rhine-Westphalia, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2004
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:15594",
+                "entityUrn": "urn:li:fs_miniCompany:15594",
+                "name": "University of Münster",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGpKl9fXcWaUQ/company-logo_200_200/company-logo_200_200/0/1671697645543/university_of_muenster_logo?e=1747872000&v=beta&t=FgbDqwMgQOkbLxUQ86yfE66pTixtk86sZ1-Iyln6DVc",
+                "universalName": "university-of-muenster",
+                "dashCompanyUrn": "urn:li:fsd_company:15594",
+                "trackingId": "61AYXRMHQvSZUads9CNa/Q=="
+            },
+            "companyName": "University of Münster"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "Universität des Saarlandes"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Computer Science"
+    ],
+    "lastEnriched": "2025-02-17"
+}

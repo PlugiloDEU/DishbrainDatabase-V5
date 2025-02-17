@@ -1,0 +1,528 @@
+{
+    "id": "exp72981680",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Julia",
+        "lastName": "Hoffmann",
+        "fullName": "Julia Hoffmann",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQEKqX80JODUNQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1643816102154?e=1745452800&v=beta&t=EJkDIYHYmvrPNZK8lgcioye3vLFEK3zz1py1_9rR-FE",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Dutch",
+            "English",
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "72981680",
+            "profileId": "ACoAAARZnLAB5VCN036rx7ipdS124nUDIRD1osc",
+            "firstName": "Julia",
+            "lastName": "Hoffmann",
+            "occupation": "Institute Manager at UvA Institute for Advanced Study",
+            "publicIdentifier": "julia-hoffmann-92853620",
+            "trackingId": "AmAH08fcSyqSuTVbA/TcpA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEKqX80JODUNQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1643816102154?e=1745452800&v=beta&t=EJkDIYHYmvrPNZK8lgcioye3vLFEK3zz1py1_9rR-FE",
+            "countryCode": "nl",
+            "geoUrn": "urn:li:fs_geo:103100785",
+            "positions": [
+                {
+                    "title": "Institute Manager",
+                    "description": "In close collaboration with the Director and the larger Management Team, I oversee the operational management of the Institute, contribute to maintaining and building new partnerships, interdisciplinary program development and the overall strategic direction to further its mission.",
+                    "locationName": "Amsterdam, North Holland, Netherlands",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:42419276",
+                        "entityUrn": "urn:li:fs_miniCompany:42419276",
+                        "name": "UvA Institute for Advanced Study",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHagyT8d9zTXw/company-logo_200_200/company-logo_200_200/0/1630570835453?e=1747872000&v=beta&t=nHArqXLmPU_pJxtOiL3xdNGZUjHddK9qL-sCyDsYyR0",
+                        "universalName": "uva-institute-for-advanced-study",
+                        "dashCompanyUrn": "urn:li:fsd_company:42419276",
+                        "trackingId": "n9DgvxdQQ0iRs5nhY6D8WQ=="
+                    },
+                    "companyName": "UvA Institute for Advanced Study"
+                },
+                {
+                    "title": "Chair of the Board of Trustees",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Civic & Social Organization"
+                        ],
+                        "objectUrn": "urn:li:company:10975063",
+                        "entityUrn": "urn:li:fs_miniCompany:10975063",
+                        "name": "Beyond Equality",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFkgSOm04UrrQ/company-logo_200_200/company-logo_200_200/0/1630533227535?e=1747872000&v=beta&t=JgPFlgjU-XsXOAZHKIJNLbhKj7ZabXj69H91ElPoO3g",
+                        "universalName": "beyondequality",
+                        "dashCompanyUrn": "urn:li:fsd_company:10975063",
+                        "trackingId": "tQSjMOCoRJKKkNoccOmRqA=="
+                    },
+                    "companyName": "Beyond Equality"
+                },
+                {
+                    "title": "Member Board of Trustees",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Civic & Social Organization"
+                        ],
+                        "objectUrn": "urn:li:company:10975063",
+                        "entityUrn": "urn:li:fs_miniCompany:10975063",
+                        "name": "Beyond Equality",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFkgSOm04UrrQ/company-logo_200_200/company-logo_200_200/0/1630533227535?e=1747872000&v=beta&t=JgPFlgjU-XsXOAZHKIJNLbhKj7ZabXj69H91ElPoO3g",
+                        "universalName": "beyondequality",
+                        "dashCompanyUrn": "urn:li:fsd_company:10975063",
+                        "trackingId": "kb57Y3vTQC2lVrdIMPMZtg=="
+                    },
+                    "companyName": "Beyond Equality"
+                },
+                {
+                    "title": "Board Member",
+                    "description": "Member of Board for Article 19 Europe",
+                    "locationName": "Amsterdam, North Holland, Netherlands",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Nonprofit Organization Management"
+                        ],
+                        "objectUrn": "urn:li:company:79285",
+                        "entityUrn": "urn:li:fs_miniCompany:79285",
+                        "name": "ARTICLE 19",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHFOVTyKSTGIg/company-logo_200_200/company-logo_200_200/0/1630650340492/article19_logo?e=1747872000&v=beta&t=CaUZlml1bLvy0_hAorTf3h2Z105OKruUGNYp6Yyz4I4",
+                        "universalName": "article19",
+                        "dashCompanyUrn": "urn:li:fsd_company:79285",
+                        "trackingId": "nuMfz7+BQBOT0Y51HfnqmQ=="
+                    },
+                    "companyName": "ARTICLE 19"
+                },
+                {
+                    "title": "Member of the International Advisory Committee of the Joint SDG Research Programme",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:21237",
+                        "entityUrn": "urn:li:fs_miniCompany:21237",
+                        "name": "NWO (Dutch Research Council)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH3t_z4jTmbMg/company-logo_200_200/company-logo_200_200/0/1738595620361/nwo_logo?e=1747872000&v=beta&t=Cx01nvTvpxJ9tTh9nYzphnMy2ZOmxSIoQKWUeRRm2hI",
+                        "universalName": "nwo",
+                        "dashCompanyUrn": "urn:li:fsd_company:21237",
+                        "trackingId": "urhBqeK0SQCeeCYMPXetfg=="
+                    },
+                    "companyName": "NWO (Dutch Research Council)"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Communication and Human Rights",
+                    "schoolName": "Universiteit van Amsterdam",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    }
+                },
+                {
+                    "degreeName": "LL.M. (cum laude)",
+                    "fieldOfStudy": "International and European Public Law",
+                    "schoolName": "University of Amsterdam",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Political Science and Philosophy",
+                    "schoolName": "The University of Hong Kong",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Basis Kwalificatie Onderwijs (BKO)",
+                    "authority": "University of Amsterdam"
+                },
+                {
+                    "name": "Senior Teaching Qualification (SKO)",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2021
+                        }
+                    },
+                    "authority": "Vrije Universiteit Amsterdam (VU Amsterdam)"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Annenberg-Oxford Media Policy Summer Institute"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Dutch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Community Development",
+                "Business Development",
+                "Research Evaluation",
+                "Trusteeship"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Institute Manager at UvA Institute for Advanced Study",
+            "summary": "Experienced non-profit manager, program developer and researcher with experience in academia, higher education and international civil society organisations. \nSkilled in Strategic Planning, Team building, Project Management (including financial management) and resource mobilisation. Teaching, Coaching , doing research and public speaking are also part of my skillset.\n\nI look at the bigger picture and connect dots - and, most often, people and their ideas - to create new constellations and projects. I excel at seeing win-win combinations and building strong coalitions across difference.",
+            "student": false,
+            "industryName": "Non-profit Organization Management",
+            "industryUrn": "urn:li:fs_industry:100",
+            "geoLocationName": "Amsterdam, North Holland",
+            "geoCountryName": "Netherlands",
+            "jobTitle": "Institute Manager",
+            "companyName": "UvA Institute for Advanced Study",
+            "companyPublicId": "uva-institute-for-advanced-study",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/uva-institute-for-advanced-study",
+            "following": false,
+            "followable": true,
+            "followersCount": 2120,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "UvA Institute for Advanced Study",
+        "position": "Institute Manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Institute Manager",
+        "organization": "UvA Institute for Advanced Study",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/julia-hoffmann-92853620/",
+        "company": "https://www.linkedin.com/company/uva-institute-for-advanced-study"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Institute Manager",
+            "description": "In close collaboration with the Director and the larger Management Team, I oversee the operational management of the Institute, contribute to maintaining and building new partnerships, interdisciplinary program development and the overall strategic direction to further its mission.",
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:42419276",
+                "entityUrn": "urn:li:fs_miniCompany:42419276",
+                "name": "UvA Institute for Advanced Study",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHagyT8d9zTXw/company-logo_200_200/company-logo_200_200/0/1630570835453?e=1747872000&v=beta&t=nHArqXLmPU_pJxtOiL3xdNGZUjHddK9qL-sCyDsYyR0",
+                "universalName": "uva-institute-for-advanced-study",
+                "dashCompanyUrn": "urn:li:fsd_company:42419276",
+                "trackingId": "n9DgvxdQQ0iRs5nhY6D8WQ=="
+            },
+            "companyName": "UvA Institute for Advanced Study"
+        },
+        {
+            "title": "Chair of the Board of Trustees",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Civic & Social Organization"
+                ],
+                "objectUrn": "urn:li:company:10975063",
+                "entityUrn": "urn:li:fs_miniCompany:10975063",
+                "name": "Beyond Equality",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFkgSOm04UrrQ/company-logo_200_200/company-logo_200_200/0/1630533227535?e=1747872000&v=beta&t=JgPFlgjU-XsXOAZHKIJNLbhKj7ZabXj69H91ElPoO3g",
+                "universalName": "beyondequality",
+                "dashCompanyUrn": "urn:li:fsd_company:10975063",
+                "trackingId": "tQSjMOCoRJKKkNoccOmRqA=="
+            },
+            "companyName": "Beyond Equality"
+        },
+        {
+            "title": "Member Board of Trustees",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Civic & Social Organization"
+                ],
+                "objectUrn": "urn:li:company:10975063",
+                "entityUrn": "urn:li:fs_miniCompany:10975063",
+                "name": "Beyond Equality",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFkgSOm04UrrQ/company-logo_200_200/company-logo_200_200/0/1630533227535?e=1747872000&v=beta&t=JgPFlgjU-XsXOAZHKIJNLbhKj7ZabXj69H91ElPoO3g",
+                "universalName": "beyondequality",
+                "dashCompanyUrn": "urn:li:fsd_company:10975063",
+                "trackingId": "kb57Y3vTQC2lVrdIMPMZtg=="
+            },
+            "companyName": "Beyond Equality"
+        },
+        {
+            "title": "Board Member",
+            "description": "Member of Board for Article 19 Europe",
+            "locationName": "Amsterdam, North Holland, Netherlands",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ],
+                "objectUrn": "urn:li:company:79285",
+                "entityUrn": "urn:li:fs_miniCompany:79285",
+                "name": "ARTICLE 19",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHFOVTyKSTGIg/company-logo_200_200/company-logo_200_200/0/1630650340492/article19_logo?e=1747872000&v=beta&t=CaUZlml1bLvy0_hAorTf3h2Z105OKruUGNYp6Yyz4I4",
+                "universalName": "article19",
+                "dashCompanyUrn": "urn:li:fsd_company:79285",
+                "trackingId": "nuMfz7+BQBOT0Y51HfnqmQ=="
+            },
+            "companyName": "ARTICLE 19"
+        },
+        {
+            "title": "Member of the International Advisory Committee of the Joint SDG Research Programme",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2024
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:21237",
+                "entityUrn": "urn:li:fs_miniCompany:21237",
+                "name": "NWO (Dutch Research Council)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH3t_z4jTmbMg/company-logo_200_200/company-logo_200_200/0/1738595620361/nwo_logo?e=1747872000&v=beta&t=Cx01nvTvpxJ9tTh9nYzphnMy2ZOmxSIoQKWUeRRm2hI",
+                "universalName": "nwo",
+                "dashCompanyUrn": "urn:li:fsd_company:21237",
+                "trackingId": "urhBqeK0SQCeeCYMPXetfg=="
+            },
+            "companyName": "NWO (Dutch Research Council)"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Communication and Human Rights",
+            "schoolName": "Universiteit van Amsterdam",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            }
+        },
+        {
+            "degreeName": "LL.M. (cum laude)",
+            "fieldOfStudy": "International and European Public Law",
+            "schoolName": "University of Amsterdam",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Political Science and Philosophy",
+            "schoolName": "The University of Hong Kong",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Basis Kwalificatie Onderwijs (BKO)",
+            "authority": "University of Amsterdam"
+        },
+        {
+            "name": "Senior Teaching Qualification (SKO)",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "authority": "Vrije Universiteit Amsterdam (VU Amsterdam)"
+        }
+    ],
+    "skills": [
+        "Community Development",
+        "Business Development",
+        "Research Evaluation",
+        "Trusteeship"
+    ],
+    "lastEnriched": "2025-02-17"
+}

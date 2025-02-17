@@ -1,0 +1,550 @@
+{
+    "id": "exp824631248",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Julia",
+        "lastName": "Fischer",
+        "fullName": "Julia Fischer",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQEYhQPCqxcpyQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1719073137193?e=1745452800&v=beta&t=fkfg7iI1hV07ejmeFgZhCL2ghj03l1dYEeHPtauzI_A",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French"
+        ],
+        "allData": {
+            "id": "824631248",
+            "profileId": "ACoAADEm39ABZwyn-ikGemphIK6vJhUouqTJYr8",
+            "firstName": "Julia",
+            "lastName": "Fischer",
+            "occupation": "Symbolic Systems at Stanford | BS '24, MS '25",
+            "publicIdentifier": "juliafischer8",
+            "trackingId": "L0Nq+SHPQMegiMX4vWTSQQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEYhQPCqxcpyQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1719073137193?e=1745452800&v=beta&t=fkfg7iI1hV07ejmeFgZhCL2ghj03l1dYEeHPtauzI_A",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103093621",
+            "positions": [
+                {
+                    "title": "Research Intern at The Change Lab",
+                    "description": "Using Bayesian methods + NLP to understand emotion, personality, and social interaction\nhttps://thechangelab.stanford.edu/meet-our-team/julia-fischer/",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1792",
+                        "entityUrn": "urn:li:fs_miniCompany:1792",
+                        "name": "Stanford University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                        "universalName": "stanford-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:1792",
+                        "trackingId": "qZVTXvKVRc2tGS+NL8o3tQ=="
+                    },
+                    "companyName": "Stanford University"
+                },
+                {
+                    "title": "Course Development Assistant Plus",
+                    "description": "Collaborating with Stanford instructors to design student-centered and accessible courses",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1792",
+                        "entityUrn": "urn:li:fs_miniCompany:1792",
+                        "name": "Stanford University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                        "universalName": "stanford-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:1792",
+                        "trackingId": "8HNqBg4ATD2P2HWtiTb/NA=="
+                    },
+                    "companyName": "Stanford University"
+                },
+                {
+                    "title": "Visiting AI Fellow",
+                    "description": "Supported ethical implementation of AI in federal mental health and substance use initiatives",
+                    "locationName": "Washington DC-Baltimore Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:5438852",
+                        "entityUrn": "urn:li:fs_miniCompany:5438852",
+                        "name": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFiXyPqLrQKCw/company-logo_200_200/company-logo_200_200/0/1674063832852/substance_abuse_and_mental_health_services_administration_logo?e=1747872000&v=beta&t=SBEtyd8yxJnaeq2o91LULteIdAL3PIIdNr2YNFO_hVs",
+                        "universalName": "substance-abuse-and-mental-health-services-administration",
+                        "dashCompanyUrn": "urn:li:fsd_company:5438852",
+                        "trackingId": "R5HZ/8TCSgi903oW4L6SUQ=="
+                    },
+                    "companyName": "Substance Abuse and Mental Health Services Administration (SAMHSA)"
+                },
+                {
+                    "title": "Tech Ethics & Policy Graduate Fellow",
+                    "description": "Received funding and training through Stanford HAI to work on AI policy in DC",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:18927585",
+                        "entityUrn": "urn:li:fs_miniCompany:18927585",
+                        "name": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQF2PTprLtXKjA/company-logo_200_200/company-logo_200_200/0/1678225171731/stanfordhai_logo?e=1747872000&v=beta&t=qGKqtUn0ZcOpYwyz2QKTkZqB4Fez1XU90HLNc-trxRo",
+                        "universalName": "stanfordhai",
+                        "dashCompanyUrn": "urn:li:fsd_company:18927585",
+                        "trackingId": "Pa7ciW3LQAOLlH4ySxUEVg=="
+                    },
+                    "companyName": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)"
+                },
+                {
+                    "title": "Psychology One Teaching Fellow",
+                    "description": "Planned & taught discussion sections and graded assignments for Stanford's introductory psychology course",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1792",
+                        "entityUrn": "urn:li:fs_miniCompany:1792",
+                        "name": "Stanford University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                        "universalName": "stanford-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:1792",
+                        "trackingId": "VutctejlTLKkWGmB/07QPw=="
+                    },
+                    "companyName": "Stanford University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "Symbolic Systems",
+                    "schoolName": "Stanford University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2025
+                        },
+                        "startDate": {
+                            "year": 2023
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science - BS",
+                    "fieldOfStudy": "Symbolic Systems",
+                    "schoolName": "Stanford University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "degreeName": "High School Diploma",
+                    "schoolName": "Lyons Township High School District 204",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Glushko Prize for Excellence in Undergraduate Research in Symbolic Systems",
+                    "description": "Recognized for undergraduate honors thesis \"Bayesian Methods Tutorials for Psychological Research\"",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2024
+                    }
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "Bayesian inference",
+                "Human Subjects Research",
+                "Natural Language Processing (NLP)",
+                "Data Visualization"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Outreach Volunteer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "Stanford Women in Computer Science"
+                },
+                {
+                    "role": "Section Leader",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Code in Place"
+                },
+                {
+                    "role": "Junior Volunteer Board Member",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Hinsdale Humane Society"
+                }
+            ],
+            "headline": "Symbolic Systems at Stanford | BS '24, MS '25",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Stanford, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Research Intern at The Change Lab",
+            "companyName": "Stanford University",
+            "companyPublicId": "stanford-university",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/stanford-university",
+            "following": false,
+            "followable": true,
+            "followersCount": 278,
+            "connectionsCount": 273,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Stanford University",
+        "position": "Research Intern at The Change Lab",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Research Intern at The Change Lab",
+        "organization": "Stanford University",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/juliafischer8/",
+        "company": "https://www.linkedin.com/company/stanford-university"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Research Intern at The Change Lab",
+            "description": "Using Bayesian methods + NLP to understand emotion, personality, and social interaction\nhttps://thechangelab.stanford.edu/meet-our-team/julia-fischer/",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1792",
+                "entityUrn": "urn:li:fs_miniCompany:1792",
+                "name": "Stanford University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                "universalName": "stanford-university",
+                "dashCompanyUrn": "urn:li:fsd_company:1792",
+                "trackingId": "qZVTXvKVRc2tGS+NL8o3tQ=="
+            },
+            "companyName": "Stanford University"
+        },
+        {
+            "title": "Course Development Assistant Plus",
+            "description": "Collaborating with Stanford instructors to design student-centered and accessible courses",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1792",
+                "entityUrn": "urn:li:fs_miniCompany:1792",
+                "name": "Stanford University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                "universalName": "stanford-university",
+                "dashCompanyUrn": "urn:li:fsd_company:1792",
+                "trackingId": "8HNqBg4ATD2P2HWtiTb/NA=="
+            },
+            "companyName": "Stanford University"
+        },
+        {
+            "title": "Visiting AI Fellow",
+            "description": "Supported ethical implementation of AI in federal mental health and substance use initiatives",
+            "locationName": "Washington DC-Baltimore Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:5438852",
+                "entityUrn": "urn:li:fs_miniCompany:5438852",
+                "name": "Substance Abuse and Mental Health Services Administration (SAMHSA)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFiXyPqLrQKCw/company-logo_200_200/company-logo_200_200/0/1674063832852/substance_abuse_and_mental_health_services_administration_logo?e=1747872000&v=beta&t=SBEtyd8yxJnaeq2o91LULteIdAL3PIIdNr2YNFO_hVs",
+                "universalName": "substance-abuse-and-mental-health-services-administration",
+                "dashCompanyUrn": "urn:li:fsd_company:5438852",
+                "trackingId": "R5HZ/8TCSgi903oW4L6SUQ=="
+            },
+            "companyName": "Substance Abuse and Mental Health Services Administration (SAMHSA)"
+        },
+        {
+            "title": "Tech Ethics & Policy Graduate Fellow",
+            "description": "Received funding and training through Stanford HAI to work on AI policy in DC",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:18927585",
+                "entityUrn": "urn:li:fs_miniCompany:18927585",
+                "name": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQF2PTprLtXKjA/company-logo_200_200/company-logo_200_200/0/1678225171731/stanfordhai_logo?e=1747872000&v=beta&t=qGKqtUn0ZcOpYwyz2QKTkZqB4Fez1XU90HLNc-trxRo",
+                "universalName": "stanfordhai",
+                "dashCompanyUrn": "urn:li:fsd_company:18927585",
+                "trackingId": "Pa7ciW3LQAOLlH4ySxUEVg=="
+            },
+            "companyName": "Stanford Institute for Human-Centered Artificial Intelligence (HAI)"
+        },
+        {
+            "title": "Psychology One Teaching Fellow",
+            "description": "Planned & taught discussion sections and graded assignments for Stanford's introductory psychology course",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1792",
+                "entityUrn": "urn:li:fs_miniCompany:1792",
+                "name": "Stanford University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                "universalName": "stanford-university",
+                "dashCompanyUrn": "urn:li:fsd_company:1792",
+                "trackingId": "VutctejlTLKkWGmB/07QPw=="
+            },
+            "companyName": "Stanford University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "Symbolic Systems",
+            "schoolName": "Stanford University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2025
+                },
+                "startDate": {
+                    "year": 2023
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science - BS",
+            "fieldOfStudy": "Symbolic Systems",
+            "schoolName": "Stanford University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2024
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "degreeName": "High School Diploma",
+            "schoolName": "Lyons Township High School District 204",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Bayesian inference",
+        "Human Subjects Research",
+        "Natural Language Processing (NLP)",
+        "Data Visualization"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,502 @@
+{
+    "id": "exp775396430",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura",
+        "lastName": "Mueller",
+        "fullName": "Laura Mueller",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQGnl8oVTP0bmA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726512637265?e=1745452800&v=beta&t=yYhl7Izh61C0zAzTqlS06bHLqOc7wc_b8ZRkVVUUJT8",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "775396430",
+            "profileId": "ACoAAC43nE4BzIFOS0hOvXubnAP28knOeCeKolc",
+            "firstName": "Laura",
+            "lastName": "Mueller",
+            "occupation": "Program Director, School Psychology",
+            "publicIdentifier": "laura-mueller-952818197",
+            "trackingId": "SjpLDgxiTZWVbmuoeSxVUw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQGnl8oVTP0bmA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1726512637265?e=1745452800&v=beta&t=yYhl7Izh61C0zAzTqlS06bHLqOc7wc_b8ZRkVVUUJT8",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQFyIyp-_F6q1Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1726512673694?e=1745452800&v=beta&t=cKSq0ptNRS6CKKats37ELdZNf7dUMSkRK9WXIf5sSU8",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103918656",
+            "positions": [
+                {
+                    "title": "Program Director",
+                    "locationName": "United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:18997",
+                        "entityUrn": "urn:li:fs_miniCompany:18997",
+                        "name": "Alliant International University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQG_yQq_JRZl-w/company-logo_200_200/company-logo_200_200/0/1630579946198/alliant_international_university_logo?e=1747872000&v=beta&t=Q9WJiQ9bW3FKyOS4anfdhYF0ItYPk40p_8YZng-LiW0",
+                        "universalName": "alliant-international-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:18997",
+                        "trackingId": "PwNKgtkZSwCURX2CzFA73g=="
+                    },
+                    "companyName": "Alliant International University"
+                },
+                {
+                    "title": "School Psychologist",
+                    "description": "Educationally Related Mental Health Services consultant",
+                    "locationName": "United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Primary/Secondary Education"
+                        ],
+                        "objectUrn": "urn:li:company:165520",
+                        "entityUrn": "urn:li:fs_miniCompany:165520",
+                        "name": "Poway Unified School District",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEQ_9ZjDN2WIw/company-logo_200_200/company-logo_200_200/0/1630669737787/poway_unified_school_district_logo?e=1747872000&v=beta&t=qK0pSXFv0FZv16KLKljagj5hgq4248KvWsRQJhoGGQI",
+                        "universalName": "poway-unified-school-district",
+                        "dashCompanyUrn": "urn:li:fsd_company:165520",
+                        "trackingId": "i5lyR6yvRKSIi7MvVOckKg=="
+                    },
+                    "companyName": "Poway Unified School District"
+                },
+                {
+                    "title": "Program Specialist",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Primary/Secondary Education"
+                        ],
+                        "objectUrn": "urn:li:company:165520",
+                        "entityUrn": "urn:li:fs_miniCompany:165520",
+                        "name": "Poway Unified School District",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEQ_9ZjDN2WIw/company-logo_200_200/company-logo_200_200/0/1630669737787/poway_unified_school_district_logo?e=1747872000&v=beta&t=qK0pSXFv0FZv16KLKljagj5hgq4248KvWsRQJhoGGQI",
+                        "universalName": "poway-unified-school-district",
+                        "dashCompanyUrn": "urn:li:fsd_company:165520",
+                        "trackingId": "QLVyxnx+T4GRU06XitxISA=="
+                    },
+                    "companyName": "Poway Unified School District"
+                },
+                {
+                    "title": "Adjunct Professor",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:19242",
+                        "entityUrn": "urn:li:fs_miniCompany:19242",
+                        "name": "George Fox University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHSJTdgkwSbrg/company-logo_200_200/company-logo_200_200/0/1631309661795?e=1747872000&v=beta&t=ZAllv8XBsgkw_cz_Id-lm5_YWzSk8nbtCQ4rYiGuUEk",
+                        "universalName": "george-fox-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:19242",
+                        "trackingId": "D6EFr3PhSnCYjIY/3ilcVA=="
+                    },
+                    "companyName": "George Fox University"
+                },
+                {
+                    "title": "Adjunct Professor",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:18997",
+                        "entityUrn": "urn:li:fs_miniCompany:18997",
+                        "name": "Alliant International University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQG_yQq_JRZl-w/company-logo_200_200/company-logo_200_200/0/1630579946198/alliant_international_university_logo?e=1747872000&v=beta&t=Q9WJiQ9bW3FKyOS4anfdhYF0ItYPk40p_8YZng-LiW0",
+                        "universalName": "alliant-international-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:18997",
+                        "trackingId": "bBCG7KCaT2mkUqVBnFgHoQ=="
+                    },
+                    "companyName": "Alliant International University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Psychology",
+                    "fieldOfStudy": "Educational Psychology",
+                    "schoolName": "Alliant International University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2007
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Arts - MA",
+                    "fieldOfStudy": "School Psychology",
+                    "schoolName": "Alliant International University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2005
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Arts - BA",
+                    "fieldOfStudy": "Psychology",
+                    "schoolName": "Hope International University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 1987
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 1984
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Presentation Skills",
+                "Communication",
+                "Mental Health Counseling",
+                "Dialectical Behavior Therapy (DBT)"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Program Director, School Psychology ",
+            "summary": "Dr. Laura Mueller is a highly accomplished school psychologist and educational leader. She currently serves as the Program Director and an Assistant Professor for the School Psychology PPS program at the California School of Education at Alliant International University (AIU). \n\nDr. Mueller brings a wealth of experience to her role, having served as an Adjunct Professor in AIU's Educational Psychology masters and doctoral programs for over 14 years.  A distinguished alumna of AIU, she holds an M.A. in School Psychology and a Psy.D. in Educational Psychology, where she was recognized with the “Outstanding Doctor of Education” award. \n\nHer professional background includes extensive work as a School Psychologist, Behavior Specialist, Educationally Related Mental Health Services (ERMHS) provider, and Program Specialist. She continues to contribute to the field through her part-time role as an ERMHS consultant for the Poway Unified School District.\n\nDr. Mueller is a recognized expert on Nonsuicidal Self-Injury (NSSI), having presented her doctoral research findings to diverse audiences, including the American Academy of Pediatrics, San Diego County Office of Education, Orange County Office of Education, and the California Association of School Psychologists. Her expertise is highly recognized, with upcoming presentations scheduled for the National Association of School Psychologists in 2025.\n\nFurthermore, Dr. Mueller's collaborative research on mindfulness curriculum implementation in elementary schools, conducted with Dr. Steve Fisher, has garnered international reception. Their work was presented at the World Council for Curriculum and Instruction in Rome in 2018 and published in the conference proceedings.",
+            "student": false,
+            "industryName": "Primary/Secondary Education",
+            "industryUrn": "urn:li:fs_industry:67",
+            "geoLocationName": "San Diego, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Program Director",
+            "companyName": "Alliant International University",
+            "companyPublicId": "alliant-international-university",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/alliant-international-university",
+            "following": false,
+            "followable": true,
+            "followersCount": 147,
+            "connectionsCount": 142,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Alliant International University",
+        "position": "Program Director",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Program Director",
+        "organization": "Alliant International University",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laura-mueller-952818197/",
+        "company": "https://www.linkedin.com/company/alliant-international-university"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Program Director",
+            "locationName": "United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:18997",
+                "entityUrn": "urn:li:fs_miniCompany:18997",
+                "name": "Alliant International University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG_yQq_JRZl-w/company-logo_200_200/company-logo_200_200/0/1630579946198/alliant_international_university_logo?e=1747872000&v=beta&t=Q9WJiQ9bW3FKyOS4anfdhYF0ItYPk40p_8YZng-LiW0",
+                "universalName": "alliant-international-university",
+                "dashCompanyUrn": "urn:li:fsd_company:18997",
+                "trackingId": "PwNKgtkZSwCURX2CzFA73g=="
+            },
+            "companyName": "Alliant International University"
+        },
+        {
+            "title": "School Psychologist",
+            "description": "Educationally Related Mental Health Services consultant",
+            "locationName": "United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Primary/Secondary Education"
+                ],
+                "objectUrn": "urn:li:company:165520",
+                "entityUrn": "urn:li:fs_miniCompany:165520",
+                "name": "Poway Unified School District",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEQ_9ZjDN2WIw/company-logo_200_200/company-logo_200_200/0/1630669737787/poway_unified_school_district_logo?e=1747872000&v=beta&t=qK0pSXFv0FZv16KLKljagj5hgq4248KvWsRQJhoGGQI",
+                "universalName": "poway-unified-school-district",
+                "dashCompanyUrn": "urn:li:fsd_company:165520",
+                "trackingId": "i5lyR6yvRKSIi7MvVOckKg=="
+            },
+            "companyName": "Poway Unified School District"
+        },
+        {
+            "title": "Program Specialist",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Primary/Secondary Education"
+                ],
+                "objectUrn": "urn:li:company:165520",
+                "entityUrn": "urn:li:fs_miniCompany:165520",
+                "name": "Poway Unified School District",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEQ_9ZjDN2WIw/company-logo_200_200/company-logo_200_200/0/1630669737787/poway_unified_school_district_logo?e=1747872000&v=beta&t=qK0pSXFv0FZv16KLKljagj5hgq4248KvWsRQJhoGGQI",
+                "universalName": "poway-unified-school-district",
+                "dashCompanyUrn": "urn:li:fsd_company:165520",
+                "trackingId": "QLVyxnx+T4GRU06XitxISA=="
+            },
+            "companyName": "Poway Unified School District"
+        },
+        {
+            "title": "Adjunct Professor",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:19242",
+                "entityUrn": "urn:li:fs_miniCompany:19242",
+                "name": "George Fox University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHSJTdgkwSbrg/company-logo_200_200/company-logo_200_200/0/1631309661795?e=1747872000&v=beta&t=ZAllv8XBsgkw_cz_Id-lm5_YWzSk8nbtCQ4rYiGuUEk",
+                "universalName": "george-fox-university",
+                "dashCompanyUrn": "urn:li:fsd_company:19242",
+                "trackingId": "D6EFr3PhSnCYjIY/3ilcVA=="
+            },
+            "companyName": "George Fox University"
+        },
+        {
+            "title": "Adjunct Professor",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:18997",
+                "entityUrn": "urn:li:fs_miniCompany:18997",
+                "name": "Alliant International University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG_yQq_JRZl-w/company-logo_200_200/company-logo_200_200/0/1630579946198/alliant_international_university_logo?e=1747872000&v=beta&t=Q9WJiQ9bW3FKyOS4anfdhYF0ItYPk40p_8YZng-LiW0",
+                "universalName": "alliant-international-university",
+                "dashCompanyUrn": "urn:li:fsd_company:18997",
+                "trackingId": "bBCG7KCaT2mkUqVBnFgHoQ=="
+            },
+            "companyName": "Alliant International University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Psychology",
+            "fieldOfStudy": "Educational Psychology",
+            "schoolName": "Alliant International University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2007
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Arts - MA",
+            "fieldOfStudy": "School Psychology",
+            "schoolName": "Alliant International University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2005
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Arts - BA",
+            "fieldOfStudy": "Psychology",
+            "schoolName": "Hope International University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 1987
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 1984
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Presentation Skills",
+        "Communication",
+        "Mental Health Counseling",
+        "Dialectical Behavior Therapy (DBT)"
+    ],
+    "lastEnriched": "2025-02-17"
+}

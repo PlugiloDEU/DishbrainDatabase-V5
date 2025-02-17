@@ -1,0 +1,374 @@
+{
+    "id": "exp45873890",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Maximilian",
+        "lastName": "Schneider",
+        "fullName": "Maximilian Schneider",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "45873890",
+            "profileId": "ACoAAAK7-uIBx7xIpbwlMZUsRRXPAxbBykJEJxc",
+            "firstName": "Maximilian",
+            "lastName": "Schneider",
+            "occupation": "Corporate Real Estate Consultant at Savills",
+            "publicIdentifier": "schneidermaximilian",
+            "trackingId": "W13+3b2nSoimR/DF/iTBEA==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103644278",
+            "positions": [
+                {
+                    "title": "Corporate Managing Director",
+                    "locationName": "United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Real Estate"
+                        ],
+                        "objectUrn": "urn:li:company:9063",
+                        "entityUrn": "urn:li:fs_miniCompany:9063",
+                        "name": "Savills",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHKDZATVvg3lw/company-logo_200_200/company-logo_200_200/0/1657280086820/savills_logo?e=1747872000&v=beta&t=pREK4sBWKoGFmRSQ_fTlT-oHa76cTTfoil_G9GTgy-o",
+                        "universalName": "savills",
+                        "dashCompanyUrn": "urn:li:fsd_company:9063",
+                        "trackingId": "GlJbuRqvQwyj106rweyHyw=="
+                    },
+                    "companyName": "Savills"
+                },
+                {
+                    "title": "Managing Director",
+                    "locationName": "United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Real Estate"
+                        ],
+                        "objectUrn": "urn:li:company:9063",
+                        "entityUrn": "urn:li:fs_miniCompany:9063",
+                        "name": "Savills",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHKDZATVvg3lw/company-logo_200_200/company-logo_200_200/0/1657280086820/savills_logo?e=1747872000&v=beta&t=pREK4sBWKoGFmRSQ_fTlT-oHa76cTTfoil_G9GTgy-o",
+                        "universalName": "savills",
+                        "dashCompanyUrn": "urn:li:fsd_company:9063",
+                        "trackingId": "NZOW3paZSUO+yGgv0D66ew=="
+                    },
+                    "companyName": "Savills"
+                },
+                {
+                    "title": "Director",
+                    "locationName": "Los Angeles Metropolitan Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Real Estate"
+                        ],
+                        "objectUrn": "urn:li:company:8967",
+                        "entityUrn": "urn:li:fs_miniCompany:8967",
+                        "name": "Newmark",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQETu9r0nHjM6g/company-logo_200_200/company-logo_200_200/0/1636059194946/nmrk_cre_logo?e=1747872000&v=beta&t=Ck_dP9npPXGEC-fJgqJB91I53fy3Xpq0AOTGfYrVJ-I",
+                        "universalName": "nmrk-cre",
+                        "dashCompanyUrn": "urn:li:fsd_company:8967",
+                        "trackingId": "oJJupWEvS5aYbVg98vyryQ=="
+                    },
+                    "companyName": "Newmark"
+                },
+                {
+                    "title": "Associate Director",
+                    "locationName": "Greater Los Angeles Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Real Estate"
+                        ],
+                        "objectUrn": "urn:li:company:8967",
+                        "entityUrn": "urn:li:fs_miniCompany:8967",
+                        "name": "Newmark",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQETu9r0nHjM6g/company-logo_200_200/company-logo_200_200/0/1636059194946/nmrk_cre_logo?e=1747872000&v=beta&t=Ck_dP9npPXGEC-fJgqJB91I53fy3Xpq0AOTGfYrVJ-I",
+                        "universalName": "nmrk-cre",
+                        "dashCompanyUrn": "urn:li:fsd_company:8967",
+                        "trackingId": "b8w/IYVkSWy0a3+MUXGHCw=="
+                    },
+                    "companyName": "Newmark Grubb Knight Frank"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "BSBA",
+                    "fieldOfStudy": "Finance",
+                    "schoolName": "Auburn University"
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Master in Corporate Real Estate (MCR)",
+                    "authority": "CoreNet Global"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Negotiation Best Practices"
+                }
+            ],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Tenant",
+                "Brokerage",
+                "Forecasting",
+                "Financial Analysis"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Corporate Real Estate Consultant at Savills",
+            "student": false,
+            "industryName": "Real Estate",
+            "industryUrn": "urn:li:fs_industry:44",
+            "geoCountryName": "United States",
+            "jobTitle": "Corporate Managing Director",
+            "companyName": "Savills",
+            "companyPublicId": "savills",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/savills",
+            "following": false,
+            "followable": true,
+            "followersCount": 1176,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Savills",
+        "position": "Corporate Managing Director",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Real Estate"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Corporate Managing Director",
+        "organization": "Savills",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/schneidermaximilian/",
+        "company": "https://www.linkedin.com/company/savills"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Corporate Managing Director",
+            "locationName": "United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Real Estate"
+                ],
+                "objectUrn": "urn:li:company:9063",
+                "entityUrn": "urn:li:fs_miniCompany:9063",
+                "name": "Savills",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHKDZATVvg3lw/company-logo_200_200/company-logo_200_200/0/1657280086820/savills_logo?e=1747872000&v=beta&t=pREK4sBWKoGFmRSQ_fTlT-oHa76cTTfoil_G9GTgy-o",
+                "universalName": "savills",
+                "dashCompanyUrn": "urn:li:fsd_company:9063",
+                "trackingId": "GlJbuRqvQwyj106rweyHyw=="
+            },
+            "companyName": "Savills"
+        },
+        {
+            "title": "Managing Director",
+            "locationName": "United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Real Estate"
+                ],
+                "objectUrn": "urn:li:company:9063",
+                "entityUrn": "urn:li:fs_miniCompany:9063",
+                "name": "Savills",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHKDZATVvg3lw/company-logo_200_200/company-logo_200_200/0/1657280086820/savills_logo?e=1747872000&v=beta&t=pREK4sBWKoGFmRSQ_fTlT-oHa76cTTfoil_G9GTgy-o",
+                "universalName": "savills",
+                "dashCompanyUrn": "urn:li:fsd_company:9063",
+                "trackingId": "NZOW3paZSUO+yGgv0D66ew=="
+            },
+            "companyName": "Savills"
+        },
+        {
+            "title": "Director",
+            "locationName": "Los Angeles Metropolitan Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Real Estate"
+                ],
+                "objectUrn": "urn:li:company:8967",
+                "entityUrn": "urn:li:fs_miniCompany:8967",
+                "name": "Newmark",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQETu9r0nHjM6g/company-logo_200_200/company-logo_200_200/0/1636059194946/nmrk_cre_logo?e=1747872000&v=beta&t=Ck_dP9npPXGEC-fJgqJB91I53fy3Xpq0AOTGfYrVJ-I",
+                "universalName": "nmrk-cre",
+                "dashCompanyUrn": "urn:li:fsd_company:8967",
+                "trackingId": "oJJupWEvS5aYbVg98vyryQ=="
+            },
+            "companyName": "Newmark"
+        },
+        {
+            "title": "Associate Director",
+            "locationName": "Greater Los Angeles Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Real Estate"
+                ],
+                "objectUrn": "urn:li:company:8967",
+                "entityUrn": "urn:li:fs_miniCompany:8967",
+                "name": "Newmark",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQETu9r0nHjM6g/company-logo_200_200/company-logo_200_200/0/1636059194946/nmrk_cre_logo?e=1747872000&v=beta&t=Ck_dP9npPXGEC-fJgqJB91I53fy3Xpq0AOTGfYrVJ-I",
+                "universalName": "nmrk-cre",
+                "dashCompanyUrn": "urn:li:fsd_company:8967",
+                "trackingId": "b8w/IYVkSWy0a3+MUXGHCw=="
+            },
+            "companyName": "Newmark Grubb Knight Frank"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "BSBA",
+            "fieldOfStudy": "Finance",
+            "schoolName": "Auburn University"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Master in Corporate Real Estate (MCR)",
+            "authority": "CoreNet Global"
+        }
+    ],
+    "skills": [
+        "Tenant",
+        "Brokerage",
+        "Forecasting",
+        "Financial Analysis"
+    ],
+    "lastEnriched": "2025-02-17"
+}

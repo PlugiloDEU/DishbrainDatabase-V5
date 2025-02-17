@@ -1,0 +1,475 @@
+{
+    "id": "exp15585529",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Prof. Dr. Michael",
+        "lastName": "Schultz",
+        "fullName": "Prof. Dr. Michael Schultz",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQF1br-An8htBQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1571596716420?e=1745452800&v=beta&t=_toeXas7qcVNFgItePywsZjThYcwAMg0UIOuZw9LO-E",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "15585529",
+            "profileId": "ACoAAADt0PkBlfZcT2UdF9QfhFB0EfHJgL_six4",
+            "firstName": "Prof. Dr. Michael",
+            "lastName": "Schultz",
+            "occupation": "University Professor, Chair of Air Traffic Concepts",
+            "publicIdentifier": "michaschultz",
+            "trackingId": "R5ZXRVCYRUi4eEyMO6kkHA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQF1br-An8htBQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1571596716420?e=1745452800&v=beta&t=_toeXas7qcVNFgItePywsZjThYcwAMg0UIOuZw9LO-E",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQHVbgh4bIx0Yw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1631784883265?e=1745452800&v=beta&t=N6VBaKqlo_qQGG4drlzXs_Q-wqx_NMGWMRUqxPdZmy0",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:104633871",
+            "positions": [
+                {
+                    "title": "Full Professor, Chair of Air Traffic Concepts",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:264462",
+                        "entityUrn": "urn:li:fs_miniCompany:264462",
+                        "name": "Bundeswehr University Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHnNAa85Y67Eg/company-logo_200_200/company-logo_200_200/0/1631319734355?e=1747872000&v=beta&t=3hwRNEKVPPgRSWZ8Rxe56qjMV_KnnEcUnPZvBeOHE8I",
+                        "universalName": "universitaet-der-bundeswehr-muenchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:264462",
+                        "trackingId": "co3IDEU/Sb6nldzRI7TdCg=="
+                    },
+                    "companyName": "Universität der Bundeswehr München"
+                },
+                {
+                    "title": "Field Advisor, Aerospace Mobility",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2025
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:11361",
+                        "entityUrn": "urn:li:fs_miniCompany:11361",
+                        "name": "The University of Tokyo",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHvGaRdqrWWzQ/company-logo_200_200/company-logo_200_200/0/1711928803462/university_of_tokyo_logo?e=1747872000&v=beta&t=R6Tom7zD5adKCoHPyxKA2i9383SOgJiw_f8cShmk-9w",
+                        "universalName": "university-of-tokyo",
+                        "dashCompanyUrn": "urn:li:fsd_company:11361",
+                        "trackingId": "aTavaa39QxWabl3eHfjW1w=="
+                    },
+                    "companyName": "Universität Tokio"
+                },
+                {
+                    "title": "Visiting Researcher",
+                    "description": "Focus on data analytics and artificial intelligence",
+                    "locationName": "Singapore",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:165091",
+                        "entityUrn": "urn:li:fs_miniCompany:165091",
+                        "name": "Nanyang Technological University Singapore",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE9ISNDKYUaAw/company-logo_200_200/company-logo_200_200/0/1656682216282/ntusg_logo?e=1747872000&v=beta&t=dHPougd-Eq6wwQWjtp00IkAtvlBMQcRd2iebjo9Nxbo",
+                        "universalName": "ntusg",
+                        "dashCompanyUrn": "urn:li:fsd_company:165091",
+                        "trackingId": "A6LEpH3BQ22hinKaXXS6bg=="
+                    },
+                    "companyName": "Nanyang Technological University"
+                },
+                {
+                    "title": "Editorial Board Member (Transportation Research Part C)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:3027",
+                        "entityUrn": "urn:li:fs_miniCompany:3027",
+                        "name": "Elsevier",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHMEQhVVniNJw/company-logo_200_200/company-logo_200_200/0/1719831554052/elsevier_logo?e=1747872000&v=beta&t=E7Mqbjn0gLujZNPzEP2G6_RAPJip5Lix_kMEZC20Huk",
+                        "universalName": "elsevier",
+                        "dashCompanyUrn": "urn:li:fsd_company:3027",
+                        "trackingId": "QB/ZtiIxTOObuesSlBTX3A=="
+                    },
+                    "companyName": "Elsevier"
+                },
+                {
+                    "title": "Section Editor-in-Chief (Aerospace - Air Traffic and Transportation)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Publishing"
+                        ],
+                        "objectUrn": "urn:li:company:1562735",
+                        "entityUrn": "urn:li:fs_miniCompany:1562735",
+                        "name": "MDPI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGA3yXWVAVzgA/company-logo_200_200/company-logo_200_200/0/1711631345281/mdpi_logo?e=1747872000&v=beta&t=WcVUq9Zv64MrEE0LbPxKbVLIk1d0x7ItA6IRXPfQ65Y",
+                        "universalName": "mdpi",
+                        "dashCompanyUrn": "urn:li:fsd_company:1562735",
+                        "trackingId": "VuVSGwOESfKJy0WiZFQNmg=="
+                    },
+                    "companyName": "MDPI"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Privatdozent",
+                    "fieldOfStudy": "Aviation / Air Transportation",
+                    "schoolName": "Technische Universität Dresden",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Habilitation",
+                    "fieldOfStudy": "Aeronautics / Aviation / Aerospace Science and Technology ",
+                    "schoolName": "Technische Universität Dresden",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Dr.-Ing.",
+                    "fieldOfStudy": "Logistics and Aviation Technology",
+                    "schoolName": "Technische Universität Dresden / TU Dresden",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "Aerospace Engineering"
+                },
+                {
+                    "name": "Economics"
+                },
+                {
+                    "name": "Electrical Engineering"
+                },
+                {
+                    "name": "Finance"
+                },
+                {
+                    "name": "Fundamentals of Mechanical Engineering"
+                },
+                {
+                    "name": "Manufacturing"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Project Management",
+                "Research Coordination",
+                "Terminal Operations",
+                "Aviation Security"
+            ],
+            "volunteerExperiences": [],
+            "headline": "University Professor, Chair of Air Traffic Concepts",
+            "summary": "I hold the Chair of Air Traffic Concepts at Universität der Bundeswehr München. My research topics address today's and future operations in the air transportation domain. I focus on data-driven (machine learning) and model-based approaches to improve air traffic management. In particular, my topics are dynamic, flow centric management of airspaces (enroute, terminal area, and urban environment), inter-airport coordination, performance-based airport operations (air- and landside), and advanced concepts for future traffic management (from drafting upcoming operations up to the implementation of initial demonstrators). You will find my publications here -> https://scholar.google.de/citations?user=90U5jBAAAAAJ.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Neubiberg, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Full Professor, Chair of Air Traffic Concepts",
+            "companyName": "Universität der Bundeswehr München",
+            "companyPublicId": "universitaet-der-bundeswehr-muenchen",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/universitaet-der-bundeswehr-muenchen",
+            "following": false,
+            "followable": true,
+            "followersCount": 1314,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Universität der Bundeswehr München",
+        "position": "Full Professor, Chair of Air Traffic Concepts",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Full Professor, Chair of Air Traffic Concepts",
+        "organization": "Universität der Bundeswehr München",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/michaschultz/",
+        "company": "https://www.linkedin.com/company/universitaet-der-bundeswehr-muenchen"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Full Professor, Chair of Air Traffic Concepts",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:264462",
+                "entityUrn": "urn:li:fs_miniCompany:264462",
+                "name": "Bundeswehr University Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHnNAa85Y67Eg/company-logo_200_200/company-logo_200_200/0/1631319734355?e=1747872000&v=beta&t=3hwRNEKVPPgRSWZ8Rxe56qjMV_KnnEcUnPZvBeOHE8I",
+                "universalName": "universitaet-der-bundeswehr-muenchen",
+                "dashCompanyUrn": "urn:li:fsd_company:264462",
+                "trackingId": "co3IDEU/Sb6nldzRI7TdCg=="
+            },
+            "companyName": "Universität der Bundeswehr München"
+        },
+        {
+            "title": "Field Advisor, Aerospace Mobility",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2025
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:11361",
+                "entityUrn": "urn:li:fs_miniCompany:11361",
+                "name": "The University of Tokyo",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHvGaRdqrWWzQ/company-logo_200_200/company-logo_200_200/0/1711928803462/university_of_tokyo_logo?e=1747872000&v=beta&t=R6Tom7zD5adKCoHPyxKA2i9383SOgJiw_f8cShmk-9w",
+                "universalName": "university-of-tokyo",
+                "dashCompanyUrn": "urn:li:fsd_company:11361",
+                "trackingId": "aTavaa39QxWabl3eHfjW1w=="
+            },
+            "companyName": "Universität Tokio"
+        },
+        {
+            "title": "Visiting Researcher",
+            "description": "Focus on data analytics and artificial intelligence",
+            "locationName": "Singapore",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:165091",
+                "entityUrn": "urn:li:fs_miniCompany:165091",
+                "name": "Nanyang Technological University Singapore",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE9ISNDKYUaAw/company-logo_200_200/company-logo_200_200/0/1656682216282/ntusg_logo?e=1747872000&v=beta&t=dHPougd-Eq6wwQWjtp00IkAtvlBMQcRd2iebjo9Nxbo",
+                "universalName": "ntusg",
+                "dashCompanyUrn": "urn:li:fsd_company:165091",
+                "trackingId": "A6LEpH3BQ22hinKaXXS6bg=="
+            },
+            "companyName": "Nanyang Technological University"
+        },
+        {
+            "title": "Editorial Board Member (Transportation Research Part C)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:3027",
+                "entityUrn": "urn:li:fs_miniCompany:3027",
+                "name": "Elsevier",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHMEQhVVniNJw/company-logo_200_200/company-logo_200_200/0/1719831554052/elsevier_logo?e=1747872000&v=beta&t=E7Mqbjn0gLujZNPzEP2G6_RAPJip5Lix_kMEZC20Huk",
+                "universalName": "elsevier",
+                "dashCompanyUrn": "urn:li:fsd_company:3027",
+                "trackingId": "QB/ZtiIxTOObuesSlBTX3A=="
+            },
+            "companyName": "Elsevier"
+        },
+        {
+            "title": "Section Editor-in-Chief (Aerospace - Air Traffic and Transportation)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Publishing"
+                ],
+                "objectUrn": "urn:li:company:1562735",
+                "entityUrn": "urn:li:fs_miniCompany:1562735",
+                "name": "MDPI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGA3yXWVAVzgA/company-logo_200_200/company-logo_200_200/0/1711631345281/mdpi_logo?e=1747872000&v=beta&t=WcVUq9Zv64MrEE0LbPxKbVLIk1d0x7ItA6IRXPfQ65Y",
+                "universalName": "mdpi",
+                "dashCompanyUrn": "urn:li:fsd_company:1562735",
+                "trackingId": "VuVSGwOESfKJy0WiZFQNmg=="
+            },
+            "companyName": "MDPI"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Privatdozent",
+            "fieldOfStudy": "Aviation / Air Transportation",
+            "schoolName": "Technische Universität Dresden",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "Habilitation",
+            "fieldOfStudy": "Aeronautics / Aviation / Aerospace Science and Technology ",
+            "schoolName": "Technische Universität Dresden",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "Dr.-Ing.",
+            "fieldOfStudy": "Logistics and Aviation Technology",
+            "schoolName": "Technische Universität Dresden / TU Dresden",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Project Management",
+        "Research Coordination",
+        "Terminal Operations",
+        "Aviation Security"
+    ],
+    "lastEnriched": "2025-02-17"
+}

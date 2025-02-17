@@ -1,0 +1,337 @@
+{
+    "id": "exp333389079",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alex",
+        "lastName": "Graves",
+        "fullName": "Alex Graves",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "333389079",
+            "profileId": "ACoAABPfHRcBFvtCbnQfxm8gEw1ka2GqbgYSN-Y",
+            "firstName": "Alex",
+            "lastName": "Graves",
+            "occupation": "Staff Engineer at Sound On Sound Recording Inc",
+            "publicIdentifier": "alex-graves-5b379993",
+            "trackingId": "7So50GW/QpC/f12ptfT16Q==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQE7PXfVq2z-fw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1524095249810?e=1745452800&v=beta&t=ZnZnkGhoWSgxzlK2ulp48j5TyCkusDwbTeXdwKFhqhw",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000070",
+            "positions": [
+                {
+                    "title": "Staff Engineer",
+                    "locationName": "Montclair, NJ",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "Sound On Sound Recording Inc"
+                },
+                {
+                    "title": "Recording/Mixing Engineer",
+                    "description": "-Taking on recording and mixing projects for clients\n\n-Consult as an audio freelancer/professional for recording or production needs\n\n",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2015
+                        }
+                    },
+                    "companyName": "Freelance"
+                },
+                {
+                    "title": "Assistant Engineer",
+                    "description": "-Assist chief engineer and staff engineers during recording and mixing sessions\n\n-Engineer vocal, piano, and podcast sessions\n\n-Position/set up microphones and equipment \n",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Platinum Sound Recording Studios"
+                },
+                {
+                    "title": "Audio Intern",
+                    "description": "-Assisted recording and mixing sessions\n\n-Interacted with clients; handled session payments\n\n-Studio maintenance and management",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Music"
+                        ],
+                        "objectUrn": "urn:li:company:2950913",
+                        "entityUrn": "urn:li:fs_miniCompany:2950913",
+                        "name": "Area 51 NYC Recording Studios",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGSe06vidOkkg/company-logo_200_200/company-logo_200_200/0/1631328721353?e=1747872000&v=beta&t=aXy_73kP8wRJ9EHdaNNbH8jU1TjXCGOLjrxVG2nMZcM",
+                        "universalName": "area-51-nyc-recording-studios",
+                        "dashCompanyUrn": "urn:li:fsd_company:2950913",
+                        "trackingId": "hAtgIb6eRRiFpvcuQn4Q0Q=="
+                    },
+                    "companyName": "Area 51 NYC Recording Studios"
+                },
+                {
+                    "title": "Artist Management Intern",
+                    "description": "-Organized touring databases and files to support artists' tours\n\n-Enhanced interactions between artists and fans on various social media\n\n-Assisted managers in day-to-day tasks for both the office and for clients",
+                    "locationName": "Nashville, TN",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Entertainment"
+                        ],
+                        "objectUrn": "urn:li:company:1132962",
+                        "entityUrn": "urn:li:fs_miniCompany:1132962",
+                        "name": "The Collective",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHqAUlH0ursjA/company-logo_200_200/company-logo_200_200/0/1631328884401?e=1747872000&v=beta&t=A2deosUkWOl-4mgZ-AZ2oQe3F-Jz7XagB42zgGgTvzU",
+                        "universalName": "the-collective_5",
+                        "dashCompanyUrn": "urn:li:fsd_company:1132962",
+                        "trackingId": "slGvTb7jT5KGazjWEg3RuQ=="
+                    },
+                    "companyName": "The Collective"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Science (B.S.)",
+                    "fieldOfStudy": "Audio Engineering Technology",
+                    "schoolName": "Belmont University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Music",
+                "Music Industry",
+                "Audio Mixing",
+                "Studio Recording"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Staff Engineer at Sound On Sound Recording Inc",
+            "summary": "I play music. I make music. I record music. Sometimes I even get to listen to music.",
+            "student": false,
+            "industryName": "Entertainment",
+            "industryUrn": "urn:li:fs_industry:28",
+            "geoLocationName": "New York City Metropolitan Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Staff Engineer",
+            "companyName": "Sound On Sound Recording Inc",
+            "following": false,
+            "followable": true,
+            "followersCount": 285,
+            "connectionsCount": 284,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Sound On Sound Recording Inc",
+        "position": "Staff Engineer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Staff Engineer",
+        "organization": "Sound On Sound Recording Inc",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alex-graves-5b379993/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Staff Engineer",
+            "locationName": "Montclair, NJ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "companyName": "Sound On Sound Recording Inc"
+        },
+        {
+            "title": "Recording/Mixing Engineer",
+            "description": "-Taking on recording and mixing projects for clients\n\n-Consult as an audio freelancer/professional for recording or production needs\n\n",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "companyName": "Freelance"
+        },
+        {
+            "title": "Assistant Engineer",
+            "description": "-Assist chief engineer and staff engineers during recording and mixing sessions\n\n-Engineer vocal, piano, and podcast sessions\n\n-Position/set up microphones and equipment \n",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2016
+                }
+            },
+            "companyName": "Platinum Sound Recording Studios"
+        },
+        {
+            "title": "Audio Intern",
+            "description": "-Assisted recording and mixing sessions\n\n-Interacted with clients; handled session payments\n\n-Studio maintenance and management",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Music"
+                ],
+                "objectUrn": "urn:li:company:2950913",
+                "entityUrn": "urn:li:fs_miniCompany:2950913",
+                "name": "Area 51 NYC Recording Studios",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGSe06vidOkkg/company-logo_200_200/company-logo_200_200/0/1631328721353?e=1747872000&v=beta&t=aXy_73kP8wRJ9EHdaNNbH8jU1TjXCGOLjrxVG2nMZcM",
+                "universalName": "area-51-nyc-recording-studios",
+                "dashCompanyUrn": "urn:li:fsd_company:2950913",
+                "trackingId": "hAtgIb6eRRiFpvcuQn4Q0Q=="
+            },
+            "companyName": "Area 51 NYC Recording Studios"
+        },
+        {
+            "title": "Artist Management Intern",
+            "description": "-Organized touring databases and files to support artists' tours\n\n-Enhanced interactions between artists and fans on various social media\n\n-Assisted managers in day-to-day tasks for both the office and for clients",
+            "locationName": "Nashville, TN",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Entertainment"
+                ],
+                "objectUrn": "urn:li:company:1132962",
+                "entityUrn": "urn:li:fs_miniCompany:1132962",
+                "name": "The Collective",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHqAUlH0ursjA/company-logo_200_200/company-logo_200_200/0/1631328884401?e=1747872000&v=beta&t=A2deosUkWOl-4mgZ-AZ2oQe3F-Jz7XagB42zgGgTvzU",
+                "universalName": "the-collective_5",
+                "dashCompanyUrn": "urn:li:fsd_company:1132962",
+                "trackingId": "slGvTb7jT5KGazjWEg3RuQ=="
+            },
+            "companyName": "The Collective"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Science (B.S.)",
+            "fieldOfStudy": "Audio Engineering Technology",
+            "schoolName": "Belmont University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Music",
+        "Music Industry",
+        "Audio Mixing",
+        "Studio Recording"
+    ],
+    "lastEnriched": "2025-02-17"
+}

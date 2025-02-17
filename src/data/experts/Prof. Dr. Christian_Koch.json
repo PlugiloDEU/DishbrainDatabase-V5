@@ -1,0 +1,405 @@
+{
+    "id": "exp18736203",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Prof. Dr. Christian",
+        "lastName": "Koch",
+        "fullName": "Prof. Dr. Christian Koch",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "18736203",
+            "profileId": "ACoAAAEd5EsBb3ivNwB9XTae3uFmUdaDU3R0wDs",
+            "firstName": "Prof. Dr. Christian",
+            "lastName": "Koch",
+            "occupation": "Professorship of Business Administration, Controlling and Production Management",
+            "publicIdentifier": "prof-dr-christian-koch-8633366",
+            "trackingId": "i7eujXNDTICO9vuA0/V5yw==",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106167980",
+            "positions": [
+                {
+                    "title": "Professorship of Business Administration",
+                    "description": "Professorship of Business Administration",
+                    "locationName": "Lippstadt",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1576659",
+                        "entityUrn": "urn:li:fs_miniCompany:1576659",
+                        "name": "Hamm-Lippstadt University of Applied Sciences",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGGAS7jc4j5Lg/company-logo_200_200/company-logo_200_200/0/1630550609166/hochschule_hamm_lippstadt_logo?e=1747872000&v=beta&t=sysN0-VZyekJggPi5c883Uc-D3dHnrCbbgHks94-XAA",
+                        "universalName": "hochschule-hamm-lippstadt",
+                        "dashCompanyUrn": "urn:li:fsd_company:1576659",
+                        "trackingId": "r+RMrbzuRMS/dHHCTVgFkg=="
+                    },
+                    "companyName": "Hamm-Lippstadt University of Applied Sciences"
+                },
+                {
+                    "title": "Integration Management",
+                    "locationName": "Paderborn Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:4458",
+                        "entityUrn": "urn:li:fs_miniCompany:4458",
+                        "name": "Diebold Nixdorf",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEusIoAmZqYhg/company-logo_200_200/company-logo_200_200/0/1630557068049/diebold_logo?e=1747872000&v=beta&t=6SCMqZ4P4WREzMbqJOB5Q5n1FILvvCkB3yl4Td102tg",
+                        "universalName": "diebold",
+                        "dashCompanyUrn": "urn:li:fsd_company:4458",
+                        "trackingId": "lpwd/KLcQHGZWc2mnfk7Tw=="
+                    },
+                    "companyName": "Diebold Nixdorf"
+                },
+                {
+                    "title": "Integration Planning",
+                    "locationName": "Paderborn Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:166946",
+                        "entityUrn": "urn:li:fs_miniCompany:166946",
+                        "name": "Wincor Nixdorf",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLNUgpl9i6ug/company-logo_200_200/company-logo_200_200/0/1630561881023/wincor_nixdorf_logo?e=1747872000&v=beta&t=r1gvCgWB585Ss54gPxtXPtNBCjfimN_RRqw0toHgRk4",
+                        "universalName": "wincor-nixdorf",
+                        "dashCompanyUrn": "urn:li:fsd_company:166946",
+                        "trackingId": "HdHgawVNTAyubffV6fbcjg=="
+                    },
+                    "companyName": "Wincor Nixdorf"
+                },
+                {
+                    "title": "Corporate Risk Manager",
+                    "locationName": "Paderborn Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:166946",
+                        "entityUrn": "urn:li:fs_miniCompany:166946",
+                        "name": "Wincor Nixdorf",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLNUgpl9i6ug/company-logo_200_200/company-logo_200_200/0/1630561881023/wincor_nixdorf_logo?e=1747872000&v=beta&t=r1gvCgWB585Ss54gPxtXPtNBCjfimN_RRqw0toHgRk4",
+                        "universalName": "wincor-nixdorf",
+                        "dashCompanyUrn": "urn:li:fsd_company:166946",
+                        "trackingId": "P3stX1ZWTC2wdp46pClQSQ=="
+                    },
+                    "companyName": "Wincor Nixdorf"
+                },
+                {
+                    "title": "Ph.D. at the Chair for Production Management and Controlling, Prof. Dr. Stefan Betz",
+                    "locationName": "Paderborn Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:20970",
+                        "entityUrn": "urn:li:fs_miniCompany:20970",
+                        "name": "Paderborn University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF3euqqmWXayg/company-logo_200_200/company-logo_200_200/0/1690982561621/uni_paderborn_logo?e=1747872000&v=beta&t=EP5QzcsprGgohDPZl0D7sEn1cvBxioYle-lQ_NCBkts",
+                        "universalName": "uni-paderborn",
+                        "dashCompanyUrn": "urn:li:fsd_company:20970",
+                        "trackingId": "uLv3g8G2R/ecCA/r1oKKYg=="
+                    },
+                    "companyName": "Universität Paderborn - Paderborn University"
+                }
+            ],
+            "educations": [],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Professorship of Business Administration, Controlling and Production Management",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "Lippstadt, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professorship of Business Administration",
+            "companyName": "Hamm-Lippstadt University of Applied Sciences",
+            "companyPublicId": "hochschule-hamm-lippstadt",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/hochschule-hamm-lippstadt",
+            "following": false,
+            "followable": false,
+            "followersCount": 568,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Hamm-Lippstadt University of Applied Sciences",
+        "position": "Professorship of Business Administration",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professorship of Business Administration",
+        "organization": "Hamm-Lippstadt University of Applied Sciences",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/prof-dr-christian-koch-8633366/",
+        "company": "https://www.linkedin.com/company/hochschule-hamm-lippstadt"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professorship of Business Administration",
+            "description": "Professorship of Business Administration",
+            "locationName": "Lippstadt",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1576659",
+                "entityUrn": "urn:li:fs_miniCompany:1576659",
+                "name": "Hamm-Lippstadt University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGGAS7jc4j5Lg/company-logo_200_200/company-logo_200_200/0/1630550609166/hochschule_hamm_lippstadt_logo?e=1747872000&v=beta&t=sysN0-VZyekJggPi5c883Uc-D3dHnrCbbgHks94-XAA",
+                "universalName": "hochschule-hamm-lippstadt",
+                "dashCompanyUrn": "urn:li:fsd_company:1576659",
+                "trackingId": "r+RMrbzuRMS/dHHCTVgFkg=="
+            },
+            "companyName": "Hamm-Lippstadt University of Applied Sciences"
+        },
+        {
+            "title": "Integration Management",
+            "locationName": "Paderborn Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:4458",
+                "entityUrn": "urn:li:fs_miniCompany:4458",
+                "name": "Diebold Nixdorf",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEusIoAmZqYhg/company-logo_200_200/company-logo_200_200/0/1630557068049/diebold_logo?e=1747872000&v=beta&t=6SCMqZ4P4WREzMbqJOB5Q5n1FILvvCkB3yl4Td102tg",
+                "universalName": "diebold",
+                "dashCompanyUrn": "urn:li:fsd_company:4458",
+                "trackingId": "lpwd/KLcQHGZWc2mnfk7Tw=="
+            },
+            "companyName": "Diebold Nixdorf"
+        },
+        {
+            "title": "Integration Planning",
+            "locationName": "Paderborn Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:166946",
+                "entityUrn": "urn:li:fs_miniCompany:166946",
+                "name": "Wincor Nixdorf",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLNUgpl9i6ug/company-logo_200_200/company-logo_200_200/0/1630561881023/wincor_nixdorf_logo?e=1747872000&v=beta&t=r1gvCgWB585Ss54gPxtXPtNBCjfimN_RRqw0toHgRk4",
+                "universalName": "wincor-nixdorf",
+                "dashCompanyUrn": "urn:li:fsd_company:166946",
+                "trackingId": "HdHgawVNTAyubffV6fbcjg=="
+            },
+            "companyName": "Wincor Nixdorf"
+        },
+        {
+            "title": "Corporate Risk Manager",
+            "locationName": "Paderborn Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:166946",
+                "entityUrn": "urn:li:fs_miniCompany:166946",
+                "name": "Wincor Nixdorf",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGLNUgpl9i6ug/company-logo_200_200/company-logo_200_200/0/1630561881023/wincor_nixdorf_logo?e=1747872000&v=beta&t=r1gvCgWB585Ss54gPxtXPtNBCjfimN_RRqw0toHgRk4",
+                "universalName": "wincor-nixdorf",
+                "dashCompanyUrn": "urn:li:fsd_company:166946",
+                "trackingId": "P3stX1ZWTC2wdp46pClQSQ=="
+            },
+            "companyName": "Wincor Nixdorf"
+        },
+        {
+            "title": "Ph.D. at the Chair for Production Management and Controlling, Prof. Dr. Stefan Betz",
+            "locationName": "Paderborn Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:20970",
+                "entityUrn": "urn:li:fs_miniCompany:20970",
+                "name": "Paderborn University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF3euqqmWXayg/company-logo_200_200/company-logo_200_200/0/1690982561621/uni_paderborn_logo?e=1747872000&v=beta&t=EP5QzcsprGgohDPZl0D7sEn1cvBxioYle-lQ_NCBkts",
+                "universalName": "uni-paderborn",
+                "dashCompanyUrn": "urn:li:fsd_company:20970",
+                "trackingId": "uLv3g8G2R/ecCA/r1oKKYg=="
+            },
+            "companyName": "Universität Paderborn - Paderborn University"
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

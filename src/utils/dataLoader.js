@@ -226,22 +226,29 @@ export const loadMoreExperts = async (offset, limit = 10) => {
   }
 };
 
-// Add this helper function
+// Update the getExpertImagePath helper function
 const getExpertImagePath = (expert) => {
-  if (!expert?.personalInfo?.image) return '/default-expert-avatar.png';
-  
+  // Check all possible image locations
+  const imageUrl = expert.image_url || 
+                   expert.personalInfo?.image || 
+                   expert.personalInfo?.imageUrl || 
+                   expert.imageUrl;
+
+  // If no image is found, return default avatar
+  if (!imageUrl) {
+    return '/experts/avatar.jpg';
+  }
+
   // If it's already a full URL, return it
-  if (expert.personalInfo.image.startsWith('http')) {
-    return expert.personalInfo.image;
+  if (imageUrl.startsWith('http')) {
+    return imageUrl;
   }
   
   // Otherwise, assume it's a local path
-  return expert.personalInfo.image.startsWith('/') 
-    ? expert.personalInfo.image 
-    : `/experts/${expert.personalInfo.image}`;
+  return imageUrl.startsWith('/') ? imageUrl : `/experts/${imageUrl}`;
 };
 
-// Modify the normalizeExpert function to use this helper
+// The normalizeExpert function remains the same, but will now use the updated getExpertImagePath
 const normalizeExpert = (expert) => {
   return {
     id: expert.id || Math.random().toString(36).substr(2, 9),

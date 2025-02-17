@@ -1,0 +1,473 @@
+{
+    "id": "exp398683205",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Maria",
+        "lastName": "Becker",
+        "fullName": "Maria Becker",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "398683205",
+            "profileId": "ACoAABfDbEUBCaQ1C3bzCC4HysvAeGlCpmR06IY",
+            "firstName": "Maria",
+            "lastName": "Becker",
+            "occupation": "Head of Strategy, Americas",
+            "publicIdentifier": "maria-becker-545627b1",
+            "trackingId": "15hL5uviQee48DLpbG2vbQ==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQFN0fzkVsbAUA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1518793704562?e=1745452800&v=beta&t=6dPiBCc8QCiHxPlziS2Y95Nti_cJyb7plRh9aYm7A9I",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102571732",
+            "positions": [
+                {
+                    "title": "Head of Strategy, Americas",
+                    "locationName": "Nueva York, Estados Unidos",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:3163358",
+                        "entityUrn": "urn:li:fs_miniCompany:3163358",
+                        "name": "Stein IAS",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGcaL3UGwf6Kg/company-logo_200_200/company-logo_200_200/0/1688567293721/stein_ias_logo?e=1747872000&v=beta&t=HutALOfaR2ykpJyYonRxyramgjKPi0i81brt-sKsJbA",
+                        "universalName": "stein-ias",
+                        "dashCompanyUrn": "urn:li:fsd_company:3163358",
+                        "trackingId": "VUgRa61kR3y6tvzehf9uAA=="
+                    },
+                    "companyName": "Stein IAS"
+                },
+                {
+                    "title": "Senior Strategist",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:284422",
+                        "entityUrn": "urn:li:fs_miniCompany:284422",
+                        "name": "gyro",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuW3WeYErKzg/company-logo_200_200/company-logo_200_200/0/1630623826761/gyrohsr_logo?e=1747872000&v=beta&t=pp-XKGG-mke9paaOdqjHsg6dp-AxZh8R6mkgRtTZvoM",
+                        "universalName": "gyrohsr",
+                        "dashCompanyUrn": "urn:li:fsd_company:284422",
+                        "trackingId": "ulNkpejLQqSPyIJpfO9UBA=="
+                    },
+                    "companyName": "gyro"
+                },
+                {
+                    "title": "Strategist",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:284422",
+                        "entityUrn": "urn:li:fs_miniCompany:284422",
+                        "name": "gyro",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuW3WeYErKzg/company-logo_200_200/company-logo_200_200/0/1630623826761/gyrohsr_logo?e=1747872000&v=beta&t=pp-XKGG-mke9paaOdqjHsg6dp-AxZh8R6mkgRtTZvoM",
+                        "universalName": "gyrohsr",
+                        "dashCompanyUrn": "urn:li:fsd_company:284422",
+                        "trackingId": "q31Vi74mSJW+DnU2LgfnyQ=="
+                    },
+                    "companyName": "gyro"
+                },
+                {
+                    "title": "Associate Strategist",
+                    "locationName": "Nueva York y alrededores, Estados Unidos",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:284422",
+                        "entityUrn": "urn:li:fs_miniCompany:284422",
+                        "name": "gyro",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuW3WeYErKzg/company-logo_200_200/company-logo_200_200/0/1630623826761/gyrohsr_logo?e=1747872000&v=beta&t=pp-XKGG-mke9paaOdqjHsg6dp-AxZh8R6mkgRtTZvoM",
+                        "universalName": "gyrohsr",
+                        "dashCompanyUrn": "urn:li:fsd_company:284422",
+                        "trackingId": "4UTHYuPfShWiak5a3jhN9Q=="
+                    },
+                    "companyName": "gyro"
+                },
+                {
+                    "title": "Public Relations",
+                    "locationName": "New York",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:22225",
+                        "entityUrn": "urn:li:fs_miniCompany:22225",
+                        "name": "Brunswick Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHsN_nSbl5zcQ/company-logo_200_200/company-logo_200_200/0/1683218724161/brunswick_group_logo?e=1747872000&v=beta&t=fiIjEXzhV96KR2jOHaZbqn0feQqMhIkwMTs5wl5PLk0",
+                        "universalName": "brunswick-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:22225",
+                        "trackingId": "fePyGCVlSWeBIKJiJtTfnw=="
+                    },
+                    "companyName": "Brunswick Group"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor's Degree",
+                    "fieldOfStudy": "Public Relations",
+                    "schoolName": "Boston University"
+                },
+                {
+                    "degreeName": "Associate's degree",
+                    "fieldOfStudy": "Communications",
+                    "schoolName": "College for International Studies"
+                },
+                {
+                    "degreeName": "High School",
+                    "schoolName": "Deutsche Schule Madrid"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Microsoft Office",
+                "Redes sociales",
+                "Relaciones públicas",
+                "Microsoft Excel"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Volunteer",
+                    "companyName": "Fundación Lo que de verdad importa"
+                }
+            ],
+            "headline": "Head of Strategy, Americas",
+            "summary": "I'm a Spanish/German strategist with a strong passion for storytelling, psychology and people. Driven by research and data I create marketing strategies based on measurable business results that are leveraged into meaningful creative campaigns.",
+            "student": false,
+            "industryName": "Marketing & Advertising",
+            "industryUrn": "urn:li:fs_industry:80",
+            "geoLocationName": "New York, New York",
+            "geoCountryName": "United States",
+            "jobTitle": "Head of Strategy, Americas",
+            "companyName": "Stein IAS",
+            "companyPublicId": "stein-ias",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/stein-ias",
+            "following": false,
+            "followable": true,
+            "followersCount": 881,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Stein IAS",
+        "position": "Head of Strategy, Americas",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Marketing and Advertising"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Head of Strategy, Americas",
+        "organization": "Stein IAS",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/maria-becker-545627b1/",
+        "company": "https://www.linkedin.com/company/stein-ias"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Head of Strategy, Americas",
+            "locationName": "Nueva York, Estados Unidos",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:3163358",
+                "entityUrn": "urn:li:fs_miniCompany:3163358",
+                "name": "Stein IAS",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGcaL3UGwf6Kg/company-logo_200_200/company-logo_200_200/0/1688567293721/stein_ias_logo?e=1747872000&v=beta&t=HutALOfaR2ykpJyYonRxyramgjKPi0i81brt-sKsJbA",
+                "universalName": "stein-ias",
+                "dashCompanyUrn": "urn:li:fsd_company:3163358",
+                "trackingId": "VUgRa61kR3y6tvzehf9uAA=="
+            },
+            "companyName": "Stein IAS"
+        },
+        {
+            "title": "Senior Strategist",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:284422",
+                "entityUrn": "urn:li:fs_miniCompany:284422",
+                "name": "gyro",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuW3WeYErKzg/company-logo_200_200/company-logo_200_200/0/1630623826761/gyrohsr_logo?e=1747872000&v=beta&t=pp-XKGG-mke9paaOdqjHsg6dp-AxZh8R6mkgRtTZvoM",
+                "universalName": "gyrohsr",
+                "dashCompanyUrn": "urn:li:fsd_company:284422",
+                "trackingId": "ulNkpejLQqSPyIJpfO9UBA=="
+            },
+            "companyName": "gyro"
+        },
+        {
+            "title": "Strategist",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:284422",
+                "entityUrn": "urn:li:fs_miniCompany:284422",
+                "name": "gyro",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuW3WeYErKzg/company-logo_200_200/company-logo_200_200/0/1630623826761/gyrohsr_logo?e=1747872000&v=beta&t=pp-XKGG-mke9paaOdqjHsg6dp-AxZh8R6mkgRtTZvoM",
+                "universalName": "gyrohsr",
+                "dashCompanyUrn": "urn:li:fsd_company:284422",
+                "trackingId": "q31Vi74mSJW+DnU2LgfnyQ=="
+            },
+            "companyName": "gyro"
+        },
+        {
+            "title": "Associate Strategist",
+            "locationName": "Nueva York y alrededores, Estados Unidos",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:284422",
+                "entityUrn": "urn:li:fs_miniCompany:284422",
+                "name": "gyro",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuW3WeYErKzg/company-logo_200_200/company-logo_200_200/0/1630623826761/gyrohsr_logo?e=1747872000&v=beta&t=pp-XKGG-mke9paaOdqjHsg6dp-AxZh8R6mkgRtTZvoM",
+                "universalName": "gyrohsr",
+                "dashCompanyUrn": "urn:li:fsd_company:284422",
+                "trackingId": "4UTHYuPfShWiak5a3jhN9Q=="
+            },
+            "companyName": "gyro"
+        },
+        {
+            "title": "Public Relations",
+            "locationName": "New York",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:22225",
+                "entityUrn": "urn:li:fs_miniCompany:22225",
+                "name": "Brunswick Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHsN_nSbl5zcQ/company-logo_200_200/company-logo_200_200/0/1683218724161/brunswick_group_logo?e=1747872000&v=beta&t=fiIjEXzhV96KR2jOHaZbqn0feQqMhIkwMTs5wl5PLk0",
+                "universalName": "brunswick-group",
+                "dashCompanyUrn": "urn:li:fsd_company:22225",
+                "trackingId": "fePyGCVlSWeBIKJiJtTfnw=="
+            },
+            "companyName": "Brunswick Group"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor's Degree",
+            "fieldOfStudy": "Public Relations",
+            "schoolName": "Boston University"
+        },
+        {
+            "degreeName": "Associate's degree",
+            "fieldOfStudy": "Communications",
+            "schoolName": "College for International Studies"
+        },
+        {
+            "degreeName": "High School",
+            "schoolName": "Deutsche Schule Madrid"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Microsoft Office",
+        "Redes sociales",
+        "Relaciones públicas",
+        "Microsoft Excel"
+    ],
+    "lastEnriched": "2025-02-17"
+}

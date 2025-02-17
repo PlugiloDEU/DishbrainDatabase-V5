@@ -1,0 +1,424 @@
+{
+    "id": "exp79005693",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Yoav",
+        "lastName": "Shoham",
+        "fullName": "Yoav Shoham",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHxu2xtHnn64A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516975374780?e=1745452800&v=beta&t=Q9Jmu2xkVQQ2y745yrDjR6mtaldiE_dDLnn_MN8wGeQ",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "79005693",
+            "profileId": "ACoAAAS1h_0BHZoHJO-dJHjoMjNQidwVmXE913Y",
+            "firstName": "Yoav",
+            "lastName": "Shoham",
+            "occupation": "Computer scientist and entrepreneur",
+            "publicIdentifier": "yoavshoham",
+            "trackingId": "DgRGHGyxQVW4Zi5EIDj/Uw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHxu2xtHnn64A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516975374780?e=1745452800&v=beta&t=Q9Jmu2xkVQQ2y745yrDjR6mtaldiE_dDLnn_MN8wGeQ",
+            "countryCode": "il",
+            "geoUrn": "urn:li:fs_geo:101620260",
+            "positions": [
+                {
+                    "title": "Co-Founder",
+                    "locationName": "Tel Aviv Area, Israel",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:18424078",
+                        "entityUrn": "urn:li:fs_miniCompany:18424078",
+                        "name": "AI21 Labs",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGH5vIEt38nZQ/company-logo_200_200/company-logo_200_200/0/1711631897418/ai21_logo?e=1747872000&v=beta&t=HIpRjiQ_-vRj3hgZcT6bavdJrVMb0YHMrnXx7JbGnn0",
+                        "universalName": "ai21",
+                        "dashCompanyUrn": "urn:li:fsd_company:18424078",
+                        "trackingId": "7z/r6yj+T7aJdcKtnXKCaQ=="
+                    },
+                    "companyName": "AI21 Labs"
+                },
+                {
+                    "title": "Professor Emeritus",
+                    "description": "Previously, Director of the AI Lab\n",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 1987
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1792",
+                        "entityUrn": "urn:li:fs_miniCompany:1792",
+                        "name": "Stanford University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                        "universalName": "stanford-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:1792",
+                        "trackingId": "TJC9UBEQQVKZbtgj/a7PcQ=="
+                    },
+                    "companyName": "Stanford University"
+                },
+                {
+                    "title": "Co-Founder and Chairman",
+                    "description": "WeCode.org is an innovative, nonprofit, hybrid academic-industrial employment-oriented coding bootcamp for underprivileged young adults.",
+                    "locationName": "Israel",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:13003231",
+                        "entityUrn": "urn:li:fs_miniCompany:13003231",
+                        "name": "WeCode",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGDOOZjPTAvaw/company-logo_200_200/company-logo_200_200/0/1630562590425/wecode_idc_logo?e=1747872000&v=beta&t=CnJxhdhIfTT3CV6bjKKzO3bi5hN6zc5IXA93e6FcDKw",
+                        "universalName": "wecode-idc",
+                        "dashCompanyUrn": "urn:li:fsd_company:13003231",
+                        "trackingId": "cfbxKOWUSKuWgPvR6GLeAQ=="
+                    },
+                    "companyName": "WeCode"
+                },
+                {
+                    "title": "Founding chair of the Steering Committee",
+                    "description": "check it out at www.aiindex.org",
+                    "locationName": "Stanford University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:18178884",
+                        "entityUrn": "urn:li:fs_miniCompany:18178884",
+                        "name": "AI Index",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQF7RqeXD9W-yw/company-logo_200_200/company-logo_200_200/0/1631372968519?e=1747872000&v=beta&t=P3jW6Ix8K2CRZiOFBz6V2KpifkmKcGEOii3TCGRTdtM",
+                        "universalName": "ai-index",
+                        "dashCompanyUrn": "urn:li:fsd_company:18178884",
+                        "trackingId": "coVMNsN/SIaF5IxRAO/Phg=="
+                    },
+                    "companyName": "AI Index"
+                },
+                {
+                    "title": "Co-Founder and Chairman",
+                    "locationName": "Tel Aviv, Israel",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:27189573",
+                        "entityUrn": "urn:li:fs_miniCompany:27189573",
+                        "name": "Figure8",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGxwGq7MkJMog/company-logo_200_200/company-logo_200_200/0/1630620269779/figure8app_logo?e=1747872000&v=beta&t=RDsG6oL2XNdQCXn6F93vm4-O6035JJ8EAdM6UXpIcA4",
+                        "universalName": "figure8app",
+                        "dashCompanyUrn": "urn:li:fsd_company:27189573",
+                        "trackingId": "LDXCn165Q9igC5TbiZIsBQ=="
+                    },
+                    "companyName": "Figure8"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Yale University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1986
+                        },
+                        "startDate": {
+                            "year": 1982
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Computer scientist and entrepreneur",
+            "summary": "I love AI and game theory. I love academic life. I love startups. I love working with smart, nice people, increasingly half my age and twice my brains. I love my family, sports and wine. I love helping people who most need help. I hate it that I don't have the talent or time to do all of the above well.",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoCountryName": "Israel",
+            "jobTitle": "Co-Founder",
+            "companyName": "AI21 Labs",
+            "companyPublicId": "ai21",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ai21",
+            "following": false,
+            "followable": true,
+            "followersCount": 3306,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "AI21 Labs",
+        "position": "Co-Founder",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder",
+        "organization": "AI21 Labs",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/yoavshoham/",
+        "company": "https://www.linkedin.com/company/ai21"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder",
+            "locationName": "Tel Aviv Area, Israel",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:18424078",
+                "entityUrn": "urn:li:fs_miniCompany:18424078",
+                "name": "AI21 Labs",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGH5vIEt38nZQ/company-logo_200_200/company-logo_200_200/0/1711631897418/ai21_logo?e=1747872000&v=beta&t=HIpRjiQ_-vRj3hgZcT6bavdJrVMb0YHMrnXx7JbGnn0",
+                "universalName": "ai21",
+                "dashCompanyUrn": "urn:li:fsd_company:18424078",
+                "trackingId": "7z/r6yj+T7aJdcKtnXKCaQ=="
+            },
+            "companyName": "AI21 Labs"
+        },
+        {
+            "title": "Professor Emeritus",
+            "description": "Previously, Director of the AI Lab\n",
+            "timePeriod": {
+                "startDate": {
+                    "year": 1987
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1792",
+                "entityUrn": "urn:li:fs_miniCompany:1792",
+                "name": "Stanford University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                "universalName": "stanford-university",
+                "dashCompanyUrn": "urn:li:fsd_company:1792",
+                "trackingId": "TJC9UBEQQVKZbtgj/a7PcQ=="
+            },
+            "companyName": "Stanford University"
+        },
+        {
+            "title": "Co-Founder and Chairman",
+            "description": "WeCode.org is an innovative, nonprofit, hybrid academic-industrial employment-oriented coding bootcamp for underprivileged young adults.",
+            "locationName": "Israel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:13003231",
+                "entityUrn": "urn:li:fs_miniCompany:13003231",
+                "name": "WeCode",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGDOOZjPTAvaw/company-logo_200_200/company-logo_200_200/0/1630562590425/wecode_idc_logo?e=1747872000&v=beta&t=CnJxhdhIfTT3CV6bjKKzO3bi5hN6zc5IXA93e6FcDKw",
+                "universalName": "wecode-idc",
+                "dashCompanyUrn": "urn:li:fsd_company:13003231",
+                "trackingId": "cfbxKOWUSKuWgPvR6GLeAQ=="
+            },
+            "companyName": "WeCode"
+        },
+        {
+            "title": "Founding chair of the Steering Committee",
+            "description": "check it out at www.aiindex.org",
+            "locationName": "Stanford University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:18178884",
+                "entityUrn": "urn:li:fs_miniCompany:18178884",
+                "name": "AI Index",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQF7RqeXD9W-yw/company-logo_200_200/company-logo_200_200/0/1631372968519?e=1747872000&v=beta&t=P3jW6Ix8K2CRZiOFBz6V2KpifkmKcGEOii3TCGRTdtM",
+                "universalName": "ai-index",
+                "dashCompanyUrn": "urn:li:fsd_company:18178884",
+                "trackingId": "coVMNsN/SIaF5IxRAO/Phg=="
+            },
+            "companyName": "AI Index"
+        },
+        {
+            "title": "Co-Founder and Chairman",
+            "locationName": "Tel Aviv, Israel",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:27189573",
+                "entityUrn": "urn:li:fs_miniCompany:27189573",
+                "name": "Figure8",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGxwGq7MkJMog/company-logo_200_200/company-logo_200_200/0/1630620269779/figure8app_logo?e=1747872000&v=beta&t=RDsG6oL2XNdQCXn6F93vm4-O6035JJ8EAdM6UXpIcA4",
+                "universalName": "figure8app",
+                "dashCompanyUrn": "urn:li:fsd_company:27189573",
+                "trackingId": "LDXCn165Q9igC5TbiZIsBQ=="
+            },
+            "companyName": "Figure8"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Yale University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1986
+                },
+                "startDate": {
+                    "year": 1982
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

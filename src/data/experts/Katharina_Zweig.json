@@ -1,0 +1,335 @@
+{
+    "id": "exp226414522",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Katharina",
+        "lastName": "Zweig",
+        "fullName": "Katharina Zweig",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQEjkLkJ9Uywnw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1648303900724?e=1745452800&v=beta&t=eaKUZPvDjser6WIfna2Xq9rdulrRb2MLhQ4dBQNPZjs",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "226414522",
+            "profileId": "ACoAAA1-z7oBEEzLiAzc2xrGKLPpOvxo3le0PRk",
+            "firstName": "Katharina",
+            "lastName": "Zweig",
+            "occupation": "Professorin bei University of Kaiserslautern",
+            "publicIdentifier": "katharina-zweig-b0a9aa63",
+            "trackingId": "UpOjF9x3SmqJTJ9Zb74arg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEjkLkJ9Uywnw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1648303900724?e=1745452800&v=beta&t=eaKUZPvDjser6WIfna2Xq9rdulrRb2MLhQ4dBQNPZjs",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:104877661",
+            "positions": [
+                {
+                    "title": "Professorin",
+                    "locationName": "Kaiserslautern",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:700268",
+                        "entityUrn": "urn:li:fs_miniCompany:700268",
+                        "name": "RPTU Kaiserslautern-Landau",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEKqHjp037FZw/company-logo_200_200/company-logo_200_200/0/1671636459738/technische_universitat_kaiserslautern_logo?e=1747872000&v=beta&t=CLcVG82HcvSZ4Q9_PYxuyJ6KoAFseJQsqmSjfjKIJC0",
+                        "universalName": "rheinland-pfaelzische-technische-universitaet-kaiserslautern-landau",
+                        "dashCompanyUrn": "urn:li:fsd_company:700268",
+                        "trackingId": "+UmTZsttRfGDazmiyEFOvg=="
+                    },
+                    "companyName": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)"
+                },
+                {
+                    "title": "Mitgründerin",
+                    "description": "Algorithm Watch ist eine unabhängige Initiative, die sich dafür einsetzt, dass die gesellschaftlichen Chancen und Risiken von 'algorithmics decision making' sachlich diskutiert werden. Algorithmic decision making wird beispielsweise eingesetzt, um medizinische Diagnosen zu unterstützen oder die Kreditwürdigkeit von Menschen zu beurteilen. Mehr Informationen auf algorithmwatch.org",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Algorithm Watch"
+                },
+                {
+                    "title": "Nachwuchsgruppenleitung",
+                    "description": "Leitung der Nachwuchsgruppe \"Graphentheorie und Analyse komplexer Netzwerke\" am IWR",
+                    "locationName": "Heidelberg, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15091827",
+                        "entityUrn": "urn:li:fs_miniCompany:15091827",
+                        "name": "Heidelberg University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH899HhZs9cHg/company-logo_200_200/company-logo_200_200/0/1631307541434?e=1747872000&v=beta&t=ZMe2qRVOQmZer8kIGTKlY9lG4WK0hWCCFjutZSh3lGs",
+                        "universalName": "uni-heidelberg",
+                        "dashCompanyUrn": "urn:li:fsd_company:15091827",
+                        "trackingId": "Di2VZqPlS2q0i1TpUrsPLA=="
+                    },
+                    "companyName": "Universität Heidelberg"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Promotion zum Dr. rer. nat.",
+                    "fieldOfStudy": "Informatik",
+                    "schoolName": "Universität Tübingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Postdoc-Aufenthalt",
+                    "schoolName": "Eötvös Loránd University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Bioinformatik",
+                    "schoolName": "Universität Tübingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 1998
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Ethics of AI",
+                "KI-Regulierung",
+                "Algorithm Accountability",
+                "Algorithm Design"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professorin bei University of Kaiserslautern",
+            "summary": "Als Forscherin interessiert mich die Frage danach, wie Algorithmen besser eingesetzt werden können, um gesellschaftliche Fragen zu beantworten. Als Politikberaterin und Rednerin analysiere ich die Auswirkungen von gesellschaftlich relevanten Algorithmen und Entscheidungssystemen auf Individuum, Organisation und Gesellschaft. ",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Mannheim, Baden-Württemberg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professorin",
+            "companyName": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)",
+            "companyPublicId": "rheinland-pfaelzische-technische-universitaet-kaiserslautern-landau",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/rheinland-pfaelzische-technische-universitaet-kaiserslautern-landau",
+            "following": false,
+            "followable": true,
+            "followersCount": 4769,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)",
+        "position": "Professorin",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professorin",
+        "organization": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/katharina-zweig-b0a9aa63/",
+        "company": "https://www.linkedin.com/company/rheinland-pfaelzische-technische-universitaet-kaiserslautern-landau"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professorin",
+            "locationName": "Kaiserslautern",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:700268",
+                "entityUrn": "urn:li:fs_miniCompany:700268",
+                "name": "RPTU Kaiserslautern-Landau",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEKqHjp037FZw/company-logo_200_200/company-logo_200_200/0/1671636459738/technische_universitat_kaiserslautern_logo?e=1747872000&v=beta&t=CLcVG82HcvSZ4Q9_PYxuyJ6KoAFseJQsqmSjfjKIJC0",
+                "universalName": "rheinland-pfaelzische-technische-universitaet-kaiserslautern-landau",
+                "dashCompanyUrn": "urn:li:fsd_company:700268",
+                "trackingId": "+UmTZsttRfGDazmiyEFOvg=="
+            },
+            "companyName": "Rheinland-Pfälzische Technische Universität Kaiserslautern-Landau (RPTU)"
+        },
+        {
+            "title": "Mitgründerin",
+            "description": "Algorithm Watch ist eine unabhängige Initiative, die sich dafür einsetzt, dass die gesellschaftlichen Chancen und Risiken von 'algorithmics decision making' sachlich diskutiert werden. Algorithmic decision making wird beispielsweise eingesetzt, um medizinische Diagnosen zu unterstützen oder die Kreditwürdigkeit von Menschen zu beurteilen. Mehr Informationen auf algorithmwatch.org",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2016
+                }
+            },
+            "companyName": "Algorithm Watch"
+        },
+        {
+            "title": "Nachwuchsgruppenleitung",
+            "description": "Leitung der Nachwuchsgruppe \"Graphentheorie und Analyse komplexer Netzwerke\" am IWR",
+            "locationName": "Heidelberg, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15091827",
+                "entityUrn": "urn:li:fs_miniCompany:15091827",
+                "name": "Heidelberg University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH899HhZs9cHg/company-logo_200_200/company-logo_200_200/0/1631307541434?e=1747872000&v=beta&t=ZMe2qRVOQmZer8kIGTKlY9lG4WK0hWCCFjutZSh3lGs",
+                "universalName": "uni-heidelberg",
+                "dashCompanyUrn": "urn:li:fsd_company:15091827",
+                "trackingId": "Di2VZqPlS2q0i1TpUrsPLA=="
+            },
+            "companyName": "Universität Heidelberg"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Promotion zum Dr. rer. nat.",
+            "fieldOfStudy": "Informatik",
+            "schoolName": "Universität Tübingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Postdoc-Aufenthalt",
+            "schoolName": "Eötvös Loránd University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Bioinformatik",
+            "schoolName": "Universität Tübingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Ethics of AI",
+        "KI-Regulierung",
+        "Algorithm Accountability",
+        "Algorithm Design"
+    ],
+    "lastEnriched": "2025-02-17"
+}

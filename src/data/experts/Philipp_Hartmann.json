@@ -1,0 +1,681 @@
+{
+    "id": "exp535565218",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Philipp",
+        "lastName": "Hartmann",
+        "fullName": "Philipp Hartmann",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQHZE_NIN8Tpyg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517350141745?e=1745452800&v=beta&t=cCMdrcMQY8c0InTjSZHzp0NiXMpxfFElT5ctrQZ_eKA",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "535565218",
+            "profileId": "ACoAAB_sE6IBHbOOUUuutOVWnDHqHjSWKANAqhU",
+            "firstName": "Philipp",
+            "lastName": "Hartmann",
+            "occupation": "Senior Consultant at McKinsey & Company | RWTH University | Tsinghua University",
+            "publicIdentifier": "philipp-hartmann1",
+            "trackingId": "Ru2Bo1xgQRGWi0HO9wQHYw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHZE_NIN8Tpyg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517350141745?e=1745452800&v=beta&t=cCMdrcMQY8c0InTjSZHzp0NiXMpxfFElT5ctrQZ_eKA",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGkfzSgULh0xw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1675961495757?e=1745452800&v=beta&t=YXya_CMFQjEWakkJD04bUEW_myNfllE1l0QcjRreyZw",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106491352",
+            "positions": [
+                {
+                    "title": "Senior Associate",
+                    "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1371",
+                        "entityUrn": "urn:li:fs_miniCompany:1371",
+                        "name": "McKinsey & Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                        "universalName": "mckinsey",
+                        "dashCompanyUrn": "urn:li:fsd_company:1371",
+                        "trackingId": "02egKrMgTB6mq6yXVssm6A=="
+                    },
+                    "companyName": "McKinsey & Company"
+                },
+                {
+                    "title": "Advisor to the Executive Management WHH",
+                    "description": "McKinsey Social Leave\n\nActive in the Marketing & Communications Department focusing on Generative AI, Marketing Strategy, Social Businesses, Anti-Racism, Donor-Development, and more",
+                    "locationName": "Bonn, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Nonprofit Organization Management"
+                        ],
+                        "objectUrn": "urn:li:company:523861",
+                        "entityUrn": "urn:li:fs_miniCompany:523861",
+                        "name": "Welthungerhilfe (WHH)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFlZcOKcjLY7Q/company-logo_200_200/company-logo_200_200/0/1667379843324/welthungerhilfe_logo?e=1747872000&v=beta&t=LwO8wxcbZ2RxzXi4ngsCWC58Zs1bG-wIlYbKLznBclo",
+                        "universalName": "welthungerhilfe",
+                        "dashCompanyUrn": "urn:li:fsd_company:523861",
+                        "trackingId": "eWVtVmZOTR+T5gavenEfsQ=="
+                    },
+                    "companyName": "Welthungerhilfe (WHH)"
+                },
+                {
+                    "title": "Fellow Senior Associate",
+                    "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1371",
+                        "entityUrn": "urn:li:fs_miniCompany:1371",
+                        "name": "McKinsey & Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                        "universalName": "mckinsey",
+                        "dashCompanyUrn": "urn:li:fsd_company:1371",
+                        "trackingId": "YFWlFwcjRkmJHe0PZFWO6Q=="
+                    },
+                    "companyName": "McKinsey & Company"
+                },
+                {
+                    "title": "Fellow Associate",
+                    "locationName": "Düsseldorf, North Rhine-Westphalia, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1371",
+                        "entityUrn": "urn:li:fs_miniCompany:1371",
+                        "name": "McKinsey & Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                        "universalName": "mckinsey",
+                        "dashCompanyUrn": "urn:li:fsd_company:1371",
+                        "trackingId": "knXfp46JTRGAdhrVGzUqTg=="
+                    },
+                    "companyName": "McKinsey & Company"
+                },
+                {
+                    "title": "Fellow",
+                    "locationName": "Düsseldorf, North Rhine-Westphalia, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:1371",
+                        "entityUrn": "urn:li:fs_miniCompany:1371",
+                        "name": "McKinsey & Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                        "universalName": "mckinsey",
+                        "dashCompanyUrn": "urn:li:fsd_company:1371",
+                        "trackingId": "O56phuxCRra7rtEtEZdeaQ=="
+                    },
+                    "companyName": "McKinsey & Company"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master's Degree",
+                    "fieldOfStudy": "Industrial Engineering (Automotive Engineering)",
+                    "schoolName": "RWTH Aachen University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2018
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master's Degree",
+                    "fieldOfStudy": "Mechanical Engineering",
+                    "schoolName": "Tsinghua University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2018
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor's Degree",
+                    "fieldOfStudy": "Industrial Engineering",
+                    "schoolName": "RWTH Aachen University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "What Is Generative AI?",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "LinkedIn"
+                },
+                {
+                    "name": "Generative AI: The Evolution of Thoughtful Online Search",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "LinkedIn"
+                },
+                {
+                    "name": "Streamlining Your Work with Microsoft Bing Chat",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "LinkedIn"
+                },
+                {
+                    "name": "Ethics in the Age of Generative AI",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "LinkedIn"
+                },
+                {
+                    "name": "Introduction to Artificial Intelligence",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "LinkedIn"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Entrepreneurship Seminar (WIN Aachen)"
+                },
+                {
+                    "name": "Field Geology 1 (Taiwan)"
+                },
+                {
+                    "name": "Industrial Design/Automotive Design Pforzheim"
+                },
+                {
+                    "name": "International Companions for Learning (Taiwan)"
+                },
+                {
+                    "name": "Presentation and Negotiation course (WIN Aachen)"
+                }
+            ],
+            "honors": [
+                {
+                    "title": "RWTH Dean's List (Top 5% of Students)",
+                    "description": "I am part of the RWTH Dean's List 20/21 that honors students who showed exceptional performance during their studies (Top 5%).",
+                    "issueDate": {
+                        "month": 2,
+                        "year": 2022
+                    },
+                    "issuer": "RWTH Aachen"
+                },
+                {
+                    "title": "Chinese Government Scholarship",
+                    "issuer": "Chinese Government"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Consumer Packaged Goods",
+                "Konsumgüter",
+                "Consumer",
+                "Beschaffungswesen"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Segeltrainer für Kinder im Alter von 6-15 Jahren",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2008
+                        }
+                    },
+                    "companyName": "Düsseldorfer Yachtclub E.V.",
+                    "cause": "CHILDREN"
+                },
+                {
+                    "role": "Student Mentor",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2015
+                        }
+                    },
+                    "companyName": "RWTH Aachen University",
+                    "cause": "EDUCATION"
+                }
+            ],
+            "headline": "Senior Consultant at McKinsey & Company | RWTH University | Tsinghua University ",
+            "summary": "Philipp, Consultant, European, Moving things, Learning new stuff all the time and Time Magazine Person of the Year 2006\n\nWhat’s my super power? Getting excited about things and people! What’s yours?",
+            "student": false,
+            "industryName": "International Affairs",
+            "industryUrn": "urn:li:fs_industry:74",
+            "geoLocationName": "Düsseldorf, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Senior Associate",
+            "companyName": "McKinsey & Company",
+            "companyPublicId": "mckinsey",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/mckinsey",
+            "following": false,
+            "followable": true,
+            "followersCount": 1210,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "McKinsey & Company",
+        "position": "Senior Associate",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Management Consulting"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Associate",
+        "organization": "McKinsey & Company",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/philipp-hartmann1/",
+        "company": "https://www.linkedin.com/company/mckinsey"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Associate",
+            "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1371",
+                "entityUrn": "urn:li:fs_miniCompany:1371",
+                "name": "McKinsey & Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                "universalName": "mckinsey",
+                "dashCompanyUrn": "urn:li:fsd_company:1371",
+                "trackingId": "02egKrMgTB6mq6yXVssm6A=="
+            },
+            "companyName": "McKinsey & Company"
+        },
+        {
+            "title": "Advisor to the Executive Management WHH",
+            "description": "McKinsey Social Leave\n\nActive in the Marketing & Communications Department focusing on Generative AI, Marketing Strategy, Social Businesses, Anti-Racism, Donor-Development, and more",
+            "locationName": "Bonn, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ],
+                "objectUrn": "urn:li:company:523861",
+                "entityUrn": "urn:li:fs_miniCompany:523861",
+                "name": "Welthungerhilfe (WHH)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFlZcOKcjLY7Q/company-logo_200_200/company-logo_200_200/0/1667379843324/welthungerhilfe_logo?e=1747872000&v=beta&t=LwO8wxcbZ2RxzXi4ngsCWC58Zs1bG-wIlYbKLznBclo",
+                "universalName": "welthungerhilfe",
+                "dashCompanyUrn": "urn:li:fsd_company:523861",
+                "trackingId": "eWVtVmZOTR+T5gavenEfsQ=="
+            },
+            "companyName": "Welthungerhilfe (WHH)"
+        },
+        {
+            "title": "Fellow Senior Associate",
+            "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1371",
+                "entityUrn": "urn:li:fs_miniCompany:1371",
+                "name": "McKinsey & Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                "universalName": "mckinsey",
+                "dashCompanyUrn": "urn:li:fsd_company:1371",
+                "trackingId": "YFWlFwcjRkmJHe0PZFWO6Q=="
+            },
+            "companyName": "McKinsey & Company"
+        },
+        {
+            "title": "Fellow Associate",
+            "locationName": "Düsseldorf, North Rhine-Westphalia, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1371",
+                "entityUrn": "urn:li:fs_miniCompany:1371",
+                "name": "McKinsey & Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                "universalName": "mckinsey",
+                "dashCompanyUrn": "urn:li:fsd_company:1371",
+                "trackingId": "knXfp46JTRGAdhrVGzUqTg=="
+            },
+            "companyName": "McKinsey & Company"
+        },
+        {
+            "title": "Fellow",
+            "locationName": "Düsseldorf, North Rhine-Westphalia, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:1371",
+                "entityUrn": "urn:li:fs_miniCompany:1371",
+                "name": "McKinsey & Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEgnFfmzhqr3g/company-logo_200_200/company-logo_200_200/0/1738606959011/mckinsey_logo?e=1747872000&v=beta&t=HdFqzQdS1PP4K0DNsCcJQz1b_tJndhCtr7CZfs-_VQE",
+                "universalName": "mckinsey",
+                "dashCompanyUrn": "urn:li:fsd_company:1371",
+                "trackingId": "O56phuxCRra7rtEtEZdeaQ=="
+            },
+            "companyName": "McKinsey & Company"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master's Degree",
+            "fieldOfStudy": "Industrial Engineering (Automotive Engineering)",
+            "schoolName": "RWTH Aachen University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            }
+        },
+        {
+            "degreeName": "Master's Degree",
+            "fieldOfStudy": "Mechanical Engineering",
+            "schoolName": "Tsinghua University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor's Degree",
+            "fieldOfStudy": "Industrial Engineering",
+            "schoolName": "RWTH Aachen University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "What Is Generative AI?",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "authority": "LinkedIn"
+        },
+        {
+            "name": "Generative AI: The Evolution of Thoughtful Online Search",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "authority": "LinkedIn"
+        },
+        {
+            "name": "Streamlining Your Work with Microsoft Bing Chat",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "authority": "LinkedIn"
+        },
+        {
+            "name": "Ethics in the Age of Generative AI",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "authority": "LinkedIn"
+        },
+        {
+            "name": "Introduction to Artificial Intelligence",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "authority": "LinkedIn"
+        }
+    ],
+    "skills": [
+        "Consumer Packaged Goods",
+        "Konsumgüter",
+        "Consumer",
+        "Beschaffungswesen"
+    ],
+    "lastEnriched": "2025-02-17"
+}

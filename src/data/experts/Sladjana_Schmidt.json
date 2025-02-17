@@ -1,0 +1,607 @@
+{
+    "id": "exp761298239",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sladjana",
+        "lastName": "Schmidt",
+        "fullName": "Sladjana Schmidt",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQHxogVkya_qVg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1690311047835?e=1745452800&v=beta&t=lQWRut2I5B0cHkfsg5DnxZP6sZXU7sn6NQoJB55RJfo",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German",
+            "Serbian"
+        ],
+        "allData": {
+            "id": "761298239",
+            "profileId": "ACoAAC1gfT8BfemsiKW4Po-z-KqOTXRNQ4MjcFQ",
+            "firstName": "Sladjana",
+            "lastName": "Schmidt",
+            "occupation": "Head of Partnerships & AI Ecosystem at appliedAI | Senior executive leader | 16 years of experience in technology and AI | I bring practical experience to help companies accelerate their AI transformation",
+            "publicIdentifier": "sladjana-schmidt-13bb5a192",
+            "trackingId": "1IPLKTYRQ4SB+aUXAJc2ZQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHxogVkya_qVg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1690311047835?e=1745452800&v=beta&t=lQWRut2I5B0cHkfsg5DnxZP6sZXU7sn6NQoJB55RJfo",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHAEeXQmmqkww/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1728281261246?e=1745452800&v=beta&t=J_1nw1mGmT8lows1d0n8mqx4rBykZ5Pt80EhViVqQqs",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101282230",
+            "positions": [
+                {
+                    "title": "Head of Partnerships & AI Ecosystem",
+                    "description": "As Head of Partnerships at appliedAI, I lead a team of AI Transformation Strategists and Ecosystem experts responsible for the product ownership of all appliedAI Partnership Programs to support AI transformation of our partners and for nurturing and growing the appliedAI Ecosystem. These programs are designed to empower both larger companies and SMEs in accelerating their AI maturity, enabling them to effectively unlock value from AI. These comprehensive programs span over longer periods of time, offering 80-100 diverse formats throughout the year. They encompass a wide range of activities, including trainings, working groups, round tables, conferences, as well as personalized expert support (AI consulting) and one-on-one strategy sparring sessions. appliedAI Partnership Programs have been the beating heart of appliedAI's success since 2017. They bring together companies of all sizes and from diverse industries helping them navigate the complexities of AI adoption. Our partners include companies across various industries, such as SAP, BMW Group, Miele, EnBw, Linde, MunichRe, etc.",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:27174449",
+                        "entityUrn": "urn:li:fs_miniCompany:27174449",
+                        "name": "appliedAI Initiative GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                        "universalName": "appliedai-initiative",
+                        "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                        "trackingId": "AZMvzEDsTeukAOy1O0f1rA=="
+                    },
+                    "companyName": "appliedAI Initiative GmbH"
+                },
+                {
+                    "title": "Head of Partnerships",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:27174449",
+                        "entityUrn": "urn:li:fs_miniCompany:27174449",
+                        "name": "appliedAI Initiative GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                        "universalName": "appliedai-initiative",
+                        "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                        "trackingId": "uzIGrM4iQ2qjv9H+BnmmIQ=="
+                    },
+                    "companyName": "appliedAI Initiative GmbH"
+                },
+                {
+                    "title": "Principal AI Strategist",
+                    "description": "AI Strategy and Transformation consulting for large and mid-sized enterprises across various industries, addressing different levels of AI maturity. Development of new consulting assets, thought leadership and business development.",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:27174449",
+                        "entityUrn": "urn:li:fs_miniCompany:27174449",
+                        "name": "appliedAI Initiative GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                        "universalName": "appliedai-initiative",
+                        "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                        "trackingId": "kjW5VbhQREGrxhkI0Pd9+g=="
+                    },
+                    "companyName": "appliedAI Initiative GmbH"
+                },
+                {
+                    "title": "Global Head of Tiger Team",
+                    "description": "Delivering big data, cognitive computing, AI, contextual analytics systems that cover the entire data life cycle. Composed of a host of capabilities addressing data acquisition and fusion through analysis, insight discovery and predictions, which are pre-built and pre-integrated. The capabilities can be combined to perform a virtually unlimited range of tasks that address our customers’ most critical business challenges. \n\nResponsibility for leading global Tiger Teams – agile, ad hoc teams of experts (business analysts, designers, architects, product managers, data scientists, developers, and other professionals) to capture requirements, develop propositions to prospective clients, negotiate timeline and content, and deliver AI product solutions on time and budget across a multitude of industries, geographies and corporate sizes.",
+                    "locationName": "Tel Aviv-Yafo, Bezirk Tel Aviv, Israel",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:18190402",
+                        "entityUrn": "urn:li:fs_miniCompany:18190402",
+                        "name": "BlackSwan Technologies",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE74hT0FMDbxQ/company-logo_200_200/company-logo_200_200/0/1653554083757/blackswantechnologies_logo?e=1747872000&v=beta&t=WsbTbMMEkFFGKO921xh35gAHKj3W_Zumb6Q5cExQuNY",
+                        "universalName": "blackswantechnologies",
+                        "dashCompanyUrn": "urn:li:fsd_company:18190402",
+                        "trackingId": "XzRqxZgoS8yJhF7tNHYmSA=="
+                    },
+                    "companyName": "BlackSwan Technologies"
+                },
+                {
+                    "title": "VP, Head of Digital Transformation & Innovation, Head of AI, Founder & Head of Lab31",
+                    "description": "Responsibility for digitalization and strategic transformation, for steeing (incl. implementation responsibility) of a company-wide multi-year AI transformation. Founder and Head of the internal incubator \"Lab31\" (Digital and Innovation Lab).",
+                    "locationName": "Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Banking"
+                        ],
+                        "objectUrn": "urn:li:company:87864",
+                        "entityUrn": "urn:li:fs_miniCompany:87864",
+                        "name": "Bausparkasse Schwäbisch Hall",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQErPGEImgl7zw/company-logo_200_200/company-logo_200_200/0/1630519917236/bausparkasse_schwabisch_hall_logo?e=1747872000&v=beta&t=diNik--vPNXCwKSmnlb1FyEIIj8GtMuDEuhRm7hyAwI",
+                        "universalName": "bausparkasse-schwabisch-hall",
+                        "dashCompanyUrn": "urn:li:fsd_company:87864",
+                        "trackingId": "kTha5cBwTveEaEeQiRfapA=="
+                    },
+                    "companyName": "Bausparkasse Schwäbisch Hall"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Arts - MA",
+                    "fieldOfStudy": "International Studies in Computational Linguistics / Natural Language Processing",
+                    "schoolName": "Eberhard Karl University, Tübingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Arts - BA",
+                    "fieldOfStudy": "International Studies in Computational Linguistics / Natural Language Processing",
+                    "schoolName": "Eberhard Karl University, Tübingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Abitur / high school diploma",
+                    "schoolName": "Philologisches Gymnasium, Belgrade (Serbia)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2002
+                        },
+                        "startDate": {
+                            "year": 1998
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Executive Education Programme: Driving Digital Transformation",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "ESCP Europe"
+                },
+                {
+                    "name": "A.I. Executive Masterclass",
+                    "authority": "ESCP Europe"
+                },
+                {
+                    "name": "Cloud Digital Leader",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Google"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Serbian",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "AI / Machine Learning Use Cases",
+                "Generative AI",
+                "AI consulting",
+                "Innovation"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Coach ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "companyName": "Digital Leadership Academy",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                },
+                {
+                    "role": "Mentor",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2023
+                        }
+                    },
+                    "companyName": "TUM.ai",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                }
+            ],
+            "headline": "Head of Partnerships & AI Ecosystem at appliedAI | Senior executive leader | 16 years of experience in technology and AI | I bring practical experience to help companies accelerate their AI transformation",
+            "summary": "I am a senior executive leader with over 16 years of global experience in various leadership roles across business and technology in large enterprises, and both global and European AI startups, as well as in AI consulting. I have hands-on experience in supporting organizations and executives to accelerate digital transformation, create sustainable impact, and drive growth through technological innovation and AI.\n\nAs a mentor and coach, I enjoy empowering others by sharing my knowledge and network. My curiosity about people drives me to help them flourish in their roles. I foster growth through clear communication and an empathetic approach, ensuring individual development aligns with personal and team goals. By cultivating a culture of trust and respect, I aim to inspire others to reach their full potential.",
+            "student": false,
+            "industryName": "Management Consulting",
+            "industryUrn": "urn:li:fs_industry:11",
+            "geoCountryName": "Germany",
+            "jobTitle": "Head of Partnerships & AI Ecosystem",
+            "companyName": "appliedAI Initiative GmbH",
+            "companyPublicId": "appliedai-initiative",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/appliedai-initiative",
+            "following": false,
+            "followable": true,
+            "followersCount": 3248,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "appliedAI Initiative GmbH",
+        "position": "Head of Partnerships & AI Ecosystem",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Head of Partnerships & AI Ecosystem",
+        "organization": "appliedAI Initiative GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sladjana-schmidt-13bb5a192/",
+        "company": "https://www.linkedin.com/company/appliedai-initiative"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Head of Partnerships & AI Ecosystem",
+            "description": "As Head of Partnerships at appliedAI, I lead a team of AI Transformation Strategists and Ecosystem experts responsible for the product ownership of all appliedAI Partnership Programs to support AI transformation of our partners and for nurturing and growing the appliedAI Ecosystem. These programs are designed to empower both larger companies and SMEs in accelerating their AI maturity, enabling them to effectively unlock value from AI. These comprehensive programs span over longer periods of time, offering 80-100 diverse formats throughout the year. They encompass a wide range of activities, including trainings, working groups, round tables, conferences, as well as personalized expert support (AI consulting) and one-on-one strategy sparring sessions. appliedAI Partnership Programs have been the beating heart of appliedAI's success since 2017. They bring together companies of all sizes and from diverse industries helping them navigate the complexities of AI adoption. Our partners include companies across various industries, such as SAP, BMW Group, Miele, EnBw, Linde, MunichRe, etc.",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:27174449",
+                "entityUrn": "urn:li:fs_miniCompany:27174449",
+                "name": "appliedAI Initiative GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                "universalName": "appliedai-initiative",
+                "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                "trackingId": "AZMvzEDsTeukAOy1O0f1rA=="
+            },
+            "companyName": "appliedAI Initiative GmbH"
+        },
+        {
+            "title": "Head of Partnerships",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:27174449",
+                "entityUrn": "urn:li:fs_miniCompany:27174449",
+                "name": "appliedAI Initiative GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                "universalName": "appliedai-initiative",
+                "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                "trackingId": "uzIGrM4iQ2qjv9H+BnmmIQ=="
+            },
+            "companyName": "appliedAI Initiative GmbH"
+        },
+        {
+            "title": "Principal AI Strategist",
+            "description": "AI Strategy and Transformation consulting for large and mid-sized enterprises across various industries, addressing different levels of AI maturity. Development of new consulting assets, thought leadership and business development.",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:27174449",
+                "entityUrn": "urn:li:fs_miniCompany:27174449",
+                "name": "appliedAI Initiative GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                "universalName": "appliedai-initiative",
+                "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                "trackingId": "kjW5VbhQREGrxhkI0Pd9+g=="
+            },
+            "companyName": "appliedAI Initiative GmbH"
+        },
+        {
+            "title": "Global Head of Tiger Team",
+            "description": "Delivering big data, cognitive computing, AI, contextual analytics systems that cover the entire data life cycle. Composed of a host of capabilities addressing data acquisition and fusion through analysis, insight discovery and predictions, which are pre-built and pre-integrated. The capabilities can be combined to perform a virtually unlimited range of tasks that address our customers’ most critical business challenges. \n\nResponsibility for leading global Tiger Teams – agile, ad hoc teams of experts (business analysts, designers, architects, product managers, data scientists, developers, and other professionals) to capture requirements, develop propositions to prospective clients, negotiate timeline and content, and deliver AI product solutions on time and budget across a multitude of industries, geographies and corporate sizes.",
+            "locationName": "Tel Aviv-Yafo, Bezirk Tel Aviv, Israel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:18190402",
+                "entityUrn": "urn:li:fs_miniCompany:18190402",
+                "name": "BlackSwan Technologies",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE74hT0FMDbxQ/company-logo_200_200/company-logo_200_200/0/1653554083757/blackswantechnologies_logo?e=1747872000&v=beta&t=WsbTbMMEkFFGKO921xh35gAHKj3W_Zumb6Q5cExQuNY",
+                "universalName": "blackswantechnologies",
+                "dashCompanyUrn": "urn:li:fsd_company:18190402",
+                "trackingId": "XzRqxZgoS8yJhF7tNHYmSA=="
+            },
+            "companyName": "BlackSwan Technologies"
+        },
+        {
+            "title": "VP, Head of Digital Transformation & Innovation, Head of AI, Founder & Head of Lab31",
+            "description": "Responsibility for digitalization and strategic transformation, for steeing (incl. implementation responsibility) of a company-wide multi-year AI transformation. Founder and Head of the internal incubator \"Lab31\" (Digital and Innovation Lab).",
+            "locationName": "Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Banking"
+                ],
+                "objectUrn": "urn:li:company:87864",
+                "entityUrn": "urn:li:fs_miniCompany:87864",
+                "name": "Bausparkasse Schwäbisch Hall",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQErPGEImgl7zw/company-logo_200_200/company-logo_200_200/0/1630519917236/bausparkasse_schwabisch_hall_logo?e=1747872000&v=beta&t=diNik--vPNXCwKSmnlb1FyEIIj8GtMuDEuhRm7hyAwI",
+                "universalName": "bausparkasse-schwabisch-hall",
+                "dashCompanyUrn": "urn:li:fsd_company:87864",
+                "trackingId": "kTha5cBwTveEaEeQiRfapA=="
+            },
+            "companyName": "Bausparkasse Schwäbisch Hall"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Arts - MA",
+            "fieldOfStudy": "International Studies in Computational Linguistics / Natural Language Processing",
+            "schoolName": "Eberhard Karl University, Tübingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Arts - BA",
+            "fieldOfStudy": "International Studies in Computational Linguistics / Natural Language Processing",
+            "schoolName": "Eberhard Karl University, Tübingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        },
+        {
+            "degreeName": "Abitur / high school diploma",
+            "schoolName": "Philologisches Gymnasium, Belgrade (Serbia)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Executive Education Programme: Driving Digital Transformation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "authority": "ESCP Europe"
+        },
+        {
+            "name": "A.I. Executive Masterclass",
+            "authority": "ESCP Europe"
+        },
+        {
+            "name": "Cloud Digital Leader",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "authority": "Google"
+        }
+    ],
+    "skills": [
+        "AI / Machine Learning Use Cases",
+        "Generative AI",
+        "AI consulting",
+        "Innovation"
+    ],
+    "lastEnriched": "2025-02-17"
+}

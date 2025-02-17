@@ -1,0 +1,418 @@
+{
+    "id": "exp568271228",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Teemu",
+        "lastName": "Roos",
+        "fullName": "Teemu Roos",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQHD5uGUhe64yw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1622050776278?e=1745452800&v=beta&t=cdX9RkuwCt22bCh4z8JxD0y_TKq1JklS0NWvrpjlJrU",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "568271228",
+            "profileId": "ACoAACHfIXwBiee82ZlOVjqqaUQWISnK5OeB9J0",
+            "firstName": "Teemu",
+            "lastName": "Roos",
+            "occupation": "AI Professor",
+            "publicIdentifier": "teemu-roos",
+            "trackingId": "1dWCKqdaR6+rXf63jtjUGg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHD5uGUhe64yw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1622050776278?e=1745452800&v=beta&t=cdX9RkuwCt22bCh4z8JxD0y_TKq1JklS0NWvrpjlJrU",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQGqivOMAZy6Uw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1622049762753?e=1745452800&v=beta&t=gnoKM8Ew4Jdg2ssaxeNb3pFgUhKsK7_g1ah7iPZmlCI",
+            "countryCode": "fi",
+            "geoUrn": "urn:li:fs_geo:106591199",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "description": "Professor of Computer Science (specialization area: AI and Data Science)",
+                    "locationName": "Helsinki Area, Finland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4273",
+                        "entityUrn": "urn:li:fs_miniCompany:4273",
+                        "name": "University of Helsinki",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZQ2B3IQO9xg/company-logo_200_200/company-logo_200_200/0/1631300517673?e=1747872000&v=beta&t=6VNHhZuFZpX-6DPQYOrCqsPmV9TxTdK1Z3VsF1swC5M",
+                        "universalName": "university-of-helsinki",
+                        "dashCompanyUrn": "urn:li:fsd_company:4273",
+                        "trackingId": "JqpfraAZQcmj4QgHBvg3ig=="
+                    },
+                    "companyName": "University of Helsinki"
+                },
+                {
+                    "title": "Leader of AI Education Programme",
+                    "locationName": "Helsinki Area, Finland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:14047363",
+                        "entityUrn": "urn:li:fs_miniCompany:14047363",
+                        "name": "Finnish Center for Artificial Intelligence",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEFry_rT4Fh6g/company-logo_200_200/company-logo_200_200/0/1630455613664?e=1747872000&v=beta&t=yqJD0XWsygIYHnRdKdj8GiOPMihh9U1AmJ2VOQoOEBk",
+                        "universalName": "fcai",
+                        "dashCompanyUrn": "urn:li:fsd_company:14047363",
+                        "trackingId": "ySo05RCdTGeoo3deVK+2iQ=="
+                    },
+                    "companyName": "Finnish Center for Artificial Intelligence"
+                },
+                {
+                    "title": "Member of the Responsible AI Expert Panel",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Publishing"
+                        ],
+                        "objectUrn": "urn:li:company:209791",
+                        "entityUrn": "urn:li:fs_miniCompany:209791",
+                        "name": "MIT Sloan Management Review",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHa0rIlDhUY4g/company-logo_200_200/company-logo_200_200/0/1630580654246/mit_sloan_management_review_logo?e=1747872000&v=beta&t=HTUvkonqFRUpIieShy4grJLZkcnQOKORpHVTlP-r88s",
+                        "universalName": "mit-sloan-management-review",
+                        "dashCompanyUrn": "urn:li:fsd_company:209791",
+                        "trackingId": "TAPPgCvPT2eUuWVqYWetjQ=="
+                    },
+                    "companyName": "MIT Sloan Management Review"
+                },
+                {
+                    "title": "Advisory Board Member",
+                    "description": "The advisory board convenes once a year to curate the 100 Brilliant Women in AI Ethics™ list. The members of this board are carefully selected for their commitment to AI Ethics and track record in fostering diversity in this space.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "100 Brilliant Women in AI Ethics"
+                },
+                {
+                    "title": "Steering Group Member in the AI 4.0 Programme",
+                    "description": "The purpose of the programme is to formulate the objectives and measures to promote digitalisation in Finland. Particular attention should be paid to SMEs, increases in digital investment and European cooperation. The programme will contribute to the recovery of companies and the economy from the coronavirus pandemic. Finland was among the first EU countries to create a national AI strategy, on which the current programme is based. The programme combines AI technologies with a wide range of other digital technologies, such as the Internet of Things, 3D printing, robotics, quantum computing and virtual and augmented reality.\n\nThe programme steering group includes representatives from public authorities, companies and higher education institutions.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:1254933",
+                        "entityUrn": "urn:li:fs_miniCompany:1254933",
+                        "name": "Työ- ja elinkeinoministeriö – Ministry of Economic Affairs and Employment (Finland)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF_o-P3nkEV5Q/company-logo_200_200/company-logo_200_200/0/1631332938366?e=1747872000&v=beta&t=q_xixFQf1ZN0PHMmrxDvH1-4fmGG7c_VMvIqMJjV33A",
+                        "universalName": "ministry-of-employment-and-the-economy",
+                        "dashCompanyUrn": "urn:li:fsd_company:1254933",
+                        "trackingId": "1WXNP2v4Tq6SyWU7I//3xA=="
+                    },
+                    "companyName": "Työ- ja elinkeinoministeriö – Ministry of Economic Affairs and Employment (Finland)"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy (PhD)",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "University of Helsinki",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "University of Helsinki",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Algorithms",
+                "Computer Science",
+                "Machine Learning",
+                "Research"
+            ],
+            "volunteerExperiences": [],
+            "headline": "AI Professor",
+            "summary": "I have over 20 years of experience of AI research at the University of Helsinki, MIT, UC Berkeley, University of Cambridge, and other leading research labs.\n\nIn the early 2000s, my work on AI-based wireless device positioning (2000+ scientific citations) was commercialized as the spinoff company Ekahau Inc. This led to a successful $100+ million exit (acquired by Ookla/Ziff Davis). \n\nMy Elements of AI online course for non-experts (co-created with MinnaLearn) has been rated as the world's best computer science MOOC on Class Central. The course has over 1.5 million participants.\n\nI serve on program committees of major international machine learning conferences including NeurIPS (area chair), ICML, and UAI. I have published over 65 peer reviewed scientific articles, and hold two international patents. I have given invited talks at, e.g., Google, Apple, Microsoft Research, Stanford University, Yale, Purdue, Sorbonne, the European Parliament, Club de Madrid, OECD, and UNESCO. \n\nTogether with my research group at the University of Helsinki and collaborators, we develop new machine learning methods for a wide range of application areas such as cancer epidemiology, neuroscience, and astrophysics. I'm also actively engaged with developing AI education for schools.\n\nNote: I will only accept connections from people I know or who have completed my courses.",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Helsinki, Uusimaa",
+            "geoCountryName": "Finland",
+            "jobTitle": "Professor",
+            "companyName": "University of Helsinki",
+            "companyPublicId": "university-of-helsinki",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/university-of-helsinki",
+            "following": false,
+            "followable": true,
+            "followersCount": 3100,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "University of Helsinki",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "University of Helsinki",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/teemu-roos/",
+        "company": "https://www.linkedin.com/company/university-of-helsinki"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "description": "Professor of Computer Science (specialization area: AI and Data Science)",
+            "locationName": "Helsinki Area, Finland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4273",
+                "entityUrn": "urn:li:fs_miniCompany:4273",
+                "name": "University of Helsinki",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZQ2B3IQO9xg/company-logo_200_200/company-logo_200_200/0/1631300517673?e=1747872000&v=beta&t=6VNHhZuFZpX-6DPQYOrCqsPmV9TxTdK1Z3VsF1swC5M",
+                "universalName": "university-of-helsinki",
+                "dashCompanyUrn": "urn:li:fsd_company:4273",
+                "trackingId": "JqpfraAZQcmj4QgHBvg3ig=="
+            },
+            "companyName": "University of Helsinki"
+        },
+        {
+            "title": "Leader of AI Education Programme",
+            "locationName": "Helsinki Area, Finland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:14047363",
+                "entityUrn": "urn:li:fs_miniCompany:14047363",
+                "name": "Finnish Center for Artificial Intelligence",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEFry_rT4Fh6g/company-logo_200_200/company-logo_200_200/0/1630455613664?e=1747872000&v=beta&t=yqJD0XWsygIYHnRdKdj8GiOPMihh9U1AmJ2VOQoOEBk",
+                "universalName": "fcai",
+                "dashCompanyUrn": "urn:li:fsd_company:14047363",
+                "trackingId": "ySo05RCdTGeoo3deVK+2iQ=="
+            },
+            "companyName": "Finnish Center for Artificial Intelligence"
+        },
+        {
+            "title": "Member of the Responsible AI Expert Panel",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Publishing"
+                ],
+                "objectUrn": "urn:li:company:209791",
+                "entityUrn": "urn:li:fs_miniCompany:209791",
+                "name": "MIT Sloan Management Review",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHa0rIlDhUY4g/company-logo_200_200/company-logo_200_200/0/1630580654246/mit_sloan_management_review_logo?e=1747872000&v=beta&t=HTUvkonqFRUpIieShy4grJLZkcnQOKORpHVTlP-r88s",
+                "universalName": "mit-sloan-management-review",
+                "dashCompanyUrn": "urn:li:fsd_company:209791",
+                "trackingId": "TAPPgCvPT2eUuWVqYWetjQ=="
+            },
+            "companyName": "MIT Sloan Management Review"
+        },
+        {
+            "title": "Advisory Board Member",
+            "description": "The advisory board convenes once a year to curate the 100 Brilliant Women in AI Ethics™ list. The members of this board are carefully selected for their commitment to AI Ethics and track record in fostering diversity in this space.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "companyName": "100 Brilliant Women in AI Ethics"
+        },
+        {
+            "title": "Steering Group Member in the AI 4.0 Programme",
+            "description": "The purpose of the programme is to formulate the objectives and measures to promote digitalisation in Finland. Particular attention should be paid to SMEs, increases in digital investment and European cooperation. The programme will contribute to the recovery of companies and the economy from the coronavirus pandemic. Finland was among the first EU countries to create a national AI strategy, on which the current programme is based. The programme combines AI technologies with a wide range of other digital technologies, such as the Internet of Things, 3D printing, robotics, quantum computing and virtual and augmented reality.\n\nThe programme steering group includes representatives from public authorities, companies and higher education institutions.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:1254933",
+                "entityUrn": "urn:li:fs_miniCompany:1254933",
+                "name": "Työ- ja elinkeinoministeriö – Ministry of Economic Affairs and Employment (Finland)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF_o-P3nkEV5Q/company-logo_200_200/company-logo_200_200/0/1631332938366?e=1747872000&v=beta&t=q_xixFQf1ZN0PHMmrxDvH1-4fmGG7c_VMvIqMJjV33A",
+                "universalName": "ministry-of-employment-and-the-economy",
+                "dashCompanyUrn": "urn:li:fsd_company:1254933",
+                "trackingId": "1WXNP2v4Tq6SyWU7I//3xA=="
+            },
+            "companyName": "Työ- ja elinkeinoministeriö – Ministry of Economic Affairs and Employment (Finland)"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy (PhD)",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "University of Helsinki",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "University of Helsinki",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Algorithms",
+        "Computer Science",
+        "Machine Learning",
+        "Research"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,436 @@
+{
+    "id": "exp117184300",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Brad",
+        "lastName": "Lightcap",
+        "fullName": "Brad Lightcap",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQEs17wk9YYOjA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516527962062?e=1745452800&v=beta&t=JwYZ-BuuZBuzov9pLiyrpmitsuP9_MT9Gi2ucw59X94",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "117184300",
+            "profileId": "ACoAAAb8FywBjKK1SH8YvIyyNDCfvWfx4ybdx8k",
+            "firstName": "Brad",
+            "lastName": "Lightcap",
+            "occupation": "COO at OpenAI",
+            "publicIdentifier": "bradlightcap",
+            "trackingId": "9p0cJ11GT62fJSdsXtQukA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQEs17wk9YYOjA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516527962062?e=1745452800&v=beta&t=JwYZ-BuuZBuzov9pLiyrpmitsuP9_MT9Gi2ucw59X94",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102277331",
+            "positions": [
+                {
+                    "title": "COO",
+                    "locationName": "San Francisco, CA",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:11130470",
+                        "entityUrn": "urn:li:fs_miniCompany:11130470",
+                        "name": "OpenAI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                        "universalName": "openai",
+                        "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                        "trackingId": "380ppawlQPK28pkDW8UjRA=="
+                    },
+                    "companyName": "OpenAI"
+                },
+                {
+                    "title": "CFO",
+                    "locationName": "San Francisco, CA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:11130470",
+                        "entityUrn": "urn:li:fs_miniCompany:11130470",
+                        "name": "OpenAI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                        "universalName": "openai",
+                        "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                        "trackingId": "AnOkxcA+R7e+TsR4MM2KuQ=="
+                    },
+                    "companyName": "OpenAI"
+                },
+                {
+                    "title": "Investor",
+                    "locationName": "San Francisco, CA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:167872",
+                        "entityUrn": "urn:li:fs_miniCompany:167872",
+                        "name": "Y Combinator",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_200_200/company-logo_200_200/0/1673555093250/y_combinator_logo?e=1747872000&v=beta&t=qdVG9AgmzND8D6sGD7Ez67jBtMjfJDFi2II8CZtWuq0",
+                        "universalName": "y-combinator",
+                        "dashCompanyUrn": "urn:li:fsd_company:167872",
+                        "trackingId": "u6rFSGFeQ9SDEAf4EmhWzw=="
+                    },
+                    "companyName": "Y Combinator"
+                },
+                {
+                    "title": "Strategic Finance",
+                    "locationName": "San Francisco, CA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:167251",
+                        "entityUrn": "urn:li:fs_miniCompany:167251",
+                        "name": "Dropbox",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHjnNsmL5L2NA/company-logo_200_200/company-logo_200_200/0/1654114493492/dropbox_logo?e=1747872000&v=beta&t=LLxjhlk-OmeQ-zU3QW34sFVou8kgMoeYh9FqRNlN6IM",
+                        "universalName": "dropbox",
+                        "dashCompanyUrn": "urn:li:fsd_company:167251",
+                        "trackingId": "yF/0FWbSSISu9SsrsK6WNg=="
+                    },
+                    "companyName": "Dropbox"
+                },
+                {
+                    "title": "Investment Banking Analyst",
+                    "locationName": "New York, NY",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1067",
+                        "entityUrn": "urn:li:fs_miniCompany:1067",
+                        "name": "J.P. Morgan",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEVXhQs3mC56Q/company-logo_200_200/company-logo_200_200/0/1630646116001/jpmorgan_logo?e=1747872000&v=beta&t=5RrZQUEHZ02is6sKPGgAMTSxgjjR-gBCJ6DAy-WIx6Y",
+                        "universalName": "jpmorgan",
+                        "dashCompanyUrn": "urn:li:fsd_company:1067",
+                        "trackingId": "88RU8lgtShGLV0M5kowZIw=="
+                    },
+                    "companyName": "J.P. Morgan"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor’s Degree",
+                    "fieldOfStudy": "Economics & History",
+                    "schoolName": "Duke University"
+                },
+                {
+                    "schoolName": "The Hotchkiss School"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Financial Modeling",
+                "Investment Banking",
+                "Corporate Finance",
+                "Valuation"
+            ],
+            "volunteerExperiences": [],
+            "headline": "COO at OpenAI",
+            "student": false,
+            "industryName": "Internet",
+            "industryUrn": "urn:li:fs_industry:6",
+            "geoLocationName": "San Francisco, California",
+            "geoCountryName": "United States",
+            "jobTitle": "COO",
+            "companyName": "OpenAI",
+            "companyPublicId": "openai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/openai",
+            "following": false,
+            "followable": false,
+            "followersCount": 1468,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "OpenAI",
+        "position": "COO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "COO",
+        "organization": "OpenAI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/bradlightcap/",
+        "company": "https://www.linkedin.com/company/openai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "COO",
+            "locationName": "San Francisco, CA",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:11130470",
+                "entityUrn": "urn:li:fs_miniCompany:11130470",
+                "name": "OpenAI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                "universalName": "openai",
+                "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                "trackingId": "380ppawlQPK28pkDW8UjRA=="
+            },
+            "companyName": "OpenAI"
+        },
+        {
+            "title": "CFO",
+            "locationName": "San Francisco, CA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:11130470",
+                "entityUrn": "urn:li:fs_miniCompany:11130470",
+                "name": "OpenAI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                "universalName": "openai",
+                "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                "trackingId": "AnOkxcA+R7e+TsR4MM2KuQ=="
+            },
+            "companyName": "OpenAI"
+        },
+        {
+            "title": "Investor",
+            "locationName": "San Francisco, CA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:167872",
+                "entityUrn": "urn:li:fs_miniCompany:167872",
+                "name": "Y Combinator",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGPzdBPNxrmEg/company-logo_200_200/company-logo_200_200/0/1673555093250/y_combinator_logo?e=1747872000&v=beta&t=qdVG9AgmzND8D6sGD7Ez67jBtMjfJDFi2II8CZtWuq0",
+                "universalName": "y-combinator",
+                "dashCompanyUrn": "urn:li:fsd_company:167872",
+                "trackingId": "u6rFSGFeQ9SDEAf4EmhWzw=="
+            },
+            "companyName": "Y Combinator"
+        },
+        {
+            "title": "Strategic Finance",
+            "locationName": "San Francisco, CA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:167251",
+                "entityUrn": "urn:li:fs_miniCompany:167251",
+                "name": "Dropbox",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHjnNsmL5L2NA/company-logo_200_200/company-logo_200_200/0/1654114493492/dropbox_logo?e=1747872000&v=beta&t=LLxjhlk-OmeQ-zU3QW34sFVou8kgMoeYh9FqRNlN6IM",
+                "universalName": "dropbox",
+                "dashCompanyUrn": "urn:li:fsd_company:167251",
+                "trackingId": "yF/0FWbSSISu9SsrsK6WNg=="
+            },
+            "companyName": "Dropbox"
+        },
+        {
+            "title": "Investment Banking Analyst",
+            "locationName": "New York, NY",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1067",
+                "entityUrn": "urn:li:fs_miniCompany:1067",
+                "name": "J.P. Morgan",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEVXhQs3mC56Q/company-logo_200_200/company-logo_200_200/0/1630646116001/jpmorgan_logo?e=1747872000&v=beta&t=5RrZQUEHZ02is6sKPGgAMTSxgjjR-gBCJ6DAy-WIx6Y",
+                "universalName": "jpmorgan",
+                "dashCompanyUrn": "urn:li:fsd_company:1067",
+                "trackingId": "88RU8lgtShGLV0M5kowZIw=="
+            },
+            "companyName": "J.P. Morgan"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor’s Degree",
+            "fieldOfStudy": "Economics & History",
+            "schoolName": "Duke University"
+        },
+        {
+            "schoolName": "The Hotchkiss School"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Financial Modeling",
+        "Investment Banking",
+        "Corporate Finance",
+        "Valuation"
+    ],
+    "lastEnriched": "2025-02-17"
+}

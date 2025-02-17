@@ -1,0 +1,570 @@
+{
+    "id": "exp182604058",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Marco",
+        "lastName": "Huber",
+        "fullName": "Marco Huber",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGlgsCnDjSkLQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1570026928308?e=1745452800&v=beta&t=VhNrFJEIrM0RSawqnsbJvBnez1zpVgabXP2P9Z4ixxg",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch"
+        ],
+        "allData": {
+            "id": "182604058",
+            "profileId": "ACoAAAriURoBstuMGWhdYywYkTFbnL-DyPEx7lo",
+            "firstName": "Marco",
+            "lastName": "Huber",
+            "occupation": "Full Professor @ University of Stuttgart | Head of Digitalization, AI, and Machine Vision @ Fraunhofer IPA",
+            "publicIdentifier": "marco-huber-78a1a151",
+            "trackingId": "GC+NBL52R+K8tRQe8WzJ+A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGlgsCnDjSkLQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1570026928308?e=1745452800&v=beta&t=VhNrFJEIrM0RSawqnsbJvBnez1zpVgabXP2P9Z4ixxg",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFRu8OhT3MjJA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1729670187396?e=1745452800&v=beta&t=PaUVgzUfC8889UiTXlKThOq3kvDusMTqFu4PSPJstYs",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:103884904",
+            "positions": [
+                {
+                    "title": "Scientific Director Digitalization and Artificial Intelligence",
+                    "locationName": "Stuttgart, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:633210",
+                        "entityUrn": "urn:li:fs_miniCompany:633210",
+                        "name": "Fraunhofer IPA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqas9R1jmbAw/company-logo_200_200/company-logo_200_200/0/1630486939870/fraunhofer_ipa_logo?e=1747872000&v=beta&t=UL6da3auDp56QWgnfQbllJ8cY-MqLEQDePtgxVed5Fk",
+                        "universalName": "fraunhofer-ipa",
+                        "dashCompanyUrn": "urn:li:fsd_company:633210",
+                        "trackingId": "qC6+3dPbTJ+OjEv+FxE/TQ=="
+                    },
+                    "companyName": "Fraunhofer IPA"
+                },
+                {
+                    "title": "Head of Research Unit Artificial Intelligence and Machine Vision",
+                    "locationName": "Stuttgart, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:633210",
+                        "entityUrn": "urn:li:fs_miniCompany:633210",
+                        "name": "Fraunhofer IPA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqas9R1jmbAw/company-logo_200_200/company-logo_200_200/0/1630486939870/fraunhofer_ipa_logo?e=1747872000&v=beta&t=UL6da3auDp56QWgnfQbllJ8cY-MqLEQDePtgxVed5Fk",
+                        "universalName": "fraunhofer-ipa",
+                        "dashCompanyUrn": "urn:li:fsd_company:633210",
+                        "trackingId": "eDpfd2NzRu2UuHmR1n/UOg=="
+                    },
+                    "companyName": "Fraunhofer IPA"
+                },
+                {
+                    "title": "Deputy Director, Institute of Industrial Manufacturing and Management IFF",
+                    "description": "Full professor (W3) for Cognitive Production Systems",
+                    "locationName": "Stuttgart und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15141415",
+                        "entityUrn": "urn:li:fs_miniCompany:15141415",
+                        "name": "University of Stuttgart",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_200_200/company-logo_200_200/0/1631353449082?e=1747872000&v=beta&t=umeOp87TM-KjHkwq1aa2fxGwdpi3UjX7ZCEpZpSXIQk",
+                        "universalName": "universität-stuttgart",
+                        "dashCompanyUrn": "urn:li:fsd_company:15141415",
+                        "trackingId": "SqvT8O8JR3uyk+aUEI00Lg=="
+                    },
+                    "companyName": "University of Stuttgart"
+                },
+                {
+                    "title": "Head of Machine Vision and Signal Processing Department",
+                    "locationName": "Stuttgart und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:633210",
+                        "entityUrn": "urn:li:fs_miniCompany:633210",
+                        "name": "Fraunhofer IPA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqas9R1jmbAw/company-logo_200_200/company-logo_200_200/0/1630486939870/fraunhofer_ipa_logo?e=1747872000&v=beta&t=UL6da3auDp56QWgnfQbllJ8cY-MqLEQDePtgxVed5Fk",
+                        "universalName": "fraunhofer-ipa",
+                        "dashCompanyUrn": "urn:li:fsd_company:633210",
+                        "trackingId": "ijfcmBogT2Odqg5dlM8ILA=="
+                    },
+                    "companyName": "Fraunhofer IPA"
+                },
+                {
+                    "title": "Head of Cyber Cognitive Intelligence (CCI) Department",
+                    "locationName": "Stuttgart und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:633210",
+                        "entityUrn": "urn:li:fs_miniCompany:633210",
+                        "name": "Fraunhofer IPA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqas9R1jmbAw/company-logo_200_200/company-logo_200_200/0/1630486939870/fraunhofer_ipa_logo?e=1747872000&v=beta&t=UL6da3auDp56QWgnfQbllJ8cY-MqLEQDePtgxVed5Fk",
+                        "universalName": "fraunhofer-ipa",
+                        "dashCompanyUrn": "urn:li:fsd_company:633210",
+                        "trackingId": "4hGa//lIRgSqvhxsNhN5sQ=="
+                    },
+                    "companyName": "Fraunhofer IPA"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr.-Ing.",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Universität Karlsruhe (TH)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Universität Karlsruhe (TH)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Project Management Professional (PMP)",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2012
+                        }
+                    },
+                    "authority": "Project Management Institute"
+                },
+                {
+                    "name": "Risk Management",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2013
+                        }
+                    },
+                    "authority": "RMstudy"
+                },
+                {
+                    "name": "Scrum Basics",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2013
+                        }
+                    },
+                    "authority": "PMstudy"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Habilitation",
+                    "description": "Habilitation (from Latin habilis \"fit, proper, skillfull\"​) is the highest academic qualification a scholar can achieve by his or her own pursuit in many countries in Europe, Central Asia, and the Caucasus. Earned after obtaining a research doctorate, such as a PhD, habilitation requires that the candidate write a professorial thesis (or habilitation thesis) based on independent scholarship, reviewed by and defended before an academic committee in a process similar to that of the doctoral dissertation. However, the level of scholarship has to be considerably higher than that required for a research doctoral (PhD) thesis in terms of quality and quantity, and must be accomplished independently, in contrast with a PhD dissertation typically directed or guided by a faculty supervisor. (http://en.wikipedia.org/wiki/Habilitation)",
+                    "issueDate": {
+                        "month": 1,
+                        "year": 2015
+                    },
+                    "issuer": "Karlsruhe Institute of Technology (KIT), Karlsruhe, Germany"
+                },
+                {
+                    "title": "PhD Thesis with Highest Distinction (summa cum laude)",
+                    "issueDate": {
+                        "year": 2009
+                    },
+                    "issuer": "Universität Karlsruhe (TH), Karlsruhe, Germany"
+                },
+                {
+                    "title": "Among the best ten percent of computer science graduates of the year 2005/2006",
+                    "issueDate": {
+                        "year": 2006
+                    },
+                    "issuer": "Universität Karlsruhe (TH), Karlsruhe, Germany"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch"
+                },
+                {
+                    "name": "Englisch"
+                },
+                {
+                    "name": "Französisch"
+                }
+            ],
+            "skills": [
+                "Bildverarbeitung",
+                "Research",
+                "Mathematics",
+                "Probability Theory"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Full Professor @ University of Stuttgart | Head of Digitalization, AI, and Machine Vision @ Fraunhofer IPA",
+            "summary": "I'm the Deputy Director of the Institute of Industrial Manufacturing and Management IFF at University of Stuttgart. At the same time I'm Scientific Director for Digitalization and Artificial Intelligence and Head of the Research Unit Artificial Intelligence and Machine Vision, both with Fraunhofer IPA in Stuttgart, Germany. As a full professor (W3) for cognitive production systems I manage and conduct R&D projects on artificial intelligence and machine learning in manufacturing, automation, and robotics.\n\nMy teams at the University of Stuttgart and Fraunhofer IPA offer research and development support, consultancy, and data science expertise in the following fields:\n\n👉 innovative business models and strategic consulting \n👉 data-driven products and services\n👉 digital tools for the Industry 4.0\n👉 cloud-edge plattforms \n👉 digital industrial engineering\n👉 digital twins for manufacturing systems\n👉 machine learning in manufacturing and automation\n👉 dependable, explainable, and trustworthy AI\n👉 auditing of AI systems\n👉 autonomous decision making, planning, and control\n👉 data efficient AI and informed machine learning\n👉 machine vision\n👉 generative AI  \n👉 quality control\n👉 quantum computing and machine learning\n\nWith our experience from several hundred projects we know how to transform research results into benefits for the industry.\n\nBackground image: Ludmilla und Gabriel Parsyak, © GSaME/Universität Stuttgart",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Stuttgart, Baden-Württemberg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Scientific Director Digitalization and Artificial Intelligence",
+            "companyName": "Fraunhofer IPA",
+            "companyPublicId": "fraunhofer-ipa",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/fraunhofer-ipa",
+            "following": false,
+            "followable": true,
+            "followersCount": 9250,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Fraunhofer IPA",
+        "position": "Scientific Director Digitalization and Artificial Intelligence",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Scientific Director Digitalization and Artificial Intelligence",
+        "organization": "Fraunhofer IPA",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/marco-huber-78a1a151/",
+        "company": "https://www.linkedin.com/company/fraunhofer-ipa"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Scientific Director Digitalization and Artificial Intelligence",
+            "locationName": "Stuttgart, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:633210",
+                "entityUrn": "urn:li:fs_miniCompany:633210",
+                "name": "Fraunhofer IPA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqas9R1jmbAw/company-logo_200_200/company-logo_200_200/0/1630486939870/fraunhofer_ipa_logo?e=1747872000&v=beta&t=UL6da3auDp56QWgnfQbllJ8cY-MqLEQDePtgxVed5Fk",
+                "universalName": "fraunhofer-ipa",
+                "dashCompanyUrn": "urn:li:fsd_company:633210",
+                "trackingId": "qC6+3dPbTJ+OjEv+FxE/TQ=="
+            },
+            "companyName": "Fraunhofer IPA"
+        },
+        {
+            "title": "Head of Research Unit Artificial Intelligence and Machine Vision",
+            "locationName": "Stuttgart, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:633210",
+                "entityUrn": "urn:li:fs_miniCompany:633210",
+                "name": "Fraunhofer IPA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqas9R1jmbAw/company-logo_200_200/company-logo_200_200/0/1630486939870/fraunhofer_ipa_logo?e=1747872000&v=beta&t=UL6da3auDp56QWgnfQbllJ8cY-MqLEQDePtgxVed5Fk",
+                "universalName": "fraunhofer-ipa",
+                "dashCompanyUrn": "urn:li:fsd_company:633210",
+                "trackingId": "eDpfd2NzRu2UuHmR1n/UOg=="
+            },
+            "companyName": "Fraunhofer IPA"
+        },
+        {
+            "title": "Deputy Director, Institute of Industrial Manufacturing and Management IFF",
+            "description": "Full professor (W3) for Cognitive Production Systems",
+            "locationName": "Stuttgart und Umgebung, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15141415",
+                "entityUrn": "urn:li:fs_miniCompany:15141415",
+                "name": "University of Stuttgart",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGtWZ9p-TYD0Q/company-logo_200_200/company-logo_200_200/0/1631353449082?e=1747872000&v=beta&t=umeOp87TM-KjHkwq1aa2fxGwdpi3UjX7ZCEpZpSXIQk",
+                "universalName": "universität-stuttgart",
+                "dashCompanyUrn": "urn:li:fsd_company:15141415",
+                "trackingId": "SqvT8O8JR3uyk+aUEI00Lg=="
+            },
+            "companyName": "University of Stuttgart"
+        },
+        {
+            "title": "Head of Machine Vision and Signal Processing Department",
+            "locationName": "Stuttgart und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:633210",
+                "entityUrn": "urn:li:fs_miniCompany:633210",
+                "name": "Fraunhofer IPA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqas9R1jmbAw/company-logo_200_200/company-logo_200_200/0/1630486939870/fraunhofer_ipa_logo?e=1747872000&v=beta&t=UL6da3auDp56QWgnfQbllJ8cY-MqLEQDePtgxVed5Fk",
+                "universalName": "fraunhofer-ipa",
+                "dashCompanyUrn": "urn:li:fsd_company:633210",
+                "trackingId": "ijfcmBogT2Odqg5dlM8ILA=="
+            },
+            "companyName": "Fraunhofer IPA"
+        },
+        {
+            "title": "Head of Cyber Cognitive Intelligence (CCI) Department",
+            "locationName": "Stuttgart und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:633210",
+                "entityUrn": "urn:li:fs_miniCompany:633210",
+                "name": "Fraunhofer IPA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqas9R1jmbAw/company-logo_200_200/company-logo_200_200/0/1630486939870/fraunhofer_ipa_logo?e=1747872000&v=beta&t=UL6da3auDp56QWgnfQbllJ8cY-MqLEQDePtgxVed5Fk",
+                "universalName": "fraunhofer-ipa",
+                "dashCompanyUrn": "urn:li:fsd_company:633210",
+                "trackingId": "4hGa//lIRgSqvhxsNhN5sQ=="
+            },
+            "companyName": "Fraunhofer IPA"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr.-Ing.",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Universität Karlsruhe (TH)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Universität Karlsruhe (TH)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Project Management Professional (PMP)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2012
+                }
+            },
+            "authority": "Project Management Institute"
+        },
+        {
+            "name": "Risk Management",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            },
+            "authority": "RMstudy"
+        },
+        {
+            "name": "Scrum Basics",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "authority": "PMstudy"
+        }
+    ],
+    "skills": [
+        "Bildverarbeitung",
+        "Research",
+        "Mathematics",
+        "Probability Theory"
+    ],
+    "lastEnriched": "2025-02-17"
+}

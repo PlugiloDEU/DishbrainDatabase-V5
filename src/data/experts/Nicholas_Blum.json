@@ -1,0 +1,484 @@
+{
+    "id": "exp653681575",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Nicholas",
+        "lastName": "Blum",
+        "fullName": "Nicholas Blum",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQGL7sRw4Y7D1A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1637102660354?e=1745452800&v=beta&t=FsyWBwIEQ1N1hJvcf2SHczT9J4b_ytkdNu3cjKfvdD8",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "653681575",
+            "profileId": "ACoAACb2Y6cBj6Jg3-gnq63PLaVp7VTqN3aKqnc",
+            "firstName": "Nicholas",
+            "lastName": "Blum",
+            "occupation": "Judicial Law Clerk",
+            "publicIdentifier": "nicholas-blum-b47abb162",
+            "trackingId": "7P+KO9FgQv2ZTvtQJ8E6XQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGL7sRw4Y7D1A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1637102660354?e=1745452800&v=beta&t=FsyWBwIEQ1N1hJvcf2SHczT9J4b_ytkdNu3cjKfvdD8",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFZnPPI0Ziq3g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1625793720944?e=1745452800&v=beta&t=ghbIsPhzhVXc06TKFbM3XTOQPXB7sSWztKDIn_HeFn0",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104428936",
+            "positions": [
+                {
+                    "title": "Law Clerk",
+                    "locationName": "Albuquerque, New Mexico, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Judiciary"
+                        ],
+                        "objectUrn": "urn:li:company:4656",
+                        "entityUrn": "urn:li:fs_miniCompany:4656",
+                        "name": "U.S. District Courts",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGdSxmyEdQGPw/company-logo_200_200/company-logo_200_200/0/1655232551250/united_states_district_courts_logo?e=1747872000&v=beta&t=K0PYGopfvMgNxV-FiWqqbxVfm_NQfJ1nl40ROXO6Gfw",
+                        "universalName": "united-states-district-courts",
+                        "dashCompanyUrn": "urn:li:fsd_company:4656",
+                        "trackingId": "OrCd3PCGQOma4Pp08S4hvQ=="
+                    },
+                    "companyName": "U.S. District Courts"
+                },
+                {
+                    "title": "Senior Editor",
+                    "locationName": "St Louis, Missouri, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Publishing"
+                        ],
+                        "objectUrn": "urn:li:company:28603481",
+                        "entityUrn": "urn:li:fs_miniCompany:28603481",
+                        "name": "Washington University Law Review",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFTypQuR16QBQ/company-logo_200_200/company-logo_200_200/0/1631359448453?e=1747872000&v=beta&t=VUnH91tjNIgLOrBr7is5B4KN1VKh8sMhO9gzWfrTNfs",
+                        "universalName": "washington-university-law-review",
+                        "dashCompanyUrn": "urn:li:fsd_company:28603481",
+                        "trackingId": "BveEWZ0HSVWMK7X3SkGB1Q=="
+                    },
+                    "companyName": "Washington University Law Review"
+                },
+                {
+                    "title": "Summer Associate",
+                    "locationName": "Omaha, Nebraska, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:103023",
+                        "entityUrn": "urn:li:fs_miniCompany:103023",
+                        "name": "Koley Jessen P.C., L.L.O.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHzJdQldxkeqQ/company-logo_200_200/company-logo_200_200/0/1631304537798?e=1747872000&v=beta&t=4e_iWUXzUgXpexNZenX2CbXXjrFuB8ENAeYFGy4TKSQ",
+                        "universalName": "koleyjessen",
+                        "dashCompanyUrn": "urn:li:fsd_company:103023",
+                        "trackingId": "yNcwoTNyQnCDSsAC6Z7cow=="
+                    },
+                    "companyName": "Koley Jessen P.C., L.L.O."
+                },
+                {
+                    "title": "Legal Intern",
+                    "locationName": "Papillion, Nebraska, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "Sarpy County Attorney's Office"
+                },
+                {
+                    "title": "Legislative Intern ",
+                    "locationName": "Jefferson City, Missouri, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:8026",
+                        "entityUrn": "urn:li:fs_miniCompany:8026",
+                        "name": "Missouri House of Representatives",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQH9CsZqMk-4hw/company-logo_200_200/company-logo_200_200/0/1678895774972/missouri_house_of_representatives_logo?e=1747872000&v=beta&t=3bIM3dLi0EFdRHET0ngV6y-amxVEGyLGnnj5Nv1G8vQ",
+                        "universalName": "missouri-house-of-representatives",
+                        "dashCompanyUrn": "urn:li:fsd_company:8026",
+                        "trackingId": "BX766FbCTM+Ah2E2xBbiEg=="
+                    },
+                    "companyName": "Missouri House of Representatives"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Law - JD",
+                    "schoolName": "Washington University in St. Louis School of Law",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2021
+                        }
+                    }
+                },
+                {
+                    "degreeName": "B.S. ",
+                    "fieldOfStudy": "Political Science & International Relations",
+                    "schoolName": "Truman State University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2017
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Departmental Honors, Political Science & International Relations",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "issuer": "Political Science & International Relations Faculty at Truman State University"
+                },
+                {
+                    "title": "President's Recognition Award",
+                    "description": "Awarded to graduating seniors who have achieved at the 95th to 100th percentile on the required, nationally normed, senior exam prescribed by the faculty in their respective major.",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "issuer": "Truman State University"
+                },
+                {
+                    "title": "Summa Cum Laude",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2021
+                    },
+                    "issuer": "Truman State University"
+                },
+                {
+                    "title": "President's List (2017-2021)",
+                    "description": "Achieved a 4.0 GPA",
+                    "issuer": "Truman State University"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [],
+            "volunteerExperiences": [
+                {
+                    "role": "Event Volunteer",
+                    "description": "I volunteered for the annual Special Olympics track meet in Kirksville, Missouri. I participated as a “buddy” to help coach and encourage an athlete during his events. Aside from being a former athlete and an avid sports-fan, seeing and speaking to Tim Shriver fostered a unique personal interest in this organization.",
+                    "companyName": "Special Olympics"
+                }
+            ],
+            "headline": "Judicial Law Clerk",
+            "student": false,
+            "industryName": "Law Practice",
+            "industryUrn": "urn:li:fs_industry:9",
+            "geoLocationName": "St Louis, Missouri",
+            "geoCountryName": "United States",
+            "jobTitle": "Law Clerk",
+            "companyName": "U.S. District Courts",
+            "companyPublicId": "united-states-district-courts",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/united-states-district-courts",
+            "following": false,
+            "followable": true,
+            "followersCount": 545,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "U.S. District Courts",
+        "position": "Law Clerk",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Judiciary"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Law Clerk",
+        "organization": "U.S. District Courts",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/nicholas-blum-b47abb162/",
+        "company": "https://www.linkedin.com/company/united-states-district-courts"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Law Clerk",
+            "locationName": "Albuquerque, New Mexico, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Judiciary"
+                ],
+                "objectUrn": "urn:li:company:4656",
+                "entityUrn": "urn:li:fs_miniCompany:4656",
+                "name": "U.S. District Courts",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGdSxmyEdQGPw/company-logo_200_200/company-logo_200_200/0/1655232551250/united_states_district_courts_logo?e=1747872000&v=beta&t=K0PYGopfvMgNxV-FiWqqbxVfm_NQfJ1nl40ROXO6Gfw",
+                "universalName": "united-states-district-courts",
+                "dashCompanyUrn": "urn:li:fsd_company:4656",
+                "trackingId": "OrCd3PCGQOma4Pp08S4hvQ=="
+            },
+            "companyName": "U.S. District Courts"
+        },
+        {
+            "title": "Senior Editor",
+            "locationName": "St Louis, Missouri, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Publishing"
+                ],
+                "objectUrn": "urn:li:company:28603481",
+                "entityUrn": "urn:li:fs_miniCompany:28603481",
+                "name": "Washington University Law Review",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFTypQuR16QBQ/company-logo_200_200/company-logo_200_200/0/1631359448453?e=1747872000&v=beta&t=VUnH91tjNIgLOrBr7is5B4KN1VKh8sMhO9gzWfrTNfs",
+                "universalName": "washington-university-law-review",
+                "dashCompanyUrn": "urn:li:fsd_company:28603481",
+                "trackingId": "BveEWZ0HSVWMK7X3SkGB1Q=="
+            },
+            "companyName": "Washington University Law Review"
+        },
+        {
+            "title": "Summer Associate",
+            "locationName": "Omaha, Nebraska, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:103023",
+                "entityUrn": "urn:li:fs_miniCompany:103023",
+                "name": "Koley Jessen P.C., L.L.O.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHzJdQldxkeqQ/company-logo_200_200/company-logo_200_200/0/1631304537798?e=1747872000&v=beta&t=4e_iWUXzUgXpexNZenX2CbXXjrFuB8ENAeYFGy4TKSQ",
+                "universalName": "koleyjessen",
+                "dashCompanyUrn": "urn:li:fsd_company:103023",
+                "trackingId": "yNcwoTNyQnCDSsAC6Z7cow=="
+            },
+            "companyName": "Koley Jessen P.C., L.L.O."
+        },
+        {
+            "title": "Legal Intern",
+            "locationName": "Papillion, Nebraska, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "companyName": "Sarpy County Attorney's Office"
+        },
+        {
+            "title": "Legislative Intern ",
+            "locationName": "Jefferson City, Missouri, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:8026",
+                "entityUrn": "urn:li:fs_miniCompany:8026",
+                "name": "Missouri House of Representatives",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQH9CsZqMk-4hw/company-logo_200_200/company-logo_200_200/0/1678895774972/missouri_house_of_representatives_logo?e=1747872000&v=beta&t=3bIM3dLi0EFdRHET0ngV6y-amxVEGyLGnnj5Nv1G8vQ",
+                "universalName": "missouri-house-of-representatives",
+                "dashCompanyUrn": "urn:li:fsd_company:8026",
+                "trackingId": "BX766FbCTM+Ah2E2xBbiEg=="
+            },
+            "companyName": "Missouri House of Representatives"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Law - JD",
+            "schoolName": "Washington University in St. Louis School of Law",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2021
+                }
+            }
+        },
+        {
+            "degreeName": "B.S. ",
+            "fieldOfStudy": "Political Science & International Relations",
+            "schoolName": "Truman State University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

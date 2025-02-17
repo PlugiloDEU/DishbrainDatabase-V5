@@ -116,22 +116,7 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
 
   const handleSave = async () => {
     try {
-      // Create updated expert object with proper image structure
-      const updatedExpert = {
-        ...editedExpert,
-        personalInfo: {
-          ...editedExpert.personalInfo,
-          image: editedExpert.personalInfo?.image || editedExpert.personalInfo?.imageUrl || editedExpert.imageUrl
-        }
-      };
-
-      // Clean up any duplicate image fields
-      delete updatedExpert.imageUrl;
-      if (updatedExpert.personalInfo) {
-        delete updatedExpert.personalInfo.imageUrl;
-      }
-
-      await onUpdate(updatedExpert);
+      await onUpdate(editedExpert);
       setIsEditing(false);
       toast.success('Änderungen gespeichert');
     } catch (error) {
@@ -217,23 +202,66 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
 
   // Modified helper functions to match data structure
   const getName = () => {
-    return expert.fullName || expert.name || `${expert.titel || ''} ${expert.firstName || ''} ${expert.lastName || ''}`.trim();
+    return expert.personalInfo?.fullName ||
+           expert.fullName ||
+           expert.name?.name ||
+           expert.name ||
+           `${expert.personalInfo?.firstName || expert.firstName || ''} ${expert.personalInfo?.lastName || expert.lastName || ''}`.trim() ||
+           'Unnamed Expert';
   };
 
   const getPosition = () => {
-    return expert.position || expert.currentRole?.title;
+    return expert.position || 
+           expert.currentRole?.title || 
+           expert.institution?.position || 
+           expert.personalInfo?.title || 
+           expert.headline?.split(' at ')[0] || 
+           '';
   };
 
   const getOrganization = () => {
-    return expert.organisation || expert.currentRole?.organization;
+    return expert.organisation || 
+           expert.currentRole?.organization || 
+           expert.institution?.name || 
+           expert.company?.name || 
+           expert.headline?.split(' at ')[1] || 
+           '';
   };
 
   const getFachgebiet = () => {
-    return expert.fachgebiet || expert.expertise?.primary?.[0];
+    return expert.fachgebiet || 
+           expert.expertise?.primary?.[0] || 
+           expert.currentRole?.focus || 
+           expert.industryName || 
+           '';
   };
 
   const getExpertise = () => {
-    return expert.expertise || [];
+    try {
+      if (Array.isArray(expert.expertise)) return expert.expertise;
+      if (Array.isArray(expert.expertise?.primary)) return expert.expertise.primary;
+      if (Array.isArray(expert.tags)) return expert.tags;
+      if (Array.isArray(expert.skills)) return expert.skills;
+      if (expert.currentRole?.focus) return [expert.currentRole.focus];
+      return [];
+    } catch (error) {
+      console.error('Error getting expertise:', error);
+      return [];
+    }
+  };
+
+  const getLocation = () => {
+    try {
+      return expert.standort || 
+             expert.location || 
+             expert.city || 
+             expert.country || 
+             expert.geoCountryName || 
+             '';
+    } catch (error) {
+      console.error('Error getting location:', error);
+      return '';
+    }
   };
 
   const getContact = () => {
@@ -256,26 +284,41 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
     };
   };
 
-  // Add this helper function
-  const renderSourceInfo = (sourceData) => {
-    if (!sourceData) return null;
+  // Add this helper function near the other helper functions
+  const formatDate = (dateString) => {
+    if (!dateString) return 'Nicht verfügbar';
+    try {
+      return new Date(dateString).toLocaleDateString('de-DE');
+    } catch (error) {
+      return 'Ungültiges Datum';
+    }
+  };
+
+  // Add this helper function to render source info for any data point
+  const renderDataSourceInfo = (source, type = 'info') => {
+    if (!source) return null;
     
     return (
-      <div className="text-xs text-gray-400 mt-1">
+      <div className="text-xs text-gray-500 mt-1">
         <span className="flex items-center gap-1">
-          <i className={`fas fa-${sourceData.verified ? 'check-circle text-green-400' : 'info-circle text-gray-500'}`}></i>
-          Quelle: 
-          <a 
-            href={sourceData.url}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-blue-400 hover:text-blue-300"
-          >
-            {new URL(sourceData.url).hostname}
-          </a>
-          <span className="text-gray-500">
-            (Geprüft: {new Date(sourceData.last_checked).toLocaleDateString('de-DE')})
-          </span>
+          <i className={`fas fa-${source.verified ? 'check-circle text-green-400' : 'info-circle text-gray-500'}`}></i>
+          Quelle: {source.url ? (
+            <a
+              href={source.url}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-400 hover:text-blue-300"
+            >
+              {new URL(source.url).hostname}
+            </a>
+          ) : (
+            <span className="text-gray-400">KI-basierte Extraktion</span>
+          )}
+          {source.last_checked && (
+            <span className="text-gray-500 ml-1">
+              (Geprüft: {formatDate(source.last_checked)})
+            </span>
+          )}
         </span>
       </div>
     );
@@ -306,6 +349,340 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
     };
   };
 
+  // Add this helper function to parse markdown content
+  const parsePerplexityMarkdown = (content) => {
+    try {
+      // Basic markdown parsing - can be expanded based on needs
+      const sections = content.split('---');
+      const mainContent = sections[2] || sections[0]; // Get content after second --- or full content
+      
+      // Extract basic info
+      const nameMatch = content.match(/# (.*?):/);
+      const descriptionMatch = content.match(/## Executive Summary\n\n(.*?)\n\n/s);
+      
+      return {
+        name: nameMatch ? nameMatch[1].trim() : null,
+        description: descriptionMatch ? descriptionMatch[1].trim() : null,
+        fullContent: mainContent.trim()
+      };
+    } catch (error) {
+      console.error('Error parsing markdown:', error);
+      return null;
+    }
+  };
+
+  // Add this to your ExpertDetailsPopup component
+  const handlePerplexityUpload = async (event) => {
+    const file = event.target.files[0];
+    if (!file) return;
+
+    // Validate file type
+    if (!file.name.endsWith('.md') && !file.name.endsWith('.csv')) {
+      toast.error('Bitte laden Sie eine Markdown- oder CSV-Datei von Perplexity AI hoch');
+      return;
+    }
+
+    try {
+      const content = await file.text();
+      const parsedData = parsePerplexityMarkdown(content);
+
+      if (!parsedData) {
+        toast.error('Fehler beim Parsen der Datei');
+        return;
+      }
+
+      // Update expert data
+      const updatedExpert = {
+        ...expert,
+        description: parsedData.description || expert.description,
+        perplexity_content: parsedData.fullContent,
+        last_updated: new Date().toISOString()
+      };
+
+      await onUpdate(updatedExpert);
+      toast.success('Perplexity Daten erfolgreich importiert');
+    } catch (error) {
+      console.error('Error processing Perplexity file:', error);
+      toast.error('Fehler beim Verarbeiten der Datei');
+    }
+  };
+
+  // Update the renderObjectData function to handle all data structures
+  const renderObjectData = (data, level = 0) => {
+    if (!data) return null;
+
+    // Function to format the key names to be more readable
+    const formatKey = (key) => {
+      return key
+        .replace(/([a-z])([A-Z])/g, '$1 $2')
+        .replace(/_/g, ' ')
+        .replace(/^\w/, (c) => c.toUpperCase());
+    };
+
+    return Object.entries(data).map(([key, value]) => {
+      // Skip rendering certain fields that are handled elsewhere
+      if (
+        [
+          'personalInfo',
+          'allData',
+          'sources',
+          'data_quality',
+          'experience',
+          'education',
+          'skills',
+          'profiles',
+          'tags',
+          'lastEnriched',
+          'über',
+        ].includes(key.toLowerCase())
+      ) {
+        return null;
+      }
+
+      const displayKey = formatKey(key);
+
+      // Handle null/undefined values
+      if (value === null || value === undefined) {
+        return (
+          <div key={key} className="mt-2">
+            <span className="text-gray-400">{displayKey}:</span>{' '}
+            <span className="text-gray-100">-</span>
+          </div>
+        );
+      }
+
+      // Handle date values
+      if (typeof value === 'string' && !isNaN(Date.parse(value))) {
+        value = new Date(value).toLocaleDateString('de-DE');
+      }
+
+      // Handle arrays
+      if (Array.isArray(value)) {
+        if (value.length === 0) {
+          return (
+            <div key={key} className="mt-2">
+              <span className="text-gray-400">{displayKey}:</span>{' '}
+              <span className="text-gray-100 italic">Keine Daten</span>
+            </div>
+          );
+        }
+
+        return (
+          <div key={key} className="mt-2">
+            <span className="text-gray-400">{displayKey}:</span>
+            <div className="flex flex-wrap gap-2 mt-1">
+              {value.map((item, i) => (
+                <span key={i} className="px-3 py-1 bg-gray-700 rounded-full text-sm">
+                  {String(item)}
+                </span>
+              ))}
+            </div>
+          </div>
+        );
+      }
+
+      // Handle objects
+      if (typeof value === 'object') {
+        return (
+          <div key={key} className={`mt-${level > 0 ? 2 : 4}`}>
+            <h4 className="font-medium text-gray-100 mb-2">{displayKey}</h4>
+            <div className="bg-gray-800/50 p-4 rounded-lg">
+              {renderObjectData(value, level + 1)}
+            </div>
+          </div>
+        );
+      }
+
+      // Handle primitive values
+      return (
+        <div key={key} className="mt-2">
+          <span className="text-gray-400">{displayKey}:</span>{' '}
+          <span className="text-gray-100">
+            {typeof value === 'boolean' ? (value ? 'Ja' : 'Nein') : String(value || '-')}
+          </span>
+        </div>
+      );
+    });
+  };
+
+  // Update the expertise section to handle the data more safely
+  const renderExpertiseSection = () => {
+    try {
+      return (
+        <div className="space-y-4">
+          {/* Primary Skills */}
+          {expert.skills?.length > 0 && (
+            <div>
+              <h4 className="text-sm font-medium text-gray-400 mb-2">Hauptfähigkeiten</h4>
+              <div className="flex flex-wrap gap-2">
+                {expert.skills.map((skill, index) => (
+                  <div key={index} className="flex flex-col">
+                    <div className="group relative">
+                      <span className="px-3 py-1 bg-blue-900/30 text-blue-400 border border-blue-800/50 rounded-full text-sm flex items-center gap-2">
+                        {skill}
+                        {expert.sources?.skills?.[skill]?.verified && (
+                          <i className="fas fa-check-circle text-green-400" title="Verifiziert"></i>
+                        )}
+                      </span>
+                      {expert.sources?.skills?.[skill] && (
+                        <div className="absolute bottom-full left-0 mb-2 w-64 bg-gray-800 p-2 rounded-lg text-xs opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
+                          <p className="text-gray-300">
+                            Quelle: {expert.sources.skills[skill].url ? (
+                              <a href={expert.sources.skills[skill].url} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
+                                {new URL(expert.sources.skills[skill].url).hostname}
+                              </a>
+                            ) : 'KI-basierte Extraktion'}
+                          </p>
+                          {expert.sources.skills[skill].last_checked && (
+                            <p className="text-gray-400">
+                              Zuletzt geprüft: {formatDate(expert.sources.skills[skill].last_checked)}
+                            </p>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Primary Expertise */}
+          {expert.expertise?.primary?.length > 0 && (
+            <div>
+              <h4 className="text-sm font-medium text-gray-400 mb-2">Primäre Expertise</h4>
+              <div className="flex flex-wrap gap-2">
+                {expert.expertise.primary.map((expertise, index) => (
+                  <div key={index} className="flex flex-col">
+                    <div className="group relative">
+                      <span className="px-3 py-1 bg-purple-900/30 text-purple-400 border border-purple-800/50 rounded-full text-sm flex items-center gap-2">
+                        {expertise}
+                        {expert.sources?.expertise?.[expertise]?.verified && (
+                          <i className="fas fa-check-circle text-green-400" title="Verifiziert"></i>
+                        )}
+                      </span>
+                      {expert.sources?.expertise?.[expertise] && (
+                        <div className="absolute bottom-full left-0 mb-2 w-64 bg-gray-800 p-2 rounded-lg text-xs opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
+                          <p className="text-gray-300">
+                            Quelle: {expert.sources.expertise[expertise].url ? (
+                              <a href={expert.sources.expertise[expertise].url} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
+                                {new URL(expert.sources.expertise[expertise].url).hostname}
+                              </a>
+                            ) : 'KI-basierte Extraktion'}
+                          </p>
+                          {expert.sources.expertise[expertise].last_checked && (
+                            <p className="text-gray-400">
+                              Zuletzt geprüft: {formatDate(expert.sources.expertise[expertise].last_checked)}
+                            </p>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Secondary Expertise */}
+          {expert.expertise?.secondary?.length > 0 && (
+            <div>
+              <h4 className="text-sm font-medium text-gray-400 mb-2">Sekundäre Expertise</h4>
+              <div className="flex flex-wrap gap-2">
+                {expert.expertise.secondary.map((expertise, index) => (
+                  <div key={index} className="flex flex-col">
+                    <div className="group relative">
+                      <span className="px-3 py-1 bg-green-900/30 text-green-400 border border-green-800/50 rounded-full text-sm flex items-center gap-2">
+                        {expertise}
+                        {expert.sources?.expertise?.[expertise]?.verified && (
+                          <i className="fas fa-check-circle text-green-400" title="Verifiziert"></i>
+                        )}
+                      </span>
+                      {expert.sources?.expertise?.[expertise] && (
+                        <div className="absolute bottom-full left-0 mb-2 w-64 bg-gray-800 p-2 rounded-lg text-xs opacity-0 group-hover:opacity-100 transition-opacity pointer-events-none">
+                          <p className="text-gray-300">
+                            Quelle: {expert.sources.expertise[expertise].url ? (
+                              <a href={expert.sources.expertise[expertise].url} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
+                                {new URL(expert.sources.expertise[expertise].url).hostname}
+                              </a>
+                            ) : 'KI-basierte Extraktion'}
+                          </p>
+                          {expert.sources.expertise[expertise].last_checked && (
+                            <p className="text-gray-400">
+                              Zuletzt geprüft: {formatDate(expert.sources.expertise[expertise].last_checked)}
+                            </p>
+                          )}
+                        </div>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Industries */}
+          {expert.expertise?.industries?.length > 0 && (
+            <div>
+              <h4 className="text-sm font-medium text-gray-400 mb-2">Branchen</h4>
+              <div className="flex flex-wrap gap-2">
+                {expert.expertise.industries.map((industry, index) => (
+                  <span key={index} className="px-3 py-1 bg-gray-800 text-gray-300 rounded-full text-sm">
+                    {industry}
+                  </span>
+                ))}
+              </div>
+            </div>
+          )}
+
+          {/* Show message if no skills are available */}
+          {!expert.skills?.length && 
+           !expert.expertise?.primary?.length && 
+           !expert.expertise?.secondary?.length && 
+           !expert.expertise?.industries?.length && (
+            <div className="text-gray-500 italic">
+              Keine Fähigkeiten angegeben
+            </div>
+          )}
+        </div>
+      );
+    } catch (error) {
+      console.error('Error rendering expertise section:', error);
+      return (
+        <div className="text-gray-500 italic">
+          Fehler beim Laden der Expertise
+        </div>
+      );
+    }
+  };
+
+  // Add this helper function near the other helper functions
+  const getDocumentIcon = (type) => {
+    const iconMap = {
+      'pdf': 'file-pdf',
+      'doc': 'file-word',
+      'docx': 'file-word',
+      'xls': 'file-excel',
+      'xlsx': 'file-excel',
+      'ppt': 'file-powerpoint',
+      'pptx': 'file-powerpoint',
+      'txt': 'file-alt',
+      'csv': 'file-csv',
+      'image': 'file-image',
+      'video': 'file-video',
+      'audio': 'file-audio'
+    };
+    return iconMap[type] || 'file';
+  };
+
+  // Add this helper function near the other helper functions
+  const formatKey = (key) => {
+    return key
+      .split('_')
+      .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+      .join(' ');
+  };
+
   return (
     <div className="fixed inset-0 bg-black/40 backdrop-blur-sm flex items-center justify-center z-50 p-4">
       <div className="bg-gradient-to-br from-gray-900 via-black to-gray-900 text-gray-100 rounded-xl p-6 max-w-4xl w-full max-h-[90vh] overflow-y-auto relative border border-gray-800 shadow-2xl backdrop-blur-md">
@@ -315,11 +692,11 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
           <div className="flex items-start gap-6 mb-6">
             <div className="w-32 h-32 rounded-lg overflow-hidden bg-gradient-to-br from-gray-800 to-gray-900 ring-1 ring-gray-700/50 shadow-lg relative">
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-purple-500/10"></div>
-                <img
-                src={expert.image_url || expert.personalInfo?.image || '/experts/default-avatar.png'}
-                  alt={getName()}
+              <img
+                src={expert.personalInfo?.image || '/experts/default-avatar.png'}
+                alt={expert.personalInfo?.fullName}
                 className="w-full h-full object-cover relative z-10"
-                  onError={(e) => {
+                onError={(e) => {
                   e.target.onerror = null;
                   e.target.src = '/experts/default-avatar.png';
                 }}
@@ -330,12 +707,12 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
               <div className="flex justify-between items-start">
                 <div>
                   <h2 className="text-2xl font-bold bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-                    {getName()}
+                    {expert.personalInfo?.fullName}
                   </h2>
                   <div className="text-gray-300/90 mt-1">
-                    <p className="font-medium">{getPosition()}</p>
-                    <p className="text-gray-400">{getOrganization()}</p>
-                    <p className="text-sm mt-1 text-gray-400">{getFachgebiet()}</p>
+                    <p className="font-medium">{expert.currentRole?.title}</p>
+                    <p className="text-gray-400">{expert.currentRole?.organization}</p>
+                    <p className="text-sm mt-1 text-gray-400">{expert.currentRole?.location}</p>
                   </div>
                 </div>
                 <button onClick={onClose} className="text-gray-400 hover:text-gray-200 transition-colors">
@@ -344,45 +721,45 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
               </div>
 
               <div className="flex gap-3 mt-4">
-            {!isEditing ? (
-              <>
-                <button
-                  onClick={() => setIsEditing(true)}
+                {!isEditing ? (
+                  <>
+                    <button
+                      onClick={() => setIsEditing(true)}
                       className="px-4 py-2 bg-gradient-to-r from-blue-900 to-blue-800 text-blue-100 rounded-lg hover:from-blue-800 hover:to-blue-700 transition-all duration-300 shadow-lg shadow-blue-900/20"
-                >
-                  <i className="fas fa-edit mr-2"></i>
-                  Bearbeiten
-                </button>
-                <button
-                  onClick={handleEnrichment}
+                    >
+                      <i className="fas fa-edit mr-2"></i>
+                      Bearbeiten
+                    </button>
+                    <button
+                      onClick={handleEnrichment}
                       className="px-4 py-2 bg-gradient-to-r from-green-900 to-green-800 text-green-100 rounded-lg hover:from-green-800 hover:to-green-700 transition-all duration-300 shadow-lg shadow-green-900/20"
-                >
-                  <i className="fas fa-magic mr-2"></i>
-                  KI-Anreicherung
-                </button>
-              </>
-            ) : (
-              <>
-                <button
-                  onClick={handleSave}
+                    >
+                      <i className="fas fa-magic mr-2"></i>
+                      KI-Anreicherung
+                    </button>
+                  </>
+                ) : (
+                  <>
+                    <button
+                      onClick={handleSave}
                       className="px-4 py-2 bg-gradient-to-r from-blue-600 to-blue-700 text-white rounded-lg hover:from-blue-700 hover:to-blue-800 transition-all duration-300 shadow-lg shadow-blue-600/20"
-                >
-                  <i className="fas fa-save mr-2"></i>
-                  Speichern
-                </button>
-                <button
-                  onClick={() => {
-                    setEditedExpert(expert);
-                    setIsEditing(false);
-                  }}
+                    >
+                      <i className="fas fa-save mr-2"></i>
+                      Speichern
+                    </button>
+                    <button
+                      onClick={() => {
+                        setEditedExpert(expert);
+                        setIsEditing(false);
+                      }}
                       className="px-4 py-2 bg-gradient-to-r from-gray-700 to-gray-800 text-gray-100 rounded-lg hover:from-gray-800 hover:to-gray-900 transition-all duration-300 shadow-lg shadow-gray-700/20"
-                >
-                  Abbrechen
-                </button>
-              </>
-            )}
-          </div>
-        </div>
+                    >
+                      Abbrechen
+                    </button>
+                  </>
+                )}
+              </div>
+            </div>
           </div>
         </div>
 
@@ -392,11 +769,11 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
             { id: 'expertise', label: 'Expertise' },
             { id: 'academic', label: 'Akademisch' },
             { id: 'professional', label: 'Beruflich' },
-            { id: 'projects', label: 'Projekte' },
             { id: 'contact', label: 'Kontakt' },
-            { id: 'sources', label: 'Quellen' }
+            { id: 'sources', label: 'Quellen' },
+            { id: 'documents', label: 'Dokumente' }
           ].map(tab => (
-          <button
+            <button
               key={tab.id}
               className={`px-3 py-2 text-sm whitespace-nowrap transition-colors ${
                 activeTab === tab.id 
@@ -406,58 +783,60 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
               onClick={() => setActiveTab(tab.id)}
             >
               {tab.label}
-          </button>
+            </button>
           ))}
         </div>
 
-          <div className="space-y-6">
+        <div className="space-y-6">
           {activeTab === 'info' && (
             <>
               <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="font-semibold mb-2 text-gray-100">Über</h3>
-                <p className="text-gray-300">{expert.description}</p>
-            </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="font-semibold mb-2 text-gray-100">Persönliche Informationen</h3>
+                <h3 className="font-semibold mb-4 text-gray-100">Persönliche Informationen</h3>
                 <div className="bg-gray-800 p-4 rounded-lg grid grid-cols-2 gap-4">
                   <div>
                     <p className="text-sm text-gray-400">Name</p>
-                    <p className="font-medium text-gray-100">{getName()}</p>
-                    {renderSourceInfo(expert.sources?.personal_info?.name)}
+                    <p className="font-medium text-gray-100">{expert.personalInfo?.fullName}</p>
+                    {renderDataSourceInfo(expert.sources?.personal_info?.name)}
                   </div>
                   <div>
-                    <p className="text-sm text-gray-400">Titel</p>
-                    <p className="font-medium text-gray-100">{expert.titel}</p>
-                    {renderSourceInfo(expert.sources?.personal_info?.titel)}
+                    <p className="text-sm text-gray-400">Position</p>
+                    <p className="font-medium text-gray-100">{expert.currentRole?.title}</p>
+                    {renderDataSourceInfo(expert.sources?.current_position)}
+                  </div>
+                  <div>
+                    <p className="text-sm text-gray-400">Unternehmen</p>
+                    <p className="font-medium text-gray-100">{expert.currentRole?.organization}</p>
+                    {renderDataSourceInfo(expert.sources?.current_position)}
                   </div>
                   <div>
                     <p className="text-sm text-gray-400">Standort</p>
-                    <p className="font-medium text-gray-100">{expert.standort}</p>
-                    {renderSourceInfo(expert.sources?.personal_info?.standort)}
+                    <p className="font-medium text-gray-100">{expert.personalInfo?.allData?.geoLocationName || expert.personalInfo?.allData?.geoCountryName}</p>
+                    {renderDataSourceInfo(expert.sources?.location)}
                   </div>
-                  {expert.nationality && (
+                  {expert.personalInfo?.languages?.length > 0 && (
+                    <div className="col-span-2">
+                      <p className="text-sm text-gray-400">Sprachen</p>
+                      <div className="flex flex-wrap gap-2 mt-1">
+                        {expert.personalInfo.languages.map((lang, index) => (
+                          <span key={index} className="px-3 py-1 bg-gray-700 rounded-full text-sm">
+                            {lang}
+                          </span>
+                        ))}
+                      </div>
+                    </div>
+                  )}
+                  {expert.personalInfo?.allData?.followersCount && (
                     <div>
-                      <p className="text-sm text-gray-400">Nationalität</p>
-                      <p className="font-medium text-gray-100">{expert.nationality}</p>
-                      {renderSourceInfo(expert.sources?.personal_info?.nationality)}
+                      <p className="text-sm text-gray-400">Follower</p>
+                      <p className="font-medium text-gray-100">{expert.personalInfo.allData.followersCount}</p>
                     </div>
                   )}
                 </div>
               </section>
 
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="font-semibold mb-2 text-gray-100">Sprachen</h3>
-                <div className="flex flex-wrap gap-2">
-                  {expert.languages?.map((lang, index) => (
-                    <div key={index}>
-                      <span className="px-3 py-1 bg-gray-800 rounded-full text-sm">
-                        {lang}
-                      </span>
-                      {renderSourceInfo(expert.sources?.personal_info?.languages)}
-                    </div>
-                  ))}
-                </div>
+              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg mt-4">
+                <h3 className="font-semibold mb-4 text-gray-100">Über</h3>
+                <p className="text-gray-300">{expert.personalInfo?.allData?.summary || expert.summary}</p>
               </section>
             </>
           )}
@@ -465,33 +844,96 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
           {activeTab === 'expertise' && (
             <>
               <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="font-semibold mb-2 text-gray-100">Fachgebiete</h3>
-                <div className="flex flex-wrap gap-2">
-                  {getExpertise().map((item, index) => (
-                    <div key={index} className="flex flex-col">
-                      <span className="px-3 py-1 bg-blue-800 text-blue-100 rounded-full text-sm">
-                          {item}
-                        {expert.expertise_sources?.[item] === 'human' && (
-                          <i className="fas fa-check-circle ml-1 text-green-400" title="Verifiziert"></i>
-                        )}
-                        </span>
-                      {renderSourceInfo(expert.sources?.expertise?.[item])}
-                    </div>
-                      ))}
-                    </div>
+                <h3 className="font-semibold mb-4 text-gray-100">Fähigkeiten</h3>
+                <div className="space-y-4">
+                  {renderExpertiseSection()}
+                </div>
               </section>
 
-              {expert.selectedPublications && (
-                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                  <h3 className="font-semibold mb-2 text-gray-100">Ausgewählte Publikationen</h3>
-                  <div className="space-y-3">
-                    {expert.selectedPublications.map((pub, index) => (
+              {/* Professional Memberships Section */}
+              {expert.professionalMemberships?.length > 0 && (
+                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg mt-4">
+                  <h3 className="font-semibold mb-4 text-gray-100">Professional Memberships</h3>
+                  <div className="space-y-4">
+                    {expert.professionalMemberships.map((membership, index) => (
                       <div key={index} className="bg-gray-800 p-4 rounded-lg">
-                        <p className="font-medium text-gray-100">{pub.title}</p>
-                        <p className="text-gray-300">{pub.journal || pub.publisher}</p>
-                        <p className="text-gray-400 text-sm">{pub.year}</p>
-                        {renderSourceInfo(expert.sources?.publications?.[pub.title.toLowerCase().replace(/ /g, '_')])}
+                        <h4 className="font-medium text-gray-200">{membership.organization}</h4>
+                        {membership.roles ? (
+                          <div className="space-y-2 mt-2">
+                            {membership.roles.map((role, roleIndex) => (
+                              <div key={roleIndex} className="text-gray-400">
+                                <span className="text-blue-400">{role.position}</span>
+                                {role.period && <span className="text-gray-500 ml-2">({role.period})</span>}
+                              </div>
+                            ))}
+                          </div>
+                        ) : (
+                          <div className="text-gray-400 mt-1">
+                            <span className="text-blue-400">{membership.role}</span>
+                            {membership.committee && (
+                              <p className="text-sm text-gray-500 mt-1">{membership.committee}</p>
+                            )}
+                            {membership.period && <span className="text-gray-500 ml-2">({membership.period})</span>}
+                          </div>
+                        )}
+                      </div>
+                    ))}
                   </div>
+                </section>
+              )}
+
+              {/* Recent Publications Section */}
+              {expert.publications?.length > 0 && (
+                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg mt-4">
+                  <h3 className="font-semibold mb-4 text-gray-100">Recent Publications</h3>
+                  <div className="space-y-4">
+                    {expert.publications.map((publication, index) => (
+                      <div key={index} className="bg-gray-800 p-4 rounded-lg">
+                        <h4 className="font-medium text-gray-200">{publication.title}</h4>
+                        <div className="mt-2 text-sm">
+                          {publication.journal && (
+                            <p className="text-blue-400">{publication.journal}</p>
+                          )}
+                          {publication.publisher && (
+                            <p className="text-blue-400">{publication.publisher}</p>
+                          )}
+                          {publication.year && (
+                            <p className="text-gray-500 mt-1">{publication.year}</p>
+                          )}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </section>
+              )}
+
+              {/* Awards Section */}
+              {expert.awards?.length > 0 && (
+                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg mt-4">
+                  <h3 className="font-semibold mb-4 text-gray-100">Awards & Recognition</h3>
+                  <div className="space-y-4">
+                    {expert.awards.map((award, index) => (
+                      <div key={index} className="bg-gray-800 p-4 rounded-lg">
+                        <div className="flex items-start gap-3">
+                          <div className="text-yellow-500 mt-1">
+                            <i className="fas fa-award"></i>
+                          </div>
+                          <div>
+                            <h4 className="font-medium text-gray-200">{award.name}</h4>
+                            <div className="mt-1 text-sm">
+                              {award.type && (
+                                <p className="text-gray-400">{award.type}</p>
+                              )}
+                              {award.institution && (
+                                <p className="text-blue-400">{award.institution}</p>
+                              )}
+                              {award.year && (
+                                <p className="text-gray-500 mt-1">{award.year}</p>
+                              )}
+                            </div>
+                          </div>
+                        </div>
+                      </div>
                     ))}
                   </div>
                 </section>
@@ -502,512 +944,314 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
           {activeTab === 'academic' && (
             <>
               <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="font-semibold mb-2 text-gray-100">Ausbildung</h3>
+                <h3 className="font-semibold mb-4 text-gray-100">Ausbildung</h3>
                 <div className="space-y-4">
-                  {getEducation().fields?.map((field, index) => (
-                    <div key={index}>
-                      <span className="px-3 py-1 bg-blue-800 text-blue-100 rounded-full text-sm">
-                        {field}
-                        </span>
-                      {renderSourceInfo(expert.sources?.academic_background?.fields?.[field])}
+                  {Array.isArray(expert.education) && expert.education.length > 0 ? (
+                    expert.education.map((edu, index) => (
+                      <div key={index} className="bg-gray-800 p-4 rounded-lg">
+                        <p className="font-medium text-gray-100">{edu.schoolName}</p>
+                        {edu.fieldOfStudy && <p className="text-gray-300">{edu.fieldOfStudy}</p>}
+                        {edu.degreeName && <p className="text-gray-300">{edu.degreeName}</p>}
+                        {edu.timePeriod && (
+                          <p className="text-gray-400 text-sm">
+                            {edu.timePeriod?.startDate?.year} - {edu.timePeriod?.endDate?.year || 'Present'}
+                          </p>
+                        )}
+                        {renderDataSourceInfo(expert.sources?.education?.[edu.schoolName])}
+                      </div>
+                    ))
+                  ) : (
+                    <div className="text-gray-500 italic">
+                      Keine Ausbildungsinformationen verfügbar
                     </div>
-                  ))}
-                  {getEducation().universities && (
-                    <div className="bg-gray-800 p-4 rounded-lg">
-                      <h4 className="font-medium mb-2 text-gray-100">Universitäten</h4>
-                      <div className="space-y-3">
-                        {getEducation().universities.map((uni, index) => (
-                          <div key={index} className="mb-2">
-                            <div className="text-gray-100">{uni}</div>
-                            {renderSourceInfo(expert.sources?.academic_background?.universities?.[uni.replace(/\s+/g, '_').toLowerCase()])}
-                          </div>
-                        ))}
-                    </div>
-                  </div>
-                )}
-                  {getEducation().degrees && (
-                    <div className="bg-gray-800 p-4 rounded-lg">
-                      <h4 className="font-medium mb-2 text-gray-100">Abschlüsse</h4>
-                      <ul className="list-disc list-inside space-y-1">
-                        {getEducation().degrees.map((degree, index) => (
-                          <li key={index} className="text-gray-100">{degree}</li>
-                        ))}
-                      </ul>
-                  </div>
-                )}
-              </div>
-            </section>
-
-              {expert.academicPositions?.map((position, index) => (
-                <div key={index} className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                  <p className="font-medium text-gray-100">{position.title}</p>
-                  <p className="text-gray-300">{position.institution}</p>
-                  <p className="text-gray-400 text-sm">{position.period}</p>
-                  {position.additionalRole && (
-                    <p className="text-gray-300 mt-1 italic">{position.additionalRole}</p>
                   )}
-                  {renderSourceInfo(expert.sources?.academic_positions?.[`${position.institution.replace(/\s+/g, '_')}_${position.title.split(' ')[0]}`])}
-                    </div>
-              ))}
+                </div>
+              </section>
+
+              {expert.certifications?.length > 0 && (
+                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg mt-4">
+                  <h3 className="font-semibold mb-4 text-gray-100">Zertifizierungen</h3>
+                  <div className="space-y-4">
+                    {expert.certifications.map((cert, index) => (
+                      <div key={index} className="bg-gray-800 p-4 rounded-lg">
+                        <p className="font-medium text-gray-100">{cert.name}</p>
+                        <p className="text-gray-300">{cert.authority}</p>
+                        {cert.timePeriod && (
+                          <p className="text-gray-400 text-sm">
+                            {cert.timePeriod?.startDate?.month}/{cert.timePeriod?.startDate?.year}
+                          </p>
+                        )}
+                      </div>
+                    ))}
+                  </div>
+                </section>
+              )}
             </>
           )}
 
           {activeTab === 'professional' && (
-            <>
-              {expert.professionalMemberships && (
-                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                  <h3 className="font-semibold mb-2 text-gray-100">Professionelle Mitgliedschaften</h3>
-                  <div className="space-y-4">
-                    {expert.professionalMemberships.map((membership, index) => (
-                      <div key={index} className="bg-gray-800 p-4 rounded-lg">
-                        <p className="font-medium text-gray-100">{membership.organization}</p>
-                        {membership.roles?.map((role, roleIndex) => (
-                          <div key={roleIndex} className="mt-2">
-                            <p className="text-gray-300">{role.position}</p>
-                            <p className="text-gray-400 text-sm">{role.period}</p>
-                    </div>
-                        ))}
-                        {membership.committee && (
-                          <p className="text-gray-300 mt-1 italic">{membership.committee}</p>
-                  )}
-                        {renderSourceInfo(expert.sources?.professionalMemberships?.[membership.organization.replace(/\s+/g, '_').toLowerCase()])}
-                </div>
-                    ))}
-                  </div>
-              </section>
-            )}
-
-              {expert.awards && (
-                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                  <h3 className="font-semibold mb-2 text-gray-100">Auszeichnungen</h3>
-                  <div className="space-y-3">
-                    {expert.awards.map((award, index) => (
-                      <div key={index} className="bg-gray-800 p-4 rounded-lg">
-                        <p className="font-medium text-gray-100">{award.name}</p>
-                        {award.type && <p className="text-gray-300">{award.type}</p>}
-                        {award.institution && <p className="text-gray-300">{award.institution}</p>}
-                        <p className="text-gray-400 text-sm">{award.year}</p>
-                        {renderSourceInfo(expert.sources?.awards?.[award.name.toLowerCase().replace(/ /g, '_')])}
+            <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
+              <h3 className="font-semibold mb-4 text-gray-100">Berufserfahrung</h3>
+              <div className="space-y-4">
+                {expert.experience?.map((exp, index) => {
+                  const companyName = typeof exp.company === 'object' ? exp.company.name : exp.companyName;
+                  const companyLogo = typeof exp.company === 'object' ? exp.company.logo : null;
+                  const companyIndustries = typeof exp.company === 'object' ? exp.company.industries : null;
+                  
+                  return (
+                    <div key={index} className="bg-gray-800 p-4 rounded-lg">
+                      <div className="flex items-start gap-4">
+                        {companyLogo && (
+                          <div className="w-12 h-12 flex-shrink-0">
+                            <img
+                              src={companyLogo}
+                              alt={`${companyName} logo`}
+                              className="w-full h-full object-contain rounded"
+                              onError={(e) => {
+                                e.target.style.display = 'none';
+                              }}
+                            />
+                          </div>
+                        )}
+                        <div className="flex-1">
+                          <p className="font-medium text-gray-100">{exp.title}</p>
+                          <p className="text-gray-300">{companyName}</p>
+                          {exp.locationName && <p className="text-gray-300">{exp.locationName}</p>}
+                          <p className="text-gray-400 text-sm">
+                            {exp.timePeriod?.startDate?.month ? `${exp.timePeriod.startDate.month}/` : ''}{exp.timePeriod?.startDate?.year} - 
+                            {exp.timePeriod?.endDate ? 
+                              `${exp.timePeriod.endDate.month ? `${exp.timePeriod.endDate.month}/` : ''}${exp.timePeriod.endDate.year}` : 
+                              'Present'}
+                          </p>
+                          {companyIndustries && (
+                            <div className="flex flex-wrap gap-1 mt-2">
+                              {companyIndustries.map((industry, i) => (
+                                <span key={i} className="px-2 py-0.5 bg-gray-700 rounded text-xs text-gray-300">
+                                  {industry}
+                                </span>
+                              ))}
+                            </div>
+                          )}
+                        </div>
                       </div>
-                    ))}
+                      {renderDataSourceInfo(expert.sources?.experience?.[companyName])}
+                    </div>
+                  );
+                })}
               </div>
-              </section>
-              )}
-            </>
+            </section>
           )}
 
-          {activeTab === 'projects' && (
-            <div className="space-y-6">
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Aktuelle Projekte</h3>
-                <div className="space-y-6">
-                  {/* Embedded Ethics Project */}
-                  <div className="bg-gray-800 p-6 rounded-lg">
-                    <div className="flex justify-between items-start mb-3">
-                      <h4 className="text-xl font-medium text-gray-100">Embedded Ethics Approach in AI Development</h4>
-                      <span className="px-3 py-1 bg-green-900/50 text-green-400 rounded-full text-sm">
-                        Laufend
-                      </span>
-                    </div>
-                    <div className="space-y-3">
-                      <div className="flex items-center text-sm text-gray-400">
-                        <i className="fas fa-calendar-alt mr-2"></i>
-                        <span>Initiiert: 2020</span>
-                      </div>
-                      <p className="text-gray-300">
-                        In Zusammenarbeit mit der Munich School of Robotics and Machine Intelligence (MSRM) und dem Munich Center for Technology in Society (MCTS) setzt sich Prof. Buyx für die Integration von Ethikern in AI-Entwicklungsteams von Beginn an ein. Dieser Ansatz stellt sicher, dass ethische Überlegungen während des gesamten Entwicklungsprozesses berücksichtigt werden.
-                      </p>
-                      <div className="flex items-center text-sm text-gray-400 mt-4">
-                        <i className="fas fa-link mr-2"></i>
-                        <a 
-                          href="https://nachrichten.idw-online.de" 
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          className="text-blue-400 hover:text-blue-300"
-                        >
-                          NACHRICHTEN.IDW-ONLINE.DE
-                        </a>
-          </div>
-                      {renderSourceInfo(expert.sources?.projects?.embedded_ethics)}
-                    </div>
-                  </div>
-
-                  {/* Swarm Learning Project */}
-                  <div className="bg-gray-800 p-6 rounded-lg">
-                    <div className="flex justify-between items-start mb-3">
-                      <h4 className="text-xl font-medium text-gray-100">Swarm Learning for Decentralized Data Analysis</h4>
-                      <span className="px-3 py-1 bg-green-900/50 text-green-400 rounded-full text-sm">
-                        Laufend
-                  </span>
-                    </div>
-                    <div className="space-y-3">
-                      <div className="flex items-center text-sm text-gray-400">
-                        <i className="fas fa-calendar-alt mr-2"></i>
-                        <span>Initiiert: 2024</span>
-                      </div>
-                      <p className="text-gray-300">
-                        Prof. Buyx ist Teil eines Konsortiums, das "Swarm Learning", eine neuartige KI-Technologie, einsetzt, um dezentrale Daten zu COVID-19 zu analysieren. Dieses Projekt zielt darauf ab, das Verständnis der Immunantwort auf das Virus zu verbessern und dabei die Datenschutzanforderungen einzuhalten.
-                      </p>
-                      <div className="flex items-center text-sm text-gray-400 mt-4">
-                        <i className="fas fa-link mr-2"></i>
-                        <a 
-                          href="https://www.dzne.de" 
-                          target="_blank" 
-                          rel="noopener noreferrer"
-                          className="text-blue-400 hover:text-blue-300"
-                        >
-                          DZNE.DE
-                        </a>
-                      </div>
-                      {renderSourceInfo(expert.sources?.projects?.swarm_learning)}
-                    </div>
-                  </div>
-              </div>
-            </section>
-          </div>
-        )}
-
-        {activeTab === 'contact' && (
+          {activeTab === 'contact' && (
             <>
               <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="font-semibold mb-2 text-gray-100">Kontaktdaten</h3>
+                <h3 className="font-semibold mb-4 text-gray-100">Kontaktinformationen</h3>
                 <div className="bg-gray-800 p-4 rounded-lg space-y-3">
-                {getContact().email && (
-                    <div>
-                  <div className="flex items-center gap-2">
-                    <i className="fas fa-envelope text-gray-400"></i>
-                        <a href={`mailto:${getContact().email}`} className="text-blue-400 hover:underline">
-                      {getContact().email}
-                    </a>
-                      </div>
-                      {renderSourceInfo(expert.sources?.contact_info?.email)}
-                  </div>
-                )}
-                {getContact().phone && (
-                    <div>
-                  <div className="flex items-center gap-2">
-                    <i className="fas fa-phone text-gray-400"></i>
-                        <a href={`tel:${getContact().phone}`} className="text-blue-400 hover:underline">
-                      {getContact().phone}
-                    </a>
-                      </div>
-                      {renderSourceInfo(expert.sources?.contact_info?.phone)}
+                  {expert.personalInfo?.email && expert.personalInfo.email !== '-' && (
+                    <div className="flex items-center gap-2">
+                      <i className="fas fa-envelope text-gray-400"></i>
+                      <a href={`mailto:${expert.personalInfo.email}`} className="text-blue-400 hover:underline">
+                        {expert.personalInfo.email}
+                      </a>
                     </div>
                   )}
-                  {getContact().website && (
+                  {expert.personalInfo?.phone && expert.personalInfo.phone !== '-' && (
+                    <div className="flex items-center gap-2">
+                      <i className="fas fa-phone text-gray-400"></i>
+                      <a href={`tel:${expert.personalInfo.phone}`} className="text-blue-400 hover:underline">
+                        {expert.personalInfo.phone}
+                      </a>
+                    </div>
+                  )}
+                  {expert.institution?.website && (
                     <div className="flex items-center gap-2">
                       <i className="fas fa-globe text-gray-400"></i>
-                      <a href={getContact().website} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
+                      <a href={expert.institution.website} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
                         Website
                       </a>
-                  </div>
-                )}
-              </div>
-            </section>
-
-              {getContact().address && (
-                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                  <h3 className="font-semibold mb-2 text-gray-100">Adresse</h3>
-                  <div className="bg-gray-800 p-4 rounded-lg">
-                    <div>
-                      <p>{getContact().address.institution}</p>
-                      <p>{getContact().address.department}</p>
-                      <p>{getContact().address.country}</p>
-                  </div>
-                    {renderSourceInfo(expert.sources?.contact_info?.address)}
-                  </div>
-                </section>
-              )}
-
-              {getContact().officeHours && (
-                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                  <h3 className="font-semibold mb-2 text-gray-100">Sprechzeiten</h3>
-                  <div className="bg-gray-800 p-4 rounded-lg">
-                    <div>
-                      {Object.entries(getContact().officeHours).map(([day, hours]) => (
-                        <div key={day} className="flex justify-between">
-                          <span className="capitalize">{day}:</span>
-                          <span>{hours}</span>
                     </div>
-                      ))}
-                    </div>
-                    {renderSourceInfo(expert.sources?.contact_info?.office_hours)}
-                  </div>
-                </section>
-              )}
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="font-semibold mb-2 text-gray-100">Social Media</h3>
-                <div className="space-y-2">
-                  {Object.entries(getSocialMedia()).map(([platform, url]) => {
-                    if (!url) return null;
-                    const icon = {
-                      linkedin: 'fab fa-linkedin',
-                      twitter: 'fab fa-twitter',
-                      researchgate: 'fab fa-researchgate'
-                    }[platform];
-                    
-                    return (
-                      <div key={platform}>
-                  <div className="flex items-center gap-2">
-                          <i className={`${icon} text-gray-400`}></i>
-                          <a href={url} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
-                            {platform.charAt(0).toUpperCase() + platform.slice(1)}
-                    </a>
+                  )}
                 </div>
-                        {renderSourceInfo(expert.sources?.social_media?.[platform])}
-              </div>
-                    );
-                  })}
-          </div>
+              </section>
+
+              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg mt-4">
+                <h3 className="font-semibold mb-4 text-gray-100">Social Media</h3>
+                <div className="space-y-2">
+                  {expert.profiles?.linkedin && (
+                    <div className="flex items-center gap-2">
+                      <i className="fab fa-linkedin text-gray-400"></i>
+                      <a href={expert.profiles.linkedin} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
+                        LinkedIn Profile
+                      </a>
+                    </div>
+                  )}
+                  {expert.profiles?.company && (
+                    <div className="flex items-center gap-2">
+                      <i className="fas fa-building text-gray-400"></i>
+                      <a href={expert.profiles.company} target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">
+                        Company Profile
+                      </a>
+                    </div>
+                  )}
+                </div>
               </section>
             </>
           )}
 
           {activeTab === 'sources' && (
-            <div className="space-y-8">
+            <>
               <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Datenquellen-Übersicht</h3>
-                <div className="bg-gray-800 p-4 rounded-lg">
-                  <div className="flex items-center justify-between mb-2">
-                    <h4 className="text-sm font-medium text-gray-300">Verteilung der Datenquellen</h4>
-                    <span className="text-xs text-gray-400">
-                      Gesamt: {calculateDataSourceStats(expert).total} Datenpunkte
-                    </span>
-                  </div>
-                  <div className="relative h-4 bg-gray-700 rounded-full overflow-hidden">
-                    <div 
-                      className="absolute left-0 top-0 h-full bg-blue-600 transition-all duration-500"
-                      style={{ width: `${calculateDataSourceStats(expert).human}%` }}
-                    />
-                    <div 
-                      className="absolute right-0 top-0 h-full bg-green-600 transition-all duration-500"
-                      style={{ width: `${calculateDataSourceStats(expert).ai}%` }}
-                    />
-                  </div>
-                  <div className="flex justify-between mt-2 text-xs">
-                    <div className="flex items-center">
-                      <div className="w-3 h-3 rounded-full bg-blue-600 mr-2"></div>
-                      <span className="text-gray-300">
-                        Manuell verifiziert ({calculateDataSourceStats(expert).human}%)
-                      </span>
+                <h3 className="font-semibold mb-4 text-gray-100">Datenquellen</h3>
+                <div className="space-y-4">
+                  {/* LinkedIn Data */}
+                  {expert.profiles?.linkedin && (
+                    <div className="bg-gray-800 p-4 rounded-lg">
+                      <h4 className="text-sm font-medium text-blue-400 mb-2">
+                        <i className="fab fa-linkedin mr-2"></i>LinkedIn
+                      </h4>
+                      <a 
+                        href={expert.profiles.linkedin}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-gray-300 hover:text-blue-400 transition-colors"
+                      >
+                        {expert.profiles.linkedin}
+                      </a>
+                      <div className="text-xs text-gray-500 mt-1">
+                        Zuletzt aktualisiert: {new Date(expert.lastEnriched).toLocaleDateString('de-DE')}
+                      </div>
                     </div>
-                    <div className="flex items-center">
-                      <div className="w-3 h-3 rounded-full bg-green-600 mr-2"></div>
-                      <span className="text-gray-300">
-                        KI-generiert ({calculateDataSourceStats(expert).ai}%)
-                      </span>
+                  )}
+
+                  {/* Company Website */}
+                  {expert.profiles?.company && (
+                    <div className="bg-gray-800 p-4 rounded-lg">
+                      <h4 className="text-sm font-medium text-blue-400 mb-2">
+                        <i className="fas fa-building mr-2"></i>Unternehmenswebsite
+                      </h4>
+                      <a 
+                        href={expert.profiles.company}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-gray-300 hover:text-blue-400 transition-colors"
+                      >
+                        {expert.profiles.company}
+                      </a>
+                    </div>
+                  )}
+
+                  {/* Additional Sources */}
+                  {expert.sources && Object.entries(expert.sources).map(([key, source], index) => (
+                    <div key={index} className="bg-gray-800 p-4 rounded-lg">
+                      <h4 className="text-sm font-medium text-blue-400 mb-2">
+                        <i className="fas fa-link mr-2"></i>{formatKey(key)}
+                      </h4>
+                      {typeof source === 'object' && Object.entries(source).map(([subKey, subSource], subIndex) => (
+                        <div key={subIndex} className="mb-2">
+                          <div className="text-gray-400 text-sm">{formatKey(subKey)}:</div>
+                          {subSource.url && (
+                            <a 
+                              href={subSource.url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-gray-300 hover:text-blue-400 transition-colors block ml-4"
+                            >
+                              {subSource.url}
+                            </a>
+                          )}
+                          <div className="text-xs text-gray-500 ml-4">
+                            Status: {subSource.verified ? 'Verifiziert' : 'Nicht verifiziert'}
+                            {subSource.last_checked && ` • Zuletzt geprüft: ${new Date(subSource.last_checked).toLocaleDateString('de-DE')}`}
+                          </div>
+                        </div>
+                      ))}
+                    </div>
+                  ))}
+                </div>
+
+                {/* Data Quality Stats */}
+                <div className="mt-6 bg-gray-800/50 p-4 rounded-lg">
+                  <h4 className="text-sm font-medium text-gray-300 mb-3">Datenqualität</h4>
+                  <div className="flex gap-4">
+                    <div className="flex-1">
+                      <div className="h-2 bg-gray-700 rounded-full overflow-hidden">
+                        <div 
+                          className="h-full bg-gradient-to-r from-blue-500 to-purple-500" 
+                          style={{ width: `${calculateDataSourceStats(expert).human}%` }}
+                        ></div>
+                      </div>
+                      <div className="flex justify-between text-xs text-gray-400 mt-1">
+                        <span>{calculateDataSourceStats(expert).human}% Manuell verifiziert</span>
+                        <span>{calculateDataSourceStats(expert).ai}% KI-basiert</span>
+                      </div>
                     </div>
                   </div>
-                  <div className="mt-3 text-xs text-gray-400">
-                    <p className="flex items-center">
-                      <i className="fas fa-info-circle mr-2"></i>
-                      Letzte Aktualisierung: {new Date(expert.last_updated || expert.letzte_aktualisierung).toLocaleDateString('de-DE')}
-                    </p>
-                    {expert.data_quality && (
-                      <p className="flex items-center mt-1">
-                        <i className="fas fa-chart-line mr-2"></i>
-                        Datenqualität: {(expert.data_quality.completeness * 100).toFixed(0)}% vollständig
-            </p>
+                </div>
+              </section>
+            </>
           )}
-                  </div>
-                </div>
-        </section>
 
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Persönliche Informationen</h3>
-                <div className="space-y-3">
-                  {Object.entries(expert.sources?.personal_info || {}).map(([key, source]) => (
-                    <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                      <p className="font-medium capitalize text-gray-100">{key.replace(/_/g, ' ')}</p>
-                      {renderSourceInfo(source)}
-                  </div>
-                ))}
-              </div>
+          {activeTab === 'documents' && (
+            <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
+              <h3 className="font-semibold mb-4 text-gray-100">Dokumente</h3>
+              {expert.documents?.length > 0 ? (
+                <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+                  {expert.documents.map((doc, index) => (
+                    <div key={index} className="bg-gray-800 p-4 rounded-lg flex items-start gap-3">
+                      <div className="w-10 h-10 flex-shrink-0 bg-gray-700 rounded flex items-center justify-center">
+                        <i className={`fas fa-${getDocumentIcon(doc.type)} text-gray-400`}></i>
+                      </div>
+                      <div className="flex-1 min-w-0">
+                        <h4 className="font-medium text-gray-200 truncate">{doc.title || doc.filename}</h4>
+                        <p className="text-sm text-gray-400 truncate">{doc.description}</p>
+                        <div className="flex items-center gap-2 mt-2">
+                          <a 
+                            href={doc.url}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                            className="text-xs bg-gray-700 hover:bg-gray-600 text-gray-200 px-3 py-1 rounded-full transition-colors"
+                          >
+                            <i className="fas fa-external-link-alt mr-1"></i>
+                            Öffnen
+                          </a>
+                          <span className="text-xs text-gray-500">
+                            {new Date(doc.uploaded_at).toLocaleDateString('de-DE')}
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ) : (
+                <div className="text-gray-500 italic text-center py-8">
+                  <i className="fas fa-folder-open text-4xl mb-3 block"></i>
+                  Keine Dokumente verfügbar
+                </div>
+              )}
             </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Expertise & Fachgebiete</h3>
-                <div className="space-y-3">
-                  {Object.entries(expert.sources?.expertise || {}).map(([key, source]) => (
-                    <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                      <p className="font-medium text-gray-100">{key}</p>
-                      {renderSourceInfo(source)}
-          </div>
-                  ))}
-                </div>
-              </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Akademischer Hintergrund</h3>
-                <div className="space-y-6">
-                  <div>
-                    <h4 className="font-medium mb-2 text-gray-100">Fachgebiete</h4>
-                    <div className="space-y-3">
-                      {Object.entries(expert.sources?.academic_background?.fields || {}).map(([key, source]) => (
-                        <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                          <p className="font-medium text-gray-100">{key}</p>
-                          {renderSourceInfo(source)}
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-
-                  <div>
-                    <h4 className="font-medium mb-2 text-gray-100">Universitäten</h4>
-                    <div className="space-y-3">
-                      {Object.entries(expert.sources?.academic_background?.universities || {}).map(([key, source]) => (
-                        <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                          <p className="font-medium text-gray-100">{key.replace(/_/g, ' ')}</p>
-                          {renderSourceInfo(source)}
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-
-                  <div>
-                    <h4 className="font-medium mb-2 text-gray-100">Abschlüsse</h4>
-                    <div className="space-y-3">
-                      {Object.entries(expert.sources?.academic_background?.degrees || {}).map(([key, source]) => (
-                        <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                          <p className="font-medium text-gray-100">{key.replace(/_/g, ' ')}</p>
-                          {renderSourceInfo(source)}
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                </div>
-              </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Akademische Positionen</h3>
-                <div className="space-y-3">
-                  {Object.entries(expert.sources?.academic_positions || {}).map(([key, source]) => (
-                    <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                      <p className="font-medium text-gray-100">{key.replace(/_/g, ' ')}</p>
-                      {renderSourceInfo(source)}
-                    </div>
-                  ))}
-                </div>
-              </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Berufliche Erfahrung</h3>
-                <div className="space-y-3">
-                  {Object.entries(expert.sources?.professional_experience || {}).map(([key, source]) => (
-                    <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                      <p className="font-medium text-gray-100">{key.replace(/_/g, ' ')}</p>
-                      {renderSourceInfo(source)}
-                    </div>
-                  ))}
-                </div>
-              </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Publikationen</h3>
-                <div className="space-y-3">
-                  {Object.entries(expert.sources?.publications || {}).map(([key, source]) => (
-                    <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                      <p className="font-medium text-gray-100">{key.replace(/_/g, ' ')}</p>
-                      {renderSourceInfo(source)}
-                      {source.doi && (
-                        <p className="text-sm text-gray-400 mt-1">DOI: {source.doi}</p>
-        )}
-      </div>
-                  ))}
-                </div>
-              </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Professionelle Mitgliedschaften</h3>
-                <div className="space-y-3">
-                  {Object.entries(expert.sources?.professionalMemberships || {}).map(([key, source]) => (
-                    <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                      <p className="font-medium text-gray-100">{key.replace(/_/g, ' ')}</p>
-                      {renderSourceInfo(source)}
-                    </div>
-                  ))}
-                </div>
-              </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Auszeichnungen</h3>
-                <div className="space-y-3">
-                  {Object.entries(expert.sources?.awards || {}).map(([key, source]) => (
-                    <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                      <p className="font-medium text-gray-100">{key.replace(/_/g, ' ')}</p>
-                      {renderSourceInfo(source)}
-                    </div>
-                  ))}
-                </div>
-              </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Kontaktinformationen</h3>
-                <div className="space-y-3">
-                  {Object.entries(expert.sources?.contact_info || {}).map(([key, source]) => (
-                    <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                      <p className="font-medium capitalize text-gray-100">{key.replace(/_/g, ' ')}</p>
-                      {renderSourceInfo(source)}
-                    </div>
-                  ))}
-                </div>
-              </section>
-
-              <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                <h3 className="text-lg font-semibold mb-4 text-gray-100">Social Media</h3>
-                <div className="space-y-3">
-                  {Object.entries(expert.sources?.social_media || {}).map(([key, source]) => (
-                    <div key={key} className="bg-gray-800 p-4 rounded-lg">
-                      <p className="font-medium capitalize text-gray-100">{key}</p>
-                      {renderSourceInfo(source)}
-                    </div>
-                  ))}
-                </div>
-              </section>
-
-              {expert.sources?.image && (
-                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                  <h3 className="text-lg font-semibold mb-4 text-gray-100">Bild</h3>
-                  <div className="bg-gray-800 p-4 rounded-lg">
-                    {renderSourceInfo(expert.sources.image)}
-                    {expert.sources.image.license && (
-                      <p className="text-sm text-gray-400 mt-1">
-                        Lizenz: {expert.sources.image.license}
-                        {expert.sources.image.author && ` | Autor: ${expert.sources.image.author}`}
-                      </p>
-                    )}
-                  </div>
-                </section>
-              )}
-
-              {expert.data_quality && (
-                <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
-                  <h3 className="text-lg font-semibold mb-4 text-gray-100">Datenqualität</h3>
-                  <div className="bg-gray-800 p-4 rounded-lg">
-                    <p><span className="font-medium text-gray-100">Vollständigkeit:</span> {(expert.data_quality.completeness * 100).toFixed(0)}%</p>
-                    <p><span className="font-medium text-gray-100">Verifizierungslevel:</span> {expert.data_quality.verification_level}</p>
-                    <p><span className="font-medium text-gray-100">Letzte Vollprüfung:</span> {new Date(expert.data_quality.last_full_verification).toLocaleDateString('de-DE')}</p>
-                    <p><span className="font-medium text-gray-100">Verifizierungsmethode:</span> {expert.data_quality.verification_method}</p>
-                    {expert.data_quality.missing_fields?.length > 0 && (
-                      <p><span className="font-medium text-gray-100">Fehlende Felder:</span> {expert.data_quality.missing_fields.join(', ')}</p>
-                    )}
-                  </div>
-                </section>
-              )}
-            </div>
           )}
         </div>
 
         <div className="mt-6 pt-6 border-t border-gray-800/50">
           <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
             <h3 className="font-semibold mb-2 text-gray-100">Quellen & Verifizierung</h3>
-            <div className="text-sm text-gray-400">
-              <p>Verifizierungsstatus: {expert.verified ? 'Verifiziert' : 'Nicht verifiziert'}</p>
-              {expert.verification_source && (
-                <p>Verifizierungsquelle: {expert.verification_source}</p>
-              )}
-              <p>Letzte Aktualisierung: {new Date(expert.last_updated || expert.letzte_aktualisierung).toLocaleDateString('de-DE')}</p>
+            <div className="space-y-2">
+              <div className="text-sm text-gray-400">
+                <p>Verifizierungsstatus: {expert.verified ? 'Verifiziert' : 'Nicht verifiziert'}</p>
+                <p>Letzte Aktualisierung: {formatDate(expert.last_updated || expert.lastEnriched)}</p>
+              </div>
+              <div className="mt-4">
+                <div className="h-2 bg-gray-700 rounded-full overflow-hidden">
+                  <div 
+                    className="h-full bg-gradient-to-r from-blue-500 to-purple-500" 
+                    style={{ width: `${calculateDataSourceStats(expert).human}%` }}
+                  ></div>
+                </div>
+                <div className="flex justify-between text-xs text-gray-400 mt-1">
+                  <span>{calculateDataSourceStats(expert).human}% Manuell verifiziert</span>
+                  <span>{calculateDataSourceStats(expert).ai}% KI-basiert</span>
+                </div>
+              </div>
             </div>
           </section>
         </div>
@@ -1015,7 +1259,7 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
 
       {showCompanyDetails && (
         <CompanyDetailsPopup
-          companyId={expert.company.id}
+          companyId={expert.company?.id}
           onClose={() => setShowCompanyDetails(false)}
         />
       )}

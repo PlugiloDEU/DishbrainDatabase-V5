@@ -1,0 +1,453 @@
+{
+    "id": "exp603368917",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Aidan",
+        "lastName": "Gomez",
+        "fullName": "Aidan Gomez",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQF27IrXeHKsDw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1698362453815?e=1745452800&v=beta&t=AG684OKsMk6r-TSl2wUIhNpx0SlnY5Y_U-Lz-ik5kxg",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "603368917",
+            "profileId": "ACoAACP2rdUBd2gT0JPrTy7m8wId654h_QXbx3w",
+            "firstName": "Aidan",
+            "lastName": "Gomez",
+            "occupation": "Growth Strategy Analyst at TelevisaUnivision",
+            "publicIdentifier": "aidan-gomez-9b109714a",
+            "trackingId": "tUhXCPcwSxucgrXcIwpltA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQF27IrXeHKsDw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1698362453815?e=1745452800&v=beta&t=AG684OKsMk6r-TSl2wUIhNpx0SlnY5Y_U-Lz-ik5kxg",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQFjnUlmPxaqWw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1634333914820?e=1745452800&v=beta&t=K6jIA39zjwkJ8jTXK-x-nmgupIBcg2n2rTdFXCypuKA",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103644278",
+            "positions": [
+                {
+                    "title": "Growth Strategy Analyst",
+                    "locationName": "Los Angeles Metropolitan Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Entertainment"
+                        ],
+                        "objectUrn": "urn:li:company:78750969",
+                        "entityUrn": "urn:li:fs_miniCompany:78750969",
+                        "name": "TelevisaUnivision",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFna2nTdNkFQw/company-logo_200_200/company-logo_200_200/0/1729087364054/televisaunivision_logo?e=1747872000&v=beta&t=ccigIwbcQ6OG60qprEtcHGe2M-H0BngK_GbB66a928Y",
+                        "universalName": "televisaunivision",
+                        "dashCompanyUrn": "urn:li:fsd_company:78750969",
+                        "trackingId": "vG4jFnQUQle8pQZ/FX8EFw=="
+                    },
+                    "companyName": "TelevisaUnivision"
+                },
+                {
+                    "title": "Sales Coordinator",
+                    "locationName": "Los Angeles, California, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Entertainment"
+                        ],
+                        "objectUrn": "urn:li:company:78750969",
+                        "entityUrn": "urn:li:fs_miniCompany:78750969",
+                        "name": "TelevisaUnivision",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFna2nTdNkFQw/company-logo_200_200/company-logo_200_200/0/1729087364054/televisaunivision_logo?e=1747872000&v=beta&t=ccigIwbcQ6OG60qprEtcHGe2M-H0BngK_GbB66a928Y",
+                        "universalName": "televisaunivision",
+                        "dashCompanyUrn": "urn:li:fsd_company:78750969",
+                        "trackingId": "dz+lNl9UT6CHpqBazQ1Qpw=="
+                    },
+                    "companyName": "TelevisaUnivision"
+                },
+                {
+                    "title": "Salesperson",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Retail"
+                        ],
+                        "objectUrn": "urn:li:company:3379",
+                        "entityUrn": "urn:li:fs_miniCompany:3379",
+                        "name": "Nordstrom",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFmI0mWPUJdw/company-logo_200_200/company-logo_200_200/0/1666026884352/nordstrom_logo?e=1747872000&v=beta&t=sYiwa3bSEe9tN2kceziiM75cUn9QBkHr82uehe4iTQo",
+                        "universalName": "nordstrom",
+                        "dashCompanyUrn": "urn:li:fsd_company:3379",
+                        "trackingId": "tcx5PHeiTjms2WP0geS/Xg=="
+                    },
+                    "companyName": "Nordstrom"
+                },
+                {
+                    "title": "Intern",
+                    "locationName": "Los Angeles Metropolitan Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "FiveStar Concerts"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Fundamentals of Cross-Platform Media",
+                    "schoolName": "UCLA Extension",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor's degree",
+                    "fieldOfStudy": "Marketing",
+                    "schoolName": "California State University-Los Angeles",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "degreeName": "High School Diploma",
+                    "schoolName": "Bishop Montgomery High School",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2012
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Hootsuite Platform Certification",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Hootsuite"
+                },
+                {
+                    "name": "Foundations of Digital Marketing and E-commerce",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "Google"
+                },
+                {
+                    "name": "IAB Digital Media Sales Certification Course Prep",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "IAB"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Digital Strategy",
+                "Digital Sales",
+                "Salesforce.com",
+                "Operations"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Growth Strategy Analyst at TelevisaUnivision",
+            "summary": "An experienced client partnerships coordinator with a history of working in the media industry. Skilled in storytelling, curating ideas, Microsoft Excel, Word, and PowerPoint.  3 years of experience in sales. Graduated from the California State University of Los Angeles.",
+            "student": false,
+            "industryName": "Marketing & Advertising",
+            "industryUrn": "urn:li:fs_industry:80",
+            "geoCountryName": "United States",
+            "jobTitle": "Growth Strategy Analyst",
+            "companyName": "TelevisaUnivision",
+            "companyPublicId": "televisaunivision",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/televisaunivision",
+            "following": false,
+            "followable": true,
+            "followersCount": 717,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "TelevisaUnivision",
+        "position": "Growth Strategy Analyst",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Entertainment"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Growth Strategy Analyst",
+        "organization": "TelevisaUnivision",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/aidan-gomez-9b109714a/",
+        "company": "https://www.linkedin.com/company/televisaunivision"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Growth Strategy Analyst",
+            "locationName": "Los Angeles Metropolitan Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Entertainment"
+                ],
+                "objectUrn": "urn:li:company:78750969",
+                "entityUrn": "urn:li:fs_miniCompany:78750969",
+                "name": "TelevisaUnivision",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFna2nTdNkFQw/company-logo_200_200/company-logo_200_200/0/1729087364054/televisaunivision_logo?e=1747872000&v=beta&t=ccigIwbcQ6OG60qprEtcHGe2M-H0BngK_GbB66a928Y",
+                "universalName": "televisaunivision",
+                "dashCompanyUrn": "urn:li:fsd_company:78750969",
+                "trackingId": "vG4jFnQUQle8pQZ/FX8EFw=="
+            },
+            "companyName": "TelevisaUnivision"
+        },
+        {
+            "title": "Sales Coordinator",
+            "locationName": "Los Angeles, California, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Entertainment"
+                ],
+                "objectUrn": "urn:li:company:78750969",
+                "entityUrn": "urn:li:fs_miniCompany:78750969",
+                "name": "TelevisaUnivision",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFna2nTdNkFQw/company-logo_200_200/company-logo_200_200/0/1729087364054/televisaunivision_logo?e=1747872000&v=beta&t=ccigIwbcQ6OG60qprEtcHGe2M-H0BngK_GbB66a928Y",
+                "universalName": "televisaunivision",
+                "dashCompanyUrn": "urn:li:fsd_company:78750969",
+                "trackingId": "dz+lNl9UT6CHpqBazQ1Qpw=="
+            },
+            "companyName": "TelevisaUnivision"
+        },
+        {
+            "title": "Salesperson",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Retail"
+                ],
+                "objectUrn": "urn:li:company:3379",
+                "entityUrn": "urn:li:fs_miniCompany:3379",
+                "name": "Nordstrom",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFmI0mWPUJdw/company-logo_200_200/company-logo_200_200/0/1666026884352/nordstrom_logo?e=1747872000&v=beta&t=sYiwa3bSEe9tN2kceziiM75cUn9QBkHr82uehe4iTQo",
+                "universalName": "nordstrom",
+                "dashCompanyUrn": "urn:li:fsd_company:3379",
+                "trackingId": "tcx5PHeiTjms2WP0geS/Xg=="
+            },
+            "companyName": "Nordstrom"
+        },
+        {
+            "title": "Intern",
+            "locationName": "Los Angeles Metropolitan Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "companyName": "FiveStar Concerts"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Fundamentals of Cross-Platform Media",
+            "schoolName": "UCLA Extension",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor's degree",
+            "fieldOfStudy": "Marketing",
+            "schoolName": "California State University-Los Angeles",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "degreeName": "High School Diploma",
+            "schoolName": "Bishop Montgomery High School",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2012
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Hootsuite Platform Certification",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2019
+                }
+            },
+            "authority": "Hootsuite"
+        },
+        {
+            "name": "Foundations of Digital Marketing and E-commerce",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2024
+                }
+            },
+            "authority": "Google"
+        },
+        {
+            "name": "IAB Digital Media Sales Certification Course Prep",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "authority": "IAB"
+        }
+    ],
+    "skills": [
+        "Digital Strategy",
+        "Digital Sales",
+        "Salesforce.com",
+        "Operations"
+    ],
+    "lastEnriched": "2025-02-17"
+}

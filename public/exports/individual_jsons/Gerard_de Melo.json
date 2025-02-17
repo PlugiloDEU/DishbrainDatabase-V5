@@ -1,0 +1,496 @@
+{
+    "id": "exp16779253",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Gerard",
+        "lastName": "de Melo",
+        "fullName": "Gerard de Melo",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQGNe7vJxaRfVA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728739860993?e=1745452800&v=beta&t=rDCl62Xqjg-msR_pQXDjSHf6FhFerKis05pnYrjwKqU",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Chinese",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "16779253",
+            "profileId": "ACoAAAEAB_UBylAIEHTtKhHfafNPIJD7RV6rU_E",
+            "firstName": "Gerard",
+            "lastName": "de Melo",
+            "occupation": "Professor for Artificial Intelligence at HPI, University of Potsdam",
+            "publicIdentifier": "gdemelo",
+            "trackingId": "z4lRnrWOTc6JXQQ6TIJr8g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGNe7vJxaRfVA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728739860993?e=1745452800&v=beta&t=rDCl62Xqjg-msR_pQXDjSHf6FhFerKis05pnYrjwKqU",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQHwvPLom1fRjw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1591886810152?e=1745452800&v=beta&t=LZfYqUY1AzI28rFVxzUDd57squ5lbcOagZI6ROIz0YE",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009712",
+            "positions": [
+                {
+                    "title": "Full Professor",
+                    "locationName": "Potsdam, Brandenburg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:258692",
+                        "entityUrn": "urn:li:fs_miniCompany:258692",
+                        "name": "Hasso Plattner Institute",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVJMqbSVkv2w/company-logo_200_200/company-logo_200_200/0/1730820443292/hasso_plattner_institute_logo?e=1747872000&v=beta&t=JTWbNC2ZCF01AkZ4TvFqfpxOgA2KFKSfdE9lE6xc1_Y",
+                        "universalName": "hasso-plattner-institute",
+                        "dashCompanyUrn": "urn:li:fsd_company:258692",
+                        "trackingId": "Ij1yqbHLRlqvPZeU+RpJ1w=="
+                    },
+                    "companyName": "Hasso Plattner Institute"
+                },
+                {
+                    "title": "Full Professor",
+                    "locationName": "Potsdam, Brandenburg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:30760",
+                        "entityUrn": "urn:li:fs_miniCompany:30760",
+                        "name": "University of Potsdam",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFN8xCiw0bmFg/company-logo_200_200/company-logo_200_200/0/1641306468029/university_of_potsdam_logo?e=1747872000&v=beta&t=V1kHVstNrkB158KhvNgiKhtVIh3ReuO4_GIw3uuVBCI",
+                        "universalName": "university-of-potsdam",
+                        "dashCompanyUrn": "urn:li:fsd_company:30760",
+                        "trackingId": "6YQy+ZfzTjS0GVruLgmU0Q=="
+                    },
+                    "companyName": "University of Potsdam"
+                },
+                {
+                    "title": "Assistant Professor",
+                    "locationName": "New York City Metropolitan Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4262",
+                        "entityUrn": "urn:li:fs_miniCompany:4262",
+                        "name": "Rutgers University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnLVzNL8ZOYg/company-logo_200_200/company-logo_200_200/0/1692195098121/rutgersu_logo?e=1747872000&v=beta&t=MFlwpr53Aiql1Q_TqaOe7C9F6oJnM8a3k6U9ps1nwBA",
+                        "universalName": "rutgersu",
+                        "dashCompanyUrn": "urn:li:fsd_company:4262",
+                        "trackingId": "Ug/eheUxQXS3FWvbaGiKLQ=="
+                    },
+                    "companyName": "Rutgers University"
+                },
+                {
+                    "title": "Assistant Professor",
+                    "locationName": "Beijing, China",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:14022",
+                        "entityUrn": "urn:li:fs_miniCompany:14022",
+                        "name": "Tsinghua University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJU3_2fIeNWw/company-logo_200_200/company-logo_200_200/0/1631309794782?e=1747872000&v=beta&t=bJmifPoh8zVWUqDolDr1UMWJwuVLbif4EMPbpv8Ntrk",
+                        "universalName": "tsinghua-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:14022",
+                        "trackingId": "aFIHgM/OSIO1ds/S4Dpzeg=="
+                    },
+                    "companyName": "Tsinghua University"
+                },
+                {
+                    "title": "Visiting Professor",
+                    "locationName": "Beijing City, China",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1035",
+                        "entityUrn": "urn:li:fs_miniCompany:1035",
+                        "name": "Microsoft",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                        "universalName": "microsoft",
+                        "dashCompanyUrn": "urn:li:fsd_company:1035",
+                        "trackingId": "1va7VWgRRSK+5SYpDLnxgw=="
+                    },
+                    "companyName": "Microsoft Research Asia"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Engineering",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Universität des Saarlandes",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "schoolName": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        }
+                    }
+                },
+                {
+                    "schoolName": "McGill University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Chinese",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Italian",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "Natural Language Processing",
+                "Machine Learning",
+                "Information Extraction",
+                "Data Mining"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor for Artificial Intelligence at HPI, University of Potsdam",
+            "summary": "Leading a research group investigating natural language semantics, big data analytics, knowledge graphs.\n➡️   http://gerard.demelo.org ➡️   Twitter https://twitter.com/gdm3000",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "Berlin Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Full Professor",
+            "companyName": "Hasso Plattner Institute",
+            "companyPublicId": "hasso-plattner-institute",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/hasso-plattner-institute",
+            "following": false,
+            "followable": true,
+            "followersCount": 3529,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Hasso Plattner Institute",
+        "position": "Full Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Full Professor",
+        "organization": "Hasso Plattner Institute",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/gdemelo/",
+        "company": "https://www.linkedin.com/company/hasso-plattner-institute"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Full Professor",
+            "locationName": "Potsdam, Brandenburg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:258692",
+                "entityUrn": "urn:li:fs_miniCompany:258692",
+                "name": "Hasso Plattner Institute",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGVJMqbSVkv2w/company-logo_200_200/company-logo_200_200/0/1730820443292/hasso_plattner_institute_logo?e=1747872000&v=beta&t=JTWbNC2ZCF01AkZ4TvFqfpxOgA2KFKSfdE9lE6xc1_Y",
+                "universalName": "hasso-plattner-institute",
+                "dashCompanyUrn": "urn:li:fsd_company:258692",
+                "trackingId": "Ij1yqbHLRlqvPZeU+RpJ1w=="
+            },
+            "companyName": "Hasso Plattner Institute"
+        },
+        {
+            "title": "Full Professor",
+            "locationName": "Potsdam, Brandenburg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:30760",
+                "entityUrn": "urn:li:fs_miniCompany:30760",
+                "name": "University of Potsdam",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFN8xCiw0bmFg/company-logo_200_200/company-logo_200_200/0/1641306468029/university_of_potsdam_logo?e=1747872000&v=beta&t=V1kHVstNrkB158KhvNgiKhtVIh3ReuO4_GIw3uuVBCI",
+                "universalName": "university-of-potsdam",
+                "dashCompanyUrn": "urn:li:fsd_company:30760",
+                "trackingId": "6YQy+ZfzTjS0GVruLgmU0Q=="
+            },
+            "companyName": "University of Potsdam"
+        },
+        {
+            "title": "Assistant Professor",
+            "locationName": "New York City Metropolitan Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4262",
+                "entityUrn": "urn:li:fs_miniCompany:4262",
+                "name": "Rutgers University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFnLVzNL8ZOYg/company-logo_200_200/company-logo_200_200/0/1692195098121/rutgersu_logo?e=1747872000&v=beta&t=MFlwpr53Aiql1Q_TqaOe7C9F6oJnM8a3k6U9ps1nwBA",
+                "universalName": "rutgersu",
+                "dashCompanyUrn": "urn:li:fsd_company:4262",
+                "trackingId": "Ug/eheUxQXS3FWvbaGiKLQ=="
+            },
+            "companyName": "Rutgers University"
+        },
+        {
+            "title": "Assistant Professor",
+            "locationName": "Beijing, China",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:14022",
+                "entityUrn": "urn:li:fs_miniCompany:14022",
+                "name": "Tsinghua University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFJU3_2fIeNWw/company-logo_200_200/company-logo_200_200/0/1631309794782?e=1747872000&v=beta&t=bJmifPoh8zVWUqDolDr1UMWJwuVLbif4EMPbpv8Ntrk",
+                "universalName": "tsinghua-university",
+                "dashCompanyUrn": "urn:li:fsd_company:14022",
+                "trackingId": "aFIHgM/OSIO1ds/S4Dpzeg=="
+            },
+            "companyName": "Tsinghua University"
+        },
+        {
+            "title": "Visiting Professor",
+            "locationName": "Beijing City, China",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "1va7VWgRRSK+5SYpDLnxgw=="
+            },
+            "companyName": "Microsoft Research Asia"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Engineering",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Universität des Saarlandes",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "schoolName": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                }
+            }
+        },
+        {
+            "schoolName": "McGill University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Natural Language Processing",
+        "Machine Learning",
+        "Information Extraction",
+        "Data Mining"
+    ],
+    "lastEnriched": "2025-02-17"
+}

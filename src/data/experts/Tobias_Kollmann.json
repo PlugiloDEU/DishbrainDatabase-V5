@@ -1,0 +1,567 @@
+{
+    "id": "exp263440261",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Tobias",
+        "lastName": "Kollmann",
+        "fullName": "Tobias Kollmann",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFbakC2WVSV6w/profile-displayphoto-shrink_800_800/B4EZTmiHl6HMAg-/0/1739034491768?e=1745452800&v=beta&t=7zq1o5N769OuoC-U7TsskpcSXyCXYW8sK5hvZM0V3Ng",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "263440261",
+            "profileId": "ACoAAA-zx4UBIWU5Mh1d18dTMM5IjOnujVxo8n4",
+            "firstName": "Tobias",
+            "lastName": "Kollmann",
+            "occupation": "Founder, CEO, Executive Creative Director coool | ADC | DDC",
+            "publicIdentifier": "tobias-kollmann-xyz",
+            "trackingId": "SV9DoIyTST2Sziq54kRaBw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFbakC2WVSV6w/profile-displayphoto-shrink_800_800/B4EZTmiHl6HMAg-/0/1739034491768?e=1745452800&v=beta&t=7zq1o5N769OuoC-U7TsskpcSXyCXYW8sK5hvZM0V3Ng",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEbsfbU4myA-Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1699895451438?e=1745452800&v=beta&t=PwlkOjOqofp5iBXDBHZRUdDWOz8h8EYsgyAaMR5v_yo",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009750",
+            "positions": [
+                {
+                    "title": "Founder, CEO, Executive Creative Director",
+                    "description": "coool. Die Kreativagentur für die 1,5°C-Wirtschaft.",
+                    "locationName": "Stuttgart, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:84807508",
+                        "entityUrn": "urn:li:fs_miniCompany:84807508",
+                        "name": "coool",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEnlG7Sm_pbw/company-logo_200_200/company-logo_200_200/0/1699713683159/coool_agency_logo?e=1747872000&v=beta&t=AwUO4CvMlZw92NU0KBUAPy2hdE5qVnsYpy_TBvHRdvs",
+                        "universalName": "coool-agency",
+                        "dashCompanyUrn": "urn:li:fsd_company:84807508",
+                        "trackingId": "9EVEpeFHRmK1R01D0xwaJg=="
+                    },
+                    "companyName": "coool"
+                },
+                {
+                    "title": "Member",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:11199785",
+                        "entityUrn": "urn:li:fs_miniCompany:11199785",
+                        "name": "Art Directors Club (ADC)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH1yTXES6DGCw/company-logo_200_200/company-logo_200_200/0/1737971151491/art_directors_club_germany_logo?e=1747872000&v=beta&t=mnU3T1HrLpb_EH-tG-NdpZWApvxoFywYKXarQh9BJB0",
+                        "universalName": "art-directors-club-germany",
+                        "dashCompanyUrn": "urn:li:fsd_company:11199785",
+                        "trackingId": "p5TORYp4T+eZao8MlYXC0A=="
+                    },
+                    "companyName": "Art Directors Club (ADC)"
+                },
+                {
+                    "title": "Lecturer",
+                    "locationName": "Ludwigsburg",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:100799",
+                        "entityUrn": "urn:li:fs_miniCompany:100799",
+                        "name": "Filmakademie Baden-Wuerttemberg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGKFLyVCiXZw/company-logo_200_200/company-logo_200_200/0/1631347511415?e=1747872000&v=beta&t=_ptM8BpkM1rRK0iDkNXrT1-7_S4GabQWKY0MCfzzed4",
+                        "universalName": "filmakademie-baden-wuerttemberg",
+                        "dashCompanyUrn": "urn:li:fsd_company:100799",
+                        "trackingId": "OljYIHQySoK0PeE0qlwzfQ=="
+                    },
+                    "companyName": "Filmakademie Baden-Württemberg"
+                },
+                {
+                    "title": "Chief Creative Officer, Chief Brand Officer, Partner",
+                    "locationName": "Stuttgart, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Design"
+                        ],
+                        "objectUrn": "urn:li:company:3846930",
+                        "entityUrn": "urn:li:fs_miniCompany:3846930",
+                        "name": "Milla & Partner",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEOWKIdAIjzsQ/company-logo_200_200/company-logo_200_200/0/1685692330883/milla__partner_logo?e=1747872000&v=beta&t=WVBPYdKpfuP7s3g5cc_rJ1Pebr0xJy9VpoD0n7005Ac",
+                        "universalName": "milla-partner",
+                        "dashCompanyUrn": "urn:li:fsd_company:3846930",
+                        "trackingId": "9NjcBuVjRnyX4UghLb1F9A=="
+                    },
+                    "companyName": "Milla & Partner"
+                },
+                {
+                    "title": "Creative Director, Partner",
+                    "locationName": "Stuttgart und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Design"
+                        ],
+                        "objectUrn": "urn:li:company:3846930",
+                        "entityUrn": "urn:li:fs_miniCompany:3846930",
+                        "name": "Milla & Partner",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEOWKIdAIjzsQ/company-logo_200_200/company-logo_200_200/0/1685692330883/milla__partner_logo?e=1747872000&v=beta&t=WVBPYdKpfuP7s3g5cc_rJ1Pebr0xJy9VpoD0n7005Ac",
+                        "universalName": "milla-partner",
+                        "dashCompanyUrn": "urn:li:fsd_company:3846930",
+                        "trackingId": "K/kIAj0YRiOA3gz8MoiP5w=="
+                    },
+                    "companyName": "Milla & Partner"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom-Designer",
+                    "fieldOfStudy": "Kommunikationsdesign",
+                    "schoolName": "Staatliche Akademie der Bildenden Künste Stuttgart",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Grafikdesign",
+                    "schoolName": "Freie Kunstschule Stuttgart",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1994
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "AI Masterclass",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "PAGE – Das Magazin der Kreativbranche"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "German Design Award 2025",
+                    "issueDate": {
+                        "month": 2,
+                        "year": 2025
+                    },
+                    "issuer": "Rat für Formgebung / German Design Council"
+                },
+                {
+                    "title": "MUSE Creative Award",
+                    "issueDate": {
+                        "month": 3,
+                        "year": 2024
+                    },
+                    "issuer": "International Awards Associate Inc."
+                },
+                {
+                    "title": "German Design Award 2024",
+                    "issueDate": {
+                        "month": 1,
+                        "year": 2024
+                    },
+                    "issuer": "Rat für Formgebung"
+                },
+                {
+                    "title": "Marketing for Future Award",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2023
+                    },
+                    "issuer": "BAM! Bock auf Morgen Festival"
+                },
+                {
+                    "title": "Was ist gut?",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2023
+                    },
+                    "issuer": "DDC Deutscher Designer Club e.V."
+                },
+                {
+                    "title": "Was ist gut?",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2023
+                    },
+                    "issuer": "DDC Deutscher Designer Club e.V."
+                },
+                {
+                    "title": "Best of Swiss Web Innovation",
+                    "issueDate": {
+                        "year": 2023
+                    }
+                },
+                {
+                    "title": "Best of Swiss Web Public Value",
+                    "description": "Case",
+                    "issueDate": {
+                        "year": 2023
+                    }
+                },
+                {
+                    "title": "Digital Economy Award",
+                    "description": "Digital Innovation of the Year Finalist",
+                    "issueDate": {
+                        "year": 2023
+                    }
+                },
+                {
+                    "title": "Red Dot Award Brand & Communication / digital solutions",
+                    "issueDate": {
+                        "month": 8,
+                        "year": 2021
+                    },
+                    "issuer": "Red Dot"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                }
+            ],
+            "skills": [
+                "Künstliche Intelligenz (KI)",
+                "Creative Direction",
+                "Brand Experience",
+                "Live Communication"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder, CEO, Executive Creative Director coool | ADC | DDC",
+            "summary": "Tobias Kollmann founded the Coool Agency in 2022. His mission is to help companies leverage the full potential of their climate transition – through effective communication and creative strategies. Because the profound transformation towards a successful 1.5°C future requires not only courageous action, but also impactful images and language. With his team of over 20 creatives from various disciplines, he realizes sophisticated communication projects from strategy to multi-channel implementation.\nThe award-winning creative and communication designer was former CCO and partner at the renowned brand experience agency Milla & Partner and is a member of the Art Directors Club Germany (ADC) and the German Designer Club (DDC).",
+            "student": false,
+            "industryName": "Marketing & Advertising",
+            "industryUrn": "urn:li:fs_industry:80",
+            "geoLocationName": "Stuttgart Region",
+            "geoCountryName": "Germany",
+            "jobTitle": "Founder, CEO, Executive Creative Director",
+            "companyName": "coool",
+            "companyPublicId": "coool-agency",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/coool-agency",
+            "following": false,
+            "followable": true,
+            "followersCount": 1942,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "coool",
+        "position": "Founder, CEO, Executive Creative Director",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Marketing and Advertising"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Founder, CEO, Executive Creative Director",
+        "organization": "coool",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/tobias-kollmann-xyz/",
+        "company": "https://www.linkedin.com/company/coool-agency"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Founder, CEO, Executive Creative Director",
+            "description": "coool. Die Kreativagentur für die 1,5°C-Wirtschaft.",
+            "locationName": "Stuttgart, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:84807508",
+                "entityUrn": "urn:li:fs_miniCompany:84807508",
+                "name": "coool",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEnlG7Sm_pbw/company-logo_200_200/company-logo_200_200/0/1699713683159/coool_agency_logo?e=1747872000&v=beta&t=AwUO4CvMlZw92NU0KBUAPy2hdE5qVnsYpy_TBvHRdvs",
+                "universalName": "coool-agency",
+                "dashCompanyUrn": "urn:li:fsd_company:84807508",
+                "trackingId": "9EVEpeFHRmK1R01D0xwaJg=="
+            },
+            "companyName": "coool"
+        },
+        {
+            "title": "Member",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:11199785",
+                "entityUrn": "urn:li:fs_miniCompany:11199785",
+                "name": "Art Directors Club (ADC)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQH1yTXES6DGCw/company-logo_200_200/company-logo_200_200/0/1737971151491/art_directors_club_germany_logo?e=1747872000&v=beta&t=mnU3T1HrLpb_EH-tG-NdpZWApvxoFywYKXarQh9BJB0",
+                "universalName": "art-directors-club-germany",
+                "dashCompanyUrn": "urn:li:fsd_company:11199785",
+                "trackingId": "p5TORYp4T+eZao8MlYXC0A=="
+            },
+            "companyName": "Art Directors Club (ADC)"
+        },
+        {
+            "title": "Lecturer",
+            "locationName": "Ludwigsburg",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:100799",
+                "entityUrn": "urn:li:fs_miniCompany:100799",
+                "name": "Filmakademie Baden-Wuerttemberg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEGKFLyVCiXZw/company-logo_200_200/company-logo_200_200/0/1631347511415?e=1747872000&v=beta&t=_ptM8BpkM1rRK0iDkNXrT1-7_S4GabQWKY0MCfzzed4",
+                "universalName": "filmakademie-baden-wuerttemberg",
+                "dashCompanyUrn": "urn:li:fsd_company:100799",
+                "trackingId": "OljYIHQySoK0PeE0qlwzfQ=="
+            },
+            "companyName": "Filmakademie Baden-Württemberg"
+        },
+        {
+            "title": "Chief Creative Officer, Chief Brand Officer, Partner",
+            "locationName": "Stuttgart, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Design"
+                ],
+                "objectUrn": "urn:li:company:3846930",
+                "entityUrn": "urn:li:fs_miniCompany:3846930",
+                "name": "Milla & Partner",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEOWKIdAIjzsQ/company-logo_200_200/company-logo_200_200/0/1685692330883/milla__partner_logo?e=1747872000&v=beta&t=WVBPYdKpfuP7s3g5cc_rJ1Pebr0xJy9VpoD0n7005Ac",
+                "universalName": "milla-partner",
+                "dashCompanyUrn": "urn:li:fsd_company:3846930",
+                "trackingId": "9NjcBuVjRnyX4UghLb1F9A=="
+            },
+            "companyName": "Milla & Partner"
+        },
+        {
+            "title": "Creative Director, Partner",
+            "locationName": "Stuttgart und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Design"
+                ],
+                "objectUrn": "urn:li:company:3846930",
+                "entityUrn": "urn:li:fs_miniCompany:3846930",
+                "name": "Milla & Partner",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEOWKIdAIjzsQ/company-logo_200_200/company-logo_200_200/0/1685692330883/milla__partner_logo?e=1747872000&v=beta&t=WVBPYdKpfuP7s3g5cc_rJ1Pebr0xJy9VpoD0n7005Ac",
+                "universalName": "milla-partner",
+                "dashCompanyUrn": "urn:li:fsd_company:3846930",
+                "trackingId": "K/kIAj0YRiOA3gz8MoiP5w=="
+            },
+            "companyName": "Milla & Partner"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom-Designer",
+            "fieldOfStudy": "Kommunikationsdesign",
+            "schoolName": "Staatliche Akademie der Bildenden Künste Stuttgart",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Grafikdesign",
+            "schoolName": "Freie Kunstschule Stuttgart",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1994
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AI Masterclass",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2024
+                }
+            },
+            "authority": "PAGE – Das Magazin der Kreativbranche"
+        }
+    ],
+    "skills": [
+        "Künstliche Intelligenz (KI)",
+        "Creative Direction",
+        "Brand Experience",
+        "Live Communication"
+    ],
+    "lastEnriched": "2025-02-17"
+}

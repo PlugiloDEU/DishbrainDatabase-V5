@@ -1,0 +1,538 @@
+{
+    "id": "exp117314558",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Deepa",
+        "lastName": "Gautam-Nigge",
+        "fullName": "Deepa Gautam-Nigge",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHQh1vt-LO8Jg/profile-displayphoto-shrink_200_200/B4DZOmLYxbHgAc-/0/1733659824397?e=1745452800&v=beta&t=Q_fObiVgxzRZglUjlOo0IRlknbQg28AbQOG3Z-jInx8",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German",
+            "Nepali"
+        ],
+        "allData": {
+            "id": "117314558",
+            "profileId": "ACoAAAb-E_4B0Rzu5XJ-Cjs69QEcHDCiN74YY30",
+            "firstName": "Deepa",
+            "lastName": "Gautam-Nigge",
+            "occupation": "VP Corporate Development & Investments @SAP SE | Board Member | Speaker | Author | #diversityadvocate",
+            "publicIdentifier": "deepa-gautam-nigge",
+            "trackingId": "xeLjs1xHSrW1nkELbX8Eyg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHQh1vt-LO8Jg/profile-displayphoto-shrink_200_200/B4DZOmLYxbHgAc-/0/1733659824397?e=1745452800&v=beta&t=Q_fObiVgxzRZglUjlOo0IRlknbQg28AbQOG3Z-jInx8",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQE86k5v38YmbQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1729877183460?e=1745452800&v=beta&t=socWyxjsvn2jVG9YZMoi4_Lo9nKSjqirwCd492XH8MM",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Vice President | Corporate Development & Investments",
+                    "description": "May 2021 - July 2023: Senior Director | Corporate Development M&A and Strategic Investments \nJan. 2017 - May 2021: Senior Director | Global Lead SAP Next-Gen Ecosystem",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1115",
+                        "entityUrn": "urn:li:fs_miniCompany:1115",
+                        "name": "SAP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                        "universalName": "sap",
+                        "dashCompanyUrn": "urn:li:fsd_company:1115",
+                        "trackingId": "XnpoKGYoQwaXqWlokuyYCQ=="
+                    },
+                    "companyName": "SAP"
+                },
+                {
+                    "title": "Board Member (due to SAP Investment)",
+                    "locationName": "Heidelberg, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:20143683",
+                        "entityUrn": "urn:li:fs_miniCompany:20143683",
+                        "name": "Aleph Alpha",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFLPsivF5akyw/company-logo_200_200/company-logo_200_200/0/1661777031414/aleph_alpha_logo?e=1747872000&v=beta&t=EZ8keh3sywccJaJtdZcwXvYr4073H8IVzJRAnErrzW0",
+                        "universalName": "aleph-alpha",
+                        "dashCompanyUrn": "urn:li:fsd_company:20143683",
+                        "trackingId": "wIJaP2DkT9e0MQGeaoikvw=="
+                    },
+                    "companyName": "Aleph Alpha"
+                },
+                {
+                    "title": "Chairperson of Foundation Board (Vorsitz des Stiftungsrats) | RWTH Aachen University-Stiftung",
+                    "locationName": "Aachen, North Rhine-Westphalia, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:9790",
+                        "entityUrn": "urn:li:fs_miniCompany:9790",
+                        "name": "RWTH Aachen University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQEATKN6xf-EkA/company-logo_200_200/company-logo_200_200/0/1631329573025?e=1747872000&v=beta&t=bl1qQC7G4bOQ2LefcmNwktBLAc67c9ParIcCc9Eccrs",
+                        "universalName": "rwth-aachen-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:9790",
+                        "trackingId": "dslOUK4VTVKbQYLHYfatEg=="
+                    },
+                    "companyName": "RWTH Aachen University"
+                },
+                {
+                    "title": "Senior Advisor",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:20555666",
+                        "entityUrn": "urn:li:fs_miniCompany:20555666",
+                        "name": "Auxxo Female Catalyst Fund",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFA6h7U4tTAUA/company-logo_200_200/company-logo_200_200/0/1678883154398/auxxo_logo?e=1747872000&v=beta&t=YOoTPZVSJZNyZf8d2EEbK72N6wUe7dGY6ntkvN1_fnw",
+                        "universalName": "auxxo",
+                        "dashCompanyUrn": "urn:li:fsd_company:20555666",
+                        "trackingId": "Ur3Xo0RVQ0erK2JPuGsY5Q=="
+                    },
+                    "companyName": "Auxxo Female Catalyst Fund"
+                },
+                {
+                    "title": "Member of the Digital Advisory Board | Schmitz Cargobull - KubikX",
+                    "locationName": "Münster, North Rhine-Westphalia, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Transportation/Trucking/Railroad"
+                        ],
+                        "objectUrn": "urn:li:company:5183400",
+                        "entityUrn": "urn:li:fs_miniCompany:5183400",
+                        "name": "Schmitz Cargobull AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEdgiWOU35S-w/company-logo_200_200/company-logo_200_200/0/1631340159451?e=1747872000&v=beta&t=Iz_G5DvUAZXFINDb70_3RiWv74sWsDfnFQe91fRA050",
+                        "universalName": "schmitz-cargobull-ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:5183400",
+                        "trackingId": "qR4nQqysQWe13TDnLtjwMA=="
+                    },
+                    "companyName": "Schmitz Cargobull AG"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "BWL (Focus: Technology & Innovation Management, Operations Research and Industrial Logistics)",
+                    "schoolName": "RWTH Aachen University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Civil Engineering / Focus: Water & Waste Management",
+                    "schoolName": "FH Aachen University of Applied Sciences",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1996
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Zukunftsmacherin 2022 by Business Insider",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2022
+                    },
+                    "issuer": "Business Insider"
+                },
+                {
+                    "title": "Member of BMW Foundation Responsible Leaders Network",
+                    "description": "BMW Foundation Responsible Leaders Network as an international community of purpose working jointly towards a more peaceful, just, and sustainable future. Members of the network are highly diverse in origin, profession, and background, yet they are united by a shared purpose to advance the goals of the UN 2030 Agenda. \nA Responsible Leader is a leader who, beyond his or her professional and personal duties, works towards social change within and between societies – across communities, cultures, and countries. Participants are chosen and exclusively invited from all walks of life: business, politics, civil society, academia, arts, media – and they have shown the ability or to inspire others, to lead by example, to drive change and generate impact.\n",
+                    "issueDate": {
+                        "month": 12,
+                        "year": 2020
+                    },
+                    "issuer": "BMW Foundation Herbert Quandt"
+                },
+                {
+                    "title": "Power2XLead Program 2020",
+                    "description": "Selected participant for this highly exclusive leadership training (for 40 women across SAP in Germany)",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2020
+                    },
+                    "issuer": "SAP SE"
+                },
+                {
+                    "title": "40 OVER 40: GERMANY’S MOST INSPIRING WOMEN",
+                    "issueDate": {
+                        "month": 3,
+                        "year": 2020
+                    },
+                    "issuer": "www.femaleonezero.com"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "German"
+                },
+                {
+                    "name": "Nepali"
+                }
+            ],
+            "skills": [
+                "Aufsichtskompetenzen",
+                "Risikokapital",
+                "Corporate Venture Capital",
+                "Mergers & Acquisitions (M&A)"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Responsible Leader",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "BMW Foundation Herbert Quandt"
+                },
+                {
+                    "role": "Member of the Board of Advisors",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "Digital Hub Initiative",
+                    "cause": "POLITICS"
+                },
+                {
+                    "role": "Venture Advisor",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2014
+                        }
+                    },
+                    "companyName": "Earlybird Venture Capital"
+                }
+            ],
+            "headline": "VP Corporate Development & Investments @SAP SE | Board Member | Speaker | Author | #diversityadvocate",
+            "summary": "Driving innovation and M&A in the era of ecosystems!\n\nBusiness and thought leader with a forward thinking, agile & entrepreneurial mindset and a 360° view on Corporate Development, M&A and Strategic Investment, and Innovation\nBoard Member, StartUp Mentor and CEO/SVB sparring partner with some personal passion for Arthouse Film Making, Endurance Sports and Sustainable Fashion.\n\nBook: #EcosystemInnovation",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Vice President | Corporate Development & Investments",
+            "companyName": "SAP",
+            "companyPublicId": "sap",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/sap",
+            "following": false,
+            "followable": true,
+            "followersCount": 17195,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "SAP",
+        "position": "Vice President | Corporate Development & Investments",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Vice President | Corporate Development & Investments",
+        "organization": "SAP",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/deepa-gautam-nigge/",
+        "company": "https://www.linkedin.com/company/sap"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Vice President | Corporate Development & Investments",
+            "description": "May 2021 - July 2023: Senior Director | Corporate Development M&A and Strategic Investments \nJan. 2017 - May 2021: Senior Director | Global Lead SAP Next-Gen Ecosystem",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "XnpoKGYoQwaXqWlokuyYCQ=="
+            },
+            "companyName": "SAP"
+        },
+        {
+            "title": "Board Member (due to SAP Investment)",
+            "locationName": "Heidelberg, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:20143683",
+                "entityUrn": "urn:li:fs_miniCompany:20143683",
+                "name": "Aleph Alpha",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFLPsivF5akyw/company-logo_200_200/company-logo_200_200/0/1661777031414/aleph_alpha_logo?e=1747872000&v=beta&t=EZ8keh3sywccJaJtdZcwXvYr4073H8IVzJRAnErrzW0",
+                "universalName": "aleph-alpha",
+                "dashCompanyUrn": "urn:li:fsd_company:20143683",
+                "trackingId": "wIJaP2DkT9e0MQGeaoikvw=="
+            },
+            "companyName": "Aleph Alpha"
+        },
+        {
+            "title": "Chairperson of Foundation Board (Vorsitz des Stiftungsrats) | RWTH Aachen University-Stiftung",
+            "locationName": "Aachen, North Rhine-Westphalia, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:9790",
+                "entityUrn": "urn:li:fs_miniCompany:9790",
+                "name": "RWTH Aachen University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQEATKN6xf-EkA/company-logo_200_200/company-logo_200_200/0/1631329573025?e=1747872000&v=beta&t=bl1qQC7G4bOQ2LefcmNwktBLAc67c9ParIcCc9Eccrs",
+                "universalName": "rwth-aachen-university",
+                "dashCompanyUrn": "urn:li:fsd_company:9790",
+                "trackingId": "dslOUK4VTVKbQYLHYfatEg=="
+            },
+            "companyName": "RWTH Aachen University"
+        },
+        {
+            "title": "Senior Advisor",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:20555666",
+                "entityUrn": "urn:li:fs_miniCompany:20555666",
+                "name": "Auxxo Female Catalyst Fund",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFA6h7U4tTAUA/company-logo_200_200/company-logo_200_200/0/1678883154398/auxxo_logo?e=1747872000&v=beta&t=YOoTPZVSJZNyZf8d2EEbK72N6wUe7dGY6ntkvN1_fnw",
+                "universalName": "auxxo",
+                "dashCompanyUrn": "urn:li:fsd_company:20555666",
+                "trackingId": "Ur3Xo0RVQ0erK2JPuGsY5Q=="
+            },
+            "companyName": "Auxxo Female Catalyst Fund"
+        },
+        {
+            "title": "Member of the Digital Advisory Board | Schmitz Cargobull - KubikX",
+            "locationName": "Münster, North Rhine-Westphalia, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Transportation/Trucking/Railroad"
+                ],
+                "objectUrn": "urn:li:company:5183400",
+                "entityUrn": "urn:li:fs_miniCompany:5183400",
+                "name": "Schmitz Cargobull AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEdgiWOU35S-w/company-logo_200_200/company-logo_200_200/0/1631340159451?e=1747872000&v=beta&t=Iz_G5DvUAZXFINDb70_3RiWv74sWsDfnFQe91fRA050",
+                "universalName": "schmitz-cargobull-ag",
+                "dashCompanyUrn": "urn:li:fsd_company:5183400",
+                "trackingId": "qR4nQqysQWe13TDnLtjwMA=="
+            },
+            "companyName": "Schmitz Cargobull AG"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "BWL (Focus: Technology & Innovation Management, Operations Research and Industrial Logistics)",
+            "schoolName": "RWTH Aachen University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Civil Engineering / Focus: Water & Waste Management",
+            "schoolName": "FH Aachen University of Applied Sciences",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Aufsichtskompetenzen",
+        "Risikokapital",
+        "Corporate Venture Capital",
+        "Mergers & Acquisitions (M&A)"
+    ],
+    "lastEnriched": "2025-02-17"
+}

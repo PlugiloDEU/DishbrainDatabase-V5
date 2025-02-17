@@ -1,0 +1,501 @@
+{
+    "id": "exp613398755",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Thorsten",
+        "lastName": "Hotz",
+        "fullName": "Thorsten Hotz",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "613398755",
+            "profileId": "ACoAACSPuOMBv8DPT5ygUBkIkbHbzUQZ7ghcuRc",
+            "firstName": "Thorsten",
+            "lastName": "Hotz",
+            "occupation": "Regierungsrat",
+            "publicIdentifier": "thorsten-hotz-16b514151",
+            "trackingId": "xb9l2ADLTwuXbSasMzGfRg==",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Regierungsrat",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Executive Office"
+                        ],
+                        "objectUrn": "urn:li:company:10528210",
+                        "entityUrn": "urn:li:fs_miniCompany:10528210",
+                        "name": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGmD0iGU53YpA/company-logo_200_200/company-logo_200_200/0/1644491064178/wirtschaftsministerium_bayern_logo?e=1747872000&v=beta&t=IGOc8x-fcuIOKvJeC6QEOvkaVftFavAs8tvQzQmDy2E",
+                        "universalName": "wirtschaftsministerium-bayern",
+                        "dashCompanyUrn": "urn:li:fsd_company:10528210",
+                        "trackingId": "eMtg7nNCQ/K6YxNbRmgSZw=="
+                    },
+                    "companyName": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie"
+                },
+                {
+                    "title": "Wissenschaftlicher Mitarbeiter / Redakteur ZUM",
+                    "locationName": "Metropolregion München",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:34639424",
+                        "entityUrn": "urn:li:fs_miniCompany:34639424",
+                        "name": "Institut für Urheber- und Medienrecht (IUM)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqOmd4srimQw/company-logo_200_200/company-logo_200_200/0/1630520336267?e=1747872000&v=beta&t=nujX9aP6uLrMFgTYDb_tDeIzY56pu46_KJfChIcjCzQ",
+                        "universalName": "institut-fuer-urheber-und-medienrecht",
+                        "dashCompanyUrn": "urn:li:fsd_company:34639424",
+                        "trackingId": "uBU7mbM6TbWExmU0PnkUcw=="
+                    },
+                    "companyName": "Institut für Urheber- und Medienrecht (IUM)"
+                },
+                {
+                    "title": "Rechtsreferendar",
+                    "locationName": "Mainz und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Judiciary"
+                        ],
+                        "objectUrn": "urn:li:company:12740447",
+                        "entityUrn": "urn:li:fs_miniCompany:12740447",
+                        "name": "OLG Koblenz",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGWsv1XMeJh-A/img-crop_100/img-crop_100/0/1738133992518?e=1747872000&v=beta&t=ss6ZBlafleUoYvwxl-8geY3-0dwkaigkAE5IMpSf6B0",
+                        "universalName": "oberlandesgericht-koblenz",
+                        "dashCompanyUrn": "urn:li:fsd_company:12740447",
+                        "trackingId": "elnQ9T1VT+OZMgGhaHvDkg=="
+                    },
+                    "companyName": "Oberlandesgericht Koblenz"
+                },
+                {
+                    "title": "Wahlstation Referendariat",
+                    "locationName": "Mainz, Rheinland-Pfalz, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Broadcast Media"
+                        ],
+                        "objectUrn": "urn:li:company:17962",
+                        "entityUrn": "urn:li:fs_miniCompany:17962",
+                        "name": "ZDF",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFlxlI_7noYsg/company-logo_200_200/company-logo_200_200/0/1694529029943/zdf_logo?e=1747872000&v=beta&t=xmXIia4nVl5lxlAD_t3taL9QtdL0mgeIMlqqRboI3rY",
+                        "universalName": "zdf",
+                        "dashCompanyUrn": "urn:li:fsd_company:17962",
+                        "trackingId": "75WqzfMuT1+cwcLmo2aZ+g=="
+                    },
+                    "companyName": "ZDF"
+                },
+                {
+                    "title": "Anwaltsstation Referendariat",
+                    "locationName": "Frankfurt/Rhein-Main",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:26086",
+                        "entityUrn": "urn:li:fs_miniCompany:26086",
+                        "name": "Hengeler Mueller",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFE4A_MjMsbDw/company-logo_200_200/company-logo_200_200/0/1719825706705/hengeler_mueller_logo?e=1747872000&v=beta&t=9wL0rwvDmOnBSlK9QkWtNDJTr8akFTLp2qZJV3Df5hU",
+                        "universalName": "hengeler-mueller",
+                        "dashCompanyUrn": "urn:li:fsd_company:26086",
+                        "trackingId": "Ma1nhF3OSMKThubMjPpWdg=="
+                    },
+                    "companyName": "Hengeler Mueller"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Erste juristische Staatsprüfung",
+                    "fieldOfStudy": "Jurastudium, allgemein",
+                    "schoolName": "Johannes Gutenberg-Universität Mainz",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    }
+                },
+                {
+                    "schoolName": "Uniwersytet Jagielloński w Krakowie",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "schoolName": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Deutsch",
+                "Englisch"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Supportpartner",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2015
+                        }
+                    },
+                    "companyName": "TomBuddy",
+                    "cause": "EDUCATION"
+                }
+            ],
+            "headline": "Regierungsrat",
+            "student": false,
+            "industryName": "Law Practice",
+            "industryUrn": "urn:li:fs_industry:9",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Regierungsrat",
+            "companyName": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie",
+            "companyPublicId": "wirtschaftsministerium-bayern",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/wirtschaftsministerium-bayern",
+            "following": false,
+            "followable": true,
+            "followersCount": 312,
+            "connectionsCount": 311,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie",
+        "position": "Regierungsrat",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Executive Office"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Regierungsrat",
+        "organization": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/thorsten-hotz-16b514151/",
+        "company": "https://www.linkedin.com/company/wirtschaftsministerium-bayern"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Regierungsrat",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Executive Office"
+                ],
+                "objectUrn": "urn:li:company:10528210",
+                "entityUrn": "urn:li:fs_miniCompany:10528210",
+                "name": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGmD0iGU53YpA/company-logo_200_200/company-logo_200_200/0/1644491064178/wirtschaftsministerium_bayern_logo?e=1747872000&v=beta&t=IGOc8x-fcuIOKvJeC6QEOvkaVftFavAs8tvQzQmDy2E",
+                "universalName": "wirtschaftsministerium-bayern",
+                "dashCompanyUrn": "urn:li:fsd_company:10528210",
+                "trackingId": "eMtg7nNCQ/K6YxNbRmgSZw=="
+            },
+            "companyName": "Bayerisches Staatsministerium für Wirtschaft, Landesentwicklung und Energie"
+        },
+        {
+            "title": "Wissenschaftlicher Mitarbeiter / Redakteur ZUM",
+            "locationName": "Metropolregion München",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:34639424",
+                "entityUrn": "urn:li:fs_miniCompany:34639424",
+                "name": "Institut für Urheber- und Medienrecht (IUM)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEqOmd4srimQw/company-logo_200_200/company-logo_200_200/0/1630520336267?e=1747872000&v=beta&t=nujX9aP6uLrMFgTYDb_tDeIzY56pu46_KJfChIcjCzQ",
+                "universalName": "institut-fuer-urheber-und-medienrecht",
+                "dashCompanyUrn": "urn:li:fsd_company:34639424",
+                "trackingId": "uBU7mbM6TbWExmU0PnkUcw=="
+            },
+            "companyName": "Institut für Urheber- und Medienrecht (IUM)"
+        },
+        {
+            "title": "Rechtsreferendar",
+            "locationName": "Mainz und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Judiciary"
+                ],
+                "objectUrn": "urn:li:company:12740447",
+                "entityUrn": "urn:li:fs_miniCompany:12740447",
+                "name": "OLG Koblenz",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGWsv1XMeJh-A/img-crop_100/img-crop_100/0/1738133992518?e=1747872000&v=beta&t=ss6ZBlafleUoYvwxl-8geY3-0dwkaigkAE5IMpSf6B0",
+                "universalName": "oberlandesgericht-koblenz",
+                "dashCompanyUrn": "urn:li:fsd_company:12740447",
+                "trackingId": "elnQ9T1VT+OZMgGhaHvDkg=="
+            },
+            "companyName": "Oberlandesgericht Koblenz"
+        },
+        {
+            "title": "Wahlstation Referendariat",
+            "locationName": "Mainz, Rheinland-Pfalz, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Broadcast Media"
+                ],
+                "objectUrn": "urn:li:company:17962",
+                "entityUrn": "urn:li:fs_miniCompany:17962",
+                "name": "ZDF",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFlxlI_7noYsg/company-logo_200_200/company-logo_200_200/0/1694529029943/zdf_logo?e=1747872000&v=beta&t=xmXIia4nVl5lxlAD_t3taL9QtdL0mgeIMlqqRboI3rY",
+                "universalName": "zdf",
+                "dashCompanyUrn": "urn:li:fsd_company:17962",
+                "trackingId": "75WqzfMuT1+cwcLmo2aZ+g=="
+            },
+            "companyName": "ZDF"
+        },
+        {
+            "title": "Anwaltsstation Referendariat",
+            "locationName": "Frankfurt/Rhein-Main",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:26086",
+                "entityUrn": "urn:li:fs_miniCompany:26086",
+                "name": "Hengeler Mueller",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFE4A_MjMsbDw/company-logo_200_200/company-logo_200_200/0/1719825706705/hengeler_mueller_logo?e=1747872000&v=beta&t=9wL0rwvDmOnBSlK9QkWtNDJTr8akFTLp2qZJV3Df5hU",
+                "universalName": "hengeler-mueller",
+                "dashCompanyUrn": "urn:li:fsd_company:26086",
+                "trackingId": "Ma1nhF3OSMKThubMjPpWdg=="
+            },
+            "companyName": "Hengeler Mueller"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Erste juristische Staatsprüfung",
+            "fieldOfStudy": "Jurastudium, allgemein",
+            "schoolName": "Johannes Gutenberg-Universität Mainz",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            }
+        },
+        {
+            "schoolName": "Uniwersytet Jagielloński w Krakowie",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "schoolName": "Albert-Ludwigs-Universität Freiburg im Breisgau",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Deutsch",
+        "Englisch"
+    ],
+    "lastEnriched": "2025-02-17"
+}

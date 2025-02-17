@@ -1,0 +1,666 @@
+{
+    "id": "exp612507116",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Prof. Dr. med. Christian",
+        "lastName": "Schmidt MPH",
+        "fullName": "Prof. Dr. med. Christian Schmidt MPH",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFNeUEq6oyF_A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718337668165?e=1745452800&v=beta&t=SLhatyPiyxyG5gqpPENTshWp4PLMxBRFYOJRzGUyYrU",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch",
+            "Russisch",
+            "Spanisch"
+        ],
+        "allData": {
+            "id": "612507116",
+            "profileId": "ACoAACSCHewB8ry5f7G3Nv74UJ5wsuxixYHWjyc",
+            "firstName": "Prof. Dr. med. Christian",
+            "lastName": "Schmidt MPH",
+            "occupation": "Healthcare | Digital Transformation | Process Optimization",
+            "publicIdentifier": "prof-dr-med-christian-schmidt-mph-178164151",
+            "trackingId": "uf7riBCVRoyKZA5vQ+eXow==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFNeUEq6oyF_A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1718337668165?e=1745452800&v=beta&t=SLhatyPiyxyG5gqpPENTshWp4PLMxBRFYOJRzGUyYrU",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEKt2HqQGF51Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1644247537975?e=1745452800&v=beta&t=-3qEQea8Di8n2FnaNOCRekOh4wnACyhkdomGvDMO5kI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106491352",
+            "positions": [
+                {
+                    "title": "Group CEO",
+                    "description": "A Partners Group Company\nRadiology, Radiotherapy, Nuclear Medicine and Pathology practices in Germany",
+                    "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:93783764",
+                        "entityUrn": "urn:li:fs_miniCompany:93783764",
+                        "name": "LifeLink Medical GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHbwp88j8y8WA/company-logo_200_200/company-logo_200_200/0/1715005197588/lifelink_medical_group_logo?e=1747872000&v=beta&t=OLSd7PFXVFEaVBa-DhuTTH3GMBzrOMFbPeIxWNWlNpk",
+                        "universalName": "lifelink-medical-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:93783764",
+                        "trackingId": "nh9GEokcTbi1431lI5NjRw=="
+                    },
+                    "companyName": "LifeLink Medical GmbH"
+                },
+                {
+                    "title": "Assistant Associate Professor",
+                    "description": "Begleitung Hospital@Home Programm am Cedars Sinai Hospital\nRegionale Versorgungsnetzwerke in Südkalifornien - Steuerung, IT, KI-Einsatz und Digitalisierung\nNetzwerke Diagnostik in Südkalifornien: Radiologie, Pathologie und Labor",
+                    "locationName": "Los Angeles, Kalifornien, Vereinigte Staaten von Amerika",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:7508",
+                        "entityUrn": "urn:li:fs_miniCompany:7508",
+                        "name": "Cedars-Sinai",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFKZIl9gDzb2g/company-logo_200_200/company-logo_200_200/0/1718403079329/cedars_sinai_medical_center_logo?e=1747872000&v=beta&t=E9VsTfBef97YLJpGo9_iRq9FU-Ta-axAkRdKVNqpdY4",
+                        "universalName": "cedars-sinai-medical-center",
+                        "dashCompanyUrn": "urn:li:fsd_company:7508",
+                        "trackingId": "OydgzV95TaqLfXUEm8hqvw=="
+                    },
+                    "companyName": "Cedars-Sinai"
+                },
+                {
+                    "title": "Senior Advisor to CEO",
+                    "description": "Weiterentwicklung PSP Programme Onkologie\nEinkaufsoptimierung Pharma",
+                    "locationName": "Hamburg, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:3847263",
+                        "entityUrn": "urn:li:fs_miniCompany:3847263",
+                        "name": "GHD GesundHeits GmbH Deutschland",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHadIFo9XsSzw/company-logo_200_200/company-logo_200_200/0/1641821133829/ghd_gesundheits_gmbh_deutschland_logo?e=1747872000&v=beta&t=orVwtFfnc-JI4C7vIy62Qxp_gSJcEq-6qesipZNu-oM",
+                        "universalName": "ghd-gesundheits-gmbh-deutschland",
+                        "dashCompanyUrn": "urn:li:fsd_company:3847263",
+                        "trackingId": "8hPfo6N0RMWqEYj8bgOZgw=="
+                    },
+                    "companyName": "GHD GesundHeits GmbH Deutschland"
+                },
+                {
+                    "title": "CEO GHD Gesundheits-GmbH",
+                    "description": "• Led the company as CEO incl.:\n- digital business transformation (VCP) and developing and implementing a sustainable medical strategy \n• Created and executed growth strategy\n• Increasing business profitability incl.:\n- acquiring and supporting strategically valuable key accounts \n- implementing innovative cooperation models \n• Digitizing patient care in the home care sector by implementing e.g., apps, videos and wearables",
+                    "locationName": "Hamburg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:3847263",
+                        "entityUrn": "urn:li:fs_miniCompany:3847263",
+                        "name": "GHD GesundHeits GmbH Deutschland",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHadIFo9XsSzw/company-logo_200_200/company-logo_200_200/0/1641821133829/ghd_gesundheits_gmbh_deutschland_logo?e=1747872000&v=beta&t=orVwtFfnc-JI4C7vIy62Qxp_gSJcEq-6qesipZNu-oM",
+                        "universalName": "ghd-gesundheits-gmbh-deutschland",
+                        "dashCompanyUrn": "urn:li:fsd_company:3847263",
+                        "trackingId": "4v1NOLwASOmB9NB/3bdo3Q=="
+                    },
+                    "companyName": "GHD GesundHeits GmbH Deutschland"
+                },
+                {
+                    "title": "Chairman of the Board University Hospital Rostock",
+                    "description": "• Managed the university hospital\n- strategically realigned and introduced digital management as well as control systems\n• Planned and operationally organized the building project Central Medical Functions (ZMF)\n• Implemented and developed cross-site care models, incl.:\n- cardiac medicine in Schwerin (DE), neurosurgery and pediatrics in Greifswald (DE)",
+                    "locationName": "Rostock, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:76354446",
+                        "entityUrn": "urn:li:fs_miniCompany:76354446",
+                        "name": "Universitätsmedizin Rostock",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF1I5yo3t-ShA/company-logo_200_200/company-logo_200_200/0/1720002786585?e=1747872000&v=beta&t=0OWb7noYLyn860mMvu4bBn25NTszHVZOX1WmoXCUg0k",
+                        "universalName": "universitätsmedizinrostock",
+                        "dashCompanyUrn": "urn:li:fsd_company:76354446",
+                        "trackingId": "JsKATJXwSv6IS6btmRtpMw=="
+                    },
+                    "companyName": "Rostock University Medical Center"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Associate Professor",
+                    "fieldOfStudy": "Medizin",
+                    "schoolName": "Yale University School of Medicine",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2003
+                        }
+                    }
+                },
+                {
+                    "degreeName": "APL Professor",
+                    "fieldOfStudy": "after rehabilitation in 2008",
+                    "schoolName": "Hannover Medical School",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Habilitation",
+                    "schoolName": "Christian-Albrechts- University of Kiel",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2004
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Facharzt für Chirurgie",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2002
+                        }
+                    },
+                    "authority": "Ärztkammer Schleswig-Holstein"
+                },
+                {
+                    "name": "Master of Public Health",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2000
+                        }
+                    },
+                    "authority": "Universität Bielefeld"
+                },
+                {
+                    "name": "EFQM Assessor",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2002
+                        }
+                    },
+                    "authority": "EFQM"
+                },
+                {
+                    "name": "Certificate Innovation in the age of disruption",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "INSEAD"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Manager des Jahres 2017",
+                    "description": "Internationaler Kongress Klinikmarketing",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2017
+                    },
+                    "issuer": "Rotthaus Marketing"
+                },
+                {
+                    "title": "Land der Innovationen",
+                    "description": "Auszeichnung für das Projekt HerzEffekt ",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2017
+                    },
+                    "issuer": "Bund "
+                },
+                {
+                    "title": "Shortlist Vernetzungsprojekte",
+                    "description": "Preis für Netzwerkprojekt Herz-Zentrum Nordost mit HELIOS Kliniken Schwerin in der Kardochirurgie und Kardiologie",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2016
+                    },
+                    "issuer": "Preis für Gesundheitsnetzwerker"
+                },
+                {
+                    "title": "1. Posterpreis",
+                    "description": "Versorgungsprojekte im ländlichen Raum",
+                    "issueDate": {
+                        "month": 3,
+                        "year": 2009
+                    },
+                    "issuer": "Deutsches Netzwerk Versorgungsforschung"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "Russisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Spanisch",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "Profitabilisation",
+                "scale up",
+                "Building the company ",
+                "Buy and build"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Healthcare | Digital Transformation | Process Optimization",
+            "summary": "• Value-driven leader with entrepreneurial vision, a demonstrated history of achievements \n- +20 years of experience in the corporate environment and healthcare sector \n\n• Highly skilled in:\n- strategy development and execution\n- growth enablement\n- strategic realignment\n- leading successfully negotiations \n- redesigning core processes \n\n• Expertise: \n- digital transformation of business processes \n- managing large enterprises \n- Enterprise Value Creation (VCP) \n- developing innovative care concepts \n- commercial excellence \n- private equity advisor \n- strategy development and execution\n\n• Innovative, team-oriented, and creative CEO with:\n- an integrative leadership approach\n- social and intercultural competence\n- strong communication skills \n- enthusiasm\n\n• Emphatic | motivating | focused | authentic | fair | open | ambitious | resilient",
+            "student": false,
+            "industryName": "Medical Practice",
+            "industryUrn": "urn:li:fs_industry:13",
+            "geoLocationName": "Düsseldorf, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Group CEO",
+            "companyName": "LifeLink Medical GmbH",
+            "companyPublicId": "lifelink-medical-group",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/lifelink-medical-group",
+            "following": false,
+            "followable": true,
+            "followersCount": 1840,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "LifeLink Medical GmbH",
+        "position": "Group CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Hospital & Health Care"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Group CEO",
+        "organization": "LifeLink Medical GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/prof-dr-med-christian-schmidt-mph-178164151/",
+        "company": "https://www.linkedin.com/company/lifelink-medical-group"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Group CEO",
+            "description": "A Partners Group Company\nRadiology, Radiotherapy, Nuclear Medicine and Pathology practices in Germany",
+            "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:93783764",
+                "entityUrn": "urn:li:fs_miniCompany:93783764",
+                "name": "LifeLink Medical GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHbwp88j8y8WA/company-logo_200_200/company-logo_200_200/0/1715005197588/lifelink_medical_group_logo?e=1747872000&v=beta&t=OLSd7PFXVFEaVBa-DhuTTH3GMBzrOMFbPeIxWNWlNpk",
+                "universalName": "lifelink-medical-group",
+                "dashCompanyUrn": "urn:li:fsd_company:93783764",
+                "trackingId": "nh9GEokcTbi1431lI5NjRw=="
+            },
+            "companyName": "LifeLink Medical GmbH"
+        },
+        {
+            "title": "Assistant Associate Professor",
+            "description": "Begleitung Hospital@Home Programm am Cedars Sinai Hospital\nRegionale Versorgungsnetzwerke in Südkalifornien - Steuerung, IT, KI-Einsatz und Digitalisierung\nNetzwerke Diagnostik in Südkalifornien: Radiologie, Pathologie und Labor",
+            "locationName": "Los Angeles, Kalifornien, Vereinigte Staaten von Amerika",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:7508",
+                "entityUrn": "urn:li:fs_miniCompany:7508",
+                "name": "Cedars-Sinai",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFKZIl9gDzb2g/company-logo_200_200/company-logo_200_200/0/1718403079329/cedars_sinai_medical_center_logo?e=1747872000&v=beta&t=E9VsTfBef97YLJpGo9_iRq9FU-Ta-axAkRdKVNqpdY4",
+                "universalName": "cedars-sinai-medical-center",
+                "dashCompanyUrn": "urn:li:fsd_company:7508",
+                "trackingId": "OydgzV95TaqLfXUEm8hqvw=="
+            },
+            "companyName": "Cedars-Sinai"
+        },
+        {
+            "title": "Senior Advisor to CEO",
+            "description": "Weiterentwicklung PSP Programme Onkologie\nEinkaufsoptimierung Pharma",
+            "locationName": "Hamburg, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:3847263",
+                "entityUrn": "urn:li:fs_miniCompany:3847263",
+                "name": "GHD GesundHeits GmbH Deutschland",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHadIFo9XsSzw/company-logo_200_200/company-logo_200_200/0/1641821133829/ghd_gesundheits_gmbh_deutschland_logo?e=1747872000&v=beta&t=orVwtFfnc-JI4C7vIy62Qxp_gSJcEq-6qesipZNu-oM",
+                "universalName": "ghd-gesundheits-gmbh-deutschland",
+                "dashCompanyUrn": "urn:li:fsd_company:3847263",
+                "trackingId": "8hPfo6N0RMWqEYj8bgOZgw=="
+            },
+            "companyName": "GHD GesundHeits GmbH Deutschland"
+        },
+        {
+            "title": "CEO GHD Gesundheits-GmbH",
+            "description": "• Led the company as CEO incl.:\n- digital business transformation (VCP) and developing and implementing a sustainable medical strategy \n• Created and executed growth strategy\n• Increasing business profitability incl.:\n- acquiring and supporting strategically valuable key accounts \n- implementing innovative cooperation models \n• Digitizing patient care in the home care sector by implementing e.g., apps, videos and wearables",
+            "locationName": "Hamburg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:3847263",
+                "entityUrn": "urn:li:fs_miniCompany:3847263",
+                "name": "GHD GesundHeits GmbH Deutschland",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHadIFo9XsSzw/company-logo_200_200/company-logo_200_200/0/1641821133829/ghd_gesundheits_gmbh_deutschland_logo?e=1747872000&v=beta&t=orVwtFfnc-JI4C7vIy62Qxp_gSJcEq-6qesipZNu-oM",
+                "universalName": "ghd-gesundheits-gmbh-deutschland",
+                "dashCompanyUrn": "urn:li:fsd_company:3847263",
+                "trackingId": "4v1NOLwASOmB9NB/3bdo3Q=="
+            },
+            "companyName": "GHD GesundHeits GmbH Deutschland"
+        },
+        {
+            "title": "Chairman of the Board University Hospital Rostock",
+            "description": "• Managed the university hospital\n- strategically realigned and introduced digital management as well as control systems\n• Planned and operationally organized the building project Central Medical Functions (ZMF)\n• Implemented and developed cross-site care models, incl.:\n- cardiac medicine in Schwerin (DE), neurosurgery and pediatrics in Greifswald (DE)",
+            "locationName": "Rostock, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:76354446",
+                "entityUrn": "urn:li:fs_miniCompany:76354446",
+                "name": "Universitätsmedizin Rostock",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF1I5yo3t-ShA/company-logo_200_200/company-logo_200_200/0/1720002786585?e=1747872000&v=beta&t=0OWb7noYLyn860mMvu4bBn25NTszHVZOX1WmoXCUg0k",
+                "universalName": "universitätsmedizinrostock",
+                "dashCompanyUrn": "urn:li:fsd_company:76354446",
+                "trackingId": "JsKATJXwSv6IS6btmRtpMw=="
+            },
+            "companyName": "Rostock University Medical Center"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Associate Professor",
+            "fieldOfStudy": "Medizin",
+            "schoolName": "Yale University School of Medicine",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2005
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2003
+                }
+            }
+        },
+        {
+            "degreeName": "APL Professor",
+            "fieldOfStudy": "after rehabilitation in 2008",
+            "schoolName": "Hannover Medical School",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "degreeName": "Habilitation",
+            "schoolName": "Christian-Albrechts- University of Kiel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2004
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2004
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Facharzt für Chirurgie",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2002
+                }
+            },
+            "authority": "Ärztkammer Schleswig-Holstein"
+        },
+        {
+            "name": "Master of Public Health",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2000
+                }
+            },
+            "authority": "Universität Bielefeld"
+        },
+        {
+            "name": "EFQM Assessor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2002
+                }
+            },
+            "authority": "EFQM"
+        },
+        {
+            "name": "Certificate Innovation in the age of disruption",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "authority": "INSEAD"
+        }
+    ],
+    "skills": [
+        "Profitabilisation",
+        "scale up",
+        "Building the company ",
+        "Buy and build"
+    ],
+    "lastEnriched": "2025-02-17"
+}

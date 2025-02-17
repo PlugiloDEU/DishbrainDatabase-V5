@@ -1,0 +1,469 @@
+{
+    "id": "exp64021544",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Jonas",
+        "lastName": "Templestein",
+        "fullName": "Jonas Templestein",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQEj9MLfH5DXZw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1580995143111?e=1745452800&v=beta&t=gNAFLhdC7rZMWH-LJzvSUvqzaGXulQ0E_ieUrk6ZuCk",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German"
+        ],
+        "allData": {
+            "id": "64021544",
+            "profileId": "ACoAAAPQ5CgBTBW2RvvkdfwqEVSM80JPFYQvU5s",
+            "firstName": "Jonas",
+            "lastName": "Templestein",
+            "occupation": "Founder/CEO iterate.com",
+            "publicIdentifier": "jonashuckestein",
+            "trackingId": "aBQafEz6THymuBI27k+5Mg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQEj9MLfH5DXZw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1580995143111?e=1745452800&v=beta&t=gNAFLhdC7rZMWH-LJzvSUvqzaGXulQ0E_ieUrk6ZuCk",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQFYoVucY95EwQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1580995191852?e=1745452800&v=beta&t=XoFTdYd5eGLoeMH7A2StF2Yo41ZgNt33i0KEamAK9Po",
+            "countryCode": "gb",
+            "geoUrn": "urn:li:fs_geo:100495523",
+            "positions": [
+                {
+                    "title": "Founder / CEO",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "companyName": "Iterate.com"
+                },
+                {
+                    "title": "Co-Founder",
+                    "description": "CTO from 02/2015 - 08/2018 and 01/2020 - 02/2023",
+                    "locationName": "London, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Banking"
+                        ],
+                        "objectUrn": "urn:li:company:9471107",
+                        "entityUrn": "urn:li:fs_miniCompany:9471107",
+                        "name": "Monzo Bank",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQETxhKUKLvg-A/company-logo_200_200/company-logo_200_200/0/1665998658320/monzo_bank_logo?e=1747872000&v=beta&t=aDHTjmsOkEZ0KLjFRkb4finpFzVN7b9E5NQrxO-jHgg",
+                        "universalName": "monzo-bank",
+                        "dashCompanyUrn": "urn:li:fsd_company:9471107",
+                        "trackingId": "h7DPGCH9QVyE1F1EMJfFyQ=="
+                    },
+                    "companyName": "Monzo Bank"
+                },
+                {
+                    "title": "Founder",
+                    "locationName": "San Francisco",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:2720687",
+                        "entityUrn": "urn:li:fs_miniCompany:2720687",
+                        "name": "HipDial",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFO5bKnoyiNBg/company-logo_200_200/company-logo_200_200/0/1631333501716?e=1747872000&v=beta&t=t-E_RCmAUIroSyYjMx5vP2jKxRl_VTp6CJ9bZ9NXaQU",
+                        "universalName": "hipdial",
+                        "dashCompanyUrn": "urn:li:fsd_company:2720687",
+                        "trackingId": "NmNxLeCSRfubPqlgnDsmmg=="
+                    },
+                    "companyName": "HipDial"
+                },
+                {
+                    "title": "Software Engineer",
+                    "locationName": "London",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Banking"
+                        ],
+                        "objectUrn": "urn:li:company:9180896",
+                        "entityUrn": "urn:li:fs_miniCompany:9180896",
+                        "name": "Starling Bank",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYOmyUAlM0LQ/company-logo_200_200/company-logo_200_200/0/1688461563041/starlingbank_logo?e=1747872000&v=beta&t=xK8aubFE1RTFqDEsIOSJPi91r_fLzEAAqih9X-DhQ9Y",
+                        "universalName": "starlingbank",
+                        "dashCompanyUrn": "urn:li:fsd_company:9180896",
+                        "trackingId": "/KWnC0EZQw2G1KYo/fjXpA=="
+                    },
+                    "companyName": "Starling Bank"
+                },
+                {
+                    "title": "Director of Experience",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Internet"
+                        ],
+                        "objectUrn": "urn:li:company:1311403",
+                        "entityUrn": "urn:li:fs_miniCompany:1311403",
+                        "name": "TheStartupBus",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHscDy83QPRwg/company-logo_200_200/company-logo_200_200/0/1631382161299?e=1747872000&v=beta&t=BtrD2i03bXo9XOl95Aj02VdlKV286M5jOfK0to5n3_4",
+                        "universalName": "thestartupbus",
+                        "dashCompanyUrn": "urn:li:fsd_company:1311403",
+                        "trackingId": "17ogi/PPQiyQ9OcqpSkiEg=="
+                    },
+                    "companyName": "StartupBus"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Sustainable Urban Mobility at School of Information",
+                    "schoolName": "University of California, Berkeley",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                },
+                {
+                    "degreeName": "B.Sc.",
+                    "fieldOfStudy": "Computer Science, Mathematics, Software Engineering",
+                    "schoolName": "Technical University of Munich",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Vordiplom",
+                    "fieldOfStudy": "Mathematics",
+                    "schoolName": "Universität zu Köln",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Entrepreneurship",
+                "Start-ups",
+                "Ruby on Rails",
+                "Ruby"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder/CEO iterate.com",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "London, England",
+            "geoCountryName": "United Kingdom",
+            "jobTitle": "Founder / CEO",
+            "companyName": "Iterate.com",
+            "following": false,
+            "followable": true,
+            "followersCount": 2613,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Iterate.com",
+        "position": "Founder / CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Founder / CEO",
+        "organization": "Iterate.com",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/jonashuckestein/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Founder / CEO",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "companyName": "Iterate.com"
+        },
+        {
+            "title": "Co-Founder",
+            "description": "CTO from 02/2015 - 08/2018 and 01/2020 - 02/2023",
+            "locationName": "London, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Banking"
+                ],
+                "objectUrn": "urn:li:company:9471107",
+                "entityUrn": "urn:li:fs_miniCompany:9471107",
+                "name": "Monzo Bank",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQETxhKUKLvg-A/company-logo_200_200/company-logo_200_200/0/1665998658320/monzo_bank_logo?e=1747872000&v=beta&t=aDHTjmsOkEZ0KLjFRkb4finpFzVN7b9E5NQrxO-jHgg",
+                "universalName": "monzo-bank",
+                "dashCompanyUrn": "urn:li:fsd_company:9471107",
+                "trackingId": "h7DPGCH9QVyE1F1EMJfFyQ=="
+            },
+            "companyName": "Monzo Bank"
+        },
+        {
+            "title": "Founder",
+            "locationName": "San Francisco",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:2720687",
+                "entityUrn": "urn:li:fs_miniCompany:2720687",
+                "name": "HipDial",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFO5bKnoyiNBg/company-logo_200_200/company-logo_200_200/0/1631333501716?e=1747872000&v=beta&t=t-E_RCmAUIroSyYjMx5vP2jKxRl_VTp6CJ9bZ9NXaQU",
+                "universalName": "hipdial",
+                "dashCompanyUrn": "urn:li:fsd_company:2720687",
+                "trackingId": "NmNxLeCSRfubPqlgnDsmmg=="
+            },
+            "companyName": "HipDial"
+        },
+        {
+            "title": "Software Engineer",
+            "locationName": "London",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Banking"
+                ],
+                "objectUrn": "urn:li:company:9180896",
+                "entityUrn": "urn:li:fs_miniCompany:9180896",
+                "name": "Starling Bank",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHYOmyUAlM0LQ/company-logo_200_200/company-logo_200_200/0/1688461563041/starlingbank_logo?e=1747872000&v=beta&t=xK8aubFE1RTFqDEsIOSJPi91r_fLzEAAqih9X-DhQ9Y",
+                "universalName": "starlingbank",
+                "dashCompanyUrn": "urn:li:fsd_company:9180896",
+                "trackingId": "/KWnC0EZQw2G1KYo/fjXpA=="
+            },
+            "companyName": "Starling Bank"
+        },
+        {
+            "title": "Director of Experience",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Internet"
+                ],
+                "objectUrn": "urn:li:company:1311403",
+                "entityUrn": "urn:li:fs_miniCompany:1311403",
+                "name": "TheStartupBus",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHscDy83QPRwg/company-logo_200_200/company-logo_200_200/0/1631382161299?e=1747872000&v=beta&t=BtrD2i03bXo9XOl95Aj02VdlKV286M5jOfK0to5n3_4",
+                "universalName": "thestartupbus",
+                "dashCompanyUrn": "urn:li:fsd_company:1311403",
+                "trackingId": "17ogi/PPQiyQ9OcqpSkiEg=="
+            },
+            "companyName": "StartupBus"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Sustainable Urban Mobility at School of Information",
+            "schoolName": "University of California, Berkeley",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        },
+        {
+            "degreeName": "B.Sc.",
+            "fieldOfStudy": "Computer Science, Mathematics, Software Engineering",
+            "schoolName": "Technical University of Munich",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            }
+        },
+        {
+            "degreeName": "Vordiplom",
+            "fieldOfStudy": "Mathematics",
+            "schoolName": "Universität zu Köln",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Entrepreneurship",
+        "Start-ups",
+        "Ruby on Rails",
+        "Ruby"
+    ],
+    "lastEnriched": "2025-02-17"
+}

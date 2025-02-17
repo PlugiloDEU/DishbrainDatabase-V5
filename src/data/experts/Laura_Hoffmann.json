@@ -1,0 +1,330 @@
+{
+    "id": "exp881108628",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura",
+        "lastName": "Hoffmann",
+        "fullName": "Laura Hoffmann",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQHKbn6wRI4Iew/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1613421672667?e=1745452800&v=beta&t=Hqi5akt0C10lmVEkF_8xgSQQC11iFFE2ljcOpLDVARk",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch",
+            "Schwedisch"
+        ],
+        "allData": {
+            "id": "881108628",
+            "profileId": "ACoAADSEppQB0kVxxF00j8rwYmZk4X7_OWTV1U4",
+            "firstName": "Laura",
+            "lastName": "Hoffmann",
+            "occupation": "Ophthalmology Resident MD",
+            "publicIdentifier": "laura-hoffmann-9b00b8207",
+            "trackingId": "KmzFTNXLSluoHNQjcPUOJg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHKbn6wRI4Iew/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1613421672667?e=1745452800&v=beta&t=Hqi5akt0C10lmVEkF_8xgSQQC11iFFE2ljcOpLDVARk",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:107814425",
+            "positions": [
+                {
+                    "title": "Ophthalmology Resident",
+                    "locationName": "Zürich, Schweiz",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2024
+                        }
+                    },
+                    "companyName": "Vista Augenklinik Zürich"
+                },
+                {
+                    "title": "Ophthalmology Resident",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "industries": [
+                            "Medical Practice"
+                        ],
+                        "objectUrn": "urn:li:company:41134667",
+                        "entityUrn": "urn:li:fs_miniCompany:41134667",
+                        "name": "Charité Universitätsmedizin Berlin - Campus Benjamin Franklin",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "charité-universitätsmedizin-berlin---campus-benjamin-franklin",
+                        "dashCompanyUrn": "urn:li:fsd_company:41134667",
+                        "trackingId": "E9eCU0AhTrOLIuWsWfDiZA=="
+                    },
+                    "companyName": "Charité Universitätsmedizin Berlin - Campus Benjamin Franklin"
+                },
+                {
+                    "title": "Ophthalmology Resident",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Vista Klinik Binningen"
+                },
+                {
+                    "title": "Research Fellow",
+                    "description": "Research Group PD Dr. Katja Hatz\nMedical Retina",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "Vista Klinik Binningen"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Medecine",
+                    "schoolName": "Charité Universitätsmedizin Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2013
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MD",
+                    "schoolName": "Charité Universitätsmedizin Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "ERASMUS",
+                    "schoolName": "Aix-Marseille University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2016
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Scholar of Deutschlandstipendium",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2013
+                    }
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Schwedisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Ophthalmology Resident MD",
+            "student": false,
+            "industryName": "Medical Practice",
+            "industryUrn": "urn:li:fs_industry:13",
+            "geoLocationName": "Zurich, Zurich",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Ophthalmology Resident",
+            "companyName": "Vista Augenklinik Zürich",
+            "following": false,
+            "followable": true,
+            "followersCount": 257,
+            "connectionsCount": 252,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Vista Augenklinik Zürich",
+        "position": "Ophthalmology Resident",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Ophthalmology Resident",
+        "organization": "Vista Augenklinik Zürich",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laura-hoffmann-9b00b8207/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Ophthalmology Resident",
+            "locationName": "Zürich, Schweiz",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            "companyName": "Vista Augenklinik Zürich"
+        },
+        {
+            "title": "Ophthalmology Resident",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "industries": [
+                    "Medical Practice"
+                ],
+                "objectUrn": "urn:li:company:41134667",
+                "entityUrn": "urn:li:fs_miniCompany:41134667",
+                "name": "Charité Universitätsmedizin Berlin - Campus Benjamin Franklin",
+                "showcase": false,
+                "active": true,
+                "universalName": "charité-universitätsmedizin-berlin---campus-benjamin-franklin",
+                "dashCompanyUrn": "urn:li:fsd_company:41134667",
+                "trackingId": "E9eCU0AhTrOLIuWsWfDiZA=="
+            },
+            "companyName": "Charité Universitätsmedizin Berlin - Campus Benjamin Franklin"
+        },
+        {
+            "title": "Ophthalmology Resident",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "companyName": "Vista Klinik Binningen"
+        },
+        {
+            "title": "Research Fellow",
+            "description": "Research Group PD Dr. Katja Hatz\nMedical Retina",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "companyName": "Vista Klinik Binningen"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Medecine",
+            "schoolName": "Charité Universitätsmedizin Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2013
+                }
+            }
+        },
+        {
+            "degreeName": "MD",
+            "schoolName": "Charité Universitätsmedizin Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "ERASMUS",
+            "schoolName": "Aix-Marseille University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

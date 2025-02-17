@@ -1,0 +1,462 @@
+{
+    "id": "exp473827152",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Oliver",
+        "lastName": "Claas",
+        "fullName": "Oliver Claas",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQGdua9g9EO6hA/profile-displayphoto-shrink_400_400/B4EZRBNVw_HEAk-/0/1736260804158?e=1745452800&v=beta&t=RKrFzZf_KB9nWGomlqLWo5_xy4ceUr6cru_BMpvcwB0",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "473827152",
+            "profileId": "ACoAABw-B1ABr7E18UYlZxjSJf6NkmYO2TYWDdY",
+            "firstName": "Oliver",
+            "lastName": "Claas",
+            "occupation": "Pressesprecher / Spokesperson",
+            "publicIdentifier": "oliverclaas",
+            "trackingId": "9zEdSS+/S7GI2V4fptLj3g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQGdua9g9EO6hA/profile-displayphoto-shrink_400_400/B4EZRBNVw_HEAk-/0/1736260804158?e=1745452800&v=beta&t=RKrFzZf_KB9nWGomlqLWo5_xy4ceUr6cru_BMpvcwB0",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFC0-yEOUT2sw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1608718322829?e=1745452800&v=beta&t=0UDeX0XOOZJh2Obxg0SEUhmyzVCyKDfG9So9XjhHg0s",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106772406",
+            "positions": [
+                {
+                    "title": "Pressesprecher / Spokesperson",
+                    "locationName": "Wetzlar, Hessen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2025
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Consumer Electronics"
+                        ],
+                        "objectUrn": "urn:li:company:55631",
+                        "entityUrn": "urn:li:fs_miniCompany:55631",
+                        "name": "Leica Camera AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGpoZrspsBdfA/company-logo_200_200/company-logo_200_200/0/1633951243279/leica_camera_ag_logo?e=1747872000&v=beta&t=QZI03caDs8Pmt_QjhySyoVrfoEsw7I-fAUVOPEH7kGM",
+                        "universalName": "leica-camera-ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:55631",
+                        "trackingId": "jwfzBAO3R6m76nPPkelUSg=="
+                    },
+                    "companyName": "Leica Camera AG"
+                },
+                {
+                    "title": "Leitender Redakteur für strategischen Content",
+                    "locationName": "Wiesloch, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Machinery"
+                        ],
+                        "objectUrn": "urn:li:company:164161",
+                        "entityUrn": "urn:li:fs_miniCompany:164161",
+                        "name": "Heidelberger Druckmaschinen AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEi0RLeVM2BOA/company-logo_200_200/company-logo_200_200/0/1658836774052/heidelberg_logo?e=1747872000&v=beta&t=oa_Nu8y92UWF3TxUnYTAFkILKSQWNgwjTnd50z5Qm3o",
+                        "universalName": "heidelberg",
+                        "dashCompanyUrn": "urn:li:fsd_company:164161",
+                        "trackingId": "W5y+aFx/SIe6iMgkYSr0og=="
+                    },
+                    "companyName": "Heidelberger Druckmaschinen AG"
+                },
+                {
+                    "title": "Pressesprecher",
+                    "description": "Konjunktur und Wirtschaft, Digitalisierung, Automatisierung, Drucktechnik, Elektromobilität, Maschinenbau",
+                    "locationName": "Wiesloch, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Machinery"
+                        ],
+                        "objectUrn": "urn:li:company:164161",
+                        "entityUrn": "urn:li:fs_miniCompany:164161",
+                        "name": "Heidelberger Druckmaschinen AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEi0RLeVM2BOA/company-logo_200_200/company-logo_200_200/0/1658836774052/heidelberg_logo?e=1747872000&v=beta&t=oa_Nu8y92UWF3TxUnYTAFkILKSQWNgwjTnd50z5Qm3o",
+                        "universalName": "heidelberg",
+                        "dashCompanyUrn": "urn:li:fsd_company:164161",
+                        "trackingId": "x0yUALnRRuCi5vi0+jyZeg=="
+                    },
+                    "companyName": "Heidelberger Druckmaschinen AG"
+                },
+                {
+                    "title": "Pressesprecher und Redakteur",
+                    "description": "Konjunktur und Wirtschaft, Digitalisierung, Mittelstand, Leitung \"VCI-Branchenticker – Chemie und Pharma im Blick\", Konzeption und Redaktion Twitterkanal @chemieverband, Social Media",
+                    "locationName": "Frankfurt Am Main Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Chemicals"
+                        ],
+                        "objectUrn": "urn:li:company:10403716",
+                        "entityUrn": "urn:li:fs_miniCompany:10403716",
+                        "name": "German Chemical Industry Association VCI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGGg6M8xJFV6g/company-logo_200_200/company-logo_200_200/0/1630550489606/verband_der_chemischen_industrie_e_v__vci__logo?e=1747872000&v=beta&t=Z65648xQTytAi-fU_Wrrl_9ef3Km6kLsLO7mbyk8mPM",
+                        "universalName": "verband-der-chemischen-industrie-e-v-vci-",
+                        "dashCompanyUrn": "urn:li:fsd_company:10403716",
+                        "trackingId": "PugVmtZSR9as2S/Bmn2KMQ=="
+                    },
+                    "companyName": "Verband der Chemischen Industrie e.V. (VCI)"
+                },
+                {
+                    "title": "Leiter Presse- und Öffentlichkeitsarbeit, Wirtschaftspolitik und Statistik",
+                    "description": "Versand- und Onlinehandel, E-Commerce, Konjunktur und Wirtschaft, Branchenstatistik",
+                    "locationName": "Frankfurt Am Main Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2007
+                        }
+                    },
+                    "companyName": "Bundesverband des Deutschen Versandhandels (bvh) (heute: bevh)"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Politikwissenschaft, Öffentliches Recht, Medienwissenschaft",
+                    "schoolName": "Philipps-Universität Marburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 1998
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch"
+                },
+                {
+                    "name": "Englisch"
+                }
+            ],
+            "skills": [
+                "Kommunikationsplanung",
+                "Finanzberichterstattung Unternehmen",
+                "Recherche",
+                "Schreiben"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Stv. Landessprecher für Hessen / Rheinland-Pfalz / Saarland",
+                    "description": "Veranstaltungen für Mitglieder zu aktuellen Kommunikationsthemen organisieren",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "BdKom - Bundesverband der Kommunikatoren",
+                    "cause": "EDUCATION"
+                },
+                {
+                    "role": "Landessprecher für Hessen / Rheinland-Pfalz / Saarland",
+                    "description": "Veranstaltungen für Mitglieder zu aktuellen Kommunikationsthemen organisieren",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "companyName": "BdKom - Bundesverband der Kommunikatoren"
+                }
+            ],
+            "headline": "Pressesprecher / Spokesperson",
+            "summary": "Medien- und Pressesprecher / Landessprecher für Hessen / Rheinland-Pfalz / Saarland im Bundesverband der Kommunikatoren (BdKom). Wetzlar und Frankfurt am Main.",
+            "student": false,
+            "industryName": "Photography",
+            "industryUrn": "urn:li:fs_industry:136",
+            "geoLocationName": "Frankfurt, Hesse",
+            "geoCountryName": "Germany",
+            "jobTitle": "Pressesprecher / Spokesperson",
+            "companyName": "Leica Camera AG",
+            "companyPublicId": "leica-camera-ag",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/leica-camera-ag",
+            "following": false,
+            "followable": false,
+            "followersCount": 1151,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Leica Camera AG",
+        "position": "Pressesprecher / Spokesperson",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Consumer Electronics"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Pressesprecher / Spokesperson",
+        "organization": "Leica Camera AG",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/oliverclaas/",
+        "company": "https://www.linkedin.com/company/leica-camera-ag"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Pressesprecher / Spokesperson",
+            "locationName": "Wetzlar, Hessen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2025
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Consumer Electronics"
+                ],
+                "objectUrn": "urn:li:company:55631",
+                "entityUrn": "urn:li:fs_miniCompany:55631",
+                "name": "Leica Camera AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGpoZrspsBdfA/company-logo_200_200/company-logo_200_200/0/1633951243279/leica_camera_ag_logo?e=1747872000&v=beta&t=QZI03caDs8Pmt_QjhySyoVrfoEsw7I-fAUVOPEH7kGM",
+                "universalName": "leica-camera-ag",
+                "dashCompanyUrn": "urn:li:fsd_company:55631",
+                "trackingId": "jwfzBAO3R6m76nPPkelUSg=="
+            },
+            "companyName": "Leica Camera AG"
+        },
+        {
+            "title": "Leitender Redakteur für strategischen Content",
+            "locationName": "Wiesloch, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Machinery"
+                ],
+                "objectUrn": "urn:li:company:164161",
+                "entityUrn": "urn:li:fs_miniCompany:164161",
+                "name": "Heidelberger Druckmaschinen AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEi0RLeVM2BOA/company-logo_200_200/company-logo_200_200/0/1658836774052/heidelberg_logo?e=1747872000&v=beta&t=oa_Nu8y92UWF3TxUnYTAFkILKSQWNgwjTnd50z5Qm3o",
+                "universalName": "heidelberg",
+                "dashCompanyUrn": "urn:li:fsd_company:164161",
+                "trackingId": "W5y+aFx/SIe6iMgkYSr0og=="
+            },
+            "companyName": "Heidelberger Druckmaschinen AG"
+        },
+        {
+            "title": "Pressesprecher",
+            "description": "Konjunktur und Wirtschaft, Digitalisierung, Automatisierung, Drucktechnik, Elektromobilität, Maschinenbau",
+            "locationName": "Wiesloch, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Machinery"
+                ],
+                "objectUrn": "urn:li:company:164161",
+                "entityUrn": "urn:li:fs_miniCompany:164161",
+                "name": "Heidelberger Druckmaschinen AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEi0RLeVM2BOA/company-logo_200_200/company-logo_200_200/0/1658836774052/heidelberg_logo?e=1747872000&v=beta&t=oa_Nu8y92UWF3TxUnYTAFkILKSQWNgwjTnd50z5Qm3o",
+                "universalName": "heidelberg",
+                "dashCompanyUrn": "urn:li:fsd_company:164161",
+                "trackingId": "x0yUALnRRuCi5vi0+jyZeg=="
+            },
+            "companyName": "Heidelberger Druckmaschinen AG"
+        },
+        {
+            "title": "Pressesprecher und Redakteur",
+            "description": "Konjunktur und Wirtschaft, Digitalisierung, Mittelstand, Leitung \"VCI-Branchenticker – Chemie und Pharma im Blick\", Konzeption und Redaktion Twitterkanal @chemieverband, Social Media",
+            "locationName": "Frankfurt Am Main Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Chemicals"
+                ],
+                "objectUrn": "urn:li:company:10403716",
+                "entityUrn": "urn:li:fs_miniCompany:10403716",
+                "name": "German Chemical Industry Association VCI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGGg6M8xJFV6g/company-logo_200_200/company-logo_200_200/0/1630550489606/verband_der_chemischen_industrie_e_v__vci__logo?e=1747872000&v=beta&t=Z65648xQTytAi-fU_Wrrl_9ef3Km6kLsLO7mbyk8mPM",
+                "universalName": "verband-der-chemischen-industrie-e-v-vci-",
+                "dashCompanyUrn": "urn:li:fsd_company:10403716",
+                "trackingId": "PugVmtZSR9as2S/Bmn2KMQ=="
+            },
+            "companyName": "Verband der Chemischen Industrie e.V. (VCI)"
+        },
+        {
+            "title": "Leiter Presse- und Öffentlichkeitsarbeit, Wirtschaftspolitik und Statistik",
+            "description": "Versand- und Onlinehandel, E-Commerce, Konjunktur und Wirtschaft, Branchenstatistik",
+            "locationName": "Frankfurt Am Main Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2007
+                }
+            },
+            "companyName": "Bundesverband des Deutschen Versandhandels (bvh) (heute: bevh)"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Politikwissenschaft, Öffentliches Recht, Medienwissenschaft",
+            "schoolName": "Philipps-Universität Marburg",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2003
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 1998
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Kommunikationsplanung",
+        "Finanzberichterstattung Unternehmen",
+        "Recherche",
+        "Schreiben"
+    ],
+    "lastEnriched": "2025-02-17"
+}

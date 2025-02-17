@@ -1,0 +1,539 @@
+{
+    "id": "exp601888323",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Tobias",
+        "lastName": "Kutscheidt",
+        "fullName": "Tobias Kutscheidt",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGe8YYK4lsX1A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1566041516766?e=1745452800&v=beta&t=UI-4iyfekSsPXfW8d3YGYadN8CHpieHG-1TzvKiEudg",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "601888323",
+            "profileId": "ACoAACPgFkMBxs_-QMjjNKQGmtZW3TG-wbXGfzk",
+            "firstName": "Tobias",
+            "lastName": "Kutscheidt",
+            "occupation": "Fully Qualified Lawyer",
+            "publicIdentifier": "tobiaskutscheidt",
+            "trackingId": "Qph6oUwLRdu48bUi29pDmQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGe8YYK4lsX1A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1566041516766?e=1745452800&v=beta&t=UI-4iyfekSsPXfW8d3YGYadN8CHpieHG-1TzvKiEudg",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:103990938",
+            "positions": [
+                {
+                    "title": "Legal Counsel",
+                    "locationName": "Bonn",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:1593",
+                        "entityUrn": "urn:li:fs_miniCompany:1593",
+                        "name": "Deutsche Telekom",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEWmXes9VVQNA/company-logo_200_200/company-logo_200_200/0/1722505420199/telekom_logo?e=1747872000&v=beta&t=jecCJ4CZjfLpEjvLj9VcZfM9j5phZHCVkizKqcfZmS0",
+                        "universalName": "telekom",
+                        "dashCompanyUrn": "urn:li:fsd_company:1593",
+                        "trackingId": "U69pOdwSST2MjjhD6HbvVQ=="
+                    },
+                    "companyName": "Deutsche Telekom"
+                },
+                {
+                    "title": "Public Officer",
+                    "description": "Ruling Chamber 6 -Regulation of access to electricity supply networks.",
+                    "locationName": "Bonn",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:37352318",
+                        "entityUrn": "urn:li:fs_miniCompany:37352318",
+                        "name": "Bundesnetzagentur",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH2aay9h71zBQ/company-logo_200_200/company-logo_200_200/0/1695904341295/bundesnetzagentur_logo?e=1747872000&v=beta&t=YlO7vQV-2VuXSzuCrDGAB9uYkJ-MjHsshvRDl7hongs",
+                        "universalName": "bundesnetzagentur",
+                        "dashCompanyUrn": "urn:li:fsd_company:37352318",
+                        "trackingId": "UxGFbWkHQEyGR01M/I9z9w=="
+                    },
+                    "companyName": "Federal Network Agency"
+                },
+                {
+                    "title": "Legal Trainee",
+                    "description": "Trainee lawyer at the District Court Of Bonn",
+                    "locationName": "Bonn Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:12482004",
+                        "entityUrn": "urn:li:fs_miniCompany:12482004",
+                        "name": "Landgericht Bonn",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "landgericht-bonn",
+                        "dashCompanyUrn": "urn:li:fsd_company:12482004",
+                        "trackingId": "qjXSmaq0Soqi56s2iBnkeQ=="
+                    },
+                    "companyName": "District Court Bonn"
+                },
+                {
+                    "title": "Legal Trainee",
+                    "description": "Osborne Clarke\n\nIP & IT law\nE-Commerce law",
+                    "locationName": "Bonn, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:12482004",
+                        "entityUrn": "urn:li:fs_miniCompany:12482004",
+                        "name": "Landgericht Bonn",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "landgericht-bonn",
+                        "dashCompanyUrn": "urn:li:fsd_company:12482004",
+                        "trackingId": "1SgdRBdhSruLVRRQw/GW6w=="
+                    },
+                    "companyName": "Landgericht Bonn"
+                },
+                {
+                    "title": "Legal Trainee",
+                    "description": "•IP & IT law\n•E-Commerce law",
+                    "locationName": "Cologne, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:37775687",
+                        "entityUrn": "urn:li:fs_miniCompany:37775687",
+                        "name": "Osborne Clarke Germany",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG4wLQfGGpBtg/company-logo_200_200/company-logo_200_200/0/1630542713657/osborne_clarke_germany_logo?e=1747872000&v=beta&t=Vpt_dN9Qy57tM9v14gCB5KRXYKnOB-f-_7_wm_WfX0s",
+                        "universalName": "osborne-clarke-germany",
+                        "dashCompanyUrn": "urn:li:fsd_company:37775687",
+                        "trackingId": "BBQt7pkTQ0i7/ySzSRvfCA=="
+                    },
+                    "companyName": "Osborne Clarke Germany"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "First State Exame",
+                    "fieldOfStudy": "Law",
+                    "schoolName": "Rhenish Friedrich-Wilhelm University of Bonn",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    }
+                },
+                {
+                    "degreeName": "UNIcert®-Certificate Level III",
+                    "fieldOfStudy": "Bonn FFA Program for law students in English",
+                    "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Zertifikatslehrgang Digital Legal Counsel",
+                    "authority": "Bundesverband der Unternehmensjuristinnen und Unternehmensjuristen e.V. (BUJ)"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Gesellschaftsrecht und Ökonomie"
+                },
+                {
+                    "name": "Grundlagen der Mediation"
+                },
+                {
+                    "name": "Medienrecht"
+                },
+                {
+                    "name": "Recht des grenzüberschreitenden Handelsverkehrs"
+                },
+                {
+                    "name": "Urheberrecht"
+                },
+                {
+                    "name": "Zivilrecht und Ökonomie"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                }
+            ],
+            "skills": [
+                "Legal Tech",
+                "Künstliche Intelligenz (KI)",
+                "Urheberrecht",
+                "Vertragsverhandlungen"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Mitglied",
+                    "description": "Bis Anfang 2022: Hochschulgruppe Bonn \n• Arbeitskreis Öffentlichkeitsarbeit\n• Arbeitskreis Flucht und Asyl",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Amnesty International",
+                    "cause": "HUMAN_RIGHTS"
+                },
+                {
+                    "role": "Mentor",
+                    "description": "Mentoring von Studierenden der Rechtswissenschaft, die in der ersten Generation studieren.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "ArbeiterKind.de gGmbH",
+                    "cause": "ECONOMIC_EMPOWERMENT"
+                },
+                {
+                    "role": "Mitglied",
+                    "description": "2022-2023: stellv. Vorstand",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "INFINITY Bonn e.V.",
+                    "cause": "ENVIRONMENT"
+                }
+            ],
+            "headline": "Fully Qualified Lawyer",
+            "summary": "-",
+            "student": false,
+            "industryName": "Law Practice",
+            "industryUrn": "urn:li:fs_industry:9",
+            "geoLocationName": "Bonn, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Legal Counsel",
+            "companyName": "Deutsche Telekom",
+            "companyPublicId": "telekom",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/telekom",
+            "following": false,
+            "followable": true,
+            "followersCount": 737,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Deutsche Telekom",
+        "position": "Legal Counsel",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Telecommunications"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Legal Counsel",
+        "organization": "Deutsche Telekom",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/tobiaskutscheidt/",
+        "company": "https://www.linkedin.com/company/telekom"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Legal Counsel",
+            "locationName": "Bonn",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:1593",
+                "entityUrn": "urn:li:fs_miniCompany:1593",
+                "name": "Deutsche Telekom",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEWmXes9VVQNA/company-logo_200_200/company-logo_200_200/0/1722505420199/telekom_logo?e=1747872000&v=beta&t=jecCJ4CZjfLpEjvLj9VcZfM9j5phZHCVkizKqcfZmS0",
+                "universalName": "telekom",
+                "dashCompanyUrn": "urn:li:fsd_company:1593",
+                "trackingId": "U69pOdwSST2MjjhD6HbvVQ=="
+            },
+            "companyName": "Deutsche Telekom"
+        },
+        {
+            "title": "Public Officer",
+            "description": "Ruling Chamber 6 -Regulation of access to electricity supply networks.",
+            "locationName": "Bonn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:37352318",
+                "entityUrn": "urn:li:fs_miniCompany:37352318",
+                "name": "Bundesnetzagentur",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH2aay9h71zBQ/company-logo_200_200/company-logo_200_200/0/1695904341295/bundesnetzagentur_logo?e=1747872000&v=beta&t=YlO7vQV-2VuXSzuCrDGAB9uYkJ-MjHsshvRDl7hongs",
+                "universalName": "bundesnetzagentur",
+                "dashCompanyUrn": "urn:li:fsd_company:37352318",
+                "trackingId": "UxGFbWkHQEyGR01M/I9z9w=="
+            },
+            "companyName": "Federal Network Agency"
+        },
+        {
+            "title": "Legal Trainee",
+            "description": "Trainee lawyer at the District Court Of Bonn",
+            "locationName": "Bonn Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:12482004",
+                "entityUrn": "urn:li:fs_miniCompany:12482004",
+                "name": "Landgericht Bonn",
+                "showcase": false,
+                "active": true,
+                "universalName": "landgericht-bonn",
+                "dashCompanyUrn": "urn:li:fsd_company:12482004",
+                "trackingId": "qjXSmaq0Soqi56s2iBnkeQ=="
+            },
+            "companyName": "District Court Bonn"
+        },
+        {
+            "title": "Legal Trainee",
+            "description": "Osborne Clarke\n\nIP & IT law\nE-Commerce law",
+            "locationName": "Bonn, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:12482004",
+                "entityUrn": "urn:li:fs_miniCompany:12482004",
+                "name": "Landgericht Bonn",
+                "showcase": false,
+                "active": true,
+                "universalName": "landgericht-bonn",
+                "dashCompanyUrn": "urn:li:fsd_company:12482004",
+                "trackingId": "1SgdRBdhSruLVRRQw/GW6w=="
+            },
+            "companyName": "Landgericht Bonn"
+        },
+        {
+            "title": "Legal Trainee",
+            "description": "•IP & IT law\n•E-Commerce law",
+            "locationName": "Cologne, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:37775687",
+                "entityUrn": "urn:li:fs_miniCompany:37775687",
+                "name": "Osborne Clarke Germany",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG4wLQfGGpBtg/company-logo_200_200/company-logo_200_200/0/1630542713657/osborne_clarke_germany_logo?e=1747872000&v=beta&t=Vpt_dN9Qy57tM9v14gCB5KRXYKnOB-f-_7_wm_WfX0s",
+                "universalName": "osborne-clarke-germany",
+                "dashCompanyUrn": "urn:li:fsd_company:37775687",
+                "trackingId": "BBQt7pkTQ0i7/ySzSRvfCA=="
+            },
+            "companyName": "Osborne Clarke Germany"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "First State Exame",
+            "fieldOfStudy": "Law",
+            "schoolName": "Rhenish Friedrich-Wilhelm University of Bonn",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            }
+        },
+        {
+            "degreeName": "UNIcert®-Certificate Level III",
+            "fieldOfStudy": "Bonn FFA Program for law students in English",
+            "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Zertifikatslehrgang Digital Legal Counsel",
+            "authority": "Bundesverband der Unternehmensjuristinnen und Unternehmensjuristen e.V. (BUJ)"
+        }
+    ],
+    "skills": [
+        "Legal Tech",
+        "Künstliche Intelligenz (KI)",
+        "Urheberrecht",
+        "Vertragsverhandlungen"
+    ],
+    "lastEnriched": "2025-02-17"
+}

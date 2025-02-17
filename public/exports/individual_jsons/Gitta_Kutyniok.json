@@ -1,0 +1,417 @@
+{
+    "id": "exp52486632",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Gitta",
+        "lastName": "Kutyniok",
+        "fullName": "Gitta Kutyniok",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQFlCtKXmKMT5w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1654065476394?e=1745452800&v=beta&t=wYYTYTLJVj9HEXsBokOwnsP4GFK5kRE08dev7rt27X8",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "52486632",
+            "profileId": "ACoAAAMg4egBnT-dMw4VyJR7tdTe0Z-9xhGUZZI",
+            "firstName": "Gitta",
+            "lastName": "Kutyniok",
+            "occupation": "Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence at Ludwig-Maximilians Universität München",
+            "publicIdentifier": "gitta-kutyniok-2606b215",
+            "trackingId": "U00oMZ8JQyKj/AxTBzdFcg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFlCtKXmKMT5w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1654065476394?e=1745452800&v=beta&t=wYYTYTLJVj9HEXsBokOwnsP4GFK5kRE08dev7rt27X8",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQH9sagU035zpA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1658653912253?e=1745452800&v=beta&t=vgZRojZnQKwHsF1YpXszywdnTB4kCE6umHQ-lGaUAmE",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence",
+                    "locationName": "Munich, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:596185",
+                        "entityUrn": "urn:li:fs_miniCompany:596185",
+                        "name": "Ludwig-Maximilians-Universität München",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                        "universalName": "lmu.muenchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:596185",
+                        "trackingId": "SGRCUWMaTL2n3vEbQMtzQw=="
+                    },
+                    "companyName": "Ludwig-Maximilians Universität München"
+                },
+                {
+                    "title": "Einstein Chair for Mathematics",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Education Management"
+                        ],
+                        "objectUrn": "urn:li:company:1188458",
+                        "entityUrn": "urn:li:fs_miniCompany:1188458",
+                        "name": "Technische Universität Berlin",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMPWp-fo0MWA/company-logo_200_200/company-logo_200_200/0/1675944963271/tuberlin_logo?e=1747872000&v=beta&t=J9Xp9mG9LYonP6xi5mWiQUnJ8RyAXM-2YOtsENQPNZc",
+                        "universalName": "tuberlin",
+                        "dashCompanyUrn": "urn:li:fsd_company:1188458",
+                        "trackingId": "w9vH/Oz1RdCW+UKsK+e6yA=="
+                    },
+                    "companyName": "Technische Universität Berlin"
+                },
+                {
+                    "title": "Full Professor",
+                    "locationName": "Osnabrück, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:45458",
+                        "entityUrn": "urn:li:fs_miniCompany:45458",
+                        "name": "Universität Osnabrück",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                        "universalName": "osnabrueck-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:45458",
+                        "trackingId": "o/HfxiiGSEeNhJfBYtqdDw=="
+                    },
+                    "companyName": "Universität Osnabrück"
+                },
+                {
+                    "title": "Visiting Research Fellow",
+                    "locationName": "New Haven, USA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15248569",
+                        "entityUrn": "urn:li:fs_miniCompany:15248569",
+                        "name": "Yale University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_200_200/company-logo_200_200/0/1631385636084?e=1747872000&v=beta&t=6LiVbn5qimLPZU9smZ7lqz9vyIU61en94TUvUfcslZw",
+                        "universalName": "yale-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:15248569",
+                        "trackingId": "aIAbBfyOTbu3QG0NTKNJWg=="
+                    },
+                    "companyName": "Yale University"
+                },
+                {
+                    "title": "Visiting Research Fellow",
+                    "locationName": "Stanford, USA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1792",
+                        "entityUrn": "urn:li:fs_miniCompany:1792",
+                        "name": "Stanford University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                        "universalName": "stanford-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:1792",
+                        "trackingId": "YSyN0xdzQmuUtyySxxm0Zg=="
+                    },
+                    "companyName": "Stanford University"
+                }
+            ],
+            "educations": [],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Signal Processing",
+                "Algorithms",
+                "Scientific Computing",
+                "Computer Vision"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence at Ludwig-Maximilians Universität München",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence",
+            "companyName": "Ludwig-Maximilians Universität München",
+            "companyPublicId": "lmu.muenchen",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/lmu.muenchen",
+            "following": false,
+            "followable": true,
+            "followersCount": 4441,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Ludwig-Maximilians Universität München",
+        "position": "Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence",
+        "organization": "Ludwig-Maximilians Universität München",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/gitta-kutyniok-2606b215/",
+        "company": "https://www.linkedin.com/company/lmu.muenchen"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Bavarian AI Chair for Mathematical Foundations of Artificial Intelligence",
+            "locationName": "Munich, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:596185",
+                "entityUrn": "urn:li:fs_miniCompany:596185",
+                "name": "Ludwig-Maximilians-Universität München",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                "universalName": "lmu.muenchen",
+                "dashCompanyUrn": "urn:li:fsd_company:596185",
+                "trackingId": "SGRCUWMaTL2n3vEbQMtzQw=="
+            },
+            "companyName": "Ludwig-Maximilians Universität München"
+        },
+        {
+            "title": "Einstein Chair for Mathematics",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Education Management"
+                ],
+                "objectUrn": "urn:li:company:1188458",
+                "entityUrn": "urn:li:fs_miniCompany:1188458",
+                "name": "Technische Universität Berlin",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGMPWp-fo0MWA/company-logo_200_200/company-logo_200_200/0/1675944963271/tuberlin_logo?e=1747872000&v=beta&t=J9Xp9mG9LYonP6xi5mWiQUnJ8RyAXM-2YOtsENQPNZc",
+                "universalName": "tuberlin",
+                "dashCompanyUrn": "urn:li:fsd_company:1188458",
+                "trackingId": "w9vH/Oz1RdCW+UKsK+e6yA=="
+            },
+            "companyName": "Technische Universität Berlin"
+        },
+        {
+            "title": "Full Professor",
+            "locationName": "Osnabrück, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:45458",
+                "entityUrn": "urn:li:fs_miniCompany:45458",
+                "name": "Universität Osnabrück",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                "universalName": "osnabrueck-university",
+                "dashCompanyUrn": "urn:li:fsd_company:45458",
+                "trackingId": "o/HfxiiGSEeNhJfBYtqdDw=="
+            },
+            "companyName": "Universität Osnabrück"
+        },
+        {
+            "title": "Visiting Research Fellow",
+            "locationName": "New Haven, USA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15248569",
+                "entityUrn": "urn:li:fs_miniCompany:15248569",
+                "name": "Yale University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGGJUjGgSYcWQ/company-logo_200_200/company-logo_200_200/0/1631385636084?e=1747872000&v=beta&t=6LiVbn5qimLPZU9smZ7lqz9vyIU61en94TUvUfcslZw",
+                "universalName": "yale-university",
+                "dashCompanyUrn": "urn:li:fsd_company:15248569",
+                "trackingId": "aIAbBfyOTbu3QG0NTKNJWg=="
+            },
+            "companyName": "Yale University"
+        },
+        {
+            "title": "Visiting Research Fellow",
+            "locationName": "Stanford, USA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1792",
+                "entityUrn": "urn:li:fs_miniCompany:1792",
+                "name": "Stanford University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                "universalName": "stanford-university",
+                "dashCompanyUrn": "urn:li:fsd_company:1792",
+                "trackingId": "YSyN0xdzQmuUtyySxxm0Zg=="
+            },
+            "companyName": "Stanford University"
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "skills": [
+        "Signal Processing",
+        "Algorithms",
+        "Scientific Computing",
+        "Computer Vision"
+    ],
+    "lastEnriched": "2025-02-17"
+}

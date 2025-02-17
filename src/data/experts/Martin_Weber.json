@@ -1,0 +1,433 @@
+{
+    "id": "exp55554824",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Martin",
+        "lastName": "Weber",
+        "fullName": "Martin Weber",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHB6inhxg0amw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516606398349?e=1745452800&v=beta&t=CLklwhZv6n6vmt7uk-kE1LFgnBj-j0ponV6fzP3spzM",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German"
+        ],
+        "allData": {
+            "id": "55554824",
+            "profileId": "ACoAAANPswgBZ5MLoSy4PYMmttJ1OkPaJOMRC5U",
+            "firstName": "Martin",
+            "lastName": "Weber",
+            "occupation": "Senior Scientific Manager at Genentech",
+            "publicIdentifier": "martin-weber-94873116",
+            "trackingId": "Py3DN09QSlmO9mUSkRLAwQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHB6inhxg0amw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516606398349?e=1745452800&v=beta&t=CLklwhZv6n6vmt7uk-kE1LFgnBj-j0ponV6fzP3spzM",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000084",
+            "positions": [
+                {
+                    "title": "Senior Scientific Manager",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:2276",
+                        "entityUrn": "urn:li:fs_miniCompany:2276",
+                        "name": "Genentech",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJzRYHjuNbMg/company-logo_200_200/company-logo_200_200/0/1677024169902/genentech_logo?e=1747872000&v=beta&t=FcKhccmjaubk5jP0GUXL2hhdXqk46hWly1kvW4hueCw",
+                        "universalName": "genentech",
+                        "dashCompanyUrn": "urn:li:fsd_company:2276",
+                        "trackingId": "VFBJo1V/RKCjGHSDdjzv7g=="
+                    },
+                    "companyName": "Genentech"
+                },
+                {
+                    "title": "Senior Scientific Researcher",
+                    "description": "Department of Neuroscience",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:2276",
+                        "entityUrn": "urn:li:fs_miniCompany:2276",
+                        "name": "Genentech",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJzRYHjuNbMg/company-logo_200_200/company-logo_200_200/0/1677024169902/genentech_logo?e=1747872000&v=beta&t=FcKhccmjaubk5jP0GUXL2hhdXqk46hWly1kvW4hueCw",
+                        "universalName": "genentech",
+                        "dashCompanyUrn": "urn:li:fsd_company:2276",
+                        "trackingId": "Q5nHHjsFROqVaBO70KVRxQ=="
+                    },
+                    "companyName": "Genentech"
+                },
+                {
+                    "title": "Faculty (Asst. Proj. Scientist)",
+                    "description": "Department of Psychiatry",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3382",
+                        "entityUrn": "urn:li:fs_miniCompany:3382",
+                        "name": "UC San Diego",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1747872000&v=beta&t=y3vtcOBk9REheO9hqG-VBZAppZJTWW_P0TMMF8JMAgE",
+                        "universalName": "ucsandiego",
+                        "dashCompanyUrn": "urn:li:fsd_company:3382",
+                        "trackingId": "8vk7VltyQUOCX9nsey4rog=="
+                    },
+                    "companyName": "UC San Diego"
+                },
+                {
+                    "title": "Postdoctoral Fellow",
+                    "description": "Department of Psychiatry",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3382",
+                        "entityUrn": "urn:li:fs_miniCompany:3382",
+                        "name": "UC San Diego",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1747872000&v=beta&t=y3vtcOBk9REheO9hqG-VBZAppZJTWW_P0TMMF8JMAgE",
+                        "universalName": "ucsandiego",
+                        "dashCompanyUrn": "urn:li:fsd_company:3382",
+                        "trackingId": "4QM7PPrQTqCMbYVDPmgSxQ=="
+                    },
+                    "companyName": "UC San Diego"
+                },
+                {
+                    "title": "Laboratory Head",
+                    "description": "Drug Discovery Research",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:2098633",
+                        "entityUrn": "urn:li:fs_miniCompany:2098633",
+                        "name": "Biotech Industry",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "biotech-industry",
+                        "dashCompanyUrn": "urn:li:fsd_company:2098633",
+                        "trackingId": "lz3ExMdQTliJJE4AnXUpRQ=="
+                    },
+                    "companyName": "Biotech Industry"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Ph.D.",
+                    "fieldOfStudy": "Neurophysiology",
+                    "schoolName": "University of Heidelberg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Pharmacology",
+                "Behavioral Neuroscience",
+                "Animal Models",
+                "Drug Discovery"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Senior Scientific Manager at Genentech",
+            "summary": "* Experienced in vivo neuroscientist with more than 15 years of combined experience in drug discovery research in biotech, big pharma, & academia\n\n* Proven track record in enabling data-driving pipeline decisions\n* Experienced in managing laboratory personnel\n\n* Holds a faculty position at UCSD\n\n\n\n\n",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "San Francisco Bay Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Senior Scientific Manager",
+            "companyName": "Genentech",
+            "companyPublicId": "genentech",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/genentech",
+            "following": false,
+            "followable": true,
+            "followersCount": 409,
+            "connectionsCount": 407,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Genentech",
+        "position": "Senior Scientific Manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Biotechnology"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Scientific Manager",
+        "organization": "Genentech",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/martin-weber-94873116/",
+        "company": "https://www.linkedin.com/company/genentech"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Scientific Manager",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:2276",
+                "entityUrn": "urn:li:fs_miniCompany:2276",
+                "name": "Genentech",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJzRYHjuNbMg/company-logo_200_200/company-logo_200_200/0/1677024169902/genentech_logo?e=1747872000&v=beta&t=FcKhccmjaubk5jP0GUXL2hhdXqk46hWly1kvW4hueCw",
+                "universalName": "genentech",
+                "dashCompanyUrn": "urn:li:fsd_company:2276",
+                "trackingId": "VFBJo1V/RKCjGHSDdjzv7g=="
+            },
+            "companyName": "Genentech"
+        },
+        {
+            "title": "Senior Scientific Researcher",
+            "description": "Department of Neuroscience",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:2276",
+                "entityUrn": "urn:li:fs_miniCompany:2276",
+                "name": "Genentech",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHJzRYHjuNbMg/company-logo_200_200/company-logo_200_200/0/1677024169902/genentech_logo?e=1747872000&v=beta&t=FcKhccmjaubk5jP0GUXL2hhdXqk46hWly1kvW4hueCw",
+                "universalName": "genentech",
+                "dashCompanyUrn": "urn:li:fsd_company:2276",
+                "trackingId": "Q5nHHjsFROqVaBO70KVRxQ=="
+            },
+            "companyName": "Genentech"
+        },
+        {
+            "title": "Faculty (Asst. Proj. Scientist)",
+            "description": "Department of Psychiatry",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3382",
+                "entityUrn": "urn:li:fs_miniCompany:3382",
+                "name": "UC San Diego",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1747872000&v=beta&t=y3vtcOBk9REheO9hqG-VBZAppZJTWW_P0TMMF8JMAgE",
+                "universalName": "ucsandiego",
+                "dashCompanyUrn": "urn:li:fsd_company:3382",
+                "trackingId": "8vk7VltyQUOCX9nsey4rog=="
+            },
+            "companyName": "UC San Diego"
+        },
+        {
+            "title": "Postdoctoral Fellow",
+            "description": "Department of Psychiatry",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3382",
+                "entityUrn": "urn:li:fs_miniCompany:3382",
+                "name": "UC San Diego",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1747872000&v=beta&t=y3vtcOBk9REheO9hqG-VBZAppZJTWW_P0TMMF8JMAgE",
+                "universalName": "ucsandiego",
+                "dashCompanyUrn": "urn:li:fsd_company:3382",
+                "trackingId": "4QM7PPrQTqCMbYVDPmgSxQ=="
+            },
+            "companyName": "UC San Diego"
+        },
+        {
+            "title": "Laboratory Head",
+            "description": "Drug Discovery Research",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "company": {
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:2098633",
+                "entityUrn": "urn:li:fs_miniCompany:2098633",
+                "name": "Biotech Industry",
+                "showcase": false,
+                "active": true,
+                "universalName": "biotech-industry",
+                "dashCompanyUrn": "urn:li:fsd_company:2098633",
+                "trackingId": "lz3ExMdQTliJJE4AnXUpRQ=="
+            },
+            "companyName": "Biotech Industry"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Ph.D.",
+            "fieldOfStudy": "Neurophysiology",
+            "schoolName": "University of Heidelberg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Pharmacology",
+        "Behavioral Neuroscience",
+        "Animal Models",
+        "Drug Discovery"
+    ],
+    "lastEnriched": "2025-02-17"
+}

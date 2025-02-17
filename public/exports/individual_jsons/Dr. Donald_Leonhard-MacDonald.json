@@ -1,0 +1,439 @@
+{
+    "id": "exp6787916",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Donald",
+        "lastName": "Leonhard-MacDonald",
+        "fullName": "Dr. Donald Leonhard-MacDonald",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQFpj9zwEVfZpQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516259154685?e=1745452800&v=beta&t=t68o1UEu6AcG-sbWsPt0XyoRT4zR-uV2dLWK4KxKMes",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "6787916",
+            "profileId": "ACoAAABnk0wB7Qgf_rgVisP-FXfnxGVuX4NTuFk",
+            "firstName": "Dr. Donald",
+            "lastName": "Leonhard-MacDonald",
+            "occupation": "Director of Technology | appliedAI Initiative GmbH",
+            "publicIdentifier": "dmacd",
+            "trackingId": "vhrgx7uUQyCnDI0FE2fkRw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFpj9zwEVfZpQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516259154685?e=1745452800&v=beta&t=t68o1UEu6AcG-sbWsPt0XyoRT4zR-uV2dLWK4KxKMes",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106430557",
+            "positions": [
+                {
+                    "title": "Director Of Technology",
+                    "description": "Our purpose:\nAdvancing Europe's industry to compete in the age of AI, shaping a future that we desire to live in. \n\nWhat we do:\nWe are your partner for the application of trustworthy AI in the industry. We are offering a comprehensive range of products and services around AI: Partnership, Individual Solutions, AI Strategy, AI Training, AI Regulation & Governance, AI Use Case and MLOps.",
+                    "locationName": "Munich",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:27174449",
+                        "entityUrn": "urn:li:fs_miniCompany:27174449",
+                        "name": "appliedAI Initiative GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                        "universalName": "appliedai-initiative",
+                        "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                        "trackingId": "GVMbTho3Qc6A07Jham/fnQ=="
+                    },
+                    "companyName": "appliedAI Initiative GmbH"
+                },
+                {
+                    "title": "Managing Director",
+                    "description": "Leonhard-MacDonald Ventures GmbH specialises in real-time AI-powered process automation and business intelligence solutions using our proprietary combination of the latest big data technologies and cutting-edge AI algorithms.\n\nWe help our industry customers build AI prototypes and enable them to successfully implement large scale AI-powered digital transformation projects. ​\n\nWe're part of the NVIDIA Inception Program as well as the Google Cloud Startup Program. ",
+                    "locationName": "Munich",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:12612404",
+                        "entityUrn": "urn:li:fs_miniCompany:12612404",
+                        "name": "Leonhard-MacDonald Ventures GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGSQ-uB8szCHw/company-logo_200_200/company-logo_200_200/0/1630473556418/lmdventures_logo?e=1747872000&v=beta&t=YFG4q7tNOcSn1wsb4gBqaEct-HFFHsV5VYNdO9sIOjs",
+                        "universalName": "lmdventures",
+                        "dashCompanyUrn": "urn:li:fsd_company:12612404",
+                        "trackingId": "CTkmvqy/TgCNFpDZBZl/Xg=="
+                    },
+                    "companyName": "Leonhard-MacDonald Ventures GmbH"
+                },
+                {
+                    "title": "Director and CTO",
+                    "description": "Social Artisan has developed an innovative, machine learning based content analysis and lead generation tool based on cutting-edge research and technologies supported by a SMART award from Scottish Enterprise. \n\nOur technology identities in real-time the most relevant articles and social media content to provide key metrics illustrating the value of media coverage for businesses. Furthermore we identify potential customers based on the content they share to increase lead generation and drive sales for your business.",
+                    "locationName": "Edinburgh, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2012
+                        }
+                    },
+                    "companyName": "Social Artisan Ltd"
+                },
+                {
+                    "title": "Post Doctoral Researcher",
+                    "description": "The Edinburgh Data-Intensive Research group sits in the School of Informatics of the University of Edinburgh and is part of the UK's National e-Science Centre and the school's Centre for Intelligent Systems and their Applications. We collaborate closely with the National e-Science Hub of the University of Glasgow and EPCC of the University of Edinburgh.\n\nData-intensive refers to huge volumes of data, complex patterns of data integration and analysis and intricate interactions between combinations of users and systems that deal with these data. Our mission is to advance methods that harness the power of data and computation in collaborative environments. Our goal is to support the life cycle of data to information to knowledge in a multi-disciplinary and multi-organisational context. To achieve this we pursue research in e-Science and Informatics and apply our methods in several scientific and industrial domains.",
+                    "locationName": "Edinburgh, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:5738",
+                        "entityUrn": "urn:li:fs_miniCompany:5738",
+                        "name": "The University of Edinburgh",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFSi1nlisxTcg/company-logo_200_200/company-logo_200_200/0/1631312234132?e=1747872000&v=beta&t=YkZu6pCqr30ZD-exHXAWqhz8ikf9v-ikLscBv9qd9pQ",
+                        "universalName": "university-of-edinburgh",
+                        "dashCompanyUrn": "urn:li:fsd_company:5738",
+                        "trackingId": "/KvYTWhwQxu8dwlvIAWpaA=="
+                    },
+                    "companyName": "The University of Edinburgh"
+                },
+                {
+                    "title": "Research Scientist",
+                    "description": "Worked on the high profile Bioinformatics project, Open Microscopy Environment, which was awarded innovator of the year 2011 by the Biotechnology and Biological Sciences Research Council(BBSRC).\n\nDevelop content management software to store and analyse fluorescence and brightfield Microscopy images. see http://www.openmicroscopy.org.uk\nDevelop system for automated drug screening (both first and second level screens).",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166636",
+                        "entityUrn": "urn:li:fs_miniCompany:166636",
+                        "name": "University of Dundee",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHj5VeH6HJdsA/company-logo_200_200/company-logo_200_200/0/1663661625186/universityofdundee_logo?e=1747872000&v=beta&t=584cZkFeS477WFue1tVPPdtpz98jdFPOeQ6-IYdHXc0",
+                        "universalName": "universityofdundee",
+                        "dashCompanyUrn": "urn:li:fsd_company:166636",
+                        "trackingId": "RfkcyzrURRiv2lmqlLpVgw=="
+                    },
+                    "companyName": "The University of Dundee"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "University of Paisley",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1998
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BSc",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "University of Paisley",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Director level",
+                "Technology Leadership",
+                "Technology Management",
+                "IT Management"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Director of Technology | appliedAI Initiative GmbH",
+            "summary": "Technical innovator with a PhD in Artificial Intelligence and proven track record in developing and leading highly complex technical projects using the latest research in AI and cutting-edge technologies.\n\nKey Skills: Artificial Intelligence, Data Science, Management, Digital Transformation and Innovation.\n\nPublications: I have over 30 peer-reviewed publications on Machine Learning, Data Management and Analysis.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Hamburg, Hamburg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Director Of Technology",
+            "companyName": "appliedAI Initiative GmbH",
+            "companyPublicId": "appliedai-initiative",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/appliedai-initiative",
+            "following": false,
+            "followable": false,
+            "followersCount": 1256,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "appliedAI Initiative GmbH",
+        "position": "Director Of Technology",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director Of Technology",
+        "organization": "appliedAI Initiative GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dmacd/",
+        "company": "https://www.linkedin.com/company/appliedai-initiative"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director Of Technology",
+            "description": "Our purpose:\nAdvancing Europe's industry to compete in the age of AI, shaping a future that we desire to live in. \n\nWhat we do:\nWe are your partner for the application of trustworthy AI in the industry. We are offering a comprehensive range of products and services around AI: Partnership, Individual Solutions, AI Strategy, AI Training, AI Regulation & Governance, AI Use Case and MLOps.",
+            "locationName": "Munich",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:27174449",
+                "entityUrn": "urn:li:fs_miniCompany:27174449",
+                "name": "appliedAI Initiative GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXVucS8wEt2A/company-logo_200_200/company-logo_200_200/0/1682066957381/applied_ai_initiative_logo?e=1747872000&v=beta&t=IMMSj7ORxxuwDuzXg_gSn4qmJvcgXF_ux5ZBjRGbihw",
+                "universalName": "appliedai-initiative",
+                "dashCompanyUrn": "urn:li:fsd_company:27174449",
+                "trackingId": "GVMbTho3Qc6A07Jham/fnQ=="
+            },
+            "companyName": "appliedAI Initiative GmbH"
+        },
+        {
+            "title": "Managing Director",
+            "description": "Leonhard-MacDonald Ventures GmbH specialises in real-time AI-powered process automation and business intelligence solutions using our proprietary combination of the latest big data technologies and cutting-edge AI algorithms.\n\nWe help our industry customers build AI prototypes and enable them to successfully implement large scale AI-powered digital transformation projects. ​\n\nWe're part of the NVIDIA Inception Program as well as the Google Cloud Startup Program. ",
+            "locationName": "Munich",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:12612404",
+                "entityUrn": "urn:li:fs_miniCompany:12612404",
+                "name": "Leonhard-MacDonald Ventures GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGSQ-uB8szCHw/company-logo_200_200/company-logo_200_200/0/1630473556418/lmdventures_logo?e=1747872000&v=beta&t=YFG4q7tNOcSn1wsb4gBqaEct-HFFHsV5VYNdO9sIOjs",
+                "universalName": "lmdventures",
+                "dashCompanyUrn": "urn:li:fsd_company:12612404",
+                "trackingId": "CTkmvqy/TgCNFpDZBZl/Xg=="
+            },
+            "companyName": "Leonhard-MacDonald Ventures GmbH"
+        },
+        {
+            "title": "Director and CTO",
+            "description": "Social Artisan has developed an innovative, machine learning based content analysis and lead generation tool based on cutting-edge research and technologies supported by a SMART award from Scottish Enterprise. \n\nOur technology identities in real-time the most relevant articles and social media content to provide key metrics illustrating the value of media coverage for businesses. Furthermore we identify potential customers based on the content they share to increase lead generation and drive sales for your business.",
+            "locationName": "Edinburgh, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2012
+                }
+            },
+            "companyName": "Social Artisan Ltd"
+        },
+        {
+            "title": "Post Doctoral Researcher",
+            "description": "The Edinburgh Data-Intensive Research group sits in the School of Informatics of the University of Edinburgh and is part of the UK's National e-Science Centre and the school's Centre for Intelligent Systems and their Applications. We collaborate closely with the National e-Science Hub of the University of Glasgow and EPCC of the University of Edinburgh.\n\nData-intensive refers to huge volumes of data, complex patterns of data integration and analysis and intricate interactions between combinations of users and systems that deal with these data. Our mission is to advance methods that harness the power of data and computation in collaborative environments. Our goal is to support the life cycle of data to information to knowledge in a multi-disciplinary and multi-organisational context. To achieve this we pursue research in e-Science and Informatics and apply our methods in several scientific and industrial domains.",
+            "locationName": "Edinburgh, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:5738",
+                "entityUrn": "urn:li:fs_miniCompany:5738",
+                "name": "The University of Edinburgh",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFSi1nlisxTcg/company-logo_200_200/company-logo_200_200/0/1631312234132?e=1747872000&v=beta&t=YkZu6pCqr30ZD-exHXAWqhz8ikf9v-ikLscBv9qd9pQ",
+                "universalName": "university-of-edinburgh",
+                "dashCompanyUrn": "urn:li:fsd_company:5738",
+                "trackingId": "/KvYTWhwQxu8dwlvIAWpaA=="
+            },
+            "companyName": "The University of Edinburgh"
+        },
+        {
+            "title": "Research Scientist",
+            "description": "Worked on the high profile Bioinformatics project, Open Microscopy Environment, which was awarded innovator of the year 2011 by the Biotechnology and Biological Sciences Research Council(BBSRC).\n\nDevelop content management software to store and analyse fluorescence and brightfield Microscopy images. see http://www.openmicroscopy.org.uk\nDevelop system for automated drug screening (both first and second level screens).",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166636",
+                "entityUrn": "urn:li:fs_miniCompany:166636",
+                "name": "University of Dundee",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHj5VeH6HJdsA/company-logo_200_200/company-logo_200_200/0/1663661625186/universityofdundee_logo?e=1747872000&v=beta&t=584cZkFeS477WFue1tVPPdtpz98jdFPOeQ6-IYdHXc0",
+                "universalName": "universityofdundee",
+                "dashCompanyUrn": "urn:li:fsd_company:166636",
+                "trackingId": "RfkcyzrURRiv2lmqlLpVgw=="
+            },
+            "companyName": "The University of Dundee"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "University of Paisley",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            }
+        },
+        {
+            "degreeName": "BSc",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "University of Paisley",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Director level",
+        "Technology Leadership",
+        "Technology Management",
+        "IT Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

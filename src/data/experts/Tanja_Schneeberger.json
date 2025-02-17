@@ -1,0 +1,337 @@
+{
+    "id": "exp662226016",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Tanja",
+        "lastName": "Schneeberger",
+        "fullName": "Tanja Schneeberger",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQFYzOmSC_BmZQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1654001484299?e=1745452800&v=beta&t=3uQQXPktkV_mqS6oiy09VkwwSaueEDmuZZOB1OjPMaU",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "662226016",
+            "profileId": "ACoAACd4xGABJb5XAzHV0WLu9COploikGurIHvw",
+            "firstName": "Tanja",
+            "lastName": "Schneeberger",
+            "occupation": "Rechtsanwältin bei Rechtsservice AG",
+            "publicIdentifier": "tanja-schneeberger-794940165",
+            "trackingId": "Kx7VbDt1Tci5RyyduhvKbQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFYzOmSC_BmZQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1654001484299?e=1745452800&v=beta&t=3uQQXPktkV_mqS6oiy09VkwwSaueEDmuZZOB1OjPMaU",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQGT0gaarRYSjQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1586233516109?e=1745452800&v=beta&t=9bJvIBL7MjMzq8opVwsigGP3_-v9isCGxnzDC4PLJnw",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:106895337",
+            "positions": [
+                {
+                    "title": "Vizepräsidentin und nebenamtliche Richterin",
+                    "locationName": "Arlesheim",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2023
+                        }
+                    },
+                    "companyName": "Zivilkreisgericht Basel-Landschaft West"
+                },
+                {
+                    "title": "Rechtsanwältin",
+                    "locationName": "Basel, Schweiz",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:71266547",
+                        "entityUrn": "urn:li:fs_miniCompany:71266547",
+                        "name": "RS Rechtsservice AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHFF1YBMB_AQg/company-logo_200_200/company-logo_200_200/0/1630574400520/rechtsservice_ag_logo?e=1747872000&v=beta&t=6s_KVSpGJzFpnP_V3BNpq79NgTHaZjy2XC7s0oRs4aE",
+                        "universalName": "rechtsservice-ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:71266547",
+                        "trackingId": "ghEpdmX3Sw6zir+lsqFiEQ=="
+                    },
+                    "companyName": "Rechtsservice AG"
+                },
+                {
+                    "title": "Rechtsanwältin",
+                    "locationName": "Basel und Laufen",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "iwm Partner Rechtsanwälte "
+                },
+                {
+                    "title": "Gerichtsschreiberin",
+                    "description": "Straf- und Zivilgericht",
+                    "locationName": "Aarau",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2013
+                        }
+                    },
+                    "companyName": "Obergericht Kanton Aargau"
+                },
+                {
+                    "title": "Rechtsanwältin",
+                    "locationName": "Zürich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2011
+                        }
+                    },
+                    "companyName": "Anwaltsbüro Landmann"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "lic. iur.",
+                    "fieldOfStudy": "Rechtswissenschaften",
+                    "schoolName": "Universität Zürich | University of Zurich",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Anwaltspatent",
+                    "schoolName": "Universität Bern",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Matura Typus E (Wirtschaft)",
+                    "schoolName": "Kantonsschule Sargans",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Recht"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Rechtsanwältin bei Rechtsservice AG",
+            "student": false,
+            "industryName": "Legal Services",
+            "industryUrn": "urn:li:fs_industry:10",
+            "geoLocationName": "Basel, Basel",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Vizepräsidentin und nebenamtliche Richterin",
+            "companyName": "Zivilkreisgericht Basel-Landschaft West",
+            "following": false,
+            "followable": true,
+            "followersCount": 495,
+            "connectionsCount": 492,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Zivilkreisgericht Basel-Landschaft West",
+        "position": "Vizepräsidentin und nebenamtliche Richterin",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Vizepräsidentin und nebenamtliche Richterin",
+        "organization": "Zivilkreisgericht Basel-Landschaft West",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/tanja-schneeberger-794940165/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Vizepräsidentin und nebenamtliche Richterin",
+            "locationName": "Arlesheim",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "companyName": "Zivilkreisgericht Basel-Landschaft West"
+        },
+        {
+            "title": "Rechtsanwältin",
+            "locationName": "Basel, Schweiz",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:71266547",
+                "entityUrn": "urn:li:fs_miniCompany:71266547",
+                "name": "RS Rechtsservice AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHFF1YBMB_AQg/company-logo_200_200/company-logo_200_200/0/1630574400520/rechtsservice_ag_logo?e=1747872000&v=beta&t=6s_KVSpGJzFpnP_V3BNpq79NgTHaZjy2XC7s0oRs4aE",
+                "universalName": "rechtsservice-ag",
+                "dashCompanyUrn": "urn:li:fsd_company:71266547",
+                "trackingId": "ghEpdmX3Sw6zir+lsqFiEQ=="
+            },
+            "companyName": "Rechtsservice AG"
+        },
+        {
+            "title": "Rechtsanwältin",
+            "locationName": "Basel und Laufen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2017
+                }
+            },
+            "companyName": "iwm Partner Rechtsanwälte "
+        },
+        {
+            "title": "Gerichtsschreiberin",
+            "description": "Straf- und Zivilgericht",
+            "locationName": "Aarau",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2013
+                }
+            },
+            "companyName": "Obergericht Kanton Aargau"
+        },
+        {
+            "title": "Rechtsanwältin",
+            "locationName": "Zürich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2011
+                }
+            },
+            "companyName": "Anwaltsbüro Landmann"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "lic. iur.",
+            "fieldOfStudy": "Rechtswissenschaften",
+            "schoolName": "Universität Zürich | University of Zurich",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "degreeName": "Anwaltspatent",
+            "schoolName": "Universität Bern",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "Matura Typus E (Wirtschaft)",
+            "schoolName": "Kantonsschule Sargans",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Recht"
+    ],
+    "lastEnriched": "2025-02-17"
+}

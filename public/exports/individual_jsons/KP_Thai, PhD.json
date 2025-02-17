@@ -1,0 +1,471 @@
+{
+    "id": "exp288696504",
+    "personalInfo": {
+        "title": null,
+        "firstName": "KP",
+        "lastName": "Thai, PhD",
+        "fullName": "KP Thai, PhD",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "Vietnamese"
+        ],
+        "allData": {
+            "id": "288696504",
+            "profileId": "ACoAABE1KLgBRpBuHd2sSkhHCziZZHN1Woprqho",
+            "firstName": "KP",
+            "lastName": "Thai, PhD",
+            "occupation": "Applied Learning Scientist",
+            "publicIdentifier": "kpthai",
+            "trackingId": "PTH9mEMkSLyINah3VzqWrQ==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103644278",
+            "positions": [
+                {
+                    "title": "R&D",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Consumer Electronics"
+                        ],
+                        "objectUrn": "urn:li:company:162479",
+                        "entityUrn": "urn:li:fs_miniCompany:162479",
+                        "name": "Apple",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_200_200/company-logo_200_200/0/1630637844948/apple_logo?e=1747872000&v=beta&t=wW2mIt400_ZNCktxY9Oi2cFroCoajrrbwr3t05xTMJ8",
+                        "universalName": "apple",
+                        "dashCompanyUrn": "urn:li:fsd_company:162479",
+                        "trackingId": "KhhiZwAmS/aGT6lJ1CRd9g=="
+                    },
+                    "companyName": "Apple"
+                },
+                {
+                    "title": "Founder & Chief Learning Scientist",
+                    "description": "Helping organizations develop innovative cognitive assessments, educational games, evidence-based coursework, and engaging digital media for learners of all ages. Services include learning experience design, curriculum design, efficacy research, learning analytics, adaptive system infrastructure design, assessment validation.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2018
+                        }
+                    },
+                    "companyName": "Learning Science Solutions, Inc."
+                },
+                {
+                    "title": "Director, Learning Sciences & Learning Analytics",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "E-Learning"
+                        ],
+                        "objectUrn": "urn:li:company:1588081",
+                        "entityUrn": "urn:li:fs_miniCompany:1588081",
+                        "name": "Age of Learning",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6T4WqQzEfyA/company-logo_200_200/company-logo_200_200/0/1660663167165/age_of_learning_logo?e=1747872000&v=beta&t=_lYkXsDFCg2zRYY5GQXSUE3NLEzJVxrS5R0mQxJ79No",
+                        "universalName": "age-of-learning",
+                        "dashCompanyUrn": "urn:li:fsd_company:1588081",
+                        "trackingId": "9VJ/NxAwRpemRnDHyjZAKQ=="
+                    },
+                    "companyName": "Age of Learning, Inc."
+                },
+                {
+                    "title": "Senior Learning & Data Scientist",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "E-Learning"
+                        ],
+                        "objectUrn": "urn:li:company:29215513",
+                        "entityUrn": "urn:li:fs_miniCompany:29215513",
+                        "name": "Squirrel Ai Learning",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQFA-nKAkwqFhg/company-logo_200_200/company-logo_200_200/0/1711262218011/squirrelai_logo?e=1747872000&v=beta&t=-cTeA8elYlxBnxBRxWwbDXKU2JLgJuCaNrN7zm7etH8",
+                        "universalName": "squirrelai",
+                        "dashCompanyUrn": "urn:li:fsd_company:29215513",
+                        "trackingId": "H4mm9PJwRqW6apVMCrDa0w=="
+                    },
+                    "companyName": "Squirrel AI Learning by Yixue Group"
+                },
+                {
+                    "title": "Learning Science and Research Manager",
+                    "locationName": "Glendale, California",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "E-Learning"
+                        ],
+                        "objectUrn": "urn:li:company:1588081",
+                        "entityUrn": "urn:li:fs_miniCompany:1588081",
+                        "name": "Age of Learning",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6T4WqQzEfyA/company-logo_200_200/company-logo_200_200/0/1660663167165/age_of_learning_logo?e=1747872000&v=beta&t=_lYkXsDFCg2zRYY5GQXSUE3NLEzJVxrS5R0mQxJ79No",
+                        "universalName": "age-of-learning",
+                        "dashCompanyUrn": "urn:li:fsd_company:1588081",
+                        "trackingId": "LtDzXYP5R/OoKIOmv1c4aA=="
+                    },
+                    "companyName": "Age of Learning, Inc. / ABCmouse.com"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy (Ph.D.)",
+                    "fieldOfStudy": "Cognitive Psychology, with a Quantitative Methods minor",
+                    "schoolName": "University of California, Los Angeles"
+                },
+                {
+                    "degreeName": "Master of Arts (MA)",
+                    "fieldOfStudy": "Psychology",
+                    "schoolName": "University of California, Los Angeles"
+                },
+                {
+                    "degreeName": "Bachelor of Arts (BA)",
+                    "fieldOfStudy": "Psychology",
+                    "schoolName": "Boston College"
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "UCLA Certificate in Education Sciences:  Advanced Quantitative Methodology in Educational Research",
+                    "authority": "Institute of Education Sciences (IES)/UCLA Department of Education"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Nominated for the Joseph A. Gengerelli Distinguished Dissertation Award",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2015
+                    },
+                    "issuer": "UCLA"
+                },
+                {
+                    "title": "Nominated for the UCLA Cognitive Psychology Best Dissertation Award",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2015
+                    },
+                    "issuer": "UCLA"
+                },
+                {
+                    "title": "Fellowship to attend the Latin American School for Education, Cognitive and Neural Sciences",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2013
+                    },
+                    "issuer": "James S. McDonnell Foundation"
+                },
+                {
+                    "title": "Advanced Quantitative Methodology in Education Research Fellowship",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2012
+                    },
+                    "issuer": "U.S. Department of Education, Institute of Education Sciences"
+                },
+                {
+                    "title": "Dr. Ursula Mandel Scholarship",
+                    "description": "Awarded for research of value to the medical field",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2012
+                    },
+                    "issuer": "UCLA"
+                },
+                {
+                    "title": "Graduate Research Mentorship Fellowship",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2010
+                    },
+                    "issuer": "UCLA Graduate Division"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Vietnamese",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Research",
+                "Experimental Design",
+                "Cognitive Psychology",
+                "Educational Technology"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Applied Learning Scientist",
+            "summary": "I am a learning scientist on a mission to craft the next generation of learning experiences. \n\nOver the past 17 years, I have worked on the design, evaluation, and improvement of a number of adaptive learning systems for learners, from 3-year-olds to professionals, for learning math, science, reading, medical science, and more.\n\nI have also worked on assessments of 21st century competencies, curriculum design for project-based learning with VR, and learning design for a college experiential learning program. \n\nI think great learning experiences come about when we put the learners first, engineer for evidence, and learn as we go. And we do it together in interdisciplinary teams. \n\nMy work is often a blend of cognitive psychology, learning analytics, efficacy research, psychometrics, and partnerships (I can't do it all myself!). You can find me translating research to learning product design and strategy, leading efficacy studies, pulling insights from learning analytics to inform product design and improvements, creating and validating assessments, establishing and maintaining partnerships with various organizations and consultants. I enjoy every aspect!\n\nI also enjoy sharing what I've learned. Some of my recent publications:\n- The Handbook of Research on Innovative Approaches to Early Childhood Development and School Readiness: https://www.igi-global.com/book/handbook-research-innovative-approaches-early/272193. \n- A couple chapters on human-centered design and data analytics in the Learning Engineering Toolkit: https://www.routledge.com/Learning-Engineering-Toolkit-Evidence-Based-Practices-from-the-Learning/Goodell-Kolodner/p/book/9781032232829\n- A chapter on applying learning engineering to create math games for 2-3 year olds: https://link.springer.com/referenceworkentry/10.1007/978-3-319-17727-4_192-1",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoCountryName": "United States",
+            "jobTitle": "R&D",
+            "companyName": "Apple",
+            "companyPublicId": "apple",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/apple",
+            "following": false,
+            "followable": true,
+            "followersCount": 1441,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Apple",
+        "position": "R&D",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Consumer Electronics"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "R&D",
+        "organization": "Apple",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/kpthai/",
+        "company": "https://www.linkedin.com/company/apple"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "R&D",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Electronics"
+                ],
+                "objectUrn": "urn:li:company:162479",
+                "entityUrn": "urn:li:fs_miniCompany:162479",
+                "name": "Apple",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHdAaarsO-eyA/company-logo_200_200/company-logo_200_200/0/1630637844948/apple_logo?e=1747872000&v=beta&t=wW2mIt400_ZNCktxY9Oi2cFroCoajrrbwr3t05xTMJ8",
+                "universalName": "apple",
+                "dashCompanyUrn": "urn:li:fsd_company:162479",
+                "trackingId": "KhhiZwAmS/aGT6lJ1CRd9g=="
+            },
+            "companyName": "Apple"
+        },
+        {
+            "title": "Founder & Chief Learning Scientist",
+            "description": "Helping organizations develop innovative cognitive assessments, educational games, evidence-based coursework, and engaging digital media for learners of all ages. Services include learning experience design, curriculum design, efficacy research, learning analytics, adaptive system infrastructure design, assessment validation.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "companyName": "Learning Science Solutions, Inc."
+        },
+        {
+            "title": "Director, Learning Sciences & Learning Analytics",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "E-Learning"
+                ],
+                "objectUrn": "urn:li:company:1588081",
+                "entityUrn": "urn:li:fs_miniCompany:1588081",
+                "name": "Age of Learning",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6T4WqQzEfyA/company-logo_200_200/company-logo_200_200/0/1660663167165/age_of_learning_logo?e=1747872000&v=beta&t=_lYkXsDFCg2zRYY5GQXSUE3NLEzJVxrS5R0mQxJ79No",
+                "universalName": "age-of-learning",
+                "dashCompanyUrn": "urn:li:fsd_company:1588081",
+                "trackingId": "9VJ/NxAwRpemRnDHyjZAKQ=="
+            },
+            "companyName": "Age of Learning, Inc."
+        },
+        {
+            "title": "Senior Learning & Data Scientist",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "E-Learning"
+                ],
+                "objectUrn": "urn:li:company:29215513",
+                "entityUrn": "urn:li:fs_miniCompany:29215513",
+                "name": "Squirrel Ai Learning",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFA-nKAkwqFhg/company-logo_200_200/company-logo_200_200/0/1711262218011/squirrelai_logo?e=1747872000&v=beta&t=-cTeA8elYlxBnxBRxWwbDXKU2JLgJuCaNrN7zm7etH8",
+                "universalName": "squirrelai",
+                "dashCompanyUrn": "urn:li:fsd_company:29215513",
+                "trackingId": "H4mm9PJwRqW6apVMCrDa0w=="
+            },
+            "companyName": "Squirrel AI Learning by Yixue Group"
+        },
+        {
+            "title": "Learning Science and Research Manager",
+            "locationName": "Glendale, California",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "E-Learning"
+                ],
+                "objectUrn": "urn:li:company:1588081",
+                "entityUrn": "urn:li:fs_miniCompany:1588081",
+                "name": "Age of Learning",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF6T4WqQzEfyA/company-logo_200_200/company-logo_200_200/0/1660663167165/age_of_learning_logo?e=1747872000&v=beta&t=_lYkXsDFCg2zRYY5GQXSUE3NLEzJVxrS5R0mQxJ79No",
+                "universalName": "age-of-learning",
+                "dashCompanyUrn": "urn:li:fsd_company:1588081",
+                "trackingId": "LtDzXYP5R/OoKIOmv1c4aA=="
+            },
+            "companyName": "Age of Learning, Inc. / ABCmouse.com"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy (Ph.D.)",
+            "fieldOfStudy": "Cognitive Psychology, with a Quantitative Methods minor",
+            "schoolName": "University of California, Los Angeles"
+        },
+        {
+            "degreeName": "Master of Arts (MA)",
+            "fieldOfStudy": "Psychology",
+            "schoolName": "University of California, Los Angeles"
+        },
+        {
+            "degreeName": "Bachelor of Arts (BA)",
+            "fieldOfStudy": "Psychology",
+            "schoolName": "Boston College"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "UCLA Certificate in Education Sciences:  Advanced Quantitative Methodology in Educational Research",
+            "authority": "Institute of Education Sciences (IES)/UCLA Department of Education"
+        }
+    ],
+    "skills": [
+        "Research",
+        "Experimental Design",
+        "Cognitive Psychology",
+        "Educational Technology"
+    ],
+    "lastEnriched": "2025-02-17"
+}

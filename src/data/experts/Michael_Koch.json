@@ -1,0 +1,551 @@
+{
+    "id": "exp98891970",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Michael",
+        "lastName": "Koch",
+        "fullName": "Michael Koch",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQF1FW2JLE6JFg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1625244925221?e=1745452800&v=beta&t=nxYzeXrrmYOtR5De03MZkrShYDXDtkxUvbvOcYWpU4k",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "98891970",
+            "profileId": "ACoAAAXk-MIBg_t4LGWbsbUw4aJnjXECSQ2BCAM",
+            "firstName": "Michael",
+            "lastName": "Koch",
+            "occupation": "Director | Operations | Continuous Improvement | Fleet Management",
+            "publicIdentifier": "michael-j-koch",
+            "trackingId": "xQRRE8bqSXio1HR6Kx/uPg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF1FW2JLE6JFg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1625244925221?e=1745452800&v=beta&t=nxYzeXrrmYOtR5De03MZkrShYDXDtkxUvbvOcYWpU4k",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFLf9uSabgECg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1608233321891?e=1745452800&v=beta&t=LWX_veVluv98XfAd-KKWrtdPZE4Md6kNoWx4cyZ6OgA",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102123971",
+            "positions": [
+                {
+                    "title": "Continuous Improvement Manager - Exam One",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2025
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Insurance"
+                        ],
+                        "objectUrn": "urn:li:company:923787",
+                        "entityUrn": "urn:li:fs_miniCompany:923787",
+                        "name": "ExamOne, a Quest Diagnostics Company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZ6skwr6t7zQ/company-logo_200_200/company-logo_200_200/0/1667571565456/examone_logo?e=1747872000&v=beta&t=jgXvXzpjTpvUgYh9Ool50902KtN_Vy9-KkBjw3rbRm8",
+                        "universalName": "examone",
+                        "dashCompanyUrn": "urn:li:fsd_company:923787",
+                        "trackingId": "oQJXbPicST6pMM/eEYQFwg=="
+                    },
+                    "companyName": "ExamOne, a Quest Diagnostics Company"
+                },
+                {
+                    "title": "QMS Continuous Improvement Manager, Employer Solutions",
+                    "description": "Lead a variety of process improvement/Lean projects and Kaizen events related to lab productivity, customer service and supply management, and will work closely with senior leadership across Employer Solutions. Facilitates Quest Management System (QMS) principles and tools to ensure Quest Diagnostics is efficient and effective in the delivery of its services, solutions, and processes while improving customer and employee satisfaction.  Provided critical analytics to various teams, perform root cause analysis, implement solutions, identify growth opportunities, and lead strategic initiatives. Coached others to learn and apply QMS principles and tools to their daily work",
+                    "locationName": "Collegeville, Pennsylvania, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:4727",
+                        "entityUrn": "urn:li:fs_miniCompany:4727",
+                        "name": "Quest Diagnostics",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvVCrpkzh7aw/company-logo_200_200/company-logo_200_200/0/1719841571311/quest_diagnostics_logo?e=1747872000&v=beta&t=aaBxNMSqT9rZsbc1Ne_NANLrx0SRaQcOeEaY3r47MEU",
+                        "universalName": "quest-diagnostics",
+                        "dashCompanyUrn": "urn:li:fsd_company:4727",
+                        "trackingId": "7EiRLXHbQ5GbZLlU5pENwA=="
+                    },
+                    "companyName": "Quest Diagnostics"
+                },
+                {
+                    "title": "Consultant",
+                    "locationName": "Philadelphia, Pennsylvania, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:69195172",
+                        "entityUrn": "urn:li:fs_miniCompany:69195172",
+                        "name": "NRG Mobility and Fleet Solutions, LLC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFV4TZ97Y93rQ/company-logo_200_200/company-logo_200_200/0/1630546034413/nrg_mobility_and_fleet_solutions_llc_logo?e=1747872000&v=beta&t=TRdceV2NBZi3Of8L5Skm7U3DwM5ADo9RpwHLC9SkWu0",
+                        "universalName": "nrg-mobility-and-fleet-solutions-llc",
+                        "dashCompanyUrn": "urn:li:fsd_company:69195172",
+                        "trackingId": "nqA80+Z3QHqP9XdRTDuGjA=="
+                    },
+                    "companyName": "NRG Mobility and Fleet Solutions, LLC"
+                },
+                {
+                    "title": "Lean Six Sigma Black Belt - Business Transformation Manager",
+                    "description": "Led a cross-functional team in the design, development and implementation of a multifaceted program comprising numerous projects and involving stakeholders at all levels in the organization.   Mandate was to assess and recommend options to replace a legacy technology system.  This was accomplished with the implementation of a modern and more robust platform.  Based on the capabilities of this new system, the scope of the initial program was expanded to include additional business groups and geographic regions.  As a result, improvement was achieved in operational efficiency, containment of expenses, and availability of data to support management strategic planning.      \nA variety of tools were utilized, including run chart analysis, Pareto analysis, process mapping, project charters, baseline assessments, cause & effect matrix, CTQ/CTP analysis, control planning, SIPOC, 5 Whys, fishbone diagrams, and FMEA.\nKey Accomplishments:\n●\tAchieved $4.5M savings per year in un-billed fleet repairs by instituting a digital tracking process to monitor and recoup payment for vehicle damages.\n●\tHighlighted and eliminated non-upgraded actions by running lean enterprise concepts, including DMAIC, Lean Six Sigma, and Kaizen principles.\n●\tCompleted and delivered all components of the program on-time and under budget to 148 locations across North America, Puerto Rico and Caribbean Islands.  Completed projects 5% under budget for $500K savings.\n",
+                    "locationName": "Parsippany, New Jersey, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Leisure, Travel & Tourism"
+                        ],
+                        "objectUrn": "urn:li:company:2121",
+                        "entityUrn": "urn:li:fs_miniCompany:2121",
+                        "name": "Avis Budget Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBOdPwk9gleA/company-logo_200_200/company-logo_200_200/0/1678391849531/avis_budget_group_logo?e=1747872000&v=beta&t=Lh5HejVGNMwJ757d6ngtEjrbvAL4WKGKKf6zcXoWdUk",
+                        "universalName": "avis-budget-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:2121",
+                        "trackingId": "dAlRxoznSXSC+o2/daEFfw=="
+                    },
+                    "companyName": "Avis Budget Group"
+                },
+                {
+                    "title": "Regional Deployment Manager Performance Excellence",
+                    "description": "Oversaw and coached three performance excellence deployment leaders tasked to identify $4M in annual savings by running six original DMAIC/Kaizen projects. Managed and supervised a portfolio of projects ensuring they were structured to achieve success. Coordinated with regional operations manager in measuring, tracking, and communicating project performance.  Highlighted projects for process improvements where additional positive outcomes could be achieved. Reviewed KPIs and implemented corrective action, as appropriate. Analyzed monthly data and prepared reports for senior management.\n\nKey Accomplishments:\n● Recovered $1M from the City of Windsor Locks (Connecticut) for tax overpayment. Additionally, saved ~$400K annually on reduced car taxes in the state of Connecticut.\n● Produced $1.5M in extra fuel revenues by revising current procedures and finding neglected root cause opportunities.\n● Reduced salary expenses by eliminating non-value add work and improved scheduling. \n● Surpassed the targeted savings by 50% in first year.",
+                    "locationName": "Philadelphia, Pennsylvania, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Leisure, Travel & Tourism"
+                        ],
+                        "objectUrn": "urn:li:company:2121",
+                        "entityUrn": "urn:li:fs_miniCompany:2121",
+                        "name": "Avis Budget Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBOdPwk9gleA/company-logo_200_200/company-logo_200_200/0/1678391849531/avis_budget_group_logo?e=1747872000&v=beta&t=Lh5HejVGNMwJ757d6ngtEjrbvAL4WKGKKf6zcXoWdUk",
+                        "universalName": "avis-budget-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:2121",
+                        "trackingId": "Ai7Asy5JRBm7b3BQFESDJA=="
+                    },
+                    "companyName": "Avis Budget Group"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "BA",
+                    "fieldOfStudy": "Business, Management, Marketing, and Related Support Services",
+                    "schoolName": "Eastern Michigan University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1991
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Lean Six Sigma Yellow Belt (ICYB)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "authority": "Villanova University"
+                },
+                {
+                    "name": "Lean Six Sigma Black Belt (ICBB)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Aveeta Busines Institutes"
+                },
+                {
+                    "name": "The Power of Stay Interviews Certification",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    },
+                    "authority": "C-Suite Analytics"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "BMGI Change & Facilitation Workshop"
+                },
+                {
+                    "name": "Gold Medal Training Winning Teamwork Course"
+                }
+            ],
+            "honors": [
+                {
+                    "title": "Horizon Award",
+                    "description": "Award for employee engagement and staff development",
+                    "issueDate": {
+                        "year": 2013
+                    },
+                    "issuer": "Avis Budget Group"
+                },
+                {
+                    "title": "Horizon Award",
+                    "description": "Award for performance on developing manager training program",
+                    "issueDate": {
+                        "year": 2011
+                    },
+                    "issuer": "Avis Budget Group"
+                },
+                {
+                    "title": "Living the Values Award",
+                    "issueDate": {
+                        "year": 2007
+                    },
+                    "issuer": "Avis Budget Group"
+                },
+                {
+                    "title": "Horizon Award Outstanding Quality",
+                    "description": "Received award for outstanding quality score over 99",
+                    "issueDate": {
+                        "year": 2003
+                    },
+                    "issuer": "Avis Budget Group"
+                },
+                {
+                    "title": "Horizon Award Outstanding Quality",
+                    "description": "Received award for outstanding quality score on Quality Assurance Audit.",
+                    "issueDate": {
+                        "year": 2002
+                    },
+                    "issuer": "Avis Budget Group"
+                },
+                {
+                    "title": "Outanding Performance",
+                    "description": "Achieved 55.1% of business plan overtime spend",
+                    "issueDate": {
+                        "year": 2002
+                    },
+                    "issuer": "Avis Budget Group"
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Cost Control",
+                "Payroll Administration",
+                "Regulatory Compliance",
+                "Team Management"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Director | Operations | Continuous Improvement | Fleet Management",
+            "summary": "Continuous Improvement (Six Sigma Black Belt) and Project Manager with a proven record of successfully guiding daily operations, developing strategic business plans and budgets, managing P&L,  and implementing strategic initiatives to drive achievement of organizational goals.  Recognized for identifying opportunities and implementing changes to improve processes leading to greater efficiencies, reduced waste  and cost savings.  Skilled at leading major cross-functional projects end-to-end including continuous improvement and digital transformation initiatives.  Experienced leading and developing  large high performing  teams  across multiple locations including North America, Puerto Rico and the Caribbean Islands.  Expert negotiator and leader; able to forge solid relationships with partners and develop consensus across multiple organizational levels.   \n\nAreas of Expertise\n▪ Operations Management \n▪ Strategic Account Management \n▪ Sales & Business Development \n▪ Performance Enhancement\n▪ Cost Reduction \t\n▪ Project & Product Management \n▪ Cross-team Collaboration \n▪ Fleet Management\n▪ P&L & Budgeting\t\n▪ Team Leadership & Training\n▪ Lean Six Sigma \n▪ Relationship Management\n▪ Customer Service \n▪ Change Management \n",
+            "student": false,
+            "industryName": "Hospital & Health Care",
+            "industryUrn": "urn:li:fs_industry:14",
+            "geoLocationName": "Glenmoore, Pennsylvania",
+            "geoCountryName": "United States",
+            "jobTitle": "Continuous Improvement Manager - Exam One",
+            "companyName": "ExamOne, a Quest Diagnostics Company",
+            "companyPublicId": "examone",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/examone",
+            "following": false,
+            "followable": true,
+            "followersCount": 719,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "ExamOne, a Quest Diagnostics Company",
+        "position": "Continuous Improvement Manager - Exam One",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Insurance"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Continuous Improvement Manager - Exam One",
+        "organization": "ExamOne, a Quest Diagnostics Company",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/michael-j-koch/",
+        "company": "https://www.linkedin.com/company/examone"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Continuous Improvement Manager - Exam One",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2025
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Insurance"
+                ],
+                "objectUrn": "urn:li:company:923787",
+                "entityUrn": "urn:li:fs_miniCompany:923787",
+                "name": "ExamOne, a Quest Diagnostics Company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGZ6skwr6t7zQ/company-logo_200_200/company-logo_200_200/0/1667571565456/examone_logo?e=1747872000&v=beta&t=jgXvXzpjTpvUgYh9Ool50902KtN_Vy9-KkBjw3rbRm8",
+                "universalName": "examone",
+                "dashCompanyUrn": "urn:li:fsd_company:923787",
+                "trackingId": "oQJXbPicST6pMM/eEYQFwg=="
+            },
+            "companyName": "ExamOne, a Quest Diagnostics Company"
+        },
+        {
+            "title": "QMS Continuous Improvement Manager, Employer Solutions",
+            "description": "Lead a variety of process improvement/Lean projects and Kaizen events related to lab productivity, customer service and supply management, and will work closely with senior leadership across Employer Solutions. Facilitates Quest Management System (QMS) principles and tools to ensure Quest Diagnostics is efficient and effective in the delivery of its services, solutions, and processes while improving customer and employee satisfaction.  Provided critical analytics to various teams, perform root cause analysis, implement solutions, identify growth opportunities, and lead strategic initiatives. Coached others to learn and apply QMS principles and tools to their daily work",
+            "locationName": "Collegeville, Pennsylvania, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:4727",
+                "entityUrn": "urn:li:fs_miniCompany:4727",
+                "name": "Quest Diagnostics",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGvVCrpkzh7aw/company-logo_200_200/company-logo_200_200/0/1719841571311/quest_diagnostics_logo?e=1747872000&v=beta&t=aaBxNMSqT9rZsbc1Ne_NANLrx0SRaQcOeEaY3r47MEU",
+                "universalName": "quest-diagnostics",
+                "dashCompanyUrn": "urn:li:fsd_company:4727",
+                "trackingId": "7EiRLXHbQ5GbZLlU5pENwA=="
+            },
+            "companyName": "Quest Diagnostics"
+        },
+        {
+            "title": "Consultant",
+            "locationName": "Philadelphia, Pennsylvania, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:69195172",
+                "entityUrn": "urn:li:fs_miniCompany:69195172",
+                "name": "NRG Mobility and Fleet Solutions, LLC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFV4TZ97Y93rQ/company-logo_200_200/company-logo_200_200/0/1630546034413/nrg_mobility_and_fleet_solutions_llc_logo?e=1747872000&v=beta&t=TRdceV2NBZi3Of8L5Skm7U3DwM5ADo9RpwHLC9SkWu0",
+                "universalName": "nrg-mobility-and-fleet-solutions-llc",
+                "dashCompanyUrn": "urn:li:fsd_company:69195172",
+                "trackingId": "nqA80+Z3QHqP9XdRTDuGjA=="
+            },
+            "companyName": "NRG Mobility and Fleet Solutions, LLC"
+        },
+        {
+            "title": "Lean Six Sigma Black Belt - Business Transformation Manager",
+            "description": "Led a cross-functional team in the design, development and implementation of a multifaceted program comprising numerous projects and involving stakeholders at all levels in the organization.   Mandate was to assess and recommend options to replace a legacy technology system.  This was accomplished with the implementation of a modern and more robust platform.  Based on the capabilities of this new system, the scope of the initial program was expanded to include additional business groups and geographic regions.  As a result, improvement was achieved in operational efficiency, containment of expenses, and availability of data to support management strategic planning.      \nA variety of tools were utilized, including run chart analysis, Pareto analysis, process mapping, project charters, baseline assessments, cause & effect matrix, CTQ/CTP analysis, control planning, SIPOC, 5 Whys, fishbone diagrams, and FMEA.\nKey Accomplishments:\n●\tAchieved $4.5M savings per year in un-billed fleet repairs by instituting a digital tracking process to monitor and recoup payment for vehicle damages.\n●\tHighlighted and eliminated non-upgraded actions by running lean enterprise concepts, including DMAIC, Lean Six Sigma, and Kaizen principles.\n●\tCompleted and delivered all components of the program on-time and under budget to 148 locations across North America, Puerto Rico and Caribbean Islands.  Completed projects 5% under budget for $500K savings.\n",
+            "locationName": "Parsippany, New Jersey, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Leisure, Travel & Tourism"
+                ],
+                "objectUrn": "urn:li:company:2121",
+                "entityUrn": "urn:li:fs_miniCompany:2121",
+                "name": "Avis Budget Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBOdPwk9gleA/company-logo_200_200/company-logo_200_200/0/1678391849531/avis_budget_group_logo?e=1747872000&v=beta&t=Lh5HejVGNMwJ757d6ngtEjrbvAL4WKGKKf6zcXoWdUk",
+                "universalName": "avis-budget-group",
+                "dashCompanyUrn": "urn:li:fsd_company:2121",
+                "trackingId": "dAlRxoznSXSC+o2/daEFfw=="
+            },
+            "companyName": "Avis Budget Group"
+        },
+        {
+            "title": "Regional Deployment Manager Performance Excellence",
+            "description": "Oversaw and coached three performance excellence deployment leaders tasked to identify $4M in annual savings by running six original DMAIC/Kaizen projects. Managed and supervised a portfolio of projects ensuring they were structured to achieve success. Coordinated with regional operations manager in measuring, tracking, and communicating project performance.  Highlighted projects for process improvements where additional positive outcomes could be achieved. Reviewed KPIs and implemented corrective action, as appropriate. Analyzed monthly data and prepared reports for senior management.\n\nKey Accomplishments:\n● Recovered $1M from the City of Windsor Locks (Connecticut) for tax overpayment. Additionally, saved ~$400K annually on reduced car taxes in the state of Connecticut.\n● Produced $1.5M in extra fuel revenues by revising current procedures and finding neglected root cause opportunities.\n● Reduced salary expenses by eliminating non-value add work and improved scheduling. \n● Surpassed the targeted savings by 50% in first year.",
+            "locationName": "Philadelphia, Pennsylvania, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Leisure, Travel & Tourism"
+                ],
+                "objectUrn": "urn:li:company:2121",
+                "entityUrn": "urn:li:fs_miniCompany:2121",
+                "name": "Avis Budget Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEBOdPwk9gleA/company-logo_200_200/company-logo_200_200/0/1678391849531/avis_budget_group_logo?e=1747872000&v=beta&t=Lh5HejVGNMwJ757d6ngtEjrbvAL4WKGKKf6zcXoWdUk",
+                "universalName": "avis-budget-group",
+                "dashCompanyUrn": "urn:li:fsd_company:2121",
+                "trackingId": "Ai7Asy5JRBm7b3BQFESDJA=="
+            },
+            "companyName": "Avis Budget Group"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "BA",
+            "fieldOfStudy": "Business, Management, Marketing, and Related Support Services",
+            "schoolName": "Eastern Michigan University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1991
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Lean Six Sigma Yellow Belt (ICYB)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "authority": "Villanova University"
+        },
+        {
+            "name": "Lean Six Sigma Black Belt (ICBB)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "authority": "Aveeta Busines Institutes"
+        },
+        {
+            "name": "The Power of Stay Interviews Certification",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "authority": "C-Suite Analytics"
+        }
+    ],
+    "skills": [
+        "Cost Control",
+        "Payroll Administration",
+        "Regulatory Compliance",
+        "Team Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

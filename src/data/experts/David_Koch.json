@@ -1,0 +1,480 @@
+{
+    "id": "exp18389114",
+    "personalInfo": {
+        "title": null,
+        "firstName": "David",
+        "lastName": "Koch",
+        "fullName": "David Koch",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "18389114",
+            "profileId": "ACoAAAEYmHoBmXHEjVN0C7keLsaKH_GPj-1jP0g",
+            "firstName": "David",
+            "lastName": "Koch",
+            "occupation": "Sr. Global Platform Manager, DAM & MRM at Mars Inc.",
+            "publicIdentifier": "davidkoch",
+            "trackingId": "ZLpPihxBQTC+a9SDGYAKpQ==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFVlfJPYxVAYw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1548991262043?e=1745452800&v=beta&t=27vfAnkqDYDIb7E9u3DF-WzfUeBJirMIFiNUB95w3-4",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000070",
+            "positions": [
+                {
+                    "title": "Senior Global Platform Manager, DAM & MRM",
+                    "locationName": "New York City Metropolitan Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Consumer Goods"
+                        ],
+                        "objectUrn": "urn:li:company:1544",
+                        "entityUrn": "urn:li:fs_miniCompany:1544",
+                        "name": "Mars",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxhsUQuX5Qyg/company-logo_200_200/company-logo_200_200/0/1630500222462/mars_logo?e=1747872000&v=beta&t=YUsXHAegMspcx99KNdqpencjTxohIHVI2SA5_yvKpzw",
+                        "universalName": "mars",
+                        "dashCompanyUrn": "urn:li:fsd_company:1544",
+                        "trackingId": "EMLW/QExQk2jrkH/WfoE6w=="
+                    },
+                    "companyName": "Mars"
+                },
+                {
+                    "title": "Global Product Manager, DAM",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Consumer Goods"
+                        ],
+                        "objectUrn": "urn:li:company:1544",
+                        "entityUrn": "urn:li:fs_miniCompany:1544",
+                        "name": "Mars",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxhsUQuX5Qyg/company-logo_200_200/company-logo_200_200/0/1630500222462/mars_logo?e=1747872000&v=beta&t=YUsXHAegMspcx99KNdqpencjTxohIHVI2SA5_yvKpzw",
+                        "universalName": "mars",
+                        "dashCompanyUrn": "urn:li:fsd_company:1544",
+                        "trackingId": "0cJKrJdBRWaApt/6CfB9Tw=="
+                    },
+                    "companyName": "Mars"
+                },
+                {
+                    "title": "Project Management Lead",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Design"
+                        ],
+                        "objectUrn": "urn:li:company:6599998",
+                        "entityUrn": "urn:li:fs_miniCompany:6599998",
+                        "name": "Elephant",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuSfh9ZyYtow/company-logo_200_200/company-logo_200_200/0/1631718393860/hello_elephant_logo?e=1747872000&v=beta&t=eoaTaYObRiRiwtSXjLzd7mzoK9UGkuApIeBXl2lU-I8",
+                        "universalName": "hello-elephant",
+                        "dashCompanyUrn": "urn:li:fsd_company:6599998",
+                        "trackingId": "+QUp1ny2QXq7arCTdZW/bw=="
+                    },
+                    "companyName": "Elephant"
+                },
+                {
+                    "title": "Senior Producer",
+                    "description": "Clients: PwC, Goldman Sachs, McCormick and L'Oréal",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:207439",
+                        "entityUrn": "urn:li:fs_miniCompany:207439",
+                        "name": "R/GA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGONAoWOcssqA/company-logo_200_200/company-logo_200_200/0/1680533527224/r_ga_logo?e=1747872000&v=beta&t=oPZPD75o81-6_sM5PhtmLOhxTWevNtrQNu0z9wagwD0",
+                        "universalName": "r-ga",
+                        "dashCompanyUrn": "urn:li:fsd_company:207439",
+                        "trackingId": "NfSUSJ2jT1K2R8vQzzt6jA=="
+                    },
+                    "companyName": "R/GA"
+                },
+                {
+                    "title": "Executive Digital Producer",
+                    "description": "Client: JPMorgan Chase & Co",
+                    "locationName": "Greater New York City Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:86288860",
+                        "entityUrn": "urn:li:fs_miniCompany:86288860",
+                        "name": "Dentsu Creative",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEEh6KDyrtRTQ/company-logo_200_200/company-logo_200_200/0/1655747505441/dentsucreative_logo?e=1747872000&v=beta&t=vSW40UujnWQtrOm6-SxPkXnJI7L5fjWJ5pTVuVKjwNo",
+                        "universalName": "dentsucreative",
+                        "dashCompanyUrn": "urn:li:fsd_company:86288860",
+                        "trackingId": "dlZezCatSlCm9Rhq97O4Nw=="
+                    },
+                    "companyName": "mcgarrybowen"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Digital Design",
+                    "schoolName": "School of Visual Arts"
+                },
+                {
+                    "fieldOfStudy": "Pre-Medicine/Pre-Medical Studies",
+                    "schoolName": "SUNY Stony Brook"
+                },
+                {
+                    "fieldOfStudy": "Python Programming",
+                    "schoolName": "General Assembly",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2019
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Digital Media",
+                "Digital Marketing",
+                "Digital Strategy",
+                "Web Analytics"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Board Of Directors",
+                    "description": "Chair, Digital Committee",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Tourette Association of America",
+                    "cause": "HEALTH"
+                }
+            ],
+            "headline": "Sr. Global Platform Manager, DAM & MRM at Mars Inc.",
+            "summary": "David is a Platform Product Manager at Mars, where he leads the development and implementation of Digital Asset Management (DAM) solutions globally for the world's largest confectionery company. \n\nHe has over 15 years of experience in managing complex technical projects, launching new products, and leading cross-functional teams in the digital media and entertainment industry.",
+            "student": false,
+            "industryName": "Consumer Goods",
+            "industryUrn": "urn:li:fs_industry:25",
+            "geoLocationName": "New York City Metropolitan Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Senior Global Platform Manager, DAM & MRM",
+            "companyName": "Mars",
+            "companyPublicId": "mars",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/mars",
+            "following": false,
+            "followable": true,
+            "followersCount": 1444,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Mars",
+        "position": "Senior Global Platform Manager, DAM & MRM",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Consumer Goods"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Global Platform Manager, DAM & MRM",
+        "organization": "Mars",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/davidkoch/",
+        "company": "https://www.linkedin.com/company/mars"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Global Platform Manager, DAM & MRM",
+            "locationName": "New York City Metropolitan Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ],
+                "objectUrn": "urn:li:company:1544",
+                "entityUrn": "urn:li:fs_miniCompany:1544",
+                "name": "Mars",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxhsUQuX5Qyg/company-logo_200_200/company-logo_200_200/0/1630500222462/mars_logo?e=1747872000&v=beta&t=YUsXHAegMspcx99KNdqpencjTxohIHVI2SA5_yvKpzw",
+                "universalName": "mars",
+                "dashCompanyUrn": "urn:li:fsd_company:1544",
+                "trackingId": "EMLW/QExQk2jrkH/WfoE6w=="
+            },
+            "companyName": "Mars"
+        },
+        {
+            "title": "Global Product Manager, DAM",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Consumer Goods"
+                ],
+                "objectUrn": "urn:li:company:1544",
+                "entityUrn": "urn:li:fs_miniCompany:1544",
+                "name": "Mars",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFxhsUQuX5Qyg/company-logo_200_200/company-logo_200_200/0/1630500222462/mars_logo?e=1747872000&v=beta&t=YUsXHAegMspcx99KNdqpencjTxohIHVI2SA5_yvKpzw",
+                "universalName": "mars",
+                "dashCompanyUrn": "urn:li:fsd_company:1544",
+                "trackingId": "0cJKrJdBRWaApt/6CfB9Tw=="
+            },
+            "companyName": "Mars"
+        },
+        {
+            "title": "Project Management Lead",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Design"
+                ],
+                "objectUrn": "urn:li:company:6599998",
+                "entityUrn": "urn:li:fs_miniCompany:6599998",
+                "name": "Elephant",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGuSfh9ZyYtow/company-logo_200_200/company-logo_200_200/0/1631718393860/hello_elephant_logo?e=1747872000&v=beta&t=eoaTaYObRiRiwtSXjLzd7mzoK9UGkuApIeBXl2lU-I8",
+                "universalName": "hello-elephant",
+                "dashCompanyUrn": "urn:li:fsd_company:6599998",
+                "trackingId": "+QUp1ny2QXq7arCTdZW/bw=="
+            },
+            "companyName": "Elephant"
+        },
+        {
+            "title": "Senior Producer",
+            "description": "Clients: PwC, Goldman Sachs, McCormick and L'Oréal",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:207439",
+                "entityUrn": "urn:li:fs_miniCompany:207439",
+                "name": "R/GA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGONAoWOcssqA/company-logo_200_200/company-logo_200_200/0/1680533527224/r_ga_logo?e=1747872000&v=beta&t=oPZPD75o81-6_sM5PhtmLOhxTWevNtrQNu0z9wagwD0",
+                "universalName": "r-ga",
+                "dashCompanyUrn": "urn:li:fsd_company:207439",
+                "trackingId": "NfSUSJ2jT1K2R8vQzzt6jA=="
+            },
+            "companyName": "R/GA"
+        },
+        {
+            "title": "Executive Digital Producer",
+            "description": "Client: JPMorgan Chase & Co",
+            "locationName": "Greater New York City Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:86288860",
+                "entityUrn": "urn:li:fs_miniCompany:86288860",
+                "name": "Dentsu Creative",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEEh6KDyrtRTQ/company-logo_200_200/company-logo_200_200/0/1655747505441/dentsucreative_logo?e=1747872000&v=beta&t=vSW40UujnWQtrOm6-SxPkXnJI7L5fjWJ5pTVuVKjwNo",
+                "universalName": "dentsucreative",
+                "dashCompanyUrn": "urn:li:fsd_company:86288860",
+                "trackingId": "dlZezCatSlCm9Rhq97O4Nw=="
+            },
+            "companyName": "mcgarrybowen"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Digital Design",
+            "schoolName": "School of Visual Arts"
+        },
+        {
+            "fieldOfStudy": "Pre-Medicine/Pre-Medical Studies",
+            "schoolName": "SUNY Stony Brook"
+        },
+        {
+            "fieldOfStudy": "Python Programming",
+            "schoolName": "General Assembly",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Digital Media",
+        "Digital Marketing",
+        "Digital Strategy",
+        "Web Analytics"
+    ],
+    "lastEnriched": "2025-02-17"
+}

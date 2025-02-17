@@ -1,0 +1,501 @@
+{
+    "id": "exp373335624",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alexander",
+        "lastName": "Hoffmann",
+        "fullName": "Alexander Hoffmann",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian"
+        ],
+        "allData": {
+            "id": "373335624",
+            "profileId": "ACoAABZApkgBHogNjviQmZlm2TNABzhES3vytNE",
+            "firstName": "Alexander",
+            "lastName": "Hoffmann",
+            "occupation": "Professor of Immunology, Director of Quantitative and Computational Biosciences",
+            "publicIdentifier": "alexander-hoffmann-860042a5",
+            "trackingId": "IzhvzXCyTZ2KGIvCKbI9kA==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102448103",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "description": "Thomas Asher Professor of Microbiology\nDepartment of Microbiology, Immunology, and Molecular Genetics\nDirector of the Institute for Quantitative and Computational Biosciences",
+                    "locationName": "Los Angeles",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:2477",
+                        "entityUrn": "urn:li:fs_miniCompany:2477",
+                        "name": "UCLA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_200_200/company-logo_200_200/0/1688403831517/ucla_logo?e=1747872000&v=beta&t=4Nybbk_FDxKOdTJa0r_JSD-ZxRV_b5QeSyCjDgngPYQ",
+                        "universalName": "ucla",
+                        "dashCompanyUrn": "urn:li:fsd_company:2477",
+                        "trackingId": "ScJBTM3JS3eMSZyS0qUyAw=="
+                    },
+                    "companyName": "UCLA"
+                },
+                {
+                    "title": "Professor",
+                    "description": "Professor of Chemistry and Biochemistry\nDirector of the Bioinformatics and Systems Biology Graduate Program \nDirector of the San Diego Center for Systems Biology\nChair of the Chancellor's Diversity Council\nChair of Admissions of Chemistry and Biochemistry Graduate Program",
+                    "locationName": "La Jolla",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2003
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3382",
+                        "entityUrn": "urn:li:fs_miniCompany:3382",
+                        "name": "UC San Diego",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1747872000&v=beta&t=y3vtcOBk9REheO9hqG-VBZAppZJTWW_P0TMMF8JMAgE",
+                        "universalName": "ucsandiego",
+                        "dashCompanyUrn": "urn:li:fsd_company:3382",
+                        "trackingId": "lvxZyWniQL+Cb1yDTVXIXg=="
+                    },
+                    "companyName": "University of California, San Diego"
+                },
+                {
+                    "title": "Postdoctoral Fellow with David Baltimore",
+                    "description": "Understanding the specificity of the immune response system, NFkB.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 1998
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:4992",
+                        "entityUrn": "urn:li:fs_miniCompany:4992",
+                        "name": "Caltech",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQFCGqEmSwrc4w/company-logo_200_200/company-logo_200_200/0/1631338994369?e=1747872000&v=beta&t=-Q3O0Y2X5FC2sbbJtH_cWTFlgJV2urEieD4k4nrFwg0",
+                        "universalName": "california-institute-of-technology",
+                        "dashCompanyUrn": "urn:li:fsd_company:4992",
+                        "trackingId": "rRpeZIHoQFaVQQs3o0PiZA=="
+                    },
+                    "companyName": "Caltech"
+                },
+                {
+                    "title": "Postdoctoral Fellow with David Baltimore",
+                    "description": "Understanding HIV Latency: Transcriptional control of the LTR",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 1995
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1503",
+                        "entityUrn": "urn:li:fs_miniCompany:1503",
+                        "name": "Massachusetts Institute of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                        "universalName": "mit",
+                        "dashCompanyUrn": "urn:li:fsd_company:1503",
+                        "trackingId": "OAN+uGmBToaAr8MCp2t0kg=="
+                    },
+                    "companyName": "Massachusetts Institute of Technology (MIT)"
+                },
+                {
+                    "title": "PHD Graduate Student",
+                    "description": "Molecular cloning and characterization of transcription factor TFIID",
+                    "locationName": "New York, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 1995
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 1988
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:8868",
+                        "entityUrn": "urn:li:fs_miniCompany:8868",
+                        "name": "The Rockefeller University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFwQ2H5jqfYzA/company-logo_200_200/company-logo_200_200/0/1631310782315?e=1747872000&v=beta&t=r59Jf7MQp8mfMFPtqKRwe2D6g_ecLEYBMUMSC51b__I",
+                        "universalName": "rockefeller-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:8868",
+                        "trackingId": "h+9ElvrzQsGDHlMJsL3sHw=="
+                    },
+                    "companyName": "The Rockefeller University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy (PhD)",
+                    "fieldOfStudy": "Biochemistry and Molecular Biology",
+                    "schoolName": "Rockefeller University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 1994
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 1988
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Arts (B.A.)",
+                    "fieldOfStudy": "Physics and Zoology",
+                    "schoolName": "University of Cambridge",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1988
+                        },
+                        "startDate": {
+                            "year": 1985
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Italian",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Bioinformatics",
+                "Systems Biology",
+                "Biochemistry",
+                "Molecular Biology"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor of Immunology, Director of Quantitative and Computational Biosciences",
+            "student": false,
+            "industryName": "Biotechnology",
+            "industryUrn": "urn:li:fs_industry:12",
+            "geoLocationName": "Los Angeles, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Professor",
+            "companyName": "UCLA",
+            "companyPublicId": "ucla",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ucla",
+            "following": false,
+            "followable": true,
+            "followersCount": 428,
+            "connectionsCount": 384,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "UCLA",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "UCLA",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alexander-hoffmann-860042a5/",
+        "company": "https://www.linkedin.com/company/ucla"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "description": "Thomas Asher Professor of Microbiology\nDepartment of Microbiology, Immunology, and Molecular Genetics\nDirector of the Institute for Quantitative and Computational Biosciences",
+            "locationName": "Los Angeles",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:2477",
+                "entityUrn": "urn:li:fs_miniCompany:2477",
+                "name": "UCLA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEDHp-TpD9AYQ/company-logo_200_200/company-logo_200_200/0/1688403831517/ucla_logo?e=1747872000&v=beta&t=4Nybbk_FDxKOdTJa0r_JSD-ZxRV_b5QeSyCjDgngPYQ",
+                "universalName": "ucla",
+                "dashCompanyUrn": "urn:li:fsd_company:2477",
+                "trackingId": "ScJBTM3JS3eMSZyS0qUyAw=="
+            },
+            "companyName": "UCLA"
+        },
+        {
+            "title": "Professor",
+            "description": "Professor of Chemistry and Biochemistry\nDirector of the Bioinformatics and Systems Biology Graduate Program \nDirector of the San Diego Center for Systems Biology\nChair of the Chancellor's Diversity Council\nChair of Admissions of Chemistry and Biochemistry Graduate Program",
+            "locationName": "La Jolla",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2003
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3382",
+                "entityUrn": "urn:li:fs_miniCompany:3382",
+                "name": "UC San Diego",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHQYa-3EY_aaQ/company-logo_200_200/company-logo_200_200/0/1630633790917/university_of_california_at_san_diego_logo?e=1747872000&v=beta&t=y3vtcOBk9REheO9hqG-VBZAppZJTWW_P0TMMF8JMAgE",
+                "universalName": "ucsandiego",
+                "dashCompanyUrn": "urn:li:fsd_company:3382",
+                "trackingId": "lvxZyWniQL+Cb1yDTVXIXg=="
+            },
+            "companyName": "University of California, San Diego"
+        },
+        {
+            "title": "Postdoctoral Fellow with David Baltimore",
+            "description": "Understanding the specificity of the immune response system, NFkB.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2003
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 1998
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:4992",
+                "entityUrn": "urn:li:fs_miniCompany:4992",
+                "name": "Caltech",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQFCGqEmSwrc4w/company-logo_200_200/company-logo_200_200/0/1631338994369?e=1747872000&v=beta&t=-Q3O0Y2X5FC2sbbJtH_cWTFlgJV2urEieD4k4nrFwg0",
+                "universalName": "california-institute-of-technology",
+                "dashCompanyUrn": "urn:li:fsd_company:4992",
+                "trackingId": "rRpeZIHoQFaVQQs3o0PiZA=="
+            },
+            "companyName": "Caltech"
+        },
+        {
+            "title": "Postdoctoral Fellow with David Baltimore",
+            "description": "Understanding HIV Latency: Transcriptional control of the LTR",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 1998
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 1995
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1503",
+                "entityUrn": "urn:li:fs_miniCompany:1503",
+                "name": "Massachusetts Institute of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                "universalName": "mit",
+                "dashCompanyUrn": "urn:li:fsd_company:1503",
+                "trackingId": "OAN+uGmBToaAr8MCp2t0kg=="
+            },
+            "companyName": "Massachusetts Institute of Technology (MIT)"
+        },
+        {
+            "title": "PHD Graduate Student",
+            "description": "Molecular cloning and characterization of transcription factor TFIID",
+            "locationName": "New York, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 1995
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1988
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:8868",
+                "entityUrn": "urn:li:fs_miniCompany:8868",
+                "name": "The Rockefeller University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFwQ2H5jqfYzA/company-logo_200_200/company-logo_200_200/0/1631310782315?e=1747872000&v=beta&t=r59Jf7MQp8mfMFPtqKRwe2D6g_ecLEYBMUMSC51b__I",
+                "universalName": "rockefeller-university",
+                "dashCompanyUrn": "urn:li:fsd_company:8868",
+                "trackingId": "h+9ElvrzQsGDHlMJsL3sHw=="
+            },
+            "companyName": "The Rockefeller University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy (PhD)",
+            "fieldOfStudy": "Biochemistry and Molecular Biology",
+            "schoolName": "Rockefeller University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 1994
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1988
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Arts (B.A.)",
+            "fieldOfStudy": "Physics and Zoology",
+            "schoolName": "University of Cambridge",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1988
+                },
+                "startDate": {
+                    "year": 1985
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Bioinformatics",
+        "Systems Biology",
+        "Biochemistry",
+        "Molecular Biology"
+    ],
+    "lastEnriched": "2025-02-17"
+}

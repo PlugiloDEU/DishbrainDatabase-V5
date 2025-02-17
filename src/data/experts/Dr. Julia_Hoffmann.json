@@ -1,0 +1,520 @@
+{
+    "id": "exp760760311",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Julia",
+        "lastName": "Hoffmann",
+        "fullName": "Dr. Julia Hoffmann",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQFC2ZHIPRsa4g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1568626231679?e=1745452800&v=beta&t=pmLLyebDO-z-MIC1qkBgzs_9dRkqvKr7u06rwoMWmSY",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch",
+            "Italienisch",
+            "Spanisch"
+        ],
+        "allData": {
+            "id": "760760311",
+            "profileId": "ACoAAC1YR_cBJCbmTNheXtQ0quXFg_un8CPX-ZI",
+            "firstName": "Dr. Julia",
+            "lastName": "Hoffmann",
+            "occupation": "Senior Project Manager bei EFCNI - European Foundation for the Care of Newborn Infants",
+            "publicIdentifier": "dr-julia-hoffmann-98793a192",
+            "trackingId": "DMHzyEFFSoOwRf2Yuj78rg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFC2ZHIPRsa4g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1568626231679?e=1745452800&v=beta&t=pmLLyebDO-z-MIC1qkBgzs_9dRkqvKr7u06rwoMWmSY",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009735",
+            "positions": [
+                {
+                    "title": "Senior Project Manager",
+                    "locationName": "Metropolregion München",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:10525750",
+                        "entityUrn": "urn:li:fs_miniCompany:10525750",
+                        "name": "EFCNI - European Foundation for the Care of Newborn Infants",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHYfcIZkCYuzA/company-logo_200_200/company-logo_200_200/0/1701703538311/efcni___european_foundation_for_the_care_of_newborn_infants_logo?e=1747872000&v=beta&t=Jv8kXNjKFlM6t84xSgrR17SCjPMeLFxSZQ8kvOLtavw",
+                        "universalName": "efcni---european-foundation-for-the-care-of-newborn-infants",
+                        "dashCompanyUrn": "urn:li:fsd_company:10525750",
+                        "trackingId": "3MQXUA0gTWyTvGw2slEaNw=="
+                    },
+                    "companyName": "EFCNI - European Foundation for the Care of Newborn Infants"
+                },
+                {
+                    "title": "Wissenschaftliche Mitarbeiterin",
+                    "description": "Ernährungsmedizin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "qsgnP+xSQXCDFAZoUziidA=="
+                    },
+                    "companyName": "Technische Universität München"
+                },
+                {
+                    "title": "Wissenschaftliche Hilfskraft",
+                    "description": "Lehrstuhl für Klinische Ernährungsmedizin",
+                    "locationName": "Freising",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "XG3/BxQ4RVCMWxLCpIRF8g=="
+                    },
+                    "companyName": "Technische Universität München"
+                },
+                {
+                    "title": "Wissenschaftliche Hilfskraft",
+                    "description": "Institut für Diabetesforschung",
+                    "locationName": "München",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:370470",
+                        "entityUrn": "urn:li:fs_miniCompany:370470",
+                        "name": "Helmholtz Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG4DVebHt5JYw/company-logo_200_200/company-logo_200_200/0/1694615584841/helmholtzmunich_logo?e=1747872000&v=beta&t=W2PuI7wDz32eInjVI_nnFI9JIfJ22i0YB6sejfbwW7I",
+                        "universalName": "helmholtzmunich",
+                        "dashCompanyUrn": "urn:li:fsd_company:370470",
+                        "trackingId": "5kk1RpnJRXKWBy6ioQfe0Q=="
+                    },
+                    "companyName": "Helmholtz Zentrum München"
+                },
+                {
+                    "title": "Praktikant",
+                    "description": "Forschung und Entwicklung, Sensorik",
+                    "locationName": "Freising",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Food Production"
+                        ],
+                        "objectUrn": "urn:li:company:96539",
+                        "entityUrn": "urn:li:fs_miniCompany:96539",
+                        "name": "Unternehmensgruppe Theo Müller",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGdtLJKqQGjhw/company-logo_200_200/company-logo_200_200/0/1684921997777/unternehmensgruppe_theo_muller_logo?e=1747872000&v=beta&t=8VsvIub-BCHqKrkHuN0VfYv94V297sKtNHrb7kNbTQ8",
+                        "universalName": "unternehmensgruppe-theo-muller",
+                        "dashCompanyUrn": "urn:li:fsd_company:96539",
+                        "trackingId": "w4tvNB/WQWS9L2YCIpESgQ=="
+                    },
+                    "companyName": "Unternehmensgruppe Theo Müller"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Nutrition and Biomedicine",
+                    "fieldOfStudy": "Nutrition and Biomedicine",
+                    "schoolName": "Technische Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science - BS",
+                    "fieldOfStudy": "Ernährungswissenschaften",
+                    "schoolName": "Justus-Liebig-Universität Giessen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "Fitnesstrainer B-Lizenz"
+                }
+            ],
+            "honors": [
+                {
+                    "title": "Reisestipendien",
+                    "issuer": "Deutsche Diabetes Gesellschaft"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Italienisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Spanisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "SPSS, MS Office, DGExpert, Optidiet",
+                "Nutrition in pregnancy",
+                "Projektmanagement",
+                "Klinische Studien"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Ehrenamtliche Mitarbeit",
+                    "companyName": "Verein Kenianische Waisenkinder in Not e. V.",
+                    "cause": "POVERTY_ALLEVIATION"
+                }
+            ],
+            "headline": "Senior Project Manager bei EFCNI - European Foundation for the Care of Newborn Infants",
+            "student": false,
+            "industryName": "Health, Wellness & Fitness",
+            "industryUrn": "urn:li:fs_industry:124",
+            "geoLocationName": "Greater Munich Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Senior Project Manager",
+            "companyName": "EFCNI - European Foundation for the Care of Newborn Infants",
+            "companyPublicId": "efcni---european-foundation-for-the-care-of-newborn-infants",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/efcni---european-foundation-for-the-care-of-newborn-infants",
+            "following": false,
+            "followable": true,
+            "followersCount": 204,
+            "connectionsCount": 200,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "EFCNI - European Foundation for the Care of Newborn Infants",
+        "position": "Senior Project Manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Hospital & Health Care"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Project Manager",
+        "organization": "EFCNI - European Foundation for the Care of Newborn Infants",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-julia-hoffmann-98793a192/",
+        "company": "https://www.linkedin.com/company/efcni---european-foundation-for-the-care-of-newborn-infants"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Project Manager",
+            "locationName": "Metropolregion München",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:10525750",
+                "entityUrn": "urn:li:fs_miniCompany:10525750",
+                "name": "EFCNI - European Foundation for the Care of Newborn Infants",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHYfcIZkCYuzA/company-logo_200_200/company-logo_200_200/0/1701703538311/efcni___european_foundation_for_the_care_of_newborn_infants_logo?e=1747872000&v=beta&t=Jv8kXNjKFlM6t84xSgrR17SCjPMeLFxSZQ8kvOLtavw",
+                "universalName": "efcni---european-foundation-for-the-care-of-newborn-infants",
+                "dashCompanyUrn": "urn:li:fsd_company:10525750",
+                "trackingId": "3MQXUA0gTWyTvGw2slEaNw=="
+            },
+            "companyName": "EFCNI - European Foundation for the Care of Newborn Infants"
+        },
+        {
+            "title": "Wissenschaftliche Mitarbeiterin",
+            "description": "Ernährungsmedizin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "qsgnP+xSQXCDFAZoUziidA=="
+            },
+            "companyName": "Technische Universität München"
+        },
+        {
+            "title": "Wissenschaftliche Hilfskraft",
+            "description": "Lehrstuhl für Klinische Ernährungsmedizin",
+            "locationName": "Freising",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "XG3/BxQ4RVCMWxLCpIRF8g=="
+            },
+            "companyName": "Technische Universität München"
+        },
+        {
+            "title": "Wissenschaftliche Hilfskraft",
+            "description": "Institut für Diabetesforschung",
+            "locationName": "München",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:370470",
+                "entityUrn": "urn:li:fs_miniCompany:370470",
+                "name": "Helmholtz Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG4DVebHt5JYw/company-logo_200_200/company-logo_200_200/0/1694615584841/helmholtzmunich_logo?e=1747872000&v=beta&t=W2PuI7wDz32eInjVI_nnFI9JIfJ22i0YB6sejfbwW7I",
+                "universalName": "helmholtzmunich",
+                "dashCompanyUrn": "urn:li:fsd_company:370470",
+                "trackingId": "5kk1RpnJRXKWBy6ioQfe0Q=="
+            },
+            "companyName": "Helmholtz Zentrum München"
+        },
+        {
+            "title": "Praktikant",
+            "description": "Forschung und Entwicklung, Sensorik",
+            "locationName": "Freising",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Food Production"
+                ],
+                "objectUrn": "urn:li:company:96539",
+                "entityUrn": "urn:li:fs_miniCompany:96539",
+                "name": "Unternehmensgruppe Theo Müller",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGdtLJKqQGjhw/company-logo_200_200/company-logo_200_200/0/1684921997777/unternehmensgruppe_theo_muller_logo?e=1747872000&v=beta&t=8VsvIub-BCHqKrkHuN0VfYv94V297sKtNHrb7kNbTQ8",
+                "universalName": "unternehmensgruppe-theo-muller",
+                "dashCompanyUrn": "urn:li:fsd_company:96539",
+                "trackingId": "w4tvNB/WQWS9L2YCIpESgQ=="
+            },
+            "companyName": "Unternehmensgruppe Theo Müller"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Nutrition and Biomedicine",
+            "fieldOfStudy": "Nutrition and Biomedicine",
+            "schoolName": "Technische Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science - BS",
+            "fieldOfStudy": "Ernährungswissenschaften",
+            "schoolName": "Justus-Liebig-Universität Giessen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "SPSS, MS Office, DGExpert, Optidiet",
+        "Nutrition in pregnancy",
+        "Projektmanagement",
+        "Klinische Studien"
+    ],
+    "lastEnriched": "2025-02-17"
+}

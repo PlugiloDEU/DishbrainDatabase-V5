@@ -1,0 +1,387 @@
+{
+    "id": "exp531802479",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Julia",
+        "lastName": "Meyer",
+        "fullName": "Julia Meyer",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "531802479",
+            "profileId": "ACoAAB-yqW8B6d2HPkCyGOdNuuBxmhaygsGNwUc",
+            "firstName": "Julia",
+            "lastName": "Meyer",
+            "occupation": "PhD Candidate '24 • Mechanical Engineering • Purdue University",
+            "publicIdentifier": "julia-meyer",
+            "trackingId": "n8a2Vp7xTqGjoseM32dGXw==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:106112649",
+            "positions": [
+                {
+                    "title": "Graduate Research Assistant",
+                    "locationName": "Purdue University",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Energy and Transport Sciences Laboratory"
+                },
+                {
+                    "title": "Graduate Research Intern",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Defense & Space"
+                        ],
+                        "objectUrn": "urn:li:company:5379",
+                        "entityUrn": "urn:li:fs_miniCompany:5379",
+                        "name": "Sandia National Laboratories",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGAjDalgzChdA/company-logo_200_200/company-logo_200_200/0/1630629601418/sandia_national_laboratories_logo?e=1747872000&v=beta&t=nLik1eF_tAo7-x_rlbO7Dyyox3awQ1Acm0RIx9UunC0",
+                        "universalName": "sandia-national-laboratories",
+                        "dashCompanyUrn": "urn:li:fsd_company:5379",
+                        "trackingId": "Lim84oemTd2+smBgVyZRgg=="
+                    },
+                    "companyName": "Sandia National Laboratories"
+                },
+                {
+                    "title": "Undergraduate Student Researcher",
+                    "description": "- Developed MATLAB codes for analyzing statistical behavior of systems undergoing phase transitions\n- Solved Schrödinger equations for theoretical solutions to probability density functions\n\nPoster presentation: Thermodynamics of Coherent Structures near Phase Transitions \n- SURF Symposium, August 2017\n- Purdue Undergraduate Research Conference, April 2019",
+                    "locationName": "Purdue University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "TMNT Laboratory"
+                },
+                {
+                    "title": "Undergraduate Student Researcher",
+                    "description": "- Conducted tests for material failure limits during particle compression\n- Developed MATLAB codes for analyzing shape deformation during particle compression\n\nPoster presentation: Experimental Contact Mechanics in Particulate Composite Materials\n- Bottomley Research Scholarship Presentation, May 2017\nPoster presentation: Refining Contact Models for Particle-Binder Composites\n- Purdue Honors College Symposium, May 2019",
+                    "locationName": "West Lafayette, IN",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Gonzalez Laboratory"
+                },
+                {
+                    "title": "SURF Student",
+                    "description": "Student research funded by the Purdue Summer Undergraduate Research Fellowship.",
+                    "locationName": "Purdue University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "TMNT Laboratory"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor's degree",
+                    "fieldOfStudy": "Mechanical Engineering",
+                    "schoolName": "Purdue University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor’s Degree",
+                    "fieldOfStudy": "Mechanical Engineering",
+                    "schoolName": "Purdue University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "degreeName": "High School",
+                    "schoolName": "Iowa State University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "Differential Equations"
+                },
+                {
+                    "name": "Honors Physics (Mechanics)"
+                },
+                {
+                    "name": "Linear Algebra"
+                },
+                {
+                    "name": "Statics"
+                },
+                {
+                    "name": "Thermodynamics"
+                }
+            ],
+            "honors": [
+                {
+                    "title": "Bottomley Scholarship",
+                    "description": "Scholarship towards spring semester research project and presentation",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2016
+                    }
+                },
+                {
+                    "title": "Dean's List",
+                    "issueDate": {
+                        "month": 1,
+                        "year": 2016
+                    }
+                },
+                {
+                    "title": "Semester Honors",
+                    "issueDate": {
+                        "month": 1,
+                        "year": 2016
+                    }
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Technical Writing",
+                "Group Work",
+                "Thermodynamics",
+                "Matlab"
+            ],
+            "volunteerExperiences": [],
+            "headline": "PhD Candidate '24 • Mechanical Engineering • Purdue University",
+            "summary": "I am a fifth-year direct Ph.D. graduate student in Mechanical Engineering, working with Prof. Partha Mukherjee. My current interest is in the computational modeling of lithium-ion batteries.",
+            "student": false,
+            "industryName": "Mechanical Or Industrial Engineering",
+            "industryUrn": "urn:li:fs_industry:135",
+            "geoLocationName": "West Lafayette, Indiana",
+            "geoCountryName": "United States",
+            "jobTitle": "Graduate Research Assistant",
+            "companyName": "Energy and Transport Sciences Laboratory",
+            "following": false,
+            "followable": true,
+            "followersCount": 58,
+            "connectionsCount": 58,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Energy and Transport Sciences Laboratory",
+        "position": "Graduate Research Assistant",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Graduate Research Assistant",
+        "organization": "Energy and Transport Sciences Laboratory",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/julia-meyer/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Graduate Research Assistant",
+            "locationName": "Purdue University",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "companyName": "Energy and Transport Sciences Laboratory"
+        },
+        {
+            "title": "Graduate Research Intern",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Defense & Space"
+                ],
+                "objectUrn": "urn:li:company:5379",
+                "entityUrn": "urn:li:fs_miniCompany:5379",
+                "name": "Sandia National Laboratories",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGAjDalgzChdA/company-logo_200_200/company-logo_200_200/0/1630629601418/sandia_national_laboratories_logo?e=1747872000&v=beta&t=nLik1eF_tAo7-x_rlbO7Dyyox3awQ1Acm0RIx9UunC0",
+                "universalName": "sandia-national-laboratories",
+                "dashCompanyUrn": "urn:li:fsd_company:5379",
+                "trackingId": "Lim84oemTd2+smBgVyZRgg=="
+            },
+            "companyName": "Sandia National Laboratories"
+        },
+        {
+            "title": "Undergraduate Student Researcher",
+            "description": "- Developed MATLAB codes for analyzing statistical behavior of systems undergoing phase transitions\n- Solved Schrödinger equations for theoretical solutions to probability density functions\n\nPoster presentation: Thermodynamics of Coherent Structures near Phase Transitions \n- SURF Symposium, August 2017\n- Purdue Undergraduate Research Conference, April 2019",
+            "locationName": "Purdue University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "companyName": "TMNT Laboratory"
+        },
+        {
+            "title": "Undergraduate Student Researcher",
+            "description": "- Conducted tests for material failure limits during particle compression\n- Developed MATLAB codes for analyzing shape deformation during particle compression\n\nPoster presentation: Experimental Contact Mechanics in Particulate Composite Materials\n- Bottomley Research Scholarship Presentation, May 2017\nPoster presentation: Refining Contact Models for Particle-Binder Composites\n- Purdue Honors College Symposium, May 2019",
+            "locationName": "West Lafayette, IN",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "companyName": "Gonzalez Laboratory"
+        },
+        {
+            "title": "SURF Student",
+            "description": "Student research funded by the Purdue Summer Undergraduate Research Fellowship.",
+            "locationName": "Purdue University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "companyName": "TMNT Laboratory"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor's degree",
+            "fieldOfStudy": "Mechanical Engineering",
+            "schoolName": "Purdue University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor’s Degree",
+            "fieldOfStudy": "Mechanical Engineering",
+            "schoolName": "Purdue University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "degreeName": "High School",
+            "schoolName": "Iowa State University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Technical Writing",
+        "Group Work",
+        "Thermodynamics",
+        "Matlab"
+    ],
+    "lastEnriched": "2025-02-17"
+}

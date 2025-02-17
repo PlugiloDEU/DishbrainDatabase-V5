@@ -1,0 +1,396 @@
+{
+    "id": "exp550773215",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Tobias",
+        "lastName": "Rietzler",
+        "fullName": "Tobias Rietzler",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQGI7pBg8PpViA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1663156135731?e=1745452800&v=beta&t=V2RdEj2N8f2rFLi9LgETaqM59MOIafR3iWb217tEX0M",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "550773215",
+            "profileId": "ACoAACDUId8BJV7Khdor0oQY3Fksbj2BIKPi5SI",
+            "firstName": "Tobias",
+            "lastName": "Rietzler",
+            "occupation": "CEO and Co-founder at robominds GmbH | 🤖",
+            "publicIdentifier": "trietzler",
+            "trackingId": "tRR9V+Z5TS6O9sXwJ/CaGA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGI7pBg8PpViA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1663156135731?e=1745452800&v=beta&t=V2RdEj2N8f2rFLi9LgETaqM59MOIafR3iWb217tEX0M",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQHPsgu7LSW92g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695983399523?e=1745452800&v=beta&t=fT7rkiwKQgxU474NJzMrl1Gn3b055mI3IsyrSItxyw4",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105973663",
+            "positions": [
+                {
+                    "title": "CEO and Co-founder",
+                    "description": "Working on the vision of Smart Industrial Robotics",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:10863000",
+                        "entityUrn": "urn:li:fs_miniCompany:10863000",
+                        "name": "robominds GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG-hTwyazbBkg/company-logo_200_200/company-logo_200_200/0/1630555584695/robominds_gmbh_logo?e=1747872000&v=beta&t=vyVpF0BcT8G_K9P19QqXEwoDaEa8VZAJ7ojQmWor3WY",
+                        "universalName": "robominds-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:10863000",
+                        "trackingId": "UjSwy4FeT2u02cXN917hwA=="
+                    },
+                    "companyName": "robominds GmbH"
+                },
+                {
+                    "title": "Founding Member",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:71331741",
+                        "entityUrn": "urn:li:fs_miniCompany:71331741",
+                        "name": "Deutscher Robotik Verband",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEK5-tdEDETRQ/company-logo_200_200/company-logo_200_200/0/1630552236569/robotikverband_logo?e=1747872000&v=beta&t=HsdYiR4IMPzaEVZbmSQqSkxZsNwQPP7ivLkncJXngeQ",
+                        "universalName": "robotikverband",
+                        "dashCompanyUrn": "urn:li:fsd_company:71331741",
+                        "trackingId": "it+VeNhTRQeMtfaHq3rMGA=="
+                    },
+                    "companyName": "Deutscher Robotik Verband"
+                },
+                {
+                    "title": "Member",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Political Organization"
+                        ],
+                        "objectUrn": "urn:li:company:11535626",
+                        "entityUrn": "urn:li:fs_miniCompany:11535626",
+                        "name": "KI Bundesverband",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH8ibgE_rb3gw/company-logo_200_200/company-logo_200_200/0/1630536142009/ki_verband_logo?e=1747872000&v=beta&t=si0tFnfzDObm5Ochi5pSrtyTZ7n4clRuZWtG7iYS6QM",
+                        "universalName": "ki-verband",
+                        "dashCompanyUrn": "urn:li:fsd_company:11535626",
+                        "trackingId": "/cUSIMT1SKiPz6xu/N5vTQ=="
+                    },
+                    "companyName": "KI Bundesverband e.V."
+                },
+                {
+                    "title": "Student Hardware Engineer",
+                    "description": "Hardware development in the field of HV automotive applications and automotive control systems.\nResearch in SiC inverters for high-speed motor control.",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Electrical/Electronic Manufacturing"
+                        ],
+                        "objectUrn": "urn:li:company:6544457",
+                        "entityUrn": "urn:li:fs_miniCompany:6544457",
+                        "name": "Silver Atena GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHt_qFbjIa3uA/company-logo_200_200/company-logo_200_200/0/1678795426336/silveratena_logo?e=1747872000&v=beta&t=djJ9vhOp5dvpJRztIQ967ZjZ77NHklSsQbqIY0mZi6s",
+                        "universalName": "silveratena",
+                        "dashCompanyUrn": "urn:li:fsd_company:6544457",
+                        "trackingId": "TykCm8B3SvaRwqeCpPNoTg=="
+                    },
+                    "companyName": "SILVER ATENA Electronic Systems Engineering GmbH"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "Elektrotechnik und Elektronik",
+                    "schoolName": "Technische Universität München"
+                },
+                {
+                    "schoolName": "Hochschule München"
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "PowerMBA",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "ThePowerMBA"
+                },
+                {
+                    "name": "Akademie Führung und Persönlichkeit",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2017
+                        }
+                    },
+                    "authority": "Hochschule für Philosophie München"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Robotik",
+                "Marketingstrategie",
+                "Projektmanagement",
+                "Management"
+            ],
+            "volunteerExperiences": [],
+            "headline": "CEO and Co-founder at robominds GmbH | 🤖",
+            "summary": "Leading AI robotics - We are providing robots with brains, eyes and skills. 🤖 🧠 👁 🎓",
+            "student": false,
+            "industryName": "Industrial Automation",
+            "industryUrn": "urn:li:fs_industry:147",
+            "geoLocationName": "Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "CEO and Co-founder",
+            "companyName": "robominds GmbH",
+            "companyPublicId": "robominds-gmbh",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/robominds-gmbh",
+            "following": false,
+            "followable": true,
+            "followersCount": 4585,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "robominds GmbH",
+        "position": "CEO and Co-founder",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Industrial Automation"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "CEO and Co-founder",
+        "organization": "robominds GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/trietzler/",
+        "company": "https://www.linkedin.com/company/robominds-gmbh"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "CEO and Co-founder",
+            "description": "Working on the vision of Smart Industrial Robotics",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:10863000",
+                "entityUrn": "urn:li:fs_miniCompany:10863000",
+                "name": "robominds GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG-hTwyazbBkg/company-logo_200_200/company-logo_200_200/0/1630555584695/robominds_gmbh_logo?e=1747872000&v=beta&t=vyVpF0BcT8G_K9P19QqXEwoDaEa8VZAJ7ojQmWor3WY",
+                "universalName": "robominds-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:10863000",
+                "trackingId": "UjSwy4FeT2u02cXN917hwA=="
+            },
+            "companyName": "robominds GmbH"
+        },
+        {
+            "title": "Founding Member",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:71331741",
+                "entityUrn": "urn:li:fs_miniCompany:71331741",
+                "name": "Deutscher Robotik Verband",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEK5-tdEDETRQ/company-logo_200_200/company-logo_200_200/0/1630552236569/robotikverband_logo?e=1747872000&v=beta&t=HsdYiR4IMPzaEVZbmSQqSkxZsNwQPP7ivLkncJXngeQ",
+                "universalName": "robotikverband",
+                "dashCompanyUrn": "urn:li:fsd_company:71331741",
+                "trackingId": "it+VeNhTRQeMtfaHq3rMGA=="
+            },
+            "companyName": "Deutscher Robotik Verband"
+        },
+        {
+            "title": "Member",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Political Organization"
+                ],
+                "objectUrn": "urn:li:company:11535626",
+                "entityUrn": "urn:li:fs_miniCompany:11535626",
+                "name": "KI Bundesverband",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH8ibgE_rb3gw/company-logo_200_200/company-logo_200_200/0/1630536142009/ki_verband_logo?e=1747872000&v=beta&t=si0tFnfzDObm5Ochi5pSrtyTZ7n4clRuZWtG7iYS6QM",
+                "universalName": "ki-verband",
+                "dashCompanyUrn": "urn:li:fsd_company:11535626",
+                "trackingId": "/cUSIMT1SKiPz6xu/N5vTQ=="
+            },
+            "companyName": "KI Bundesverband e.V."
+        },
+        {
+            "title": "Student Hardware Engineer",
+            "description": "Hardware development in the field of HV automotive applications and automotive control systems.\nResearch in SiC inverters for high-speed motor control.",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Electrical/Electronic Manufacturing"
+                ],
+                "objectUrn": "urn:li:company:6544457",
+                "entityUrn": "urn:li:fs_miniCompany:6544457",
+                "name": "Silver Atena GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHt_qFbjIa3uA/company-logo_200_200/company-logo_200_200/0/1678795426336/silveratena_logo?e=1747872000&v=beta&t=djJ9vhOp5dvpJRztIQ967ZjZ77NHklSsQbqIY0mZi6s",
+                "universalName": "silveratena",
+                "dashCompanyUrn": "urn:li:fsd_company:6544457",
+                "trackingId": "TykCm8B3SvaRwqeCpPNoTg=="
+            },
+            "companyName": "SILVER ATENA Electronic Systems Engineering GmbH"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "Elektrotechnik und Elektronik",
+            "schoolName": "Technische Universität München"
+        },
+        {
+            "schoolName": "Hochschule München"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PowerMBA",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "authority": "ThePowerMBA"
+        },
+        {
+            "name": "Akademie Führung und Persönlichkeit",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "authority": "Hochschule für Philosophie München"
+        }
+    ],
+    "skills": [
+        "Robotik",
+        "Marketingstrategie",
+        "Projektmanagement",
+        "Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,582 @@
+{
+    "id": "exp745955941",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Katherine",
+        "lastName": "Kitur",
+        "fullName": "Katherine Kitur",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQE3WFW_UB7w3w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1607359624674?e=1745452800&v=beta&t=9e1AVxpnN_bFvvVTu6MlTikmSLxmqCcFy9QLjLCCHpI",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch",
+            "Spanisch",
+            "Swahili"
+        ],
+        "allData": {
+            "id": "745955941",
+            "profileId": "ACoAACx2YmUBlyWuyHyzGSCq86zsnIXrFJt0xbM",
+            "firstName": "Katherine",
+            "lastName": "Kitur",
+            "occupation": "Law Student/BayFiD-Talent/Scholarship Recipient of the Heinrich Böll Foundation",
+            "publicIdentifier": "katherine-kitur",
+            "trackingId": "XAzcM9rhSTyXY3ygd9o31g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQE3WFW_UB7w3w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1607359624674?e=1745452800&v=beta&t=9e1AVxpnN_bFvvVTu6MlTikmSLxmqCcFy9QLjLCCHpI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101582226",
+            "positions": [
+                {
+                    "title": "Student Research Assistant",
+                    "description": "Practice Group: IT, IP and Media Law",
+                    "locationName": "Munich, Bavaria, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:18030326",
+                        "entityUrn": "urn:li:fs_miniCompany:18030326",
+                        "name": "Heussen Rechtsanwaltsgesellschaft mbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaG_JX3nbQDw/company-logo_200_200/company-logo_200_200/0/1695202112274/heussengermany_logo?e=1747872000&v=beta&t=-AnbBgXHvTwN0ACGeRT_XuMvxOk7X4GUjsisarWND9E",
+                        "universalName": "heussengermany",
+                        "dashCompanyUrn": "urn:li:fsd_company:18030326",
+                        "trackingId": "uN9WzEoXTQq1wFKxYOT48A=="
+                    },
+                    "companyName": "HEUSSEN Rechtsanwaltsgesellschaft mbH"
+                },
+                {
+                    "title": "Co-Founder",
+                    "locationName": "Passau, Bavaria, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Recreational Facilities and Services"
+                        ],
+                        "objectUrn": "urn:li:company:42082744",
+                        "entityUrn": "urn:li:fs_miniCompany:42082744",
+                        "name": "SmartLocal Passau",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFK4OC_tvNUkw/company-logo_200_200/company-logo_200_200/0/1630547017215?e=1747872000&v=beta&t=z8WjNbb87Jxn3VsI8Casi0hCHWIxIBAfvuTgcuUQKxo",
+                        "universalName": "smartlocal-passau",
+                        "dashCompanyUrn": "urn:li:fsd_company:42082744",
+                        "trackingId": "UJJUe2/gR12NFdu2oG0U5Q=="
+                    },
+                    "companyName": "SmartLocal Passau"
+                },
+                {
+                    "title": "Student Research Assistant",
+                    "description": "Research Centre for IT-Law and Network Policy (for..net)",
+                    "locationName": "Passau, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:39836",
+                        "entityUrn": "urn:li:fs_miniCompany:39836",
+                        "name": "Universität Passau",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEocpg4HZZZQ/company-logo_200_200/company-logo_200_200/0/1708685471697/university_of_passau_logo?e=1747872000&v=beta&t=dmayJ24UwPAd29afe96_ROgyLDHvAbgCQOVbaySPTdo",
+                        "universalName": "university-of-passau",
+                        "dashCompanyUrn": "urn:li:fsd_company:39836",
+                        "trackingId": "Bsh3y3jhT2W0OhEYBfxwZQ=="
+                    },
+                    "companyName": "University of Passau"
+                },
+                {
+                    "title": "Legal Intern",
+                    "description": "Practice Group: Digital Business",
+                    "locationName": "Munich, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:39414",
+                        "entityUrn": "urn:li:fs_miniCompany:39414",
+                        "name": "Noerr",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGwN1HxmgUJSA/company-logo_200_200/company-logo_200_200/0/1689359058750/noerr_logo?e=1747872000&v=beta&t=BE-WesGAkyNEpe7m_WQd9e4Hn0588DUdIUoTSgOWICs",
+                        "universalName": "noerr",
+                        "dashCompanyUrn": "urn:li:fsd_company:39414",
+                        "trackingId": "fqffmK2SRlqEaK+YamipZA=="
+                    },
+                    "companyName": "Noerr LLP"
+                },
+                {
+                    "title": "Student Research Assistant",
+                    "description": "Chair for Public Law, Security Law and Internet Law, Prof. Dr. Dirk Heckmann",
+                    "locationName": "Passau, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:39836",
+                        "entityUrn": "urn:li:fs_miniCompany:39836",
+                        "name": "Universität Passau",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEocpg4HZZZQ/company-logo_200_200/company-logo_200_200/0/1708685471697/university_of_passau_logo?e=1747872000&v=beta&t=dmayJ24UwPAd29afe96_ROgyLDHvAbgCQOVbaySPTdo",
+                        "universalName": "university-of-passau",
+                        "dashCompanyUrn": "urn:li:fsd_company:39836",
+                        "trackingId": "QADqmQvGS5eKpLOUHRFv1g=="
+                    },
+                    "companyName": "University of Passau"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "1st State Examination",
+                    "fieldOfStudy": "Law",
+                    "schoolName": "University of Passau",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Certificate of Studies in European, Comparative and International Law (CECIL)",
+                    "schoolName": "University of Passau",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Honours Degree",
+                    "fieldOfStudy": "Digital Technology and Entrepreneurship",
+                    "schoolName": "University of Passau",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2019
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Aufnahme in Talentprogramm \"Bayerns Frauen in Digitalberufen\" (BayFiD)",
+                    "issueDate": {
+                        "month": 7,
+                        "year": 2019
+                    },
+                    "issuer": "Bayerisches Staatsministerium für Digitales"
+                },
+                {
+                    "title": "Stipendium von der Kanzlei Noerr LLP",
+                    "issueDate": {
+                        "year": 2019
+                    }
+                },
+                {
+                    "title": "Stipendium von der Heinrich-Böll-Stiftung",
+                    "issueDate": {
+                        "year": 2018
+                    }
+                },
+                {
+                    "title": "Distinguished Delegate TLVMUN",
+                    "issueDate": {
+                        "month": 8,
+                        "year": 2017
+                    },
+                    "issuer": "Tel Aviv Model United Nations"
+                },
+                {
+                    "title": "Stipendium von der Deutschen Schule Nairobi",
+                    "issueDate": {
+                        "month": 1,
+                        "year": 2009
+                    }
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Spanisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Swahili",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Legal Research",
+                "Interpersonal Skills",
+                "Writing",
+                "Microsoft Office"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Law Student/BayFiD-Talent/Scholarship Recipient of the Heinrich Böll Foundation",
+            "summary": "I am currently in the 9th semester of my law studies at the University of Passau as a scholarship recipient of the Heinrich Böll Foundation. In 2019, I successfully completed my major field of study in Information and Communications Technology Law. Furthermore, I am a participant in the talent programme \"BayFiD\" (Bavarian Women in Digital Professions), that was established by the Bavarian State Ministry for Digital Affairs.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Passau, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Student Research Assistant",
+            "companyName": "HEUSSEN Rechtsanwaltsgesellschaft mbH",
+            "companyPublicId": "heussengermany",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/heussengermany",
+            "following": false,
+            "followable": true,
+            "followersCount": 482,
+            "connectionsCount": 479,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "HEUSSEN Rechtsanwaltsgesellschaft mbH",
+        "position": "Student Research Assistant",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Law Practice"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Student Research Assistant",
+        "organization": "HEUSSEN Rechtsanwaltsgesellschaft mbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/katherine-kitur/",
+        "company": "https://www.linkedin.com/company/heussengermany"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Student Research Assistant",
+            "description": "Practice Group: IT, IP and Media Law",
+            "locationName": "Munich, Bavaria, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:18030326",
+                "entityUrn": "urn:li:fs_miniCompany:18030326",
+                "name": "Heussen Rechtsanwaltsgesellschaft mbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHaG_JX3nbQDw/company-logo_200_200/company-logo_200_200/0/1695202112274/heussengermany_logo?e=1747872000&v=beta&t=-AnbBgXHvTwN0ACGeRT_XuMvxOk7X4GUjsisarWND9E",
+                "universalName": "heussengermany",
+                "dashCompanyUrn": "urn:li:fsd_company:18030326",
+                "trackingId": "uN9WzEoXTQq1wFKxYOT48A=="
+            },
+            "companyName": "HEUSSEN Rechtsanwaltsgesellschaft mbH"
+        },
+        {
+            "title": "Co-Founder",
+            "locationName": "Passau, Bavaria, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Recreational Facilities and Services"
+                ],
+                "objectUrn": "urn:li:company:42082744",
+                "entityUrn": "urn:li:fs_miniCompany:42082744",
+                "name": "SmartLocal Passau",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFK4OC_tvNUkw/company-logo_200_200/company-logo_200_200/0/1630547017215?e=1747872000&v=beta&t=z8WjNbb87Jxn3VsI8Casi0hCHWIxIBAfvuTgcuUQKxo",
+                "universalName": "smartlocal-passau",
+                "dashCompanyUrn": "urn:li:fsd_company:42082744",
+                "trackingId": "UJJUe2/gR12NFdu2oG0U5Q=="
+            },
+            "companyName": "SmartLocal Passau"
+        },
+        {
+            "title": "Student Research Assistant",
+            "description": "Research Centre for IT-Law and Network Policy (for..net)",
+            "locationName": "Passau, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:39836",
+                "entityUrn": "urn:li:fs_miniCompany:39836",
+                "name": "Universität Passau",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEocpg4HZZZQ/company-logo_200_200/company-logo_200_200/0/1708685471697/university_of_passau_logo?e=1747872000&v=beta&t=dmayJ24UwPAd29afe96_ROgyLDHvAbgCQOVbaySPTdo",
+                "universalName": "university-of-passau",
+                "dashCompanyUrn": "urn:li:fsd_company:39836",
+                "trackingId": "Bsh3y3jhT2W0OhEYBfxwZQ=="
+            },
+            "companyName": "University of Passau"
+        },
+        {
+            "title": "Legal Intern",
+            "description": "Practice Group: Digital Business",
+            "locationName": "Munich, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:39414",
+                "entityUrn": "urn:li:fs_miniCompany:39414",
+                "name": "Noerr",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGwN1HxmgUJSA/company-logo_200_200/company-logo_200_200/0/1689359058750/noerr_logo?e=1747872000&v=beta&t=BE-WesGAkyNEpe7m_WQd9e4Hn0588DUdIUoTSgOWICs",
+                "universalName": "noerr",
+                "dashCompanyUrn": "urn:li:fsd_company:39414",
+                "trackingId": "fqffmK2SRlqEaK+YamipZA=="
+            },
+            "companyName": "Noerr LLP"
+        },
+        {
+            "title": "Student Research Assistant",
+            "description": "Chair for Public Law, Security Law and Internet Law, Prof. Dr. Dirk Heckmann",
+            "locationName": "Passau, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:39836",
+                "entityUrn": "urn:li:fs_miniCompany:39836",
+                "name": "Universität Passau",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGEocpg4HZZZQ/company-logo_200_200/company-logo_200_200/0/1708685471697/university_of_passau_logo?e=1747872000&v=beta&t=dmayJ24UwPAd29afe96_ROgyLDHvAbgCQOVbaySPTdo",
+                "universalName": "university-of-passau",
+                "dashCompanyUrn": "urn:li:fsd_company:39836",
+                "trackingId": "QADqmQvGS5eKpLOUHRFv1g=="
+            },
+            "companyName": "University of Passau"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "1st State Examination",
+            "fieldOfStudy": "Law",
+            "schoolName": "University of Passau",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Certificate of Studies in European, Comparative and International Law (CECIL)",
+            "schoolName": "University of Passau",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            }
+        },
+        {
+            "degreeName": "Honours Degree",
+            "fieldOfStudy": "Digital Technology and Entrepreneurship",
+            "schoolName": "University of Passau",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Legal Research",
+        "Interpersonal Skills",
+        "Writing",
+        "Microsoft Office"
+    ],
+    "lastEnriched": "2025-02-17"
+}

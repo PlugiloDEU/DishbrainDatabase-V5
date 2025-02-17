@@ -1,0 +1,507 @@
+{
+    "id": "exp102300074",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Stefanie",
+        "lastName": "Jegelka",
+        "fullName": "Stefanie Jegelka",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Hindi"
+        ],
+        "allData": {
+            "id": "102300074",
+            "profileId": "ACoAAAYY-aoBsKRRE63aGOy0MJjKNQkBumkjh3k",
+            "firstName": "Stefanie",
+            "lastName": "Jegelka",
+            "occupation": "Associate Professor at Massachusetts Institute of Technology (MIT)",
+            "publicIdentifier": "stefanie-jegelka-5223152a",
+            "trackingId": "3k9h/nKqTE2tB13ooun1Ag==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104597301",
+            "positions": [
+                {
+                    "title": "Associate Professor",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1503",
+                        "entityUrn": "urn:li:fs_miniCompany:1503",
+                        "name": "Massachusetts Institute of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                        "universalName": "mit",
+                        "dashCompanyUrn": "urn:li:fsd_company:1503",
+                        "trackingId": "fYNnuMe+RZWqQQXGC34FTg=="
+                    },
+                    "companyName": "Massachusetts Institute of Technology"
+                },
+                {
+                    "title": "Assistant Professor",
+                    "locationName": "Cambridge, USA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1503",
+                        "entityUrn": "urn:li:fs_miniCompany:1503",
+                        "name": "Massachusetts Institute of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                        "universalName": "mit",
+                        "dashCompanyUrn": "urn:li:fsd_company:1503",
+                        "trackingId": "8auCXlzuSFCOLR2b96u0ig=="
+                    },
+                    "companyName": "Massachusetts Institute of Technology (MIT)"
+                },
+                {
+                    "title": "Postdoctoral Researcher",
+                    "locationName": "Berkeley",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:2517",
+                        "entityUrn": "urn:li:fs_miniCompany:2517",
+                        "name": "University of California, Berkeley",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_200_200/company-logo_200_200/0/1732135669730/uc_berkeley_logo?e=1747872000&v=beta&t=QMqM0dmmcEFnYvocrjMn3zNY6JcNhoRpabDnRWigTbM",
+                        "universalName": "uc-berkeley",
+                        "dashCompanyUrn": "urn:li:fsd_company:2517",
+                        "trackingId": "Kt8hElGEQpWVNzjXCJkNZw=="
+                    },
+                    "companyName": "UC Berkeley"
+                },
+                {
+                    "title": "PhD student",
+                    "locationName": "Zurich, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4923",
+                        "entityUrn": "urn:li:fs_miniCompany:4923",
+                        "name": "ETH Zürich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHpkHDwYhEoiQ/company-logo_200_200/company-logo_200_200/0/1630570736781/eth_zurich_logo?e=1747872000&v=beta&t=IbUCMUQaennww0pi6uSyHX5chd_hyGa4LnNfBpuMN80",
+                        "universalName": "eth-zurich",
+                        "dashCompanyUrn": "urn:li:fsd_company:4923",
+                        "trackingId": "5cZiVP66RuWx1GPLquCIgA=="
+                    },
+                    "companyName": "ETH Zurich"
+                },
+                {
+                    "title": "PhD student",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:583343",
+                        "entityUrn": "urn:li:fs_miniCompany:583343",
+                        "name": "Max Planck Institutes Tübingen",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEaakb88HtprQ/company-logo_200_200/company-logo_200_200/0/1638539630793/max_planck_institute_for_biological_cybernetics_logo?e=1747872000&v=beta&t=WMitrV28W_2RwohS_KaC9jI-vyMmvm0c2-o75gTqPTE",
+                        "universalName": "max-planck-institute-for-biological-cybernetics",
+                        "dashCompanyUrn": "urn:li:fsd_company:583343",
+                        "trackingId": "IZj44BoTSqOKULwDhWBbcg=="
+                    },
+                    "companyName": "Max Planck Institute for Biological Cybernetics"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr.sc.",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "ETH Zurich, Max Planck Institute for Biological Cybernetics, MPI for Intelligent Systems",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Bioinformatics",
+                    "schoolName": "Eberhard-Karls-Universität Tübingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "The University of Texas at Austin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Hindi",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Machine Learning",
+                "Computer Vision",
+                "Algorithms",
+                "Neuroscience"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Associate Professor at Massachusetts Institute of Technology (MIT)",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Cambridge, Massachusetts",
+            "geoCountryName": "United States",
+            "jobTitle": "Associate Professor",
+            "companyName": "Massachusetts Institute of Technology",
+            "companyPublicId": "mit",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/mit",
+            "following": false,
+            "followable": true,
+            "followersCount": 1751,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Massachusetts Institute of Technology",
+        "position": "Associate Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Associate Professor",
+        "organization": "Massachusetts Institute of Technology",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/stefanie-jegelka-5223152a/",
+        "company": "https://www.linkedin.com/company/mit"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Associate Professor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1503",
+                "entityUrn": "urn:li:fs_miniCompany:1503",
+                "name": "Massachusetts Institute of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                "universalName": "mit",
+                "dashCompanyUrn": "urn:li:fsd_company:1503",
+                "trackingId": "fYNnuMe+RZWqQQXGC34FTg=="
+            },
+            "companyName": "Massachusetts Institute of Technology"
+        },
+        {
+            "title": "Assistant Professor",
+            "locationName": "Cambridge, USA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1503",
+                "entityUrn": "urn:li:fs_miniCompany:1503",
+                "name": "Massachusetts Institute of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                "universalName": "mit",
+                "dashCompanyUrn": "urn:li:fsd_company:1503",
+                "trackingId": "8auCXlzuSFCOLR2b96u0ig=="
+            },
+            "companyName": "Massachusetts Institute of Technology (MIT)"
+        },
+        {
+            "title": "Postdoctoral Researcher",
+            "locationName": "Berkeley",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:2517",
+                "entityUrn": "urn:li:fs_miniCompany:2517",
+                "name": "University of California, Berkeley",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGwjF_5CYj_JQ/company-logo_200_200/company-logo_200_200/0/1732135669730/uc_berkeley_logo?e=1747872000&v=beta&t=QMqM0dmmcEFnYvocrjMn3zNY6JcNhoRpabDnRWigTbM",
+                "universalName": "uc-berkeley",
+                "dashCompanyUrn": "urn:li:fsd_company:2517",
+                "trackingId": "Kt8hElGEQpWVNzjXCJkNZw=="
+            },
+            "companyName": "UC Berkeley"
+        },
+        {
+            "title": "PhD student",
+            "locationName": "Zurich, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4923",
+                "entityUrn": "urn:li:fs_miniCompany:4923",
+                "name": "ETH Zürich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHpkHDwYhEoiQ/company-logo_200_200/company-logo_200_200/0/1630570736781/eth_zurich_logo?e=1747872000&v=beta&t=IbUCMUQaennww0pi6uSyHX5chd_hyGa4LnNfBpuMN80",
+                "universalName": "eth-zurich",
+                "dashCompanyUrn": "urn:li:fsd_company:4923",
+                "trackingId": "5cZiVP66RuWx1GPLquCIgA=="
+            },
+            "companyName": "ETH Zurich"
+        },
+        {
+            "title": "PhD student",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:583343",
+                "entityUrn": "urn:li:fs_miniCompany:583343",
+                "name": "Max Planck Institutes Tübingen",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEaakb88HtprQ/company-logo_200_200/company-logo_200_200/0/1638539630793/max_planck_institute_for_biological_cybernetics_logo?e=1747872000&v=beta&t=WMitrV28W_2RwohS_KaC9jI-vyMmvm0c2-o75gTqPTE",
+                "universalName": "max-planck-institute-for-biological-cybernetics",
+                "dashCompanyUrn": "urn:li:fsd_company:583343",
+                "trackingId": "IZj44BoTSqOKULwDhWBbcg=="
+            },
+            "companyName": "Max Planck Institute for Biological Cybernetics"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr.sc.",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "ETH Zurich, Max Planck Institute for Biological Cybernetics, MPI for Intelligent Systems",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Bioinformatics",
+            "schoolName": "Eberhard-Karls-Universität Tübingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "The University of Texas at Austin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Machine Learning",
+        "Computer Vision",
+        "Algorithms",
+        "Neuroscience"
+    ],
+    "lastEnriched": "2025-02-17"
+}

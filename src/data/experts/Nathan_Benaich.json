@@ -1,0 +1,478 @@
+{
+    "id": "exp247840239",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Nathan",
+        "lastName": "Benaich",
+        "fullName": "Nathan Benaich",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQGL0G-814eSrw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1604259419910?e=1745452800&v=beta&t=fTfgXU3NYYlgI7_vNQpzHPBwNAWsBRQdl8tfZ8TVWGM",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French"
+        ],
+        "allData": {
+            "id": "247840239",
+            "profileId": "ACoAAA7Fve8B363Azz8dcfBsk0Nf8VDYmxsm_Y0",
+            "firstName": "Nathan",
+            "lastName": "Benaich",
+            "occupation": "airstreet.com",
+            "publicIdentifier": "nathanbenaich",
+            "trackingId": "Qil+/JXmTfqdXkx0lu1vDw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQGL0G-814eSrw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1604259419910?e=1745452800&v=beta&t=fTfgXU3NYYlgI7_vNQpzHPBwNAWsBRQdl8tfZ8TVWGM",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQE1xzPZYakwHw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1577275232919?e=1745452800&v=beta&t=G01vUVzLHXldCI5toGL6SKE6_kK6aQJ2gWyxHjAvX5Q",
+            "countryCode": "gb",
+            "geoUrn": "urn:li:fs_geo:100495523",
+            "positions": [
+                {
+                    "title": "General Partner",
+                    "description": "Adept AI (acq. Amazon), Allcyte (acq. Exscientia), Anagenex, Athenian, CellVoyant, ClipDrop (acq. Stability.ai/Jasper), Enveda Biosciences, Exscientia (NASDAQ: EXAI, merged w/Recursion), Fern Labs, Gandeeva Therapeutics, Gourmey, Graphcore (acq. SoftBank), Hedera Dx, Intenseye, Interloom, LabGenius, Delian AI (fka. Lambda Automata), Mission Barns, Modern Intelligence, Odyssey, Patina Systems, Poolside, Profluent, Recursion Pharmaceuticals (NASDAQ: RXRX), Samaya.ai, Sereact, Synthesia, V7, Valence Discovery (acq. Recursion), ZOE, and several unannounced.",
+                    "locationName": "the internet",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:35684715",
+                        "entityUrn": "urn:li:fs_miniCompany:35684715",
+                        "name": "Air Street Capital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGGl_EhyHTTPA/company-logo_200_200/company-logo_200_200/0/1630575916044?e=1747872000&v=beta&t=WlibtIFlf-OIQ0X08_VOZC9KlLy8W3sI6frS1p8-C-M",
+                        "universalName": "air-street-capital",
+                        "dashCompanyUrn": "urn:li:fsd_company:35684715",
+                        "trackingId": "DoKKPuElQ2qykxhyModerw=="
+                    },
+                    "companyName": "Air Street Capital"
+                },
+                {
+                    "title": "Author",
+                    "description": "Ideas worth propagating.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:101628114",
+                        "entityUrn": "urn:li:fs_miniCompany:101628114",
+                        "name": "Air Street Press",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGhUxbaA-z1Dg/company-logo_200_200/company-logo_200_200/0/1733585913832/air_street_press_logo?e=1747872000&v=beta&t=W079dENa0Lo6wdjjXS-HzM24YSd9cPtHXrlKBT82wR4",
+                        "universalName": "air-street-press",
+                        "dashCompanyUrn": "urn:li:fsd_company:101628114",
+                        "trackingId": "xV6mkpT0QEKB1ly/iryBDQ=="
+                    },
+                    "companyName": "Air Street Press"
+                },
+                {
+                    "title": "Author",
+                    "description": "The definitive annual report on AI progress.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Market Research"
+                        ],
+                        "objectUrn": "urn:li:company:85074370",
+                        "entityUrn": "urn:li:fs_miniCompany:85074370",
+                        "name": "State of AI Report",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGuHeNvI5gi2w/company-logo_200_200/company-logo_200_200/0/1733585624161/stateofai_logo?e=1747872000&v=beta&t=_QkK5rRa4X1PzcxaKwWj0nfANyoA6XNgfR0yv3FKmNg",
+                        "universalName": "stateofai",
+                        "dashCompanyUrn": "urn:li:fsd_company:85074370",
+                        "trackingId": "8Fu7IdwxSmmi7bXA+eZeIA=="
+                    },
+                    "companyName": "State of AI Report"
+                },
+                {
+                    "title": "Founder",
+                    "description": "Rewriting the university spinout playbook. ",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:81955200",
+                        "entityUrn": "urn:li:fs_miniCompany:81955200",
+                        "name": "Spinout.fyi",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEA5lRBrDLeHg/company-logo_200_200/company-logo_200_200/0/1655495739955?e=1747872000&v=beta&t=sZW4W7Wgu9eAX0JBF69qu0jZHcE8G3wgelkuL7joGWM",
+                        "universalName": "spinoutfyi",
+                        "dashCompanyUrn": "urn:li:fsd_company:81955200",
+                        "trackingId": "0gpi7dfoQGGKmHJ5OLPkKQ=="
+                    },
+                    "companyName": "Spinout.fyi"
+                },
+                {
+                    "title": "Scientist in Residence",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:2855186",
+                        "entityUrn": "urn:li:fs_miniCompany:2855186",
+                        "name": "Point Nine ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHDu7Q1MSO5Ow/company-logo_200_200/company-logo_200_200/0/1683833246808/point_nine_capital_logo?e=1747872000&v=beta&t=Fx4ArpteHWHEo5do6T0uwmw7squRKHC3bCIPN4f6QTw",
+                        "universalName": "point-nine-capital",
+                        "dashCompanyUrn": "urn:li:fsd_company:2855186",
+                        "trackingId": "2+FzDLY4Saaf/kpwhcEDxw=="
+                    },
+                    "companyName": "Point Nine"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD and MPhil",
+                    "fieldOfStudy": "Computers and Biology",
+                    "schoolName": "University of Cambridge",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Biology",
+                    "schoolName": "University of Oxford",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BA (Highest Honors)",
+                    "fieldOfStudy": "Biology",
+                    "schoolName": "Williams College",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "French"
+                }
+            ],
+            "skills": [
+                "Entrepreneurship",
+                "Research",
+                "Lifesciences",
+                "Molecular Biology"
+            ],
+            "volunteerExperiences": [],
+            "headline": "airstreet.com ",
+            "summary": "Investor in AI-first companies, author of the State of AI Report, founder of Spinout.fyi, editor of Air Street Press",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "London, England",
+            "geoCountryName": "United Kingdom",
+            "jobTitle": "General Partner",
+            "companyName": "Air Street Capital",
+            "companyPublicId": "air-street-capital",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/air-street-capital",
+            "following": false,
+            "followable": true,
+            "followersCount": 39105,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Air Street Capital",
+        "position": "General Partner",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Venture Capital & Private Equity"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "General Partner",
+        "organization": "Air Street Capital",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/nathanbenaich/",
+        "company": "https://www.linkedin.com/company/air-street-capital"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "General Partner",
+            "description": "Adept AI (acq. Amazon), Allcyte (acq. Exscientia), Anagenex, Athenian, CellVoyant, ClipDrop (acq. Stability.ai/Jasper), Enveda Biosciences, Exscientia (NASDAQ: EXAI, merged w/Recursion), Fern Labs, Gandeeva Therapeutics, Gourmey, Graphcore (acq. SoftBank), Hedera Dx, Intenseye, Interloom, LabGenius, Delian AI (fka. Lambda Automata), Mission Barns, Modern Intelligence, Odyssey, Patina Systems, Poolside, Profluent, Recursion Pharmaceuticals (NASDAQ: RXRX), Samaya.ai, Sereact, Synthesia, V7, Valence Discovery (acq. Recursion), ZOE, and several unannounced.",
+            "locationName": "the internet",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:35684715",
+                "entityUrn": "urn:li:fs_miniCompany:35684715",
+                "name": "Air Street Capital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGGl_EhyHTTPA/company-logo_200_200/company-logo_200_200/0/1630575916044?e=1747872000&v=beta&t=WlibtIFlf-OIQ0X08_VOZC9KlLy8W3sI6frS1p8-C-M",
+                "universalName": "air-street-capital",
+                "dashCompanyUrn": "urn:li:fsd_company:35684715",
+                "trackingId": "DoKKPuElQ2qykxhyModerw=="
+            },
+            "companyName": "Air Street Capital"
+        },
+        {
+            "title": "Author",
+            "description": "Ideas worth propagating.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:101628114",
+                "entityUrn": "urn:li:fs_miniCompany:101628114",
+                "name": "Air Street Press",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGhUxbaA-z1Dg/company-logo_200_200/company-logo_200_200/0/1733585913832/air_street_press_logo?e=1747872000&v=beta&t=W079dENa0Lo6wdjjXS-HzM24YSd9cPtHXrlKBT82wR4",
+                "universalName": "air-street-press",
+                "dashCompanyUrn": "urn:li:fsd_company:101628114",
+                "trackingId": "xV6mkpT0QEKB1ly/iryBDQ=="
+            },
+            "companyName": "Air Street Press"
+        },
+        {
+            "title": "Author",
+            "description": "The definitive annual report on AI progress.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Market Research"
+                ],
+                "objectUrn": "urn:li:company:85074370",
+                "entityUrn": "urn:li:fs_miniCompany:85074370",
+                "name": "State of AI Report",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGuHeNvI5gi2w/company-logo_200_200/company-logo_200_200/0/1733585624161/stateofai_logo?e=1747872000&v=beta&t=_QkK5rRa4X1PzcxaKwWj0nfANyoA6XNgfR0yv3FKmNg",
+                "universalName": "stateofai",
+                "dashCompanyUrn": "urn:li:fsd_company:85074370",
+                "trackingId": "8Fu7IdwxSmmi7bXA+eZeIA=="
+            },
+            "companyName": "State of AI Report"
+        },
+        {
+            "title": "Founder",
+            "description": "Rewriting the university spinout playbook. ",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:81955200",
+                "entityUrn": "urn:li:fs_miniCompany:81955200",
+                "name": "Spinout.fyi",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEA5lRBrDLeHg/company-logo_200_200/company-logo_200_200/0/1655495739955?e=1747872000&v=beta&t=sZW4W7Wgu9eAX0JBF69qu0jZHcE8G3wgelkuL7joGWM",
+                "universalName": "spinoutfyi",
+                "dashCompanyUrn": "urn:li:fsd_company:81955200",
+                "trackingId": "0gpi7dfoQGGKmHJ5OLPkKQ=="
+            },
+            "companyName": "Spinout.fyi"
+        },
+        {
+            "title": "Scientist in Residence",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:2855186",
+                "entityUrn": "urn:li:fs_miniCompany:2855186",
+                "name": "Point Nine ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHDu7Q1MSO5Ow/company-logo_200_200/company-logo_200_200/0/1683833246808/point_nine_capital_logo?e=1747872000&v=beta&t=Fx4ArpteHWHEo5do6T0uwmw7squRKHC3bCIPN4f6QTw",
+                "universalName": "point-nine-capital",
+                "dashCompanyUrn": "urn:li:fsd_company:2855186",
+                "trackingId": "2+FzDLY4Saaf/kpwhcEDxw=="
+            },
+            "companyName": "Point Nine"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD and MPhil",
+            "fieldOfStudy": "Computers and Biology",
+            "schoolName": "University of Cambridge",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Biology",
+            "schoolName": "University of Oxford",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "BA (Highest Honors)",
+            "fieldOfStudy": "Biology",
+            "schoolName": "Williams College",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Entrepreneurship",
+        "Research",
+        "Lifesciences",
+        "Molecular Biology"
+    ],
+    "lastEnriched": "2025-02-17"
+}

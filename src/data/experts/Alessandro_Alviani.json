@@ -1,0 +1,526 @@
+{
+    "id": "exp111995263",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alessandro",
+        "lastName": "Alviani",
+        "fullName": "Alessandro Alviani",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFWmLF0ogG56A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697994063435?e=1745452800&v=beta&t=whN0nfiO7ndoMBQanEmIAi2FAu_xOg2OwqlZdjUj0mc",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Italienisch"
+        ],
+        "allData": {
+            "id": "111995263",
+            "profileId": "ACoAAAas6X8B1Ew33wGuhT0SJM2EXL0lielF8IE",
+            "firstName": "Alessandro",
+            "lastName": "Alviani",
+            "occupation": "Lead Generative AI at Süddeutsche Zeitung Digitale Medien",
+            "publicIdentifier": "alessandro-alviani",
+            "trackingId": "xPzyWfl2RWGptPzV9J2q7A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFWmLF0ogG56A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697994063435?e=1745452800&v=beta&t=whN0nfiO7ndoMBQanEmIAi2FAu_xOg2OwqlZdjUj0mc",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Lead Generative AI",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:41306912",
+                        "entityUrn": "urn:li:fs_miniCompany:41306912",
+                        "name": "Süddeutsche Zeitung Digitale Medien GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFWmLF0ogG56A/company-logo_200_200/company-logo_200_200/0/1630529234899/sddeutsche_zeitung_digitale_medien_gmbh_logo?e=1747872000&v=beta&t=aGe7HwCXFwekmoEXkWCpCiYZbymuHt8-BJGei1-sD3s",
+                        "universalName": "szdm",
+                        "dashCompanyUrn": "urn:li:fsd_company:41306912",
+                        "trackingId": "7k74+9mgQLiL2VFZXIUyAw=="
+                    },
+                    "companyName": "Süddeutsche Zeitung Digitale Medien GmbH"
+                },
+                {
+                    "title": "Product Lead AI",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Online Media"
+                        ],
+                        "objectUrn": "urn:li:company:6739925",
+                        "entityUrn": "urn:li:fs_miniCompany:6739925",
+                        "name": "Ippen Digital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEvbukyiVylGw/company-logo_200_200/company-logo_200_200/0/1630608380095/ippen_digital_gmbh__co_kg_logo?e=1747872000&v=beta&t=2kf-dVw0lol-fqZnCnzDFk8PJe-u15iSdnN-_ktULOA",
+                        "universalName": "ippendigital",
+                        "dashCompanyUrn": "urn:li:fsd_company:6739925",
+                        "trackingId": "VKklxW0SRXGB3m/cxmS7hA=="
+                    },
+                    "companyName": "Ippen Digital GmbH & Co. KG"
+                },
+                {
+                    "title": "Product Owner NLP",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Online Media"
+                        ],
+                        "objectUrn": "urn:li:company:6739925",
+                        "entityUrn": "urn:li:fs_miniCompany:6739925",
+                        "name": "Ippen Digital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEvbukyiVylGw/company-logo_200_200/company-logo_200_200/0/1630608380095/ippen_digital_gmbh__co_kg_logo?e=1747872000&v=beta&t=2kf-dVw0lol-fqZnCnzDFk8PJe-u15iSdnN-_ktULOA",
+                        "universalName": "ippendigital",
+                        "dashCompanyUrn": "urn:li:fsd_company:6739925",
+                        "trackingId": "BQCL8Qf3R3COdzD/SiPZUg=="
+                    },
+                    "companyName": "Ippen Digital GmbH & Co. KG"
+                },
+                {
+                    "title": "Chef vom Dienst",
+                    "description": "Managing Editor and PoC for Automated Content Creation",
+                    "locationName": "Hamburg, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Online Media"
+                        ],
+                        "objectUrn": "urn:li:company:6739925",
+                        "entityUrn": "urn:li:fs_miniCompany:6739925",
+                        "name": "Ippen Digital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEvbukyiVylGw/company-logo_200_200/company-logo_200_200/0/1630608380095/ippen_digital_gmbh__co_kg_logo?e=1747872000&v=beta&t=2kf-dVw0lol-fqZnCnzDFk8PJe-u15iSdnN-_ktULOA",
+                        "universalName": "ippendigital",
+                        "dashCompanyUrn": "urn:li:fsd_company:6739925",
+                        "trackingId": "w9XjWil6SuOuDsi6UmN9ew=="
+                    },
+                    "companyName": "Ippen Digital GmbH & Co. KG"
+                },
+                {
+                    "title": "Editorial Director Microsoft News Hub Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:9211766",
+                        "entityUrn": "urn:li:fs_miniCompany:9211766",
+                        "name": "C3 Creative Code and Content",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHzN2Y-q_0YKQ/company-logo_200_200/company-logo_200_200/0/1630571212452/c3_creative_code_and_content_logo?e=1747872000&v=beta&t=OpxIuv7uY4eIy2A45UHAXznQ9HdgluBLtoeqOVIx03A",
+                        "universalName": "c3-creative-code-and-content",
+                        "dashCompanyUrn": "urn:li:fsd_company:9211766",
+                        "trackingId": "N+0v9jerQYOkKYORkTtnlA=="
+                    },
+                    "companyName": "C3 Creative Code and Content"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "Zeitenspiegel-Reportageschule",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Medienwissenschaften",
+                    "schoolName": "Università degli Studi di Perugia",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Erasmus",
+                    "fieldOfStudy": "Kommunikation und Mediastudien",
+                    "schoolName": "Erasmushogeschool Brussel",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Enterprise Design Thinking Practitioner",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "IBM"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Italienisch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Journalismus",
+                "Neue Medien",
+                "Crossmedia",
+                "Online-Journalismus"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Lead Generative AI at Süddeutsche Zeitung Digitale Medien",
+            "summary": "Journalist with a passion for machine learning and journalism innovation. Currently working as Lead Generative AI at Süddeutsche Zeitung Digitale Medien. I've been in the media industry for almost twenty years now. During this time, I have worked in Berlin as the Product Lead for AI at Ippen Digital, as the Editorial Director of the Microsoft News Hub, as the Germany correspondent for La Stampa, and as a contributing writer for Der Spiegel iPad, taz, Greenpeace Magazine, and the Frankfurter Allgemeine Sonntagszeitung. My guiding principle is: \"Be first, but first be right.\"​​​​​​​​​​​​​​​​",
+            "student": false,
+            "industryName": "Media Production",
+            "industryUrn": "urn:li:fs_industry:126",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Lead Generative AI",
+            "companyName": "Süddeutsche Zeitung Digitale Medien GmbH",
+            "companyPublicId": "szdm",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/szdm",
+            "following": false,
+            "followable": true,
+            "followersCount": 1874,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Süddeutsche Zeitung Digitale Medien GmbH",
+        "position": "Lead Generative AI",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence",
+            "Generative AI",
+            "Digital Media",
+            "Journalism"
+        ],
+        "secondary": [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Content Strategy"
+        ],
+        "industries": [
+            "Media Production",
+            "Digital Media",
+            "Journalism"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Lead Generative AI",
+        "organization": "Süddeutsche Zeitung Digitale Medien GmbH",
+        "focus": "AI in Media"
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alessandro-alviani/",
+        "company": "https://www.linkedin.com/company/szdm"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Lead Generative AI",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "name": "Süddeutsche Zeitung Digitale Medien GmbH",
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Media Production"
+                ]
+            }
+        },
+        {
+            "title": "Product Lead AI",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "name": "Ippen Digital GmbH & Co. KG",
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Online Media"
+                ]
+            }
+        },
+        {
+            "title": "Product Owner NLP",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Online Media"
+                ],
+                "objectUrn": "urn:li:company:6739925",
+                "entityUrn": "urn:li:fs_miniCompany:6739925",
+                "name": "Ippen Digital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEvbukyiVylGw/company-logo_200_200/company-logo_200_200/0/1630608380095/ippen_digital_gmbh__co_kg_logo?e=1747872000&v=beta&t=2kf-dVw0lol-fqZnCnzDFk8PJe-u15iSdnN-_ktULOA",
+                "universalName": "ippendigital",
+                "dashCompanyUrn": "urn:li:fsd_company:6739925",
+                "trackingId": "BQCL8Qf3R3COdzD/SiPZUg=="
+            },
+            "companyName": "Ippen Digital GmbH & Co. KG"
+        },
+        {
+            "title": "Chef vom Dienst",
+            "description": "Managing Editor and PoC for Automated Content Creation",
+            "locationName": "Hamburg, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Online Media"
+                ],
+                "objectUrn": "urn:li:company:6739925",
+                "entityUrn": "urn:li:fs_miniCompany:6739925",
+                "name": "Ippen Digital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEvbukyiVylGw/company-logo_200_200/company-logo_200_200/0/1630608380095/ippen_digital_gmbh__co_kg_logo?e=1747872000&v=beta&t=2kf-dVw0lol-fqZnCnzDFk8PJe-u15iSdnN-_ktULOA",
+                "universalName": "ippendigital",
+                "dashCompanyUrn": "urn:li:fsd_company:6739925",
+                "trackingId": "w9XjWil6SuOuDsi6UmN9ew=="
+            },
+            "companyName": "Ippen Digital GmbH & Co. KG"
+        },
+        {
+            "title": "Editorial Director Microsoft News Hub Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:9211766",
+                "entityUrn": "urn:li:fs_miniCompany:9211766",
+                "name": "C3 Creative Code and Content",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHzN2Y-q_0YKQ/company-logo_200_200/company-logo_200_200/0/1630571212452/c3_creative_code_and_content_logo?e=1747872000&v=beta&t=OpxIuv7uY4eIy2A45UHAXznQ9HdgluBLtoeqOVIx03A",
+                "universalName": "c3-creative-code-and-content",
+                "dashCompanyUrn": "urn:li:fsd_company:9211766",
+                "trackingId": "N+0v9jerQYOkKYORkTtnlA=="
+            },
+            "companyName": "C3 Creative Code and Content"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "Zeitenspiegel-Reportageschule",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Medienwissenschaften",
+            "schoolName": "Università degli Studi di Perugia",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "degreeName": "Erasmus",
+            "fieldOfStudy": "Kommunikation und Mediastudien",
+            "schoolName": "Erasmushogeschool Brussel",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Enterprise Design Thinking Practitioner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "authority": "IBM"
+        }
+    ],
+    "skills": [
+        "Journalismus",
+        "Neue Medien",
+        "Crossmedia",
+        "Online-Journalismus",
+        "Generative AI",
+        "Machine Learning",
+        "Content Strategy"
+    ],
+    "lastEnriched": "2025-02-17"
+}

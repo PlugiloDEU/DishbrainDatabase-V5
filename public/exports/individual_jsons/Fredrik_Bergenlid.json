@@ -1,0 +1,403 @@
+{
+    "id": "exp90106892",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Fredrik",
+        "lastName": "Bergenlid",
+        "fullName": "Fredrik Bergenlid",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQFqmwnU9nxUZQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1646250775776?e=1745452800&v=beta&t=rnq-SeOejaQJvTc3jni-nWNyNVdMe9xY0HHnswj0Ncw",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "90106892",
+            "profileId": "ACoAAAVe7AwBmZuzQ7hfyQVngBOb3P-QDvkYp-w",
+            "firstName": "Fredrik",
+            "lastName": "Bergenlid",
+            "occupation": "Partner @ Fly Ventures | Early-Stage Investing",
+            "publicIdentifier": "fredrikbergenlid",
+            "trackingId": "nN9PiC9uSeCHDInn2IrxzA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFqmwnU9nxUZQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1646250775776?e=1745452800&v=beta&t=rnq-SeOejaQJvTc3jni-nWNyNVdMe9xY0HHnswj0Ncw",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFRIIUE8UbY7Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1662548081071?e=1745452800&v=beta&t=WQdyoTjHiQXd5AwigUq1QPqtho9Miocr6WQzR1ebrVA",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:107814425",
+            "positions": [
+                {
+                    "title": "Partner",
+                    "description": "Fly is a first check VC for technical founders solving hard problems. We invest from day-zero to seed, backing founders from all over Europe.",
+                    "locationName": "Zürich Area, Switzerland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:10344800",
+                        "entityUrn": "urn:li:fs_miniCompany:10344800",
+                        "name": "Fly Ventures",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNhnoPrtZtEw/company-logo_200_200/company-logo_200_200/0/1662452946950/fly_ventures_logo?e=1747872000&v=beta&t=cYue3xeP9b-qBDH9VXKpeneBgDHRF-YmiXCe4TEHrso",
+                        "universalName": "fly-ventures",
+                        "dashCompanyUrn": "urn:li:fsd_company:10344800",
+                        "trackingId": "dN2N9Se9SMKYD2XFuiFA4Q=="
+                    },
+                    "companyName": "Fly Ventures"
+                },
+                {
+                    "title": "Tech Lead Manager, Staff Software Engineer",
+                    "description": "During my >6 years at Google I had the opportunity to work with truly amazing people and lead teams building products used by billions of users, Including:\n- Developing Google's core search ranking\n- Co-Founded and lead in Conversational Search\n- Co-Founded and lead major parts of Google Assistant.",
+                    "locationName": "Zurich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "82vSWqasQUuOecb5kQEhjQ=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Product Manager & CTO",
+                    "locationName": "Stockholm, Sweden",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2009
+                        }
+                    },
+                    "companyName": "Nodensa AB"
+                },
+                {
+                    "title": "Co-Founder",
+                    "description": "- Co-Founded the company to automate and improve outdated workflows and practices at Telia\n- Improved throughput of targeted teams 50 fold\n– Sold to Telia",
+                    "locationName": "Stockholm, Sweden",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2007
+                        }
+                    },
+                    "companyName": "MFB"
+                },
+                {
+                    "title": "Developer",
+                    "description": "Started and lead efforts to improve and automate Telia's ordering systems as well as streamline routines.",
+                    "locationName": "Stockholm, Sweden",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:1914",
+                        "entityUrn": "urn:li:fs_miniCompany:1914",
+                        "name": "Telia",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGECHBlcYpYVg/company-logo_200_200/company-logo_200_200/0/1720183815899/teliacompany_logo?e=1747872000&v=beta&t=RKSQ1DjWFOuhFyZ7Ek-r_x2DoIlQCYtvuCRN3fL2-G0",
+                        "universalName": "teliacompany",
+                        "dashCompanyUrn": "urn:li:fsd_company:1914",
+                        "trackingId": "tSmrm/CVShycpG2l6cZC9Q=="
+                    },
+                    "companyName": "Telia Company"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "KTH Royal Institute of Technology",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Computer Science and Economics",
+                    "schoolName": "QUT (Queensland University of Technology)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "C++",
+                "Java",
+                "Linux",
+                "Python"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Partner @ Fly Ventures | Early-Stage Investing",
+            "student": false,
+            "industryName": "Venture Capital & Private Equity",
+            "industryUrn": "urn:li:fs_industry:106",
+            "geoLocationName": "Zurich, Zurich",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Partner",
+            "companyName": "Fly Ventures",
+            "companyPublicId": "fly-ventures",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/fly-ventures",
+            "following": false,
+            "followable": true,
+            "followersCount": 2211,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Fly Ventures",
+        "position": "Partner",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Venture Capital & Private Equity"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Partner",
+        "organization": "Fly Ventures",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/fredrikbergenlid/",
+        "company": "https://www.linkedin.com/company/fly-ventures"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Partner",
+            "description": "Fly is a first check VC for technical founders solving hard problems. We invest from day-zero to seed, backing founders from all over Europe.",
+            "locationName": "Zürich Area, Switzerland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:10344800",
+                "entityUrn": "urn:li:fs_miniCompany:10344800",
+                "name": "Fly Ventures",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNhnoPrtZtEw/company-logo_200_200/company-logo_200_200/0/1662452946950/fly_ventures_logo?e=1747872000&v=beta&t=cYue3xeP9b-qBDH9VXKpeneBgDHRF-YmiXCe4TEHrso",
+                "universalName": "fly-ventures",
+                "dashCompanyUrn": "urn:li:fsd_company:10344800",
+                "trackingId": "dN2N9Se9SMKYD2XFuiFA4Q=="
+            },
+            "companyName": "Fly Ventures"
+        },
+        {
+            "title": "Tech Lead Manager, Staff Software Engineer",
+            "description": "During my >6 years at Google I had the opportunity to work with truly amazing people and lead teams building products used by billions of users, Including:\n- Developing Google's core search ranking\n- Co-Founded and lead in Conversational Search\n- Co-Founded and lead major parts of Google Assistant.",
+            "locationName": "Zurich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "82vSWqasQUuOecb5kQEhjQ=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Product Manager & CTO",
+            "locationName": "Stockholm, Sweden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2009
+                }
+            },
+            "companyName": "Nodensa AB"
+        },
+        {
+            "title": "Co-Founder",
+            "description": "- Co-Founded the company to automate and improve outdated workflows and practices at Telia\n- Improved throughput of targeted teams 50 fold\n– Sold to Telia",
+            "locationName": "Stockholm, Sweden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2007
+                }
+            },
+            "companyName": "MFB"
+        },
+        {
+            "title": "Developer",
+            "description": "Started and lead efforts to improve and automate Telia's ordering systems as well as streamline routines.",
+            "locationName": "Stockholm, Sweden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:1914",
+                "entityUrn": "urn:li:fs_miniCompany:1914",
+                "name": "Telia",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGECHBlcYpYVg/company-logo_200_200/company-logo_200_200/0/1720183815899/teliacompany_logo?e=1747872000&v=beta&t=RKSQ1DjWFOuhFyZ7Ek-r_x2DoIlQCYtvuCRN3fL2-G0",
+                "universalName": "teliacompany",
+                "dashCompanyUrn": "urn:li:fsd_company:1914",
+                "trackingId": "tSmrm/CVShycpG2l6cZC9Q=="
+            },
+            "companyName": "Telia Company"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "KTH Royal Institute of Technology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Computer Science and Economics",
+            "schoolName": "QUT (Queensland University of Technology)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "C++",
+        "Java",
+        "Linux",
+        "Python"
+    ],
+    "lastEnriched": "2025-02-17"
+}

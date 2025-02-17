@@ -1,0 +1,142 @@
+{
+    "id": "exp798592214",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura",
+        "lastName": "Wagner",
+        "fullName": "Laura Wagner",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQEW1TOVeOti4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1664859101591?e=1745452800&v=beta&t=DDwm8w-aOS_7hFysl_ZZdEajJiQODdT7j5xeQSMtpUM",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "798592214",
+            "profileId": "ACoAAC-ZjNYBBkQis2YmNmx_p8h3grPjiMiTW4s",
+            "firstName": "Laura",
+            "lastName": "Wagner",
+            "occupation": "Professor at University of California, San Francisco",
+            "publicIdentifier": "laura-wagner-3325441a3",
+            "trackingId": "BMd729WSTvSvtSbXJ2D06Q==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEW1TOVeOti4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1664859101591?e=1745452800&v=beta&t=DDwm8w-aOS_7hFysl_ZZdEajJiQODdT7j5xeQSMtpUM",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:101589513",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3028",
+                        "entityUrn": "urn:li:fs_miniCompany:3028",
+                        "name": "University of California, San Francisco",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQFEMOADfEpC2w/company-logo_200_200/company-logo_200_200/0/1721153007899/ucsf_logo?e=1747872000&v=beta&t=ywg-fDymUjjRy9hXrv_e0bNIapaNs0mjlwIbk2j9w4E",
+                        "universalName": "ucsf",
+                        "dashCompanyUrn": "urn:li:fsd_company:3028",
+                        "trackingId": "NFUDFVLHQ3GQ8ZkRVIBm1A=="
+                    },
+                    "companyName": "University of California, San Francisco"
+                }
+            ],
+            "educations": [],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Professor at University of California, San Francisco",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "San Francisco, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Professor",
+            "companyName": "University of California, San Francisco",
+            "companyPublicId": "ucsf",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ucsf",
+            "following": false,
+            "followable": true,
+            "followersCount": 52,
+            "connectionsCount": 48,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "University of California, San Francisco",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "University of California, San Francisco",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laura-wagner-3325441a3/",
+        "company": "https://www.linkedin.com/company/ucsf"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3028",
+                "entityUrn": "urn:li:fs_miniCompany:3028",
+                "name": "University of California, San Francisco",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFEMOADfEpC2w/company-logo_200_200/company-logo_200_200/0/1721153007899/ucsf_logo?e=1747872000&v=beta&t=ywg-fDymUjjRy9hXrv_e0bNIapaNs0mjlwIbk2j9w4E",
+                "universalName": "ucsf",
+                "dashCompanyUrn": "urn:li:fsd_company:3028",
+                "trackingId": "NFUDFVLHQ3GQ8ZkRVIBm1A=="
+            },
+            "companyName": "University of California, San Francisco"
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

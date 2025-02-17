@@ -1,0 +1,476 @@
+{
+    "id": "exp103819245",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Hans-Joachim",
+        "lastName": "Dr. Gergs",
+        "fullName": "Hans-Joachim Dr. Gergs",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQFdCLtMmn_quA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1602754738418?e=1745452800&v=beta&t=rdW4lC1VZMKpTPl2qVelu5-C4Z5jofduuIf8tJ5EVwc",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German"
+        ],
+        "allData": {
+            "id": "103819245",
+            "profileId": "ACoAAAYwJ-0BCYPkjfovWN8kiKduWfCQRLa1QP4",
+            "firstName": "Hans-Joachim",
+            "lastName": "Dr. Gergs",
+            "occupation": "Senior Consultant @ Audi AG | Change Consulting, Dr. phil Founder & Partner Gesellschaft für empirische Organisationsforschung GfeO GmbH (Spin-off University of Regensburg)",
+            "publicIdentifier": "hans-joachim-dr-gergs-6b99282a",
+            "trackingId": "ZwvelBakTryLto1bjNYkvg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFdCLtMmn_quA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1602754738418?e=1745452800&v=beta&t=rdW4lC1VZMKpTPl2qVelu5-C4Z5jofduuIf8tJ5EVwc",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQG3D36LrOaQpw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1687283353197?e=1745452800&v=beta&t=BU1NMfsHJyUidUmJ2lr3zc5G3dhKeNDeKNdzbtyz_9A",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105347383",
+            "positions": [
+                {
+                    "title": "Organizational Development - Senior Consultant",
+                    "locationName": "Ingolstadt",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2004
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:5626",
+                        "entityUrn": "urn:li:fs_miniCompany:5626",
+                        "name": "AUDI AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHrHaKN5CBcdA/company-logo_200_200/company-logo_200_200/0/1631313033092?e=1747872000&v=beta&t=wg4xSW9zloIs4fjcXqswx_Ez2puum82cvj8SkwGs8DU",
+                        "universalName": "audi-ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:5626",
+                        "trackingId": "TAjXmNDASfShiTWFuXGGMg=="
+                    },
+                    "companyName": "Audi AG"
+                },
+                {
+                    "title": "Senior Partner",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:11819445",
+                        "entityUrn": "urn:li:fs_miniCompany:11819445",
+                        "name": "GfeO mbH - Eine Ausgründung der Universität Regensburg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEIHT6KeJLjpw/company-logo_200_200/company-logo_200_200/0/1631356840929/gfeo_logo?e=1747872000&v=beta&t=EhahLfEsiFDhwoVdsOMhdtK-DydcQN-mInuvrxziRAI",
+                        "universalName": "gfeo",
+                        "dashCompanyUrn": "urn:li:fsd_company:11819445",
+                        "trackingId": "ZQdtlM2tQhq+6DmGLfi8QQ=="
+                    },
+                    "companyName": "GfeO mbH - Eine Ausgründung der Universität Regensburg"
+                },
+                {
+                    "title": "Lecturer at the Executive Education Center",
+                    "description": "I teach the following topics:\n- Change Management & Organization Development\n- Change Communication \n- Organization Theory \n- High-Performance Teams\n",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2003
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "eZjflUZeSMOZty+3JeeLkQ=="
+                    },
+                    "companyName": "Technische Universität München"
+                },
+                {
+                    "title": "Visiting Lecturer",
+                    "description": "I teach der following topics:\n- Organization Theory & Organizational Behavior \n- Change Management \n",
+                    "locationName": "Institute for Psychology",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:25361",
+                        "entityUrn": "urn:li:fs_miniCompany:25361",
+                        "name": "University of Regensburg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE9hGvjsDXeoA/company-logo_200_200/company-logo_200_200/0/1732269754980/university_of_regensburg_logo?e=1747872000&v=beta&t=XxJ1R5n7vkO7uyOvjrJIYqH2xv88GMTT22ey2ph_8OU",
+                        "universalName": "university-of-regensburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:25361",
+                        "trackingId": "u/1j2VV+TK23ljKnbBE/6A=="
+                    },
+                    "companyName": "University of Regensburg"
+                },
+                {
+                    "title": "Visting Lecturer",
+                    "locationName": "London, United Kingdom",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:228000",
+                        "entityUrn": "urn:li:fs_miniCompany:228000",
+                        "name": "SOAS University of London",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0ldSyn_IGKg/company-logo_200_200/company-logo_200_200/0/1630553002558/soas_university_of_london_logo?e=1747872000&v=beta&t=EQ2wjve_Y1MPv6K3edoxI5ucBwewjZggK1WjchdVWbg",
+                        "universalName": "soas-university-of-london",
+                        "dashCompanyUrn": "urn:li:fsd_company:228000",
+                        "trackingId": "Ci9MQeljRpiPNST/9DhS8w=="
+                    },
+                    "companyName": "SOAS University of London"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy (Ph.D.)",
+                    "fieldOfStudy": "Sociology",
+                    "schoolName": "Friedrich-Schiller-Universität Jena",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Arts (M.A.)",
+                    "fieldOfStudy": "Sociology, Psychology & Economics",
+                    "schoolName": "University of Erlangen-Nuremberg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1994
+                        },
+                        "startDate": {
+                            "year": 1988
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Dr. phil."
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Organizational Development",
+                "Future Work",
+                "Lecturer",
+                "Keynote Speaker"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Vice-Chairman",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2002
+                        }
+                    },
+                    "companyName": "Institut für praxisorientierte Forschung e.V. (IPRAS), Universität Erlangen-Nürnberg und Jena",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                }
+            ],
+            "headline": "Senior Consultant @ Audi AG | Change Consulting, Dr. phil\nFounder & Partner Gesellschaft für empirische Organisationsforschung GfeO GmbH (Spin-off University of Regensburg)",
+            "summary": "As a Senior Consultant at Audi AG, I have been supporting the company for over 19 years in navigating complex and dynamic changes in the automotive industry. With my Ph.D. in Sociology and my expertise in change management and organizational development, I enable the company to balance exploration and exploitation, and to foster a culture of learning and renewal.\n\nI am also a Senior Partner at GfeO mbH, a spin-off company from the University of Regensburg, where I provide change consulting services to various clients across different sectors and regions. I leverage my academic background and credentials in sociology, psychology, and economics to design and implement effective and sustainable solutions that address the challenges and opportunities of the digital transformation. Additionally, I am a lecturer at several prestigious universities and a member of the editorial board of a journal on applied organizational psychology. I am passionate about sharing my knowledge and insights on change communication, organization theory, and high-performance teams with the next generation of leaders and practitioners.",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Nuremberg, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Organizational Development - Senior Consultant",
+            "companyName": "Audi AG",
+            "companyPublicId": "audi-ag",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/audi-ag",
+            "following": false,
+            "followable": true,
+            "followersCount": 5119,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "Audi AG",
+        "position": "Organizational Development - Senior Consultant",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Automotive"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Organizational Development - Senior Consultant",
+        "organization": "Audi AG",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/hans-joachim-dr-gergs-6b99282a/",
+        "company": "https://www.linkedin.com/company/audi-ag"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Organizational Development - Senior Consultant",
+            "locationName": "Ingolstadt",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2004
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:5626",
+                "entityUrn": "urn:li:fs_miniCompany:5626",
+                "name": "AUDI AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHrHaKN5CBcdA/company-logo_200_200/company-logo_200_200/0/1631313033092?e=1747872000&v=beta&t=wg4xSW9zloIs4fjcXqswx_Ez2puum82cvj8SkwGs8DU",
+                "universalName": "audi-ag",
+                "dashCompanyUrn": "urn:li:fsd_company:5626",
+                "trackingId": "TAjXmNDASfShiTWFuXGGMg=="
+            },
+            "companyName": "Audi AG"
+        },
+        {
+            "title": "Senior Partner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:11819445",
+                "entityUrn": "urn:li:fs_miniCompany:11819445",
+                "name": "GfeO mbH - Eine Ausgründung der Universität Regensburg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEIHT6KeJLjpw/company-logo_200_200/company-logo_200_200/0/1631356840929/gfeo_logo?e=1747872000&v=beta&t=EhahLfEsiFDhwoVdsOMhdtK-DydcQN-mInuvrxziRAI",
+                "universalName": "gfeo",
+                "dashCompanyUrn": "urn:li:fsd_company:11819445",
+                "trackingId": "ZQdtlM2tQhq+6DmGLfi8QQ=="
+            },
+            "companyName": "GfeO mbH - Eine Ausgründung der Universität Regensburg"
+        },
+        {
+            "title": "Lecturer at the Executive Education Center",
+            "description": "I teach the following topics:\n- Change Management & Organization Development\n- Change Communication \n- Organization Theory \n- High-Performance Teams\n",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2003
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "eZjflUZeSMOZty+3JeeLkQ=="
+            },
+            "companyName": "Technische Universität München"
+        },
+        {
+            "title": "Visiting Lecturer",
+            "description": "I teach der following topics:\n- Organization Theory & Organizational Behavior \n- Change Management \n",
+            "locationName": "Institute for Psychology",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:25361",
+                "entityUrn": "urn:li:fs_miniCompany:25361",
+                "name": "University of Regensburg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE9hGvjsDXeoA/company-logo_200_200/company-logo_200_200/0/1732269754980/university_of_regensburg_logo?e=1747872000&v=beta&t=XxJ1R5n7vkO7uyOvjrJIYqH2xv88GMTT22ey2ph_8OU",
+                "universalName": "university-of-regensburg",
+                "dashCompanyUrn": "urn:li:fsd_company:25361",
+                "trackingId": "u/1j2VV+TK23ljKnbBE/6A=="
+            },
+            "companyName": "University of Regensburg"
+        },
+        {
+            "title": "Visting Lecturer",
+            "locationName": "London, United Kingdom",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:228000",
+                "entityUrn": "urn:li:fs_miniCompany:228000",
+                "name": "SOAS University of London",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0ldSyn_IGKg/company-logo_200_200/company-logo_200_200/0/1630553002558/soas_university_of_london_logo?e=1747872000&v=beta&t=EQ2wjve_Y1MPv6K3edoxI5ucBwewjZggK1WjchdVWbg",
+                "universalName": "soas-university-of-london",
+                "dashCompanyUrn": "urn:li:fsd_company:228000",
+                "trackingId": "Ci9MQeljRpiPNST/9DhS8w=="
+            },
+            "companyName": "SOAS University of London"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy (Ph.D.)",
+            "fieldOfStudy": "Sociology",
+            "schoolName": "Friedrich-Schiller-Universität Jena",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Arts (M.A.)",
+            "fieldOfStudy": "Sociology, Psychology & Economics",
+            "schoolName": "University of Erlangen-Nuremberg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1994
+                },
+                "startDate": {
+                    "year": 1988
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Dr. phil."
+        }
+    ],
+    "skills": [
+        "Organizational Development",
+        "Future Work",
+        "Lecturer",
+        "Keynote Speaker"
+    ],
+    "lastEnriched": "2025-02-17"
+}

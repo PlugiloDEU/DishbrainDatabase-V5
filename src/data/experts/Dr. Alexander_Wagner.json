@@ -1,0 +1,403 @@
+{
+    "id": "exp1214290204",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Alexander",
+        "lastName": "Wagner",
+        "fullName": "Dr. Alexander Wagner",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQFhmni2AiQaNA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699626807768?e=1745452800&v=beta&t=cSpaOYUlTL3dXvlrTzMdd8Idw2DbUgns8FxyWP-L5KE",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "1214290204",
+            "profileId": "ACoAAEhgmRwB3YEwtrSUQO3zsNox7_fVr6B2TKE",
+            "firstName": "Dr. Alexander",
+            "lastName": "Wagner",
+            "occupation": "Geschäftsführer bei Infraserv GmbH & Co. Höchst KG",
+            "publicIdentifier": "dr-alexander-wagner-2a47b629a",
+            "trackingId": "QGB9tAG3RVaqfUEJHXbb8A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFhmni2AiQaNA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1699626807768?e=1745452800&v=beta&t=cSpaOYUlTL3dXvlrTzMdd8Idw2DbUgns8FxyWP-L5KE",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFb14Hb-Bh_sg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1709562233134?e=1745452800&v=beta&t=hpxNRy7nDh8VOa10Y_gg8V56C62qd0MUSRm1eWLpUtI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106772406",
+            "positions": [
+                {
+                    "title": "Geschäftsführer",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Chemicals"
+                        ],
+                        "objectUrn": "urn:li:company:82831",
+                        "entityUrn": "urn:li:fs_miniCompany:82831",
+                        "name": "Infraserv GmbH & Co. Höchst KG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHLDlppytuPFw/company-logo_200_200/company-logo_200_200/0/1630572193392/infraserv_hochst_logo?e=1747872000&v=beta&t=YMkzI_9aVIgT2rPYX10X-uqErhsnXjduY3zNzvgyA-E",
+                        "universalName": "infraserv-hochst",
+                        "dashCompanyUrn": "urn:li:fsd_company:82831",
+                        "trackingId": "qoj7t4fXTJK9QBVeiLfV4g=="
+                    },
+                    "companyName": "Infraserv GmbH & Co. Höchst KG"
+                },
+                {
+                    "title": "Geschäftsführer",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:41129527",
+                        "entityUrn": "urn:li:fs_miniCompany:41129527",
+                        "name": "Infraserv Verwaltungs GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "infraserv-verwaltungs-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:41129527",
+                        "trackingId": "4gG/pEtOQuepRemfwC6kmA=="
+                    },
+                    "companyName": "Infraserv Verwaltungs GmbH"
+                },
+                {
+                    "title": "Sabbatical / Senior Advisor ",
+                    "description": "Beratung von Private-Equity-Gesellschaften bei Akquisitionen.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Freiberuflich"
+                },
+                {
+                    "title": "Geschäftsführer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Chemicals"
+                        ],
+                        "objectUrn": "urn:li:company:2410824",
+                        "entityUrn": "urn:li:fs_miniCompany:2410824",
+                        "name": "Currenta ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXqqiHXIqGtw/company-logo_200_200/company-logo_200_200/0/1719925070405?e=1747872000&v=beta&t=g6uoXhptnMAUSFi4iVL4Jl2jpjGoxD6cbMoHu5CNrOE",
+                        "universalName": "currenta-gmbh-&-co-ohg",
+                        "dashCompanyUrn": "urn:li:fsd_company:2410824",
+                        "trackingId": "AdEGPMlqTlOjrgduZFo+YQ=="
+                    },
+                    "companyName": "Currenta GmbH & Co. OHG"
+                },
+                {
+                    "title": "Head of Business Line BIA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Chemicals"
+                        ],
+                        "objectUrn": "urn:li:company:164682",
+                        "entityUrn": "urn:li:fs_miniCompany:164682",
+                        "name": "LANXESS",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxnkmx2d-enQ/company-logo_200_200/company-logo_200_200/0/1722502869038/lanxess_logo?e=1747872000&v=beta&t=Kxny4wWuF5521byc-ndWNSKTFujaUdyxcJfONiBZ45o",
+                        "universalName": "lanxess",
+                        "dashCompanyUrn": "urn:li:fsd_company:164682",
+                        "trackingId": "uc2XirJnSVac9i4yn4a+eg=="
+                    },
+                    "companyName": "LANXESS"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doktor Ingenieur",
+                    "fieldOfStudy": "Verfahrenstechnik",
+                    "schoolName": "Universität Hannover",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 1996
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom-Ingenieur",
+                    "fieldOfStudy": "Verfahrenstechnik",
+                    "schoolName": "RWTH Aachen University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 1995
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 1990
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Geschäftsführer bei Infraserv GmbH & Co. Höchst KG",
+            "student": false,
+            "industryName": "Chemicals",
+            "industryUrn": "urn:li:fs_industry:54",
+            "geoLocationName": "Frankfurt, Hesse",
+            "geoCountryName": "Germany",
+            "jobTitle": "Geschäftsführer",
+            "companyName": "Infraserv GmbH & Co. Höchst KG",
+            "companyPublicId": "infraserv-hochst",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/infraserv-hochst",
+            "following": false,
+            "followable": true,
+            "followersCount": 1223,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Infraserv GmbH & Co. Höchst KG",
+        "position": "Geschäftsführer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Chemicals"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Geschäftsführer",
+        "organization": "Infraserv GmbH & Co. Höchst KG",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-alexander-wagner-2a47b629a/",
+        "company": "https://www.linkedin.com/company/infraserv-hochst"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Geschäftsführer",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Chemicals"
+                ],
+                "objectUrn": "urn:li:company:82831",
+                "entityUrn": "urn:li:fs_miniCompany:82831",
+                "name": "Infraserv GmbH & Co. Höchst KG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHLDlppytuPFw/company-logo_200_200/company-logo_200_200/0/1630572193392/infraserv_hochst_logo?e=1747872000&v=beta&t=YMkzI_9aVIgT2rPYX10X-uqErhsnXjduY3zNzvgyA-E",
+                "universalName": "infraserv-hochst",
+                "dashCompanyUrn": "urn:li:fsd_company:82831",
+                "trackingId": "qoj7t4fXTJK9QBVeiLfV4g=="
+            },
+            "companyName": "Infraserv GmbH & Co. Höchst KG"
+        },
+        {
+            "title": "Geschäftsführer",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:41129527",
+                "entityUrn": "urn:li:fs_miniCompany:41129527",
+                "name": "Infraserv Verwaltungs GmbH",
+                "showcase": false,
+                "active": true,
+                "universalName": "infraserv-verwaltungs-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:41129527",
+                "trackingId": "4gG/pEtOQuepRemfwC6kmA=="
+            },
+            "companyName": "Infraserv Verwaltungs GmbH"
+        },
+        {
+            "title": "Sabbatical / Senior Advisor ",
+            "description": "Beratung von Private-Equity-Gesellschaften bei Akquisitionen.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "companyName": "Freiberuflich"
+        },
+        {
+            "title": "Geschäftsführer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Chemicals"
+                ],
+                "objectUrn": "urn:li:company:2410824",
+                "entityUrn": "urn:li:fs_miniCompany:2410824",
+                "name": "Currenta ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGXqqiHXIqGtw/company-logo_200_200/company-logo_200_200/0/1719925070405?e=1747872000&v=beta&t=g6uoXhptnMAUSFi4iVL4Jl2jpjGoxD6cbMoHu5CNrOE",
+                "universalName": "currenta-gmbh-&-co-ohg",
+                "dashCompanyUrn": "urn:li:fsd_company:2410824",
+                "trackingId": "AdEGPMlqTlOjrgduZFo+YQ=="
+            },
+            "companyName": "Currenta GmbH & Co. OHG"
+        },
+        {
+            "title": "Head of Business Line BIA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Chemicals"
+                ],
+                "objectUrn": "urn:li:company:164682",
+                "entityUrn": "urn:li:fs_miniCompany:164682",
+                "name": "LANXESS",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxnkmx2d-enQ/company-logo_200_200/company-logo_200_200/0/1722502869038/lanxess_logo?e=1747872000&v=beta&t=Kxny4wWuF5521byc-ndWNSKTFujaUdyxcJfONiBZ45o",
+                "universalName": "lanxess",
+                "dashCompanyUrn": "urn:li:fsd_company:164682",
+                "trackingId": "uc2XirJnSVac9i4yn4a+eg=="
+            },
+            "companyName": "LANXESS"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doktor Ingenieur",
+            "fieldOfStudy": "Verfahrenstechnik",
+            "schoolName": "Universität Hannover",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 1999
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 1996
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom-Ingenieur",
+            "fieldOfStudy": "Verfahrenstechnik",
+            "schoolName": "RWTH Aachen University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 1995
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 1990
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

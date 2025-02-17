@@ -1,0 +1,448 @@
+{
+    "id": "exp993727190",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Bernhard",
+        "lastName": "Schölkopf",
+        "fullName": "Bernhard Schölkopf",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQHSlM8XXl5Kzw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1652175968204?e=1745452800&v=beta&t=879uQbuAFlaoxv0_sBxAAHGHPzc2lm5HXRa4BWBKY_M",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "993727190",
+            "profileId": "ACoAADs7EtYBcnU-6UfhUP5VwHeSWbswzkspTH0",
+            "firstName": "Bernhard",
+            "lastName": "Schölkopf",
+            "occupation": "Machine Learning Scientist",
+            "publicIdentifier": "bernhard-schölkopf-732969238",
+            "trackingId": "iEOuzAunRIqNS33idfpBQg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQHSlM8XXl5Kzw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1652175968204?e=1745452800&v=beta&t=879uQbuAFlaoxv0_sBxAAHGHPzc2lm5HXRa4BWBKY_M",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:104242887",
+            "positions": [
+                {
+                    "title": "Director",
+                    "locationName": "Tübingen, Baden-Württemberg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:5209291",
+                        "entityUrn": "urn:li:fs_miniCompany:5209291",
+                        "name": "Max Planck Institute for Intelligent Systems",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFkxPC17EzFDA/company-logo_200_200/company-logo_200_200/0/1709631181086/max_planck_institute_for_intelligent_systems_logo?e=1747872000&v=beta&t=33pfUmp69trJz3FtLU-JE3tAm7FaRXW65ifKDOs1odI",
+                        "universalName": "max-planck-institute-for-intelligent-systems",
+                        "dashCompanyUrn": "urn:li:fsd_company:5209291",
+                        "trackingId": "PhmwNzcqSk2o4uTJzHWeCA=="
+                    },
+                    "companyName": "Max Planck Institute for Intelligent Systems"
+                },
+                {
+                    "title": "VP, Distinguished Scientist",
+                    "locationName": "Tübingen, Baden-Württemberg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:2382910",
+                        "entityUrn": "urn:li:fs_miniCompany:2382910",
+                        "name": "Amazon Web Services (AWS)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1747872000&v=beta&t=OBB7c4L63DkTcjCBbZ_dHE4TjY7XEHFebPTveb2aGqQ",
+                        "universalName": "amazon-web-services",
+                        "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                        "trackingId": "RYEH+xroTY2vjHHYGxDxNw=="
+                    },
+                    "companyName": "Amazon Web Services (AWS)"
+                },
+                {
+                    "title": "Chief Machine Learning Scientist Retail",
+                    "locationName": "Tübingen, Germany / Seattle, USA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1586",
+                        "entityUrn": "urn:li:fs_miniCompany:1586",
+                        "name": "Amazon",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_200_200/company-logo_200_200/0/1630640869849/amazon_logo?e=1747872000&v=beta&t=-hGOTgtv0gKqdglit3opvO3RqvJDyMMUYiWvOhNy9dg",
+                        "universalName": "amazon",
+                        "dashCompanyUrn": "urn:li:fsd_company:1586",
+                        "trackingId": "Ipc3dkJEQ86V4rXfZZY1jA=="
+                    },
+                    "companyName": "Amazon"
+                },
+                {
+                    "title": "Director",
+                    "locationName": "Tübingen, Baden-Württemberg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2001
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:5123634",
+                        "entityUrn": "urn:li:fs_miniCompany:5123634",
+                        "name": "Max Planck Institute for Biological Cybernetics",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE-QzQkJ5etBw/company-logo_200_200/company-logo_200_200/0/1630613350822/max_planck_institut_fr_biologische_kybernetik_logo?e=1747872000&v=beta&t=sECwKiuySbWGiPVUaKT18j1QEM6OOFU9Z5Xo8jml-to",
+                        "universalName": "max-planck-institut-für-biologische-kybernetik",
+                        "dashCompanyUrn": "urn:li:fsd_company:5123634",
+                        "trackingId": "OeZoFCI3QmmYe6pWTTv12g=="
+                    },
+                    "companyName": "Max Planck Institute for Biological Cybernetics"
+                },
+                {
+                    "title": "Researcher",
+                    "locationName": "New York, New York, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2000
+                        }
+                    },
+                    "companyName": "Biowulf Technologies"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr.",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Technische Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Physics",
+                    "schoolName": "University of Tübingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1994
+                        },
+                        "startDate": {
+                            "year": 1988
+                        }
+                    }
+                },
+                {
+                    "degreeName": "M.Sc.",
+                    "fieldOfStudy": "Mathematics",
+                    "schoolName": "University of London",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 1992
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 1991
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Machine Learning Scientist",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Tübingen, Baden-Württemberg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Director",
+            "companyName": "Max Planck Institute for Intelligent Systems",
+            "companyPublicId": "max-planck-institute-for-intelligent-systems",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/max-planck-institute-for-intelligent-systems",
+            "following": false,
+            "followable": true,
+            "followersCount": 1745,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Max Planck Institute for Intelligent Systems",
+        "position": "Director",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director",
+        "organization": "Max Planck Institute for Intelligent Systems",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/bernhard-schölkopf-732969238/",
+        "company": "https://www.linkedin.com/company/max-planck-institute-for-intelligent-systems"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director",
+            "locationName": "Tübingen, Baden-Württemberg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:5209291",
+                "entityUrn": "urn:li:fs_miniCompany:5209291",
+                "name": "Max Planck Institute for Intelligent Systems",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFkxPC17EzFDA/company-logo_200_200/company-logo_200_200/0/1709631181086/max_planck_institute_for_intelligent_systems_logo?e=1747872000&v=beta&t=33pfUmp69trJz3FtLU-JE3tAm7FaRXW65ifKDOs1odI",
+                "universalName": "max-planck-institute-for-intelligent-systems",
+                "dashCompanyUrn": "urn:li:fsd_company:5209291",
+                "trackingId": "PhmwNzcqSk2o4uTJzHWeCA=="
+            },
+            "companyName": "Max Planck Institute for Intelligent Systems"
+        },
+        {
+            "title": "VP, Distinguished Scientist",
+            "locationName": "Tübingen, Baden-Württemberg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:2382910",
+                "entityUrn": "urn:li:fs_miniCompany:2382910",
+                "name": "Amazon Web Services (AWS)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE0fp2sCqnVLg/company-logo_200_200/company-logo_200_200/0/1738855736997/amazon_web_services_logo?e=1747872000&v=beta&t=OBB7c4L63DkTcjCBbZ_dHE4TjY7XEHFebPTveb2aGqQ",
+                "universalName": "amazon-web-services",
+                "dashCompanyUrn": "urn:li:fsd_company:2382910",
+                "trackingId": "RYEH+xroTY2vjHHYGxDxNw=="
+            },
+            "companyName": "Amazon Web Services (AWS)"
+        },
+        {
+            "title": "Chief Machine Learning Scientist Retail",
+            "locationName": "Tübingen, Germany / Seattle, USA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1586",
+                "entityUrn": "urn:li:fs_miniCompany:1586",
+                "name": "Amazon",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHTvZwCx4p2Qg/company-logo_200_200/company-logo_200_200/0/1630640869849/amazon_logo?e=1747872000&v=beta&t=-hGOTgtv0gKqdglit3opvO3RqvJDyMMUYiWvOhNy9dg",
+                "universalName": "amazon",
+                "dashCompanyUrn": "urn:li:fsd_company:1586",
+                "trackingId": "Ipc3dkJEQ86V4rXfZZY1jA=="
+            },
+            "companyName": "Amazon"
+        },
+        {
+            "title": "Director",
+            "locationName": "Tübingen, Baden-Württemberg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2001
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:5123634",
+                "entityUrn": "urn:li:fs_miniCompany:5123634",
+                "name": "Max Planck Institute for Biological Cybernetics",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE-QzQkJ5etBw/company-logo_200_200/company-logo_200_200/0/1630613350822/max_planck_institut_fr_biologische_kybernetik_logo?e=1747872000&v=beta&t=sECwKiuySbWGiPVUaKT18j1QEM6OOFU9Z5Xo8jml-to",
+                "universalName": "max-planck-institut-für-biologische-kybernetik",
+                "dashCompanyUrn": "urn:li:fsd_company:5123634",
+                "trackingId": "OeZoFCI3QmmYe6pWTTv12g=="
+            },
+            "companyName": "Max Planck Institute for Biological Cybernetics"
+        },
+        {
+            "title": "Researcher",
+            "locationName": "New York, New York, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2001
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2000
+                }
+            },
+            "companyName": "Biowulf Technologies"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr.",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Technische Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Physics",
+            "schoolName": "University of Tübingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1994
+                },
+                "startDate": {
+                    "year": 1988
+                }
+            }
+        },
+        {
+            "degreeName": "M.Sc.",
+            "fieldOfStudy": "Mathematics",
+            "schoolName": "University of London",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 1992
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1991
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

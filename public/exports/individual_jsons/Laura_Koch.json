@@ -1,0 +1,379 @@
+{
+    "id": "exp870506829",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura",
+        "lastName": "Koch",
+        "fullName": "Laura Koch",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGapHFt4Uc4Dw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1727182477633?e=1745452800&v=beta&t=HCT7oNPLHhJTogvM9L8e1aXSjPV4My_TKTLhp5DyaUs",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "870506829",
+            "profileId": "ACoAADPi4U0BN4rLplKPRaJ08BcBs7FNHhv3rN8",
+            "firstName": "Laura",
+            "lastName": "Koch",
+            "occupation": "Doktorandin",
+            "publicIdentifier": "laura-koch-639645203",
+            "trackingId": "KbTYWG4NT6W+uObc6Ma7vw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGapHFt4Uc4Dw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1727182477633?e=1745452800&v=beta&t=HCT7oNPLHhJTogvM9L8e1aXSjPV4My_TKTLhp5DyaUs",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:105534958",
+            "positions": [
+                {
+                    "title": "Doktorandin",
+                    "locationName": "Goldau, Schwyz, Schweiz",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:11207797",
+                        "entityUrn": "urn:li:fs_miniCompany:11207797",
+                        "name": "Pädagogische Hochschule Schwyz",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFED-4VblX3wQ/company-logo_200_200/company-logo_200_200/0/1631410755120/pdagogische_hochschule_schwyz_logo?e=1747872000&v=beta&t=k9EkHYoaHTgyVAh7cVHGkKYAIEA18rDp6l_-XeXUwP8",
+                        "universalName": "pädagogische-hochschule-schwyz",
+                        "dashCompanyUrn": "urn:li:fsd_company:11207797",
+                        "trackingId": "5CMtiyOVS5SxBR1eQU5rhw=="
+                    },
+                    "companyName": "Pädagogische Hochschule Schwyz"
+                },
+                {
+                    "title": "Forschungspraktikum",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Universität Erfurt / Université de Fribourg (Schweiz)"
+                },
+                {
+                    "title": "Studentische Hilfskraft",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Project ERIM, Universität Erfurt"
+                },
+                {
+                    "title": "Studentische Hilfskraft",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Professur für Soziale Kommunikation, Universität Erfurt"
+                },
+                {
+                    "title": "Tutorin: Methoden der Datenerhebung und -auswertung",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:57236",
+                        "entityUrn": "urn:li:fs_miniCompany:57236",
+                        "name": "Universität Erfurt",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_ELMnFotxug/company-logo_200_200/company-logo_200_200/0/1673365043172/university_of_erfurt_logo?e=1747872000&v=beta&t=fWGxY8WIxJigQzGZSi3Oc7l-Gi6jZGcsmwTTRBPGZYs",
+                        "universalName": "university-of-erfurt",
+                        "dashCompanyUrn": "urn:li:fsd_company:57236",
+                        "trackingId": "1ruqoEvXTAixJO5rny38Jw=="
+                    },
+                    "companyName": "Universität Erfurt"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doktor (Ph.D.)",
+                    "fieldOfStudy": "Doktoratsstudium",
+                    "schoolName": "Universität Zürich",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2023
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master",
+                    "fieldOfStudy": "Gesundheitskommunikation",
+                    "schoolName": "Universität Erfurt",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor",
+                    "fieldOfStudy": "Kommunikationswissenschaft",
+                    "schoolName": "Universität Erfurt",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2015
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Doktorandin",
+            "summary": "Doktorandin im Projekt \"Ge*3 - Gesundheit Gemeinsam Gestalten\"",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Lucerne, Lucerne",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Doktorandin",
+            "companyName": "Pädagogische Hochschule Schwyz",
+            "companyPublicId": "pädagogische-hochschule-schwyz",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/pädagogische-hochschule-schwyz",
+            "following": false,
+            "followable": true,
+            "followersCount": 119,
+            "connectionsCount": 117,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Pädagogische Hochschule Schwyz",
+        "position": "Doktorandin",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Doktorandin",
+        "organization": "Pädagogische Hochschule Schwyz",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laura-koch-639645203/",
+        "company": "https://www.linkedin.com/company/pädagogische-hochschule-schwyz"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Doktorandin",
+            "locationName": "Goldau, Schwyz, Schweiz",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:11207797",
+                "entityUrn": "urn:li:fs_miniCompany:11207797",
+                "name": "Pädagogische Hochschule Schwyz",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFED-4VblX3wQ/company-logo_200_200/company-logo_200_200/0/1631410755120/pdagogische_hochschule_schwyz_logo?e=1747872000&v=beta&t=k9EkHYoaHTgyVAh7cVHGkKYAIEA18rDp6l_-XeXUwP8",
+                "universalName": "pädagogische-hochschule-schwyz",
+                "dashCompanyUrn": "urn:li:fsd_company:11207797",
+                "trackingId": "5CMtiyOVS5SxBR1eQU5rhw=="
+            },
+            "companyName": "Pädagogische Hochschule Schwyz"
+        },
+        {
+            "title": "Forschungspraktikum",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2019
+                }
+            },
+            "companyName": "Universität Erfurt / Université de Fribourg (Schweiz)"
+        },
+        {
+            "title": "Studentische Hilfskraft",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "companyName": "Project ERIM, Universität Erfurt"
+        },
+        {
+            "title": "Studentische Hilfskraft",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2016
+                }
+            },
+            "companyName": "Professur für Soziale Kommunikation, Universität Erfurt"
+        },
+        {
+            "title": "Tutorin: Methoden der Datenerhebung und -auswertung",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:57236",
+                "entityUrn": "urn:li:fs_miniCompany:57236",
+                "name": "Universität Erfurt",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH_ELMnFotxug/company-logo_200_200/company-logo_200_200/0/1673365043172/university_of_erfurt_logo?e=1747872000&v=beta&t=fWGxY8WIxJigQzGZSi3Oc7l-Gi6jZGcsmwTTRBPGZYs",
+                "universalName": "university-of-erfurt",
+                "dashCompanyUrn": "urn:li:fsd_company:57236",
+                "trackingId": "1ruqoEvXTAixJO5rny38Jw=="
+            },
+            "companyName": "Universität Erfurt"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doktor (Ph.D.)",
+            "fieldOfStudy": "Doktoratsstudium",
+            "schoolName": "Universität Zürich",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            }
+        },
+        {
+            "degreeName": "Master",
+            "fieldOfStudy": "Gesundheitskommunikation",
+            "schoolName": "Universität Erfurt",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor",
+            "fieldOfStudy": "Kommunikationswissenschaft",
+            "schoolName": "Universität Erfurt",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

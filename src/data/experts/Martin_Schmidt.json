@@ -1,0 +1,392 @@
+{
+    "id": "exp413537533",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Martin",
+        "lastName": "Schmidt",
+        "fullName": "Martin Schmidt",
+        "image": "https://media.licdn.com/dms/image/v2/C5103AQEhtRh1EzWjCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517072777702?e=1745452800&v=beta&t=18-Ej7FKFfw8bS6HK6FUo3NPuIKK-zy27i-LRBXYsUc",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "413537533",
+            "profileId": "ACoAABimFP0BKss6hAwQ3LTLlPFwBbcxGkFEmIw",
+            "firstName": "Martin",
+            "lastName": "Schmidt",
+            "occupation": "Professor ESCP Business School",
+            "publicIdentifier": "martin-schmidt-8515abb6",
+            "trackingId": "q+dWdrFCTCSI48TVZ/GEPw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5103AQEhtRh1EzWjCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517072777702?e=1745452800&v=beta&t=18-Ej7FKFfw8bS6HK6FUo3NPuIKK-zy27i-LRBXYsUc",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106967730",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:308907",
+                        "entityUrn": "urn:li:fs_miniCompany:308907",
+                        "name": "ESCP Business School",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF87vEqbDAstA/company-logo_200_200/company-logo_200_200/0/1730279804770/escp_business_school_logo?e=1747872000&v=beta&t=Dzigxbj6n1shwnYvNvaVgvr-NiKfIBdl2PQ842d0ER8",
+                        "universalName": "escp-business-school",
+                        "dashCompanyUrn": "urn:li:fsd_company:308907",
+                        "trackingId": "kAeU095qSLyo1rerqf3wbA=="
+                    },
+                    "companyName": "ESCP Business School"
+                },
+                {
+                    "title": "Lecturer",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:163897",
+                        "entityUrn": "urn:li:fs_miniCompany:163897",
+                        "name": "Freie Universität Berlin",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH9scgZqfOqvA/company-logo_200_200/company-logo_200_200/0/1685634293966/freie_universitat_berlin_logo?e=1747872000&v=beta&t=zAXNq0O9qduPjk84NW2juOZPgIg7zoiSzjOC5L6v3wA",
+                        "universalName": "freie-universitat-berlin",
+                        "dashCompanyUrn": "urn:li:fsd_company:163897",
+                        "trackingId": "MQ3uQlw4QiSJxjlsmosRFA=="
+                    },
+                    "companyName": "Freie Universität Berlin"
+                },
+                {
+                    "title": "Visiting Professor",
+                    "locationName": "Frankfurt an der Oder",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2010
+                        }
+                    },
+                    "companyName": "Europa-Universität Viadrina Frankfurt/Oder"
+                },
+                {
+                    "title": "Senior Manager",
+                    "locationName": "Frankfurt am Main",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2009
+                        }
+                    },
+                    "companyName": "Deloitte & Touche, IFRS Centre of Excellence"
+                },
+                {
+                    "title": "Project Manager",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2005
+                        }
+                    },
+                    "companyName": "Accounting Standards Committee of Germany"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Habilitation / German degree for PhD supervision",
+                    "fieldOfStudy": "Betriebswirtschaftslehre / Business Administration",
+                    "schoolName": "Freie Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Promotion / PhD",
+                    "fieldOfStudy": "Wirtschaftswissenschaften / Business and Economics",
+                    "schoolName": "Freie Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Dipl.-Kaufmann / Master",
+                    "fieldOfStudy": "Betriebswirtschaftslehre / Business Administration",
+                    "schoolName": "Technische Universität Berlin / University of Technology Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Financial Reporting",
+                "Research",
+                "Audit",
+                "Hochschulwesen"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor ESCP Business School",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Berlin, Berlin",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor",
+            "companyName": "ESCP Business School",
+            "companyPublicId": "escp-business-school",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/escp-business-school",
+            "following": false,
+            "followable": true,
+            "followersCount": 1023,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "ESCP Business School",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "ESCP Business School",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/martin-schmidt-8515abb6/",
+        "company": "https://www.linkedin.com/company/escp-business-school"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:308907",
+                "entityUrn": "urn:li:fs_miniCompany:308907",
+                "name": "ESCP Business School",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF87vEqbDAstA/company-logo_200_200/company-logo_200_200/0/1730279804770/escp_business_school_logo?e=1747872000&v=beta&t=Dzigxbj6n1shwnYvNvaVgvr-NiKfIBdl2PQ842d0ER8",
+                "universalName": "escp-business-school",
+                "dashCompanyUrn": "urn:li:fsd_company:308907",
+                "trackingId": "kAeU095qSLyo1rerqf3wbA=="
+            },
+            "companyName": "ESCP Business School"
+        },
+        {
+            "title": "Lecturer",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:163897",
+                "entityUrn": "urn:li:fs_miniCompany:163897",
+                "name": "Freie Universität Berlin",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH9scgZqfOqvA/company-logo_200_200/company-logo_200_200/0/1685634293966/freie_universitat_berlin_logo?e=1747872000&v=beta&t=zAXNq0O9qduPjk84NW2juOZPgIg7zoiSzjOC5L6v3wA",
+                "universalName": "freie-universitat-berlin",
+                "dashCompanyUrn": "urn:li:fsd_company:163897",
+                "trackingId": "MQ3uQlw4QiSJxjlsmosRFA=="
+            },
+            "companyName": "Freie Universität Berlin"
+        },
+        {
+            "title": "Visiting Professor",
+            "locationName": "Frankfurt an der Oder",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2010
+                }
+            },
+            "companyName": "Europa-Universität Viadrina Frankfurt/Oder"
+        },
+        {
+            "title": "Senior Manager",
+            "locationName": "Frankfurt am Main",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2009
+                }
+            },
+            "companyName": "Deloitte & Touche, IFRS Centre of Excellence"
+        },
+        {
+            "title": "Project Manager",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2005
+                }
+            },
+            "companyName": "Accounting Standards Committee of Germany"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Habilitation / German degree for PhD supervision",
+            "fieldOfStudy": "Betriebswirtschaftslehre / Business Administration",
+            "schoolName": "Freie Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "degreeName": "Promotion / PhD",
+            "fieldOfStudy": "Wirtschaftswissenschaften / Business and Economics",
+            "schoolName": "Freie Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "degreeName": "Dipl.-Kaufmann / Master",
+            "fieldOfStudy": "Betriebswirtschaftslehre / Business Administration",
+            "schoolName": "Technische Universität Berlin / University of Technology Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Financial Reporting",
+        "Research",
+        "Audit",
+        "Hochschulwesen"
+    ],
+    "lastEnriched": "2025-02-17"
+}

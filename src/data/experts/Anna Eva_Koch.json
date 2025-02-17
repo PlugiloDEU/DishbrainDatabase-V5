@@ -1,0 +1,408 @@
+{
+    "id": "exp888352133",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Anna Eva",
+        "lastName": "Koch",
+        "fullName": "Anna Eva Koch",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQHzvAbqNtYgoA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1616010100057?e=1745452800&v=beta&t=tRoSjoFyoiujBSxLPo503Lol_75z6T9pUQr30N_JQPI",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Schwedisch"
+        ],
+        "allData": {
+            "id": "888352133",
+            "profileId": "ACoAADTzLYUB5mgh3XoJdgVUu4vnNR41ro0yGDM",
+            "firstName": "Anna Eva",
+            "lastName": "Koch",
+            "occupation": "PhD candidate in (Epi-)Genome Structure and Genomic Instability",
+            "publicIdentifier": "aekoch17",
+            "trackingId": "cGd3cq13Tx23ew/LzRlM4g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHzvAbqNtYgoA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1616010100057?e=1745452800&v=beta&t=tRoSjoFyoiujBSxLPo503Lol_75z6T9pUQr30N_JQPI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105890944",
+            "positions": [
+                {
+                    "title": "Doctoral Researcher",
+                    "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:85725101",
+                        "entityUrn": "urn:li:fs_miniCompany:85725101",
+                        "name": "Center for Molecular Medicine Cologne",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "center-for-molecular-medicine-cologne",
+                        "dashCompanyUrn": "urn:li:fsd_company:85725101",
+                        "trackingId": "xtChyIa0SuuoNALi35Zjig=="
+                    },
+                    "companyName": "Center for Molecular Medicine Cologne"
+                },
+                {
+                    "title": "Master Thesis Project",
+                    "description": "Project to achieve my Master's degree. \n\nTitle: Optimization of Methods to Study Regulators of cMYC/MAX Interaction  and Transcriptional Heterogeneity\n\nPI/Supervisor: Vicent Pelechano PhD, Eva Brinkman PhD",
+                    "locationName": "Solna, Stockholm",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:5366",
+                        "entityUrn": "urn:li:fs_miniCompany:5366",
+                        "name": "Karolinska Institutet",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEpfV0v7SxDsg/company-logo_200_200/company-logo_200_200/0/1666272453395/karolinska_institutet_logo?e=1747872000&v=beta&t=cGhC2EfSaQeOjvDCJbPx-wcx5LxNBtJFSVl_McObZew",
+                        "universalName": "karolinska-institutet",
+                        "dashCompanyUrn": "urn:li:fsd_company:5366",
+                        "trackingId": "pnEYgmk3SD2WHxZPBORAAQ=="
+                    },
+                    "companyName": "Karolinska Institutet"
+                },
+                {
+                    "title": "Covid-19 test assistent",
+                    "locationName": "Dortmund, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "secjura GmbH Medical"
+                },
+                {
+                    "title": "Bachelor project",
+                    "description": "\"Molecular Analysis of Peptidergic Neurons Involved in Food Intake in Drosophila melanogaster Larvae\"\nUnder supervision of Professor Michael Pankratz\nMolecular Brain Physiology and Behavior",
+                    "locationName": "Bonn, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "Life and Medical Sciences Institute"
+                },
+                {
+                    "title": "Student Research Assistant",
+                    "description": "Molecular Brain Physiology and Behavior - AG Professor Michael Pankratz\n- Maintenance of Drosophila fly strains and stocks\n- Molecular biological supportive work\n- Managment of lab storage",
+                    "locationName": "Bonn, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2018
+                        }
+                    },
+                    "companyName": "Life and Medical Sciences Institute "
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "Molecular Medicine",
+                    "schoolName": "Uppsala University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science - BS",
+                    "fieldOfStudy": "Molecular Biomedicine",
+                    "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Berufsausbildung",
+                    "fieldOfStudy": "Biological Technical Assistent",
+                    "schoolName": "Rheinische Akademie Köln",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "EMBO | EMBL Symposium: The ageing genome: from mechanisms to disease",
+                    "authority": "EMBL"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "Schwedisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "R",
+                "Molekularbiologie",
+                "Molekulargenetik",
+                "Fluoreszenzmikroskopie"
+            ],
+            "volunteerExperiences": [],
+            "headline": "PhD candidate in (Epi-)Genome Structure and Genomic Instability",
+            "summary": "Ambitious and dedicated life science researcher.\nMaster of Med. Science: Molecular Medicine \nAlumni of Rheinische Friedrich-Wilhelms Universität Bonn and Uppsala Universitet",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Cologne, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Doctoral Researcher",
+            "companyName": "Center for Molecular Medicine Cologne",
+            "companyPublicId": "center-for-molecular-medicine-cologne",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/center-for-molecular-medicine-cologne",
+            "following": false,
+            "followable": true,
+            "followersCount": 276,
+            "connectionsCount": 232,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Center for Molecular Medicine Cologne",
+        "position": "Doctoral Researcher",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Doctoral Researcher",
+        "organization": "Center for Molecular Medicine Cologne",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/aekoch17/",
+        "company": "https://www.linkedin.com/company/center-for-molecular-medicine-cologne"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Doctoral Researcher",
+            "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:85725101",
+                "entityUrn": "urn:li:fs_miniCompany:85725101",
+                "name": "Center for Molecular Medicine Cologne",
+                "showcase": false,
+                "active": true,
+                "universalName": "center-for-molecular-medicine-cologne",
+                "dashCompanyUrn": "urn:li:fsd_company:85725101",
+                "trackingId": "xtChyIa0SuuoNALi35Zjig=="
+            },
+            "companyName": "Center for Molecular Medicine Cologne"
+        },
+        {
+            "title": "Master Thesis Project",
+            "description": "Project to achieve my Master's degree. \n\nTitle: Optimization of Methods to Study Regulators of cMYC/MAX Interaction  and Transcriptional Heterogeneity\n\nPI/Supervisor: Vicent Pelechano PhD, Eva Brinkman PhD",
+            "locationName": "Solna, Stockholm",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:5366",
+                "entityUrn": "urn:li:fs_miniCompany:5366",
+                "name": "Karolinska Institutet",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEpfV0v7SxDsg/company-logo_200_200/company-logo_200_200/0/1666272453395/karolinska_institutet_logo?e=1747872000&v=beta&t=cGhC2EfSaQeOjvDCJbPx-wcx5LxNBtJFSVl_McObZew",
+                "universalName": "karolinska-institutet",
+                "dashCompanyUrn": "urn:li:fsd_company:5366",
+                "trackingId": "pnEYgmk3SD2WHxZPBORAAQ=="
+            },
+            "companyName": "Karolinska Institutet"
+        },
+        {
+            "title": "Covid-19 test assistent",
+            "locationName": "Dortmund, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "companyName": "secjura GmbH Medical"
+        },
+        {
+            "title": "Bachelor project",
+            "description": "\"Molecular Analysis of Peptidergic Neurons Involved in Food Intake in Drosophila melanogaster Larvae\"\nUnder supervision of Professor Michael Pankratz\nMolecular Brain Physiology and Behavior",
+            "locationName": "Bonn, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "companyName": "Life and Medical Sciences Institute"
+        },
+        {
+            "title": "Student Research Assistant",
+            "description": "Molecular Brain Physiology and Behavior - AG Professor Michael Pankratz\n- Maintenance of Drosophila fly strains and stocks\n- Molecular biological supportive work\n- Managment of lab storage",
+            "locationName": "Bonn, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "companyName": "Life and Medical Sciences Institute "
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "Molecular Medicine",
+            "schoolName": "Uppsala University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science - BS",
+            "fieldOfStudy": "Molecular Biomedicine",
+            "schoolName": "Rheinische Friedrich-Wilhelms-Universität Bonn",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            }
+        },
+        {
+            "degreeName": "Berufsausbildung",
+            "fieldOfStudy": "Biological Technical Assistent",
+            "schoolName": "Rheinische Akademie Köln",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "EMBO | EMBL Symposium: The ageing genome: from mechanisms to disease",
+            "authority": "EMBL"
+        }
+    ],
+    "skills": [
+        "R",
+        "Molekularbiologie",
+        "Molekulargenetik",
+        "Fluoreszenzmikroskopie"
+    ],
+    "lastEnriched": "2025-02-17"
+}

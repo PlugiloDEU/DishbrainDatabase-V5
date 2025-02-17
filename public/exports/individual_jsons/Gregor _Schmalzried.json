@@ -1,0 +1,425 @@
+{
+    "id": "exp730415488",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Gregor ",
+        "lastName": "Schmalzried",
+        "fullName": "Gregor  Schmalzried",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQEdQx79T99GBw/profile-displayphoto-shrink_800_800/B4DZPUscaBHMAk-/0/1734440241410?e=1745452800&v=beta&t=tse3eQEYLjX1y7VSeOUqmWgA1oIkKfTtU7Na_DcOgTU",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "730415488",
+            "profileId": "ACoAACuJQYAB6Y8aHfmpBlpKTgr3OWWYgOYZnjY",
+            "firstName": "Gregor ",
+            "lastName": "Schmalzried",
+            "occupation": "ai & media / Bayerischer Rundfunk & freelance",
+            "publicIdentifier": "gregorschmalzried",
+            "trackingId": "1exjc84PQnWM7Gph4jO7JQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEdQx79T99GBw/profile-displayphoto-shrink_800_800/B4DZPUscaBHMAk-/0/1734440241410?e=1745452800&v=beta&t=tse3eQEYLjX1y7VSeOUqmWgA1oIkKfTtU7Na_DcOgTU",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGklaedEJNxaw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1734443489372?e=1745452800&v=beta&t=wm5hJCjf5o9TKmTkArg3Am8FJegVdSWh7-X9L7-D6Tw",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Host & team lead \"Der KI-Podcast\" (ARD)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Broadcast Media"
+                        ],
+                        "objectUrn": "urn:li:company:32265",
+                        "entityUrn": "urn:li:fs_miniCompany:32265",
+                        "name": "BR - Bayerischer Rundfunk",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEjHe3DBh251A/company-logo_200_200/company-logo_200_200/0/1711390435540/bayerischer_rundfunk_logo?e=1747872000&v=beta&t=GruASPbgkoXha88q4v9_zGRAt4q95oDQZI2ORMFlPXI",
+                        "universalName": "br-bayerischer-rundfunk",
+                        "dashCompanyUrn": "urn:li:fsd_company:32265",
+                        "trackingId": "N46tAp2UTZm3wuW0a6mRTg=="
+                    },
+                    "companyName": "Bayerischer Rundfunk"
+                },
+                {
+                    "title": "Tech x Media / Speaker, Writing, Consulting",
+                    "description": "Brand Eins, ZDF, SWR, Spotify All Ears, re:publica, Medientage München, Funke Mediengruppe, Universität Würzburg, Freie Universität Berlin u.a.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "freelance"
+                },
+                {
+                    "title": "Audio Fiction / development, writing, showrunning",
+                    "description": "2022-> Mia Insomnia (ARD)\n2022-2023 Flüsterwelt (Podstars by OMR)\n2020-2021 Lynn ist nicht allein (ProSiebenSat.1)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "freelance"
+                },
+                {
+                    "title": "Technology reporter",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Broadcast Media"
+                        ],
+                        "objectUrn": "urn:li:company:32265",
+                        "entityUrn": "urn:li:fs_miniCompany:32265",
+                        "name": "BR - Bayerischer Rundfunk",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEjHe3DBh251A/company-logo_200_200/company-logo_200_200/0/1711390435540/bayerischer_rundfunk_logo?e=1747872000&v=beta&t=GruASPbgkoXha88q4v9_zGRAt4q95oDQZI2ORMFlPXI",
+                        "universalName": "br-bayerischer-rundfunk",
+                        "dashCompanyUrn": "urn:li:fsd_company:32265",
+                        "trackingId": "e2QpPfy+Qr+UEnqNQEMhpg=="
+                    },
+                    "companyName": "Bayerischer Rundfunk"
+                },
+                {
+                    "title": "CvD | PULS Netzressort & Bayern 2 Zündfunk",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Broadcast Media"
+                        ],
+                        "objectUrn": "urn:li:company:32265",
+                        "entityUrn": "urn:li:fs_miniCompany:32265",
+                        "name": "BR - Bayerischer Rundfunk",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEjHe3DBh251A/company-logo_200_200/company-logo_200_200/0/1711390435540/bayerischer_rundfunk_logo?e=1747872000&v=beta&t=GruASPbgkoXha88q4v9_zGRAt4q95oDQZI2ORMFlPXI",
+                        "universalName": "br-bayerischer-rundfunk",
+                        "dashCompanyUrn": "urn:li:fsd_company:32265",
+                        "trackingId": "seMATlPCSt2SoHp5LKhz6A=="
+                    },
+                    "companyName": "Bayerischer Rundfunk"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Arts - MA",
+                    "fieldOfStudy": "English Studies — linguistics, computer linguistics",
+                    "schoolName": "Ludwig-Maximilians Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Arts - BA",
+                    "fieldOfStudy": "Anglistik",
+                    "schoolName": "Ludwig-Maximilians Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Journalisten des Jahres",
+                    "description": "Platz 2 in der Kategorie \"Wissenschaft\"",
+                    "issueDate": {
+                        "month": 12,
+                        "year": 2024
+                    },
+                    "issuer": "medium magazin"
+                },
+                {
+                    "title": "Nominiert: Grimme Online Award",
+                    "description": "für \"Der KI-Podcast\"",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2024
+                    }
+                },
+                {
+                    "title": "Newsletter des Jahres",
+                    "description": "für coolgenug.de [heute gregorschmalzried.blog]",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2022
+                    },
+                    "issuer": "Goldene Blogger"
+                },
+                {
+                    "title": "Nominiert: Deutscher Fernsehpreis",
+                    "description": "für die Reihe \"Digital Empire\" (ZDF)",
+                    "issueDate": {
+                        "month": 1,
+                        "year": 2022
+                    }
+                },
+                {
+                    "title": "Top 30 bis 30",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2021
+                    },
+                    "issuer": "medium magazin"
+                },
+                {
+                    "title": "RIAS Media Prize",
+                    "issueDate": {
+                        "year": 2021
+                    },
+                    "issuer": "RIAS Berlin Kommission"
+                }
+            ],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [
+                {
+                    "role": "Co-Chapter Leader | Munich",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "companyName": "RIAS Berlin Kommission"
+                }
+            ],
+            "headline": "ai & media / Bayerischer Rundfunk & freelance",
+            "summary": "| Host and team lead: \"Der KI-Podcast\" (ARD) \n| Writer and journalist: BR24, gregorschmalzried.blog \n| Speaker and consultant: Gen AI strategy and implementation \n| Fiction storytelling: \"Mia Insomnia\" (ARD)",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Host & team lead \"Der KI-Podcast\" (ARD)",
+            "companyName": "Bayerischer Rundfunk",
+            "companyPublicId": "br-bayerischer-rundfunk",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/br-bayerischer-rundfunk",
+            "following": false,
+            "followable": true,
+            "followersCount": 3303,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Bayerischer Rundfunk",
+        "position": "Host & team lead \"Der KI-Podcast\" (ARD)",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Broadcast Media"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Host & team lead \"Der KI-Podcast\" (ARD)",
+        "organization": "Bayerischer Rundfunk",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/gregorschmalzried/",
+        "company": "https://www.linkedin.com/company/br-bayerischer-rundfunk"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Host & team lead \"Der KI-Podcast\" (ARD)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Broadcast Media"
+                ],
+                "objectUrn": "urn:li:company:32265",
+                "entityUrn": "urn:li:fs_miniCompany:32265",
+                "name": "BR - Bayerischer Rundfunk",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEjHe3DBh251A/company-logo_200_200/company-logo_200_200/0/1711390435540/bayerischer_rundfunk_logo?e=1747872000&v=beta&t=GruASPbgkoXha88q4v9_zGRAt4q95oDQZI2ORMFlPXI",
+                "universalName": "br-bayerischer-rundfunk",
+                "dashCompanyUrn": "urn:li:fsd_company:32265",
+                "trackingId": "N46tAp2UTZm3wuW0a6mRTg=="
+            },
+            "companyName": "Bayerischer Rundfunk"
+        },
+        {
+            "title": "Tech x Media / Speaker, Writing, Consulting",
+            "description": "Brand Eins, ZDF, SWR, Spotify All Ears, re:publica, Medientage München, Funke Mediengruppe, Universität Würzburg, Freie Universität Berlin u.a.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "companyName": "freelance"
+        },
+        {
+            "title": "Audio Fiction / development, writing, showrunning",
+            "description": "2022-> Mia Insomnia (ARD)\n2022-2023 Flüsterwelt (Podstars by OMR)\n2020-2021 Lynn ist nicht allein (ProSiebenSat.1)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "companyName": "freelance"
+        },
+        {
+            "title": "Technology reporter",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Broadcast Media"
+                ],
+                "objectUrn": "urn:li:company:32265",
+                "entityUrn": "urn:li:fs_miniCompany:32265",
+                "name": "BR - Bayerischer Rundfunk",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEjHe3DBh251A/company-logo_200_200/company-logo_200_200/0/1711390435540/bayerischer_rundfunk_logo?e=1747872000&v=beta&t=GruASPbgkoXha88q4v9_zGRAt4q95oDQZI2ORMFlPXI",
+                "universalName": "br-bayerischer-rundfunk",
+                "dashCompanyUrn": "urn:li:fsd_company:32265",
+                "trackingId": "e2QpPfy+Qr+UEnqNQEMhpg=="
+            },
+            "companyName": "Bayerischer Rundfunk"
+        },
+        {
+            "title": "CvD | PULS Netzressort & Bayern 2 Zündfunk",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Broadcast Media"
+                ],
+                "objectUrn": "urn:li:company:32265",
+                "entityUrn": "urn:li:fs_miniCompany:32265",
+                "name": "BR - Bayerischer Rundfunk",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEjHe3DBh251A/company-logo_200_200/company-logo_200_200/0/1711390435540/bayerischer_rundfunk_logo?e=1747872000&v=beta&t=GruASPbgkoXha88q4v9_zGRAt4q95oDQZI2ORMFlPXI",
+                "universalName": "br-bayerischer-rundfunk",
+                "dashCompanyUrn": "urn:li:fsd_company:32265",
+                "trackingId": "seMATlPCSt2SoHp5LKhz6A=="
+            },
+            "companyName": "Bayerischer Rundfunk"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Arts - MA",
+            "fieldOfStudy": "English Studies — linguistics, computer linguistics",
+            "schoolName": "Ludwig-Maximilians Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Arts - BA",
+            "fieldOfStudy": "Anglistik",
+            "schoolName": "Ludwig-Maximilians Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

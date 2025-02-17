@@ -1,0 +1,536 @@
+{
+    "id": "exp7453935",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Xavier (Xavi)",
+        "lastName": "Amatriain",
+        "fullName": "Xavier (Xavi) Amatriain",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQEMJUFRPHBXnA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1669178612024?e=1745452800&v=beta&t=79ZYTiI_voLZsur07zmp3F_024tk-cOzkvddTBWjl9M",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Catalan",
+            "English",
+            "French",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "7453935",
+            "profileId": "ACoAAABxvO8BNIuBlB9QxS2rSSLpNQZRFLizDWg",
+            "firstName": "Xavier (Xavi)",
+            "lastName": "Amatriain",
+            "occupation": "Leading AI Products at Google",
+            "publicIdentifier": "xamat",
+            "trackingId": "1Gr0MlwMSve4swo23brk8g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEMJUFRPHBXnA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1669178612024?e=1745452800&v=beta&t=79ZYTiI_voLZsur07zmp3F_024tk-cOzkvddTBWjl9M",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQE9bA6jqaiuSA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1732750850432?e=1745452800&v=beta&t=9QIsTt8SS860W0MGp_YhYUalhon1KftSRvSjwf3nywc",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103585630",
+            "positions": [
+                {
+                    "title": "VP of Product, ACE (AI and Compute Enablement)",
+                    "description": "Leading strategy and product roadmap for the AI and Compute platforms that powers all of Google products. This includes many different tools and layers of the stack, namely:\n\n- AI Data: from human data annotation for pre and post-training to model and data lineage for GenAI data governance and RAI\n- AI Model activation: tools and processes for model pre-training, fine-tuning, prompt engineering, orchestration, and model serving at scale. While we mostly focus on Gemini, we also support many other workstreams for models like Imagen, Veo, or Gemma. In fact, we also support non GenAI models internally.\n- AI Frameworks: My team manages internal and external roadmap and strategy for frameworks like JAX, Keras, TensorFlow, or XLA. This also includes AI for mobile platforms now presented under the umbrella of Google AI Edge\n- Compute infrastructure and efficiency: We own much of the internal AI Compute infrastructure and build efficiency tools to make sure we can bring the best out of our hardware and data centers.\n- AI capacity planning and tools: Similarly, we model and plan capacity needs for all our Google needs across TPUs, GPUs, and standard compute.\n\nOur team collaborates closely with many other teams at Google. From Google Deepmind on the research side, all the way to Google Cloud and our many product teams (Search, Ads, Youtube...)",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "KnXxjyMHRhGJOSpvxTbP3g=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Member Board of Directors",
+                    "locationName": "United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:18094907",
+                        "entityUrn": "urn:li:fs_miniCompany:18094907",
+                        "name": "Curai Health",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQENTZ42NmithQ/company-logo_200_200/company-logo_200_200/0/1641917682441/curai_logo?e=1747872000&v=beta&t=mPV47aODr6ONHGH2C1GdRjlPrSmbR6wpGJGZrtM34Hg",
+                        "universalName": "curai",
+                        "dashCompanyUrn": "urn:li:fsd_company:18094907",
+                        "trackingId": "o9iUY6dRTSSPeFYKO+TbnQ=="
+                    },
+                    "companyName": "Curai Health"
+                },
+                {
+                    "title": "Advisor",
+                    "description": "Advising SCRM - Lidl Digital International on product, organizational and technical issues",
+                    "locationName": "Barcelona Area, Spain/Neckarsulm, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:9413806",
+                        "entityUrn": "urn:li:fs_miniCompany:9413806",
+                        "name": "SCRM - Lidl International Hub",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHpOc13o83SbQ/company-logo_200_200/company-logo_200_200/0/1630583158083/scrm_logo?e=1747872000&v=beta&t=xkarhuapousNqOVnooXlaek6DV8D9mtm4s5Mg8Ap_xY",
+                        "universalName": "scrmlidlinternationalhub",
+                        "dashCompanyUrn": "urn:li:fsd_company:9413806",
+                        "trackingId": "A9AsCbiWSJGdzMmRR2pyUQ=="
+                    },
+                    "companyName": "SCRM - Lidl International Hub"
+                },
+                {
+                    "title": "VP of  Product AI Strategy",
+                    "description": "Leading company-wide Generative AI efforts across product and AI teams. This involved all the way from building the first LLM-based product feature prototype to designing our internal end-to-end Generative AI platform.",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1337",
+                        "entityUrn": "urn:li:fs_miniCompany:1337",
+                        "name": "LinkedIn",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1747872000&v=beta&t=z-85R5yPMGYXef2cY7hM6fBVFVCoIeXFHZTYxqGlmP0",
+                        "universalName": "linkedin",
+                        "dashCompanyUrn": "urn:li:fsd_company:1337",
+                        "trackingId": "sEPKK850RjCQ7YQ2XcHOqA=="
+                    },
+                    "companyName": "LinkedIn"
+                },
+                {
+                    "title": "Cofounder/CTO",
+                    "description": "Curai Health is an end-to-end primary care service that combines the best medical team with state-of-the art AI as another member of the care team. I started the company from zero with my cofounder Neal Khosla, and two other founding engineers. As a founder, I did everything from figuring product and company strategy to writing AI research papers.",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:18094907",
+                        "entityUrn": "urn:li:fs_miniCompany:18094907",
+                        "name": "Curai Health",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQENTZ42NmithQ/company-logo_200_200/company-logo_200_200/0/1641917682441/curai_logo?e=1747872000&v=beta&t=mPV47aODr6ONHGH2C1GdRjlPrSmbR6wpGJGZrtM34Hg",
+                        "universalName": "curai",
+                        "dashCompanyUrn": "urn:li:fsd_company:18094907",
+                        "trackingId": "JNYpbMSMRqillejXztW2DQ=="
+                    },
+                    "companyName": "Curai"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Universitat Pompeu Fabra",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Engineering",
+                    "fieldOfStudy": "Telecommunications",
+                    "schoolName": "Universitat Politècnica de Catalunya",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1992
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Artificial Intelligence",
+                    "fieldOfStudy": "AI",
+                    "schoolName": "Stanford University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Generative AI for Business Leaders",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "LinkedIn"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Catalan",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Product Management",
+                "Prompt Engineering",
+                "Machine Learning",
+                "Algorithms"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Leading AI Products at Google",
+            "summary": "Leading the ACE (AI and Compute Enablement) product team at Google, building AI product solutions that serve all of Google's products, including Google Cloud.\n\nI am a technical/product leader with over two decades of experience in leading and developing cutting-edge AI and ML solutions for various domains, such as e-commerce, health, media, and education. My passion is to create innovative products that leverage the power of data and algorithms to solve real-world problems and improve people's lives.\n\nBesides starting my own company, Curai Health, using state-of-the-art AI to provide the best possible care to everyone, I have led teams in companies such as LinkedIn and Quora. I am probably best known as having started and led the team that built the famous Netflix Recommendations.\n\nI have a PhD and deep technical background in Machine Learning and AI, and I have published over 100 papers in top-tier conferences and journals, and hold several patents in AI and ML. I have also advises and mentored startups to scale their AI capabilities and strategies.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Los Gatos, California",
+            "geoCountryName": "United States",
+            "jobTitle": "VP of Product, ACE (AI and Compute Enablement)",
+            "companyName": "Google",
+            "companyPublicId": "google",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/google",
+            "following": false,
+            "followable": true,
+            "followersCount": 41521,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Google",
+        "position": "VP of Product, ACE (AI and Compute Enablement)",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP of Product, ACE (AI and Compute Enablement)",
+        "organization": "Google",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/xamat/",
+        "company": "https://www.linkedin.com/company/google"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP of Product, ACE (AI and Compute Enablement)",
+            "description": "Leading strategy and product roadmap for the AI and Compute platforms that powers all of Google products. This includes many different tools and layers of the stack, namely:\n\n- AI Data: from human data annotation for pre and post-training to model and data lineage for GenAI data governance and RAI\n- AI Model activation: tools and processes for model pre-training, fine-tuning, prompt engineering, orchestration, and model serving at scale. While we mostly focus on Gemini, we also support many other workstreams for models like Imagen, Veo, or Gemma. In fact, we also support non GenAI models internally.\n- AI Frameworks: My team manages internal and external roadmap and strategy for frameworks like JAX, Keras, TensorFlow, or XLA. This also includes AI for mobile platforms now presented under the umbrella of Google AI Edge\n- Compute infrastructure and efficiency: We own much of the internal AI Compute infrastructure and build efficiency tools to make sure we can bring the best out of our hardware and data centers.\n- AI capacity planning and tools: Similarly, we model and plan capacity needs for all our Google needs across TPUs, GPUs, and standard compute.\n\nOur team collaborates closely with many other teams at Google. From Google Deepmind on the research side, all the way to Google Cloud and our many product teams (Search, Ads, Youtube...)",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "KnXxjyMHRhGJOSpvxTbP3g=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Member Board of Directors",
+            "locationName": "United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:18094907",
+                "entityUrn": "urn:li:fs_miniCompany:18094907",
+                "name": "Curai Health",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQENTZ42NmithQ/company-logo_200_200/company-logo_200_200/0/1641917682441/curai_logo?e=1747872000&v=beta&t=mPV47aODr6ONHGH2C1GdRjlPrSmbR6wpGJGZrtM34Hg",
+                "universalName": "curai",
+                "dashCompanyUrn": "urn:li:fsd_company:18094907",
+                "trackingId": "o9iUY6dRTSSPeFYKO+TbnQ=="
+            },
+            "companyName": "Curai Health"
+        },
+        {
+            "title": "Advisor",
+            "description": "Advising SCRM - Lidl Digital International on product, organizational and technical issues",
+            "locationName": "Barcelona Area, Spain/Neckarsulm, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:9413806",
+                "entityUrn": "urn:li:fs_miniCompany:9413806",
+                "name": "SCRM - Lidl International Hub",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHpOc13o83SbQ/company-logo_200_200/company-logo_200_200/0/1630583158083/scrm_logo?e=1747872000&v=beta&t=xkarhuapousNqOVnooXlaek6DV8D9mtm4s5Mg8Ap_xY",
+                "universalName": "scrmlidlinternationalhub",
+                "dashCompanyUrn": "urn:li:fsd_company:9413806",
+                "trackingId": "A9AsCbiWSJGdzMmRR2pyUQ=="
+            },
+            "companyName": "SCRM - Lidl International Hub"
+        },
+        {
+            "title": "VP of  Product AI Strategy",
+            "description": "Leading company-wide Generative AI efforts across product and AI teams. This involved all the way from building the first LLM-based product feature prototype to designing our internal end-to-end Generative AI platform.",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1747872000&v=beta&t=z-85R5yPMGYXef2cY7hM6fBVFVCoIeXFHZTYxqGlmP0",
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "sEPKK850RjCQ7YQ2XcHOqA=="
+            },
+            "companyName": "LinkedIn"
+        },
+        {
+            "title": "Cofounder/CTO",
+            "description": "Curai Health is an end-to-end primary care service that combines the best medical team with state-of-the art AI as another member of the care team. I started the company from zero with my cofounder Neal Khosla, and two other founding engineers. As a founder, I did everything from figuring product and company strategy to writing AI research papers.",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:18094907",
+                "entityUrn": "urn:li:fs_miniCompany:18094907",
+                "name": "Curai Health",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQENTZ42NmithQ/company-logo_200_200/company-logo_200_200/0/1641917682441/curai_logo?e=1747872000&v=beta&t=mPV47aODr6ONHGH2C1GdRjlPrSmbR6wpGJGZrtM34Hg",
+                "universalName": "curai",
+                "dashCompanyUrn": "urn:li:fsd_company:18094907",
+                "trackingId": "JNYpbMSMRqillejXztW2DQ=="
+            },
+            "companyName": "Curai"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Universitat Pompeu Fabra",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        },
+        {
+            "degreeName": "Engineering",
+            "fieldOfStudy": "Telecommunications",
+            "schoolName": "Universitat Politècnica de Catalunya",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            }
+        },
+        {
+            "degreeName": "Artificial Intelligence",
+            "fieldOfStudy": "AI",
+            "schoolName": "Stanford University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Generative AI for Business Leaders",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "authority": "LinkedIn"
+        }
+    ],
+    "skills": [
+        "Product Management",
+        "Prompt Engineering",
+        "Machine Learning",
+        "Algorithms"
+    ],
+    "lastEnriched": "2025-02-17"
+}

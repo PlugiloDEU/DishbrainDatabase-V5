@@ -1,0 +1,461 @@
+{
+    "id": "exp13985960",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Gabriel",
+        "lastName": "Matuschka",
+        "fullName": "Gabriel Matuschka",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGlwVQS-oh6Qg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729190474284?e=1745452800&v=beta&t=QKYdH6jLkgj11s68yeCVeW4GxOezLOaXT2e7opWWqZA",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "13985960",
+            "profileId": "ACoAAADVaKgBSMAHFVSMDyT2RL7VAsbA6GbN1L8",
+            "firstName": "Gabriel",
+            "lastName": "Matuschka",
+            "occupation": "Partner at Fly Ventures",
+            "publicIdentifier": "gabrielmatuschka",
+            "trackingId": "aVSRueWjSAK5pxGTpH7Yiw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGlwVQS-oh6Qg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729190474284?e=1745452800&v=beta&t=QKYdH6jLkgj11s68yeCVeW4GxOezLOaXT2e7opWWqZA",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQEXzUKBoKYBrQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1662452673907?e=1745452800&v=beta&t=akRS1Q07KOLMnuC_-X4VdAqEe-9jKinWr7vtRbpmQhg",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009712",
+            "positions": [
+                {
+                    "title": "Partner",
+                    "description": "Fly is a first check VC for technical founders solving hard problems. We invest from day-zero to seed, backing founders from all over Europe.",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:10344800",
+                        "entityUrn": "urn:li:fs_miniCompany:10344800",
+                        "name": "Fly Ventures",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNhnoPrtZtEw/company-logo_200_200/company-logo_200_200/0/1662452946950/fly_ventures_logo?e=1747872000&v=beta&t=cYue3xeP9b-qBDH9VXKpeneBgDHRF-YmiXCe4TEHrso",
+                        "universalName": "fly-ventures",
+                        "dashCompanyUrn": "urn:li:fsd_company:10344800",
+                        "trackingId": "zWKsHxvbSnS41ByWGsGIRQ=="
+                    },
+                    "companyName": "Fly Ventures"
+                },
+                {
+                    "title": "Principal",
+                    "description": "Opened and headed the Berlin office for Partech Ventures\nPartech is a global venture capital firm with offices in San Francisco, Paris and Berlin",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:563769",
+                        "entityUrn": "urn:li:fs_miniCompany:563769",
+                        "name": "Partech",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGLgHfqgsihMw/company-logo_200_200/company-logo_200_200/0/1694065644078/partech_logo?e=1747872000&v=beta&t=h5zwSu4BFlP-BuBrwUbLrNo1rMo2fIA1_g003sJ__Yk",
+                        "universalName": "partech",
+                        "dashCompanyUrn": "urn:li:fsd_company:563769",
+                        "trackingId": "1yOdPv6CTp+CLNo/UJYv4A=="
+                    },
+                    "companyName": "Partech Ventures"
+                },
+                {
+                    "title": "Gap year",
+                    "description": "Consulting, Israel, working on smth new, moving to NYC, getting into VC by accident",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2011
+                        }
+                    },
+                    "companyName": "Self-employed"
+                },
+                {
+                    "title": "Co-founder & CEO TripHunter",
+                    "description": "Co-founder & CEO of TripHunter, a shopping club for travel. Acquired by brands4friends in 03/2010. brands4friends in turn was acquired by eBay in 12/2010.",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Retail"
+                        ],
+                        "objectUrn": "urn:li:company:772375",
+                        "entityUrn": "urn:li:fs_miniCompany:772375",
+                        "name": "brands4friends - Private Sale GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGjhBkoAXwZnw/company-logo_200_200/company-logo_200_200/0/1631336736617?e=1747872000&v=beta&t=UGDvTUwBA9ALFZESizqYWbl56t_osnsROJsXd7EV_NA",
+                        "universalName": "brands4friends---private-sale-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:772375",
+                        "trackingId": "VgCY3/5cTbWdLR+wA68g9w=="
+                    },
+                    "companyName": "TripHunter / brands4friends"
+                },
+                {
+                    "title": "Global Business Services",
+                    "description": "Worked primarily for clients in the telecommunications and media industry in Europe: CRM, application management services, major outsourcing initiatives",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2005
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1009",
+                        "entityUrn": "urn:li:fs_miniCompany:1009",
+                        "name": "IBM",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                        "universalName": "ibm",
+                        "dashCompanyUrn": "urn:li:fsd_company:1009",
+                        "trackingId": "DtCxqSuxS0W6IrcIcZ6ujA=="
+                    },
+                    "companyName": "IBM"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Honors Degree",
+                    "fieldOfStudy": "Technology Management",
+                    "schoolName": "Center for Digital Technology and Management",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MBA visiting",
+                    "fieldOfStudy": "Business Administration",
+                    "schoolName": "The Hong Kong University of Science and Technology",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Masters Degree (Diplom)",
+                    "fieldOfStudy": "Business Administration",
+                    "schoolName": "Ludwig-Maximilians-Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Partner at Fly Ventures",
+            "student": false,
+            "industryName": "Venture Capital & Private Equity",
+            "industryUrn": "urn:li:fs_industry:106",
+            "geoLocationName": "Berlin Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Partner",
+            "companyName": "Fly Ventures",
+            "companyPublicId": "fly-ventures",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/fly-ventures",
+            "following": false,
+            "followable": true,
+            "followersCount": 8523,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Fly Ventures",
+        "position": "Partner",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Venture Capital & Private Equity"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Partner",
+        "organization": "Fly Ventures",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/gabrielmatuschka/",
+        "company": "https://www.linkedin.com/company/fly-ventures"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Partner",
+            "description": "Fly is a first check VC for technical founders solving hard problems. We invest from day-zero to seed, backing founders from all over Europe.",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:10344800",
+                "entityUrn": "urn:li:fs_miniCompany:10344800",
+                "name": "Fly Ventures",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGNhnoPrtZtEw/company-logo_200_200/company-logo_200_200/0/1662452946950/fly_ventures_logo?e=1747872000&v=beta&t=cYue3xeP9b-qBDH9VXKpeneBgDHRF-YmiXCe4TEHrso",
+                "universalName": "fly-ventures",
+                "dashCompanyUrn": "urn:li:fsd_company:10344800",
+                "trackingId": "zWKsHxvbSnS41ByWGsGIRQ=="
+            },
+            "companyName": "Fly Ventures"
+        },
+        {
+            "title": "Principal",
+            "description": "Opened and headed the Berlin office for Partech Ventures\nPartech is a global venture capital firm with offices in San Francisco, Paris and Berlin",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:563769",
+                "entityUrn": "urn:li:fs_miniCompany:563769",
+                "name": "Partech",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGLgHfqgsihMw/company-logo_200_200/company-logo_200_200/0/1694065644078/partech_logo?e=1747872000&v=beta&t=h5zwSu4BFlP-BuBrwUbLrNo1rMo2fIA1_g003sJ__Yk",
+                "universalName": "partech",
+                "dashCompanyUrn": "urn:li:fsd_company:563769",
+                "trackingId": "1yOdPv6CTp+CLNo/UJYv4A=="
+            },
+            "companyName": "Partech Ventures"
+        },
+        {
+            "title": "Gap year",
+            "description": "Consulting, Israel, working on smth new, moving to NYC, getting into VC by accident",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "companyName": "Self-employed"
+        },
+        {
+            "title": "Co-founder & CEO TripHunter",
+            "description": "Co-founder & CEO of TripHunter, a shopping club for travel. Acquired by brands4friends in 03/2010. brands4friends in turn was acquired by eBay in 12/2010.",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Retail"
+                ],
+                "objectUrn": "urn:li:company:772375",
+                "entityUrn": "urn:li:fs_miniCompany:772375",
+                "name": "brands4friends - Private Sale GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGjhBkoAXwZnw/company-logo_200_200/company-logo_200_200/0/1631336736617?e=1747872000&v=beta&t=UGDvTUwBA9ALFZESizqYWbl56t_osnsROJsXd7EV_NA",
+                "universalName": "brands4friends---private-sale-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:772375",
+                "trackingId": "VgCY3/5cTbWdLR+wA68g9w=="
+            },
+            "companyName": "TripHunter / brands4friends"
+        },
+        {
+            "title": "Global Business Services",
+            "description": "Worked primarily for clients in the telecommunications and media industry in Europe: CRM, application management services, major outsourcing initiatives",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2005
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "DtCxqSuxS0W6IrcIcZ6ujA=="
+            },
+            "companyName": "IBM"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Honors Degree",
+            "fieldOfStudy": "Technology Management",
+            "schoolName": "Center for Digital Technology and Management",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        },
+        {
+            "degreeName": "MBA visiting",
+            "fieldOfStudy": "Business Administration",
+            "schoolName": "The Hong Kong University of Science and Technology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        },
+        {
+            "degreeName": "Masters Degree (Diplom)",
+            "fieldOfStudy": "Business Administration",
+            "schoolName": "Ludwig-Maximilians-Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

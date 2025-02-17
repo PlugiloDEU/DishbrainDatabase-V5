@@ -1,0 +1,334 @@
+{
+    "id": "exp206776817",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Anna",
+        "lastName": "Schmidt",
+        "fullName": "Anna Schmidt",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQF9-jk-4MIZ0A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1615828761512?e=1745452800&v=beta&t=ufqzBFAGBcSry05X7NRbJUZz07SDuCzNECJxfdGj1sQ",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "206776817",
+            "profileId": "ACoAAAxTKfEBxvteLWByPDkcKf3MoHS_YmE8GBw",
+            "firstName": "Anna",
+            "lastName": "Schmidt",
+            "occupation": "Postdoctoral research scholar at Palmer College of Chiropractic",
+            "publicIdentifier": "anna-schmidt-6152ba59",
+            "trackingId": "ApY34BhqQqSVFyIDeDcHmg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF9-jk-4MIZ0A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1615828761512?e=1745452800&v=beta&t=ufqzBFAGBcSry05X7NRbJUZz07SDuCzNECJxfdGj1sQ",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:100918937",
+            "positions": [
+                {
+                    "title": "Post-doctoral research scholar",
+                    "locationName": "Davenport, Iowa",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:37926",
+                        "entityUrn": "urn:li:fs_miniCompany:37926",
+                        "name": "Palmer College of Chiropractic",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHUsJcwUlotCw/company-logo_200_200/company-logo_200_200/0/1630606223044/palmer_college_of_chiropractic_logo?e=1747872000&v=beta&t=9fCZ-Hb2PdBQ3Q86o7RT2jbVbSaJQEwzAeVrSKyqyPI",
+                        "universalName": "palmer-college-of-chiropractic",
+                        "dashCompanyUrn": "urn:li:fsd_company:37926",
+                        "trackingId": "lOwR/pJIRfqtLWanfeke4g=="
+                    },
+                    "companyName": "Palmer College of Chiropractic"
+                },
+                {
+                    "title": "Graduate Teaching Assistant-Music Academy/Studio",
+                    "description": "While a GTA at the University of Missouri-Kansas City I taught private piano lessons through the music academy. I was also the accompanist for the musical bridges program. ",
+                    "locationName": "Kansas City, Missouri",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:9146",
+                        "entityUrn": "urn:li:fs_miniCompany:9146",
+                        "name": "University of Missouri-Kansas City",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0Ws8yXJow-Q/company-logo_200_200/company-logo_200_200/0/1650469004095/umkc_logo?e=1747872000&v=beta&t=M0duWMH8Oo-dD4-b1E0GJn19F700mP1cIALYix5elIE",
+                        "universalName": "umkc",
+                        "dashCompanyUrn": "urn:li:fsd_company:9146",
+                        "trackingId": "1nNbB0KnSX2swenMjV6q7w=="
+                    },
+                    "companyName": "UMKC"
+                },
+                {
+                    "title": "Piano Instructor",
+                    "description": "While at Central Michigan University's Community Music School I taught students within the age range of five years old through adult.",
+                    "locationName": "Mount Pleasant, Michigan",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2011
+                        }
+                    },
+                    "companyName": "Central Michigan University Community Music School"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Chiropractic-Research Track",
+                    "schoolName": "Life University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Music",
+                    "fieldOfStudy": "Piano Performance",
+                    "schoolName": "University of Missouri Kansas-City",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Music",
+                    "fieldOfStudy": "Piano Performance",
+                    "schoolName": "Central Michigan University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Microsoft Office",
+                "Music",
+                "Social Media",
+                "Singing"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Postdoctoral research scholar at Palmer College of Chiropractic",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Davenport, Iowa",
+            "geoCountryName": "United States",
+            "jobTitle": "Post-doctoral research scholar",
+            "companyName": "Palmer College of Chiropractic",
+            "companyPublicId": "palmer-college-of-chiropractic",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/palmer-college-of-chiropractic",
+            "following": false,
+            "followable": true,
+            "followersCount": 84,
+            "connectionsCount": 84,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Palmer College of Chiropractic",
+        "position": "Post-doctoral research scholar",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Post-doctoral research scholar",
+        "organization": "Palmer College of Chiropractic",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/anna-schmidt-6152ba59/",
+        "company": "https://www.linkedin.com/company/palmer-college-of-chiropractic"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Post-doctoral research scholar",
+            "locationName": "Davenport, Iowa",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:37926",
+                "entityUrn": "urn:li:fs_miniCompany:37926",
+                "name": "Palmer College of Chiropractic",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHUsJcwUlotCw/company-logo_200_200/company-logo_200_200/0/1630606223044/palmer_college_of_chiropractic_logo?e=1747872000&v=beta&t=9fCZ-Hb2PdBQ3Q86o7RT2jbVbSaJQEwzAeVrSKyqyPI",
+                "universalName": "palmer-college-of-chiropractic",
+                "dashCompanyUrn": "urn:li:fsd_company:37926",
+                "trackingId": "lOwR/pJIRfqtLWanfeke4g=="
+            },
+            "companyName": "Palmer College of Chiropractic"
+        },
+        {
+            "title": "Graduate Teaching Assistant-Music Academy/Studio",
+            "description": "While a GTA at the University of Missouri-Kansas City I taught private piano lessons through the music academy. I was also the accompanist for the musical bridges program. ",
+            "locationName": "Kansas City, Missouri",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:9146",
+                "entityUrn": "urn:li:fs_miniCompany:9146",
+                "name": "University of Missouri-Kansas City",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0Ws8yXJow-Q/company-logo_200_200/company-logo_200_200/0/1650469004095/umkc_logo?e=1747872000&v=beta&t=M0duWMH8Oo-dD4-b1E0GJn19F700mP1cIALYix5elIE",
+                "universalName": "umkc",
+                "dashCompanyUrn": "urn:li:fsd_company:9146",
+                "trackingId": "1nNbB0KnSX2swenMjV6q7w=="
+            },
+            "companyName": "UMKC"
+        },
+        {
+            "title": "Piano Instructor",
+            "description": "While at Central Michigan University's Community Music School I taught students within the age range of five years old through adult.",
+            "locationName": "Mount Pleasant, Michigan",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2011
+                }
+            },
+            "companyName": "Central Michigan University Community Music School"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Chiropractic-Research Track",
+            "schoolName": "Life University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Music",
+            "fieldOfStudy": "Piano Performance",
+            "schoolName": "University of Missouri Kansas-City",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Music",
+            "fieldOfStudy": "Piano Performance",
+            "schoolName": "Central Michigan University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Microsoft Office",
+        "Music",
+        "Social Media",
+        "Singing"
+    ],
+    "lastEnriched": "2025-02-17"
+}

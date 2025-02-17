@@ -1,0 +1,413 @@
+{
+    "id": "exp353090258",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Martin",
+        "lastName": "Agethen, LL.M.",
+        "fullName": "Martin Agethen, LL.M.",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQEM23Sd1FL1RA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1564168907496?e=1745452800&v=beta&t=9hW6QVrbZnM5kMtDU1y2oKYIhtVI3T_SPPrUbmEPElU",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Englisch"
+        ],
+        "allData": {
+            "id": "353090258",
+            "profileId": "ACoAABULutIBwqFYh_fDgQj_w8iXG4aysLG7WWM",
+            "firstName": "Martin",
+            "lastName": "Agethen, LL.M.",
+            "occupation": "🚀 Rechtsanwalt (Syndikus) | Data Privacy & Security | DPO | Intellectual Property | Legal Consultant | Digital Transformation Enthusiast",
+            "publicIdentifier": "martin-agethen-ll-m-7822ba9a",
+            "trackingId": "CnAiQlIjRy6W5My5Fd7TRw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEM23Sd1FL1RA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1564168907496?e=1745452800&v=beta&t=9hW6QVrbZnM5kMtDU1y2oKYIhtVI3T_SPPrUbmEPElU",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105890944",
+            "positions": [
+                {
+                    "title": "Rechtsanwalt (Syndikusrechtsanwalt)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:1593",
+                        "entityUrn": "urn:li:fs_miniCompany:1593",
+                        "name": "Deutsche Telekom",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEWmXes9VVQNA/company-logo_200_200/company-logo_200_200/0/1722505420199/telekom_logo?e=1747872000&v=beta&t=jecCJ4CZjfLpEjvLj9VcZfM9j5phZHCVkizKqcfZmS0",
+                        "universalName": "telekom",
+                        "dashCompanyUrn": "urn:li:fsd_company:1593",
+                        "trackingId": "kvXJOuoSSdGwHzEAEM76/A=="
+                    },
+                    "companyName": "Deutsche Telekom"
+                },
+                {
+                    "title": "Data Protection Officer",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:104208427",
+                        "entityUrn": "urn:li:fs_miniCompany:104208427",
+                        "name": "Deutsche Telekom Services Europe SE",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEdi8oRlIszRw/company-logo_200_200/company-logo_200_200/0/1722256705998/deutsche_telekom_services_europe_se_logo?e=1747872000&v=beta&t=R4ZWdoyy0wV0KS_BwXgsT1mv2eztV2UaMo-pMO0kYgY",
+                        "universalName": "deutsche-telekom-services-europe-se",
+                        "dashCompanyUrn": "urn:li:fsd_company:104208427",
+                        "trackingId": "aOAB4KuITUuh5XPAEJQs/Q=="
+                    },
+                    "companyName": "Deutsche Telekom Services Europe SE"
+                },
+                {
+                    "title": "Data Protection Manager",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:1593",
+                        "entityUrn": "urn:li:fs_miniCompany:1593",
+                        "name": "Deutsche Telekom",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEWmXes9VVQNA/company-logo_200_200/company-logo_200_200/0/1722505420199/telekom_logo?e=1747872000&v=beta&t=jecCJ4CZjfLpEjvLj9VcZfM9j5phZHCVkizKqcfZmS0",
+                        "universalName": "telekom",
+                        "dashCompanyUrn": "urn:li:fsd_company:1593",
+                        "trackingId": "hT0XxIS7SjmPNc0V+OeKmQ=="
+                    },
+                    "companyName": "Deutsche Telekom"
+                },
+                {
+                    "title": "Data Protection Expert ",
+                    "description": "Data privacy and data security cunsultant ",
+                    "locationName": "Köln und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:1593",
+                        "entityUrn": "urn:li:fs_miniCompany:1593",
+                        "name": "Deutsche Telekom",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEWmXes9VVQNA/company-logo_200_200/company-logo_200_200/0/1722505420199/telekom_logo?e=1747872000&v=beta&t=jecCJ4CZjfLpEjvLj9VcZfM9j5phZHCVkizKqcfZmS0",
+                        "universalName": "telekom",
+                        "dashCompanyUrn": "urn:li:fsd_company:1593",
+                        "trackingId": "XqtC2FmTQOuxIEV6tA279g=="
+                    },
+                    "companyName": "Deutsche Telekom"
+                },
+                {
+                    "title": "Rechtsanwalt",
+                    "description": "Rechtsanwalt und externer Datenschutzbeauftragter",
+                    "locationName": "Bonn",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2015
+                        }
+                    },
+                    "companyName": "Scheja & Partner Rechtsanwälte"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Laws (LL.M.)",
+                    "fieldOfStudy": "Intellectual PropertyLaw",
+                    "schoolName": "Stellenbosch University/Universiteit Stellenbosch",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                },
+                {
+                    "degreeName": "zweites juristisches Staatsexamen",
+                    "fieldOfStudy": "Rechtswissenschaften",
+                    "schoolName": "Universität zu Köln",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Englisch"
+                }
+            ],
+            "skills": [
+                "Legal Compliance",
+                "KI für Unternehmen",
+                "Information Security Governance",
+                "Datenschutz"
+            ],
+            "volunteerExperiences": [],
+            "headline": "🚀 Rechtsanwalt (Syndikus) | Data Privacy & Security | DPO | Intellectual Property | Legal Consultant | Digital Transformation Enthusiast",
+            "summary": "💼 Bridging Law, Data Privacy & Digital Transformation\n\nAs a Lawyer and Legal Consultant, I specialize in navigating complex data privacy and security challenges in the digital age. With over 10 years of experience in legal consulting, corporate compliance, and data security, I have developed a strong expertise in regulatory frameworks such as GDPR and international data protection laws.\n\n🔹 Key Expertise:\n✅ Data Privacy & Security (GDPR, ePrivacy, ISO 27001)\n✅ Corporate Legal Advisory & Compliance\n✅ Digital Transformation & Risk Management\n✅ AI, Data Governance & Emerging Technologies\n\n📩 Open for networking and discussions in LegalTech, Data Privacy, and Digital Transformation.",
+            "student": false,
+            "industryName": "Telecommunications",
+            "industryUrn": "urn:li:fs_industry:8",
+            "geoLocationName": "Cologne, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Rechtsanwalt (Syndikusrechtsanwalt)",
+            "companyName": "Deutsche Telekom",
+            "companyPublicId": "telekom",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/telekom",
+            "following": false,
+            "followable": true,
+            "followersCount": 267,
+            "connectionsCount": 265,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Deutsche Telekom",
+        "position": "Rechtsanwalt (Syndikusrechtsanwalt)",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Telecommunications"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Rechtsanwalt (Syndikusrechtsanwalt)",
+        "organization": "Deutsche Telekom",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/martin-agethen-ll-m-7822ba9a/",
+        "company": "https://www.linkedin.com/company/telekom"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Rechtsanwalt (Syndikusrechtsanwalt)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:1593",
+                "entityUrn": "urn:li:fs_miniCompany:1593",
+                "name": "Deutsche Telekom",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEWmXes9VVQNA/company-logo_200_200/company-logo_200_200/0/1722505420199/telekom_logo?e=1747872000&v=beta&t=jecCJ4CZjfLpEjvLj9VcZfM9j5phZHCVkizKqcfZmS0",
+                "universalName": "telekom",
+                "dashCompanyUrn": "urn:li:fsd_company:1593",
+                "trackingId": "kvXJOuoSSdGwHzEAEM76/A=="
+            },
+            "companyName": "Deutsche Telekom"
+        },
+        {
+            "title": "Data Protection Officer",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:104208427",
+                "entityUrn": "urn:li:fs_miniCompany:104208427",
+                "name": "Deutsche Telekom Services Europe SE",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEdi8oRlIszRw/company-logo_200_200/company-logo_200_200/0/1722256705998/deutsche_telekom_services_europe_se_logo?e=1747872000&v=beta&t=R4ZWdoyy0wV0KS_BwXgsT1mv2eztV2UaMo-pMO0kYgY",
+                "universalName": "deutsche-telekom-services-europe-se",
+                "dashCompanyUrn": "urn:li:fsd_company:104208427",
+                "trackingId": "aOAB4KuITUuh5XPAEJQs/Q=="
+            },
+            "companyName": "Deutsche Telekom Services Europe SE"
+        },
+        {
+            "title": "Data Protection Manager",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:1593",
+                "entityUrn": "urn:li:fs_miniCompany:1593",
+                "name": "Deutsche Telekom",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEWmXes9VVQNA/company-logo_200_200/company-logo_200_200/0/1722505420199/telekom_logo?e=1747872000&v=beta&t=jecCJ4CZjfLpEjvLj9VcZfM9j5phZHCVkizKqcfZmS0",
+                "universalName": "telekom",
+                "dashCompanyUrn": "urn:li:fsd_company:1593",
+                "trackingId": "hT0XxIS7SjmPNc0V+OeKmQ=="
+            },
+            "companyName": "Deutsche Telekom"
+        },
+        {
+            "title": "Data Protection Expert ",
+            "description": "Data privacy and data security cunsultant ",
+            "locationName": "Köln und Umgebung, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:1593",
+                "entityUrn": "urn:li:fs_miniCompany:1593",
+                "name": "Deutsche Telekom",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEWmXes9VVQNA/company-logo_200_200/company-logo_200_200/0/1722505420199/telekom_logo?e=1747872000&v=beta&t=jecCJ4CZjfLpEjvLj9VcZfM9j5phZHCVkizKqcfZmS0",
+                "universalName": "telekom",
+                "dashCompanyUrn": "urn:li:fsd_company:1593",
+                "trackingId": "XqtC2FmTQOuxIEV6tA279g=="
+            },
+            "companyName": "Deutsche Telekom"
+        },
+        {
+            "title": "Rechtsanwalt",
+            "description": "Rechtsanwalt und externer Datenschutzbeauftragter",
+            "locationName": "Bonn",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "companyName": "Scheja & Partner Rechtsanwälte"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Laws (LL.M.)",
+            "fieldOfStudy": "Intellectual PropertyLaw",
+            "schoolName": "Stellenbosch University/Universiteit Stellenbosch",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        },
+        {
+            "degreeName": "zweites juristisches Staatsexamen",
+            "fieldOfStudy": "Rechtswissenschaften",
+            "schoolName": "Universität zu Köln",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Legal Compliance",
+        "KI für Unternehmen",
+        "Information Security Governance",
+        "Datenschutz"
+    ],
+    "lastEnriched": "2025-02-17"
+}

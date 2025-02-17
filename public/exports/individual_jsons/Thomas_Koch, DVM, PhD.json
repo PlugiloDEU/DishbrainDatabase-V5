@@ -1,0 +1,419 @@
+{
+    "id": "exp17929400",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Thomas",
+        "lastName": "Koch, DVM, PhD",
+        "fullName": "Thomas Koch, DVM, PhD",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "17929400",
+            "profileId": "ACoAAAERlLgBLm16JzsejMt5aG44IH5HKi_Nsr8",
+            "firstName": "Thomas",
+            "lastName": "Koch, DVM, PhD",
+            "occupation": "Founder, Chief Executive Officer & Chief Scientific Officer at eQcell Inc.",
+            "publicIdentifier": "thomas-koch-dvm-phd-9880076",
+            "trackingId": "NRyQA08eREKx7zdntaoIrQ==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQE4G3IqL95I6A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517664844410?e=1745452800&v=beta&t=OohxcXre5qBulpaX5Ewj2Zdf5XGEJdbahG726JcvFu8",
+            "countryCode": "ca",
+            "geoUrn": "urn:li:fs_geo:101228627",
+            "positions": [
+                {
+                    "title": "Full Professor",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:166640",
+                        "entityUrn": "urn:li:fs_miniCompany:166640",
+                        "name": "University of Guelph",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGlCnbiLNr8YQ/company-logo_200_200/company-logo_200_200/0/1656971795144/university_of_guelph_logo?e=1747872000&v=beta&t=dSnqb_SVkkAWGdSibQq2UnmOJFbz6x8WhKsEzN4ZYzI",
+                        "universalName": "university-of-guelph",
+                        "dashCompanyUrn": "urn:li:fsd_company:166640",
+                        "trackingId": "3hrL04XgQw6Tj73p5r3bLw=="
+                    },
+                    "companyName": "University of Guelph"
+                },
+                {
+                    "title": "Founder, Chief Executive Officer & Chief Scientific Officer",
+                    "locationName": "Guelph, Ontario, Canada",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:72282096",
+                        "entityUrn": "urn:li:fs_miniCompany:72282096",
+                        "name": "eQcell Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGcjv5FXXcb1g/company-logo_200_200/company-logo_200_200/0/1630663517997/eqcell_inc_logo?e=1747872000&v=beta&t=CPHlKg6j0x5dwKx_oEWEUjSTHs_oO4K8B91a9zZSHX8",
+                        "universalName": "eqcell-inc",
+                        "dashCompanyUrn": "urn:li:fsd_company:72282096",
+                        "trackingId": "lKfoECluSserOB3BhlqrnQ=="
+                    },
+                    "companyName": "eQcell Inc."
+                },
+                {
+                    "title": "Associate Professor",
+                    "locationName": "Guelph, Ontario, Canada",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:166640",
+                        "entityUrn": "urn:li:fs_miniCompany:166640",
+                        "name": "University of Guelph",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGlCnbiLNr8YQ/company-logo_200_200/company-logo_200_200/0/1656971795144/university_of_guelph_logo?e=1747872000&v=beta&t=dSnqb_SVkkAWGdSibQq2UnmOJFbz6x8WhKsEzN4ZYzI",
+                        "universalName": "university-of-guelph",
+                        "dashCompanyUrn": "urn:li:fsd_company:166640",
+                        "trackingId": "bBfJY/lVTpqjR6OWgdbTbg=="
+                    },
+                    "companyName": "University of Guelph"
+                },
+                {
+                    "title": "Associate Veterinarian",
+                    "description": "Elective and emergency primary care of horses including breeding and performance horses. ",
+                    "locationName": "Thy, Denmark",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2002
+                        }
+                    },
+                    "companyName": "Gunnar Yde Hestepraksis (Mobile Equine Veterinary Practice), Denmark"
+                },
+                {
+                    "title": "Associate Veterinarian",
+                    "description": "Elective and emergency primary care of dogs, cats, exotic animals, horses, cattle and pigs",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2000
+                        }
+                    },
+                    "companyName": "Mixed Veterinary Practice"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Equine Stem Cells",
+                    "schoolName": "University of Guelph",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Certificate",
+                    "fieldOfStudy": "Residency Program in Large Animal Internal Medicine",
+                    "schoolName": "Ontario Veterinary College",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Certificate",
+                    "fieldOfStudy": "Rotational Internship in Large Animal Internal Medicine and Surgery",
+                    "schoolName": "Ontario Veterinary College",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2002
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Medicine",
+                "Teaching",
+                "Research",
+                "Business Insights"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder, Chief Executive Officer & Chief Scientific Officer at eQcell Inc.",
+            "summary": "Dr. Koch is a Full Professor in the Department of Biomedical Sciences, Ontario Veterinary College, University of Guelph, Canada. He received his Veterinary degree from the Royal Veterinary and Agricultural University, Copenhagen, Denmark. Dr. Koch’s current research focus is on stem cell and tissue engineering-based therapies with joint cartilage repair being the main area of investigation. Studies on equine and canine stem cells, joint cartilage and synovial joint health are pursued in parallel. Within this applied research approach basic mechanistic insights of joint homeostasis and the chondrogenic cell fate is sought including studies in the area of cell mechanobiology. Emerging research areas of interest include tendon and ligament repair and the regulatory roles of microRNA. Novel therapies applied in horses and dogs with natural spontaneous disease serve as important translational pre-clinical animal models of similar human diseases.\n\nHis work has resulted in one spin-off company, eQcell Inc, which is developing stem cell services for horses and dogs. He serves as Chief Executive Officer and Chief Scientific Officer.\n\nSupplemental to his research program he participates as a senior clinician in the out-of-hours emergency service at the Veterinary Teaching Hospital at the Ontario Veterinary College for the  Large Animal Internal Medicine Section. ",
+            "student": false,
+            "industryName": "Biotechnology",
+            "industryUrn": "urn:li:fs_industry:12",
+            "geoLocationName": "Guelph, Ontario",
+            "geoCountryName": "Canada",
+            "jobTitle": "Full Professor",
+            "companyName": "University of Guelph",
+            "companyPublicId": "university-of-guelph",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/university-of-guelph",
+            "following": false,
+            "followable": true,
+            "followersCount": 564,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "University of Guelph",
+        "position": "Full Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Full Professor",
+        "organization": "University of Guelph",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/thomas-koch-dvm-phd-9880076/",
+        "company": "https://www.linkedin.com/company/university-of-guelph"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Full Professor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:166640",
+                "entityUrn": "urn:li:fs_miniCompany:166640",
+                "name": "University of Guelph",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGlCnbiLNr8YQ/company-logo_200_200/company-logo_200_200/0/1656971795144/university_of_guelph_logo?e=1747872000&v=beta&t=dSnqb_SVkkAWGdSibQq2UnmOJFbz6x8WhKsEzN4ZYzI",
+                "universalName": "university-of-guelph",
+                "dashCompanyUrn": "urn:li:fsd_company:166640",
+                "trackingId": "3hrL04XgQw6Tj73p5r3bLw=="
+            },
+            "companyName": "University of Guelph"
+        },
+        {
+            "title": "Founder, Chief Executive Officer & Chief Scientific Officer",
+            "locationName": "Guelph, Ontario, Canada",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:72282096",
+                "entityUrn": "urn:li:fs_miniCompany:72282096",
+                "name": "eQcell Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGcjv5FXXcb1g/company-logo_200_200/company-logo_200_200/0/1630663517997/eqcell_inc_logo?e=1747872000&v=beta&t=CPHlKg6j0x5dwKx_oEWEUjSTHs_oO4K8B91a9zZSHX8",
+                "universalName": "eqcell-inc",
+                "dashCompanyUrn": "urn:li:fsd_company:72282096",
+                "trackingId": "lKfoECluSserOB3BhlqrnQ=="
+            },
+            "companyName": "eQcell Inc."
+        },
+        {
+            "title": "Associate Professor",
+            "locationName": "Guelph, Ontario, Canada",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:166640",
+                "entityUrn": "urn:li:fs_miniCompany:166640",
+                "name": "University of Guelph",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGlCnbiLNr8YQ/company-logo_200_200/company-logo_200_200/0/1656971795144/university_of_guelph_logo?e=1747872000&v=beta&t=dSnqb_SVkkAWGdSibQq2UnmOJFbz6x8WhKsEzN4ZYzI",
+                "universalName": "university-of-guelph",
+                "dashCompanyUrn": "urn:li:fsd_company:166640",
+                "trackingId": "bBfJY/lVTpqjR6OWgdbTbg=="
+            },
+            "companyName": "University of Guelph"
+        },
+        {
+            "title": "Associate Veterinarian",
+            "description": "Elective and emergency primary care of horses including breeding and performance horses. ",
+            "locationName": "Thy, Denmark",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2003
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2002
+                }
+            },
+            "companyName": "Gunnar Yde Hestepraksis (Mobile Equine Veterinary Practice), Denmark"
+        },
+        {
+            "title": "Associate Veterinarian",
+            "description": "Elective and emergency primary care of dogs, cats, exotic animals, horses, cattle and pigs",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2001
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2000
+                }
+            },
+            "companyName": "Mixed Veterinary Practice"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Equine Stem Cells",
+            "schoolName": "University of Guelph",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        },
+        {
+            "degreeName": "Certificate",
+            "fieldOfStudy": "Residency Program in Large Animal Internal Medicine",
+            "schoolName": "Ontario Veterinary College",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        },
+        {
+            "degreeName": "Certificate",
+            "fieldOfStudy": "Rotational Internship in Large Animal Internal Medicine and Surgery",
+            "schoolName": "Ontario Veterinary College",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Medicine",
+        "Teaching",
+        "Research",
+        "Business Insights"
+    ],
+    "lastEnriched": "2025-02-17"
+}

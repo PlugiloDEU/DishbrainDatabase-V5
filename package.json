@@ -12,7 +12,9 @@
     "lint": "next lint",
     "clean": "rm -rf .next",
     "dev:clean": "npm run clean && npm run dev",
-    "generate-experts": "node src/scripts/generateExperts.js"
+    "generate-experts": "node src/scripts/generateExperts.js",
+    "enrich-experts": "node src/scripts/enrichExperts.js",
+    "batch-enrich": "node src/scripts/batchEnrichExperts.js"
   },
   "dependencies": {
     "@google/generative-ai": "^0.21.0",
@@ -42,6 +44,7 @@
   "devDependencies": {
     "autoprefixer": "^10.0.1",
     "cross-env": "^7.0.3",
+    "openapi-typescript": "^7.6.1",
     "postcss": "^8",
     "tailwindcss": "^3.3.0"
   },

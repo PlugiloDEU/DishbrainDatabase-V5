@@ -1,0 +1,303 @@
+{
+    "id": "exp709305288",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Markus",
+        "lastName": "Lienkamp",
+        "fullName": "Markus Lienkamp",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFvswOAGPcBhA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1666605854232?e=1745452800&v=beta&t=meyDlD0IrnL67JMhygkcU18emse0zglhMz-jfBYtNuI",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "709305288",
+            "profileId": "ACoAACpHI8gBMgsjOOG9DRGoU93yWhd7FXl5yBk",
+            "firstName": "Markus",
+            "lastName": "Lienkamp",
+            "occupation": "Professor an der TU München | Elektrofahrzeuge, Autonomes Fahren",
+            "publicIdentifier": "markus-lienkamp-720665179",
+            "trackingId": "mXjz3tAZR5Gf85TfrYQrkg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFvswOAGPcBhA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1666605854232?e=1745452800&v=beta&t=meyDlD0IrnL67JMhygkcU18emse0zglhMz-jfBYtNuI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009735",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "locationName": "Garching bei München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "+/lesqheSLyWEkcF3448bQ=="
+                    },
+                    "companyName": "TU München"
+                },
+                {
+                    "title": "Manager/Management",
+                    "description": "Research",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:3200",
+                        "entityUrn": "urn:li:fs_miniCompany:3200",
+                        "name": "Volkswagen Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFB1WG81oe_XQ/company-logo_200_200/company-logo_200_200/0/1709205041953/volkswagen_group_logo?e=1747872000&v=beta&t=cJej4U7da7X3mzY8jjLxOauBTLoQld4ZBsCq-3HAc0Y",
+                        "universalName": "volkswagen-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:3200",
+                        "trackingId": "JMg/wdrDR7yxe6r+hDUG2Q=="
+                    },
+                    "companyName": "Volkswagen AG"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doktor (Ph.D.)",
+                    "schoolName": "Technische Universität Darmstadt",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1995
+                        },
+                        "startDate": {
+                            "year": 1992
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom-Ingenieur",
+                    "fieldOfStudy": "Maschinenbau",
+                    "schoolName": "Technische Universität Darmstadt",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1992
+                        },
+                        "startDate": {
+                            "year": 1987
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Engineering - MEng",
+                    "fieldOfStudy": "Mechanical Engineering",
+                    "schoolName": "Cornell University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1991
+                        },
+                        "startDate": {
+                            "year": 1990
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "2022 IEEE Outstanding ITS Application Award",
+                    "description": "On behalf of the Technical University of Munich Autonomous Motorsport Team\nFor contributions to the development and deployment of software for handling a vehicle autonomously at the limits",
+                    "issueDate": {
+                        "month": 12,
+                        "year": 2022
+                    },
+                    "issuer": "IEEE"
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Electric Vehicles",
+                "Autonomous Driving",
+                "Mobility",
+                "Automotive Engineering"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor an der TU München | Elektrofahrzeuge, Autonomes Fahren",
+            "summary": "Wir suchen in unseren Themenfeldern immer wieder Doktoranden.\nBesuchen Sie uns auf unserer Homepage:\n\nhttps://www.ftm.mw.tum.de/startseite/\n",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Greater Munich Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor",
+            "companyName": "TU München",
+            "companyPublicId": "technische-universitat-munchen",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+            "following": false,
+            "followable": true,
+            "followersCount": 5714,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "TU München",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "TU München",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/markus-lienkamp-720665179/",
+        "company": "https://www.linkedin.com/company/technische-universitat-munchen"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "locationName": "Garching bei München, Bayern, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "+/lesqheSLyWEkcF3448bQ=="
+            },
+            "companyName": "TU München"
+        },
+        {
+            "title": "Manager/Management",
+            "description": "Research",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:3200",
+                "entityUrn": "urn:li:fs_miniCompany:3200",
+                "name": "Volkswagen Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFB1WG81oe_XQ/company-logo_200_200/company-logo_200_200/0/1709205041953/volkswagen_group_logo?e=1747872000&v=beta&t=cJej4U7da7X3mzY8jjLxOauBTLoQld4ZBsCq-3HAc0Y",
+                "universalName": "volkswagen-group",
+                "dashCompanyUrn": "urn:li:fsd_company:3200",
+                "trackingId": "JMg/wdrDR7yxe6r+hDUG2Q=="
+            },
+            "companyName": "Volkswagen AG"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doktor (Ph.D.)",
+            "schoolName": "Technische Universität Darmstadt",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1995
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom-Ingenieur",
+            "fieldOfStudy": "Maschinenbau",
+            "schoolName": "Technische Universität Darmstadt",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1992
+                },
+                "startDate": {
+                    "year": 1987
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Engineering - MEng",
+            "fieldOfStudy": "Mechanical Engineering",
+            "schoolName": "Cornell University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1991
+                },
+                "startDate": {
+                    "year": 1990
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Electric Vehicles",
+        "Autonomous Driving",
+        "Mobility",
+        "Automotive Engineering"
+    ],
+    "lastEnriched": "2025-02-17"
+}

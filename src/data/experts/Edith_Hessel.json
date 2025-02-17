@@ -1,0 +1,437 @@
+{
+    "id": "exp4579596",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Edith",
+        "lastName": "Hessel",
+        "fullName": "Edith Hessel",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "4579596",
+            "profileId": "ACoAAABF4QwBAi_uAR5MvPSpQbifwkWWJ4UqAuc",
+            "firstName": "Edith",
+            "lastName": "Hessel",
+            "occupation": "Chief Scientific Officer at Relation Therapeutics",
+            "publicIdentifier": "edith-hessel-29064a1",
+            "trackingId": "4cgjXagARUyA2mLu75bYOg==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQFOGjd9xBtTGQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1673291277145?e=1745452800&v=beta&t=YYM1LimBjnFXe6oK3qcdDOiHeRxdhdrAYY07YVRxsBg",
+            "countryCode": "oo",
+            "positions": [
+                {
+                    "title": "Chief Scientific Officer",
+                    "locationName": "London, England, United Kingdom",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:54153591",
+                        "entityUrn": "urn:li:fs_miniCompany:54153591",
+                        "name": "Relation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG-cYd8jABpzQ/company-logo_200_200/company-logo_200_200/0/1710198376497?e=1747872000&v=beta&t=JMUzFt7TEzrizctW1CFzhf4d7tYIDKGVZBTJ82cnh-s",
+                        "universalName": "relation-therapeutics",
+                        "dashCompanyUrn": "urn:li:fsd_company:54153591",
+                        "trackingId": "lRSQrRsKRSK5Jg6IKMjIow=="
+                    },
+                    "companyName": "Relation Therapeutics"
+                },
+                {
+                    "title": "Chief Scientific Officer",
+                    "locationName": "Paris, Île-de-France, France",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:4847873",
+                        "entityUrn": "urn:li:fs_miniCompany:4847873",
+                        "name": "Eligo Bioscience",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH6Zo0Gr58XIA/company-logo_200_200/company-logo_200_200/0/1631364620546?e=1747872000&v=beta&t=MxHLJeR95hm5i_dfTbxYH8lLU7lRKcqNb5iQ8ynvGdQ",
+                        "universalName": "eligo-bioscience",
+                        "dashCompanyUrn": "urn:li:fsd_company:4847873",
+                        "trackingId": "1cnQbpYdTR6TvXFc2N9yuw=="
+                    },
+                    "companyName": "Eligo Bioscience"
+                },
+                {
+                    "title": "Chief Scientific Officer",
+                    "locationName": "London, England, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:64964100",
+                        "entityUrn": "urn:li:fs_miniCompany:64964100",
+                        "name": "Mestag Therapeutics",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHXzojkoVO4Qw/company-logo_200_200/company-logo_200_200/0/1729907362816/mestag_therapeutics_logo?e=1747872000&v=beta&t=JaIHSEU_QPXHUhhmWXuR-cDAyNSpILXMogKhdFk60NU",
+                        "universalName": "mestag-therapeutics",
+                        "dashCompanyUrn": "urn:li:fsd_company:64964100",
+                        "trackingId": "d+zMaXsbSh+/0v2EMNfPuA=="
+                    },
+                    "companyName": "Mestag Therapeutics"
+                },
+                {
+                    "title": "VP, Sr GSK Fellow and Medicine Development Leader",
+                    "locationName": "Stevenage, England, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Pharmaceuticals"
+                        ],
+                        "objectUrn": "urn:li:company:1399",
+                        "entityUrn": "urn:li:fs_miniCompany:1399",
+                        "name": "GSK",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE52m4AbEhxCw/company-logo_200_200/company-logo_200_200/0/1663675238924/glaxosmithkline_logo?e=1747872000&v=beta&t=hRLT9VMwr8FcUJYcBVsnk9V3532_jHEbHcP4Paj8GHk",
+                        "universalName": "gsk",
+                        "dashCompanyUrn": "urn:li:fsd_company:1399",
+                        "trackingId": "iLhKkqWET4mOAWAcyge7Tg=="
+                    },
+                    "companyName": "GSK"
+                },
+                {
+                    "title": "VP and Head of the Refractory Respiratory Inflammation Discovery Performance Unit",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Pharmaceuticals"
+                        ],
+                        "objectUrn": "urn:li:company:1399",
+                        "entityUrn": "urn:li:fs_miniCompany:1399",
+                        "name": "GSK",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE52m4AbEhxCw/company-logo_200_200/company-logo_200_200/0/1663675238924/glaxosmithkline_logo?e=1747872000&v=beta&t=hRLT9VMwr8FcUJYcBVsnk9V3532_jHEbHcP4Paj8GHk",
+                        "universalName": "gsk",
+                        "dashCompanyUrn": "urn:li:fsd_company:1399",
+                        "trackingId": "2ZP0Rb8/RB+dF4kczkQ8bw=="
+                    },
+                    "companyName": "GlaxoSmithKline"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy (PhD)",
+                    "schoolName": "Universiteit Utrecht",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "year": 1990
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Biomarkers",
+                "Biopharmaceuticals",
+                "Asthma",
+                "Biomarker Discovery"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Chief Scientific Officer at Relation Therapeutics",
+            "student": false,
+            "industryName": "Biotechnology",
+            "industryUrn": "urn:li:fs_industry:12",
+            "jobTitle": "Chief Scientific Officer",
+            "companyName": "Relation Therapeutics",
+            "companyPublicId": "relation-therapeutics",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/relation-therapeutics",
+            "following": false,
+            "followable": true,
+            "followersCount": 1875,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Relation Therapeutics",
+        "position": "Chief Scientific Officer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Biotechnology"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chief Scientific Officer",
+        "organization": "Relation Therapeutics",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/edith-hessel-29064a1/",
+        "company": "https://www.linkedin.com/company/relation-therapeutics"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chief Scientific Officer",
+            "locationName": "London, England, United Kingdom",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:54153591",
+                "entityUrn": "urn:li:fs_miniCompany:54153591",
+                "name": "Relation",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQG-cYd8jABpzQ/company-logo_200_200/company-logo_200_200/0/1710198376497?e=1747872000&v=beta&t=JMUzFt7TEzrizctW1CFzhf4d7tYIDKGVZBTJ82cnh-s",
+                "universalName": "relation-therapeutics",
+                "dashCompanyUrn": "urn:li:fsd_company:54153591",
+                "trackingId": "lRSQrRsKRSK5Jg6IKMjIow=="
+            },
+            "companyName": "Relation Therapeutics"
+        },
+        {
+            "title": "Chief Scientific Officer",
+            "locationName": "Paris, Île-de-France, France",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:4847873",
+                "entityUrn": "urn:li:fs_miniCompany:4847873",
+                "name": "Eligo Bioscience",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH6Zo0Gr58XIA/company-logo_200_200/company-logo_200_200/0/1631364620546?e=1747872000&v=beta&t=MxHLJeR95hm5i_dfTbxYH8lLU7lRKcqNb5iQ8ynvGdQ",
+                "universalName": "eligo-bioscience",
+                "dashCompanyUrn": "urn:li:fsd_company:4847873",
+                "trackingId": "1cnQbpYdTR6TvXFc2N9yuw=="
+            },
+            "companyName": "Eligo Bioscience"
+        },
+        {
+            "title": "Chief Scientific Officer",
+            "locationName": "London, England, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:64964100",
+                "entityUrn": "urn:li:fs_miniCompany:64964100",
+                "name": "Mestag Therapeutics",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHXzojkoVO4Qw/company-logo_200_200/company-logo_200_200/0/1729907362816/mestag_therapeutics_logo?e=1747872000&v=beta&t=JaIHSEU_QPXHUhhmWXuR-cDAyNSpILXMogKhdFk60NU",
+                "universalName": "mestag-therapeutics",
+                "dashCompanyUrn": "urn:li:fsd_company:64964100",
+                "trackingId": "d+zMaXsbSh+/0v2EMNfPuA=="
+            },
+            "companyName": "Mestag Therapeutics"
+        },
+        {
+            "title": "VP, Sr GSK Fellow and Medicine Development Leader",
+            "locationName": "Stevenage, England, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ],
+                "objectUrn": "urn:li:company:1399",
+                "entityUrn": "urn:li:fs_miniCompany:1399",
+                "name": "GSK",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE52m4AbEhxCw/company-logo_200_200/company-logo_200_200/0/1663675238924/glaxosmithkline_logo?e=1747872000&v=beta&t=hRLT9VMwr8FcUJYcBVsnk9V3532_jHEbHcP4Paj8GHk",
+                "universalName": "gsk",
+                "dashCompanyUrn": "urn:li:fsd_company:1399",
+                "trackingId": "iLhKkqWET4mOAWAcyge7Tg=="
+            },
+            "companyName": "GSK"
+        },
+        {
+            "title": "VP and Head of the Refractory Respiratory Inflammation Discovery Performance Unit",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ],
+                "objectUrn": "urn:li:company:1399",
+                "entityUrn": "urn:li:fs_miniCompany:1399",
+                "name": "GSK",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE52m4AbEhxCw/company-logo_200_200/company-logo_200_200/0/1663675238924/glaxosmithkline_logo?e=1747872000&v=beta&t=hRLT9VMwr8FcUJYcBVsnk9V3532_jHEbHcP4Paj8GHk",
+                "universalName": "gsk",
+                "dashCompanyUrn": "urn:li:fsd_company:1399",
+                "trackingId": "2ZP0Rb8/RB+dF4kczkQ8bw=="
+            },
+            "companyName": "GlaxoSmithKline"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy (PhD)",
+            "schoolName": "Universiteit Utrecht",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1990
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Biomarkers",
+        "Biopharmaceuticals",
+        "Asthma",
+        "Biomarker Discovery"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,579 @@
+{
+    "id": "exp434981975",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alex",
+        "lastName": "Balazs",
+        "fullName": "Alex Balazs",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQHU4RX5tEAn1Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1555611636786?e=1745452800&v=beta&t=6G4kCJJqkAvszfdg_lBz4la5RSzI6LlIpET0U6bvgIY",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English"
+        ],
+        "allData": {
+            "id": "434981975",
+            "profileId": "ACoAABntTFcBs7R7DKAeXvKaz4izGcDWf1CcBO4",
+            "firstName": "Alex",
+            "lastName": "Balazs",
+            "occupation": "Senior Director, Finance and BI",
+            "publicIdentifier": "alex-balazs",
+            "trackingId": "xMu7lgz6R2CLkVg7O3J+bg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHU4RX5tEAn1Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1555611636786?e=1745452800&v=beta&t=6G4kCJJqkAvszfdg_lBz4la5RSzI6LlIpET0U6bvgIY",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103736294",
+            "positions": [
+                {
+                    "title": "Senior Director, Finance and BI",
+                    "locationName": "Denver, Colorado, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:618787",
+                        "entityUrn": "urn:li:fs_miniCompany:618787",
+                        "name": "StarRez, Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPwfnGZJe-4g/company-logo_200_200/company-logo_200_200/0/1724183583622/starrez_logo?e=1747872000&v=beta&t=IDzqTQOTVBxPmTaKF_0RvgeYvUtC4xWMFi4rzRgy3n8",
+                        "universalName": "starrez",
+                        "dashCompanyUrn": "urn:li:fsd_company:618787",
+                        "trackingId": "TT1cS1HVSTOxMT+yl5Ntwg=="
+                    },
+                    "companyName": "StarRez, Inc."
+                },
+                {
+                    "title": "Senior Manager, Corporate Development & Strategy",
+                    "description": "- Lead financial modeling for global M&A initiative.\n- Lead market sizing, competitive analysis, pricing analysis, buy vs. build scoping, and other financial and operational strategy initiatives for new SmartBuilding business and existing Investment Management software business.",
+                    "locationName": "Dallas-Fort Worth Metroplex",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:9956",
+                        "entityUrn": "urn:li:fs_miniCompany:9956",
+                        "name": "RealPage, Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFz-7zgzOrTw/company-logo_200_200/company-logo_200_200/0/1704229448584/realpage_logo?e=1747872000&v=beta&t=ypJDfxy3IDXKsmdApaRlMYNcA9PHa1CFlA588rpy95Y",
+                        "universalName": "realpage",
+                        "dashCompanyUrn": "urn:li:fsd_company:9956",
+                        "trackingId": "Nx8GZXK3RDWUuSMroIQedQ=="
+                    },
+                    "companyName": "RealPage, Inc."
+                },
+                {
+                    "title": "Analyst, Corporate Development & Strategy",
+                    "description": "- Created and implemented strategies for two under-performing business units totaling $50m in annual revenue, improved EBITDA margin by over 20% in two quarters. \n- Lead creation of financial modeling, early-stage deal scoping presentations, and cost synergy estimation for over $3b in proposed acquisitions.",
+                    "locationName": "Dallas/Fort Worth Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:9956",
+                        "entityUrn": "urn:li:fs_miniCompany:9956",
+                        "name": "RealPage, Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFz-7zgzOrTw/company-logo_200_200/company-logo_200_200/0/1704229448584/realpage_logo?e=1747872000&v=beta&t=ypJDfxy3IDXKsmdApaRlMYNcA9PHa1CFlA588rpy95Y",
+                        "universalName": "realpage",
+                        "dashCompanyUrn": "urn:li:fsd_company:9956",
+                        "trackingId": "318+WnO0SPy77IqGN75PPg=="
+                    },
+                    "companyName": "RealPage, Inc."
+                },
+                {
+                    "title": "Business Analyst",
+                    "description": "- Wrote and deployed machine learning algorithm to group customer units by geography, size, and other factors (Python, SQL). \n- Created KPIs and built dashboards to inform senior management about the health of the business and progress on pricing initiatives. \n- Created a predictive model to forecast revenue and bookings for the vacation rental software business unit.",
+                    "locationName": "Dallas/Fort Worth Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:9956",
+                        "entityUrn": "urn:li:fs_miniCompany:9956",
+                        "name": "RealPage, Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFz-7zgzOrTw/company-logo_200_200/company-logo_200_200/0/1704229448584/realpage_logo?e=1747872000&v=beta&t=ypJDfxy3IDXKsmdApaRlMYNcA9PHa1CFlA588rpy95Y",
+                        "universalName": "realpage",
+                        "dashCompanyUrn": "urn:li:fsd_company:9956",
+                        "trackingId": "wuV1bCG+Q9GMS7WQjPnjQg=="
+                    },
+                    "companyName": "RealPage, Inc."
+                },
+                {
+                    "title": "Equity Research Analyst",
+                    "description": "- Sell-side equity research with specialization in short selling",
+                    "locationName": "Greater San Diego Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Accounting"
+                        ],
+                        "objectUrn": "urn:li:company:8359249",
+                        "entityUrn": "urn:li:fs_miniCompany:8359249",
+                        "name": "Voyant Advisors LLC",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGOEjDoSbT9vQ/company-logo_200_200/company-logo_200_200/0/1631333114270?e=1747872000&v=beta&t=iz7rS6mmcTWqDvbNLw1_B-V0YnyqiEKUCqYz6wLkcdc",
+                        "universalName": "voyant-advisors-llc",
+                        "dashCompanyUrn": "urn:li:fsd_company:8359249",
+                        "trackingId": "0pcQAeeUQuC37Ev4CpljtA=="
+                    },
+                    "companyName": "Voyant Advisors LLC"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "Applied Economics (w/ Predictive Analytics)",
+                    "schoolName": "Southern Methodist University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2021
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Arts - BA",
+                    "fieldOfStudy": "Economics",
+                    "schoolName": "San Diego State University-California State University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "degreeName": "International Baccalaureate Diploma",
+                    "schoolName": "San Clemente High School",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "Advanced Macroeconomics"
+                },
+                {
+                    "name": "Advanced Microeconomics"
+                },
+                {
+                    "name": "Business Law"
+                },
+                {
+                    "name": "Economics of Latin America"
+                },
+                {
+                    "name": "Financial Accounting"
+                },
+                {
+                    "name": "Health Economics"
+                },
+                {
+                    "name": "International Monetary Policy and Theory"
+                },
+                {
+                    "name": "Managerial Accounting"
+                },
+                {
+                    "name": "Statistical Economics"
+                },
+                {
+                    "name": "Statistics for Data Analysis"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Finance",
+                "Collaborative Problem Solving",
+                "Mergers & Acquisitions (M&A)",
+                "Financial Analysis"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Mentor",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Big Brothers Big Sisters of America"
+                },
+                {
+                    "role": "Camp Counselor",
+                    "description": "Mentoring children of parents that have been impacted by cancer.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2014
+                        }
+                    },
+                    "companyName": "Kids Konnected"
+                }
+            ],
+            "headline": "Senior Director, Finance and BI",
+            "summary": "M&A and Strategy manager experienced in acquiring technology and SaaS platforms. Responsible for building and analyzing valuation models, estimating synergies, and working with executives.\n\nAcademic and industry experience applying machine learning methods to economic problems. Interested in neural network applications for macroeconomic models.\n\nPrevious work on financial, operational, and organizational turnarounds. Assisted business unit GM's with driving profitability and understanding financials by working with Finance, Product, Sales, and HR functions. Experience in short-sale equity research, buy-side international equity research, and business analytics (Python, R, SQL).",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Denver, Colorado",
+            "geoCountryName": "United States",
+            "jobTitle": "Senior Director, Finance and BI",
+            "companyName": "StarRez, Inc.",
+            "companyPublicId": "starrez",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/starrez",
+            "following": false,
+            "followable": true,
+            "followersCount": 1309,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "StarRez, Inc.",
+        "position": "Senior Director, Finance and BI",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Director, Finance and BI",
+        "organization": "StarRez, Inc.",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alex-balazs/",
+        "company": "https://www.linkedin.com/company/starrez"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Director, Finance and BI",
+            "locationName": "Denver, Colorado, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:618787",
+                "entityUrn": "urn:li:fs_miniCompany:618787",
+                "name": "StarRez, Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHPwfnGZJe-4g/company-logo_200_200/company-logo_200_200/0/1724183583622/starrez_logo?e=1747872000&v=beta&t=IDzqTQOTVBxPmTaKF_0RvgeYvUtC4xWMFi4rzRgy3n8",
+                "universalName": "starrez",
+                "dashCompanyUrn": "urn:li:fsd_company:618787",
+                "trackingId": "TT1cS1HVSTOxMT+yl5Ntwg=="
+            },
+            "companyName": "StarRez, Inc."
+        },
+        {
+            "title": "Senior Manager, Corporate Development & Strategy",
+            "description": "- Lead financial modeling for global M&A initiative.\n- Lead market sizing, competitive analysis, pricing analysis, buy vs. build scoping, and other financial and operational strategy initiatives for new SmartBuilding business and existing Investment Management software business.",
+            "locationName": "Dallas-Fort Worth Metroplex",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:9956",
+                "entityUrn": "urn:li:fs_miniCompany:9956",
+                "name": "RealPage, Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFz-7zgzOrTw/company-logo_200_200/company-logo_200_200/0/1704229448584/realpage_logo?e=1747872000&v=beta&t=ypJDfxy3IDXKsmdApaRlMYNcA9PHa1CFlA588rpy95Y",
+                "universalName": "realpage",
+                "dashCompanyUrn": "urn:li:fsd_company:9956",
+                "trackingId": "Nx8GZXK3RDWUuSMroIQedQ=="
+            },
+            "companyName": "RealPage, Inc."
+        },
+        {
+            "title": "Analyst, Corporate Development & Strategy",
+            "description": "- Created and implemented strategies for two under-performing business units totaling $50m in annual revenue, improved EBITDA margin by over 20% in two quarters. \n- Lead creation of financial modeling, early-stage deal scoping presentations, and cost synergy estimation for over $3b in proposed acquisitions.",
+            "locationName": "Dallas/Fort Worth Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:9956",
+                "entityUrn": "urn:li:fs_miniCompany:9956",
+                "name": "RealPage, Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFz-7zgzOrTw/company-logo_200_200/company-logo_200_200/0/1704229448584/realpage_logo?e=1747872000&v=beta&t=ypJDfxy3IDXKsmdApaRlMYNcA9PHa1CFlA588rpy95Y",
+                "universalName": "realpage",
+                "dashCompanyUrn": "urn:li:fsd_company:9956",
+                "trackingId": "318+WnO0SPy77IqGN75PPg=="
+            },
+            "companyName": "RealPage, Inc."
+        },
+        {
+            "title": "Business Analyst",
+            "description": "- Wrote and deployed machine learning algorithm to group customer units by geography, size, and other factors (Python, SQL). \n- Created KPIs and built dashboards to inform senior management about the health of the business and progress on pricing initiatives. \n- Created a predictive model to forecast revenue and bookings for the vacation rental software business unit.",
+            "locationName": "Dallas/Fort Worth Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:9956",
+                "entityUrn": "urn:li:fs_miniCompany:9956",
+                "name": "RealPage, Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGFz-7zgzOrTw/company-logo_200_200/company-logo_200_200/0/1704229448584/realpage_logo?e=1747872000&v=beta&t=ypJDfxy3IDXKsmdApaRlMYNcA9PHa1CFlA588rpy95Y",
+                "universalName": "realpage",
+                "dashCompanyUrn": "urn:li:fsd_company:9956",
+                "trackingId": "wuV1bCG+Q9GMS7WQjPnjQg=="
+            },
+            "companyName": "RealPage, Inc."
+        },
+        {
+            "title": "Equity Research Analyst",
+            "description": "- Sell-side equity research with specialization in short selling",
+            "locationName": "Greater San Diego Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Accounting"
+                ],
+                "objectUrn": "urn:li:company:8359249",
+                "entityUrn": "urn:li:fs_miniCompany:8359249",
+                "name": "Voyant Advisors LLC",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGOEjDoSbT9vQ/company-logo_200_200/company-logo_200_200/0/1631333114270?e=1747872000&v=beta&t=iz7rS6mmcTWqDvbNLw1_B-V0YnyqiEKUCqYz6wLkcdc",
+                "universalName": "voyant-advisors-llc",
+                "dashCompanyUrn": "urn:li:fsd_company:8359249",
+                "trackingId": "0pcQAeeUQuC37Ev4CpljtA=="
+            },
+            "companyName": "Voyant Advisors LLC"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "Applied Economics (w/ Predictive Analytics)",
+            "schoolName": "Southern Methodist University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Arts - BA",
+            "fieldOfStudy": "Economics",
+            "schoolName": "San Diego State University-California State University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "degreeName": "International Baccalaureate Diploma",
+            "schoolName": "San Clemente High School",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Finance",
+        "Collaborative Problem Solving",
+        "Mergers & Acquisitions (M&A)",
+        "Financial Analysis"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,477 @@
+{
+    "id": "exp391336524",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Philipp",
+        "lastName": "Gollmer",
+        "fullName": "Philipp Gollmer",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFi2Ep4lBWH8g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692885396160?e=1745452800&v=beta&t=KqC4BE68rZz62EBUok9PbYyp95C3vTKrZVq87XuAxxg",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Englisch",
+            "Französisch",
+            "Italienisch"
+        ],
+        "allData": {
+            "id": "391336524",
+            "profileId": "ACoAABdTUkwBUAj8ZThEdM5nfSnpGc5nykGc7Bw",
+            "firstName": "Philipp",
+            "lastName": "Gollmer",
+            "occupation": "Newsjournalist bei der NZZ",
+            "publicIdentifier": "philipp-gollmer",
+            "trackingId": "qUp5kBoVS3SsbpuyJaVWAg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFi2Ep4lBWH8g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1692885396160?e=1745452800&v=beta&t=KqC4BE68rZz62EBUok9PbYyp95C3vTKrZVq87XuAxxg",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQHKe0_UhtLeKg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695051812119?e=1745452800&v=beta&t=IJ2ehy1zJayDJJchYsHprAA4sfsxBXGrBiy6hvzP-JE",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:107814425",
+            "positions": [
+                {
+                    "title": "Newsjournalist",
+                    "locationName": "Zürich, Schweiz",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:52902",
+                        "entityUrn": "urn:li:fs_miniCompany:52902",
+                        "name": "NZZ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                        "universalName": "neue-zurcher-zeitung",
+                        "dashCompanyUrn": "urn:li:fsd_company:52902",
+                        "trackingId": "FPu4wXrmRxOlrTzJz7BsRA=="
+                    },
+                    "companyName": "NZZ"
+                },
+                {
+                    "title": "Korrespondent Tech & Wissenschaft",
+                    "locationName": "San Francisco, Kalifornien, Vereinigte Staaten von Amerika",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:52902",
+                        "entityUrn": "urn:li:fs_miniCompany:52902",
+                        "name": "NZZ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                        "universalName": "neue-zurcher-zeitung",
+                        "dashCompanyUrn": "urn:li:fsd_company:52902",
+                        "trackingId": "am3zHiX+RrOaKV1kVf3hMA=="
+                    },
+                    "companyName": "NZZ Neue Zürcher Zeitung"
+                },
+                {
+                    "title": "Newsjournalist Wirtschaft",
+                    "locationName": "Zürich, Schweiz",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:52902",
+                        "entityUrn": "urn:li:fs_miniCompany:52902",
+                        "name": "NZZ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                        "universalName": "neue-zurcher-zeitung",
+                        "dashCompanyUrn": "urn:li:fsd_company:52902",
+                        "trackingId": "B4vsOdDXTsaqpshX6qtSbQ=="
+                    },
+                    "companyName": "NZZ Neue Zürcher Zeitung"
+                },
+                {
+                    "title": "Social Media Redaktor",
+                    "locationName": "Zürich und Umgebung, Schweiz",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:52902",
+                        "entityUrn": "urn:li:fs_miniCompany:52902",
+                        "name": "NZZ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                        "universalName": "neue-zurcher-zeitung",
+                        "dashCompanyUrn": "urn:li:fsd_company:52902",
+                        "trackingId": "ApumHdQcT/i2Es7BvNH0MQ=="
+                    },
+                    "companyName": "Neue Zürcher Zeitung AG"
+                },
+                {
+                    "title": "Digital Content Manager",
+                    "locationName": "Schlieren, Kanton Zürich, Schweiz",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:86951",
+                        "entityUrn": "urn:li:fs_miniCompany:86951",
+                        "name": "Venturelab",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH9gc5-ytm1LA/company-logo_200_200/company-logo_200_200/0/1720705712772/venturelab_logo?e=1747872000&v=beta&t=6QDAV5o3TRV6uvmBMR_jBrT1p_QIJbZAPG-NSVslEEE",
+                        "universalName": "venturelab",
+                        "dashCompanyUrn": "urn:li:fsd_company:86951",
+                        "trackingId": "o9VUP2ClRUqCCig9gpopWQ=="
+                    },
+                    "companyName": "Venturelab"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Geschichte",
+                    "schoolName": "Universität Zürich",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Italienisch",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "Adobe Photoshop",
+                "Social Media",
+                "Microsoft Office",
+                "Microsoft Excel"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Trainer",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2008
+                        }
+                    },
+                    "companyName": "Handballclub Rüti Rapperswil Jona",
+                    "cause": "CHILDREN"
+                }
+            ],
+            "headline": "Newsjournalist bei der NZZ",
+            "summary": "I'm a Journalist, interested in digital media, social media, tech & innovation.",
+            "student": false,
+            "industryName": "Newspapers",
+            "industryUrn": "urn:li:fs_industry:81",
+            "geoLocationName": "Zurich, Zurich",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Newsjournalist",
+            "companyName": "NZZ",
+            "companyPublicId": "neue-zurcher-zeitung",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/neue-zurcher-zeitung",
+            "following": false,
+            "followable": true,
+            "followersCount": 597,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "NZZ",
+        "position": "Newsjournalist",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Newspapers"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Newsjournalist",
+        "organization": "NZZ",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/philipp-gollmer/",
+        "company": "https://www.linkedin.com/company/neue-zurcher-zeitung"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Newsjournalist",
+            "locationName": "Zürich, Schweiz",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:52902",
+                "entityUrn": "urn:li:fs_miniCompany:52902",
+                "name": "NZZ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                "universalName": "neue-zurcher-zeitung",
+                "dashCompanyUrn": "urn:li:fsd_company:52902",
+                "trackingId": "FPu4wXrmRxOlrTzJz7BsRA=="
+            },
+            "companyName": "NZZ"
+        },
+        {
+            "title": "Korrespondent Tech & Wissenschaft",
+            "locationName": "San Francisco, Kalifornien, Vereinigte Staaten von Amerika",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:52902",
+                "entityUrn": "urn:li:fs_miniCompany:52902",
+                "name": "NZZ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                "universalName": "neue-zurcher-zeitung",
+                "dashCompanyUrn": "urn:li:fsd_company:52902",
+                "trackingId": "am3zHiX+RrOaKV1kVf3hMA=="
+            },
+            "companyName": "NZZ Neue Zürcher Zeitung"
+        },
+        {
+            "title": "Newsjournalist Wirtschaft",
+            "locationName": "Zürich, Schweiz",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:52902",
+                "entityUrn": "urn:li:fs_miniCompany:52902",
+                "name": "NZZ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                "universalName": "neue-zurcher-zeitung",
+                "dashCompanyUrn": "urn:li:fsd_company:52902",
+                "trackingId": "B4vsOdDXTsaqpshX6qtSbQ=="
+            },
+            "companyName": "NZZ Neue Zürcher Zeitung"
+        },
+        {
+            "title": "Social Media Redaktor",
+            "locationName": "Zürich und Umgebung, Schweiz",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:52902",
+                "entityUrn": "urn:li:fs_miniCompany:52902",
+                "name": "NZZ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                "universalName": "neue-zurcher-zeitung",
+                "dashCompanyUrn": "urn:li:fsd_company:52902",
+                "trackingId": "ApumHdQcT/i2Es7BvNH0MQ=="
+            },
+            "companyName": "Neue Zürcher Zeitung AG"
+        },
+        {
+            "title": "Digital Content Manager",
+            "locationName": "Schlieren, Kanton Zürich, Schweiz",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:86951",
+                "entityUrn": "urn:li:fs_miniCompany:86951",
+                "name": "Venturelab",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH9gc5-ytm1LA/company-logo_200_200/company-logo_200_200/0/1720705712772/venturelab_logo?e=1747872000&v=beta&t=6QDAV5o3TRV6uvmBMR_jBrT1p_QIJbZAPG-NSVslEEE",
+                "universalName": "venturelab",
+                "dashCompanyUrn": "urn:li:fsd_company:86951",
+                "trackingId": "o9VUP2ClRUqCCig9gpopWQ=="
+            },
+            "companyName": "Venturelab"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Geschichte",
+            "schoolName": "Universität Zürich",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Adobe Photoshop",
+        "Social Media",
+        "Microsoft Office",
+        "Microsoft Excel"
+    ],
+    "lastEnriched": "2025-02-17"
+}

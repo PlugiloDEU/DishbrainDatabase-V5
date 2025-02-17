@@ -1,0 +1,426 @@
+{
+    "id": "exp223310586",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura",
+        "lastName": "Weber Aracena",
+        "fullName": "Laura Weber Aracena",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQFfqsyV7wnZZg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1648864364972?e=1745452800&v=beta&t=TxOtj8Gu59mr95pMxja38t1W7BRxjCiGiLH_62x0bWY",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Español",
+            "Inglés"
+        ],
+        "allData": {
+            "id": "223310586",
+            "profileId": "ACoAAA1PcvoBIpJ-jwZWnTSMFQXHTFFTsLIES5s",
+            "firstName": "Laura",
+            "lastName": "Weber Aracena",
+            "occupation": "Cirujano Dentista especialista en Periodoncia",
+            "publicIdentifier": "laura-weber-aracena-7b695262",
+            "trackingId": "grqPqxOVTW2MfURefVvKAA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFfqsyV7wnZZg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1648864364972?e=1745452800&v=beta&t=TxOtj8Gu59mr95pMxja38t1W7BRxjCiGiLH_62x0bWY",
+            "countryCode": "cl",
+            "geoUrn": "urn:li:fs_geo:104621616",
+            "positions": [
+                {
+                    "title": "Periodoncista",
+                    "locationName": "Las Condes, Región Metropolitana de Santiago, Chile",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "companyName": "Consulta particular"
+                },
+                {
+                    "title": "Periodoncista",
+                    "locationName": "Huechuraba, Santiago Metropolitan Region, Chile",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Medical Devices"
+                        ],
+                        "objectUrn": "urn:li:company:42772735",
+                        "entityUrn": "urn:li:fs_miniCompany:42772735",
+                        "name": "Clinica Qualis",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGjmFNLkRlqrg/company-logo_200_200/company-logo_200_200/0/1630630868180?e=1747872000&v=beta&t=SOqn-G8sF3bjCucP6A7g9CdEIAag7q1s3gJwMyhUCwU",
+                        "universalName": "clinica-qualis",
+                        "dashCompanyUrn": "urn:li:fsd_company:42772735",
+                        "trackingId": "LY670/iySySYFEtMHpgNgA=="
+                    },
+                    "companyName": "Clinica Qualis"
+                },
+                {
+                    "title": "Periodoncista",
+                    "locationName": "Las Condes, Santiago Metropolitan Region, Chile",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:10374636",
+                        "entityUrn": "urn:li:fs_miniCompany:10374636",
+                        "name": "Clínica Santablanca",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHCOVonvUA7_g/company-logo_200_200/company-logo_200_200/0/1630644746398?e=1747872000&v=beta&t=CQKWNQjFNeN8T4YE-A1XTKPMBb80gD4gdHE-6FHZjS8",
+                        "universalName": "clínica-santa-blanca",
+                        "dashCompanyUrn": "urn:li:fsd_company:10374636",
+                        "trackingId": "04oWWIX1S9GYD+FxgIv7zg=="
+                    },
+                    "companyName": "Clínica Santa Blanca"
+                },
+                {
+                    "title": "Periodoncista",
+                    "locationName": "Las Condes, Santiago Metropolitan Region, Chile",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:10091222",
+                        "entityUrn": "urn:li:fs_miniCompany:10091222",
+                        "name": "Uno Salud Dental",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF0X9LwelYmpg/company-logo_200_200/company-logo_200_200/0/1631324667698?e=1747872000&v=beta&t=J6_h4zjd7w8zpLG3Vrtp0cFXrTzMVQv7UDMcyUbe6w8",
+                        "universalName": "uno-salud-dental",
+                        "dashCompanyUrn": "urn:li:fsd_company:10091222",
+                        "trackingId": "KtGxeH42TwKnCLQvGhEQXQ=="
+                    },
+                    "companyName": "Uno Salud Dental"
+                },
+                {
+                    "title": "Periodoncista",
+                    "locationName": "Las Condes, Santiago Metropolitan Region, Chile",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "Clinica Dental Arpas"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Magíster",
+                    "fieldOfStudy": "Investigación e Innovación en Ciencias de la Odontología",
+                    "schoolName": "Universidad de los Andes (CL)",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Postgrado de Periodoncia e Implantología Quirúrgica",
+                    "fieldOfStudy": "Periodoncia",
+                    "schoolName": "Universidad de los Andes (CL)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Cirujano Dentista",
+                    "schoolName": "Universidad de los Andes (CL)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Certificado IGCSE",
+                    "authority": "Cambridge University"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "2012. Curso teórico práctico \"Reanimación Cardiopulmonar Avanzada\". Corporación Nacional de Enseñanza en Resucitación Cardiopulmonar (14 hrs)."
+                },
+                {
+                    "name": "2012. XI Jornada Internacional \"De la Teoría a la Clínica\". Dr Cosme Gay Escoda, Dr Jeffrey Okeson, Dr Antonio Sanz. Facultad de Odontología, Universidad de los Andes (8 hrs)"
+                },
+                {
+                    "name": "2013, XII Jornada Internacional “Nuevas Estrategias para el Control y Manejo Clínico de Caries en el Siglo XXI”, Curso internacional y Simposios de Cariología. Dra. Margherita Fontana, Universidad de los Andes, Santiago (12 hrs.)"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Español",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Inglés",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Microsoft Word",
+                "PowerPoint",
+                "Microsoft Excel",
+                "English"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Cirujano Dentista especialista en Periodoncia",
+            "summary": "2020-2021, Magíster en Investigación e Innovación en Ciencias de la Odontología, Universidad de los Andes, Santiago, Chile\n\n2015-2017, Postgrado de Periodoncie e Implantología Quirúrgica, Universidad de los Andes, Santiago, Chile\n\n2012, Título de Cirujano Dentista, Universidad de los Andes, Santiago, Chile\n2011, Grado de Licenciado en Odontología, Universidad de los Andes, Santiago, Chile\n2007-2012, Odontología, Universidad de los Andes, Santiago, Chile",
+            "student": false,
+            "industryName": "Medical Device",
+            "industryUrn": "urn:li:fs_industry:17",
+            "geoCountryName": "Chile",
+            "jobTitle": "Periodoncista",
+            "companyName": "Consulta particular",
+            "following": false,
+            "followable": true,
+            "followersCount": 235,
+            "connectionsCount": 232,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Consulta particular",
+        "position": "Periodoncista",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Periodoncista",
+        "organization": "Consulta particular",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laura-weber-aracena-7b695262/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Periodoncista",
+            "locationName": "Las Condes, Región Metropolitana de Santiago, Chile",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "companyName": "Consulta particular"
+        },
+        {
+            "title": "Periodoncista",
+            "locationName": "Huechuraba, Santiago Metropolitan Region, Chile",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Medical Devices"
+                ],
+                "objectUrn": "urn:li:company:42772735",
+                "entityUrn": "urn:li:fs_miniCompany:42772735",
+                "name": "Clinica Qualis",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGjmFNLkRlqrg/company-logo_200_200/company-logo_200_200/0/1630630868180?e=1747872000&v=beta&t=SOqn-G8sF3bjCucP6A7g9CdEIAag7q1s3gJwMyhUCwU",
+                "universalName": "clinica-qualis",
+                "dashCompanyUrn": "urn:li:fsd_company:42772735",
+                "trackingId": "LY670/iySySYFEtMHpgNgA=="
+            },
+            "companyName": "Clinica Qualis"
+        },
+        {
+            "title": "Periodoncista",
+            "locationName": "Las Condes, Santiago Metropolitan Region, Chile",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:10374636",
+                "entityUrn": "urn:li:fs_miniCompany:10374636",
+                "name": "Clínica Santablanca",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHCOVonvUA7_g/company-logo_200_200/company-logo_200_200/0/1630644746398?e=1747872000&v=beta&t=CQKWNQjFNeN8T4YE-A1XTKPMBb80gD4gdHE-6FHZjS8",
+                "universalName": "clínica-santa-blanca",
+                "dashCompanyUrn": "urn:li:fsd_company:10374636",
+                "trackingId": "04oWWIX1S9GYD+FxgIv7zg=="
+            },
+            "companyName": "Clínica Santa Blanca"
+        },
+        {
+            "title": "Periodoncista",
+            "locationName": "Las Condes, Santiago Metropolitan Region, Chile",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:10091222",
+                "entityUrn": "urn:li:fs_miniCompany:10091222",
+                "name": "Uno Salud Dental",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF0X9LwelYmpg/company-logo_200_200/company-logo_200_200/0/1631324667698?e=1747872000&v=beta&t=J6_h4zjd7w8zpLG3Vrtp0cFXrTzMVQv7UDMcyUbe6w8",
+                "universalName": "uno-salud-dental",
+                "dashCompanyUrn": "urn:li:fsd_company:10091222",
+                "trackingId": "KtGxeH42TwKnCLQvGhEQXQ=="
+            },
+            "companyName": "Uno Salud Dental"
+        },
+        {
+            "title": "Periodoncista",
+            "locationName": "Las Condes, Santiago Metropolitan Region, Chile",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "companyName": "Clinica Dental Arpas"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Magíster",
+            "fieldOfStudy": "Investigación e Innovación en Ciencias de la Odontología",
+            "schoolName": "Universidad de los Andes (CL)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "degreeName": "Postgrado de Periodoncia e Implantología Quirúrgica",
+            "fieldOfStudy": "Periodoncia",
+            "schoolName": "Universidad de los Andes (CL)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "degreeName": "Cirujano Dentista",
+            "schoolName": "Universidad de los Andes (CL)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Certificado IGCSE",
+            "authority": "Cambridge University"
+        }
+    ],
+    "skills": [
+        "Microsoft Word",
+        "PowerPoint",
+        "Microsoft Excel",
+        "English"
+    ],
+    "lastEnriched": "2025-02-17"
+}

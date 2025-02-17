@@ -1,0 +1,475 @@
+{
+    "id": "exp804658025",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sebastien",
+        "lastName": "Bubeck",
+        "fullName": "Sebastien Bubeck",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQHu1MVCRDSUOg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1639117029515?e=1745452800&v=beta&t=Z0HKbuERR5pRugnTpToD2yA82CZZpnfPUIB9ZdtNrT4",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "804658025",
+            "profileId": "ACoAAC_2G2kB0D5D-x5k-fdgmpJAT55-R0D2uoM",
+            "firstName": "Sebastien",
+            "lastName": "Bubeck",
+            "occupation": "I work on AI at OpenAI. Former VP AI and Distinguished Scientist at Microsoft",
+            "publicIdentifier": "sebastien-bubeck-6b558a1a5",
+            "trackingId": "JeX92waITHiB73X2uJlyiQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHu1MVCRDSUOg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1639117029515?e=1745452800&v=beta&t=Z0HKbuERR5pRugnTpToD2yA82CZZpnfPUIB9ZdtNrT4",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:100259263",
+            "positions": [
+                {
+                    "title": "Member of Technical Staff",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:11130470",
+                        "entityUrn": "urn:li:fs_miniCompany:11130470",
+                        "name": "OpenAI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                        "universalName": "openai",
+                        "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                        "trackingId": "a9yiiRy8TGu8X55R5RpdHw=="
+                    },
+                    "companyName": "OpenAI"
+                },
+                {
+                    "title": "VP AI and Distinguished Scientist",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1035",
+                        "entityUrn": "urn:li:fs_miniCompany:1035",
+                        "name": "Microsoft",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                        "universalName": "microsoft",
+                        "dashCompanyUrn": "urn:li:fsd_company:1035",
+                        "trackingId": "FDIRncUmTOOgzB1c1nH0uA=="
+                    },
+                    "companyName": "Microsoft"
+                },
+                {
+                    "title": "Vice President GenAI Research",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1035",
+                        "entityUrn": "urn:li:fs_miniCompany:1035",
+                        "name": "Microsoft",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                        "universalName": "microsoft",
+                        "dashCompanyUrn": "urn:li:fsd_company:1035",
+                        "trackingId": "z5013ZWvT9uRp8JxqHzrpg=="
+                    },
+                    "companyName": "Microsoft"
+                },
+                {
+                    "title": "Partner Research Manager",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1035",
+                        "entityUrn": "urn:li:fs_miniCompany:1035",
+                        "name": "Microsoft",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                        "universalName": "microsoft",
+                        "dashCompanyUrn": "urn:li:fsd_company:1035",
+                        "trackingId": "PqBNbvxRRfiB4MkarRYTog=="
+                    },
+                    "companyName": "Microsoft"
+                },
+                {
+                    "title": "Sr Principal Research Manager",
+                    "description": "I manage the Machine Learning Foundations group at Microsoft Research Redmond.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1035",
+                        "entityUrn": "urn:li:fs_miniCompany:1035",
+                        "name": "Microsoft",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                        "universalName": "microsoft",
+                        "dashCompanyUrn": "urn:li:fsd_company:1035",
+                        "trackingId": "TcjG9UhTTfizjXpKBbCvKg=="
+                    },
+                    "companyName": "Microsoft"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Mathematics",
+                    "schoolName": "École normale supérieure Paris-Saclay",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "fieldOfStudy": "Mathematics",
+                    "schoolName": "University of Lille 1 Sciences and Technology",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MP-MP*",
+                    "schoolName": "Lycée Kléber",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Mathematics"
+            ],
+            "volunteerExperiences": [],
+            "headline": "I work on AI at OpenAI. Former VP AI and Distinguished Scientist at Microsoft",
+            "summary": "I study the foundations of machine learning.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Seattle, Washington",
+            "geoCountryName": "United States",
+            "jobTitle": "Member of Technical Staff",
+            "companyName": "OpenAI",
+            "companyPublicId": "openai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/openai",
+            "following": false,
+            "followable": true,
+            "followersCount": 19017,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "OpenAI",
+        "position": "Member of Technical Staff",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Member of Technical Staff",
+        "organization": "OpenAI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sebastien-bubeck-6b558a1a5/",
+        "company": "https://www.linkedin.com/company/openai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Member of Technical Staff",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:11130470",
+                "entityUrn": "urn:li:fs_miniCompany:11130470",
+                "name": "OpenAI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHpzXbqSyR74A/company-logo_400_400/B56ZT8EYB8HsAY-/0/1739395793272/openai_logo?e=1747872000&v=beta&t=tvh8qu_ouCct1AiDPHyFLuW41xi_kBS481NBoOQD4hM",
+                "universalName": "openai",
+                "dashCompanyUrn": "urn:li:fsd_company:11130470",
+                "trackingId": "a9yiiRy8TGu8X55R5RpdHw=="
+            },
+            "companyName": "OpenAI"
+        },
+        {
+            "title": "VP AI and Distinguished Scientist",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "FDIRncUmTOOgzB1c1nH0uA=="
+            },
+            "companyName": "Microsoft"
+        },
+        {
+            "title": "Vice President GenAI Research",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "z5013ZWvT9uRp8JxqHzrpg=="
+            },
+            "companyName": "Microsoft"
+        },
+        {
+            "title": "Partner Research Manager",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "PqBNbvxRRfiB4MkarRYTog=="
+            },
+            "companyName": "Microsoft"
+        },
+        {
+            "title": "Sr Principal Research Manager",
+            "description": "I manage the Machine Learning Foundations group at Microsoft Research Redmond.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1035",
+                "entityUrn": "urn:li:fs_miniCompany:1035",
+                "name": "Microsoft",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE88xCsONDULQ/company-logo_200_200/company-logo_200_200/0/1630652622688/microsoft_logo?e=1747872000&v=beta&t=OIlpm0iLTMDDAjaJmBlZcvQ3y0YZ5X5zE4B5yV-WV-w",
+                "universalName": "microsoft",
+                "dashCompanyUrn": "urn:li:fsd_company:1035",
+                "trackingId": "TcjG9UhTTfizjXpKBbCvKg=="
+            },
+            "companyName": "Microsoft"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Mathematics",
+            "schoolName": "École normale supérieure Paris-Saclay",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        },
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "Mathematics",
+            "schoolName": "University of Lille 1 Sciences and Technology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            }
+        },
+        {
+            "degreeName": "MP-MP*",
+            "schoolName": "Lycée Kléber",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Mathematics"
+    ],
+    "lastEnriched": "2025-02-17"
+}

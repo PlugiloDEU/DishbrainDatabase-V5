@@ -1,0 +1,563 @@
+{
+    "id": "exp295336850",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Shengyuan",
+        "lastName": "Su",
+        "fullName": "Shengyuan Su",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Chinese",
+            "English"
+        ],
+        "allData": {
+            "id": "295336850",
+            "profileId": "ACoAABGae5IBBck40-5A4T0iiSG09LvGAPHlEPQ",
+            "firstName": "Shengyuan",
+            "lastName": "Su",
+            "occupation": "Sustainability, Climate Action & ESG at Zendesk",
+            "publicIdentifier": "shengyuan-su-642aa882",
+            "trackingId": "cFD6YqblSACJzFl3nXXO/Q==",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQEnTEf5cxawfg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1702076278521?e=1745452800&v=beta&t=cn8qSrnizVEnJbbw-tbtEvTQaoSAzhrI-EDWj5gucwU",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000084",
+            "positions": [
+                {
+                    "title": "Director, Sustainability",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:418095",
+                        "entityUrn": "urn:li:fs_miniCompany:418095",
+                        "name": "Zendesk",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH_bC13eyDqjw/company-logo_200_200/company-logo_200_200/0/1684356295421/zendesk_logo?e=1747872000&v=beta&t=UOh5jxF3lqwHmMIhPZuZbGEWZB3QrxD82kCVut_SlkE",
+                        "universalName": "zendesk",
+                        "dashCompanyUrn": "urn:li:fsd_company:418095",
+                        "trackingId": "QdcarMoqQFasH6z0TAaJyw=="
+                    },
+                    "companyName": "Zendesk"
+                },
+                {
+                    "title": "Manager, Sustainability",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:3185",
+                        "entityUrn": "urn:li:fs_miniCompany:3185",
+                        "name": "Salesforce",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1747872000&v=beta&t=NktgrMPDIMY0hELsMQmjVyvMb0DC5ZqCPdqkzRgg1DA",
+                        "universalName": "salesforce",
+                        "dashCompanyUrn": "urn:li:fsd_company:3185",
+                        "trackingId": "9vux101STGCJ78T6mKz6oA=="
+                    },
+                    "companyName": "Salesforce"
+                },
+                {
+                    "title": "Analytics Lead, Operations Performance Improvement",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:80854",
+                        "entityUrn": "urn:li:fs_miniCompany:80854",
+                        "name": "Spruce Power",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFvx1CQmWde8w/company-logo_200_200/company-logo_200_200/0/1630643739251/clean_power_finance_logo?e=1747872000&v=beta&t=VrYTGf_VVeCc5Hu5xxi_TL7D6t40UXzNKegd894vasQ",
+                        "universalName": "sprucepower",
+                        "dashCompanyUrn": "urn:li:fsd_company:80854",
+                        "trackingId": "oaaZE5z9QayA6ysk6BGhVg=="
+                    },
+                    "companyName": "Spruce Finance"
+                },
+                {
+                    "title": "Energy Analytics Team Lead",
+                    "locationName": "Salt Lake City, Utah",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Renewables & Environment"
+                        ],
+                        "objectUrn": "urn:li:company:240767",
+                        "entityUrn": "urn:li:fs_miniCompany:240767",
+                        "name": "SolarCity",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHzqsZnEoqTxw/company-logo_200_200/company-logo_200_200/0/1631325174212?e=1747872000&v=beta&t=skUyKiAelm5NY9_6g5nCZTllrncULDgEpS9sljjMvjE",
+                        "universalName": "solarcity",
+                        "dashCompanyUrn": "urn:li:fsd_company:240767",
+                        "trackingId": "WhnJXioWQTKjQzxcSvC21A=="
+                    },
+                    "companyName": "SolarCity"
+                },
+                {
+                    "title": "Project Coordinator",
+                    "locationName": "Duke Environmental Leadership (DEL) Durham, North Carolina, USA",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3356",
+                        "entityUrn": "urn:li:fs_miniCompany:3356",
+                        "name": "Duke University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_200_200/company-logo_200_200/0/1704127476142/duke_university_logo?e=1747872000&v=beta&t=oPpSKobObFjSpEwMSkjpt03b4BjTq-2sOUFjly3Xjyc",
+                        "universalName": "duke-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:3356",
+                        "trackingId": "OEy/IKJfTeGEvMK70fw/Ww=="
+                    },
+                    "companyName": "Duke University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master's Degree",
+                    "fieldOfStudy": "Environmental Studies",
+                    "schoolName": "Duke University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor's Degree",
+                    "fieldOfStudy": "Accounting and Business/Management",
+                    "schoolName": "Fudan University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor's Degree",
+                    "fieldOfStudy": "Environmental Science",
+                    "schoolName": "Fudan University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "LEED Green Associate",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2015
+                        }
+                    },
+                    "authority": "USGBC - National Capital Region Chapter"
+                },
+                {
+                    "name": "Disruptive Strategy",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "authority": "Harvard Business School"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Chinese"
+                },
+                {
+                    "name": "English"
+                }
+            ],
+            "skills": [
+                "Environmental Sustainability",
+                "Business Intelligence (BI)",
+                "Business Strategy",
+                "Stakeholder Engagement"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Math & Music Teacher and Photographer",
+                    "description": "Interviewed and communicated with administrators and teachers of high schools in Honghe County, Yunnan Province, China to promote the local education system. Taught Math and Music class for 2 months in local high schools. Took professional photographs for the team and students.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2010
+                        }
+                    },
+                    "companyName": "Fudan University Education Supporting Association",
+                    "cause": "SOCIAL_SERVICES"
+                }
+            ],
+            "headline": "Sustainability, Climate Action & ESG at Zendesk",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "San Francisco Bay Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Director, Sustainability",
+            "companyName": "Zendesk",
+            "companyPublicId": "zendesk",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/zendesk",
+            "following": false,
+            "followable": true,
+            "followersCount": 1773,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Zendesk",
+        "position": "Director, Sustainability",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director, Sustainability",
+        "organization": "Zendesk",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/shengyuan-su-642aa882/",
+        "company": "https://www.linkedin.com/company/zendesk"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director, Sustainability",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:418095",
+                "entityUrn": "urn:li:fs_miniCompany:418095",
+                "name": "Zendesk",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH_bC13eyDqjw/company-logo_200_200/company-logo_200_200/0/1684356295421/zendesk_logo?e=1747872000&v=beta&t=UOh5jxF3lqwHmMIhPZuZbGEWZB3QrxD82kCVut_SlkE",
+                "universalName": "zendesk",
+                "dashCompanyUrn": "urn:li:fsd_company:418095",
+                "trackingId": "QdcarMoqQFasH6z0TAaJyw=="
+            },
+            "companyName": "Zendesk"
+        },
+        {
+            "title": "Manager, Sustainability",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:3185",
+                "entityUrn": "urn:li:fs_miniCompany:3185",
+                "name": "Salesforce",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHZ9xYomLW7zg/company-logo_200_200/company-logo_200_200/0/1630658255326/salesforce_logo?e=1747872000&v=beta&t=NktgrMPDIMY0hELsMQmjVyvMb0DC5ZqCPdqkzRgg1DA",
+                "universalName": "salesforce",
+                "dashCompanyUrn": "urn:li:fsd_company:3185",
+                "trackingId": "9vux101STGCJ78T6mKz6oA=="
+            },
+            "companyName": "Salesforce"
+        },
+        {
+            "title": "Analytics Lead, Operations Performance Improvement",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:80854",
+                "entityUrn": "urn:li:fs_miniCompany:80854",
+                "name": "Spruce Power",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFvx1CQmWde8w/company-logo_200_200/company-logo_200_200/0/1630643739251/clean_power_finance_logo?e=1747872000&v=beta&t=VrYTGf_VVeCc5Hu5xxi_TL7D6t40UXzNKegd894vasQ",
+                "universalName": "sprucepower",
+                "dashCompanyUrn": "urn:li:fsd_company:80854",
+                "trackingId": "oaaZE5z9QayA6ysk6BGhVg=="
+            },
+            "companyName": "Spruce Finance"
+        },
+        {
+            "title": "Energy Analytics Team Lead",
+            "locationName": "Salt Lake City, Utah",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Renewables & Environment"
+                ],
+                "objectUrn": "urn:li:company:240767",
+                "entityUrn": "urn:li:fs_miniCompany:240767",
+                "name": "SolarCity",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHzqsZnEoqTxw/company-logo_200_200/company-logo_200_200/0/1631325174212?e=1747872000&v=beta&t=skUyKiAelm5NY9_6g5nCZTllrncULDgEpS9sljjMvjE",
+                "universalName": "solarcity",
+                "dashCompanyUrn": "urn:li:fsd_company:240767",
+                "trackingId": "WhnJXioWQTKjQzxcSvC21A=="
+            },
+            "companyName": "SolarCity"
+        },
+        {
+            "title": "Project Coordinator",
+            "locationName": "Duke Environmental Leadership (DEL) Durham, North Carolina, USA",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3356",
+                "entityUrn": "urn:li:fs_miniCompany:3356",
+                "name": "Duke University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE1nqQztnbgIA/company-logo_200_200/company-logo_200_200/0/1704127476142/duke_university_logo?e=1747872000&v=beta&t=oPpSKobObFjSpEwMSkjpt03b4BjTq-2sOUFjly3Xjyc",
+                "universalName": "duke-university",
+                "dashCompanyUrn": "urn:li:fsd_company:3356",
+                "trackingId": "OEy/IKJfTeGEvMK70fw/Ww=="
+            },
+            "companyName": "Duke University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master's Degree",
+            "fieldOfStudy": "Environmental Studies",
+            "schoolName": "Duke University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor's Degree",
+            "fieldOfStudy": "Accounting and Business/Management",
+            "schoolName": "Fudan University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor's Degree",
+            "fieldOfStudy": "Environmental Science",
+            "schoolName": "Fudan University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "LEED Green Associate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "authority": "USGBC - National Capital Region Chapter"
+        },
+        {
+            "name": "Disruptive Strategy",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "authority": "Harvard Business School"
+        }
+    ],
+    "skills": [
+        "Environmental Sustainability",
+        "Business Intelligence (BI)",
+        "Business Strategy",
+        "Stakeholder Engagement"
+    ],
+    "lastEnriched": "2025-02-17"
+}

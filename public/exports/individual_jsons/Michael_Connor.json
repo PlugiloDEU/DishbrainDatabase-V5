@@ -1,0 +1,481 @@
+{
+    "id": "exp5691178",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Michael",
+        "lastName": "Connor",
+        "fullName": "Michael Connor",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQHhwtaPgagN8A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1660739227163?e=1745452800&v=beta&t=cOXcD05xgWERjeE2AR2gsSLARvVMuXMHQs-19iE7tQY",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English"
+        ],
+        "allData": {
+            "id": "5691178",
+            "profileId": "ACoAAABW1yoBlOR8s24d9OfeRK-o3Ij1Cwymomo",
+            "firstName": "Michael",
+            "lastName": "Connor",
+            "occupation": "Director, Corporate Real Estate at Dover Corporation",
+            "publicIdentifier": "mikedconnor",
+            "trackingId": "n8ewV2kzRWGtl7z2EuvBNw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHhwtaPgagN8A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1660739227163?e=1745452800&v=beta&t=cOXcD05xgWERjeE2AR2gsSLARvVMuXMHQs-19iE7tQY",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQH-LEy2gsQvKw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1701107956991?e=1745452800&v=beta&t=aAhOGszci4_vYGpcFyTeYw6rgFx1jxpec9h8p_LC9KA",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000014",
+            "positions": [
+                {
+                    "title": "Director, Corporate Real Estate",
+                    "description": "Real estate leader for this global industrial manufacturer.  Established the real estate function in company and developed governance, operating model, processes, and supplier relationships.  Responsible for portfolio management of 17M sf global portfolio.",
+                    "locationName": "Downers Grove, IL",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Machinery"
+                        ],
+                        "objectUrn": "urn:li:company:107854",
+                        "entityUrn": "urn:li:fs_miniCompany:107854",
+                        "name": "Dover Corporation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFy2KZ4oaFsjQ/company-logo_200_200/company-logo_200_200/0/1631322696211?e=1747872000&v=beta&t=xhQ36-iCYrW9R7-dz4w2e9YyzJH4naK-OxJWniJsfDQ",
+                        "universalName": "dovercorp",
+                        "dashCompanyUrn": "urn:li:fsd_company:107854",
+                        "trackingId": "ez13Di1pT0GZ5GTgEYF2Og=="
+                    },
+                    "companyName": "Dover Corporation"
+                },
+                {
+                    "title": "Senior Director, Real Estate",
+                    "description": "Led real estate integration with Shire.   Takeda acquired Shire in 2019.  ",
+                    "locationName": "Bannockburn, IL",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Pharmaceuticals"
+                        ],
+                        "objectUrn": "urn:li:company:5482",
+                        "entityUrn": "urn:li:fs_miniCompany:5482",
+                        "name": "Takeda",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFbSSALJ7n4uQ/company-logo_200_200/company-logo_200_200/0/1719834881136/takeda_pharmaceuticals_logo?e=1747872000&v=beta&t=TLiyrks1EI2YiTjWeMamM-lX0_NftVUlnt3Gcf7_mzc",
+                        "universalName": "takeda-pharmaceuticals",
+                        "dashCompanyUrn": "urn:li:fsd_company:5482",
+                        "trackingId": "hh373MSeTNSJkwGlHvWV1Q=="
+                    },
+                    "companyName": "Takeda"
+                },
+                {
+                    "title": "Head of Global Real Estate",
+                    "description": "Led global real estate portfolio and transaction management team for all businesses and functions of Shire. ",
+                    "locationName": "Bannockburn, IL",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:5541",
+                        "entityUrn": "urn:li:fs_miniCompany:5541",
+                        "name": "Shire",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEvQxPGTy4QhQ/company-logo_200_200/company-logo_200_200/0/1631307333468?e=1747872000&v=beta&t=eGwsoKkxu7yh3B0jN2Rn9dTJ5fD0n2VG7tSLz1QTVtg",
+                        "universalName": "shire",
+                        "dashCompanyUrn": "urn:li:fsd_company:5541",
+                        "trackingId": "vx+SW8e/QYGSK3lo36jO/Q=="
+                    },
+                    "companyName": "Shire"
+                },
+                {
+                    "title": "Head of Corporate Real Estate - US Region and Global Technical Ooperations",
+                    "description": "Responsible for all real estate activity for US region and Global Tech Ops portfolio of office, manufacturing, distribution, laboratory, research and development, plasma collection center, land, and technical space and properties.  Shire acquired Baxalta in 2016",
+                    "locationName": "Bannockburn, IL",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:5541",
+                        "entityUrn": "urn:li:fs_miniCompany:5541",
+                        "name": "Shire",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEvQxPGTy4QhQ/company-logo_200_200/company-logo_200_200/0/1631307333468?e=1747872000&v=beta&t=eGwsoKkxu7yh3B0jN2Rn9dTJ5fD0n2VG7tSLz1QTVtg",
+                        "universalName": "shire",
+                        "dashCompanyUrn": "urn:li:fsd_company:5541",
+                        "trackingId": "bbm6Ess1Tce+jQu9hdiI5Q=="
+                    },
+                    "companyName": "Shire"
+                },
+                {
+                    "title": "Director of Corporate Real Estate",
+                    "description": " - Global real estate leader responsible for real estate strategy, portfolio and transaction management, and site selection for this global biopharmaceutical leader.  Established department for this Baxter spinoff.  Baxalta was spun off from Baxter in 2015.\n\n",
+                    "locationName": "Bannockburn, IL",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:9450864",
+                        "entityUrn": "urn:li:fs_miniCompany:9450864",
+                        "name": "Baxalta",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE8XUNrO995CQ/company-logo_200_200/company-logo_200_200/0/1631331799192?e=1747872000&v=beta&t=HDM_aUuHJBI4Wh3vBdoadmy2Jd7_Mcy_8ftfNgXh6Vw",
+                        "universalName": "baxalta",
+                        "dashCompanyUrn": "urn:li:fsd_company:9450864",
+                        "trackingId": "KBVxEFl7TQy1Yy5WN5Feow=="
+                    },
+                    "companyName": "Baxalta Incorporated"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Masters of Business Administration",
+                    "schoolName": "Lake Forest Graduate School of Management"
+                },
+                {
+                    "degreeName": "BA",
+                    "fieldOfStudy": "Speech Communications",
+                    "schoolName": "Eastern Illinois University"
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Managing Real Estate Broker",
+                    "authority": "FINANCIAL AND PROFESSIONAL REGULATION, ILLINOIS DEPARTMENT OF"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Financial Leadership Award - Strategic Business Partner",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2014
+                    },
+                    "issuer": "Baxter Global Finance"
+                },
+                {
+                    "title": "President's Award",
+                    "issueDate": {
+                        "month": 8,
+                        "year": 2002
+                    },
+                    "issuer": "Corporate Engineering Division"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English"
+                }
+            ],
+            "skills": [
+                "Real Estate",
+                "Strategy",
+                "Real Estate Transactions",
+                "Portfolio Management"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Volunteer",
+                    "description": "Meat sorting and packing",
+                    "companyName": "Northern Illinois Food Bank"
+                }
+            ],
+            "headline": "Director, Corporate Real Estate at Dover Corporation",
+            "summary": "A seasoned real estate leader with a proven track record of delivering innovative real estate solutions to large global corporations.  My real passion is helping companies with their real estate, partnering with leadership to develop innovative flexible real estate strategies, and delivering the transactions that support the vision.  I'm a forward thinking professional with an ability to interface with all levels of an organization and manage complex real estate portfolios.  I have global experience and ability to lead multi-functional teams.  \n\nMy specialties include: Real Estate Strategy, Planning, and Utilization - Negotiation -  Transaction Management - Leasing - Site Selection - Government/Agency Incentives - Customer Relationship Management - Landlord Liaison and Dispute Resolution - Property Research and Due Diligence - Subleasing/Terminations - Land Use, Entitlements, Zoning - Acquisition/Disposition/Integration of Real Estate Assets - Build-To-Suit - Workplace Strategy - Sale/Leaseback - Outsourcing - Lease Administration and Key Date Management",
+            "student": false,
+            "industryName": "Mechanical Or Industrial Engineering",
+            "industryUrn": "urn:li:fs_industry:135",
+            "geoLocationName": "Greater Chicago Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Director, Corporate Real Estate",
+            "companyName": "Dover Corporation",
+            "companyPublicId": "dovercorp",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/dovercorp",
+            "following": false,
+            "followable": true,
+            "followersCount": 872,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Dover Corporation",
+        "position": "Director, Corporate Real Estate",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Machinery"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director, Corporate Real Estate",
+        "organization": "Dover Corporation",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/mikedconnor/",
+        "company": "https://www.linkedin.com/company/dovercorp"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director, Corporate Real Estate",
+            "description": "Real estate leader for this global industrial manufacturer.  Established the real estate function in company and developed governance, operating model, processes, and supplier relationships.  Responsible for portfolio management of 17M sf global portfolio.",
+            "locationName": "Downers Grove, IL",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Machinery"
+                ],
+                "objectUrn": "urn:li:company:107854",
+                "entityUrn": "urn:li:fs_miniCompany:107854",
+                "name": "Dover Corporation",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFy2KZ4oaFsjQ/company-logo_200_200/company-logo_200_200/0/1631322696211?e=1747872000&v=beta&t=xhQ36-iCYrW9R7-dz4w2e9YyzJH4naK-OxJWniJsfDQ",
+                "universalName": "dovercorp",
+                "dashCompanyUrn": "urn:li:fsd_company:107854",
+                "trackingId": "ez13Di1pT0GZ5GTgEYF2Og=="
+            },
+            "companyName": "Dover Corporation"
+        },
+        {
+            "title": "Senior Director, Real Estate",
+            "description": "Led real estate integration with Shire.   Takeda acquired Shire in 2019.  ",
+            "locationName": "Bannockburn, IL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ],
+                "objectUrn": "urn:li:company:5482",
+                "entityUrn": "urn:li:fs_miniCompany:5482",
+                "name": "Takeda",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFbSSALJ7n4uQ/company-logo_200_200/company-logo_200_200/0/1719834881136/takeda_pharmaceuticals_logo?e=1747872000&v=beta&t=TLiyrks1EI2YiTjWeMamM-lX0_NftVUlnt3Gcf7_mzc",
+                "universalName": "takeda-pharmaceuticals",
+                "dashCompanyUrn": "urn:li:fsd_company:5482",
+                "trackingId": "hh373MSeTNSJkwGlHvWV1Q=="
+            },
+            "companyName": "Takeda"
+        },
+        {
+            "title": "Head of Global Real Estate",
+            "description": "Led global real estate portfolio and transaction management team for all businesses and functions of Shire. ",
+            "locationName": "Bannockburn, IL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:5541",
+                "entityUrn": "urn:li:fs_miniCompany:5541",
+                "name": "Shire",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEvQxPGTy4QhQ/company-logo_200_200/company-logo_200_200/0/1631307333468?e=1747872000&v=beta&t=eGwsoKkxu7yh3B0jN2Rn9dTJ5fD0n2VG7tSLz1QTVtg",
+                "universalName": "shire",
+                "dashCompanyUrn": "urn:li:fsd_company:5541",
+                "trackingId": "vx+SW8e/QYGSK3lo36jO/Q=="
+            },
+            "companyName": "Shire"
+        },
+        {
+            "title": "Head of Corporate Real Estate - US Region and Global Technical Ooperations",
+            "description": "Responsible for all real estate activity for US region and Global Tech Ops portfolio of office, manufacturing, distribution, laboratory, research and development, plasma collection center, land, and technical space and properties.  Shire acquired Baxalta in 2016",
+            "locationName": "Bannockburn, IL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:5541",
+                "entityUrn": "urn:li:fs_miniCompany:5541",
+                "name": "Shire",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEvQxPGTy4QhQ/company-logo_200_200/company-logo_200_200/0/1631307333468?e=1747872000&v=beta&t=eGwsoKkxu7yh3B0jN2Rn9dTJ5fD0n2VG7tSLz1QTVtg",
+                "universalName": "shire",
+                "dashCompanyUrn": "urn:li:fsd_company:5541",
+                "trackingId": "bbm6Ess1Tce+jQu9hdiI5Q=="
+            },
+            "companyName": "Shire"
+        },
+        {
+            "title": "Director of Corporate Real Estate",
+            "description": " - Global real estate leader responsible for real estate strategy, portfolio and transaction management, and site selection for this global biopharmaceutical leader.  Established department for this Baxter spinoff.  Baxalta was spun off from Baxter in 2015.\n\n",
+            "locationName": "Bannockburn, IL",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:9450864",
+                "entityUrn": "urn:li:fs_miniCompany:9450864",
+                "name": "Baxalta",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQE8XUNrO995CQ/company-logo_200_200/company-logo_200_200/0/1631331799192?e=1747872000&v=beta&t=HDM_aUuHJBI4Wh3vBdoadmy2Jd7_Mcy_8ftfNgXh6Vw",
+                "universalName": "baxalta",
+                "dashCompanyUrn": "urn:li:fsd_company:9450864",
+                "trackingId": "KBVxEFl7TQy1Yy5WN5Feow=="
+            },
+            "companyName": "Baxalta Incorporated"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Masters of Business Administration",
+            "schoolName": "Lake Forest Graduate School of Management"
+        },
+        {
+            "degreeName": "BA",
+            "fieldOfStudy": "Speech Communications",
+            "schoolName": "Eastern Illinois University"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Managing Real Estate Broker",
+            "authority": "FINANCIAL AND PROFESSIONAL REGULATION, ILLINOIS DEPARTMENT OF"
+        }
+    ],
+    "skills": [
+        "Real Estate",
+        "Strategy",
+        "Real Estate Transactions",
+        "Portfolio Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,471 @@
+{
+    "id": "exp5113662",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Suvrit",
+        "lastName": "Sra",
+        "fullName": "Suvrit Sra",
+        "image": "https://media.licdn.com/dms/image/v2/C5103AQFbfTSVs3LJQw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516329231078?e=1745452800&v=beta&t=cmCDgdnS1k11wR5XTEDTecZNUbDNlqHroUk9oReNgKU",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "German",
+            "Hindi",
+            "Italian",
+            "Punjabi"
+        ],
+        "allData": {
+            "id": "5113662",
+            "profileId": "ACoAAABOBz4Bok3HqaismJIz-9jPI05y5cLxOmU",
+            "firstName": "Suvrit",
+            "lastName": "Sra",
+            "occupation": "TUM & MIT Professor, Co-founder & Chief Scientist Pendulum",
+            "publicIdentifier": "suvrit-sra-3668671",
+            "trackingId": "abmhPfbPSxqf2DOKOx3HPg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5103AQFbfTSVs3LJQw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516329231078?e=1745452800&v=beta&t=cmCDgdnS1k11wR5XTEDTecZNUbDNlqHroUk9oReNgKU",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Alexander von Humboldt Professor of AI",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "5pnmiZq9TvyMXBmWCAb9cQ=="
+                    },
+                    "companyName": "Technical University of Munich"
+                },
+                {
+                    "title": "Faculty",
+                    "description": "Fundamental research in Machine Learning, Data Science, Optimization (especially large-scale non-nonconvex optimization), and Applied Mathematics. Looking at applications in healthcare, IoT, data-driven science, including computational materials design.",
+                    "locationName": "Cambridge, MA",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1503",
+                        "entityUrn": "urn:li:fs_miniCompany:1503",
+                        "name": "Massachusetts Institute of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                        "universalName": "mit",
+                        "dashCompanyUrn": "urn:li:fsd_company:1503",
+                        "trackingId": "t+ylvep4SPO2UmpS+QgfXQ=="
+                    },
+                    "companyName": "Massachusetts Institute of Technology (MIT)"
+                },
+                {
+                    "title": "Cofounder; Chief Scientist",
+                    "description": "Realizing the vision of OptML, bringing Optimization and ML closer through AI driven decision making.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:10476845",
+                        "entityUrn": "urn:li:fs_miniCompany:10476845",
+                        "name": "Pendulum Systems",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFg6YrWyuPAUg/company-logo_200_200/company-logo_200_200/0/1681919973885/macro_eyes_logo?e=1747872000&v=beta&t=2CLqvcCqQiCbq2frJB7LjKh8dP9gAqzXZxcFj3kcamU",
+                        "universalName": "pendulumglobal",
+                        "dashCompanyUrn": "urn:li:fsd_company:10476845",
+                        "trackingId": "RgKT6AE4SZ6EZXW1qDOabg=="
+                    },
+                    "companyName": "Pendulum Systems"
+                },
+                {
+                    "title": "Senior Research Scientist",
+                    "description": "At MPI-IS, my focus is on the following:\n\n* Large-scale convex and nonconvex optimization (continuous)\n* Matrix analysis, optimization on manifolds, etc.\n* Optimization and learning under *uncertainty*\n* Optimization algorithms in the presence of noise and inexact computation.\n\n\nAs far as applications are concerned, my primary attention is devoted to:\n\n* Machine learning\n* Computational Statistics\n* Search and Retrieval of structured data (images, video, biological data, etc.)\n* Inverse problems (mostly related to imaging, computational photography, etc.)",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2011
+                        }
+                    },
+                    "companyName": "Max Planck Institute for Intelligent Systems"
+                },
+                {
+                    "title": "Visiting Faculty",
+                    "description": "Research, Teaching (check out: http://www.cs.cmu.edu/~suvrit/teach/aopt.html ), the usual stuff.",
+                    "locationName": "Greater Pittsburgh Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3147",
+                        "entityUrn": "urn:li:fs_miniCompany:3147",
+                        "name": "Carnegie Mellon University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_200_200/company-logo_200_200/0/1656670432790/carnegie_mellon_university_logo?e=1747872000&v=beta&t=9cPGLVskn0ny6Jj44Mm72t1SpY1Th4luSUX4Lnm4wCU",
+                        "universalName": "carnegie-mellon-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:3147",
+                        "trackingId": "57rnEzxrR1qaNssopsAZwQ=="
+                    },
+                    "companyName": "Carnegie Mellon University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Ph.D",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "The University of Texas at Austin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MSCS",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "The University of Texas at Austin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "degreeName": "B.E. (Hons)",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Birla Institute of Technology and Science, Pilani",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "German"
+                },
+                {
+                    "name": "Hindi"
+                },
+                {
+                    "name": "Italian"
+                },
+                {
+                    "name": "Punjabi"
+                }
+            ],
+            "skills": [
+                "Machine Learning",
+                "Optimization",
+                "C",
+                "C++"
+            ],
+            "volunteerExperiences": [],
+            "headline": "TUM & MIT Professor, Co-founder & Chief Scientist Pendulum",
+            "summary": "I am a computer scientist working on machine learning and optimization; I am a hobbyist in math of various flavors, with a bias for matrix theory, geometry, and inequalities.\n\nI work largely on theoretical topics in machine learning and data science. I am interested in all aspects of optimization for ML, especially nonconvex optimization (example applications: deep learning algorithms, adversarial models, etc.). \n\nOn the applied side, I care about \"AI for social good\" -- currently I am looking at applications in healthcare. I am also interested in energy, education, nutrition, agriculture, and other areas where data driven thinking holds great promise.\n\nSocial media: http://mathoverflow.net/users/8430/suvrit",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Alexander von Humboldt Professor of AI",
+            "companyName": "Technical University of Munich",
+            "companyPublicId": "technische-universitat-munchen",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+            "following": false,
+            "followable": true,
+            "followersCount": 2601,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Technical University of Munich",
+        "position": "Alexander von Humboldt Professor of AI",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Alexander von Humboldt Professor of AI",
+        "organization": "Technical University of Munich",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/suvrit-sra-3668671/",
+        "company": "https://www.linkedin.com/company/technische-universitat-munchen"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Alexander von Humboldt Professor of AI",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "5pnmiZq9TvyMXBmWCAb9cQ=="
+            },
+            "companyName": "Technical University of Munich"
+        },
+        {
+            "title": "Faculty",
+            "description": "Fundamental research in Machine Learning, Data Science, Optimization (especially large-scale non-nonconvex optimization), and Applied Mathematics. Looking at applications in healthcare, IoT, data-driven science, including computational materials design.",
+            "locationName": "Cambridge, MA",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1503",
+                "entityUrn": "urn:li:fs_miniCompany:1503",
+                "name": "Massachusetts Institute of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH-UXRfIDIKug/company-logo_200_200/company-logo_200_200/0/1689799729035/mit_logo?e=1747872000&v=beta&t=i-KjYOaBCCpAP1EiQG_vJEvsGtHXRmJMlsaCag_wm98",
+                "universalName": "mit",
+                "dashCompanyUrn": "urn:li:fsd_company:1503",
+                "trackingId": "t+ylvep4SPO2UmpS+QgfXQ=="
+            },
+            "companyName": "Massachusetts Institute of Technology (MIT)"
+        },
+        {
+            "title": "Cofounder; Chief Scientist",
+            "description": "Realizing the vision of OptML, bringing Optimization and ML closer through AI driven decision making.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:10476845",
+                "entityUrn": "urn:li:fs_miniCompany:10476845",
+                "name": "Pendulum Systems",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFg6YrWyuPAUg/company-logo_200_200/company-logo_200_200/0/1681919973885/macro_eyes_logo?e=1747872000&v=beta&t=2CLqvcCqQiCbq2frJB7LjKh8dP9gAqzXZxcFj3kcamU",
+                "universalName": "pendulumglobal",
+                "dashCompanyUrn": "urn:li:fsd_company:10476845",
+                "trackingId": "RgKT6AE4SZ6EZXW1qDOabg=="
+            },
+            "companyName": "Pendulum Systems"
+        },
+        {
+            "title": "Senior Research Scientist",
+            "description": "At MPI-IS, my focus is on the following:\n\n* Large-scale convex and nonconvex optimization (continuous)\n* Matrix analysis, optimization on manifolds, etc.\n* Optimization and learning under *uncertainty*\n* Optimization algorithms in the presence of noise and inexact computation.\n\n\nAs far as applications are concerned, my primary attention is devoted to:\n\n* Machine learning\n* Computational Statistics\n* Search and Retrieval of structured data (images, video, biological data, etc.)\n* Inverse problems (mostly related to imaging, computational photography, etc.)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2011
+                }
+            },
+            "companyName": "Max Planck Institute for Intelligent Systems"
+        },
+        {
+            "title": "Visiting Faculty",
+            "description": "Research, Teaching (check out: http://www.cs.cmu.edu/~suvrit/teach/aopt.html ), the usual stuff.",
+            "locationName": "Greater Pittsburgh Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3147",
+                "entityUrn": "urn:li:fs_miniCompany:3147",
+                "name": "Carnegie Mellon University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQH0rMqWuDcNzA/company-logo_200_200/company-logo_200_200/0/1656670432790/carnegie_mellon_university_logo?e=1747872000&v=beta&t=9cPGLVskn0ny6Jj44Mm72t1SpY1Th4luSUX4Lnm4wCU",
+                "universalName": "carnegie-mellon-university",
+                "dashCompanyUrn": "urn:li:fsd_company:3147",
+                "trackingId": "57rnEzxrR1qaNssopsAZwQ=="
+            },
+            "companyName": "Carnegie Mellon University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Ph.D",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "The University of Texas at Austin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "degreeName": "MSCS",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "The University of Texas at Austin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "degreeName": "B.E. (Hons)",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Birla Institute of Technology and Science, Pilani",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Machine Learning",
+        "Optimization",
+        "C",
+        "C++"
+    ],
+    "lastEnriched": "2025-02-17"
+}

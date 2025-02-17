@@ -1,0 +1,551 @@
+{
+    "id": "exp158228999",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Burkhard",
+        "lastName": "Sommer",
+        "fullName": "Burkhard Sommer",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQEgyeoaBkgqAg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731041453730?e=1745452800&v=beta&t=X5Tjm6093yHsIMc3Nj5VTJTZRTuLnPpYw0Ollt5Z1uI",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German",
+            "Portuguese"
+        ],
+        "allData": {
+            "id": "158228999",
+            "profileId": "ACoAAAluYgcBwAZUJXLO8ZVRTujGr2TIvfwBXis",
+            "firstName": "Burkhard",
+            "lastName": "Sommer",
+            "occupation": "Principal Systems Architect | Sr. Engineering Manager | Product Manager | Energy | Electrical & Digital Systems, IoT, Functional Safety, AI/ML",
+            "publicIdentifier": "burkhard-sommer-85bba744",
+            "trackingId": "ng9gtvgTQ/2HYCt0WwES4A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQEgyeoaBkgqAg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731041453730?e=1745452800&v=beta&t=X5Tjm6093yHsIMc3Nj5VTJTZRTuLnPpYw0Ollt5Z1uI",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQGsoNi8Iy3h_g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1737074451661?e=1745452800&v=beta&t=vAXjJjSGQwF2_uOrTxt7FnNIZiXFRWltuh05KMFAIIs",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103743442",
+            "positions": [
+                {
+                    "title": "Principal Systems Architect",
+                    "description": "X-Business Line Architect for Global Offshore Energy Systems. Design efficient, scalable power, energy, digital, and communication systems for E&Ps, IOCs, and NOCs. Focus on IoT, edge, and cloud solutions. Drive partnerships with technology suppliers and lead Joint Industry Projects (JIPs) to advance offshore energy R&D and innovation.",
+                    "locationName": "Houston, Texas, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1468",
+                        "entityUrn": "urn:li:fs_miniCompany:1468",
+                        "name": "SLB",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQFwhnoORL25KA/company-logo_200_200/company-logo_200_200/0/1666604496648/slbdigital_logo?e=1747872000&v=beta&t=sHQZXO3eveBDn7jvUYvzkrLYBC0bbj_IJcH5waSe1f8",
+                        "universalName": "slbglobal",
+                        "dashCompanyUrn": "urn:li:fsd_company:1468",
+                        "trackingId": "LoxZqI7oRm2FaFAseFHEaQ=="
+                    },
+                    "companyName": "SLB"
+                },
+                {
+                    "title": "Product Manager All-Electric & Controls",
+                    "description": "Managed global portfolio of automation systems, IoT, UX, Edge, Cloud Integration, Li-Ion battery systems,  SCADA, electric actuators, electro/hydraulic systems, IEC 61508/61511 compliant SIL systems, ARM Cortex-M, low power AC & DC systems, fiber optic communication.  Led large-scale R&D programs (>20 MM USD).",
+                    "locationName": "Houston, Texas, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1468",
+                        "entityUrn": "urn:li:fs_miniCompany:1468",
+                        "name": "SLB",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQFwhnoORL25KA/company-logo_200_200/company-logo_200_200/0/1666604496648/slbdigital_logo?e=1747872000&v=beta&t=sHQZXO3eveBDn7jvUYvzkrLYBC0bbj_IJcH5waSe1f8",
+                        "universalName": "slbglobal",
+                        "dashCompanyUrn": "urn:li:fsd_company:1468",
+                        "trackingId": "AfHtuascQlm2Qdg4hjV1RA=="
+                    },
+                    "companyName": "Schlumberger"
+                },
+                {
+                    "title": "Product Manager Subsea Controls",
+                    "description": "Directed the product line roadmap, lifecycle, and development strategy for subsea controls and automation systems. Collaborated with major E&Ps, IOCs, and NOCs to align solutions with industry needs. Spearheaded internal R&D projects, advancing technology in partnership with global customers. Managed product and program launches with the marketing team to drive market adoption of innovative subsea controls.",
+                    "locationName": "Houston, Texas, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1468",
+                        "entityUrn": "urn:li:fs_miniCompany:1468",
+                        "name": "SLB",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQFwhnoORL25KA/company-logo_200_200/company-logo_200_200/0/1666604496648/slbdigital_logo?e=1747872000&v=beta&t=sHQZXO3eveBDn7jvUYvzkrLYBC0bbj_IJcH5waSe1f8",
+                        "universalName": "slbglobal",
+                        "dashCompanyUrn": "urn:li:fsd_company:1468",
+                        "trackingId": "wZX/mx0GSj2fyENqq1wX6A=="
+                    },
+                    "companyName": "SLB"
+                },
+                {
+                    "title": "Principal System Engineer",
+                    "description": "System engineer and technical lead for major offshore projects in Gulf of Mexico, Europe and Australia. Project phases: Pre-FEED, FEED, tender, early project execution. Scope included subsea hardware & boosting systems, VSD and SCADA systems, high and lower power systems, digital topside systems, electro-mechanical and electric actuation systems, subsea trees, manifolds and connection systems and installation.",
+                    "locationName": "Houston, Texas, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1468",
+                        "entityUrn": "urn:li:fs_miniCompany:1468",
+                        "name": "SLB",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQFwhnoORL25KA/company-logo_200_200/company-logo_200_200/0/1666604496648/slbdigital_logo?e=1747872000&v=beta&t=sHQZXO3eveBDn7jvUYvzkrLYBC0bbj_IJcH5waSe1f8",
+                        "universalName": "slbglobal",
+                        "dashCompanyUrn": "urn:li:fsd_company:1468",
+                        "trackingId": "Ja0stKbsRE+UsWWZIgqlBA=="
+                    },
+                    "companyName": "SLB"
+                },
+                {
+                    "title": "Senior Engineering Manager - Controls & Automation",
+                    "description": "My team‘s mission was to provide excellent technical solutions and outstanding customer support to regional E&P companies (tendering, project execution, delivery, commissioning, field support).\nWe delivered large scale offshore control systems on-time and within budget, managing EPC contracts.",
+                    "locationName": "Rio de Janeiro, Brazil",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Oil & Energy"
+                        ],
+                        "objectUrn": "urn:li:company:3713535",
+                        "entityUrn": "urn:li:fs_miniCompany:3713535",
+                        "name": "OneSubsea",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYQTlPbKYu5w/company-logo_200_200/company-logo_200_200/0/1696237232524/onesubsea_logo?e=1747872000&v=beta&t=8OhjbFz_Pje5qVbrCiMqOxDU4hOYC59DxMCyaJ9K0Rk",
+                        "universalName": "onesubsea",
+                        "dashCompanyUrn": "urn:li:fsd_company:3713535",
+                        "trackingId": "17d/y9nmSmuvMPayl1FthA=="
+                    },
+                    "companyName": "OneSubsea"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Science",
+                    "fieldOfStudy": "Electrical Engineering, Automation & Mechatronics",
+                    "schoolName": "Leibniz Universität Hannover"
+                },
+                {
+                    "degreeName": "Postgraduate Program",
+                    "fieldOfStudy": "Artificial Intelligence & Machine Learning",
+                    "schoolName": "Texas McCombs School of Business",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2023
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science - BS",
+                    "fieldOfStudy": "Electrical Engineering",
+                    "schoolName": "Leibniz Universität Hannover"
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "TÜV Functional Safety Engineer HW/SW Design",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2007
+                        }
+                    },
+                    "authority": "TÜV Rheinland Group"
+                },
+                {
+                    "name": "SLB Eureka Technical Career (SETC) - Principal",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "SLB"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "2022, Bronze Award, \"SSPS Transition Technologies: Invest in Tomorrow\"",
+                    "description": "Award for the development of electrification technologies that are aiming to reduce emissions of embodied carbons during manufacturing and installation of large scale offshore infrastructures and other technologies.",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2023
+                    },
+                    "issuer": "SLB"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Portuguese",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "System Architecture",
+                "Research and Development (R&D)",
+                "Product Management",
+                "Energy"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Principal Systems Architect | Sr. Engineering Manager | Product Manager | Energy | Electrical & Digital Systems, IoT, Functional Safety, AI/ML",
+            "summary": "Expert in R&D, Engineering, Product Management, Strategy, Digital Transformation, IoT & Innovation | Leader of Joint Industry Projects (JIPs) in Offshore Energy",
+            "student": false,
+            "industryName": "Oil & Energy",
+            "industryUrn": "urn:li:fs_industry:57",
+            "geoLocationName": "Houston, Texas",
+            "geoCountryName": "United States",
+            "jobTitle": "Principal Systems Architect",
+            "companyName": "SLB",
+            "companyPublicId": "slbglobal",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/slbglobal",
+            "following": false,
+            "followable": true,
+            "followersCount": 664,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "SLB",
+        "position": "Principal Systems Architect",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Principal Systems Architect",
+        "organization": "SLB",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/burkhard-sommer-85bba744/",
+        "company": "https://www.linkedin.com/company/slbglobal"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Principal Systems Architect",
+            "description": "X-Business Line Architect for Global Offshore Energy Systems. Design efficient, scalable power, energy, digital, and communication systems for E&Ps, IOCs, and NOCs. Focus on IoT, edge, and cloud solutions. Drive partnerships with technology suppliers and lead Joint Industry Projects (JIPs) to advance offshore energy R&D and innovation.",
+            "locationName": "Houston, Texas, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1468",
+                "entityUrn": "urn:li:fs_miniCompany:1468",
+                "name": "SLB",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFwhnoORL25KA/company-logo_200_200/company-logo_200_200/0/1666604496648/slbdigital_logo?e=1747872000&v=beta&t=sHQZXO3eveBDn7jvUYvzkrLYBC0bbj_IJcH5waSe1f8",
+                "universalName": "slbglobal",
+                "dashCompanyUrn": "urn:li:fsd_company:1468",
+                "trackingId": "LoxZqI7oRm2FaFAseFHEaQ=="
+            },
+            "companyName": "SLB"
+        },
+        {
+            "title": "Product Manager All-Electric & Controls",
+            "description": "Managed global portfolio of automation systems, IoT, UX, Edge, Cloud Integration, Li-Ion battery systems,  SCADA, electric actuators, electro/hydraulic systems, IEC 61508/61511 compliant SIL systems, ARM Cortex-M, low power AC & DC systems, fiber optic communication.  Led large-scale R&D programs (>20 MM USD).",
+            "locationName": "Houston, Texas, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1468",
+                "entityUrn": "urn:li:fs_miniCompany:1468",
+                "name": "SLB",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFwhnoORL25KA/company-logo_200_200/company-logo_200_200/0/1666604496648/slbdigital_logo?e=1747872000&v=beta&t=sHQZXO3eveBDn7jvUYvzkrLYBC0bbj_IJcH5waSe1f8",
+                "universalName": "slbglobal",
+                "dashCompanyUrn": "urn:li:fsd_company:1468",
+                "trackingId": "AfHtuascQlm2Qdg4hjV1RA=="
+            },
+            "companyName": "Schlumberger"
+        },
+        {
+            "title": "Product Manager Subsea Controls",
+            "description": "Directed the product line roadmap, lifecycle, and development strategy for subsea controls and automation systems. Collaborated with major E&Ps, IOCs, and NOCs to align solutions with industry needs. Spearheaded internal R&D projects, advancing technology in partnership with global customers. Managed product and program launches with the marketing team to drive market adoption of innovative subsea controls.",
+            "locationName": "Houston, Texas, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1468",
+                "entityUrn": "urn:li:fs_miniCompany:1468",
+                "name": "SLB",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFwhnoORL25KA/company-logo_200_200/company-logo_200_200/0/1666604496648/slbdigital_logo?e=1747872000&v=beta&t=sHQZXO3eveBDn7jvUYvzkrLYBC0bbj_IJcH5waSe1f8",
+                "universalName": "slbglobal",
+                "dashCompanyUrn": "urn:li:fsd_company:1468",
+                "trackingId": "wZX/mx0GSj2fyENqq1wX6A=="
+            },
+            "companyName": "SLB"
+        },
+        {
+            "title": "Principal System Engineer",
+            "description": "System engineer and technical lead for major offshore projects in Gulf of Mexico, Europe and Australia. Project phases: Pre-FEED, FEED, tender, early project execution. Scope included subsea hardware & boosting systems, VSD and SCADA systems, high and lower power systems, digital topside systems, electro-mechanical and electric actuation systems, subsea trees, manifolds and connection systems and installation.",
+            "locationName": "Houston, Texas, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1468",
+                "entityUrn": "urn:li:fs_miniCompany:1468",
+                "name": "SLB",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFwhnoORL25KA/company-logo_200_200/company-logo_200_200/0/1666604496648/slbdigital_logo?e=1747872000&v=beta&t=sHQZXO3eveBDn7jvUYvzkrLYBC0bbj_IJcH5waSe1f8",
+                "universalName": "slbglobal",
+                "dashCompanyUrn": "urn:li:fsd_company:1468",
+                "trackingId": "Ja0stKbsRE+UsWWZIgqlBA=="
+            },
+            "companyName": "SLB"
+        },
+        {
+            "title": "Senior Engineering Manager - Controls & Automation",
+            "description": "My team‘s mission was to provide excellent technical solutions and outstanding customer support to regional E&P companies (tendering, project execution, delivery, commissioning, field support).\nWe delivered large scale offshore control systems on-time and within budget, managing EPC contracts.",
+            "locationName": "Rio de Janeiro, Brazil",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Oil & Energy"
+                ],
+                "objectUrn": "urn:li:company:3713535",
+                "entityUrn": "urn:li:fs_miniCompany:3713535",
+                "name": "OneSubsea",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYQTlPbKYu5w/company-logo_200_200/company-logo_200_200/0/1696237232524/onesubsea_logo?e=1747872000&v=beta&t=8OhjbFz_Pje5qVbrCiMqOxDU4hOYC59DxMCyaJ9K0Rk",
+                "universalName": "onesubsea",
+                "dashCompanyUrn": "urn:li:fsd_company:3713535",
+                "trackingId": "17d/y9nmSmuvMPayl1FthA=="
+            },
+            "companyName": "OneSubsea"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Science",
+            "fieldOfStudy": "Electrical Engineering, Automation & Mechatronics",
+            "schoolName": "Leibniz Universität Hannover"
+        },
+        {
+            "degreeName": "Postgraduate Program",
+            "fieldOfStudy": "Artificial Intelligence & Machine Learning",
+            "schoolName": "Texas McCombs School of Business",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science - BS",
+            "fieldOfStudy": "Electrical Engineering",
+            "schoolName": "Leibniz Universität Hannover"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "TÜV Functional Safety Engineer HW/SW Design",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2007
+                }
+            },
+            "authority": "TÜV Rheinland Group"
+        },
+        {
+            "name": "SLB Eureka Technical Career (SETC) - Principal",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "authority": "SLB"
+        }
+    ],
+    "skills": [
+        "System Architecture",
+        "Research and Development (R&D)",
+        "Product Management",
+        "Energy"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,483 @@
+{
+    "id": "exp108706550",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Prof. Dr. Michael",
+        "lastName": "Koch",
+        "fullName": "Prof. Dr. Michael Koch",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQH7oItDCUnF3A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731593250927?e=1745452800&v=beta&t=drs-CZzAAvaSmXEUTKgqhNOGldgHkFfXTmpkc087fwM",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "108706550",
+            "profileId": "ACoAAAZ6uvYBS3I3cuM_unsMdW2pXk-58_-yAVk",
+            "firstName": "Prof. Dr. Michael",
+            "lastName": "Koch",
+            "occupation": "Visiting Scientist with focus on industrial research at University of Duisburg-Essen. Till 03'2020: Executive Vice President at devolo AG",
+            "publicIdentifier": "prof-dr-michael-koch-a724a430",
+            "trackingId": "ADl08YgKSNepmanYWxJcOw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH7oItDCUnF3A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1731593250927?e=1745452800&v=beta&t=drs-CZzAAvaSmXEUTKgqhNOGldgHkFfXTmpkc087fwM",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106174333",
+            "positions": [
+                {
+                    "title": "Visiting Scientist",
+                    "description": "Within the institute \"Power Transmission and Storage\" my focus is on Smart Grid, IoT and Powerline Communications: As as visiting scientist, I am enjoying very much the facilities of the institute. Everything is there to assess specific issues of the above mentioned technology areas. My research is driven by present needs coming from the industry.",
+                    "locationName": "Duisburg, North Rhine-Westphalia, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:22277",
+                        "entityUrn": "urn:li:fs_miniCompany:22277",
+                        "name": "University of Duisburg-Essen",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEKIKeZWQU06w/company-logo_200_200/company-logo_200_200/0/1630487817436/university_of_duisburg_essen_logo?e=1747872000&v=beta&t=A596Qg5Xx68qfYhrEs3zKMe_QSb8FTQeY9AMoX31NpQ",
+                        "universalName": "university-of-duisburg-essen",
+                        "dashCompanyUrn": "urn:li:fsd_company:22277",
+                        "trackingId": "RdnrK/zUSseKfZmqXLwjCg=="
+                    },
+                    "companyName": "University of Duisburg-Essen"
+                },
+                {
+                    "title": "Owner (CEO & CTO)",
+                    "description": "Consulting for a wide range of technologies in the field of electrical engineering and for funding projects. Part-time work as an independent expert for the European Commission, the World Bank and other public institutions.",
+                    "locationName": "Bad Dürkheim, Rhineland-Palatinate, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 1993
+                        }
+                    },
+                    "companyName": "Engineering Office Koch"
+                },
+                {
+                    "title": "Executive Vice President / Geschäftsbereichsleiter Smart Grid",
+                    "description": "Head of devolo's Smart Grid business unit with full P&L responsibility (comparable to Managing Director / Geschäftsführer) as well as the company's overall Strategic Positioning.",
+                    "locationName": "Kreisfreie Stadt Aachen und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:78925",
+                        "entityUrn": "urn:li:fs_miniCompany:78925",
+                        "name": "devolo solutions GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHV9q0wzaGYsA/company-logo_200_200/company-logo_200_200/0/1638957532466/devolo_ag_logo?e=1747872000&v=beta&t=Ip-EX2uzNjqa2CkewmTpi6_7_O_26584lbPQ5s-2fcQ",
+                        "universalName": "devolo-solutions-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:78925",
+                        "trackingId": "/ViSks2+S9KlyfrDWbye/Q=="
+                    },
+                    "companyName": "devolo AG"
+                },
+                {
+                    "title": "Vice President Strategic Positioning",
+                    "description": "Responsibility for assessment of new business areas, standardization, regulatory affairs, IPR management, research projects (comparable to CTO responsibilities).",
+                    "locationName": "Kreisfreie Stadt Aachen Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:78925",
+                        "entityUrn": "urn:li:fs_miniCompany:78925",
+                        "name": "devolo solutions GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHV9q0wzaGYsA/company-logo_200_200/company-logo_200_200/0/1638957532466/devolo_ag_logo?e=1747872000&v=beta&t=Ip-EX2uzNjqa2CkewmTpi6_7_O_26584lbPQ5s-2fcQ",
+                        "universalName": "devolo-solutions-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:78925",
+                        "trackingId": "lpCFyKLpQ+6Qwo6kdNeA9w=="
+                    },
+                    "companyName": "devolo AG"
+                },
+                {
+                    "title": "Vice President Strategy and Regulatory Affairs",
+                    "description": "Responsibility for standardization, regulatory affairs, IPR management, research projects.",
+                    "locationName": "Mannheim Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2001
+                        }
+                    },
+                    "companyName": "Power PLUS Communications AG"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr.-Ing.",
+                    "fieldOfStudy": "Electrical Engineering",
+                    "schoolName": "Universität Duisburg-Essen, Standort Duisburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2004
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Dipl.-Ing.",
+                    "fieldOfStudy": "Electrical Engineering",
+                    "schoolName": "Technische Universität Darmstadt",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1991
+                        },
+                        "startDate": {
+                            "year": 1986
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Six Sigma Black Belt",
+                    "schoolName": "Habmann Aufstiegsakademie",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Honorary Professor",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2016
+                    },
+                    "issuer": "University of Duisburg-Essen/Germany, Faculty of Engineering Science"
+                },
+                {
+                    "title": "Interdisciplinary Research and Application Award",
+                    "issueDate": {
+                        "month": 3,
+                        "year": 2016
+                    },
+                    "issuer": "IEEE Communications Society"
+                },
+                {
+                    "title": "GreenTec Award",
+                    "description": "Issued for the ENERGIE Project and devolo AG.",
+                    "issueDate": {
+                        "year": 2016
+                    },
+                    "issuer": "GreenTec"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Italian",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Strategy",
+                "Organizational Development",
+                "Business Development",
+                "Telecommunications"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Visiting Scientist with focus on industrial research at University of Duisburg-Essen. \nTill 03'2020: Executive Vice President at devolo AG",
+            "summary": "- Experience in P&L responsibility for a business unit (incl. sales, product management,\nmarketing, engineering, research, production preparation, etc.)\n- Many years of experience in managing staff. \n- Full industry work experience in a large international company, a start-up and an SME.\n- Long time international political lobbying and worldwide standardization.\n- Building up new organizations twice.\n- Networked through participation within many funding programs to national and\ninternational universities and research institutes.",
+            "student": false,
+            "industryName": "Telecommunications",
+            "industryUrn": "urn:li:fs_industry:8",
+            "geoLocationName": "Bad Dürkheim, Rhineland-Palatinate",
+            "geoCountryName": "Germany",
+            "jobTitle": "Visiting Scientist",
+            "companyName": "University of Duisburg-Essen",
+            "companyPublicId": "university-of-duisburg-essen",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/university-of-duisburg-essen",
+            "following": false,
+            "followable": true,
+            "followersCount": 1004,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "University of Duisburg-Essen",
+        "position": "Visiting Scientist",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Visiting Scientist",
+        "organization": "University of Duisburg-Essen",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/prof-dr-michael-koch-a724a430/",
+        "company": "https://www.linkedin.com/company/university-of-duisburg-essen"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Visiting Scientist",
+            "description": "Within the institute \"Power Transmission and Storage\" my focus is on Smart Grid, IoT and Powerline Communications: As as visiting scientist, I am enjoying very much the facilities of the institute. Everything is there to assess specific issues of the above mentioned technology areas. My research is driven by present needs coming from the industry.",
+            "locationName": "Duisburg, North Rhine-Westphalia, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:22277",
+                "entityUrn": "urn:li:fs_miniCompany:22277",
+                "name": "University of Duisburg-Essen",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEKIKeZWQU06w/company-logo_200_200/company-logo_200_200/0/1630487817436/university_of_duisburg_essen_logo?e=1747872000&v=beta&t=A596Qg5Xx68qfYhrEs3zKMe_QSb8FTQeY9AMoX31NpQ",
+                "universalName": "university-of-duisburg-essen",
+                "dashCompanyUrn": "urn:li:fsd_company:22277",
+                "trackingId": "RdnrK/zUSseKfZmqXLwjCg=="
+            },
+            "companyName": "University of Duisburg-Essen"
+        },
+        {
+            "title": "Owner (CEO & CTO)",
+            "description": "Consulting for a wide range of technologies in the field of electrical engineering and for funding projects. Part-time work as an independent expert for the European Commission, the World Bank and other public institutions.",
+            "locationName": "Bad Dürkheim, Rhineland-Palatinate, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "year": 1993
+                }
+            },
+            "companyName": "Engineering Office Koch"
+        },
+        {
+            "title": "Executive Vice President / Geschäftsbereichsleiter Smart Grid",
+            "description": "Head of devolo's Smart Grid business unit with full P&L responsibility (comparable to Managing Director / Geschäftsführer) as well as the company's overall Strategic Positioning.",
+            "locationName": "Kreisfreie Stadt Aachen und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:78925",
+                "entityUrn": "urn:li:fs_miniCompany:78925",
+                "name": "devolo solutions GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHV9q0wzaGYsA/company-logo_200_200/company-logo_200_200/0/1638957532466/devolo_ag_logo?e=1747872000&v=beta&t=Ip-EX2uzNjqa2CkewmTpi6_7_O_26584lbPQ5s-2fcQ",
+                "universalName": "devolo-solutions-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:78925",
+                "trackingId": "/ViSks2+S9KlyfrDWbye/Q=="
+            },
+            "companyName": "devolo AG"
+        },
+        {
+            "title": "Vice President Strategic Positioning",
+            "description": "Responsibility for assessment of new business areas, standardization, regulatory affairs, IPR management, research projects (comparable to CTO responsibilities).",
+            "locationName": "Kreisfreie Stadt Aachen Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:78925",
+                "entityUrn": "urn:li:fs_miniCompany:78925",
+                "name": "devolo solutions GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHV9q0wzaGYsA/company-logo_200_200/company-logo_200_200/0/1638957532466/devolo_ag_logo?e=1747872000&v=beta&t=Ip-EX2uzNjqa2CkewmTpi6_7_O_26584lbPQ5s-2fcQ",
+                "universalName": "devolo-solutions-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:78925",
+                "trackingId": "lpCFyKLpQ+6Qwo6kdNeA9w=="
+            },
+            "companyName": "devolo AG"
+        },
+        {
+            "title": "Vice President Strategy and Regulatory Affairs",
+            "description": "Responsibility for standardization, regulatory affairs, IPR management, research projects.",
+            "locationName": "Mannheim Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2001
+                }
+            },
+            "companyName": "Power PLUS Communications AG"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr.-Ing.",
+            "fieldOfStudy": "Electrical Engineering",
+            "schoolName": "Universität Duisburg-Essen, Standort Duisburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            }
+        },
+        {
+            "degreeName": "Dipl.-Ing.",
+            "fieldOfStudy": "Electrical Engineering",
+            "schoolName": "Technische Universität Darmstadt",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1991
+                },
+                "startDate": {
+                    "year": 1986
+                }
+            }
+        },
+        {
+            "degreeName": "Six Sigma Black Belt",
+            "schoolName": "Habmann Aufstiegsakademie",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Strategy",
+        "Organizational Development",
+        "Business Development",
+        "Telecommunications"
+    ],
+    "lastEnriched": "2025-02-17"
+}

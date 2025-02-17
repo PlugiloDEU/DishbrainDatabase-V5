@@ -1,0 +1,404 @@
+{
+    "id": "exp259695967",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Maria",
+        "lastName": "Schmidt",
+        "fullName": "Maria Schmidt",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQEiRpLK9lO1wg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1569592053935?e=1745452800&v=beta&t=mqbK9a_RyA9jQHSoJo-ZOwzb01eIG5wPjkeRqYgvWEk",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "259695967",
+            "profileId": "ACoAAA96pV8Bg9dJsYhqnxCy2rHHk-fb3WtkxLk",
+            "firstName": "Maria",
+            "lastName": "Schmidt",
+            "occupation": "Terminal Director",
+            "publicIdentifier": "maria-schmidt-027b7b72",
+            "trackingId": "UjqsOkCsRHWTcz97FBh4Og==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEiRpLK9lO1wg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1569592053935?e=1745452800&v=beta&t=mqbK9a_RyA9jQHSoJo-ZOwzb01eIG5wPjkeRqYgvWEk",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104937023",
+            "positions": [
+                {
+                    "title": "Terminal Director",
+                    "locationName": "Philadelphia, Pennsylvania, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Hospitality"
+                        ],
+                        "objectUrn": "urn:li:company:84565",
+                        "entityUrn": "urn:li:fs_miniCompany:84565",
+                        "name": "OTG Management",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGvo7tgXSZIRA/company-logo_200_200/company-logo_200_200/0/1630565989606/otg_management_logo?e=1747872000&v=beta&t=kXv2kWx6G2eaicDbbFEFWbJcjJae1tpDXUAuSp4s-zw",
+                        "universalName": "otg-management",
+                        "dashCompanyUrn": "urn:li:fsd_company:84565",
+                        "trackingId": "V7crnyLZRp23IWfBm/0esQ=="
+                    },
+                    "companyName": "OTG Management"
+                },
+                {
+                    "title": "Airport Executive Chef",
+                    "locationName": "Philadelphia, Pennsylvania, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Hospitality"
+                        ],
+                        "objectUrn": "urn:li:company:84565",
+                        "entityUrn": "urn:li:fs_miniCompany:84565",
+                        "name": "OTG Management",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGvo7tgXSZIRA/company-logo_200_200/company-logo_200_200/0/1630565989606/otg_management_logo?e=1747872000&v=beta&t=kXv2kWx6G2eaicDbbFEFWbJcjJae1tpDXUAuSp4s-zw",
+                        "universalName": "otg-management",
+                        "dashCompanyUrn": "urn:li:fsd_company:84565",
+                        "trackingId": "1Ae5fm8STsCu0zwS/hR72w=="
+                    },
+                    "companyName": "OTG Management"
+                },
+                {
+                    "title": "Executive Chef",
+                    "locationName": "Atlantic City NJ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "Tropicana Entertainment Inc. Olon and Okatshe"
+                },
+                {
+                    "title": "Executive Chef",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Hospitality"
+                        ],
+                        "objectUrn": "urn:li:company:1581900",
+                        "entityUrn": "urn:li:fs_miniCompany:1581900",
+                        "name": "Garces Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHt70Tqw8iIgQ/company-logo_200_200/company-logo_200_200/0/1631302345010?e=1747872000&v=beta&t=xABSkxKbMzMnzDRcWu0L-ZkcNy7WFfm6sJYHRAnCWMA",
+                        "universalName": "garces-restaurant-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:1581900",
+                        "trackingId": "RI5Ho3ZlQ5KsQ8ItSmWMIw=="
+                    },
+                    "companyName": "Garces Group"
+                },
+                {
+                    "title": "Executive Chef",
+                    "description": "Distrito, Buena Onda, 24, Garces test kitchen",
+                    "locationName": "Philadelphia, Pennsylvania, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Hospitality"
+                        ],
+                        "objectUrn": "urn:li:company:1581900",
+                        "entityUrn": "urn:li:fs_miniCompany:1581900",
+                        "name": "Garces Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHt70Tqw8iIgQ/company-logo_200_200/company-logo_200_200/0/1631302345010?e=1747872000&v=beta&t=xABSkxKbMzMnzDRcWu0L-ZkcNy7WFfm6sJYHRAnCWMA",
+                        "universalName": "garces-restaurant-group",
+                        "dashCompanyUrn": "urn:li:fsd_company:1581900",
+                        "trackingId": "3P/5v2v3SF2/iL+OmuZ5Bw=="
+                    },
+                    "companyName": "Garces Group"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Arts - BA",
+                    "fieldOfStudy": "Culinary Arts/Chef Training",
+                    "schoolName": "The Restaurant School at Walnut Hill College",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Business Analysis",
+                "Menu Development",
+                "Cuisine",
+                "Fine Dining"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Terminal Director ",
+            "student": false,
+            "industryName": "Hospitality",
+            "industryUrn": "urn:li:fs_industry:31",
+            "geoLocationName": "Philadelphia, Pennsylvania",
+            "geoCountryName": "United States",
+            "jobTitle": "Terminal Director",
+            "companyName": "OTG Management",
+            "companyPublicId": "otg-management",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/otg-management",
+            "following": false,
+            "followable": true,
+            "followersCount": 519,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "OTG Management",
+        "position": "Terminal Director",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Hospitality"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Terminal Director",
+        "organization": "OTG Management",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/maria-schmidt-027b7b72/",
+        "company": "https://www.linkedin.com/company/otg-management"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Terminal Director",
+            "locationName": "Philadelphia, Pennsylvania, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Hospitality"
+                ],
+                "objectUrn": "urn:li:company:84565",
+                "entityUrn": "urn:li:fs_miniCompany:84565",
+                "name": "OTG Management",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGvo7tgXSZIRA/company-logo_200_200/company-logo_200_200/0/1630565989606/otg_management_logo?e=1747872000&v=beta&t=kXv2kWx6G2eaicDbbFEFWbJcjJae1tpDXUAuSp4s-zw",
+                "universalName": "otg-management",
+                "dashCompanyUrn": "urn:li:fsd_company:84565",
+                "trackingId": "V7crnyLZRp23IWfBm/0esQ=="
+            },
+            "companyName": "OTG Management"
+        },
+        {
+            "title": "Airport Executive Chef",
+            "locationName": "Philadelphia, Pennsylvania, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Hospitality"
+                ],
+                "objectUrn": "urn:li:company:84565",
+                "entityUrn": "urn:li:fs_miniCompany:84565",
+                "name": "OTG Management",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGvo7tgXSZIRA/company-logo_200_200/company-logo_200_200/0/1630565989606/otg_management_logo?e=1747872000&v=beta&t=kXv2kWx6G2eaicDbbFEFWbJcjJae1tpDXUAuSp4s-zw",
+                "universalName": "otg-management",
+                "dashCompanyUrn": "urn:li:fsd_company:84565",
+                "trackingId": "1Ae5fm8STsCu0zwS/hR72w=="
+            },
+            "companyName": "OTG Management"
+        },
+        {
+            "title": "Executive Chef",
+            "locationName": "Atlantic City NJ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "companyName": "Tropicana Entertainment Inc. Olon and Okatshe"
+        },
+        {
+            "title": "Executive Chef",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Hospitality"
+                ],
+                "objectUrn": "urn:li:company:1581900",
+                "entityUrn": "urn:li:fs_miniCompany:1581900",
+                "name": "Garces Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHt70Tqw8iIgQ/company-logo_200_200/company-logo_200_200/0/1631302345010?e=1747872000&v=beta&t=xABSkxKbMzMnzDRcWu0L-ZkcNy7WFfm6sJYHRAnCWMA",
+                "universalName": "garces-restaurant-group",
+                "dashCompanyUrn": "urn:li:fsd_company:1581900",
+                "trackingId": "RI5Ho3ZlQ5KsQ8ItSmWMIw=="
+            },
+            "companyName": "Garces Group"
+        },
+        {
+            "title": "Executive Chef",
+            "description": "Distrito, Buena Onda, 24, Garces test kitchen",
+            "locationName": "Philadelphia, Pennsylvania, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Hospitality"
+                ],
+                "objectUrn": "urn:li:company:1581900",
+                "entityUrn": "urn:li:fs_miniCompany:1581900",
+                "name": "Garces Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHt70Tqw8iIgQ/company-logo_200_200/company-logo_200_200/0/1631302345010?e=1747872000&v=beta&t=xABSkxKbMzMnzDRcWu0L-ZkcNy7WFfm6sJYHRAnCWMA",
+                "universalName": "garces-restaurant-group",
+                "dashCompanyUrn": "urn:li:fsd_company:1581900",
+                "trackingId": "3P/5v2v3SF2/iL+OmuZ5Bw=="
+            },
+            "companyName": "Garces Group"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Arts - BA",
+            "fieldOfStudy": "Culinary Arts/Chef Training",
+            "schoolName": "The Restaurant School at Walnut Hill College",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Business Analysis",
+        "Menu Development",
+        "Cuisine",
+        "Fine Dining"
+    ],
+    "lastEnriched": "2025-02-17"
+}

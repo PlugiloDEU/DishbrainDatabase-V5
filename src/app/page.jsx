@@ -16,8 +16,9 @@ import { toast } from 'react-hot-toast';
 import ExportButton from '@/components/export-button';
 import ExpertCard from '../components/expert-card';
 import { motion } from 'framer-motion';
+import DocumentManagement from '../components/document-management';
 
-const DEFAULT_AVATAR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23CBD5E0' d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z'/%3E%3C/svg%3E";
+const DEFAULT_AVATAR = "/experts/avatar.jpg";
 
 function AdvancedSearchModal({ onClose, onSearch }) {
   const [filters, setFilters] = useState({
@@ -198,18 +199,38 @@ const getCompanyLogo = (domain) => {
 const getImageUrl = (expert) => {
   if (!expert) return DEFAULT_AVATAR;
   
-  // If it's already a full URL, use it
+  // Check for direct image URL
   if (expert.image_url?.startsWith('http')) {
     return expert.image_url;
   }
   
   // Check for image in personalInfo
+  if (expert.personalInfo?.image?.startsWith('http')) {
+    return expert.personalInfo.image;
+  }
+  
+  // Check for relative paths in personalInfo
   if (expert.personalInfo?.image?.startsWith('/')) {
     return `${window.location.origin}${expert.personalInfo.image}`;
   }
   
+  // Check for imageUrl in personalInfo
+  if (expert.personalInfo?.imageUrl?.startsWith('http')) {
+    return expert.personalInfo.imageUrl;
+  }
+  
   if (expert.personalInfo?.imageUrl?.startsWith('/')) {
     return `${window.location.origin}${expert.personalInfo.imageUrl}`;
+  }
+  
+  // Check for LinkedIn profile image
+  if (expert.personalInfo?.allData?.profilePicture) {
+    return expert.personalInfo.allData.profilePicture;
+  }
+  
+  // Check for company logo as fallback for company representatives
+  if (expert.company?.logo?.startsWith('http')) {
+    return expert.company.logo;
   }
   
   // Fallback to default avatar
@@ -235,52 +256,227 @@ const renderExpertCard = (expert, setSelectedExpert) => (
     className="bg-gradient-to-br from-gray-900 to-black rounded-xl p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg transform transition-all duration-300 hover:shadow-xl hover:border-blue-500/30"
   >
     <div className="flex items-start space-x-4">
-      {/* Expert Image */}
-      <div className="relative w-24 h-24 flex-shrink-0">
+      {/* Expert Image with Verification */}
+      <div className="relative w-24 h-24 flex-shrink-0 rounded-lg overflow-hidden bg-gradient-to-br from-gray-800 to-gray-900 ring-1 ring-gray-700/50">
+        <div className="absolute inset-0 bg-gradient-to-br from-blue-500/10 to-purple-500/10"></div>
         <img
           src={getImageUrl(expert)}
           alt={getDisplayName(expert)}
-          className="w-full h-full object-cover rounded-lg ring-2 ring-blue-500/20 shadow-lg"
+          className="w-full h-full object-cover relative z-10 transition-opacity duration-200"
           onError={(e) => {
             e.target.onerror = null;
             e.target.src = DEFAULT_AVATAR;
+            e.target.classList.add('opacity-75');
           }}
+          loading="lazy"
         />
-        {expert.sources?.image?.license && (
-          <div className="absolute bottom-0 right-0 bg-black/50 text-xs text-white px-1 rounded">
-            <i className="fas fa-camera mr-1"></i>
-            {expert.sources.image.license}
+        {expert.verified && (
+          <div className="absolute bottom-0 right-0 bg-blue-500 text-white p-1 rounded-tl-lg z-20">
+            <i className="fas fa-check-circle text-xs"></i>
           </div>
         )}
       </div>
 
       {/* Expert Info */}
       <div className="flex-1 min-w-0">
-        <h3 className="text-lg font-semibold bg-gradient-to-r from-blue-400 to-blue-600 bg-clip-text text-transparent">
-          {getDisplayName(expert)}
-        </h3>
-        <p className="text-sm text-gray-400 mt-1">{expert.position}</p>
-        <p className="text-sm text-gray-500">{expert.organisation}</p>
+        {/* Name and Title Section */}
+        <div className="flex items-start justify-between">
+          <div>
+            <h3 className="text-lg font-semibold bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent truncate">
+              {getDisplayName(expert)}
+            </h3>
+            {expert.personalInfo?.title && (
+              <p className="text-sm text-blue-400">
+                {expert.personalInfo.title}
+              </p>
+            )}
+          </div>
+          <div className="flex flex-col items-end text-xs">
+            {expert.nationality && (
+              <span className="text-gray-500">{expert.nationality}</span>
+            )}
+            {expert.personalInfo?.dateOfBirth && (
+              <span className="text-gray-500">
+                {new Date(expert.personalInfo.dateOfBirth).toLocaleDateString('de-DE')}
+              </span>
+            )}
+          </div>
+        </div>
 
-        {/* Expertise Tags */}
-        <div className="mt-3 flex flex-wrap gap-2">
-          {getExpertiseArray(expert).slice(0, 3).map((item, index) => (
-            <span
-              key={index}
-              className="px-3 py-1 text-xs rounded-full bg-blue-900/30 text-blue-400 border border-blue-800/50 shadow-inner"
-            >
-              {item}
-            </span>
-          ))}
-          {getExpertiseArray(expert).length > 3 && (
-            <span className="text-gray-500 text-xs">
-              +{getExpertiseArray(expert).length - 3} weitere
-            </span>
+        {/* Current Position */}
+        <div className="mt-2">
+          <p className="text-sm text-gray-300 font-medium truncate">
+            {expert.currentRole?.title || expert.position}
+          </p>
+          <p className="text-sm text-gray-400 truncate">
+            {expert.currentRole?.organization || expert.organisation}
+          </p>
+          {(expert.currentRole?.location || expert.standort) && (
+            <p className="text-xs text-gray-500 flex items-center gap-1 mt-0.5">
+              <i className="fas fa-map-marker-alt"></i>
+              {expert.currentRole?.location || expert.standort}
+            </p>
+          )}
+          {expert.currentRole?.period && (
+            <p className="text-xs text-gray-500">
+              <i className="fas fa-calendar-alt mr-1"></i>
+              {expert.currentRole.period}
+            </p>
+          )}
+        </div>
+
+        {/* Summary */}
+        {expert.personalInfo?.allData?.summary && (
+          <div className="mt-3 text-sm text-gray-400 line-clamp-2">
+            <p>{expert.personalInfo.allData.summary}</p>
+          </div>
+        )}
+
+        {/* Expertise and Skills */}
+        <div className="mt-3">
+          {/* Primary Expertise */}
+          <div className="flex flex-wrap gap-2">
+            {getExpertiseArray(expert).slice(0, 3).map((item, index) => (
+              <span
+                key={index}
+                className="px-3 py-1 text-xs rounded-full bg-blue-900/30 text-blue-400 border border-blue-800/50 shadow-inner truncate max-w-[150px]"
+              >
+                {item}
+              </span>
+            ))}
+            {getExpertiseArray(expert).length > 3 && (
+              <span className="text-gray-500 text-xs">
+                +{getExpertiseArray(expert).length - 3} weitere
+              </span>
+            )}
+          </div>
+
+          {/* Skills */}
+          {expert.skills?.length > 0 && (
+            <div className="mt-2 flex flex-wrap gap-1">
+              {expert.skills.slice(0, 3).map((skill, index) => (
+                <span
+                  key={index}
+                  className="px-2 py-0.5 text-xs rounded-full bg-gray-800 text-gray-400 border border-gray-700/50"
+                >
+                  {skill}
+                </span>
+              ))}
+              {expert.skills.length > 3 && (
+                <span className="text-gray-500 text-xs">
+                  +{expert.skills.length - 3}
+                </span>
+              )}
+            </div>
+          )}
+        </div>
+
+        {/* Additional Info Grid */}
+        <div className="mt-3 grid grid-cols-2 gap-2 text-xs">
+          {/* Education */}
+          {expert.education?.length > 0 && (
+            <div className="col-span-2">
+              <div className="text-gray-400 font-medium mb-1">Education</div>
+              <div className="space-y-1">
+                {expert.education.slice(0, 2).map((edu, index) => (
+                  <div key={index} className="flex flex-col">
+                    <span className="text-gray-300">{edu.degreeName}</span>
+                    <span className="text-gray-500">{edu.schoolName}</span>
+                    <span className="text-gray-600">{edu.fieldOfStudy}</span>
+                  </div>
+                ))}
+                {expert.education.length > 2 && (
+                  <span className="text-gray-500">+{expert.education.length - 2} more</span>
+                )}
+              </div>
+            </div>
+          )}
+
+          {/* Professional Memberships */}
+          {expert.professionalMemberships?.length > 0 && (
+            <div className="col-span-2">
+              <div className="text-gray-400 font-medium mb-1">Professional Memberships</div>
+              <div className="space-y-1">
+                {expert.professionalMemberships.slice(0, 2).map((membership, index) => (
+                  <div key={index} className="flex flex-col">
+                    <span className="text-gray-300">{membership.organization}</span>
+                    {membership.roles ? (
+                      membership.roles.map((role, idx) => (
+                        <span key={idx} className="text-gray-500">
+                          {role.position} ({role.period})
+                        </span>
+                      ))
+                    ) : (
+                      <span className="text-gray-500">
+                        {membership.role} {membership.period && `(${membership.period})`}
+                      </span>
+                    )}
+                  </div>
+                ))}
+                {expert.professionalMemberships.length > 2 && (
+                  <span className="text-gray-500">+{expert.professionalMemberships.length - 2} more</span>
+                )}
+              </div>
+            </div>
+          )}
+
+          {/* Publications */}
+          {expert.publications?.length > 0 && (
+            <div className="col-span-2">
+              <div className="text-gray-400 font-medium mb-1">Recent Publications</div>
+              <div className="space-y-1">
+                {expert.publications.slice(0, 2).map((pub, index) => (
+                  <div key={index} className="text-gray-300 text-xs">
+                    <p className="line-clamp-1">{pub.title}</p>
+                    <p className="text-gray-500">
+                      {pub.journal || pub.publisher} ({pub.year})
+                    </p>
+                  </div>
+                ))}
+                {expert.publications.length > 2 && (
+                  <span className="text-gray-500">+{expert.publications.length - 2} more</span>
+                )}
+              </div>
+            </div>
+          )}
+
+          {/* Awards */}
+          {expert.awards?.length > 0 && (
+            <div className="col-span-2">
+              <div className="text-gray-400 font-medium mb-1">Awards</div>
+              <div className="space-y-1">
+                {expert.awards.slice(0, 2).map((award, index) => (
+                  <div key={index} className="flex flex-col">
+                    <span className="text-gray-300">{award.name}</span>
+                    <span className="text-gray-500">
+                      {award.type && `${award.type} - `}{award.year}
+                    </span>
+                  </div>
+                ))}
+                {expert.awards.length > 2 && (
+                  <span className="text-gray-500">+{expert.awards.length - 2} more</span>
+                )}
+              </div>
+            </div>
+          )}
+
+          {/* Languages */}
+          {expert.personalInfo?.languages?.length > 0 && (
+            <div className="col-span-2">
+              <div className="text-gray-400 font-medium mb-1">Languages</div>
+              <div className="flex flex-wrap gap-2">
+                {expert.personalInfo.languages.map((lang, index) => (
+                  <span key={index} className="text-gray-300">
+                    {lang}
+                  </span>
+                ))}
+              </div>
+            </div>
           )}
         </div>
 
         {/* Action Buttons */}
-        <div className="mt-4 flex gap-2">
+        <div className="mt-4 flex flex-wrap gap-2">
           <button
             onClick={() => setSelectedExpert(expert)}
             className="px-3 py-1.5 bg-gradient-to-r from-blue-900 to-blue-800 text-blue-100 rounded-lg hover:from-blue-800 hover:to-blue-700 transition-all duration-300 shadow-lg shadow-blue-900/20 text-sm flex items-center gap-2"
@@ -288,39 +484,62 @@ const renderExpertCard = (expert, setSelectedExpert) => (
             <i className="fas fa-info-circle"></i>
             Details
           </button>
-          <button
-            onClick={() => handleContactExpert(expert)}
-            className="px-3 py-1.5 bg-gradient-to-r from-gray-800 to-gray-900 text-gray-300 rounded-lg hover:from-gray-700 hover:to-gray-800 transition-all duration-300 shadow-lg shadow-gray-900/20 text-sm flex items-center gap-2"
-          >
-            <i className="fas fa-envelope"></i>
-            Kontakt
-          </button>
+          {expert.personalInfo?.email && (
+            <button
+              onClick={() => window.location.href = `mailto:${expert.personalInfo.email}`}
+              className="px-3 py-1.5 bg-gradient-to-r from-gray-800 to-gray-900 text-gray-300 rounded-lg hover:from-gray-700 hover:to-gray-800 transition-all duration-300 shadow-lg shadow-gray-900/20 text-sm flex items-center gap-2"
+            >
+              <i className="fas fa-envelope"></i>
+              Kontakt
+            </button>
+          )}
+          {expert.profiles?.linkedin && (
+            <a
+              href={expert.profiles.linkedin}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="px-3 py-1.5 bg-gradient-to-r from-blue-700 to-blue-800 text-blue-100 rounded-lg hover:from-blue-600 hover:to-blue-700 transition-all duration-300 shadow-lg shadow-blue-900/20 text-sm flex items-center gap-2"
+            >
+              <i className="fab fa-linkedin"></i>
+              LinkedIn
+            </a>
+          )}
         </div>
       </div>
-
-      {/* Verification Badge */}
-      {expert.verified && (
-        <div className="absolute top-4 right-4">
-          <i className="fas fa-check-circle text-blue-500"></i>
-        </div>
-      )}
     </div>
 
-    {/* Data Quality Indicator */}
+    {/* Footer Section */}
     <div className="mt-4 pt-4 border-t border-gray-800/50">
       <div className="flex items-center justify-between text-xs">
-        <span className="text-gray-500">Datenqualität</span>
-        <div className="flex items-center gap-2">
-          <div className="w-24 h-1.5 bg-gray-800 rounded-full overflow-hidden">
-            <div
-              className="h-full bg-gradient-to-r from-blue-600 to-blue-400 rounded-full"
-              style={{ width: `${expert.data_quality?.completeness * 100}%` }}
-            ></div>
+        {/* Data Quality and Sources */}
+        <div className="flex items-center gap-4">
+          <div className="flex items-center gap-2">
+            <span className="text-gray-500">Datenqualität</span>
+            <div className="w-24 h-1.5 bg-gray-800 rounded-full overflow-hidden">
+              <div
+                className="h-full bg-gradient-to-r from-blue-600 to-blue-400 rounded-full"
+                style={{ width: `${(expert.data_quality?.completeness || 0.5) * 100}%` }}
+              ></div>
+            </div>
+            <span className="text-blue-400">
+              {Math.round((expert.data_quality?.completeness || 0.5) * 100)}%
+            </span>
           </div>
-          <span className="text-blue-400">
-            {Math.round(expert.data_quality?.completeness * 100)}%
-          </span>
+          {expert.source && (
+            <span className="text-gray-500">
+              <i className="fas fa-database mr-1"></i>
+              {expert.source}
+            </span>
+          )}
         </div>
+
+        {/* Last Updated */}
+        {expert.last_updated && (
+          <div className="text-gray-500">
+            <i className="fas fa-clock mr-1"></i>
+            {new Date(expert.last_updated).toLocaleDateString('de-DE')}
+          </div>
+        )}
       </div>
     </div>
   </motion.div>
@@ -399,17 +618,48 @@ const Page = () => {
   const [showAddCompanyPopup, setShowAddCompanyPopup] = useState(false);
   const [selectedCompany, setSelectedCompany] = useState(null);
   const [isLoading, setIsLoading] = useState(false);
+  const [showDropdown, setShowDropdown] = useState(null);
 
   const menuItems = [
     { id: 'dashboard', label: 'Dashboard', icon: 'fas fa-chart-line' },
     { id: 'experts', label: 'KI Experten', icon: 'fas fa-users' },
     { id: 'office', label: 'Büro Tools', icon: 'fas fa-toolbox' },
     { id: 'development', label: 'Entwicklung', icon: 'fas fa-code' },
-    { id: 'firms', label: 'KI Firmen', icon: 'fas fa-building' }
+    { id: 'firms', label: 'KI Firmen', icon: 'fas fa-building' },
+    {
+      id: 'docu-cloud',
+      label: 'Docu-Cloud',
+      icon: 'fas fa-cloud',
+      hasDropdown: true,
+      dropdownItems: [
+        {
+          id: 'document-management',
+          label: 'Dokumentenverwaltung',
+          icon: 'fas fa-folder'
+        },
+        {
+          id: 'setup',
+          label: 'Setup',
+          icon: 'fas fa-cog'
+        },
+        {
+          id: 'search',
+          label: 'Suchen',
+          icon: 'fas fa-search'
+        }
+      ]
+    }
   ];
 
-  const handleMenuClick = (moduleId) => {
-    setActiveModule(moduleId);
+  const handleMenuClick = (moduleId, subId = null) => {
+    if (moduleId === 'docu-cloud' && !subId) {
+      setShowDropdown(showDropdown === 'docu-cloud' ? null : 'docu-cloud');
+      return;
+    }
+    
+    const finalId = subId || moduleId;
+    setActiveModule(finalId);
+    setShowDropdown(null);
   };
 
   const handleGeneralSearch = useCallback(async () => {
@@ -1217,6 +1467,8 @@ const Page = () => {
             </div>
           </div>
         );
+      case 'document-management':
+        return <DocumentManagement />;
       default:
         return <div className="p-6">Select a module</div>;
     }
@@ -1283,6 +1535,17 @@ const Page = () => {
     </div>
   );
 
+  useEffect(() => {
+    const handleClickOutside = (event) => {
+      if (showDropdown && !event.target.closest('.relative')) {
+        setShowDropdown(null);
+      }
+    };
+
+    document.addEventListener('click', handleClickOutside);
+    return () => document.removeEventListener('click', handleClickOutside);
+  }, [showDropdown]);
+
   return (
     <div className="font-cabin min-h-screen flex flex-col bg-gradient-to-br from-gray-900 via-black to-gray-900 text-gray-100">
       <nav className="bg-gradient-to-br from-gray-900 to-black border-b border-gray-800/50 shadow-xl backdrop-blur-sm">
@@ -1296,18 +1559,41 @@ const Page = () => {
 
             <div className="flex">
               {menuItems.map((item) => (
-                <button 
-                  key={item.id}
-                  onClick={() => handleMenuClick(item.id)}
-                  className={`inline-flex items-center px-4 py-2 border-b-2 text-sm font-medium transition-colors ${
-                    activeModule === item.id
-                      ? 'border-blue-500 text-blue-400 bg-gray-800/30'
-                      : 'border-transparent text-gray-400 hover:text-gray-200 hover:bg-gray-800/20'
-                  }`}
-                >
-                  <i className={`${item.icon} mr-2`}></i>
-                  {item.label}
-                </button>
+                <div key={item.id} className="relative">
+                  <button 
+                    onClick={() => item.hasDropdown ? setShowDropdown(item.id) : handleMenuClick(item.id)}
+                    className={`inline-flex items-center px-4 py-2 border-b-2 text-sm font-medium transition-colors ${
+                      activeModule === item.id
+                        ? 'border-blue-500 text-blue-400 bg-gray-800/30'
+                        : 'border-transparent text-gray-400 hover:text-gray-200 hover:bg-gray-800/20'
+                    }`}
+                  >
+                    <i className={`${item.icon} mr-2`}></i>
+                    {item.label}
+                    {item.hasDropdown && (
+                      <i className="fas fa-chevron-down ml-2 text-xs"></i>
+                    )}
+                  </button>
+
+                  {/* Dropdown Menu */}
+                  {item.hasDropdown && showDropdown === item.id && (
+                    <div className="absolute top-full left-0 mt-1 w-56 bg-gradient-to-br from-gray-900 to-black rounded-lg border border-gray-800/50 shadow-xl backdrop-blur-sm z-50">
+                      {item.dropdownItems.map((dropdownItem) => (
+                        <button
+                          key={dropdownItem.id}
+                          onClick={() => {
+                            handleMenuClick(item.id, dropdownItem.id);
+                            setShowDropdown(null);
+                          }}
+                          className="w-full px-4 py-2 text-left text-sm text-gray-300 hover:bg-gray-800/50 first:rounded-t-lg last:rounded-b-lg flex items-center gap-2"
+                        >
+                          <i className={`${dropdownItem.icon} w-4`}></i>
+                          {dropdownItem.label}
+                        </button>
+                      ))}
+                    </div>
+                  )}
+                </div>
               ))}
             </div>
 

@@ -1,0 +1,498 @@
+{
+    "id": "exp951639117",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Jannis",
+        "lastName": "Doppmeier",
+        "fullName": "Jannis Doppmeier",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQH5wl42hCok0g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1688066816831?e=1745452800&v=beta&t=Oy8hzJHWJSNzRRrpgUeNnskj5b3Y-NYSEROomO-MQgE",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "951639117",
+            "profileId": "ACoAADi43E0BcQgIBPxLDRDKa2p_MjaieCnWoXY",
+            "firstName": "Jannis",
+            "lastName": "Doppmeier",
+            "occupation": "--",
+            "publicIdentifier": "jannis-doppmeier-0b9851226",
+            "trackingId": "ht8lVxTuQnezTIO8xcBYBg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH5wl42hCok0g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1688066816831?e=1745452800&v=beta&t=Oy8hzJHWJSNzRRrpgUeNnskj5b3Y-NYSEROomO-MQgE",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106439860",
+            "positions": [
+                {
+                    "title": "Produktmanager",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:62059",
+                        "entityUrn": "urn:li:fs_miniCompany:62059",
+                        "name": "Beckhoff Automation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                        "universalName": "beckhoff-automation",
+                        "dashCompanyUrn": "urn:li:fsd_company:62059",
+                        "trackingId": "bTDln30NQwOiTbqypHkAeg=="
+                    },
+                    "companyName": "Beckhoff Automation"
+                },
+                {
+                    "title": "Projektleiter",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:62059",
+                        "entityUrn": "urn:li:fs_miniCompany:62059",
+                        "name": "Beckhoff Automation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                        "universalName": "beckhoff-automation",
+                        "dashCompanyUrn": "urn:li:fsd_company:62059",
+                        "trackingId": "Z9Y83CU6TMWBBFmh9fPOeQ=="
+                    },
+                    "companyName": "Beckhoff Automation"
+                },
+                {
+                    "title": "Student",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:62059",
+                        "entityUrn": "urn:li:fs_miniCompany:62059",
+                        "name": "Beckhoff Automation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                        "universalName": "beckhoff-automation",
+                        "dashCompanyUrn": "urn:li:fsd_company:62059",
+                        "trackingId": "RAv25DbES/2DjgzwplYFrw=="
+                    },
+                    "companyName": "Beckhoff Automation"
+                },
+                {
+                    "title": "Elektroniker für Betriebstechnik",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:62059",
+                        "entityUrn": "urn:li:fs_miniCompany:62059",
+                        "name": "Beckhoff Automation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                        "universalName": "beckhoff-automation",
+                        "dashCompanyUrn": "urn:li:fsd_company:62059",
+                        "trackingId": "0sE1lSbDTQeFA34X7GvEDQ=="
+                    },
+                    "companyName": "Beckhoff Automation"
+                },
+                {
+                    "title": "Elektroniker für Betriebstechnik",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:62059",
+                        "entityUrn": "urn:li:fs_miniCompany:62059",
+                        "name": "Beckhoff Automation",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                        "universalName": "beckhoff-automation",
+                        "dashCompanyUrn": "urn:li:fsd_company:62059",
+                        "trackingId": "8mYOD7reTdWVvNjZCThClQ=="
+                    },
+                    "companyName": "Beckhoff Automation"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Engineering - BE",
+                    "fieldOfStudy": "Mechatronik, Robotik und Automatisierungstechnik",
+                    "schoolName": "Fachhochschule Bielefeld",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Fachhochschulreife",
+                    "schoolName": "Carl-Miele-Berufskolleg Gütersloh",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2009
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Elektroniker für Betriebstechnik",
+                    "schoolName": "Carl-Miele-Berufskolleg Gütersloh",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2005
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Generative KI",
+                "Generative KI-Tools",
+                "Software-Produktmanagement",
+                "LLM"
+            ],
+            "volunteerExperiences": [],
+            "headline": "--",
+            "student": false,
+            "industryName": "Industrial Automation",
+            "industryUrn": "urn:li:fs_industry:147",
+            "geoLocationName": "Gütersloh, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Produktmanager",
+            "companyName": "Beckhoff Automation",
+            "companyPublicId": "beckhoff-automation",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/beckhoff-automation",
+            "following": false,
+            "followable": true,
+            "followersCount": 204,
+            "connectionsCount": 197,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Beckhoff Automation",
+        "position": "Produktmanager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Industrial Automation"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Produktmanager",
+        "organization": "Beckhoff Automation",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/jannis-doppmeier-0b9851226/",
+        "company": "https://www.linkedin.com/company/beckhoff-automation"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Produktmanager",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:62059",
+                "entityUrn": "urn:li:fs_miniCompany:62059",
+                "name": "Beckhoff Automation",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                "universalName": "beckhoff-automation",
+                "dashCompanyUrn": "urn:li:fsd_company:62059",
+                "trackingId": "bTDln30NQwOiTbqypHkAeg=="
+            },
+            "companyName": "Beckhoff Automation"
+        },
+        {
+            "title": "Projektleiter",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:62059",
+                "entityUrn": "urn:li:fs_miniCompany:62059",
+                "name": "Beckhoff Automation",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                "universalName": "beckhoff-automation",
+                "dashCompanyUrn": "urn:li:fsd_company:62059",
+                "trackingId": "Z9Y83CU6TMWBBFmh9fPOeQ=="
+            },
+            "companyName": "Beckhoff Automation"
+        },
+        {
+            "title": "Student",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:62059",
+                "entityUrn": "urn:li:fs_miniCompany:62059",
+                "name": "Beckhoff Automation",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                "universalName": "beckhoff-automation",
+                "dashCompanyUrn": "urn:li:fsd_company:62059",
+                "trackingId": "RAv25DbES/2DjgzwplYFrw=="
+            },
+            "companyName": "Beckhoff Automation"
+        },
+        {
+            "title": "Elektroniker für Betriebstechnik",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:62059",
+                "entityUrn": "urn:li:fs_miniCompany:62059",
+                "name": "Beckhoff Automation",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                "universalName": "beckhoff-automation",
+                "dashCompanyUrn": "urn:li:fsd_company:62059",
+                "trackingId": "0sE1lSbDTQeFA34X7GvEDQ=="
+            },
+            "companyName": "Beckhoff Automation"
+        },
+        {
+            "title": "Elektroniker für Betriebstechnik",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:62059",
+                "entityUrn": "urn:li:fs_miniCompany:62059",
+                "name": "Beckhoff Automation",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQERISfs8ph8SA/company-logo_200_200/company-logo_200_200/0/1640954405509/beckhoff_automation_logo?e=1747872000&v=beta&t=bS7ZGBsFQOjb-Exc5U4t-phf86gWjYnnZ74B_rnjfI4",
+                "universalName": "beckhoff-automation",
+                "dashCompanyUrn": "urn:li:fsd_company:62059",
+                "trackingId": "8mYOD7reTdWVvNjZCThClQ=="
+            },
+            "companyName": "Beckhoff Automation"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Engineering - BE",
+            "fieldOfStudy": "Mechatronik, Robotik und Automatisierungstechnik",
+            "schoolName": "Fachhochschule Bielefeld",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "degreeName": "Fachhochschulreife",
+            "schoolName": "Carl-Miele-Berufskolleg Gütersloh",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2009
+                }
+            }
+        },
+        {
+            "degreeName": "Elektroniker für Betriebstechnik",
+            "schoolName": "Carl-Miele-Berufskolleg Gütersloh",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2005
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Generative KI",
+        "Generative KI-Tools",
+        "Software-Produktmanagement",
+        "LLM"
+    ],
+    "lastEnriched": "2025-02-17"
+}

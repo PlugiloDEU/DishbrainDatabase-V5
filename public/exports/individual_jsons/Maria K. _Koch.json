@@ -1,0 +1,389 @@
+{
+    "id": "exp305348096",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Maria K. ",
+        "lastName": "Koch",
+        "fullName": "Maria K.  Koch",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHWhqTRy0WH8g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1586579198329?e=1745452800&v=beta&t=lcz2UJO3xCRpM2mW0eYLXGiJlns8Rkp1ylgvVuIpK-I",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German"
+        ],
+        "allData": {
+            "id": "305348096",
+            "profileId": "ACoAABIzPgABAhBA_UPtuKU_BXuwEf0fkf4yiqg",
+            "firstName": "Maria K. ",
+            "lastName": "Koch",
+            "occupation": "Doctoral Researcher bei QUT (Queensland University of Technology)",
+            "publicIdentifier": "maria-k-koch-0a831686",
+            "trackingId": "lCdfUwWfSDO2DXndTglecA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHWhqTRy0WH8g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1586579198329?e=1745452800&v=beta&t=lcz2UJO3xCRpM2mW0eYLXGiJlns8Rkp1ylgvVuIpK-I",
+            "countryCode": "au",
+            "geoUrn": "urn:li:fs_geo:104468365",
+            "positions": [
+                {
+                    "title": "Doctoral Researcher",
+                    "description": "Development of translational 3D in vitro models for breast cancer research.\n\nThe tissue microenvironment is crucial for many pathological processes such as breast cancer. My project aims to develop a tissue-specific 3D cancer model mimicking the mammary tissue environment, which is important in cancer cell behaviour and drug response. Overcoming limitations of conventional 2D cell culture techniques, our approach using a semi-synthetic biomaterial to reconstruct the matrix in our 3D cultures reflect closer cell-cell and cell-matrix interactions involved in breast cancer in situ.",
+                    "locationName": "Brisbane, Queensland, Australien",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:165624",
+                        "entityUrn": "urn:li:fs_miniCompany:165624",
+                        "name": "QUT (Queensland University of Technology)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEna9t97-ubcw/company-logo_200_200/company-logo_200_200/0/1738635426468/queensland_university_of_technology_logo?e=1747872000&v=beta&t=dJiyov7HsZdwscp8b6EHWiEJ0qN6UXw7VxwXYrfCv94",
+                        "universalName": "queensland-university-of-technology",
+                        "dashCompanyUrn": "urn:li:fsd_company:165624",
+                        "trackingId": "z+jSsuxFQYeXjFbFs4KMLw=="
+                    },
+                    "companyName": "QUT (Queensland University of Technology)"
+                },
+                {
+                    "title": "Visiting Research Scientist",
+                    "description": "3 weeks research visit during the PhD program, funded by the German Academic Exchange Service (DAAD)\n\nProject: Investigation of the potential to culture circulating breast tumour cells in hydrogels.\n\nSupervisor: Prof H. Neubauer, Dr L. Bray",
+                    "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2018
+                        }
+                    },
+                    "companyName": "Neubauer Lab, University Medical Centre Düsseldorf"
+                },
+                {
+                    "title": "Practical Training",
+                    "description": "Lab rotation during Master program at CRTD, TU Dresden.\n\nProject: The role of DKK-1 deletion in the pathogenesis of serum-induced arthritis in a mouse model.\n\nMethods: animal handling, Genotyping, PCR, histological and molecular analysis, micro-CT\n\nSupervisor: Prof L. Hofbauer, Dr. M. Rauner, Dr. S. Thiele\n\nOutcome:\nPoster presentation: CRTD Summer Conference on Regenerative Medicine 2016, Dresden Germany",
+                    "locationName": "Dresden, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2015
+                        }
+                    },
+                    "companyName": "BoneLab"
+                },
+                {
+                    "title": "Practical Training",
+                    "description": "Lab rotation during Master program at CRTD, TU Dresden.\n\nProject: Effect of high salt diet on human macrophages.\n\nMethods: in vitro cell culture, blood cell isolation, FACS\n\nSupervisor: Prof. Markus Kleinewietfeld",
+                    "locationName": "Dresden, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2015
+                        }
+                    },
+                    "companyName": "Kleinewiefeld Lab, University Medical Centre Carl-Gustav-Carus"
+                },
+                {
+                    "title": "Practical Training ",
+                    "description": "Lab rotation during Master course at CRTD, TU Dresden.\nProject: Study of the regenerative capability of alginate hydrogel implants in spinal cord lesion of rats\n\nMethods: analysis by label-free microscopy (CARS), histological analysis\n\nSupervisor: Prof M. Kirsch, Dr. O. Uckermann\n\nOutcome:\nAdvanced Microscopy Techniques IV; and Neurophotonics II 95360Y, 2015, DOI: 10.1117/12.2183165\nJournal of Biomedical Optics 21(6), 2016, DOI: 10.1117/1.jbo.21.6.061008\nScientific Reports 8, 2018, DOI: 10.1038/s41598-018-29140-z",
+                    "locationName": "Dresden, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2014
+                        }
+                    },
+                    "companyName": "Kirsch Lab, University Medical Centre Carl-Gustav-Carus"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "fieldOfStudy": "Biomedical Research",
+                    "schoolName": "QUT Institute of Health and Biomedical Innovation ",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science (M.Sc.)",
+                    "fieldOfStudy": "International Degree in Regenerative Biology and Medicine",
+                    "schoolName": "DFG Center for Regenerative Therapies / TU Dresden",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science (B.Sc.)",
+                    "fieldOfStudy": "International Degree in Industrial and Environmental Biology",
+                    "schoolName": "Hochschule Bremen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Research",
+                "Zellkulturen",
+                "Zellbiologie",
+                "In vitro"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Volunteer Staff",
+                    "description": "animal handler",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2018
+                        }
+                    },
+                    "companyName": "RSPCA Queensland",
+                    "cause": "ANIMAL_RIGHTS"
+                }
+            ],
+            "headline": "Doctoral Researcher bei QUT (Queensland University of Technology)",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Brisbane, Queensland",
+            "geoCountryName": "Australia",
+            "jobTitle": "Doctoral Researcher",
+            "companyName": "QUT (Queensland University of Technology)",
+            "companyPublicId": "queensland-university-of-technology",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/queensland-university-of-technology",
+            "following": false,
+            "followable": true,
+            "followersCount": 115,
+            "connectionsCount": 116,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "QUT (Queensland University of Technology)",
+        "position": "Doctoral Researcher",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Doctoral Researcher",
+        "organization": "QUT (Queensland University of Technology)",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/maria-k-koch-0a831686/",
+        "company": "https://www.linkedin.com/company/queensland-university-of-technology"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Doctoral Researcher",
+            "description": "Development of translational 3D in vitro models for breast cancer research.\n\nThe tissue microenvironment is crucial for many pathological processes such as breast cancer. My project aims to develop a tissue-specific 3D cancer model mimicking the mammary tissue environment, which is important in cancer cell behaviour and drug response. Overcoming limitations of conventional 2D cell culture techniques, our approach using a semi-synthetic biomaterial to reconstruct the matrix in our 3D cultures reflect closer cell-cell and cell-matrix interactions involved in breast cancer in situ.",
+            "locationName": "Brisbane, Queensland, Australien",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:165624",
+                "entityUrn": "urn:li:fs_miniCompany:165624",
+                "name": "QUT (Queensland University of Technology)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEna9t97-ubcw/company-logo_200_200/company-logo_200_200/0/1738635426468/queensland_university_of_technology_logo?e=1747872000&v=beta&t=dJiyov7HsZdwscp8b6EHWiEJ0qN6UXw7VxwXYrfCv94",
+                "universalName": "queensland-university-of-technology",
+                "dashCompanyUrn": "urn:li:fsd_company:165624",
+                "trackingId": "z+jSsuxFQYeXjFbFs4KMLw=="
+            },
+            "companyName": "QUT (Queensland University of Technology)"
+        },
+        {
+            "title": "Visiting Research Scientist",
+            "description": "3 weeks research visit during the PhD program, funded by the German Academic Exchange Service (DAAD)\n\nProject: Investigation of the potential to culture circulating breast tumour cells in hydrogels.\n\nSupervisor: Prof H. Neubauer, Dr L. Bray",
+            "locationName": "Düsseldorf, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "companyName": "Neubauer Lab, University Medical Centre Düsseldorf"
+        },
+        {
+            "title": "Practical Training",
+            "description": "Lab rotation during Master program at CRTD, TU Dresden.\n\nProject: The role of DKK-1 deletion in the pathogenesis of serum-induced arthritis in a mouse model.\n\nMethods: animal handling, Genotyping, PCR, histological and molecular analysis, micro-CT\n\nSupervisor: Prof L. Hofbauer, Dr. M. Rauner, Dr. S. Thiele\n\nOutcome:\nPoster presentation: CRTD Summer Conference on Regenerative Medicine 2016, Dresden Germany",
+            "locationName": "Dresden, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "companyName": "BoneLab"
+        },
+        {
+            "title": "Practical Training",
+            "description": "Lab rotation during Master program at CRTD, TU Dresden.\n\nProject: Effect of high salt diet on human macrophages.\n\nMethods: in vitro cell culture, blood cell isolation, FACS\n\nSupervisor: Prof. Markus Kleinewietfeld",
+            "locationName": "Dresden, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2015
+                }
+            },
+            "companyName": "Kleinewiefeld Lab, University Medical Centre Carl-Gustav-Carus"
+        },
+        {
+            "title": "Practical Training ",
+            "description": "Lab rotation during Master course at CRTD, TU Dresden.\nProject: Study of the regenerative capability of alginate hydrogel implants in spinal cord lesion of rats\n\nMethods: analysis by label-free microscopy (CARS), histological analysis\n\nSupervisor: Prof M. Kirsch, Dr. O. Uckermann\n\nOutcome:\nAdvanced Microscopy Techniques IV; and Neurophotonics II 95360Y, 2015, DOI: 10.1117/12.2183165\nJournal of Biomedical Optics 21(6), 2016, DOI: 10.1117/1.jbo.21.6.061008\nScientific Reports 8, 2018, DOI: 10.1038/s41598-018-29140-z",
+            "locationName": "Dresden, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "companyName": "Kirsch Lab, University Medical Centre Carl-Gustav-Carus"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "Biomedical Research",
+            "schoolName": "QUT Institute of Health and Biomedical Innovation ",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science (M.Sc.)",
+            "fieldOfStudy": "International Degree in Regenerative Biology and Medicine",
+            "schoolName": "DFG Center for Regenerative Therapies / TU Dresden",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science (B.Sc.)",
+            "fieldOfStudy": "International Degree in Industrial and Environmental Biology",
+            "schoolName": "Hochschule Bremen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Research",
+        "Zellkulturen",
+        "Zellbiologie",
+        "In vitro"
+    ],
+    "lastEnriched": "2025-02-17"
+}

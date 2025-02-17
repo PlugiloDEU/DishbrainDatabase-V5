@@ -1,0 +1,617 @@
+{
+    "id": "exp1003401155",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sophie",
+        "lastName": "Hoffmann",
+        "fullName": "Sophie Hoffmann",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQF_qZOyghlMzA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1687984814033?e=1745452800&v=beta&t=t3D0AKA7UbzuSfsYTng0fqF6rYz5vdG7R3OfLZ3MUGg",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "1003401155",
+            "profileId": "ACoAADvOr8MBDVwE8eVJPWAziitCxyAiBZbnxx4",
+            "firstName": "Sophie",
+            "lastName": "Hoffmann",
+            "occupation": "School Psychology Graduate Student at University of Massachusetts Amherst",
+            "publicIdentifier": "sophie-hoffmann2202",
+            "trackingId": "KovaVm/DS0+FzucpShoCcg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQF_qZOyghlMzA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1687984814033?e=1745452800&v=beta&t=t3D0AKA7UbzuSfsYTng0fqF6rYz5vdG7R3OfLZ3MUGg",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQGSSj-Ypq90kQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1738702841857?e=1745452800&v=beta&t=yIrEVMZpGi0LkDeQEEu151aCYfw8Olwk6NMdvGjd414",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103644278",
+            "positions": [
+                {
+                    "title": "Graduate Research Assistant - Somneuro Lab",
+                    "description": "Graduate Research Assistant in the Somneuro Lab\nPI: Dr. Rebecca Spencer",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2025
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4508",
+                        "entityUrn": "urn:li:fs_miniCompany:4508",
+                        "name": "University of Massachusetts Amherst",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_200_200/company-logo_200_200/0/1680271203107/umassamherst_logo?e=1747872000&v=beta&t=PJQXv1APDCaiXsBOhJVIa7y_h5F4O9pReZ8d8D3DhN4",
+                        "universalName": "umassamherst",
+                        "dashCompanyUrn": "urn:li:fsd_company:4508",
+                        "trackingId": "8MrosTGeQUKDLULEM4B4iw=="
+                    },
+                    "companyName": "University of Massachusetts Amherst"
+                },
+                {
+                    "title": "Patient Care Observer & Psychiatric Counselor - Behavioral Health Unit",
+                    "locationName": "Northampton, Massachusetts, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:32223",
+                        "entityUrn": "urn:li:fs_miniCompany:32223",
+                        "name": "Cooley Dickinson Hospital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQENIm3Oq4mVeQ/company-logo_200_200/company-logo_200_200/0/1656435907964/cooleydickinson_logo?e=1747872000&v=beta&t=GL6rxmuU8-imoSM4t5zxtUdsm_FjLFkTIfjRXfhnYfI",
+                        "universalName": "cooleydickinson",
+                        "dashCompanyUrn": "urn:li:fsd_company:32223",
+                        "trackingId": "MWncWAxVQcu8XyTV7uXBTg=="
+                    },
+                    "companyName": "Cooley Dickinson Hospital"
+                },
+                {
+                    "title": "Research Assistant in Disability, Inclusion, and Community Engagement (DICE) Lab ",
+                    "description": "DICE Lab @ UMass Amherst\nPI: Dr. Ashley Woodman\nParticipated in a research study focusing on the stigma of mental illness in college students and a study for designing a curriculum to train prospective respite care providers to work with families of children with disabilities. Conducted and coded interviews.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4508",
+                        "entityUrn": "urn:li:fs_miniCompany:4508",
+                        "name": "University of Massachusetts Amherst",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_200_200/company-logo_200_200/0/1680271203107/umassamherst_logo?e=1747872000&v=beta&t=PJQXv1APDCaiXsBOhJVIa7y_h5F4O9pReZ8d8D3DhN4",
+                        "universalName": "umassamherst",
+                        "dashCompanyUrn": "urn:li:fsd_company:4508",
+                        "trackingId": "46yEBLeaQhauaRVHL726dw=="
+                    },
+                    "companyName": "University of Massachusetts Amherst"
+                },
+                {
+                    "title": "Graduate Teaching Assistant",
+                    "description": "Graduate Teaching Assistant for EDUC 167 - This course introduces students to selected essential topics in modern educational theory and practice using depictions of teachers, students, and schools in movies as springboards for inquiry. \nAs a Graduate TA, I am responsible for managing disability accommodations for students, grading, and leading discussions.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2025
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:12576597",
+                        "entityUrn": "urn:li:fs_miniCompany:12576597",
+                        "name": "UMass Amherst College of Education",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHCd4iOnZtkTw/company-logo_200_200/company-logo_200_200/0/1630569308387/umasseduc_logo?e=1747872000&v=beta&t=po0u4NPNB5MAlwnN12oXxVO-qDyMmbdg4t_skuMttGc",
+                        "universalName": "umasseduc",
+                        "dashCompanyUrn": "urn:li:fsd_company:12576597",
+                        "trackingId": "Q2vhDi9lRQyrYTWwtRqmwg=="
+                    },
+                    "companyName": "UMass Amherst College of Education"
+                },
+                {
+                    "title": "Aspire Adventure Camp Assistant Therapeutic Group Leader/Counselor",
+                    "description": "- Co-led a group of four campers with Autism Spectrum Disorder and other neurodiverse profiles through adventure camp activities, expanding campers’ self-awareness, social competency, and stress management skills.\n- Designed and co-facilitated daily Morning Meetings and additional group management/behavior plans to enhance campers’ sense of belonging and practice specific social-emotional skills according to each child’s individualized education plan.\n- Utilized counseling techniques to assist campers in developing self-regulation skills, guiding them through strategies for managing emotions and behaviors in various settings.\n- Performed proactive and reactive therapeutic interventions, including talking through coping strategies and using campers’ areas of interest to promote engagement and success.\n- Collaborated with families through daily written notes, phone calls, and conferences, ensuring a holistic approach to the campers’ development and well-being.",
+                    "locationName": "Boston, Massachusetts, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:10827683",
+                        "entityUrn": "urn:li:fs_miniCompany:10827683",
+                        "name": "MGH Aspire",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE3QR9dOsvLWA/company-logo_200_200/company-logo_200_200/0/1650382190174/mgh_aspire_logo?e=1747872000&v=beta&t=UFt54vqNoIpbGgklX_2otA187AB5iVV53EnO52Xx3TA",
+                        "universalName": "mgh-aspire",
+                        "dashCompanyUrn": "urn:li:fsd_company:10827683",
+                        "trackingId": "KfXBe9C5RgyTiigUkWtZDg=="
+                    },
+                    "companyName": "MGH Aspire"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master's degree (MEd) & Education Specialist (EdS)",
+                    "fieldOfStudy": "School Psychology",
+                    "schoolName": "University of Massachusetts Amherst",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2027
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2024
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science - BS",
+                    "fieldOfStudy": "Major in Biology with minors in Spanish and Psychology; DDHS Letter of Specialization",
+                    "schoolName": "University of Massachusetts Amherst",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "degreeName": "High School Diploma",
+                    "schoolName": "Wellesley High School",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2016
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Youth Mental Health First Aid",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "National Council for Mental Wellbeing"
+                },
+                {
+                    "name": "Group 2 Social and Behavioral Research Investigators and Key Personnel",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2029
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "CITI Program"
+                },
+                {
+                    "name": "Basic Life Support (BLS)",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "American Heart Association"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Massachusetts State Seal of Biliteracy - German",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                {
+                    "title": "Massachusetts State Seal of Biliteracy - Spanish",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2020
+                    }
+                },
+                {
+                    "title": "Deutsches Sprachdiplom der Kultusministerkonferenz (German Language Certificate of the Education Ministers Conference)",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2019
+                    },
+                    "issuer": "German Education Authorities and the Foreign Office (Germany)"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Psychology",
+                "German",
+                "Spanish",
+                "Interpersonal Skills"
+            ],
+            "volunteerExperiences": [],
+            "headline": "School Psychology Graduate Student at University of Massachusetts Amherst",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoCountryName": "United States",
+            "jobTitle": "Graduate Research Assistant - Somneuro Lab",
+            "companyName": "University of Massachusetts Amherst",
+            "companyPublicId": "umassamherst",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/umassamherst",
+            "following": false,
+            "followable": true,
+            "followersCount": 171,
+            "connectionsCount": 170,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "University of Massachusetts Amherst",
+        "position": "Graduate Research Assistant - Somneuro Lab",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Graduate Research Assistant - Somneuro Lab",
+        "organization": "University of Massachusetts Amherst",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sophie-hoffmann2202/",
+        "company": "https://www.linkedin.com/company/umassamherst"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Graduate Research Assistant - Somneuro Lab",
+            "description": "Graduate Research Assistant in the Somneuro Lab\nPI: Dr. Rebecca Spencer",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2025
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4508",
+                "entityUrn": "urn:li:fs_miniCompany:4508",
+                "name": "University of Massachusetts Amherst",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_200_200/company-logo_200_200/0/1680271203107/umassamherst_logo?e=1747872000&v=beta&t=PJQXv1APDCaiXsBOhJVIa7y_h5F4O9pReZ8d8D3DhN4",
+                "universalName": "umassamherst",
+                "dashCompanyUrn": "urn:li:fsd_company:4508",
+                "trackingId": "8MrosTGeQUKDLULEM4B4iw=="
+            },
+            "companyName": "University of Massachusetts Amherst"
+        },
+        {
+            "title": "Patient Care Observer & Psychiatric Counselor - Behavioral Health Unit",
+            "locationName": "Northampton, Massachusetts, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:32223",
+                "entityUrn": "urn:li:fs_miniCompany:32223",
+                "name": "Cooley Dickinson Hospital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQENIm3Oq4mVeQ/company-logo_200_200/company-logo_200_200/0/1656435907964/cooleydickinson_logo?e=1747872000&v=beta&t=GL6rxmuU8-imoSM4t5zxtUdsm_FjLFkTIfjRXfhnYfI",
+                "universalName": "cooleydickinson",
+                "dashCompanyUrn": "urn:li:fsd_company:32223",
+                "trackingId": "MWncWAxVQcu8XyTV7uXBTg=="
+            },
+            "companyName": "Cooley Dickinson Hospital"
+        },
+        {
+            "title": "Research Assistant in Disability, Inclusion, and Community Engagement (DICE) Lab ",
+            "description": "DICE Lab @ UMass Amherst\nPI: Dr. Ashley Woodman\nParticipated in a research study focusing on the stigma of mental illness in college students and a study for designing a curriculum to train prospective respite care providers to work with families of children with disabilities. Conducted and coded interviews.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4508",
+                "entityUrn": "urn:li:fs_miniCompany:4508",
+                "name": "University of Massachusetts Amherst",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFCzmsrZannXw/company-logo_200_200/company-logo_200_200/0/1680271203107/umassamherst_logo?e=1747872000&v=beta&t=PJQXv1APDCaiXsBOhJVIa7y_h5F4O9pReZ8d8D3DhN4",
+                "universalName": "umassamherst",
+                "dashCompanyUrn": "urn:li:fsd_company:4508",
+                "trackingId": "46yEBLeaQhauaRVHL726dw=="
+            },
+            "companyName": "University of Massachusetts Amherst"
+        },
+        {
+            "title": "Graduate Teaching Assistant",
+            "description": "Graduate Teaching Assistant for EDUC 167 - This course introduces students to selected essential topics in modern educational theory and practice using depictions of teachers, students, and schools in movies as springboards for inquiry. \nAs a Graduate TA, I am responsible for managing disability accommodations for students, grading, and leading discussions.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2025
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:12576597",
+                "entityUrn": "urn:li:fs_miniCompany:12576597",
+                "name": "UMass Amherst College of Education",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHCd4iOnZtkTw/company-logo_200_200/company-logo_200_200/0/1630569308387/umasseduc_logo?e=1747872000&v=beta&t=po0u4NPNB5MAlwnN12oXxVO-qDyMmbdg4t_skuMttGc",
+                "universalName": "umasseduc",
+                "dashCompanyUrn": "urn:li:fsd_company:12576597",
+                "trackingId": "Q2vhDi9lRQyrYTWwtRqmwg=="
+            },
+            "companyName": "UMass Amherst College of Education"
+        },
+        {
+            "title": "Aspire Adventure Camp Assistant Therapeutic Group Leader/Counselor",
+            "description": "- Co-led a group of four campers with Autism Spectrum Disorder and other neurodiverse profiles through adventure camp activities, expanding campers’ self-awareness, social competency, and stress management skills.\n- Designed and co-facilitated daily Morning Meetings and additional group management/behavior plans to enhance campers’ sense of belonging and practice specific social-emotional skills according to each child’s individualized education plan.\n- Utilized counseling techniques to assist campers in developing self-regulation skills, guiding them through strategies for managing emotions and behaviors in various settings.\n- Performed proactive and reactive therapeutic interventions, including talking through coping strategies and using campers’ areas of interest to promote engagement and success.\n- Collaborated with families through daily written notes, phone calls, and conferences, ensuring a holistic approach to the campers’ development and well-being.",
+            "locationName": "Boston, Massachusetts, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:10827683",
+                "entityUrn": "urn:li:fs_miniCompany:10827683",
+                "name": "MGH Aspire",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE3QR9dOsvLWA/company-logo_200_200/company-logo_200_200/0/1650382190174/mgh_aspire_logo?e=1747872000&v=beta&t=UFt54vqNoIpbGgklX_2otA187AB5iVV53EnO52Xx3TA",
+                "universalName": "mgh-aspire",
+                "dashCompanyUrn": "urn:li:fsd_company:10827683",
+                "trackingId": "KfXBe9C5RgyTiigUkWtZDg=="
+            },
+            "companyName": "MGH Aspire"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master's degree (MEd) & Education Specialist (EdS)",
+            "fieldOfStudy": "School Psychology",
+            "schoolName": "University of Massachusetts Amherst",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2027
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2024
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science - BS",
+            "fieldOfStudy": "Major in Biology with minors in Spanish and Psychology; DDHS Letter of Specialization",
+            "schoolName": "University of Massachusetts Amherst",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "degreeName": "High School Diploma",
+            "schoolName": "Wellesley High School",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Youth Mental Health First Aid",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "authority": "National Council for Mental Wellbeing"
+        },
+        {
+            "name": "Group 2 Social and Behavioral Research Investigators and Key Personnel",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2029
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "authority": "CITI Program"
+        },
+        {
+            "name": "Basic Life Support (BLS)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2026
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2024
+                }
+            },
+            "authority": "American Heart Association"
+        }
+    ],
+    "skills": [
+        "Psychology",
+        "German",
+        "Spanish",
+        "Interpersonal Skills"
+    ],
+    "lastEnriched": "2025-02-17"
+}

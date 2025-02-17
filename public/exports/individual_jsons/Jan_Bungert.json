@@ -1,0 +1,442 @@
+{
+    "id": "exp11465635",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Jan",
+        "lastName": "Bungert",
+        "fullName": "Jan Bungert",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQEbztKyRS-VDg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1598869275496?e=1745452800&v=beta&t=JiGomPO7xFWflFkIeQuML9izrLB9L0eou-fk2NSoZE8",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "11465635",
+            "profileId": "ACoAAACu86MBbh1PDtaUa0an4QnC4IVJNSFPD7U",
+            "firstName": "Jan",
+            "lastName": "Bungert",
+            "occupation": "Chief Revenue Officer for SAP Business AI",
+            "publicIdentifier": "janbungert",
+            "trackingId": "dU2Xnbm4TBeYzO/RA6t6KQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEbztKyRS-VDg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1598869275496?e=1745452800&v=beta&t=JiGomPO7xFWflFkIeQuML9izrLB9L0eou-fk2NSoZE8",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQF3yvVoyirXDw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1626783951048?e=1745452800&v=beta&t=GUOWONnE25xjb2RVh1yBoI2aJoZ3663y4BRvVy0_jzc",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009714",
+            "positions": [
+                {
+                    "title": "Chief Revenue Officer for SAP Business AI",
+                    "locationName": "Walldorf, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1115",
+                        "entityUrn": "urn:li:fs_miniCompany:1115",
+                        "name": "SAP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                        "universalName": "sap",
+                        "dashCompanyUrn": "urn:li:fsd_company:1115",
+                        "trackingId": "oeErrahtRACGNMLeGTBYig=="
+                    },
+                    "companyName": "SAP"
+                },
+                {
+                    "title": "Senior Vice President, Business Technology Platform, Middle & Eastern Europe",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1115",
+                        "entityUrn": "urn:li:fs_miniCompany:1115",
+                        "name": "SAP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                        "universalName": "sap",
+                        "dashCompanyUrn": "urn:li:fsd_company:1115",
+                        "trackingId": "O7NlBeuETeekdwujrouabg=="
+                    },
+                    "companyName": "SAP"
+                },
+                {
+                    "title": "Senior Vice President, Intelligent Spend & Business Network, Middle & Eastern Europe",
+                    "locationName": "Walldorf",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1115",
+                        "entityUrn": "urn:li:fs_miniCompany:1115",
+                        "name": "SAP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                        "universalName": "sap",
+                        "dashCompanyUrn": "urn:li:fsd_company:1115",
+                        "trackingId": "MUKu5jrjQs+w1HFtc2ZGnA=="
+                    },
+                    "companyName": "SAP"
+                },
+                {
+                    "title": "Head of Platform & Technologies, Germany",
+                    "locationName": "Walldorf, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1115",
+                        "entityUrn": "urn:li:fs_miniCompany:1115",
+                        "name": "SAP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                        "universalName": "sap",
+                        "dashCompanyUrn": "urn:li:fsd_company:1115",
+                        "trackingId": "4/G5RT3ATSSm8n3UgXZAlA=="
+                    },
+                    "companyName": "SAP"
+                },
+                {
+                    "title": "Sales Manager Manufacturing",
+                    "locationName": "Walldorf",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1115",
+                        "entityUrn": "urn:li:fs_miniCompany:1115",
+                        "name": "SAP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                        "universalName": "sap",
+                        "dashCompanyUrn": "urn:li:fsd_company:1115",
+                        "trackingId": "vPjTxhHlRv2JJn5MzhSK1A=="
+                    },
+                    "companyName": "SAP"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Business Administration (MBA)",
+                    "fieldOfStudy": "Business & Management",
+                    "schoolName": "University of Bradford School of Management"
+                },
+                {
+                    "fieldOfStudy": "Marketing & Commications",
+                    "schoolName": "Academy for Marketing & Communications"
+                },
+                {
+                    "degreeName": "Master's degree",
+                    "fieldOfStudy": "Business, Management, Marketing, and Related Support Services",
+                    "schoolName": "Hochschule München University of Applied Sciences"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Solution Selling",
+                "Cloud Computing",
+                "Sales Management",
+                "New Business Development"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Chief Revenue Officer for SAP Business AI",
+            "summary": "As the Chief Revenue Officer for SAP Business AI, I empower every customer and partner by leveraging SAP Business AI technologies. I am committed to fostering strong relationships, delivering exception value and enabling our clients and partners to achieve their full potential through transformative AI-driven strategies.\n\nWith over two decades of experience in the technology world, my career has been built on a foundation in Business Information Systems and various management roles. I have consistently focused on innovative data and process management solutions across diverse industries and markets. \n\nIn my spare time I enjoy staying active with running, cycling and skiing and spending quality time with my wife and two daughters in Frankfurt.",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "Frankfurt Rhine-Main Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Chief Revenue Officer for SAP Business AI",
+            "companyName": "SAP",
+            "companyPublicId": "sap",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/sap",
+            "following": false,
+            "followable": true,
+            "followersCount": 8382,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "SAP",
+        "position": "Chief Revenue Officer for SAP Business AI",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chief Revenue Officer for SAP Business AI",
+        "organization": "SAP",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/janbungert/",
+        "company": "https://www.linkedin.com/company/sap"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chief Revenue Officer for SAP Business AI",
+            "locationName": "Walldorf, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "oeErrahtRACGNMLeGTBYig=="
+            },
+            "companyName": "SAP"
+        },
+        {
+            "title": "Senior Vice President, Business Technology Platform, Middle & Eastern Europe",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "O7NlBeuETeekdwujrouabg=="
+            },
+            "companyName": "SAP"
+        },
+        {
+            "title": "Senior Vice President, Intelligent Spend & Business Network, Middle & Eastern Europe",
+            "locationName": "Walldorf",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "MUKu5jrjQs+w1HFtc2ZGnA=="
+            },
+            "companyName": "SAP"
+        },
+        {
+            "title": "Head of Platform & Technologies, Germany",
+            "locationName": "Walldorf, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "4/G5RT3ATSSm8n3UgXZAlA=="
+            },
+            "companyName": "SAP"
+        },
+        {
+            "title": "Sales Manager Manufacturing",
+            "locationName": "Walldorf",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1115",
+                "entityUrn": "urn:li:fs_miniCompany:1115",
+                "name": "SAP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGmwwo0aq4jVA/company-logo_200_200/company-logo_200_200/0/1723034255614/sap_logo?e=1747872000&v=beta&t=nWZ2ODDXnPYFvW-pylFAVoHrF9bco6Bqlx-KKgRwhTk",
+                "universalName": "sap",
+                "dashCompanyUrn": "urn:li:fsd_company:1115",
+                "trackingId": "vPjTxhHlRv2JJn5MzhSK1A=="
+            },
+            "companyName": "SAP"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Business Administration (MBA)",
+            "fieldOfStudy": "Business & Management",
+            "schoolName": "University of Bradford School of Management"
+        },
+        {
+            "fieldOfStudy": "Marketing & Commications",
+            "schoolName": "Academy for Marketing & Communications"
+        },
+        {
+            "degreeName": "Master's degree",
+            "fieldOfStudy": "Business, Management, Marketing, and Related Support Services",
+            "schoolName": "Hochschule München University of Applied Sciences"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Solution Selling",
+        "Cloud Computing",
+        "Sales Management",
+        "New Business Development"
+    ],
+    "lastEnriched": "2025-02-17"
+}

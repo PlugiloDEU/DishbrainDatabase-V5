@@ -1,0 +1,499 @@
+{
+    "id": "exp950331834",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Priscilla",
+        "lastName": "Chan",
+        "fullName": "Priscilla Chan",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQFoMYHkxs6gAQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673270158380?e=1745452800&v=beta&t=nc3SRmYr5bCa92ZK1CdAZAYQykk156qQuc4jhIWyQqU",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "950331834",
+            "profileId": "ACoAADik6boBmIFgUB3bRqY56ReMofISF7PYHjg",
+            "firstName": "Priscilla",
+            "lastName": "Chan",
+            "occupation": "Penultimate Year Student at HKUST",
+            "publicIdentifier": "priscillachanhy",
+            "trackingId": "Em7nNwPcRdqzvPS+I4dlfQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQFoMYHkxs6gAQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673270158380?e=1745452800&v=beta&t=nc3SRmYr5bCa92ZK1CdAZAYQykk156qQuc4jhIWyQqU",
+            "countryCode": "hk",
+            "geoUrn": "urn:li:fs_geo:102006355",
+            "positions": [
+                {
+                    "title": "Intern, Talent, APAC",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Cosmetics"
+                        ],
+                        "objectUrn": "urn:li:company:4059",
+                        "entityUrn": "urn:li:fs_miniCompany:4059",
+                        "name": "The Estée Lauder Companies Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFex69Y26uzhg/company-logo_200_200/company-logo_200_200/0/1630623861832/the_estee_lauder_companies_inc_logo?e=1747872000&v=beta&t=pJSX2WgdzH-uQCYgR1XGo1o-UtgzJ7yWAfUdNaplt_w",
+                        "universalName": "the-estee-lauder-companies-inc",
+                        "dashCompanyUrn": "urn:li:fsd_company:4059",
+                        "trackingId": "HkKAqcGCQJOQmSyjqFnEgg=="
+                    },
+                    "companyName": "The Estée Lauder Companies Inc."
+                },
+                {
+                    "title": "Human Resources Intern",
+                    "locationName": "Hong Kong SAR",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Luxury Goods & Jewelry"
+                        ],
+                        "objectUrn": "urn:li:company:15179",
+                        "entityUrn": "urn:li:fs_miniCompany:15179",
+                        "name": "FERRAGAMO",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHyrOV6rRP9Jg/company-logo_200_200/company-logo_200_200/0/1663700415048/salvatore_ferragamo_logo?e=1747872000&v=beta&t=wi0i7KZCZUjcBAwwndkzhyPzpqrnWTz7Utnw_HxNpiE",
+                        "universalName": "salvatore-ferragamo",
+                        "dashCompanyUrn": "urn:li:fsd_company:15179",
+                        "trackingId": "mPWBvB0YSRWNNjM6kby97g=="
+                    },
+                    "companyName": "FERRAGAMO"
+                },
+                {
+                    "title": "People Intern",
+                    "locationName": "Hong Kong SAR",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Food & Beverages"
+                        ],
+                        "objectUrn": "urn:li:company:1009132",
+                        "entityUrn": "urn:li:fs_miniCompany:1009132",
+                        "name": "SSP Asia Pacific ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGUqS2NNS2LQQ/company-logo_200_200/company-logo_200_200/0/1724915548487/select_service_partners_logo?e=1747872000&v=beta&t=7YJoUTs5rnoWmdTYgG8VpS6C8R_3msd_H-PXY_C0Jh8",
+                        "universalName": "select-service-partners",
+                        "dashCompanyUrn": "urn:li:fsd_company:1009132",
+                        "trackingId": "0DzH//9rQVCkl3covbgaKw=="
+                    },
+                    "companyName": "SSP Asia Pacific "
+                },
+                {
+                    "title": "Marketing Clerk",
+                    "locationName": "Hong Kong SAR",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Retail"
+                        ],
+                        "objectUrn": "urn:li:company:1313657",
+                        "entityUrn": "urn:li:fs_miniCompany:1313657",
+                        "name": "I.T",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQErelgTNYA9GA/company-logo_200_200/company-logo_200_200/0/1630663288651/it_logo?e=1747872000&v=beta&t=j1GKtR_L3ETjNLT2aXbwjxbwzBwEgczmVuRr03BqohE",
+                        "universalName": "i.t",
+                        "dashCompanyUrn": "urn:li:fsd_company:1313657",
+                        "trackingId": "OeYJ4fy3TKm1kMmJ5jWdJw=="
+                    },
+                    "companyName": "I.T"
+                },
+                {
+                    "title": "Talent Team - Campus Recruitment",
+                    "locationName": "Hong Kong SAR",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1073",
+                        "entityUrn": "urn:li:fs_miniCompany:1073",
+                        "name": "EY",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_200_200/company-logo_200_200/0/1630570672166/ernstandyoung_logo?e=1747872000&v=beta&t=dv1NfODsaWr1e--T8GIuCnDqTJFW3sS0ek9kRvT7mno",
+                        "universalName": "ernstandyoung",
+                        "dashCompanyUrn": "urn:li:fsd_company:1073",
+                        "trackingId": "p24TV8LTThKMy4EKReM/dg=="
+                    },
+                    "companyName": "EY"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Business Administration - Management",
+                    "schoolName": "The Hong Kong University of Science and Technology",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "year": 2021
+                        }
+                    }
+                },
+                {
+                    "schoolName": "St. Paul's School (Lam Tin)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Richemont Case Simulation",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "Career Hackers"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Microsoft PowerPoint",
+                "E-Commerce",
+                "Retail Sales",
+                "Fashion"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Business Student Ambassador",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "HKUST Business School"
+                }
+            ],
+            "headline": "Penultimate Year Student at HKUST ",
+            "student": false,
+            "industryName": "Luxury Goods & Jewelry",
+            "industryUrn": "urn:li:fs_industry:143",
+            "geoLocationName": "Kowloon",
+            "geoCountryName": "Hong Kong SAR",
+            "jobTitle": "Intern, Talent, APAC",
+            "companyName": "The Estée Lauder Companies Inc.",
+            "companyPublicId": "the-estee-lauder-companies-inc",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/the-estee-lauder-companies-inc",
+            "following": false,
+            "followable": true,
+            "followersCount": 335,
+            "connectionsCount": 333,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "The Estée Lauder Companies Inc.",
+        "position": "Intern, Talent, APAC",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Cosmetics"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Intern, Talent, APAC",
+        "organization": "The Estée Lauder Companies Inc.",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/priscillachanhy/",
+        "company": "https://www.linkedin.com/company/the-estee-lauder-companies-inc"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Intern, Talent, APAC",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Cosmetics"
+                ],
+                "objectUrn": "urn:li:company:4059",
+                "entityUrn": "urn:li:fs_miniCompany:4059",
+                "name": "The Estée Lauder Companies Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFex69Y26uzhg/company-logo_200_200/company-logo_200_200/0/1630623861832/the_estee_lauder_companies_inc_logo?e=1747872000&v=beta&t=pJSX2WgdzH-uQCYgR1XGo1o-UtgzJ7yWAfUdNaplt_w",
+                "universalName": "the-estee-lauder-companies-inc",
+                "dashCompanyUrn": "urn:li:fsd_company:4059",
+                "trackingId": "HkKAqcGCQJOQmSyjqFnEgg=="
+            },
+            "companyName": "The Estée Lauder Companies Inc."
+        },
+        {
+            "title": "Human Resources Intern",
+            "locationName": "Hong Kong SAR",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Luxury Goods & Jewelry"
+                ],
+                "objectUrn": "urn:li:company:15179",
+                "entityUrn": "urn:li:fs_miniCompany:15179",
+                "name": "FERRAGAMO",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHyrOV6rRP9Jg/company-logo_200_200/company-logo_200_200/0/1663700415048/salvatore_ferragamo_logo?e=1747872000&v=beta&t=wi0i7KZCZUjcBAwwndkzhyPzpqrnWTz7Utnw_HxNpiE",
+                "universalName": "salvatore-ferragamo",
+                "dashCompanyUrn": "urn:li:fsd_company:15179",
+                "trackingId": "mPWBvB0YSRWNNjM6kby97g=="
+            },
+            "companyName": "FERRAGAMO"
+        },
+        {
+            "title": "People Intern",
+            "locationName": "Hong Kong SAR",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Food & Beverages"
+                ],
+                "objectUrn": "urn:li:company:1009132",
+                "entityUrn": "urn:li:fs_miniCompany:1009132",
+                "name": "SSP Asia Pacific ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGUqS2NNS2LQQ/company-logo_200_200/company-logo_200_200/0/1724915548487/select_service_partners_logo?e=1747872000&v=beta&t=7YJoUTs5rnoWmdTYgG8VpS6C8R_3msd_H-PXY_C0Jh8",
+                "universalName": "select-service-partners",
+                "dashCompanyUrn": "urn:li:fsd_company:1009132",
+                "trackingId": "0DzH//9rQVCkl3covbgaKw=="
+            },
+            "companyName": "SSP Asia Pacific "
+        },
+        {
+            "title": "Marketing Clerk",
+            "locationName": "Hong Kong SAR",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Retail"
+                ],
+                "objectUrn": "urn:li:company:1313657",
+                "entityUrn": "urn:li:fs_miniCompany:1313657",
+                "name": "I.T",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQErelgTNYA9GA/company-logo_200_200/company-logo_200_200/0/1630663288651/it_logo?e=1747872000&v=beta&t=j1GKtR_L3ETjNLT2aXbwjxbwzBwEgczmVuRr03BqohE",
+                "universalName": "i.t",
+                "dashCompanyUrn": "urn:li:fsd_company:1313657",
+                "trackingId": "OeYJ4fy3TKm1kMmJ5jWdJw=="
+            },
+            "companyName": "I.T"
+        },
+        {
+            "title": "Talent Team - Campus Recruitment",
+            "locationName": "Hong Kong SAR",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1073",
+                "entityUrn": "urn:li:fs_miniCompany:1073",
+                "name": "EY",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQGpRhkpxp5A9A/company-logo_200_200/company-logo_200_200/0/1630570672166/ernstandyoung_logo?e=1747872000&v=beta&t=dv1NfODsaWr1e--T8GIuCnDqTJFW3sS0ek9kRvT7mno",
+                "universalName": "ernstandyoung",
+                "dashCompanyUrn": "urn:li:fsd_company:1073",
+                "trackingId": "p24TV8LTThKMy4EKReM/dg=="
+            },
+            "companyName": "EY"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Business Administration - Management",
+            "schoolName": "The Hong Kong University of Science and Technology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2026
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            }
+        },
+        {
+            "schoolName": "St. Paul's School (Lam Tin)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Richemont Case Simulation",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2024
+                }
+            },
+            "authority": "Career Hackers"
+        }
+    ],
+    "skills": [
+        "Microsoft PowerPoint",
+        "E-Commerce",
+        "Retail Sales",
+        "Fashion"
+    ],
+    "lastEnriched": "2025-02-17"
+}

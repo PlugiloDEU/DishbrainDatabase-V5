@@ -1,0 +1,516 @@
+{
+    "id": "exp13727582",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Kari Ann",
+        "lastName": "Briski",
+        "fullName": "Kari Ann Briski",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHCzNTWGOI9_A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1684810020057?e=1745452800&v=beta&t=Sedbzf9jkcn7WhCuXgqAkfKgEt2zf03paid2q9spHkE",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "13727582",
+            "profileId": "ACoAAADRd14B8E4FsWilwTuGk0wRP-TrGfLqckM",
+            "firstName": "Kari Ann",
+            "lastName": "Briski",
+            "occupation": "Vice President Generative AI Software Product Management",
+            "publicIdentifier": "karibriski",
+            "trackingId": "mAAnJb/rT6W5JQuOhVJA4A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHCzNTWGOI9_A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1684810020057?e=1745452800&v=beta&t=Sedbzf9jkcn7WhCuXgqAkfKgEt2zf03paid2q9spHkE",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQHSqLc5hU_WMw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517700224052?e=1745452800&v=beta&t=54fU36_pRVHXsKiNiMXr0Suny8snsbW8AjgOSjC1Q1A",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:106233382",
+            "positions": [
+                {
+                    "title": "Vice President AI Software Product Management",
+                    "description": "- Oversee strategy, roadmaps and requirements for NVIDIA AI Software Products. \n- Deliver world class solutions that enable customers to create next generation AI applications.\n- PLC for Application Framework SDKs\n   - Riva Speech AI for automatic speech recognition (ASR) and Text-to-Speech Synthesis (TTS)\n   - Nemo-Megatron for very large generative language models\n   - Triton Inference Server for Standardized Inference of AI software models\n-NGC: NVIDIA's catalog for pre-train models, containers, notebooks, helm charts\n- Oversee Deep Learning Software Stack both training and inference: \n   - cuDNN and TensorRT\n   - Developer relations with open source Deep Learning Frameworks such as TensorFlow, MXNet, Caffe2 and PyTorch",
+                    "locationName": "San Jose",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Hardware"
+                        ],
+                        "objectUrn": "urn:li:company:3608",
+                        "entityUrn": "urn:li:fs_miniCompany:3608",
+                        "name": "NVIDIA",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7YExLMK6L2Q/company-logo_200_200/company-logo_200_200/0/1724879902635/nvidia_logo?e=1747872000&v=beta&t=hMuRj7bLpkk_AwMX1S19QtD51ZjQUJUfJFaK_9LIFRE",
+                        "universalName": "nvidia",
+                        "dashCompanyUrn": "urn:li:fsd_company:3608",
+                        "trackingId": "lwpc+cV+Q2CsGliApy2gHA=="
+                    },
+                    "companyName": "NVIDIA"
+                },
+                {
+                    "title": "Program Director and Senior Product Manager IBM z Systems Software",
+                    "description": "Senior Product Manager/Offering Lead and Program Director\n\nPassionate about application modernization, modern programming languages, runtimes and frameworks. \n\nCross-functional leadership responsibility. Work across  Development, Sales and Marketing to develop end-to-end offering business plan.\n\n► Examine market opportunity, determine product strategy and functional delivery\n► Identify key accounts, outline key partners and track sales KPIs\n► Map customer journey from discovery to conversion\n\nIMS is a strategic z system software that is used by many of the world's top companies. 80% of the world's corporate data originates resides or originates on the mainframe.\n",
+                    "locationName": "san jose, ca",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1009",
+                        "entityUrn": "urn:li:fs_miniCompany:1009",
+                        "name": "IBM",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                        "universalName": "ibm",
+                        "dashCompanyUrn": "urn:li:fsd_company:1009",
+                        "trackingId": "sm4EMqNjQo2Qgxfx+ptP7A=="
+                    },
+                    "companyName": "IBM"
+                },
+                {
+                    "title": "Sr Development Manager: IBM Business Analytics",
+                    "description": "Senior Development manager in charge of a global development team working on Cognos Dynamic Cubes. Dynamic Cubes is a new analytic cube technology that delivers high performance over structured BigData.\n\n- Drive development roadmap and execution\n- Vendor contract negotiation\n- AGILE development methodology\n- Manage customer engagements and relationships\n- Create both internal and external collateral",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1009",
+                        "entityUrn": "urn:li:fs_miniCompany:1009",
+                        "name": "IBM",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                        "universalName": "ibm",
+                        "dashCompanyUrn": "urn:li:fsd_company:1009",
+                        "trackingId": "kdAdkPIvR7eFdYGrqQCxLQ=="
+                    },
+                    "companyName": "IBM"
+                },
+                {
+                    "title": "Senior Engineering Development Manager",
+                    "description": "Manage a department of 21 developers responsible for a collection of Service Oriented Architecture (SOA) products, tools and APIs that offer on-demand connection solutions to IMS. IMS is a transactional and hierarchical database management system that annually generates around $1 Billion in revenue. 95% of Fortune 1000 companies run IMS and need a wide-range connectivity solutions to achieve their modern business demands\n\n► Responsible for the semiannual release of a suite of software tools, supporting IMS; following AGILE development and test methodology\n\n► Responsible for quarterly revenue reporting and version to version (V2V) assessments of our customer base\n\n► Manage customer requirements, prioritization and development resource \n\n► Lead multiple teams: development, test (functional, performance and solution), ID (documentation) and build through product delivery\n\n► Solutions run on mainframe and distributed environments, e.g. z/OS, zLinux and Windows\n\n► Negotiate across multiple organizations for solution dependencies and delivery, while maintaining 1 IBM face to the customer\n\n► Responsible for success of all Enterprise Suite products (IMS SOAP Gateway, Explorer for Development, IMS Connect, JAVA API and C API)",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1009",
+                        "entityUrn": "urn:li:fs_miniCompany:1009",
+                        "name": "IBM",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                        "universalName": "ibm",
+                        "dashCompanyUrn": "urn:li:fsd_company:1009",
+                        "trackingId": "Mh1ejP/gRO66zoqD8KNK3A=="
+                    },
+                    "companyName": "IBM"
+                },
+                {
+                    "title": "Product Manager",
+                    "description": "End-to-end product management responsibilities for a collection of software assets within both the Tivoli and Rational brands. Product portfolio consisted of both mainframe and distributed software products. I managed across divisions and companies to ensure successful software delivery. \n\n► Managed portfolio of 4 Tivoli system z products generating $5M yearly in total revenue\n\n► Demonstrated consistent growth in a down economy. Portfolio total revenue increased 27% YTY in 2009 and 13% YTY in 2010\n\n► Created, coordinated and delivered world-wide sales and service education class, which strengthened sales in both EMEA and LA\n\n► Developed macros in Visual Basic to mine and extract information from world-wide, sales-lead pipeline, saving 2 hrs/wk in productivity\n\n► Created YouTube technology preview videos, increased consumer knowledge and trust in our products through accessible content\n\n► Implemented social media campaigns for product awareness, lead generation and success metrics tracked with HootSuite and Google Analytics\n\n► Personal Blog: http://pinkproductmanager.blogspot.com; blog post “Many Hats” republished by PDMA Intl. [2009]",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:1009",
+                        "entityUrn": "urn:li:fs_miniCompany:1009",
+                        "name": "IBM",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                        "universalName": "ibm",
+                        "dashCompanyUrn": "urn:li:fsd_company:1009",
+                        "trackingId": "iNkgX1rLTKSo9rxw0W9Oxg=="
+                    },
+                    "companyName": "IBM"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "BS Computer Engineering",
+                    "fieldOfStudy": "EE, Software Engineering, Computer Science",
+                    "schoolName": "University of Pittsburgh",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Distance Education Program",
+                    "schoolName": "Rensselaer Polytechnic Institute",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "TLE Speaker",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2015
+                        }
+                    },
+                    "authority": "IBM"
+                },
+                {
+                    "name": "TLE Speaker",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2015
+                        }
+                    },
+                    "authority": "IBM"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Software Development",
+                "Software Engineering",
+                "Linux",
+                "Agile Methodologies"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Vice President Generative AI Software Product Management",
+            "summary": "Thought leader who takes complicated ideas and technology and presents them into innovative and clear plans, road-maps and solutions.  Defines market models, works on complex products & provides highly creative solutions that lead to product differentiation in the market. \nBuilds teams to use independent judgment,  innovative design thinking techniques to influence new architectures, set departmental product strategies and new processes to accomplish.\n\nSpecialties: Product Management, software development, software engineering, people management, deep learning, AGILE. ",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "San Jose, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Vice President AI Software Product Management",
+            "companyName": "NVIDIA",
+            "companyPublicId": "nvidia",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/nvidia",
+            "following": false,
+            "followable": true,
+            "followersCount": 2475,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "NVIDIA",
+        "position": "Vice President AI Software Product Management",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Computer Hardware"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Vice President AI Software Product Management",
+        "organization": "NVIDIA",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/karibriski/",
+        "company": "https://www.linkedin.com/company/nvidia"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Vice President AI Software Product Management",
+            "description": "- Oversee strategy, roadmaps and requirements for NVIDIA AI Software Products. \n- Deliver world class solutions that enable customers to create next generation AI applications.\n- PLC for Application Framework SDKs\n   - Riva Speech AI for automatic speech recognition (ASR) and Text-to-Speech Synthesis (TTS)\n   - Nemo-Megatron for very large generative language models\n   - Triton Inference Server for Standardized Inference of AI software models\n-NGC: NVIDIA's catalog for pre-train models, containers, notebooks, helm charts\n- Oversee Deep Learning Software Stack both training and inference: \n   - cuDNN and TensorRT\n   - Developer relations with open source Deep Learning Frameworks such as TensorFlow, MXNet, Caffe2 and PyTorch",
+            "locationName": "San Jose",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Hardware"
+                ],
+                "objectUrn": "urn:li:company:3608",
+                "entityUrn": "urn:li:fs_miniCompany:3608",
+                "name": "NVIDIA",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQH7YExLMK6L2Q/company-logo_200_200/company-logo_200_200/0/1724879902635/nvidia_logo?e=1747872000&v=beta&t=hMuRj7bLpkk_AwMX1S19QtD51ZjQUJUfJFaK_9LIFRE",
+                "universalName": "nvidia",
+                "dashCompanyUrn": "urn:li:fsd_company:3608",
+                "trackingId": "lwpc+cV+Q2CsGliApy2gHA=="
+            },
+            "companyName": "NVIDIA"
+        },
+        {
+            "title": "Program Director and Senior Product Manager IBM z Systems Software",
+            "description": "Senior Product Manager/Offering Lead and Program Director\n\nPassionate about application modernization, modern programming languages, runtimes and frameworks. \n\nCross-functional leadership responsibility. Work across  Development, Sales and Marketing to develop end-to-end offering business plan.\n\n► Examine market opportunity, determine product strategy and functional delivery\n► Identify key accounts, outline key partners and track sales KPIs\n► Map customer journey from discovery to conversion\n\nIMS is a strategic z system software that is used by many of the world's top companies. 80% of the world's corporate data originates resides or originates on the mainframe.\n",
+            "locationName": "san jose, ca",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "sm4EMqNjQo2Qgxfx+ptP7A=="
+            },
+            "companyName": "IBM"
+        },
+        {
+            "title": "Sr Development Manager: IBM Business Analytics",
+            "description": "Senior Development manager in charge of a global development team working on Cognos Dynamic Cubes. Dynamic Cubes is a new analytic cube technology that delivers high performance over structured BigData.\n\n- Drive development roadmap and execution\n- Vendor contract negotiation\n- AGILE development methodology\n- Manage customer engagements and relationships\n- Create both internal and external collateral",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "kdAdkPIvR7eFdYGrqQCxLQ=="
+            },
+            "companyName": "IBM"
+        },
+        {
+            "title": "Senior Engineering Development Manager",
+            "description": "Manage a department of 21 developers responsible for a collection of Service Oriented Architecture (SOA) products, tools and APIs that offer on-demand connection solutions to IMS. IMS is a transactional and hierarchical database management system that annually generates around $1 Billion in revenue. 95% of Fortune 1000 companies run IMS and need a wide-range connectivity solutions to achieve their modern business demands\n\n► Responsible for the semiannual release of a suite of software tools, supporting IMS; following AGILE development and test methodology\n\n► Responsible for quarterly revenue reporting and version to version (V2V) assessments of our customer base\n\n► Manage customer requirements, prioritization and development resource \n\n► Lead multiple teams: development, test (functional, performance and solution), ID (documentation) and build through product delivery\n\n► Solutions run on mainframe and distributed environments, e.g. z/OS, zLinux and Windows\n\n► Negotiate across multiple organizations for solution dependencies and delivery, while maintaining 1 IBM face to the customer\n\n► Responsible for success of all Enterprise Suite products (IMS SOAP Gateway, Explorer for Development, IMS Connect, JAVA API and C API)",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "Mh1ejP/gRO66zoqD8KNK3A=="
+            },
+            "companyName": "IBM"
+        },
+        {
+            "title": "Product Manager",
+            "description": "End-to-end product management responsibilities for a collection of software assets within both the Tivoli and Rational brands. Product portfolio consisted of both mainframe and distributed software products. I managed across divisions and companies to ensure successful software delivery. \n\n► Managed portfolio of 4 Tivoli system z products generating $5M yearly in total revenue\n\n► Demonstrated consistent growth in a down economy. Portfolio total revenue increased 27% YTY in 2009 and 13% YTY in 2010\n\n► Created, coordinated and delivered world-wide sales and service education class, which strengthened sales in both EMEA and LA\n\n► Developed macros in Visual Basic to mine and extract information from world-wide, sales-lead pipeline, saving 2 hrs/wk in productivity\n\n► Created YouTube technology preview videos, increased consumer knowledge and trust in our products through accessible content\n\n► Implemented social media campaigns for product awareness, lead generation and success metrics tracked with HootSuite and Google Analytics\n\n► Personal Blog: http://pinkproductmanager.blogspot.com; blog post “Many Hats” republished by PDMA Intl. [2009]",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:1009",
+                "entityUrn": "urn:li:fs_miniCompany:1009",
+                "name": "IBM",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQGiz5ecgpCtkA/company-logo_200_200/company-logo_200_200/0/1688684715866/ibm_logo?e=1747872000&v=beta&t=O30-IbILDKXcgGdx-80ZRPb0pAzHKn8bvfSuuXeQ0cQ",
+                "universalName": "ibm",
+                "dashCompanyUrn": "urn:li:fsd_company:1009",
+                "trackingId": "iNkgX1rLTKSo9rxw0W9Oxg=="
+            },
+            "companyName": "IBM"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "BS Computer Engineering",
+            "fieldOfStudy": "EE, Software Engineering, Computer Science",
+            "schoolName": "University of Pittsburgh",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Distance Education Program",
+            "schoolName": "Rensselaer Polytechnic Institute",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "TLE Speaker",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "authority": "IBM"
+        },
+        {
+            "name": "TLE Speaker",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "authority": "IBM"
+        }
+    ],
+    "skills": [
+        "Software Development",
+        "Software Engineering",
+        "Linux",
+        "Agile Methodologies"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,473 @@
+{
+    "id": "exp50840495",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Richard",
+        "lastName": "Gutjahr",
+        "fullName": "Richard Gutjahr",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQElLcfFC9QC2Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1566800743198?e=1745452800&v=beta&t=-6Hwy0OH5Xvl0ae-vx2HFapCDc94bmJWBOiWLJwtWrk",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "50840495",
+            "profileId": "ACoAAAMHw68BovqKBiM05KNWZGM9IiOR3BlL3fY",
+            "firstName": "Richard",
+            "lastName": "Gutjahr",
+            "occupation": "Journalist. TEDx-Speaker. Moderator. | Journalist of the Year (2011 and 2016), TV-Anchor (2001-2020, ARD Public German Television), Blogger, Podcaster, Columnist, Trainer and Consultant | My beat: Technology & Media",
+            "publicIdentifier": "richardgutjahr",
+            "trackingId": "xa1X/4gwRSuKJErEu4agoQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQElLcfFC9QC2Q/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1566800743198?e=1745452800&v=beta&t=-6Hwy0OH5Xvl0ae-vx2HFapCDc94bmJWBOiWLJwtWrk",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGhpgtcRkUZYQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1730891959826?e=1745452800&v=beta&t=R_0hNE9WwRhGqclrEdebaht5Jfi2oUdPHPOlgTZJVi4",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009735",
+            "positions": [
+                {
+                    "title": "Journalist, Moderator, Podcaster, Blogger, Speaker",
+                    "description": "Freier Journalist, Blogger. Speaker, Moderator und Trainer.",
+                    "locationName": "München, Berlin, Tel Aviv",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 1996
+                        }
+                    },
+                    "companyName": "The Internet"
+                },
+                {
+                    "title": "USA Korrespondent",
+                    "description": "Covering the White House, tech news and politics from Washington, DC ",
+                    "locationName": "Washington, Vereinigte Staaten von Amerika",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Freiberuflich"
+                },
+                {
+                    "title": "Reporter, Editor, Anchor",
+                    "description": "Anchoring news programs for German Public TV\nFilming and producing TV formats\nReporting for ARD Television",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2000
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:2836220",
+                        "entityUrn": "urn:li:fs_miniCompany:2836220",
+                        "name": "ARD",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHcFQWgwBAcWA/company-logo_200_200/company-logo_200_200/0/1702915156827/ard_arbeitsgemeinschaft_der_oeffentlich_rechtlichen_rundfunkanstalten_der_brd_logo?e=1747872000&v=beta&t=JYUUnUUIf6w1R_iqM6ZBRSysZZD6FsRBDalZd4t745w",
+                        "universalName": "ard-wir-sind-deins",
+                        "dashCompanyUrn": "urn:li:fsd_company:2836220",
+                        "trackingId": "ezCon5ITQbG8G3b1igxJew=="
+                    },
+                    "companyName": "Bavarian / German Public Broadcasting (BR/ARD)"
+                },
+                {
+                    "title": "Intern and freelance work",
+                    "description": "Internship at the news desk, field reporter, freelance work",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 1999
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Broadcast Media"
+                        ],
+                        "objectUrn": "urn:li:company:2046",
+                        "entityUrn": "urn:li:fs_miniCompany:2046",
+                        "name": "CNN",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEHgYOkitwp1w/company-logo_200_200/company-logo_200_200/0/1631315246531?e=1747872000&v=beta&t=VPyW2LxE0cwtiOzu71tN-upY9uhOgYD88fWCYFk0ECI",
+                        "universalName": "cnn",
+                        "dashCompanyUrn": "urn:li:fsd_company:2046",
+                        "trackingId": "wTJJAL5ATW683vb6M9Nhug=="
+                    },
+                    "companyName": "CNN Washington Bureau"
+                },
+                {
+                    "title": "Presenter, Reporter, Producer",
+                    "description": "Online-Presenter, Live aus dem Alabama (Bavarian Television)\nRadio host, producer, reporter (Radio Bayern 3)",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 1996
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Broadcast Media"
+                        ],
+                        "objectUrn": "urn:li:company:32265",
+                        "entityUrn": "urn:li:fs_miniCompany:32265",
+                        "name": "BR - Bayerischer Rundfunk",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEjHe3DBh251A/company-logo_200_200/company-logo_200_200/0/1711390435540/bayerischer_rundfunk_logo?e=1747872000&v=beta&t=GruASPbgkoXha88q4v9_zGRAt4q95oDQZI2ORMFlPXI",
+                        "universalName": "br-bayerischer-rundfunk",
+                        "dashCompanyUrn": "urn:li:fsd_company:32265",
+                        "trackingId": "wx7t2ee1QkiLA1RMXa0Y9g=="
+                    },
+                    "companyName": "Bavarian Broadcasting"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "1998",
+                    "fieldOfStudy": "Redakteur",
+                    "schoolName": "Deutsche Journalistenschule",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Dipl.",
+                    "fieldOfStudy": "Kommunikationswissenschaften, Politik",
+                    "schoolName": "Ludwig-Maximilians-Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                },
+                {
+                    "degreeName": "1999",
+                    "fieldOfStudy": "Journalism",
+                    "schoolName": "American University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Journalist des Jahres",
+                    "description": "Kategorie Reporter (2. Platz)",
+                    "issueDate": {
+                        "month": 2,
+                        "year": 2017
+                    },
+                    "issuer": "Medium Magazin"
+                },
+                {
+                    "title": "World Summit Award",
+                    "description": "The WSA is selecting and promoting local digital innovation to make Information and Communication Technology accessible to everyone and to bridge the digital divide. It was initiated in 2003 in the framework of the UN World Summit on the Information Society (UN WSIS) held in Geneva.",
+                    "issueDate": {
+                        "month": 8,
+                        "year": 2013
+                    },
+                    "issuer": "United Nations"
+                },
+                {
+                    "title": "Grimme Online Nominierung",
+                    "description": "\"Besondere Leistung einer Einzelperson \"",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2012
+                    },
+                    "issuer": "Grimme Institut"
+                },
+                {
+                    "title": "Ernst-Schneider-Preis",
+                    "description": "Trimediale Reportage über die Hartz-Reform",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2007
+                    },
+                    "issuer": "IHK Deutschland"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Social Media",
+                "Neue Medien",
+                "Journalismus",
+                "Blogging"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Journalist. TEDx-Speaker. Moderator. | Journalist of the Year (2011 and 2016), TV-Anchor (2001-2020, ARD Public German Television), Blogger, Podcaster, Columnist, Trainer and Consultant | My beat: Technology & Media",
+            "summary": "Journalism: Reporting, Producing, Presenting\n\nSpecialties: TV, Radio and Online-Media",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Greater Munich Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Journalist, Moderator, Podcaster, Blogger, Speaker",
+            "companyName": "The Internet",
+            "following": false,
+            "followable": true,
+            "followersCount": 6567,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "The Internet",
+        "position": "Journalist, Moderator, Podcaster, Blogger, Speaker",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Journalist, Moderator, Podcaster, Blogger, Speaker",
+        "organization": "The Internet",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/richardgutjahr/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Journalist, Moderator, Podcaster, Blogger, Speaker",
+            "description": "Freier Journalist, Blogger. Speaker, Moderator und Trainer.",
+            "locationName": "München, Berlin, Tel Aviv",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 1996
+                }
+            },
+            "companyName": "The Internet"
+        },
+        {
+            "title": "USA Korrespondent",
+            "description": "Covering the White House, tech news and politics from Washington, DC ",
+            "locationName": "Washington, Vereinigte Staaten von Amerika",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2022
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "companyName": "Freiberuflich"
+        },
+        {
+            "title": "Reporter, Editor, Anchor",
+            "description": "Anchoring news programs for German Public TV\nFilming and producing TV formats\nReporting for ARD Television",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2000
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:2836220",
+                "entityUrn": "urn:li:fs_miniCompany:2836220",
+                "name": "ARD",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHcFQWgwBAcWA/company-logo_200_200/company-logo_200_200/0/1702915156827/ard_arbeitsgemeinschaft_der_oeffentlich_rechtlichen_rundfunkanstalten_der_brd_logo?e=1747872000&v=beta&t=JYUUnUUIf6w1R_iqM6ZBRSysZZD6FsRBDalZd4t745w",
+                "universalName": "ard-wir-sind-deins",
+                "dashCompanyUrn": "urn:li:fsd_company:2836220",
+                "trackingId": "ezCon5ITQbG8G3b1igxJew=="
+            },
+            "companyName": "Bavarian / German Public Broadcasting (BR/ARD)"
+        },
+        {
+            "title": "Intern and freelance work",
+            "description": "Internship at the news desk, field reporter, freelance work",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 1999
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 1999
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Broadcast Media"
+                ],
+                "objectUrn": "urn:li:company:2046",
+                "entityUrn": "urn:li:fs_miniCompany:2046",
+                "name": "CNN",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEHgYOkitwp1w/company-logo_200_200/company-logo_200_200/0/1631315246531?e=1747872000&v=beta&t=VPyW2LxE0cwtiOzu71tN-upY9uhOgYD88fWCYFk0ECI",
+                "universalName": "cnn",
+                "dashCompanyUrn": "urn:li:fsd_company:2046",
+                "trackingId": "wTJJAL5ATW683vb6M9Nhug=="
+            },
+            "companyName": "CNN Washington Bureau"
+        },
+        {
+            "title": "Presenter, Reporter, Producer",
+            "description": "Online-Presenter, Live aus dem Alabama (Bavarian Television)\nRadio host, producer, reporter (Radio Bayern 3)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 1998
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1996
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Broadcast Media"
+                ],
+                "objectUrn": "urn:li:company:32265",
+                "entityUrn": "urn:li:fs_miniCompany:32265",
+                "name": "BR - Bayerischer Rundfunk",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEjHe3DBh251A/company-logo_200_200/company-logo_200_200/0/1711390435540/bayerischer_rundfunk_logo?e=1747872000&v=beta&t=GruASPbgkoXha88q4v9_zGRAt4q95oDQZI2ORMFlPXI",
+                "universalName": "br-bayerischer-rundfunk",
+                "dashCompanyUrn": "urn:li:fsd_company:32265",
+                "trackingId": "wx7t2ee1QkiLA1RMXa0Y9g=="
+            },
+            "companyName": "Bavarian Broadcasting"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "1998",
+            "fieldOfStudy": "Redakteur",
+            "schoolName": "Deutsche Journalistenschule",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        },
+        {
+            "degreeName": "Dipl.",
+            "fieldOfStudy": "Kommunikationswissenschaften, Politik",
+            "schoolName": "Ludwig-Maximilians-Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        },
+        {
+            "degreeName": "1999",
+            "fieldOfStudy": "Journalism",
+            "schoolName": "American University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Social Media",
+        "Neue Medien",
+        "Journalismus",
+        "Blogging"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,434 @@
+{
+    "id": "exp612504466",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Fabian",
+        "lastName": "Reichwald",
+        "fullName": "Fabian Reichwald",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQFeVRdF8J-0xw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517889733725?e=1745452800&v=beta&t=I8hRzFSBdD9EP5lI0aP-000X6SeV7lbfL-7B3l4PUmY",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "612504466",
+            "profileId": "ACoAACSCE5IBj1N_Km7w8-OiI0IB6_72XgTGyDQ",
+            "firstName": "Fabian",
+            "lastName": "Reichwald",
+            "occupation": "Head of Product Management bei FLEXIM GmbH",
+            "publicIdentifier": "fabian-reichwald-72a162151",
+            "trackingId": "1diD7M+zT2Su1OkEwMLxyQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFeVRdF8J-0xw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517889733725?e=1745452800&v=beta&t=I8hRzFSBdD9EP5lI0aP-000X6SeV7lbfL-7B3l4PUmY",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106967730",
+            "positions": [
+                {
+                    "title": "Head of Product Management ",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:778281",
+                        "entityUrn": "urn:li:fs_miniCompany:778281",
+                        "name": "Emerson | Flexim ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAJtYjg098tg/company-logo_200_200/company-logo_200_200/0/1709112900943/flexim_gmbh_logo?e=1747872000&v=beta&t=NHZp35qw7GYbG9Bwt6V8-gpyEDuAfHCPTRqCkU7yT2g",
+                        "universalName": "flexim-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:778281",
+                        "trackingId": "QqI//j2uTfS0Xmv1RkPjPQ=="
+                    },
+                    "companyName": "FLEXIM "
+                },
+                {
+                    "title": "Produktmanager",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:778281",
+                        "entityUrn": "urn:li:fs_miniCompany:778281",
+                        "name": "Emerson | Flexim ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAJtYjg098tg/company-logo_200_200/company-logo_200_200/0/1709112900943/flexim_gmbh_logo?e=1747872000&v=beta&t=NHZp35qw7GYbG9Bwt6V8-gpyEDuAfHCPTRqCkU7yT2g",
+                        "universalName": "flexim-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:778281",
+                        "trackingId": "oTgeMozzSBeYbteysf36+w=="
+                    },
+                    "companyName": "FLEXIM GmbH"
+                },
+                {
+                    "title": "Vertriebsingenieur - Projektingenieur Kundenprojekte",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "objectUrn": "urn:li:company:12548287",
+                        "entityUrn": "urn:li:fs_miniCompany:12548287",
+                        "name": "Baumer Hübner GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "baumer-hübner-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:12548287",
+                        "trackingId": "FNGknfUoS3KvmIr8TD4Vfw=="
+                    },
+                    "companyName": "Baumer Hübner GmbH"
+                },
+                {
+                    "title": "Vertriebsingenieur 2nd Level Support",
+                    "description": "- Unterstützung der internationalen Tochtergesellschaften und Distributoren bei der Verfahrens- und Applikationsanalyse und komplexen Problemfällen\n- Schnittstelle zur Forschung & Entwicklung und zum Produktmanagement\n- Aufgreifen von Marktimpulsen und deren Weiterleitung in die Forschung und Entwicklung",
+                    "locationName": "Berlin und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:778281",
+                        "entityUrn": "urn:li:fs_miniCompany:778281",
+                        "name": "Emerson | Flexim ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAJtYjg098tg/company-logo_200_200/company-logo_200_200/0/1709112900943/flexim_gmbh_logo?e=1747872000&v=beta&t=NHZp35qw7GYbG9Bwt6V8-gpyEDuAfHCPTRqCkU7yT2g",
+                        "universalName": "flexim-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:778281",
+                        "trackingId": "JbWe7zSrRkenbEQvtyk1dg=="
+                    },
+                    "companyName": "FLEXIM GmbH"
+                },
+                {
+                    "title": "Stellvertretender Teamleiter Technical Support",
+                    "locationName": "Berlin und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Industrial Automation"
+                        ],
+                        "objectUrn": "urn:li:company:778281",
+                        "entityUrn": "urn:li:fs_miniCompany:778281",
+                        "name": "Emerson | Flexim ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAJtYjg098tg/company-logo_200_200/company-logo_200_200/0/1709112900943/flexim_gmbh_logo?e=1747872000&v=beta&t=NHZp35qw7GYbG9Bwt6V8-gpyEDuAfHCPTRqCkU7yT2g",
+                        "universalName": "flexim-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:778281",
+                        "trackingId": "R6UnrKMaQpilSYb7vJYaYg=="
+                    },
+                    "companyName": "FLEXIM GmbH"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom-Ingenieur",
+                    "fieldOfStudy": "Technischer Umweltschutz (Energie- und Verfahrenstechnik)",
+                    "schoolName": "Technische Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Technisches Projektmanagement",
+                "Industriemesstechnik",
+                "Prozesstechnik",
+                "Problemlösungskompetenz"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Head of Product Management bei FLEXIM GmbH",
+            "student": false,
+            "industryName": "Medical Device",
+            "industryUrn": "urn:li:fs_industry:17",
+            "geoLocationName": "Berlin, Berlin",
+            "geoCountryName": "Germany",
+            "jobTitle": "Head of Product Management ",
+            "companyName": "FLEXIM ",
+            "companyPublicId": "flexim-gmbh",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/flexim-gmbh",
+            "following": false,
+            "followable": true,
+            "followersCount": 180,
+            "connectionsCount": 169,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "FLEXIM ",
+        "position": "Head of Product Management ",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Industrial Automation"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Head of Product Management ",
+        "organization": "FLEXIM ",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/fabian-reichwald-72a162151/",
+        "company": "https://www.linkedin.com/company/flexim-gmbh"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Head of Product Management ",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:778281",
+                "entityUrn": "urn:li:fs_miniCompany:778281",
+                "name": "Emerson | Flexim ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAJtYjg098tg/company-logo_200_200/company-logo_200_200/0/1709112900943/flexim_gmbh_logo?e=1747872000&v=beta&t=NHZp35qw7GYbG9Bwt6V8-gpyEDuAfHCPTRqCkU7yT2g",
+                "universalName": "flexim-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:778281",
+                "trackingId": "QqI//j2uTfS0Xmv1RkPjPQ=="
+            },
+            "companyName": "FLEXIM "
+        },
+        {
+            "title": "Produktmanager",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:778281",
+                "entityUrn": "urn:li:fs_miniCompany:778281",
+                "name": "Emerson | Flexim ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAJtYjg098tg/company-logo_200_200/company-logo_200_200/0/1709112900943/flexim_gmbh_logo?e=1747872000&v=beta&t=NHZp35qw7GYbG9Bwt6V8-gpyEDuAfHCPTRqCkU7yT2g",
+                "universalName": "flexim-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:778281",
+                "trackingId": "oTgeMozzSBeYbteysf36+w=="
+            },
+            "companyName": "FLEXIM GmbH"
+        },
+        {
+            "title": "Vertriebsingenieur - Projektingenieur Kundenprojekte",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "objectUrn": "urn:li:company:12548287",
+                "entityUrn": "urn:li:fs_miniCompany:12548287",
+                "name": "Baumer Hübner GmbH",
+                "showcase": false,
+                "active": true,
+                "universalName": "baumer-hübner-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:12548287",
+                "trackingId": "FNGknfUoS3KvmIr8TD4Vfw=="
+            },
+            "companyName": "Baumer Hübner GmbH"
+        },
+        {
+            "title": "Vertriebsingenieur 2nd Level Support",
+            "description": "- Unterstützung der internationalen Tochtergesellschaften und Distributoren bei der Verfahrens- und Applikationsanalyse und komplexen Problemfällen\n- Schnittstelle zur Forschung & Entwicklung und zum Produktmanagement\n- Aufgreifen von Marktimpulsen und deren Weiterleitung in die Forschung und Entwicklung",
+            "locationName": "Berlin und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:778281",
+                "entityUrn": "urn:li:fs_miniCompany:778281",
+                "name": "Emerson | Flexim ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAJtYjg098tg/company-logo_200_200/company-logo_200_200/0/1709112900943/flexim_gmbh_logo?e=1747872000&v=beta&t=NHZp35qw7GYbG9Bwt6V8-gpyEDuAfHCPTRqCkU7yT2g",
+                "universalName": "flexim-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:778281",
+                "trackingId": "JbWe7zSrRkenbEQvtyk1dg=="
+            },
+            "companyName": "FLEXIM GmbH"
+        },
+        {
+            "title": "Stellvertretender Teamleiter Technical Support",
+            "locationName": "Berlin und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Industrial Automation"
+                ],
+                "objectUrn": "urn:li:company:778281",
+                "entityUrn": "urn:li:fs_miniCompany:778281",
+                "name": "Emerson | Flexim ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFAJtYjg098tg/company-logo_200_200/company-logo_200_200/0/1709112900943/flexim_gmbh_logo?e=1747872000&v=beta&t=NHZp35qw7GYbG9Bwt6V8-gpyEDuAfHCPTRqCkU7yT2g",
+                "universalName": "flexim-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:778281",
+                "trackingId": "R6UnrKMaQpilSYb7vJYaYg=="
+            },
+            "companyName": "FLEXIM GmbH"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom-Ingenieur",
+            "fieldOfStudy": "Technischer Umweltschutz (Energie- und Verfahrenstechnik)",
+            "schoolName": "Technische Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Technisches Projektmanagement",
+        "Industriemesstechnik",
+        "Prozesstechnik",
+        "Problemlösungskompetenz"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,411 @@
+{
+    "id": "exp18585924",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Thomas",
+        "lastName": "Meyer",
+        "fullName": "Thomas Meyer",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQFNr6R5BS3QCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517676829913?e=1745452800&v=beta&t=EeFJK7IhayZvDvcncSe051ZqqecJM8rTRYsTCw44zSc",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "Mathematica",
+            "Python"
+        ],
+        "allData": {
+            "id": "18585924",
+            "profileId": "ACoAAAEbmUQBRTjOy8EqEgyMZi53jU6OMKune4o",
+            "firstName": "Thomas",
+            "lastName": "Meyer",
+            "occupation": "Professor at University of Connecticut",
+            "publicIdentifier": "thomas-meyer-8b02836",
+            "trackingId": "mva1hsLtSmuOh59CbXjeJw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQFNr6R5BS3QCQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517676829913?e=1745452800&v=beta&t=EeFJK7IhayZvDvcncSe051ZqqecJM8rTRYsTCw44zSc",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:101929730",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "description": "I am a geodetic engineer with specialties in developing algorithms, especially for geometric geodesy",
+                    "locationName": "Storrs, CT",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 1998
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:6041",
+                        "entityUrn": "urn:li:fs_miniCompany:6041",
+                        "name": "University of Connecticut",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF5xhWVDax-8g/company-logo_200_200/company-logo_200_200/0/1631303826717?e=1747872000&v=beta&t=mlo3osSVAiSMn-4sGRVII_VvE29E23d326ohlelRkOw",
+                        "universalName": "university-of-connecticut",
+                        "dashCompanyUrn": "urn:li:fsd_company:6041",
+                        "trackingId": "Uq35pUVFSReiZozz2PQrrw=="
+                    },
+                    "companyName": "University of Connecticut"
+                },
+                {
+                    "title": "Associate Professor",
+                    "description": "Teaching geomatics, GNSS surveying, geodesy, spatial statistics, programming. My homepage is\n\nhttp://www.cag.uconn.edu/nrme/nrme/pages/people/bios/meyer.php",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2005
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:6041",
+                        "entityUrn": "urn:li:fs_miniCompany:6041",
+                        "name": "University of Connecticut",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF5xhWVDax-8g/company-logo_200_200/company-logo_200_200/0/1631303826717?e=1747872000&v=beta&t=mlo3osSVAiSMn-4sGRVII_VvE29E23d326ohlelRkOw",
+                        "universalName": "university-of-connecticut",
+                        "dashCompanyUrn": "urn:li:fsd_company:6041",
+                        "trackingId": "jznh7h3tT3+jDqbxDzoa3w=="
+                    },
+                    "companyName": "University of Connecticut"
+                },
+                {
+                    "title": "Assistant Professor",
+                    "locationName": "Storrs, CT",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 1998
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:6041",
+                        "entityUrn": "urn:li:fs_miniCompany:6041",
+                        "name": "University of Connecticut",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF5xhWVDax-8g/company-logo_200_200/company-logo_200_200/0/1631303826717?e=1747872000&v=beta&t=mlo3osSVAiSMn-4sGRVII_VvE29E23d326ohlelRkOw",
+                        "universalName": "university-of-connecticut",
+                        "dashCompanyUrn": "urn:li:fsd_company:6041",
+                        "trackingId": "qlq42D88S9SvgtUt+VIjbw=="
+                    },
+                    "companyName": "University of Connecticut"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Geomatics",
+                    "schoolName": "Texas A&M University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MS",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "The University of New Mexico",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1986
+                        },
+                        "startDate": {
+                            "year": 1984
+                        }
+                    }
+                },
+                {
+                    "degreeName": "BS",
+                    "fieldOfStudy": "Mechanical Engineering",
+                    "schoolName": "University of Arizona",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1981
+                        },
+                        "startDate": {
+                            "year": 1976
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Mathematica Innovator 2013",
+                    "description": "One of six Innovator awards presented at the Wolfram Technology Conference in Campaign Urbana Illinois. Innovator awards are given based on a body-of-work that demonstrates innovations in science or engineering implemented using Mathematica. In my case, the award focused on my geometric geodesy package, which became part of Mathematica in version 8.",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2013
+                    },
+                    "issuer": "Wolfram Research Inc."
+                },
+                {
+                    "title": "Fellow of the American Association for Geodetic Surveying",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2013
+                    },
+                    "issuer": "AAGS"
+                },
+                {
+                    "title": "Teaching Fellow",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2013
+                    },
+                    "issuer": "University of Connecticut"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "Mathematica"
+                },
+                {
+                    "name": "Python"
+                }
+            ],
+            "skills": [
+                "Projections",
+                "Mathematica",
+                "Scientific Computing",
+                "GIS"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor at University of Connecticut",
+            "summary": "Professor at the University of Connecticut in the Department of Natural Resources and the Environment. Geodesy, land surveying, GIS, statistics, computer science\n\nTeaching Fellow of the University of Connecticut\n\nFellow and President (2016) of the American Association for Geodetic Surveying. \n\nChair of the Executive Committee for Surveying and Land Information Science Journal\n\nPast president (x2)  of the American Congress for Surveying and Mapping New England Section (now the Geomatics Society of New England)\n\nOn the editorial board for the Journal of Surveying Engineering and Surveying and Land Information Science Journal\n",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Storrs, Connecticut",
+            "geoCountryName": "United States",
+            "jobTitle": "Professor",
+            "companyName": "University of Connecticut",
+            "companyPublicId": "university-of-connecticut",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/university-of-connecticut",
+            "following": false,
+            "followable": true,
+            "followersCount": 410,
+            "connectionsCount": 403,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "University of Connecticut",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "University of Connecticut",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/thomas-meyer-8b02836/",
+        "company": "https://www.linkedin.com/company/university-of-connecticut"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "description": "I am a geodetic engineer with specialties in developing algorithms, especially for geometric geodesy",
+            "locationName": "Storrs, CT",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 1998
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:6041",
+                "entityUrn": "urn:li:fs_miniCompany:6041",
+                "name": "University of Connecticut",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF5xhWVDax-8g/company-logo_200_200/company-logo_200_200/0/1631303826717?e=1747872000&v=beta&t=mlo3osSVAiSMn-4sGRVII_VvE29E23d326ohlelRkOw",
+                "universalName": "university-of-connecticut",
+                "dashCompanyUrn": "urn:li:fsd_company:6041",
+                "trackingId": "Uq35pUVFSReiZozz2PQrrw=="
+            },
+            "companyName": "University of Connecticut"
+        },
+        {
+            "title": "Associate Professor",
+            "description": "Teaching geomatics, GNSS surveying, geodesy, spatial statistics, programming. My homepage is\n\nhttp://www.cag.uconn.edu/nrme/nrme/pages/people/bios/meyer.php",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2005
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:6041",
+                "entityUrn": "urn:li:fs_miniCompany:6041",
+                "name": "University of Connecticut",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF5xhWVDax-8g/company-logo_200_200/company-logo_200_200/0/1631303826717?e=1747872000&v=beta&t=mlo3osSVAiSMn-4sGRVII_VvE29E23d326ohlelRkOw",
+                "universalName": "university-of-connecticut",
+                "dashCompanyUrn": "urn:li:fsd_company:6041",
+                "trackingId": "jznh7h3tT3+jDqbxDzoa3w=="
+            },
+            "companyName": "University of Connecticut"
+        },
+        {
+            "title": "Assistant Professor",
+            "locationName": "Storrs, CT",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2005
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1998
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:6041",
+                "entityUrn": "urn:li:fs_miniCompany:6041",
+                "name": "University of Connecticut",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQF5xhWVDax-8g/company-logo_200_200/company-logo_200_200/0/1631303826717?e=1747872000&v=beta&t=mlo3osSVAiSMn-4sGRVII_VvE29E23d326ohlelRkOw",
+                "universalName": "university-of-connecticut",
+                "dashCompanyUrn": "urn:li:fsd_company:6041",
+                "trackingId": "qlq42D88S9SvgtUt+VIjbw=="
+            },
+            "companyName": "University of Connecticut"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Geomatics",
+            "schoolName": "Texas A&M University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        },
+        {
+            "degreeName": "MS",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "The University of New Mexico",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1986
+                },
+                "startDate": {
+                    "year": 1984
+                }
+            }
+        },
+        {
+            "degreeName": "BS",
+            "fieldOfStudy": "Mechanical Engineering",
+            "schoolName": "University of Arizona",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1981
+                },
+                "startDate": {
+                    "year": 1976
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Projections",
+        "Mathematica",
+        "Scientific Computing",
+        "GIS"
+    ],
+    "lastEnriched": "2025-02-17"
+}

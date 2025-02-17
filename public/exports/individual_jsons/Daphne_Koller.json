@@ -1,0 +1,575 @@
+{
+    "id": "exp72631877",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Daphne",
+        "lastName": "Koller",
+        "fullName": "Daphne Koller",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQF-hVurEStGaw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516893336228?e=1745452800&v=beta&t=KwF5DYRHMDNncUC2Y0X_mut6tax0FGOm59fNVb2nKBY",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "French",
+            "Hebrew"
+        ],
+        "allData": {
+            "id": "72631877",
+            "profileId": "ACoAAARURkUBjE3xfNPNSSIbQaln0zzEHcI3rqo",
+            "firstName": "Daphne",
+            "lastName": "Koller",
+            "occupation": "Founder and CEO, insitro (we're hiring!). Co-founder, Coursera. Professor of CS & Pathology at Stanford (now adjunct).",
+            "publicIdentifier": "daphne-koller-4053a820",
+            "trackingId": "hiiAScWOSXK0wm3J4a3e0g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQF-hVurEStGaw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516893336228?e=1745452800&v=beta&t=KwF5DYRHMDNncUC2Y0X_mut6tax0FGOm59fNVb2nKBY",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000084",
+            "positions": [
+                {
+                    "title": "Founder and CEO",
+                    "description": "Modern medicine has given us therapies for many diseases, but it's becoming consistently more challenging to develop new ones. The drug development process involves multiple steps, each of which involves a complex experiment that often fails. We believe that, for many of these phases, we can develop machine learning models to help predict the outcome of these experiments, and that those models, while inevitably imperfect, will outperform predictions based on traditional heuristics. The key will be to train powerful ML techniques on sufficient amounts of high-quality, relevant data. To achieve this goal, we are building a diverse team that spans multiple disciplines within the life science and machine learning. We bring together cutting edge methods in functional genomics and lab automation to build a bio-data factory that can produce relevant biological data at scale, allowing us to create large, high-quality datasets that enable the development of novel ML models. We're hiring!\n",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:18597009",
+                        "entityUrn": "urn:li:fs_miniCompany:18597009",
+                        "name": "insitro",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGlE3UEPu2SXA/company-logo_200_200/company-logo_200_200/0/1702491758285/insitro_logo?e=1747872000&v=beta&t=COa3JNw3fdoC6BvmJmtsn6xQnxH2ZLwddZWFixuUK0Q",
+                        "universalName": "insitro",
+                        "dashCompanyUrn": "urn:li:fsd_company:18597009",
+                        "trackingId": "hwPN4qLKR/+xIZ6V6yRHdA=="
+                    },
+                    "companyName": "insitro"
+                },
+                {
+                    "title": "Co-Founder and Board member",
+                    "description": "Engageli has created an inclusive digital learning platform for superior teaching and learning experiences. The surge in online education that began in March of 2020 has highlighted the need for a purpose-built platform that is designed to optimize student success, which is exactly what Engageli has set out to build. We are excited to create a new learning experience that will enable both students and instructors to learn effectively in a digital format, which we hope will be as good or in some ways even better than an in-class experience.",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "E-Learning"
+                        ],
+                        "objectUrn": "urn:li:company:66705032",
+                        "entityUrn": "urn:li:fs_miniCompany:66705032",
+                        "name": "Engageli",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHxIM5jZdfY7w/company-logo_200_200/company-logo_200_200/0/1654225229210/engageli_logo?e=1747872000&v=beta&t=JYcptsUaEfEoXHnXMvtqm2T9FYDswsI3zFchu4OvJu8",
+                        "universalName": "engageli",
+                        "dashCompanyUrn": "urn:li:fsd_company:66705032",
+                        "trackingId": "4Ci87XnzR0uXcIgRLetpDg=="
+                    },
+                    "companyName": "engageli"
+                },
+                {
+                    "title": "Co-founder and co-Chairman",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "E-Learning"
+                        ],
+                        "objectUrn": "urn:li:company:2453129",
+                        "entityUrn": "urn:li:fs_miniCompany:2453129",
+                        "name": "Coursera",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1747872000&v=beta&t=zxJALsiVLXUjl_QD16aROZ3oBL99doUi0L3-FP1bzrw",
+                        "universalName": "coursera",
+                        "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                        "trackingId": "i0I7noJ+RYKnOY1sQ1Rumg=="
+                    },
+                    "companyName": "Coursera"
+                },
+                {
+                    "title": "Chief Computing Officer",
+                    "description": "Calico allowed me to return to my passion of applying machine learning to improve human health. As Calico’s first Chief Computing Officer, I built an amazing team working on new computational methods for analyzing biological data sets to help better understand the process of aging and developing interventions that enable people to live longer, healthier lives.  ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:4831059",
+                        "entityUrn": "urn:li:fs_miniCompany:4831059",
+                        "name": "Calico Life Sciences",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEdiRlE5V_AKw/company-logo_200_200/company-logo_200_200/0/1630646553435/calico_life_sciences_llc_logo?e=1747872000&v=beta&t=j_0z2p9Ur1GJUjHc8CvE8N5JysjBph5kki_3Snwy_II",
+                        "universalName": "calico-life-sciences-llc",
+                        "dashCompanyUrn": "urn:li:fsd_company:4831059",
+                        "trackingId": "UsRO3M7/T5SCeCH4LZLg+Q=="
+                    },
+                    "companyName": "CalicoLabs"
+                },
+                {
+                    "title": "Co-founder and President",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "E-Learning"
+                        ],
+                        "objectUrn": "urn:li:company:2453129",
+                        "entityUrn": "urn:li:fs_miniCompany:2453129",
+                        "name": "Coursera",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1747872000&v=beta&t=zxJALsiVLXUjl_QD16aROZ3oBL99doUi0L3-FP1bzrw",
+                        "universalName": "coursera",
+                        "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                        "trackingId": "3iPN6u+2TUyaXR5bre9p7w=="
+                    },
+                    "companyName": "Coursera"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Postdoc",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1995
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Stanford University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 1993
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 1989
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MSc",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "The Hebrew University of Jerusalem",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1986
+                        },
+                        "startDate": {
+                            "year": 1985
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Member of the National Academy of Sciences",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2023
+                    },
+                    "issuer": "National Academy of Sciences"
+                },
+                {
+                    "title": "Fellow of the American Academy of Arts and Sciences",
+                    "issueDate": {
+                        "year": 2014
+                    },
+                    "issuer": "American Academy of Arts and Sciences"
+                },
+                {
+                    "title": "Time Magazine 100 Most Influential People",
+                    "issueDate": {
+                        "year": 2012
+                    },
+                    "issuer": "Time Magazine"
+                },
+                {
+                    "title": "Member of the National Academy of Engineering",
+                    "issueDate": {
+                        "year": 2011
+                    },
+                    "issuer": "National Academy of Engineering"
+                },
+                {
+                    "title": "Newsweek 10 Most Influential People",
+                    "issueDate": {
+                        "year": 2010
+                    },
+                    "issuer": "Newsweek Magazine"
+                },
+                {
+                    "title": "ACM Prize in Computing",
+                    "issueDate": {
+                        "year": 2008
+                    },
+                    "issuer": "Association for Computing Machinery"
+                },
+                {
+                    "title": "MacArthur Foundation Fellowship",
+                    "issueDate": {
+                        "year": 2004
+                    },
+                    "issuer": "MacArthur Foundation"
+                },
+                {
+                    "title": "IJCAI Computers and Thought Award",
+                    "issueDate": {
+                        "year": 2001
+                    },
+                    "issuer": "International Joint Conference on Artificial Intelligence"
+                },
+                {
+                    "title": "Presidential Early Career Award for Scientists and Engineers (PECASE)",
+                    "issueDate": {
+                        "year": 1999
+                    },
+                    "issuer": "President of the United States"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "French"
+                },
+                {
+                    "name": "Hebrew",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Machine Learning",
+                "Artificial Intelligence",
+                "Bayesian networks",
+                "Natural Language Processing"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder and CEO, insitro (we're hiring!). \nCo-founder, Coursera. \nProfessor of CS & Pathology at Stanford (now adjunct).",
+            "summary": "For most of my career, I've been working at the boundary of two disciplines: machine learning and biomedicine. But until recently, machine learning has not had the same impact on biomedicine as it's had on so many other challenging domains. The reason for that is twofold: not enough high-quality, relevant data; and not enough \"bilingual\" people who understand both domains and are able to identify the important problems and design the \"right\" solutions. At insitro, we aim to address both these challenges, and help address an important societal problem: design novel, safe, and effective therapies that help more people, faster, and at a lower cost. We have many exciting and challenging problems, and are building a diverse team of exceptionally talented people. Please join us!\n\n",
+            "student": false,
+            "industryName": "Biotechnology",
+            "industryUrn": "urn:li:fs_industry:12",
+            "geoLocationName": "San Francisco Bay Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Founder and CEO",
+            "companyName": "insitro",
+            "companyPublicId": "insitro",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/insitro",
+            "following": false,
+            "followable": true,
+            "followersCount": 18183,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "insitro",
+        "position": "Founder and CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Biotechnology"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Founder and CEO",
+        "organization": "insitro",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/daphne-koller-4053a820/",
+        "company": "https://www.linkedin.com/company/insitro"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Founder and CEO",
+            "description": "Modern medicine has given us therapies for many diseases, but it's becoming consistently more challenging to develop new ones. The drug development process involves multiple steps, each of which involves a complex experiment that often fails. We believe that, for many of these phases, we can develop machine learning models to help predict the outcome of these experiments, and that those models, while inevitably imperfect, will outperform predictions based on traditional heuristics. The key will be to train powerful ML techniques on sufficient amounts of high-quality, relevant data. To achieve this goal, we are building a diverse team that spans multiple disciplines within the life science and machine learning. We bring together cutting edge methods in functional genomics and lab automation to build a bio-data factory that can produce relevant biological data at scale, allowing us to create large, high-quality datasets that enable the development of novel ML models. We're hiring!\n",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:18597009",
+                "entityUrn": "urn:li:fs_miniCompany:18597009",
+                "name": "insitro",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGlE3UEPu2SXA/company-logo_200_200/company-logo_200_200/0/1702491758285/insitro_logo?e=1747872000&v=beta&t=COa3JNw3fdoC6BvmJmtsn6xQnxH2ZLwddZWFixuUK0Q",
+                "universalName": "insitro",
+                "dashCompanyUrn": "urn:li:fsd_company:18597009",
+                "trackingId": "hwPN4qLKR/+xIZ6V6yRHdA=="
+            },
+            "companyName": "insitro"
+        },
+        {
+            "title": "Co-Founder and Board member",
+            "description": "Engageli has created an inclusive digital learning platform for superior teaching and learning experiences. The surge in online education that began in March of 2020 has highlighted the need for a purpose-built platform that is designed to optimize student success, which is exactly what Engageli has set out to build. We are excited to create a new learning experience that will enable both students and instructors to learn effectively in a digital format, which we hope will be as good or in some ways even better than an in-class experience.",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "E-Learning"
+                ],
+                "objectUrn": "urn:li:company:66705032",
+                "entityUrn": "urn:li:fs_miniCompany:66705032",
+                "name": "Engageli",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHxIM5jZdfY7w/company-logo_200_200/company-logo_200_200/0/1654225229210/engageli_logo?e=1747872000&v=beta&t=JYcptsUaEfEoXHnXMvtqm2T9FYDswsI3zFchu4OvJu8",
+                "universalName": "engageli",
+                "dashCompanyUrn": "urn:li:fsd_company:66705032",
+                "trackingId": "4Ci87XnzR0uXcIgRLetpDg=="
+            },
+            "companyName": "engageli"
+        },
+        {
+            "title": "Co-founder and co-Chairman",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "E-Learning"
+                ],
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1747872000&v=beta&t=zxJALsiVLXUjl_QD16aROZ3oBL99doUi0L3-FP1bzrw",
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "i0I7noJ+RYKnOY1sQ1Rumg=="
+            },
+            "companyName": "Coursera"
+        },
+        {
+            "title": "Chief Computing Officer",
+            "description": "Calico allowed me to return to my passion of applying machine learning to improve human health. As Calico’s first Chief Computing Officer, I built an amazing team working on new computational methods for analyzing biological data sets to help better understand the process of aging and developing interventions that enable people to live longer, healthier lives.  ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:4831059",
+                "entityUrn": "urn:li:fs_miniCompany:4831059",
+                "name": "Calico Life Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEdiRlE5V_AKw/company-logo_200_200/company-logo_200_200/0/1630646553435/calico_life_sciences_llc_logo?e=1747872000&v=beta&t=j_0z2p9Ur1GJUjHc8CvE8N5JysjBph5kki_3Snwy_II",
+                "universalName": "calico-life-sciences-llc",
+                "dashCompanyUrn": "urn:li:fsd_company:4831059",
+                "trackingId": "UsRO3M7/T5SCeCH4LZLg+Q=="
+            },
+            "companyName": "CalicoLabs"
+        },
+        {
+            "title": "Co-founder and President",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "E-Learning"
+                ],
+                "objectUrn": "urn:li:company:2453129",
+                "entityUrn": "urn:li:fs_miniCompany:2453129",
+                "name": "Coursera",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGexnfBxeEG-g/company-logo_200_200/company-logo_200_200/0/1630530042036/coursera_logo?e=1747872000&v=beta&t=zxJALsiVLXUjl_QD16aROZ3oBL99doUi0L3-FP1bzrw",
+                "universalName": "coursera",
+                "dashCompanyUrn": "urn:li:fsd_company:2453129",
+                "trackingId": "3iPN6u+2TUyaXR5bre9p7w=="
+            },
+            "companyName": "Coursera"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Postdoc",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "UC Berkeley Electrical Engineering & Computer Sciences (EECS)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1995
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        },
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Stanford University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 1993
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1989
+                }
+            }
+        },
+        {
+            "degreeName": "MSc",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "The Hebrew University of Jerusalem",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1986
+                },
+                "startDate": {
+                    "year": 1985
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Bayesian networks",
+        "Natural Language Processing"
+    ],
+    "lastEnriched": "2025-02-17"
+}

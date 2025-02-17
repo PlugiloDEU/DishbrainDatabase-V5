@@ -1,0 +1,530 @@
+{
+    "id": "exp1456941",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laurent",
+        "lastName": "Vieille",
+        "fullName": "Laurent Vieille",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQGPF7V7gb4eyA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1520782108606?e=1745452800&v=beta&t=ovlCpkk5Z6Wr4l6M2Rw17HAjD0mfa5AdlYThHzFgxeg",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German"
+        ],
+        "allData": {
+            "id": "1456941",
+            "profileId": "ACoAAAAWOy0BBxRYZlZyi34xe-0Bf2e8uLEj_MY",
+            "firstName": "Laurent",
+            "lastName": "Vieille",
+            "occupation": "Technology and Innovation Consultant",
+            "publicIdentifier": "laurentvieille",
+            "trackingId": "/AUXgv48RE2mdglp0cXN9Q==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGPF7V7gb4eyA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1520782108606?e=1745452800&v=beta&t=ovlCpkk5Z6Wr4l6M2Rw17HAjD0mfa5AdlYThHzFgxeg",
+            "countryCode": "fr",
+            "geoUrn": "urn:li:fs_geo:107121860",
+            "positions": [
+                {
+                    "title": "Software & Innovation Consulting, Cxo",
+                    "description": "Consulting on:\n- Software development, with data management and network security knowledge.\n- Innovation Management, with strategy, funding and product introduction experience.",
+                    "locationName": "Paris Area, France",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 0,
+                            "end": 1
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:12610737",
+                        "entityUrn": "urn:li:fs_miniCompany:12610737",
+                        "name": "Telcia Partners",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEnPRTMlFtINA/company-logo_200_200/company-logo_200_200/0/1630524743292/telcia_logo?e=1747872000&v=beta&t=p9PV8BA-eec3LvYDZw3Kgk-YBLRit0uIZjWJxMRrRyc",
+                        "universalName": "telcia",
+                        "dashCompanyUrn": "urn:li:fsd_company:12610737",
+                        "trackingId": "X2iIDo50ST2niwNriFbDWA=="
+                    },
+                    "companyName": "Telcia Partners"
+                },
+                {
+                    "title": " Impact Assessment of Funding Programs fostering Private-Public Joint Work",
+                    "description": "2020 & 2023 Assess impacts of the LabCom funding program, which fosters public-private joint research.\n\n2019 - Contribute to the second assessment of the eight Technology Research Institutes (IRT) launched in 2011-2013 by the program \"Investment for the Future\", funded by the French government. Specific responsibility on the IRTs socio-economic impacts.",
+                    "locationName": "Paris Area, France",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:907159",
+                        "entityUrn": "urn:li:fs_miniCompany:907159",
+                        "name": "ANR, the French National Research Agency",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFPHU-N-LDcWQ/company-logo_200_200/company-logo_200_200/0/1630489599241/anr_logo?e=1747872000&v=beta&t=XrC1vNODiTfxjWwFlh_ilTJzCjEM_dwhoL4ue2945Ts",
+                        "universalName": "anr",
+                        "dashCompanyUrn": "urn:li:fsd_company:907159",
+                        "trackingId": "juLTYb0rQsmDSGBWp5jIdQ=="
+                    },
+                    "companyName": "ANR, the French National Research Agency"
+                },
+                {
+                    "title": "VP Products, CTO",
+                    "description": "Visitors-Book collects and publishes customer satisfaction feedback for retailers. Focused on getting feedback on payment terminals for physical merchants. \n\n- Manage the development team:  embedded software ; back office (Saas, java EE); reporting;  SEO.  \n- Conduct industrial partnerships. \n- From incubation to business growth (co-founder).",
+                    "locationName": "Paris Area, France",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:68563205",
+                        "entityUrn": "urn:li:fs_miniCompany:68563205",
+                        "name": "Visitors-Book",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEfw4_p02wgOQ/company-logo_200_200/company-logo_200_200/0/1647934761400/visitorsbook_logo?e=1747872000&v=beta&t=d83PXx03OhZnSxtBHmnP1xCKs8hP_gwj_otYWqLJqPQ",
+                        "universalName": "visitorsbook",
+                        "dashCompanyUrn": "urn:li:fsd_company:68563205",
+                        "trackingId": "aAotHrjPTuSTjOvewf+t2Q=="
+                    },
+                    "companyName": "Visitors-Book"
+                },
+                {
+                    "title": "Member of the Scientific and Technology Committee",
+                    "description": "Digilence is a consulting company focusing on excellence during digital transformation. ",
+                    "locationName": "Paris Area, France",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:18306009",
+                        "entityUrn": "urn:li:fs_miniCompany:18306009",
+                        "name": "DigiLence",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQFpW0F-WO8O8A/company-logo_200_200/company-logo_200_200/0/1631304363921?e=1747872000&v=beta&t=Sre6FdjcrOeh8BKL7da4aAsCvHcrh-ZFLeJ_DuYcgiE",
+                        "universalName": "digilence",
+                        "dashCompanyUrn": "urn:li:fsd_company:18306009",
+                        "trackingId": "i1A2fT2jQKi5uS3z0BcmXQ=="
+                    },
+                    "companyName": "DigiLence"
+                },
+                {
+                    "title": "Senior Technical Advisor",
+                    "description": "Technology & product partnerships in the payment industry\n\n",
+                    "locationName": "Paris Area, France",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:3213474",
+                        "entityUrn": "urn:li:fs_miniCompany:3213474",
+                        "name": "Izicap",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGHRNPRfKssug/company-logo_200_200/company-logo_200_200/0/1633596306218/izicap_logo?e=1747872000&v=beta&t=drpW3drQ3DBBu9D3UVCAN00sZ3QE7ov9oZAaEW_slBg",
+                        "universalName": "izicap",
+                        "dashCompanyUrn": "urn:li:fsd_company:3213474",
+                        "trackingId": "on/a7sBkQn+1sUeK98wX8w=="
+                    },
+                    "companyName": "Izicap"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Corps des Ponts",
+                    "schoolName": "École Polytechnique",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1981
+                        },
+                        "startDate": {
+                            "year": 1978
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Computer Science",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1984
+                        },
+                        "startDate": {
+                            "year": 1981
+                        }
+                    }
+                },
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Pierre and Marie Curie University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1988
+                        },
+                        "startDate": {
+                            "year": 1983
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "Product Marketing",
+                "Business Strategy",
+                "Databases",
+                "Program Management"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Technology and Innovation Consultant",
+            "summary": "Innovation & operations management, technology businesses:\n- new product strategy, development & marketing\n- lean and agile management\n- 15+ years in data management systems, transactions, query processing\n- 7+ years in the smart card and network security industry \n- Hands-on contributor in multiple environments: Java EE, Javascript, Nodejs,  ...\n\nWorked in Munich (Germany), Phoenix (Arizona), Paris (France)\nContributed to global companies and to start-ups  (co-founded two)\nOperations management of mid-size businesses\nR&D funding : CIR, IRT, partnerships\nScientific background (PhD) in Artificial Intelligence, logic, data bases, computational complexity\n\n",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Versailles, Île-de-France",
+            "geoCountryName": "France",
+            "jobTitle": "Software & Innovation Consulting, Cxo",
+            "companyName": "Telcia Partners",
+            "companyPublicId": "telcia",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/telcia",
+            "following": false,
+            "followable": true,
+            "followersCount": 771,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Telcia Partners",
+        "position": "Software & Innovation Consulting, Cxo",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Management Consulting"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Software & Innovation Consulting, Cxo",
+        "organization": "Telcia Partners",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/laurentvieille/",
+        "company": "https://www.linkedin.com/company/telcia"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Software & Innovation Consulting, Cxo",
+            "description": "Consulting on:\n- Software development, with data management and network security knowledge.\n- Innovation Management, with strategy, funding and product introduction experience.",
+            "locationName": "Paris Area, France",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:12610737",
+                "entityUrn": "urn:li:fs_miniCompany:12610737",
+                "name": "Telcia Partners",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEnPRTMlFtINA/company-logo_200_200/company-logo_200_200/0/1630524743292/telcia_logo?e=1747872000&v=beta&t=p9PV8BA-eec3LvYDZw3Kgk-YBLRit0uIZjWJxMRrRyc",
+                "universalName": "telcia",
+                "dashCompanyUrn": "urn:li:fsd_company:12610737",
+                "trackingId": "X2iIDo50ST2niwNriFbDWA=="
+            },
+            "companyName": "Telcia Partners"
+        },
+        {
+            "title": " Impact Assessment of Funding Programs fostering Private-Public Joint Work",
+            "description": "2020 & 2023 Assess impacts of the LabCom funding program, which fosters public-private joint research.\n\n2019 - Contribute to the second assessment of the eight Technology Research Institutes (IRT) launched in 2011-2013 by the program \"Investment for the Future\", funded by the French government. Specific responsibility on the IRTs socio-economic impacts.",
+            "locationName": "Paris Area, France",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:907159",
+                "entityUrn": "urn:li:fs_miniCompany:907159",
+                "name": "ANR, the French National Research Agency",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFPHU-N-LDcWQ/company-logo_200_200/company-logo_200_200/0/1630489599241/anr_logo?e=1747872000&v=beta&t=XrC1vNODiTfxjWwFlh_ilTJzCjEM_dwhoL4ue2945Ts",
+                "universalName": "anr",
+                "dashCompanyUrn": "urn:li:fsd_company:907159",
+                "trackingId": "juLTYb0rQsmDSGBWp5jIdQ=="
+            },
+            "companyName": "ANR, the French National Research Agency"
+        },
+        {
+            "title": "VP Products, CTO",
+            "description": "Visitors-Book collects and publishes customer satisfaction feedback for retailers. Focused on getting feedback on payment terminals for physical merchants. \n\n- Manage the development team:  embedded software ; back office (Saas, java EE); reporting;  SEO.  \n- Conduct industrial partnerships. \n- From incubation to business growth (co-founder).",
+            "locationName": "Paris Area, France",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:68563205",
+                "entityUrn": "urn:li:fs_miniCompany:68563205",
+                "name": "Visitors-Book",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEfw4_p02wgOQ/company-logo_200_200/company-logo_200_200/0/1647934761400/visitorsbook_logo?e=1747872000&v=beta&t=d83PXx03OhZnSxtBHmnP1xCKs8hP_gwj_otYWqLJqPQ",
+                "universalName": "visitorsbook",
+                "dashCompanyUrn": "urn:li:fsd_company:68563205",
+                "trackingId": "aAotHrjPTuSTjOvewf+t2Q=="
+            },
+            "companyName": "Visitors-Book"
+        },
+        {
+            "title": "Member of the Scientific and Technology Committee",
+            "description": "Digilence is a consulting company focusing on excellence during digital transformation. ",
+            "locationName": "Paris Area, France",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:18306009",
+                "entityUrn": "urn:li:fs_miniCompany:18306009",
+                "name": "DigiLence",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQFpW0F-WO8O8A/company-logo_200_200/company-logo_200_200/0/1631304363921?e=1747872000&v=beta&t=Sre6FdjcrOeh8BKL7da4aAsCvHcrh-ZFLeJ_DuYcgiE",
+                "universalName": "digilence",
+                "dashCompanyUrn": "urn:li:fsd_company:18306009",
+                "trackingId": "i1A2fT2jQKi5uS3z0BcmXQ=="
+            },
+            "companyName": "DigiLence"
+        },
+        {
+            "title": "Senior Technical Advisor",
+            "description": "Technology & product partnerships in the payment industry\n\n",
+            "locationName": "Paris Area, France",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:3213474",
+                "entityUrn": "urn:li:fs_miniCompany:3213474",
+                "name": "Izicap",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGHRNPRfKssug/company-logo_200_200/company-logo_200_200/0/1633596306218/izicap_logo?e=1747872000&v=beta&t=drpW3drQ3DBBu9D3UVCAN00sZ3QE7ov9oZAaEW_slBg",
+                "universalName": "izicap",
+                "dashCompanyUrn": "urn:li:fsd_company:3213474",
+                "trackingId": "on/a7sBkQn+1sUeK98wX8w=="
+            },
+            "companyName": "Izicap"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Corps des Ponts",
+            "schoolName": "École Polytechnique",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1981
+                },
+                "startDate": {
+                    "year": 1978
+                }
+            }
+        },
+        {
+            "degreeName": "Computer Science",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1984
+                },
+                "startDate": {
+                    "year": 1981
+                }
+            }
+        },
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Pierre and Marie Curie University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1988
+                },
+                "startDate": {
+                    "year": 1983
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Product Marketing",
+        "Business Strategy",
+        "Databases",
+        "Program Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

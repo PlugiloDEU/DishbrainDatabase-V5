@@ -1,0 +1,470 @@
+{
+    "id": "exp257431070",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Jürgen",
+        "lastName": "Schmidhuber",
+        "fullName": "Jürgen Schmidhuber",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQF3v7_lbV6AXQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516460285664?e=1745452800&v=beta&t=y1bZAcSTiGOIrpLR8Y6wjJmrEbrgVzR8ZFkb3uDMWZI",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French (basics)",
+            "German",
+            "Italian (can order pizza)"
+        ],
+        "allData": {
+            "id": "257431070",
+            "profileId": "ACoAAA9YFh4BDkfvC81uTe72ONFpeLQkX2NbNG0",
+            "firstName": "Jürgen",
+            "lastName": "Schmidhuber",
+            "occupation": "Director, AI Initiative, KAUST; Scientific Director, Swiss AI Lab, IDSIA; Adj. Prof. of AI, Univ. Lugano; Co-Founder & Chief Scientist, NNAISENSE",
+            "publicIdentifier": "jürgen-schmidhuber-39226872",
+            "trackingId": "SEWuiWgiT9C6Srw01xcecg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQF3v7_lbV6AXQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516460285664?e=1745452800&v=beta&t=y1bZAcSTiGOIrpLR8Y6wjJmrEbrgVzR8ZFkb3uDMWZI",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:104623329",
+            "positions": [
+                {
+                    "title": "Director, AI Inititative",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:276978",
+                        "entityUrn": "urn:li:fs_miniCompany:276978",
+                        "name": "KAUST (King Abdullah University of Science and Technology)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE6wmDzlM7YKw/company-logo_200_200/company-logo_200_200/0/1631327238665?e=1747872000&v=beta&t=OJ0cgK9P5E0ThpIuXzicEAos8kumV_-hBzpJVtl8gfg",
+                        "universalName": "kaust",
+                        "dashCompanyUrn": "urn:li:fsd_company:276978",
+                        "trackingId": "nEEcwFwUR3WLK4K9Bdx+Gw=="
+                    },
+                    "companyName": "KAUST (King Abdullah University of Science and Technology)"
+                },
+                {
+                    "title": "Co-Founder & Chief Scientist (former President)",
+                    "description": "www.nnaisense.com",
+                    "locationName": "Switzerland",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:11293297",
+                        "entityUrn": "urn:li:fs_miniCompany:11293297",
+                        "name": "NNAISENSE",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG_1-o6otXKcg/company-logo_200_200/company-logo_200_200/0/1631358236962?e=1747872000&v=beta&t=1GG35Kja17f8hBJWQRnPvTEfm6JldSHyPVwrcWVHODw",
+                        "universalName": "nnaisense",
+                        "dashCompanyUrn": "urn:li:fsd_company:11293297",
+                        "trackingId": "vS5JM4KJQ3qPkzoTSKWiMA=="
+                    },
+                    "companyName": "NNAISENSE"
+                },
+                {
+                    "title": "Scientific Director",
+                    "locationName": "Manno-Lugano, Switzerland",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 1995
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:59028",
+                        "entityUrn": "urn:li:fs_miniCompany:59028",
+                        "name": "IDSIA USI-SUPSI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH8VJJSjRqL4A/company-logo_200_200/company-logo_200_200/0/1731055148483/idsia_logo?e=1747872000&v=beta&t=pVPrqevfLFlDH1GYwSB6NWoh4pZ0fVtN2HW0OpA6g_U",
+                        "universalName": "idsia",
+                        "dashCompanyUrn": "urn:li:fsd_company:59028",
+                        "trackingId": "nEYMEKrcQ4q2b9OTRisMjQ=="
+                    },
+                    "companyName": "IDSIA"
+                },
+                {
+                    "title": "Professor of Artificial Intelligence",
+                    "locationName": "Lugano, Switzerland",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1247076",
+                        "entityUrn": "urn:li:fs_miniCompany:1247076",
+                        "name": "USI Università della Svizzera italiana",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQETrcmcvNQGVA/company-logo_200_200/company-logo_200_200/0/1631340616240?e=1747872000&v=beta&t=buIy8alKg3myXEE-YEvuQeKTWj6NZovP3SmyFr0ogTg",
+                        "universalName": "usi-universita-della-svizzera-italiana",
+                        "dashCompanyUrn": "urn:li:fsd_company:1247076",
+                        "trackingId": "WidqZYQpTZuV7/F+uf6Jhw=="
+                    },
+                    "companyName": "USI Università della Svizzera italiana"
+                },
+                {
+                    "title": "Professor SUPSI",
+                    "locationName": "Manno, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:36498",
+                        "entityUrn": "urn:li:fs_miniCompany:36498",
+                        "name": "University of Applied Sciences and Arts of Southern Switzerland",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFR38RrMm-BOg/company-logo_200_200/company-logo_200_200/0/1726581350446/supsi_logo?e=1747872000&v=beta&t=SvlfKLHHvbYwjN7xaYvr4RxGeCcYVGTfSNQGtjFyR44",
+                        "universalName": "supsi",
+                        "dashCompanyUrn": "urn:li:fsd_company:36498",
+                        "trackingId": "izH3asPQTsOBEddJa698fQ=="
+                    },
+                    "companyName": "SUPSI"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "Technische Universität München / TU Munich"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Swiss ICT Special Award",
+                    "description": "Recipient of the 2016 Swiss ICT Special Award for IDSIA (accepted with Luca Gambardella) ",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2016
+                    },
+                    "issuer": "Swiss ICT"
+                },
+                {
+                    "title": "NVIDIA Pioneers of AI Research Award",
+                    "description": "The lab of JS is recipient of the 2016 NVIDIA Pioneers of AI Research award which comes with a DGX-1 deep learning supercomputer with 170 TFLOPS ",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2016
+                    },
+                    "issuer": "NVIDIA"
+                },
+                {
+                    "title": "Neural Networks Pioneer Award",
+                    "description": "2016 IEEE CIS Neural Networks Pioneer Award (announced in 2015) awarded to JS for \"pioneering contributions to deep learning and neural networks.\" ",
+                    "issueDate": {
+                        "month": 8,
+                        "year": 2016
+                    },
+                    "issuer": "IEEE CIS"
+                },
+                {
+                    "title": "Helmholtz Award",
+                    "issueDate": {
+                        "year": 2013
+                    },
+                    "issuer": "International Neural Networks Society"
+                },
+                {
+                    "title": "Member",
+                    "issueDate": {
+                        "year": 2009
+                    },
+                    "issuer": "European Academy of Sciences and Arts"
+                },
+                {
+                    "title": "AAAI 2013 Best Student Video Award",
+                    "description": "AAAI 2013 Best Student Video Award (\"The Shakey\") for IDSIA's video on roadmap planning for an iCub humanoid robot (M Stollenga & K Frank & J Leitner & L Pape & A Foerster & J Koutnik in the research group of JS) ",
+                    "issuer": "Association for the Advancement of Artificial Intelligence"
+                },
+                {
+                    "title": "Nine 1st Prizes in International Competitions 2009-2012",
+                    "description": "The Deep Learning Artificial Neural Networks developed in the lab of JS won nine international pattern recognition contests (thanks to Alex Graves, Dan Ciresan, Ueli Meier, Jonathan Masci, Alessandro Giusti):\n9. MICCAI 2013 Grand Challenge on Mitosis Detection (for cancer prognosis etc)\n8. ICPR 2012 Contest on Mitosis Detection in Breast Cancer Histological Images \n7. ISBI 2012 Image Segmentation Challenge (with superhuman pixel error rate)\n6. IJCNN 2011 on-site Traffic Sign Recognition Competition (the only method outperforming humans)\n5. ICDAR 2011 Chinese Handwriting Recognition Competition (2011)\n4. Online German Traffic Sign Recognition Contest (1st & 2nd rank, 2011)\n3. ICDAR 2009 Arabic Connected Handwriting Competition\n2. ICDAR 2009 Handwritten Farsi/Arabic Character Recognition Competition\n1. ICDAR 2009 French Connected Handwriting Competition"
+                },
+                {
+                    "title": "Six Best Paper Awards 2005-2013",
+                    "description": "at (1) GECCO 2005, (2) GECCO 2009, (3) AGI 2010 (Kurzweil Prize), (4) AGI 2011 (Kurzweil Prize), (5) AGI 2013, (6) IADIS 2014 (thanks to F Gomez, D Wierstra, S Yi, T Glasmachers, T Schaul, L Gisslen, M Luciw, V Graziano, J Koutnik, H Mayer, I Nagy, A Knoll, B Steunebrink, K Thorisson, E Nivel, H Dindo, G Pezzulo, M Rodriguez, C Hernandez, D Ognibene, R Sanz, H Helgason, A Chella, G Jonsson). Additional best paper nominations at GECCO 2005, IROS 2006, GECCO 2009, GECCO 2010, PPSN 2012."
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "French (basics)"
+                },
+                {
+                    "name": "German"
+                },
+                {
+                    "name": "Italian (can order pizza)"
+                }
+            ],
+            "skills": [
+                "Artificial Intelligence",
+                "Machine Learning",
+                "Artificial Neural Networks",
+                "Mathematics"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Director, AI Initiative, KAUST; Scientific Director, Swiss AI Lab, IDSIA; Adj. Prof. of AI, Univ. Lugano; Co-Founder & Chief Scientist, NNAISENSE",
+            "summary": "The New York Times headlined: \"When A.I. Matures, It May Call Jürgen Schmidhuber 'Dad'.\" Since age 15, his main goal has been to build a self-improving A.I. smarter than himself, then retire. His lab's deep learning artificial neural networks based on ideas published in the \"Annus Mirabilis\" 1990-1991 have revolutionised machine learning and A.I. By 2017, they were on over 3 billion smartphones, and used billions of times per day, for Facebook’s automatic translation, Google’s speech recognition, Google Translate, Apple’s Siri & QuickType, Amazon’s Alexa, etc. Generative AI is also based on his work: he introduced artificial curiosity & generative adversarial networks (1990, now widely used), self-supervised pre-training for deep learning (1991, the \"P\" in \"ChatGPT\" stands for \"pre-trained\"), unnormalised linear Transformers (1991, the \"T\" in \"ChatGPT\" stands for \"Transformer\"), and meta-learning machines that learn to learn (since 1987, now widely used). His lab also produced LSTM, the most cited AI of the 20th century, and the LSTM-inspired Highway Net, the first very deep feedforward net with hundreds of layers (ResNet, the most cited AI of the 21st century, is an open-gated Highway Net). In 2006-2010, he published the \"formal theory of fun and creativity.\" Elon Musk tweeted: \"Schmidhuber invented everything.\" He is recipient of numerous awards, Co-Chair of the KAUST Gen AI Center in KSA, Scientific Director of the Swiss AI Lab IDSIA, and co-founder & former President of NNAISENSE. He is a frequent keynote speaker at major events, and advising various governments on A.I. strategies. More: https://people.idsia.ch/~juergen/blog.html",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Ticino",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Director, AI Inititative",
+            "companyName": "KAUST (King Abdullah University of Science and Technology)",
+            "companyPublicId": "kaust",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/kaust",
+            "following": false,
+            "followable": true,
+            "followersCount": 13690,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "KAUST (King Abdullah University of Science and Technology)",
+        "position": "Director, AI Inititative",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director, AI Inititative",
+        "organization": "KAUST (King Abdullah University of Science and Technology)",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/jürgen-schmidhuber-39226872/",
+        "company": "https://www.linkedin.com/company/kaust"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director, AI Inititative",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:276978",
+                "entityUrn": "urn:li:fs_miniCompany:276978",
+                "name": "KAUST (King Abdullah University of Science and Technology)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE6wmDzlM7YKw/company-logo_200_200/company-logo_200_200/0/1631327238665?e=1747872000&v=beta&t=OJ0cgK9P5E0ThpIuXzicEAos8kumV_-hBzpJVtl8gfg",
+                "universalName": "kaust",
+                "dashCompanyUrn": "urn:li:fsd_company:276978",
+                "trackingId": "nEEcwFwUR3WLK4K9Bdx+Gw=="
+            },
+            "companyName": "KAUST (King Abdullah University of Science and Technology)"
+        },
+        {
+            "title": "Co-Founder & Chief Scientist (former President)",
+            "description": "www.nnaisense.com",
+            "locationName": "Switzerland",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:11293297",
+                "entityUrn": "urn:li:fs_miniCompany:11293297",
+                "name": "NNAISENSE",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG_1-o6otXKcg/company-logo_200_200/company-logo_200_200/0/1631358236962?e=1747872000&v=beta&t=1GG35Kja17f8hBJWQRnPvTEfm6JldSHyPVwrcWVHODw",
+                "universalName": "nnaisense",
+                "dashCompanyUrn": "urn:li:fsd_company:11293297",
+                "trackingId": "vS5JM4KJQ3qPkzoTSKWiMA=="
+            },
+            "companyName": "NNAISENSE"
+        },
+        {
+            "title": "Scientific Director",
+            "locationName": "Manno-Lugano, Switzerland",
+            "timePeriod": {
+                "startDate": {
+                    "year": 1995
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:59028",
+                "entityUrn": "urn:li:fs_miniCompany:59028",
+                "name": "IDSIA USI-SUPSI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQH8VJJSjRqL4A/company-logo_200_200/company-logo_200_200/0/1731055148483/idsia_logo?e=1747872000&v=beta&t=pVPrqevfLFlDH1GYwSB6NWoh4pZ0fVtN2HW0OpA6g_U",
+                "universalName": "idsia",
+                "dashCompanyUrn": "urn:li:fsd_company:59028",
+                "trackingId": "nEYMEKrcQ4q2b9OTRisMjQ=="
+            },
+            "companyName": "IDSIA"
+        },
+        {
+            "title": "Professor of Artificial Intelligence",
+            "locationName": "Lugano, Switzerland",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1247076",
+                "entityUrn": "urn:li:fs_miniCompany:1247076",
+                "name": "USI Università della Svizzera italiana",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQETrcmcvNQGVA/company-logo_200_200/company-logo_200_200/0/1631340616240?e=1747872000&v=beta&t=buIy8alKg3myXEE-YEvuQeKTWj6NZovP3SmyFr0ogTg",
+                "universalName": "usi-universita-della-svizzera-italiana",
+                "dashCompanyUrn": "urn:li:fsd_company:1247076",
+                "trackingId": "WidqZYQpTZuV7/F+uf6Jhw=="
+            },
+            "companyName": "USI Università della Svizzera italiana"
+        },
+        {
+            "title": "Professor SUPSI",
+            "locationName": "Manno, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:36498",
+                "entityUrn": "urn:li:fs_miniCompany:36498",
+                "name": "University of Applied Sciences and Arts of Southern Switzerland",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFR38RrMm-BOg/company-logo_200_200/company-logo_200_200/0/1726581350446/supsi_logo?e=1747872000&v=beta&t=SvlfKLHHvbYwjN7xaYvr4RxGeCcYVGTfSNQGtjFyR44",
+                "universalName": "supsi",
+                "dashCompanyUrn": "urn:li:fsd_company:36498",
+                "trackingId": "izH3asPQTsOBEddJa698fQ=="
+            },
+            "companyName": "SUPSI"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "Technische Universität München / TU Munich"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Artificial Neural Networks",
+        "Mathematics"
+    ],
+    "lastEnriched": "2025-02-17"
+}

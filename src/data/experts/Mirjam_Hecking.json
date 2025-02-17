@@ -1,0 +1,316 @@
+{
+    "id": "exp11325546",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Mirjam",
+        "lastName": "Hecking",
+        "fullName": "Mirjam Hecking",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGqwx_tUN0JOA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1695119211176?e=1745452800&v=beta&t=VFp70azrImftiG1JQdg-wVozVN3SxWmHneH6__1ykmo",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "Portuguese",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "11325546",
+            "profileId": "ACoAAACs0GoBijIQpCGIY38MQk1dB24z0fQQofE",
+            "firstName": "Mirjam",
+            "lastName": "Hecking",
+            "occupation": "correspondent at manager magazin",
+            "publicIdentifier": "mirjam-hecking-1769623",
+            "trackingId": "4dTOAcW1ThaFdkkPZBfvWQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGqwx_tUN0JOA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1695119211176?e=1745452800&v=beta&t=VFp70azrImftiG1JQdg-wVozVN3SxWmHneH6__1ykmo",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQGSyMHKVrHw1w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1695295758199?e=1745452800&v=beta&t=V9zmNO8lspWe1AVPfQb-eUNNn5D-upBeJ0qeZ1fGLWk",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102380872",
+            "positions": [
+                {
+                    "title": "Correspondent",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:87049",
+                        "entityUrn": "urn:li:fs_miniCompany:87049",
+                        "name": "manager magazin",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQE6GIzaU7hLwQ/company-logo_200_200/company-logo_200_200/0/1630661078483/manager_magazin_logo?e=1747872000&v=beta&t=OuPQeqtOt27RM5Xjmrwdx9CFJCrfVJcTlFDt0pVcVf8",
+                        "universalName": "manager-magazin",
+                        "dashCompanyUrn": "urn:li:fsd_company:87049",
+                        "trackingId": "3rdiXJoCTIyAUrqmeDbScw=="
+                    },
+                    "companyName": "manager magazin"
+                },
+                {
+                    "title": "correspondent",
+                    "locationName": "Brussels",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    },
+                    "companyName": "dapd news agency"
+                },
+                {
+                    "title": "correspondent",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:204617",
+                        "entityUrn": "urn:li:fs_miniCompany:204617",
+                        "name": "The Associated Press",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE62FPAXZZt2A/company-logo_200_200/company-logo_200_200/0/1703688237097/associated_press_logo?e=1747872000&v=beta&t=qERVOxeKb74t4chH9iIDFMjold6xveq_3LTUFprG17M",
+                        "universalName": "associated-press",
+                        "dashCompanyUrn": "urn:li:fsd_company:204617",
+                        "trackingId": "asO35DC7RneGZr7oUgqVdg=="
+                    },
+                    "companyName": "The Associated Press"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "Universidad Complutense de Madrid"
+                },
+                {
+                    "schoolName": "University of Münster",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1995
+                        }
+                    }
+                },
+                {
+                    "schoolName": "Southern Connecticut State University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1994
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Portuguese",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "LIMITED_WORKING"
+                }
+            ],
+            "skills": [
+                "Investigative Reporting",
+                "Journalism",
+                "Breaking News",
+                "Newspapers"
+            ],
+            "volunteerExperiences": [],
+            "headline": "correspondent at manager magazin",
+            "summary": "Experienced Correspondent with a demonstrated history of working in the newspapers industry. Strong media and communication professional skilled in Breaking News, Journalism, Media Relations, Corporate Communications, and Magazines.",
+            "student": false,
+            "industryName": "Media Production",
+            "industryUrn": "urn:li:fs_industry:126",
+            "geoLocationName": "Boston, Massachusetts",
+            "geoCountryName": "United States",
+            "jobTitle": "Correspondent",
+            "companyName": "manager magazin",
+            "companyPublicId": "manager-magazin",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/manager-magazin",
+            "following": false,
+            "followable": true,
+            "followersCount": 2428,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "manager magazin",
+        "position": "Correspondent",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Newspapers"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Correspondent",
+        "organization": "manager magazin",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/mirjam-hecking-1769623/",
+        "company": "https://www.linkedin.com/company/manager-magazin"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Correspondent",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:87049",
+                "entityUrn": "urn:li:fs_miniCompany:87049",
+                "name": "manager magazin",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQE6GIzaU7hLwQ/company-logo_200_200/company-logo_200_200/0/1630661078483/manager_magazin_logo?e=1747872000&v=beta&t=OuPQeqtOt27RM5Xjmrwdx9CFJCrfVJcTlFDt0pVcVf8",
+                "universalName": "manager-magazin",
+                "dashCompanyUrn": "urn:li:fsd_company:87049",
+                "trackingId": "3rdiXJoCTIyAUrqmeDbScw=="
+            },
+            "companyName": "manager magazin"
+        },
+        {
+            "title": "correspondent",
+            "locationName": "Brussels",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "companyName": "dapd news agency"
+        },
+        {
+            "title": "correspondent",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:204617",
+                "entityUrn": "urn:li:fs_miniCompany:204617",
+                "name": "The Associated Press",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE62FPAXZZt2A/company-logo_200_200/company-logo_200_200/0/1703688237097/associated_press_logo?e=1747872000&v=beta&t=qERVOxeKb74t4chH9iIDFMjold6xveq_3LTUFprG17M",
+                "universalName": "associated-press",
+                "dashCompanyUrn": "urn:li:fsd_company:204617",
+                "trackingId": "asO35DC7RneGZr7oUgqVdg=="
+            },
+            "companyName": "The Associated Press"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "Universidad Complutense de Madrid"
+        },
+        {
+            "schoolName": "University of Münster",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1995
+                }
+            }
+        },
+        {
+            "schoolName": "Southern Connecticut State University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1994
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Investigative Reporting",
+        "Journalism",
+        "Breaking News",
+        "Newspapers"
+    ],
+    "lastEnriched": "2025-02-17"
+}

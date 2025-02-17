@@ -1,0 +1,455 @@
+{
+    "id": "exp732125251",
+    "personalInfo": {
+        "title": null,
+        "firstName": "PD Dr. med. Christian",
+        "lastName": "Schmidt, EDIC",
+        "fullName": "PD Dr. med. Christian Schmidt, EDIC",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "732125251",
+            "profileId": "ACoAACujWEMBm1-uFbpuyKlun3MZ8I6IZ4l-pSk",
+            "firstName": "PD Dr. med. Christian",
+            "lastName": "Schmidt, EDIC",
+            "occupation": "Neurologist",
+            "publicIdentifier": "pd-dr-med-christian-schmidt-edic-71722b185",
+            "trackingId": "HrEcZcc8QcOX8yE9k6kLLw==",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009745",
+            "positions": [
+                {
+                    "title": "Neurologe",
+                    "locationName": "Göttingen, Niedersachsen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Neurologische Gemeinschaftspraxis am Groner Tor"
+                },
+                {
+                    "title": "Neurologist / Attending/Consultant",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:5621044",
+                        "entityUrn": "urn:li:fs_miniCompany:5621044",
+                        "name": "Klinikum Kassel GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEy-lTkUxPOPQ/company-logo_200_200/company-logo_200_200/0/1630644264729/klinikum_kassel_gmbh_logo?e=1747872000&v=beta&t=ySzLPJZlOWqP2hKXT-Vj06QHYqfMQkL7AGhXi-YeWyw",
+                        "universalName": "klinikum-kassel-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:5621044",
+                        "trackingId": "yrkuz1wrRyyNMaGCMQXo+g=="
+                    },
+                    "companyName": "Klinikum Kassel GmbH"
+                },
+                {
+                    "title": "Neurologist   Attending/Consultant",
+                    "locationName": "Seesen, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "Asklepios Klinik"
+                },
+                {
+                    "title": "Resident Assistant and Specialist",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 0,
+                            "end": 1
+                        },
+                        "industries": [
+                            "Education Management"
+                        ],
+                        "objectUrn": "urn:li:company:36251634",
+                        "entityUrn": "urn:li:fs_miniCompany:36251634",
+                        "name": "University Medical Center Göttingen-Department of Neurology",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "university-medical-center-göttingen-department-of-neurology",
+                        "dashCompanyUrn": "urn:li:fsd_company:36251634",
+                        "trackingId": "tgV+MumxTTCucW96vWuc0A=="
+                    },
+                    "companyName": "University Medical Center Göttingen-Department of Neurology"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "State Examination",
+                    "fieldOfStudy": "Medicine",
+                    "schoolName": "The Philipp University of Marburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Neurovascular Ultrasound",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2018
+                        }
+                    },
+                    "authority": "DEGUM e.V."
+                },
+                {
+                    "name": "European Diploma of Intensive Care (EDIC)",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2014
+                        }
+                    },
+                    "authority": "European Society of Intensive Care Medicine - ESICM"
+                },
+                {
+                    "name": "Board Certification in Neurology, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2015
+                        }
+                    },
+                    "authority": "Aerztekammer Niedersachsen"
+                },
+                {
+                    "name": "Board Certification in Neuro-Intensive Care Medicine , Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2016
+                        }
+                    },
+                    "authority": "Arztekammer Niedersachsen"
+                },
+                {
+                    "name": "Board Certification in Prehospital Emergency Medicine, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2011
+                        }
+                    },
+                    "authority": "Arztekammer Niedersachsen"
+                },
+                {
+                    "name": "Doctor of Medicine",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2007
+                        }
+                    },
+                    "authority": "The Philipp University of Marburg"
+                },
+                {
+                    "name": "Venia legendi / Habilitation (PhD equivalent)",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2016
+                        }
+                    },
+                    "authority": "Georg-August-Universität Göttingen"
+                },
+                {
+                    "name": "Licence to practice medicine",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2007
+                        }
+                    },
+                    "authority": "Arztekammer Hessen"
+                },
+                {
+                    "name": "IELTS Language Certificate (English) 8.5/10 pts",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2010
+                        }
+                    },
+                    "authority": "IELTS Official"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "English",
+                "German",
+                "Swedish (basic skills)",
+                "Emergency Medicine"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Neurologist",
+            "student": false,
+            "industryName": "Medical Practice",
+            "industryUrn": "urn:li:fs_industry:13",
+            "geoLocationName": "Hannover-Braunschweig-Göttingen-Wolfsburg Region",
+            "geoCountryName": "Germany",
+            "jobTitle": "Neurologe",
+            "companyName": "Neurologische Gemeinschaftspraxis am Groner Tor",
+            "following": false,
+            "followable": true,
+            "followersCount": 25,
+            "connectionsCount": 21,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Neurologische Gemeinschaftspraxis am Groner Tor",
+        "position": "Neurologe",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Neurologe",
+        "organization": "Neurologische Gemeinschaftspraxis am Groner Tor",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/pd-dr-med-christian-schmidt-edic-71722b185/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Neurologe",
+            "locationName": "Göttingen, Niedersachsen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "companyName": "Neurologische Gemeinschaftspraxis am Groner Tor"
+        },
+        {
+            "title": "Neurologist / Attending/Consultant",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:5621044",
+                "entityUrn": "urn:li:fs_miniCompany:5621044",
+                "name": "Klinikum Kassel GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEy-lTkUxPOPQ/company-logo_200_200/company-logo_200_200/0/1630644264729/klinikum_kassel_gmbh_logo?e=1747872000&v=beta&t=ySzLPJZlOWqP2hKXT-Vj06QHYqfMQkL7AGhXi-YeWyw",
+                "universalName": "klinikum-kassel-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:5621044",
+                "trackingId": "yrkuz1wrRyyNMaGCMQXo+g=="
+            },
+            "companyName": "Klinikum Kassel GmbH"
+        },
+        {
+            "title": "Neurologist   Attending/Consultant",
+            "locationName": "Seesen, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "companyName": "Asklepios Klinik"
+        },
+        {
+            "title": "Resident Assistant and Specialist",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Education Management"
+                ],
+                "objectUrn": "urn:li:company:36251634",
+                "entityUrn": "urn:li:fs_miniCompany:36251634",
+                "name": "University Medical Center Göttingen-Department of Neurology",
+                "showcase": false,
+                "active": true,
+                "universalName": "university-medical-center-göttingen-department-of-neurology",
+                "dashCompanyUrn": "urn:li:fsd_company:36251634",
+                "trackingId": "tgV+MumxTTCucW96vWuc0A=="
+            },
+            "companyName": "University Medical Center Göttingen-Department of Neurology"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "State Examination",
+            "fieldOfStudy": "Medicine",
+            "schoolName": "The Philipp University of Marburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Neurovascular Ultrasound",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2018
+                }
+            },
+            "authority": "DEGUM e.V."
+        },
+        {
+            "name": "European Diploma of Intensive Care (EDIC)",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2014
+                }
+            },
+            "authority": "European Society of Intensive Care Medicine - ESICM"
+        },
+        {
+            "name": "Board Certification in Neurology, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "authority": "Aerztekammer Niedersachsen"
+        },
+        {
+            "name": "Board Certification in Neuro-Intensive Care Medicine , Germany",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "authority": "Arztekammer Niedersachsen"
+        },
+        {
+            "name": "Board Certification in Prehospital Emergency Medicine, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "authority": "Arztekammer Niedersachsen"
+        },
+        {
+            "name": "Doctor of Medicine",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "authority": "The Philipp University of Marburg"
+        },
+        {
+            "name": "Venia legendi / Habilitation (PhD equivalent)",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "authority": "Georg-August-Universität Göttingen"
+        },
+        {
+            "name": "Licence to practice medicine",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "authority": "Arztekammer Hessen"
+        },
+        {
+            "name": "IELTS Language Certificate (English) 8.5/10 pts",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "authority": "IELTS Official"
+        }
+    ],
+    "skills": [
+        "English",
+        "German",
+        "Swedish (basic skills)",
+        "Emergency Medicine"
+    ],
+    "lastEnriched": "2025-02-17"
+}

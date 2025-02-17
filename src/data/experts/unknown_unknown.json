@@ -1,0 +1,52 @@
+{
+    "id": "exp",
+    "personalInfo": {
+        "title": null,
+        "firstName": "",
+        "lastName": "",
+        "fullName": " ",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "error": "Profile not found"
+        }
+    },
+    "institution": {
+        "name": "",
+        "position": "",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "",
+        "organization": "",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in//",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [],
+    "education": [],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,493 @@
+{
+    "id": "exp541111330",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Christian",
+        "lastName": "Meyer",
+        "fullName": "Dr. Christian Meyer",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQG1_9JjdjnYwg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516966099517?e=1745452800&v=beta&t=OoEJCLJNhUGUIqHRZkEa8wnYFgvAWA8vysbKNZ9YuNI",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "541111330",
+            "profileId": "ACoAACBAtCIBQH1unlqW1s5xOl3pEcfj2RugKJk",
+            "firstName": "Dr. Christian",
+            "lastName": "Meyer",
+            "occupation": "Senior Manager Product Marketing, Renesas Germany GmbH",
+            "publicIdentifier": "drchristianmeyer",
+            "trackingId": "urjYVjARTKCPyhzO4/OjDw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQG1_9JjdjnYwg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516966099517?e=1745452800&v=beta&t=OoEJCLJNhUGUIqHRZkEa8wnYFgvAWA8vysbKNZ9YuNI",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFf0PdG-eIAew/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1516966105696?e=1745452800&v=beta&t=Depr2ATDAyl_rJ11TXxhXLzxVixJyvAM19N885yQ_D0",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101282230",
+            "positions": [
+                {
+                    "title": "Senior Manager Application Engineering",
+                    "locationName": "Dresden Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Semiconductors"
+                        ],
+                        "objectUrn": "urn:li:company:934588",
+                        "entityUrn": "urn:li:fs_miniCompany:934588",
+                        "name": "Renesas Electronics",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQFEX9-Jr-Xm1Q/company-logo_200_200/company-logo_200_200/0/1719618871832/renesas_logo?e=1747872000&v=beta&t=gz5RMIOh-jwiLzZKLDbfTgvlRtLFDAJvhIe5m2vRLI0",
+                        "universalName": "renesas",
+                        "dashCompanyUrn": "urn:li:fsd_company:934588",
+                        "trackingId": "D9u+fbXlTju8SJ4cUkoCEg=="
+                    },
+                    "companyName": "Renesas Electronics"
+                },
+                {
+                    "title": "Innovation Manager",
+                    "description": "Manager for research & development (emission standards, new materials) and international project acquisition (United Nations, federal funding) for a worldwide manufacturer of cremators and incinerators",
+                    "locationName": "Zwickau Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Mechanical or Industrial Engineering"
+                        ],
+                        "objectUrn": "urn:li:company:7309126",
+                        "entityUrn": "urn:li:fs_miniCompany:7309126",
+                        "name": "IFZW GmbH & Co. KG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGAQKdyfyMbQw/company-logo_200_200/company-logo_200_200/0/1712915669279/ifzw_gmbh_co_kg_logo?e=1747872000&v=beta&t=zaVWAkY0oLpXFH9bgwox58PlAsg79oyeSHBfb9T5HMg",
+                        "universalName": "ifzw-gmbh-co-kg",
+                        "dashCompanyUrn": "urn:li:fsd_company:7309126",
+                        "trackingId": "0zdi5UvtRTq+f8JGdLj16w=="
+                    },
+                    "companyName": "IFZW GmbH & Co. KG"
+                },
+                {
+                    "title": "Scientific Staff",
+                    "description": "Construction and assembling of test facilities for novel solid state environmental gas sensors, project acquisition and result utilisation (patents, papers, talks)",
+                    "locationName": "Dresden",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:12236",
+                        "entityUrn": "urn:li:fs_miniCompany:12236",
+                        "name": "Technische Universität Dresden",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGSf2Po21RKDQ/company-logo_200_200/company-logo_200_200/0/1630475865780/tu_dresden_logo?e=1747872000&v=beta&t=08Tgf0Hya0JbNeRAntaR96gH_1zSfnkN9WbMsajPikw",
+                        "universalName": "tu-dresden",
+                        "dashCompanyUrn": "urn:li:fsd_company:12236",
+                        "trackingId": "/Ear6TZyTvuPbJXQt2ia1Q=="
+                    },
+                    "companyName": "Technische Universität Dresden"
+                },
+                {
+                    "title": "Project Worker Logos Hope",
+                    "description": "Project Worker for MV Logos Hope\nMaintenance work in the engine room on board the charitable vessel Logos Hope in Malaysia, Singapore, Philippines, South Korea",
+                    "locationName": "South East Asia",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Nonprofit Organization Management"
+                        ],
+                        "objectUrn": "urn:li:company:273054",
+                        "entityUrn": "urn:li:fs_miniCompany:273054",
+                        "name": "Operation Mobilization",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFqG6aPPmYtfA/company-logo_200_200/company-logo_200_200/0/1630590232962/operation_mobilization_logo?e=1747872000&v=beta&t=lRCHEy-GUbPnLBuA1nNlfU0UF4peJz1JXkG09mkrYos",
+                        "universalName": "operation-mobilisation",
+                        "dashCompanyUrn": "urn:li:fsd_company:273054",
+                        "trackingId": "Bm9tf55rRUePp+0I4z62Ow=="
+                    },
+                    "companyName": "Operation Mobilization"
+                },
+                {
+                    "title": "Visiting Scientist, Guest PhD, Project Worker, Intern",
+                    "description": "2013 - Global Atmosphere Watch Station CVAO, Cape Verde\n(Operated by the National Centre for Atmospheric Science, University of York, Great Britain) \nRepairing and maintenance work for all scientific instruments at the station \n\n2009 - University of Cambridge (Member of Gonville & Caius College), Great Britain\nWork on Current Reversal Method (CRM) to measure hydrogen and oxygen gas with solid state electrolyte sensors\n\n2007 - University of the Witswatersrand (WITS), South Africa:\nImprovement and reconstruction of a nitrogen oxide instrument for airborne measurements and test during an aircraft field campaign\n\n2004 - National Institute for Water and Atmospheric Research (NIWA), New Zealand:\nMaintenance worker for the weather station, daily Dobson spectroscopy and auxiliary worker in the electronic laboratory at the Global Atmosphere Watch Station Lauder\n\n2003/2004 - University of New South Wales (UNSW), Australia:\nAnalyses of turbulences in and thermal emission from the Atmosphere above the Antarctic plateau",
+                    "locationName": "Worldwide",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2002
+                        }
+                    },
+                    "companyName": "Various"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Marketingleiter",
+                    "schoolName": "St. Galler Business School",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Doktor-Ingenieur",
+                    "fieldOfStudy": "Luft- und Raumfahrttechnik, Aeronautik und Astronautik",
+                    "schoolName": "Technische Universität Dresden",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom-Ingenieur",
+                    "fieldOfStudy": "Physikalische Technik, Umwelttechnik",
+                    "schoolName": "Westsächsische Hochschule Zwickau",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Pharmaberater",
+                    "authority": "Landesdirektion Sachsen"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "IQ Innovationspreis Mitteldeutschland",
+                    "issueDate": {
+                        "year": 2013
+                    },
+                    "issuer": "Europäische Metropolregion Mitteldeutschland"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch"
+                },
+                {
+                    "name": "Englisch"
+                }
+            ],
+            "skills": [
+                "Research & Development",
+                "Gas Sensors",
+                "Sensors",
+                "Projektmanagement"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Senior Manager Product Marketing, Renesas Germany GmbH",
+            "summary": "Gas & Air Measurements 20+ years of experience\nSensor development 17+ years of experience\n\nPhysicist and Engineer by training with early experience in environmental and atmospheric gas analysis at dozens of places around the globe.\n\nLived in countries in Africa, Australia, Asia and Europe (> 6 months each).\n\nNext to my work, I enjoy cultural discoveries, globetrotting and have traveled several times around the world. Volunteered in charity work and supported my local community and church. I love sports (diving) and music (choir singing).\n\n- But what I like most: Perseverance in discovering new with a childlike curiosity",
+            "student": false,
+            "industryName": "Semiconductors",
+            "industryUrn": "urn:li:fs_industry:7",
+            "geoCountryName": "Germany",
+            "jobTitle": "Senior Manager Application Engineering",
+            "companyName": "Renesas Electronics",
+            "companyPublicId": "renesas",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/renesas",
+            "following": false,
+            "followable": true,
+            "followersCount": 1072,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Renesas Electronics",
+        "position": "Senior Manager Application Engineering",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Semiconductors"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Manager Application Engineering",
+        "organization": "Renesas Electronics",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/drchristianmeyer/",
+        "company": "https://www.linkedin.com/company/renesas"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Manager Application Engineering",
+            "locationName": "Dresden Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Semiconductors"
+                ],
+                "objectUrn": "urn:li:company:934588",
+                "entityUrn": "urn:li:fs_miniCompany:934588",
+                "name": "Renesas Electronics",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQFEX9-Jr-Xm1Q/company-logo_200_200/company-logo_200_200/0/1719618871832/renesas_logo?e=1747872000&v=beta&t=gz5RMIOh-jwiLzZKLDbfTgvlRtLFDAJvhIe5m2vRLI0",
+                "universalName": "renesas",
+                "dashCompanyUrn": "urn:li:fsd_company:934588",
+                "trackingId": "D9u+fbXlTju8SJ4cUkoCEg=="
+            },
+            "companyName": "Renesas Electronics"
+        },
+        {
+            "title": "Innovation Manager",
+            "description": "Manager for research & development (emission standards, new materials) and international project acquisition (United Nations, federal funding) for a worldwide manufacturer of cremators and incinerators",
+            "locationName": "Zwickau Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Mechanical or Industrial Engineering"
+                ],
+                "objectUrn": "urn:li:company:7309126",
+                "entityUrn": "urn:li:fs_miniCompany:7309126",
+                "name": "IFZW GmbH & Co. KG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGAQKdyfyMbQw/company-logo_200_200/company-logo_200_200/0/1712915669279/ifzw_gmbh_co_kg_logo?e=1747872000&v=beta&t=zaVWAkY0oLpXFH9bgwox58PlAsg79oyeSHBfb9T5HMg",
+                "universalName": "ifzw-gmbh-co-kg",
+                "dashCompanyUrn": "urn:li:fsd_company:7309126",
+                "trackingId": "0zdi5UvtRTq+f8JGdLj16w=="
+            },
+            "companyName": "IFZW GmbH & Co. KG"
+        },
+        {
+            "title": "Scientific Staff",
+            "description": "Construction and assembling of test facilities for novel solid state environmental gas sensors, project acquisition and result utilisation (patents, papers, talks)",
+            "locationName": "Dresden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:12236",
+                "entityUrn": "urn:li:fs_miniCompany:12236",
+                "name": "Technische Universität Dresden",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGSf2Po21RKDQ/company-logo_200_200/company-logo_200_200/0/1630475865780/tu_dresden_logo?e=1747872000&v=beta&t=08Tgf0Hya0JbNeRAntaR96gH_1zSfnkN9WbMsajPikw",
+                "universalName": "tu-dresden",
+                "dashCompanyUrn": "urn:li:fsd_company:12236",
+                "trackingId": "/Ear6TZyTvuPbJXQt2ia1Q=="
+            },
+            "companyName": "Technische Universität Dresden"
+        },
+        {
+            "title": "Project Worker Logos Hope",
+            "description": "Project Worker for MV Logos Hope\nMaintenance work in the engine room on board the charitable vessel Logos Hope in Malaysia, Singapore, Philippines, South Korea",
+            "locationName": "South East Asia",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ],
+                "objectUrn": "urn:li:company:273054",
+                "entityUrn": "urn:li:fs_miniCompany:273054",
+                "name": "Operation Mobilization",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFqG6aPPmYtfA/company-logo_200_200/company-logo_200_200/0/1630590232962/operation_mobilization_logo?e=1747872000&v=beta&t=lRCHEy-GUbPnLBuA1nNlfU0UF4peJz1JXkG09mkrYos",
+                "universalName": "operation-mobilisation",
+                "dashCompanyUrn": "urn:li:fsd_company:273054",
+                "trackingId": "Bm9tf55rRUePp+0I4z62Ow=="
+            },
+            "companyName": "Operation Mobilization"
+        },
+        {
+            "title": "Visiting Scientist, Guest PhD, Project Worker, Intern",
+            "description": "2013 - Global Atmosphere Watch Station CVAO, Cape Verde\n(Operated by the National Centre for Atmospheric Science, University of York, Great Britain) \nRepairing and maintenance work for all scientific instruments at the station \n\n2009 - University of Cambridge (Member of Gonville & Caius College), Great Britain\nWork on Current Reversal Method (CRM) to measure hydrogen and oxygen gas with solid state electrolyte sensors\n\n2007 - University of the Witswatersrand (WITS), South Africa:\nImprovement and reconstruction of a nitrogen oxide instrument for airborne measurements and test during an aircraft field campaign\n\n2004 - National Institute for Water and Atmospheric Research (NIWA), New Zealand:\nMaintenance worker for the weather station, daily Dobson spectroscopy and auxiliary worker in the electronic laboratory at the Global Atmosphere Watch Station Lauder\n\n2003/2004 - University of New South Wales (UNSW), Australia:\nAnalyses of turbulences in and thermal emission from the Atmosphere above the Antarctic plateau",
+            "locationName": "Worldwide",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2002
+                }
+            },
+            "companyName": "Various"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Marketingleiter",
+            "schoolName": "St. Galler Business School",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            }
+        },
+        {
+            "degreeName": "Doktor-Ingenieur",
+            "fieldOfStudy": "Luft- und Raumfahrttechnik, Aeronautik und Astronautik",
+            "schoolName": "Technische Universität Dresden",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom-Ingenieur",
+            "fieldOfStudy": "Physikalische Technik, Umwelttechnik",
+            "schoolName": "Westsächsische Hochschule Zwickau",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Pharmaberater",
+            "authority": "Landesdirektion Sachsen"
+        }
+    ],
+    "skills": [
+        "Research & Development",
+        "Gas Sensors",
+        "Sensors",
+        "Projektmanagement"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,338 @@
+{
+    "id": "exp796656877",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. med. Alexander",
+        "lastName": "Schulz",
+        "fullName": "Dr. med. Alexander Schulz",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQEouxX3dU6lXg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1581839696468?e=1745452800&v=beta&t=Wfve3YkS7h6LnMuj4vTPifsbZDOyJ9uz3S6MQldyaBE",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "796656877",
+            "profileId": "ACoAAC98BO0Bg2MPnS8TZ3BbJOjDUedXmhVh50w",
+            "firstName": "Dr. med. Alexander",
+            "lastName": "Schulz",
+            "occupation": "FA Allgemeinmedizin",
+            "publicIdentifier": "dr-med-alexander-schulz-3519701a2",
+            "trackingId": "XQ+ItLUrRJyHHKldRWQhIQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQEouxX3dU6lXg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1581839696468?e=1745452800&v=beta&t=Wfve3YkS7h6LnMuj4vTPifsbZDOyJ9uz3S6MQldyaBE",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009712",
+            "positions": [
+                {
+                    "title": "Facharzt",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2023
+                        }
+                    },
+                    "companyName": "med26"
+                },
+                {
+                    "title": "Assistenzarzt",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:5558408",
+                        "entityUrn": "urn:li:fs_miniCompany:5558408",
+                        "name": "Martin Luther Krankenhaus",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE73qGXrwUcfA/company-logo_200_200/company-logo_200_200/0/1716377526079/martin_luther_krankenhaus_logo?e=1747872000&v=beta&t=xUNvAt5RTK_5-0qGxwpDGe20ejCmQPepBu-Kfw5dTME",
+                        "universalName": "martin-luther-krankenhaus",
+                        "dashCompanyUrn": "urn:li:fsd_company:5558408",
+                        "trackingId": "9QY+FYGBS8Omv/xNpQcRRA=="
+                    },
+                    "companyName": "Martin Luther Krankenhaus"
+                },
+                {
+                    "title": "Assistenzarzt",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Praxis Dr Raudszus"
+                },
+                {
+                    "title": "Assistenzarzt",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Praxis Dr. Kempf"
+                },
+                {
+                    "title": "Assistenzarzt in der Anästhesiologie",
+                    "locationName": "Berlin und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:12714013",
+                        "entityUrn": "urn:li:fs_miniCompany:12714013",
+                        "name": "DRK Kliniken Berlin",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGltLJYZHZLRQ/company-logo_200_200/company-logo_200_200/0/1630642060604/drk_kliniken_berlin_logo?e=1747872000&v=beta&t=Dk03-Z5DOznlr8_3oD-KujPP-cYOq8Q6dsSCFT5KXCc",
+                        "universalName": "drk-kliniken-berlin",
+                        "dashCompanyUrn": "urn:li:fsd_company:12714013",
+                        "trackingId": "wxmZGytAR4GBoTazne/SqQ=="
+                    },
+                    "companyName": "DRK Kliniken Berlin"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "Charité - Universitätsmedizin Berlin"
+                },
+                {
+                    "degreeName": "Doktor der Medizin",
+                    "schoolName": "Universität Rostock"
+                },
+                {
+                    "degreeName": "Staatsexamen ",
+                    "fieldOfStudy": "Medizin",
+                    "schoolName": "Charité",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "FA Allgemeinmedizin",
+            "student": false,
+            "industryName": "Hospital & Health Care",
+            "industryUrn": "urn:li:fs_industry:14",
+            "geoLocationName": "Berlin Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Facharzt",
+            "companyName": "med26",
+            "following": false,
+            "followable": true,
+            "followersCount": 91,
+            "connectionsCount": 87,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "med26",
+        "position": "Facharzt",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Facharzt",
+        "organization": "med26",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-med-alexander-schulz-3519701a2/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Facharzt",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "companyName": "med26"
+        },
+        {
+            "title": "Assistenzarzt",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:5558408",
+                "entityUrn": "urn:li:fs_miniCompany:5558408",
+                "name": "Martin Luther Krankenhaus",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQE73qGXrwUcfA/company-logo_200_200/company-logo_200_200/0/1716377526079/martin_luther_krankenhaus_logo?e=1747872000&v=beta&t=xUNvAt5RTK_5-0qGxwpDGe20ejCmQPepBu-Kfw5dTME",
+                "universalName": "martin-luther-krankenhaus",
+                "dashCompanyUrn": "urn:li:fsd_company:5558408",
+                "trackingId": "9QY+FYGBS8Omv/xNpQcRRA=="
+            },
+            "companyName": "Martin Luther Krankenhaus"
+        },
+        {
+            "title": "Assistenzarzt",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "companyName": "Praxis Dr Raudszus"
+        },
+        {
+            "title": "Assistenzarzt",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "companyName": "Praxis Dr. Kempf"
+        },
+        {
+            "title": "Assistenzarzt in der Anästhesiologie",
+            "locationName": "Berlin und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:12714013",
+                "entityUrn": "urn:li:fs_miniCompany:12714013",
+                "name": "DRK Kliniken Berlin",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGltLJYZHZLRQ/company-logo_200_200/company-logo_200_200/0/1630642060604/drk_kliniken_berlin_logo?e=1747872000&v=beta&t=Dk03-Z5DOznlr8_3oD-KujPP-cYOq8Q6dsSCFT5KXCc",
+                "universalName": "drk-kliniken-berlin",
+                "dashCompanyUrn": "urn:li:fsd_company:12714013",
+                "trackingId": "wxmZGytAR4GBoTazne/SqQ=="
+            },
+            "companyName": "DRK Kliniken Berlin"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "Charité - Universitätsmedizin Berlin"
+        },
+        {
+            "degreeName": "Doktor der Medizin",
+            "schoolName": "Universität Rostock"
+        },
+        {
+            "degreeName": "Staatsexamen ",
+            "fieldOfStudy": "Medizin",
+            "schoolName": "Charité",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

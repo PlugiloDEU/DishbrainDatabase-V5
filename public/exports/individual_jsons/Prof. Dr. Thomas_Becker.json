@@ -1,0 +1,425 @@
+{
+    "id": "exp296722760",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Prof. Dr. Thomas",
+        "lastName": "Becker",
+        "fullName": "Prof. Dr. Thomas Becker",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQFvcU9zqKBGdw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1613328691266?e=1745452800&v=beta&t=LdGuUfLYSHQhcAYLJN4T86B3Jp6dXMLholOunnwY0ZE",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English, French, Italian"
+        ],
+        "allData": {
+            "id": "296722760",
+            "profileId": "ACoAABGvoUgBBPMZRfNvktRPO7uQ7u7wiQnF7pI",
+            "firstName": "Prof. Dr. Thomas",
+            "lastName": "Becker",
+            "occupation": "Business School @ Technische Hochschule Ingolstadt",
+            "publicIdentifier": "prof-dr-thomas-becker-68845683",
+            "trackingId": "YN6ZJeobSUGiNNmrGMjygQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFvcU9zqKBGdw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1613328691266?e=1745452800&v=beta&t=LdGuUfLYSHQhcAYLJN4T86B3Jp6dXMLholOunnwY0ZE",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQEjz2kDfXbKPQ/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1613317852116?e=1745452800&v=beta&t=dIpFv7bdCXYVnd8l3yuKt-KZKDm8A1u-ISp0vipM66U",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:102702675",
+            "positions": [
+                {
+                    "title": "Professor for Digital Automotive Management",
+                    "locationName": "Ingolstadt",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:5826498",
+                        "entityUrn": "urn:li:fs_miniCompany:5826498",
+                        "name": "Technische Hochschule Ingolstadt",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQG2bf7yzWVyuw/company-logo_200_200/company-logo_200_200/0/1631342428247?e=1747872000&v=beta&t=LPr512-9n2VvAYLp0HDwykLHq2vzbkKy7Srz5rHTLPE",
+                        "universalName": "technische-hochschule-ingolstadt",
+                        "dashCompanyUrn": "urn:li:fsd_company:5826498",
+                        "trackingId": "ZMuidx3HSGaHtCmk9BJD5w=="
+                    },
+                    "companyName": "Technische Hochschule Ingolstadt"
+                },
+                {
+                    "title": "Management Consultant",
+                    "locationName": "Munich",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:328332",
+                        "entityUrn": "urn:li:fs_miniCompany:328332",
+                        "name": "Horváth",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPN8x6adR1-g/company-logo_200_200/company-logo_200_200/0/1719903464561/horvathpartners_logo?e=1747872000&v=beta&t=VutTLX5CvDg0TTXO7eBsG3URNHd62qsj4mnfmNWsGUI",
+                        "universalName": "horvathpartners",
+                        "dashCompanyUrn": "urn:li:fsd_company:328332",
+                        "trackingId": "V1tDpg7bQnaSCC0V5RXStQ=="
+                    },
+                    "companyName": "Horváth & Partners Management Consultants"
+                },
+                {
+                    "title": "Associate Director",
+                    "locationName": "Munich",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:3550",
+                        "entityUrn": "urn:li:fs_miniCompany:3550",
+                        "name": "Arthur D. Little",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEDBvwukQerXw/company-logo_200_200/company-logo_200_200/0/1719776251482/arthur_d__little_logo?e=1747872000&v=beta&t=RRhiWjjRclJ0HKLk7sChgQiww0c7OpThJmKnT0faGTE",
+                        "universalName": "arthur-d--little",
+                        "dashCompanyUrn": "urn:li:fsd_company:3550",
+                        "trackingId": "p7M8csNFT8+iOqU3HfMkRg=="
+                    },
+                    "companyName": "Arthur D. Little"
+                },
+                {
+                    "title": "Managing Director",
+                    "locationName": "Munich",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    },
+                    "companyName": "BCN, BECKER Consult Net"
+                },
+                {
+                    "title": "Organization Development, Head",
+                    "locationName": "Ingolstadt",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2004
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:5626",
+                        "entityUrn": "urn:li:fs_miniCompany:5626",
+                        "name": "AUDI AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHrHaKN5CBcdA/company-logo_200_200/company-logo_200_200/0/1631313033092?e=1747872000&v=beta&t=wg4xSW9zloIs4fjcXqswx_Ez2puum82cvj8SkwGs8DU",
+                        "universalName": "audi-ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:5626",
+                        "trackingId": "DEIsuiKVQVyWMImUi6K6mw=="
+                    },
+                    "companyName": "AUDI AG"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "2 Masters (Dipl.-Ing., Dipl.-Kfm.)",
+                    "fieldOfStudy": "Industrial Engineering and Economics",
+                    "schoolName": "Technical University of Aachen, ENSAM Paris",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1989
+                        },
+                        "startDate": {
+                            "year": 1984
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Ph.D. (Dr.-Ing.)",
+                    "fieldOfStudy": "Industrial Engineering",
+                    "schoolName": "University of Kassel",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English, French, Italian"
+                }
+            ],
+            "skills": [
+                "Italienisch bin ich dran",
+                "Unternehmensstrategie",
+                "Unternehmensberatung",
+                "Strategisches Management"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Business School @ Technische Hochschule Ingolstadt",
+            "student": false,
+            "industryName": "Automotive",
+            "industryUrn": "urn:li:fs_industry:53",
+            "geoLocationName": "Ingolstadt, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor for Digital Automotive Management",
+            "companyName": "Technische Hochschule Ingolstadt",
+            "companyPublicId": "technische-hochschule-ingolstadt",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/technische-hochschule-ingolstadt",
+            "following": false,
+            "followable": true,
+            "followersCount": 1277,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Technische Hochschule Ingolstadt",
+        "position": "Professor for Digital Automotive Management",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor for Digital Automotive Management",
+        "organization": "Technische Hochschule Ingolstadt",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/prof-dr-thomas-becker-68845683/",
+        "company": "https://www.linkedin.com/company/technische-hochschule-ingolstadt"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor for Digital Automotive Management",
+            "locationName": "Ingolstadt",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:5826498",
+                "entityUrn": "urn:li:fs_miniCompany:5826498",
+                "name": "Technische Hochschule Ingolstadt",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG2bf7yzWVyuw/company-logo_200_200/company-logo_200_200/0/1631342428247?e=1747872000&v=beta&t=LPr512-9n2VvAYLp0HDwykLHq2vzbkKy7Srz5rHTLPE",
+                "universalName": "technische-hochschule-ingolstadt",
+                "dashCompanyUrn": "urn:li:fsd_company:5826498",
+                "trackingId": "ZMuidx3HSGaHtCmk9BJD5w=="
+            },
+            "companyName": "Technische Hochschule Ingolstadt"
+        },
+        {
+            "title": "Management Consultant",
+            "locationName": "Munich",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:328332",
+                "entityUrn": "urn:li:fs_miniCompany:328332",
+                "name": "Horváth",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFPN8x6adR1-g/company-logo_200_200/company-logo_200_200/0/1719903464561/horvathpartners_logo?e=1747872000&v=beta&t=VutTLX5CvDg0TTXO7eBsG3URNHd62qsj4mnfmNWsGUI",
+                "universalName": "horvathpartners",
+                "dashCompanyUrn": "urn:li:fsd_company:328332",
+                "trackingId": "V1tDpg7bQnaSCC0V5RXStQ=="
+            },
+            "companyName": "Horváth & Partners Management Consultants"
+        },
+        {
+            "title": "Associate Director",
+            "locationName": "Munich",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:3550",
+                "entityUrn": "urn:li:fs_miniCompany:3550",
+                "name": "Arthur D. Little",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEDBvwukQerXw/company-logo_200_200/company-logo_200_200/0/1719776251482/arthur_d__little_logo?e=1747872000&v=beta&t=RRhiWjjRclJ0HKLk7sChgQiww0c7OpThJmKnT0faGTE",
+                "universalName": "arthur-d--little",
+                "dashCompanyUrn": "urn:li:fsd_company:3550",
+                "trackingId": "p7M8csNFT8+iOqU3HfMkRg=="
+            },
+            "companyName": "Arthur D. Little"
+        },
+        {
+            "title": "Managing Director",
+            "locationName": "Munich",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            },
+            "companyName": "BCN, BECKER Consult Net"
+        },
+        {
+            "title": "Organization Development, Head",
+            "locationName": "Ingolstadt",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:5626",
+                "entityUrn": "urn:li:fs_miniCompany:5626",
+                "name": "AUDI AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHrHaKN5CBcdA/company-logo_200_200/company-logo_200_200/0/1631313033092?e=1747872000&v=beta&t=wg4xSW9zloIs4fjcXqswx_Ez2puum82cvj8SkwGs8DU",
+                "universalName": "audi-ag",
+                "dashCompanyUrn": "urn:li:fsd_company:5626",
+                "trackingId": "DEIsuiKVQVyWMImUi6K6mw=="
+            },
+            "companyName": "AUDI AG"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "2 Masters (Dipl.-Ing., Dipl.-Kfm.)",
+            "fieldOfStudy": "Industrial Engineering and Economics",
+            "schoolName": "Technical University of Aachen, ENSAM Paris",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1989
+                },
+                "startDate": {
+                    "year": 1984
+                }
+            }
+        },
+        {
+            "degreeName": "Ph.D. (Dr.-Ing.)",
+            "fieldOfStudy": "Industrial Engineering",
+            "schoolName": "University of Kassel",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Italienisch bin ich dran",
+        "Unternehmensstrategie",
+        "Unternehmensberatung",
+        "Strategisches Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

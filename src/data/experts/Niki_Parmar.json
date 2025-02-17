@@ -1,0 +1,448 @@
+{
+    "id": "exp88016979",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Niki",
+        "lastName": "Parmar",
+        "fullName": "Niki Parmar",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQHl4pXka6UFqg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1651030490085?e=1745452800&v=beta&t=bmMZShZ98AEMeUrZt2ZzzffxXUK8_4MVCORG8WaMQ68",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "88016979",
+            "profileId": "ACoAAAU_CFMBxG-WlDivezXpij7ACBht7V3Z8io",
+            "firstName": "Niki",
+            "lastName": "Parmar",
+            "occupation": "Anthropic, Co-Founder EssentialAI, Ex-Google Brain",
+            "publicIdentifier": "nikiparmar",
+            "trackingId": "ipui0PkLRAyPlwH0p0BC7g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQHl4pXka6UFqg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1651030490085?e=1745452800&v=beta&t=bmMZShZ98AEMeUrZt2ZzzffxXUK8_4MVCORG8WaMQ68",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103644278",
+            "positions": [
+                {
+                    "title": "Member of Technical Staff",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2025
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:74126343",
+                        "entityUrn": "urn:li:fs_miniCompany:74126343",
+                        "name": "Anthropic",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_200_200/company-logo_200_200/0/1719256413073/anthropicresearch_logo?e=1747872000&v=beta&t=h0FqzP0o0paAfRsALg8uPmHqOETxcha4jWLaOrrsXZY",
+                        "universalName": "anthropicresearch",
+                        "dashCompanyUrn": "urn:li:fsd_company:74126343",
+                        "trackingId": "bF1bYPxfTgeTBBKSLJRubA=="
+                    },
+                    "companyName": "Anthropic"
+                },
+                {
+                    "title": "Co-Founder",
+                    "locationName": "San Francisco, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:99112759",
+                        "entityUrn": "urn:li:fs_miniCompany:99112759",
+                        "name": "Essential AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGQxjmrs_fatQ/company-logo_200_200/company-logo_200_200/0/1702351017582/essentialai_logo?e=1747872000&v=beta&t=Bvd9asrjjHoJz6Vptd3jUiJIyVaWvRmY72ai_dXVLSk",
+                        "universalName": "essentialai",
+                        "dashCompanyUrn": "urn:li:fsd_company:99112759",
+                        "trackingId": "tneOtsHGSQaHDuA3EUVi9w=="
+                    },
+                    "companyName": "Essential AI"
+                },
+                {
+                    "title": "Co-Founder and CTO at Adept",
+                    "description": "Started and Co-founded Adept AI where the vision was to build useful and intelligent models that can take actions with tools in your browser on behalf of users.",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:81330326",
+                        "entityUrn": "urn:li:fs_miniCompany:81330326",
+                        "name": "Adept",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHoZ-QBmwsa0g/company-logo_200_200/company-logo_200_200/0/1677107534930/adeptailabs_logo?e=1747872000&v=beta&t=pMYNemWBXRAdA1FavIPzvdGQh1i0vtfCPH5NQaxhYBU",
+                        "universalName": "adeptai",
+                        "dashCompanyUrn": "urn:li:fsd_company:81330326",
+                        "trackingId": "VH246ADURUWzVs5I2Ta5CA=="
+                    },
+                    "companyName": "Adept AI Labs"
+                },
+                {
+                    "title": "Staff Research Scientist",
+                    "description": "Core contributor of the “Attention Is All You Need” paper (https://arxiv.org/abs/1706.03762) that invented the Transformer model. I also led scaling transformer models and extended it to other AI problems like Image Generation(https://arxiv.org/abs/1802.05751) and Computer Vision(https://arxiv.org/abs/1906.05909). Transformer based models can write news articles, poetry, emails, translate one language into another, and even answer questions. It has also been used in code generation, protein folding, speech recognition and many other AI models like ChatGPT, GPT3, AlphaStar, AlphaFold, Co-Pilot, Dall-e etc.\n\nLaunched some of the first successful deep learning based AI models for Question Answering and Text similarity for Google Search.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Google Brain"
+                },
+                {
+                    "title": "Senior Research Scientist",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "Google Brain"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master's Degree",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "University of Southern California",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2013
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Engineering (BE)",
+                    "fieldOfStudy": "Information Technology",
+                    "schoolName": "Pune Institute of Computer Technology",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "Advanced Natural Language Processing"
+                },
+                {
+                    "name": "Analysis of Algorithms"
+                },
+                {
+                    "name": "Applied Natural Language Processing"
+                },
+                {
+                    "name": "Artificial Intelligence"
+                },
+                {
+                    "name": "Computer Networks"
+                },
+                {
+                    "name": "Information Integration on the Web"
+                },
+                {
+                    "name": "Information Retrieval and Web Search Engines"
+                },
+                {
+                    "name": "Machine Learning"
+                },
+                {
+                    "name": "Social Media Analysis"
+                }
+            ],
+            "honors": [
+                {
+                    "title": "2nd in Concepts'12 in INC 2012 in Networking and Information Security for the Project ''Security Structure for Cloud Computing”",
+                    "issueDate": {
+                        "month": 3,
+                        "year": 2012
+                    }
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "C",
+                "JSP",
+                "Core Java",
+                "Data Structures"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Anthropic, Co-Founder EssentialAI, Ex-Google Brain",
+            "summary": "Scholar Profile: https://scholar.google.com/citations?user=q2YXPSgAAAAJ&hl=en",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoCountryName": "United States",
+            "jobTitle": "Member of Technical Staff",
+            "companyName": "Anthropic",
+            "companyPublicId": "anthropicresearch",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/anthropicresearch",
+            "following": false,
+            "followable": true,
+            "followersCount": 30845,
+            "connectionsCount": 500,
+            "connectionType": 3
+        }
+    },
+    "institution": {
+        "name": "Anthropic",
+        "position": "Member of Technical Staff",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Member of Technical Staff",
+        "organization": "Anthropic",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/nikiparmar/",
+        "company": "https://www.linkedin.com/company/anthropicresearch"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Member of Technical Staff",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2025
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:74126343",
+                "entityUrn": "urn:li:fs_miniCompany:74126343",
+                "name": "Anthropic",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFMhKgeR7EYAg/company-logo_200_200/company-logo_200_200/0/1719256413073/anthropicresearch_logo?e=1747872000&v=beta&t=h0FqzP0o0paAfRsALg8uPmHqOETxcha4jWLaOrrsXZY",
+                "universalName": "anthropicresearch",
+                "dashCompanyUrn": "urn:li:fsd_company:74126343",
+                "trackingId": "bF1bYPxfTgeTBBKSLJRubA=="
+            },
+            "companyName": "Anthropic"
+        },
+        {
+            "title": "Co-Founder",
+            "locationName": "San Francisco, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:99112759",
+                "entityUrn": "urn:li:fs_miniCompany:99112759",
+                "name": "Essential AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGQxjmrs_fatQ/company-logo_200_200/company-logo_200_200/0/1702351017582/essentialai_logo?e=1747872000&v=beta&t=Bvd9asrjjHoJz6Vptd3jUiJIyVaWvRmY72ai_dXVLSk",
+                "universalName": "essentialai",
+                "dashCompanyUrn": "urn:li:fsd_company:99112759",
+                "trackingId": "tneOtsHGSQaHDuA3EUVi9w=="
+            },
+            "companyName": "Essential AI"
+        },
+        {
+            "title": "Co-Founder and CTO at Adept",
+            "description": "Started and Co-founded Adept AI where the vision was to build useful and intelligent models that can take actions with tools in your browser on behalf of users.",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:81330326",
+                "entityUrn": "urn:li:fs_miniCompany:81330326",
+                "name": "Adept",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHoZ-QBmwsa0g/company-logo_200_200/company-logo_200_200/0/1677107534930/adeptailabs_logo?e=1747872000&v=beta&t=pMYNemWBXRAdA1FavIPzvdGQh1i0vtfCPH5NQaxhYBU",
+                "universalName": "adeptai",
+                "dashCompanyUrn": "urn:li:fsd_company:81330326",
+                "trackingId": "VH246ADURUWzVs5I2Ta5CA=="
+            },
+            "companyName": "Adept AI Labs"
+        },
+        {
+            "title": "Staff Research Scientist",
+            "description": "Core contributor of the “Attention Is All You Need” paper (https://arxiv.org/abs/1706.03762) that invented the Transformer model. I also led scaling transformer models and extended it to other AI problems like Image Generation(https://arxiv.org/abs/1802.05751) and Computer Vision(https://arxiv.org/abs/1906.05909). Transformer based models can write news articles, poetry, emails, translate one language into another, and even answer questions. It has also been used in code generation, protein folding, speech recognition and many other AI models like ChatGPT, GPT3, AlphaStar, AlphaFold, Co-Pilot, Dall-e etc.\n\nLaunched some of the first successful deep learning based AI models for Question Answering and Text similarity for Google Search.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "companyName": "Google Brain"
+        },
+        {
+            "title": "Senior Research Scientist",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "companyName": "Google Brain"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master's Degree",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "University of Southern California",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2013
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Engineering (BE)",
+            "fieldOfStudy": "Information Technology",
+            "schoolName": "Pune Institute of Computer Technology",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "C",
+        "JSP",
+        "Core Java",
+        "Data Structures"
+    ],
+    "lastEnriched": "2025-02-17"
+}

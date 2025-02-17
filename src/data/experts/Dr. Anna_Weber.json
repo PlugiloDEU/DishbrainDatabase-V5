@@ -1,0 +1,468 @@
+{
+    "id": "exp196581131",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Anna",
+        "lastName": "Weber",
+        "fullName": "Dr. Anna Weber",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHlRaqmcT8lvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1615925552018?e=1745452800&v=beta&t=xU4zEVCzr7T7oJR0UlziMFolCNB90EULCE2kv81CKOY",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "196581131",
+            "profileId": "ACoAAAu3lwsBuxhBN6yUtwHLQGMA3Fjx2HaD424",
+            "firstName": "Dr. Anna",
+            "lastName": "Weber",
+            "occupation": "Co-CEO bei BabyOne I Co-Founder ELSA & EMIL I Beirätin I Familienunternehmerin",
+            "publicIdentifier": "dr-anna-weber",
+            "trackingId": "FyTU3pNFS+a3yWWgOaBVkQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHlRaqmcT8lvg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1615925552018?e=1745452800&v=beta&t=xU4zEVCzr7T7oJR0UlziMFolCNB90EULCE2kv81CKOY",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQEP9OkRISqZ0Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1594961772983?e=1745452800&v=beta&t=cQW3bbVGod4MmAgUyUTo7zpQI7qeGAQhWJIs_etgb9k",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101032896",
+            "positions": [
+                {
+                    "title": "Beirätin/ Advisory Board Member",
+                    "locationName": "Minden",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Consumer Goods"
+                        ],
+                        "objectUrn": "urn:li:company:709742",
+                        "entityUrn": "urn:li:fs_miniCompany:709742",
+                        "name": "Melitta Group",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEEd9u16exlYQ/company-logo_200_200/company-logo_200_200/0/1698062793996/melittagroup_logo?e=1747872000&v=beta&t=GXlKF2phafq_yErCwraVbc9nOxca3FIqna3L-VS62PE",
+                        "universalName": "melittagroup",
+                        "dashCompanyUrn": "urn:li:fsd_company:709742",
+                        "trackingId": "moQ+lk6VQAGLP6kdDFVxdQ=="
+                    },
+                    "companyName": "Melitta Group"
+                },
+                {
+                    "title": "Co-CEO",
+                    "locationName": "Münster, North Rhine-Westphalia, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Retail"
+                        ],
+                        "objectUrn": "urn:li:company:8422597",
+                        "entityUrn": "urn:li:fs_miniCompany:8422597",
+                        "name": "BabyOne Franchise- und Systemzentrale GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH3OK_gWmeQEQ/company-logo_200_200/company-logo_200_200/0/1630634535496/babyone_gmbh_logo?e=1747872000&v=beta&t=OzduSjjoiU6ag6I3YnEkXkshcoXFwWTR97FRbf2MnuU",
+                        "universalName": "babyone-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:8422597",
+                        "trackingId": "vtWdokdWTvCIfp7seiD6Qg=="
+                    },
+                    "companyName": "BabyOne Franchise- und Systemzentrale GmbH"
+                },
+                {
+                    "title": "Co-Founder",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Consumer Goods"
+                        ],
+                        "objectUrn": "urn:li:company:103480531",
+                        "entityUrn": "urn:li:fs_miniCompany:103480531",
+                        "name": "ELSA & EMIL",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHtsJQ_WEolqA/company-logo_200_200/company-logo_200_200/0/1713789517351/elsa_emil_logo?e=1747872000&v=beta&t=gQdGnhnocRW-mU5cFy3597oxutvYaTq0ZPJg5apiOyE",
+                        "universalName": "elsa-emil",
+                        "dashCompanyUrn": "urn:li:fsd_company:103480531",
+                        "trackingId": "3XGL7IwCQbqcw47pvYuRgA=="
+                    },
+                    "companyName": "ELSA & EMIL"
+                },
+                {
+                    "title": "Leiterin Unternehmensentwicklung",
+                    "locationName": "Münster Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "BabyOne Franchise- und Systemzentrale GmbH"
+                },
+                {
+                    "title": "Project Manager Leadership, Talent & Engagement",
+                    "locationName": "Düsseldorf Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:1217",
+                        "entityUrn": "urn:li:fs_miniCompany:1217",
+                        "name": "Vodafone",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGAjVTnzEmlYQ/company-logo_200_200/company-logo_200_200/0/1630668724567/vodafone_logo?e=1747872000&v=beta&t=6XaSAhBLgFU8kW9wLmjpEh0_6N3TVPcQyyyhM3h4Wuo",
+                        "universalName": "vodafone",
+                        "dashCompanyUrn": "urn:li:fsd_company:1217",
+                        "trackingId": "oIufUS4xStWLudtQO7ydJw=="
+                    },
+                    "companyName": "Vodafone"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Diplom",
+                    "fieldOfStudy": "Business Administration and Management, General",
+                    "schoolName": "Universität zu Köln / University of Cologne",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Dr. rer. pol.",
+                    "fieldOfStudy": "Business Administration, Management and Operations",
+                    "schoolName": "Fernuniversität Hagen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Business Administration and Management, General",
+                    "schoolName": "Università Commerciale 'Luigi Bocconi'",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Project Management",
+                "Analysis",
+                "Strategie",
+                "Unternehmensstrategie"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Mit-Gesellschafterin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "STARTUP TEENS",
+                    "cause": "EDUCATION"
+                }
+            ],
+            "headline": "Co-CEO bei BabyOne I Co-Founder ELSA & EMIL I Beirätin I Familienunternehmerin",
+            "summary": "Ich bin eine begeisterte Unternehmerin: 2017 bin ich in den elterlichen Familienbetrieb eingestiegen. BabyOne ist eine Baby- und Kinderfachmarktkette, mit 104 Fachmärkten und einem Onlineshop sind wir ein klassisches Omnichannel Unternehmen. Seit unserem Eintritt vollziehen mein Bruder Jan-Willem Weischer und ich den Generationswechsel unter der Prämisse der stetigen Veränderung bei gleichzeitiger Bewahrung von Werten. \n\nMeine Passion ist alles rund um die Themen Unternehmens- und Führungskultur, Leadership, Engagement, New Work und sinnzentrierte Arbeit. Bei BabyOne lege ich den Fokus auf die Entwicklung hin zu einer performance- und datengetriebenen Unternehmenskultur, um Wachstum und Wettbewerbsfähigkeit im digitalen Handeln sicher zu stellen.",
+            "student": false,
+            "industryName": "Retail",
+            "industryUrn": "urn:li:fs_industry:27",
+            "geoLocationName": "Münster, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Beirätin/ Advisory Board Member",
+            "companyName": "Melitta Group",
+            "companyPublicId": "melittagroup",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/melittagroup",
+            "following": false,
+            "followable": true,
+            "followersCount": 38149,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Melitta Group",
+        "position": "Beirätin/ Advisory Board Member",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Consumer Goods"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Beirätin/ Advisory Board Member",
+        "organization": "Melitta Group",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-anna-weber/",
+        "company": "https://www.linkedin.com/company/melittagroup"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Beirätin/ Advisory Board Member",
+            "locationName": "Minden",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Consumer Goods"
+                ],
+                "objectUrn": "urn:li:company:709742",
+                "entityUrn": "urn:li:fs_miniCompany:709742",
+                "name": "Melitta Group",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEEd9u16exlYQ/company-logo_200_200/company-logo_200_200/0/1698062793996/melittagroup_logo?e=1747872000&v=beta&t=GXlKF2phafq_yErCwraVbc9nOxca3FIqna3L-VS62PE",
+                "universalName": "melittagroup",
+                "dashCompanyUrn": "urn:li:fsd_company:709742",
+                "trackingId": "moQ+lk6VQAGLP6kdDFVxdQ=="
+            },
+            "companyName": "Melitta Group"
+        },
+        {
+            "title": "Co-CEO",
+            "locationName": "Münster, North Rhine-Westphalia, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Retail"
+                ],
+                "objectUrn": "urn:li:company:8422597",
+                "entityUrn": "urn:li:fs_miniCompany:8422597",
+                "name": "BabyOne Franchise- und Systemzentrale GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH3OK_gWmeQEQ/company-logo_200_200/company-logo_200_200/0/1630634535496/babyone_gmbh_logo?e=1747872000&v=beta&t=OzduSjjoiU6ag6I3YnEkXkshcoXFwWTR97FRbf2MnuU",
+                "universalName": "babyone-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:8422597",
+                "trackingId": "vtWdokdWTvCIfp7seiD6Qg=="
+            },
+            "companyName": "BabyOne Franchise- und Systemzentrale GmbH"
+        },
+        {
+            "title": "Co-Founder",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Consumer Goods"
+                ],
+                "objectUrn": "urn:li:company:103480531",
+                "entityUrn": "urn:li:fs_miniCompany:103480531",
+                "name": "ELSA & EMIL",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHtsJQ_WEolqA/company-logo_200_200/company-logo_200_200/0/1713789517351/elsa_emil_logo?e=1747872000&v=beta&t=gQdGnhnocRW-mU5cFy3597oxutvYaTq0ZPJg5apiOyE",
+                "universalName": "elsa-emil",
+                "dashCompanyUrn": "urn:li:fsd_company:103480531",
+                "trackingId": "3XGL7IwCQbqcw47pvYuRgA=="
+            },
+            "companyName": "ELSA & EMIL"
+        },
+        {
+            "title": "Leiterin Unternehmensentwicklung",
+            "locationName": "Münster Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2017
+                }
+            },
+            "companyName": "BabyOne Franchise- und Systemzentrale GmbH"
+        },
+        {
+            "title": "Project Manager Leadership, Talent & Engagement",
+            "locationName": "Düsseldorf Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:1217",
+                "entityUrn": "urn:li:fs_miniCompany:1217",
+                "name": "Vodafone",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGAjVTnzEmlYQ/company-logo_200_200/company-logo_200_200/0/1630668724567/vodafone_logo?e=1747872000&v=beta&t=6XaSAhBLgFU8kW9wLmjpEh0_6N3TVPcQyyyhM3h4Wuo",
+                "universalName": "vodafone",
+                "dashCompanyUrn": "urn:li:fsd_company:1217",
+                "trackingId": "oIufUS4xStWLudtQO7ydJw=="
+            },
+            "companyName": "Vodafone"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Diplom",
+            "fieldOfStudy": "Business Administration and Management, General",
+            "schoolName": "Universität zu Köln / University of Cologne",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        },
+        {
+            "degreeName": "Dr. rer. pol.",
+            "fieldOfStudy": "Business Administration, Management and Operations",
+            "schoolName": "Fernuniversität Hagen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Business Administration and Management, General",
+            "schoolName": "Università Commerciale 'Luigi Bocconi'",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Project Management",
+        "Analysis",
+        "Strategie",
+        "Unternehmensstrategie"
+    ],
+    "lastEnriched": "2025-02-17"
+}

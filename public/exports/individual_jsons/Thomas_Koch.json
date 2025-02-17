@@ -1,0 +1,406 @@
+{
+    "id": "exp485825168",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Thomas",
+        "lastName": "Koch",
+        "fullName": "Thomas Koch",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch"
+        ],
+        "allData": {
+            "id": "485825168",
+            "profileId": "ACoAABz1GpABcibstXESEcOxjkzOujh58DVargs",
+            "firstName": "Thomas",
+            "lastName": "Koch",
+            "occupation": "Arzt bei Marienhaus Klinikum Eifel",
+            "publicIdentifier": "thomas-koch-9a8850116",
+            "trackingId": "mJRX8q8mRJCd4h1pR41cng==",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009752",
+            "positions": [
+                {
+                    "title": "Chefarzt",
+                    "description": "Chefarzt Gastroenterologie und Stoffwechselerkrankungen - allgemeine Innere Medizin",
+                    "locationName": "Bitburg",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:8373465",
+                        "entityUrn": "urn:li:fs_miniCompany:8373465",
+                        "name": "Marienhaus Klinikum Eifel",
+                        "showcase": false,
+                        "active": false,
+                        "universalName": "marienhaus-klinikum-eifel",
+                        "dashCompanyUrn": "urn:li:fsd_company:8373465",
+                        "trackingId": "0T4RF9shRN+9DaFMVKnb/g=="
+                    },
+                    "companyName": "Marienhaus Klinikum Eifel"
+                },
+                {
+                    "title": "Oberarzt Innere Medizin - Gastroenterologie",
+                    "description": "Oberarzt Innere Medizin - Gastroenterologie",
+                    "locationName": "Meschede",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 1998
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:8001270",
+                        "entityUrn": "urn:li:fs_miniCompany:8001270",
+                        "name": "St. Walburga Krankenhaus Meschede GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "st-walburga-krankenhaus-meschede-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:8001270",
+                        "trackingId": "JVhDOVSERKaoQN+bpaTVRg=="
+                    },
+                    "companyName": "St. Walburga Krankenhaus Meschede GmbH"
+                },
+                {
+                    "title": "Oberarzt Innere Medizin - Gastroenterologie",
+                    "description": "Oberarzt Innere Medizin, Gastroenterologie",
+                    "locationName": "Waldbröl",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 1997
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:8125550",
+                        "entityUrn": "urn:li:fs_miniCompany:8125550",
+                        "name": "Kreiskrankenhaus Waldbröl GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "kreiskrankenhaus-waldbröl-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:8125550",
+                        "trackingId": "uaFCg/INShKGb4z75DXrUA=="
+                    },
+                    "companyName": "Kreiskrankenhaus Waldbröl GmbH"
+                },
+                {
+                    "title": "Assistenzarzt für innere Medizin",
+                    "description": "Assistenzarzt Innere Medizin, Chefarzt Prof. Berges",
+                    "locationName": "Aachen",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 1989
+                        }
+                    },
+                    "companyName": "Luisenhospital Aachen"
+                },
+                {
+                    "title": "Assistenzarzt für innere Medizin",
+                    "description": "Zivildienstleistender Assistenzarzt in der Medizinischen Klinik D, Gastroenterologie. Chefarzt Prof. Dr. Strohmeyer",
+                    "locationName": "Düsseldorf",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 1989
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 1988
+                        }
+                    },
+                    "companyName": "Universitätsklinik Düsseldorf"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr. med.",
+                    "fieldOfStudy": "Medizin",
+                    "schoolName": "University of Düsseldorf",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1987
+                        },
+                        "startDate": {
+                            "year": 1981
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch"
+                },
+                {
+                    "name": "Englisch"
+                }
+            ],
+            "skills": [
+                "Englisch",
+                "Innere Medizin",
+                "Gastroenterologie",
+                "Hepatologie"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Mitglied",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2007
+                        }
+                    },
+                    "companyName": "Lions Clubs International",
+                    "cause": "POVERTY_ALLEVIATION"
+                }
+            ],
+            "headline": "Arzt bei Marienhaus Klinikum Eifel",
+            "summary": "Mit den Menschen für die Menschen",
+            "student": false,
+            "industryName": "Hospital & Health Care",
+            "industryUrn": "urn:li:fs_industry:14",
+            "geoLocationName": "Trier Region",
+            "geoCountryName": "Germany",
+            "jobTitle": "Chefarzt",
+            "companyName": "Marienhaus Klinikum Eifel",
+            "companyPublicId": "marienhaus-klinikum-eifel",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/marienhaus-klinikum-eifel",
+            "following": false,
+            "followable": true,
+            "followersCount": 180,
+            "connectionsCount": 176,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Marienhaus Klinikum Eifel",
+        "position": "Chefarzt",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Hospital & Health Care"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chefarzt",
+        "organization": "Marienhaus Klinikum Eifel",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/thomas-koch-9a8850116/",
+        "company": "https://www.linkedin.com/company/marienhaus-klinikum-eifel"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chefarzt",
+            "description": "Chefarzt Gastroenterologie und Stoffwechselerkrankungen - allgemeine Innere Medizin",
+            "locationName": "Bitburg",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:8373465",
+                "entityUrn": "urn:li:fs_miniCompany:8373465",
+                "name": "Marienhaus Klinikum Eifel",
+                "showcase": false,
+                "active": false,
+                "universalName": "marienhaus-klinikum-eifel",
+                "dashCompanyUrn": "urn:li:fsd_company:8373465",
+                "trackingId": "0T4RF9shRN+9DaFMVKnb/g=="
+            },
+            "companyName": "Marienhaus Klinikum Eifel"
+        },
+        {
+            "title": "Oberarzt Innere Medizin - Gastroenterologie",
+            "description": "Oberarzt Innere Medizin - Gastroenterologie",
+            "locationName": "Meschede",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 1998
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:8001270",
+                "entityUrn": "urn:li:fs_miniCompany:8001270",
+                "name": "St. Walburga Krankenhaus Meschede GmbH",
+                "showcase": false,
+                "active": true,
+                "universalName": "st-walburga-krankenhaus-meschede-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:8001270",
+                "trackingId": "JVhDOVSERKaoQN+bpaTVRg=="
+            },
+            "companyName": "St. Walburga Krankenhaus Meschede GmbH"
+        },
+        {
+            "title": "Oberarzt Innere Medizin - Gastroenterologie",
+            "description": "Oberarzt Innere Medizin, Gastroenterologie",
+            "locationName": "Waldbröl",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 1998
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 1997
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:8125550",
+                "entityUrn": "urn:li:fs_miniCompany:8125550",
+                "name": "Kreiskrankenhaus Waldbröl GmbH",
+                "showcase": false,
+                "active": true,
+                "universalName": "kreiskrankenhaus-waldbröl-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:8125550",
+                "trackingId": "uaFCg/INShKGb4z75DXrUA=="
+            },
+            "companyName": "Kreiskrankenhaus Waldbröl GmbH"
+        },
+        {
+            "title": "Assistenzarzt für innere Medizin",
+            "description": "Assistenzarzt Innere Medizin, Chefarzt Prof. Berges",
+            "locationName": "Aachen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 1997
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 1989
+                }
+            },
+            "companyName": "Luisenhospital Aachen"
+        },
+        {
+            "title": "Assistenzarzt für innere Medizin",
+            "description": "Zivildienstleistender Assistenzarzt in der Medizinischen Klinik D, Gastroenterologie. Chefarzt Prof. Dr. Strohmeyer",
+            "locationName": "Düsseldorf",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 1989
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 1988
+                }
+            },
+            "companyName": "Universitätsklinik Düsseldorf"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr. med.",
+            "fieldOfStudy": "Medizin",
+            "schoolName": "University of Düsseldorf",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1987
+                },
+                "startDate": {
+                    "year": 1981
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Englisch",
+        "Innere Medizin",
+        "Gastroenterologie",
+        "Hepatologie"
+    ],
+    "lastEnriched": "2025-02-17"
+}

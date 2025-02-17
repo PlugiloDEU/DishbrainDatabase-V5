@@ -1,0 +1,462 @@
+{
+    "id": "exp176931347",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Llion",
+        "lastName": "Jones",
+        "fullName": "Llion Jones",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQF9urP7i9Sihw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711861467879?e=1745452800&v=beta&t=dYHSz5flVIB5c9lq0mZCEj4hewaBIcN8DJNTV_w89xo",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Welsh"
+        ],
+        "allData": {
+            "id": "176931347",
+            "profileId": "ACoAAAqLwhMBnZHY3-RBKL440u9LTDCmHSHiN0E",
+            "firstName": "Llion",
+            "lastName": "Jones",
+            "occupation": "Founder / AI Research Scientist",
+            "publicIdentifier": "llion-jones-9ab3064b",
+            "trackingId": "+WVRekW0R+m/paYh/PeLPw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQF9urP7i9Sihw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1711861467879?e=1745452800&v=beta&t=dYHSz5flVIB5c9lq0mZCEj4hewaBIcN8DJNTV_w89xo",
+            "countryCode": "jp",
+            "geoUrn": "urn:li:fs_geo:103925994",
+            "positions": [
+                {
+                    "title": "Co-Founder",
+                    "description": "Sakana.ai",
+                    "locationName": "Tokyo, Japan",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:96366076",
+                        "entityUrn": "urn:li:fs_miniCompany:96366076",
+                        "name": "Sakana AI",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHh-WwBocpoeA/company-logo_200_200/company-logo_200_200/0/1691406331395?e=1747872000&v=beta&t=zvioaFZz1J7McapbC14mxHhaXfl9tJ6Dz6l_GHoqnUw",
+                        "universalName": "sakana-ai",
+                        "dashCompanyUrn": "urn:li:fsd_company:96366076",
+                        "trackingId": "3Ipp3DMJQ6msWCYFlLcaSw=="
+                    },
+                    "companyName": "Sakana AI"
+                },
+                {
+                    "title": "AI Research Scientist",
+                    "locationName": "Tokyo, Japan",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:18583501",
+                        "entityUrn": "urn:li:fs_miniCompany:18583501",
+                        "name": "Stealth Startup",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_200_200/company-logo_200_200/0/1735368022724/stealth_startup_51_logo?e=1747872000&v=beta&t=L8KHBr0dJ2W_bM-2G7lKc2ccwEH2l0RLAfBFMRfN6UY",
+                        "universalName": "stealth-startup-careers",
+                        "dashCompanyUrn": "urn:li:fsd_company:18583501",
+                        "trackingId": "8zpGa2K3S4GmVP0odIde1Q=="
+                    },
+                    "companyName": "Stealth Startup"
+                },
+                {
+                    "title": "Software Engineer",
+                    "description": "Researching machine intelligence and natural language understanding.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2015
+                        }
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Software Engineer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:16140",
+                        "entityUrn": "urn:li:fs_miniCompany:16140",
+                        "name": "YouTube",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEfoRsyU4yUzg/company-logo_200_200/company-logo_200_200/0/1631053379845/youtube_logo?e=1747872000&v=beta&t=qSWE_whduzg_uqt6jDKOEKW85rTHJVZNgls_JvWG7Sg",
+                        "universalName": "youtube",
+                        "dashCompanyUrn": "urn:li:fsd_company:16140",
+                        "trackingId": "tmz6PQC4QAa+zXVLTgeJ5w=="
+                    },
+                    "companyName": "YouTube"
+                },
+                {
+                    "title": "Software Engineer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:28981",
+                        "entityUrn": "urn:li:fs_miniCompany:28981",
+                        "name": "Delcam",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGHotYuIRwl0Q/company-logo_200_200/company-logo_200_200/0/1630629847463/delcam_logo?e=1747872000&v=beta&t=UEpZlUJQ1d7ZfO6n8dbplDwp_kGNtfHwsR8eopZewXQ",
+                        "universalName": "delcam",
+                        "dashCompanyUrn": "urn:li:fsd_company:28981",
+                        "trackingId": "Y3184JF4T42mQQ8O+C/6mw=="
+                    },
+                    "companyName": "Delcam"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Masters in Advanced Computer Science",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "The University of Birmingham",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Computer Science and Artificial Intelligence",
+                    "fieldOfStudy": "Artificial Intelligence",
+                    "schoolName": "The University of Birmingham",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Machine Learning",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2015
+                        }
+                    },
+                    "authority": "Coursera"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Welsh"
+                }
+            ],
+            "skills": [
+                "Software Engineering",
+                "Python",
+                "Subversion",
+                "Algorithms"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Founder / AI Research Scientist",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Tokyo",
+            "geoCountryName": "Japan",
+            "jobTitle": "Co-Founder",
+            "companyName": "Sakana AI",
+            "companyPublicId": "sakana-ai",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/sakana-ai",
+            "following": false,
+            "followable": true,
+            "followersCount": 5444,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Sakana AI",
+        "position": "Co-Founder",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder",
+        "organization": "Sakana AI",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/llion-jones-9ab3064b/",
+        "company": "https://www.linkedin.com/company/sakana-ai"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder",
+            "description": "Sakana.ai",
+            "locationName": "Tokyo, Japan",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:96366076",
+                "entityUrn": "urn:li:fs_miniCompany:96366076",
+                "name": "Sakana AI",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHh-WwBocpoeA/company-logo_200_200/company-logo_200_200/0/1691406331395?e=1747872000&v=beta&t=zvioaFZz1J7McapbC14mxHhaXfl9tJ6Dz6l_GHoqnUw",
+                "universalName": "sakana-ai",
+                "dashCompanyUrn": "urn:li:fsd_company:96366076",
+                "trackingId": "3Ipp3DMJQ6msWCYFlLcaSw=="
+            },
+            "companyName": "Sakana AI"
+        },
+        {
+            "title": "AI Research Scientist",
+            "locationName": "Tokyo, Japan",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:18583501",
+                "entityUrn": "urn:li:fs_miniCompany:18583501",
+                "name": "Stealth Startup",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUKsfjHB8RNQ/company-logo_200_200/company-logo_200_200/0/1735368022724/stealth_startup_51_logo?e=1747872000&v=beta&t=L8KHBr0dJ2W_bM-2G7lKc2ccwEH2l0RLAfBFMRfN6UY",
+                "universalName": "stealth-startup-careers",
+                "dashCompanyUrn": "urn:li:fsd_company:18583501",
+                "trackingId": "8zpGa2K3S4GmVP0odIde1Q=="
+            },
+            "companyName": "Stealth Startup"
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Researching machine intelligence and natural language understanding.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Software Engineer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:16140",
+                "entityUrn": "urn:li:fs_miniCompany:16140",
+                "name": "YouTube",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEfoRsyU4yUzg/company-logo_200_200/company-logo_200_200/0/1631053379845/youtube_logo?e=1747872000&v=beta&t=qSWE_whduzg_uqt6jDKOEKW85rTHJVZNgls_JvWG7Sg",
+                "universalName": "youtube",
+                "dashCompanyUrn": "urn:li:fsd_company:16140",
+                "trackingId": "tmz6PQC4QAa+zXVLTgeJ5w=="
+            },
+            "companyName": "YouTube"
+        },
+        {
+            "title": "Software Engineer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:28981",
+                "entityUrn": "urn:li:fs_miniCompany:28981",
+                "name": "Delcam",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGHotYuIRwl0Q/company-logo_200_200/company-logo_200_200/0/1630629847463/delcam_logo?e=1747872000&v=beta&t=UEpZlUJQ1d7ZfO6n8dbplDwp_kGNtfHwsR8eopZewXQ",
+                "universalName": "delcam",
+                "dashCompanyUrn": "urn:li:fsd_company:28981",
+                "trackingId": "Y3184JF4T42mQQ8O+C/6mw=="
+            },
+            "companyName": "Delcam"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Masters in Advanced Computer Science",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "The University of Birmingham",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            }
+        },
+        {
+            "degreeName": "Computer Science and Artificial Intelligence",
+            "fieldOfStudy": "Artificial Intelligence",
+            "schoolName": "The University of Birmingham",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Machine Learning",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2015
+                }
+            },
+            "authority": "Coursera"
+        }
+    ],
+    "skills": [
+        "Software Engineering",
+        "Python",
+        "Subversion",
+        "Algorithms"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,541 @@
+{
+    "id": "exp754348835",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Julia",
+        "lastName": "Wagner",
+        "fullName": "Julia Wagner",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQFa6Jqc07IUog/profile-displayphoto-shrink_200_200/B4DZS9CPK4HkAY-/0/1738338268141?e=1745452800&v=beta&t=ET0rSp4rVFEmx5pYjR89NMbqXdaxg6fPbf8AdqnsKho",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "754348835",
+            "profileId": "ACoAACz2cyMBEFGlFe9Xu2cUSJA224D21vIStfk",
+            "firstName": "Julia",
+            "lastName": "Wagner",
+            "occupation": "Research Analyst at International Food Policy Research Institute (IFPRI)",
+            "publicIdentifier": "julia-wagner-56b768190",
+            "trackingId": "H5kQN4bjSoS391rIArkLPA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQFa6Jqc07IUog/profile-displayphoto-shrink_200_200/B4DZS9CPK4HkAY-/0/1738338268141?e=1745452800&v=beta&t=ET0rSp4rVFEmx5pYjR89NMbqXdaxg6fPbf8AdqnsKho",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:104383890",
+            "positions": [
+                {
+                    "title": "Research Analyst",
+                    "locationName": "Washington, D.C.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:956406",
+                        "entityUrn": "urn:li:fs_miniCompany:956406",
+                        "name": "International Food Policy Research Institute (IFPRI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFG6ltmBuvQkg/company-logo_200_200/company-logo_200_200/0/1630583135701/ifpri_logo?e=1747872000&v=beta&t=fjc06dEwQLn4ofpJAJJPEhTMf4jxcS-HHwE77ltcn3o",
+                        "universalName": "ifpri",
+                        "dashCompanyUrn": "urn:li:fsd_company:956406",
+                        "trackingId": "3yKwKoDwTwOkkQJuBTC5Aw=="
+                    },
+                    "companyName": "International Food Policy Research Institute (IFPRI)"
+                },
+                {
+                    "title": "Student Research Assistant",
+                    "locationName": "Mannheim, Baden-Württemberg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:18119460",
+                        "entityUrn": "urn:li:fs_miniCompany:18119460",
+                        "name": "Center for Evaluation and Development (C4ED)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFUNlHi6itg8g/company-logo_200_200/company-logo_200_200/0/1631339918151?e=1747872000&v=beta&t=ZvG4mX92bPmFKTbuO1g4TXURkK7O62lbjYLPzioKabI",
+                        "universalName": "center-for-evaluation-and-development-c4ed",
+                        "dashCompanyUrn": "urn:li:fsd_company:18119460",
+                        "trackingId": "ZE2W4jxPQKmQSJxCoelGLg=="
+                    },
+                    "companyName": "Center for Evaluation and Development (C4ED)"
+                },
+                {
+                    "title": "Intern",
+                    "locationName": "Mannheim, Baden-Württemberg, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:18119460",
+                        "entityUrn": "urn:li:fs_miniCompany:18119460",
+                        "name": "Center for Evaluation and Development (C4ED)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFUNlHi6itg8g/company-logo_200_200/company-logo_200_200/0/1631339918151?e=1747872000&v=beta&t=ZvG4mX92bPmFKTbuO1g4TXURkK7O62lbjYLPzioKabI",
+                        "universalName": "center-for-evaluation-and-development-c4ed",
+                        "dashCompanyUrn": "urn:li:fsd_company:18119460",
+                        "trackingId": "4dzovo6BRj2/vtN4ySKQFQ=="
+                    },
+                    "companyName": "Center for Evaluation and Development (C4ED)"
+                },
+                {
+                    "title": "Intern - Health, Education, and Social Protection in West Africa - KfW Development Bank  ",
+                    "locationName": "Frankfurt Am Main, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Banking"
+                        ],
+                        "objectUrn": "urn:li:company:14378",
+                        "entityUrn": "urn:li:fs_miniCompany:14378",
+                        "name": "KfW",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHr_pu3C9jmGg/company-logo_200_200/company-logo_200_200/0/1630573524423/kfw_logo?e=1747872000&v=beta&t=vQRL22wmCOkPpKo_pAFyFXNXTIejwo9nL9H1X9VGM_8",
+                        "universalName": "kfw",
+                        "dashCompanyUrn": "urn:li:fsd_company:14378",
+                        "trackingId": "XU52dqFJTICX1HDbpMnMkg=="
+                    },
+                    "companyName": "KfW"
+                },
+                {
+                    "title": "Public Relations and Communication Intern",
+                    "locationName": "Zanzibar, Tanzania ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Nonprofit Organization Management"
+                        ],
+                        "objectUrn": "urn:li:company:36512",
+                        "entityUrn": "urn:li:fs_miniCompany:36512",
+                        "name": "SOS Children's Villages International",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFkR9na8t5ALQ/company-logo_200_200/company-logo_200_200/0/1699366174233/sos_childrens_villages_logo?e=1747872000&v=beta&t=aI29PtpHhj1Tvwf9cEeDfbjA4jmtXCdY71SDkQwwqd0",
+                        "universalName": "sos-children's-villages",
+                        "dashCompanyUrn": "urn:li:fsd_company:36512",
+                        "trackingId": "BpkpJjmrSFGwPtTIqMC/8w=="
+                    },
+                    "companyName": "SOS Children's Villages International"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master of Commerce - MComm",
+                    "fieldOfStudy": "Economics",
+                    "schoolName": "Stellenbosch University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Science - MS",
+                    "fieldOfStudy": "Development Economics ",
+                    "schoolName": "The University of Göttingen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science - BS",
+                    "fieldOfStudy": "Economics",
+                    "schoolName": "Heidelberg University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [],
+            "volunteerExperiences": [
+                {
+                    "role": "Business Development Volunteer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2019
+                        }
+                    },
+                    "companyName": "Volunteer Partnerships for West Africa",
+                    "cause": "ECONOMIC_EMPOWERMENT"
+                },
+                {
+                    "role": "Fundraising Volunteer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Etudes Sans Frontières – Studieren Ohne Grenzen Deutschland e.V.",
+                    "cause": "EDUCATION"
+                }
+            ],
+            "headline": "Research Analyst at International Food Policy Research Institute (IFPRI)",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Washington, District of Columbia",
+            "geoCountryName": "United States",
+            "jobTitle": "Research Analyst",
+            "companyName": "International Food Policy Research Institute (IFPRI)",
+            "companyPublicId": "ifpri",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ifpri",
+            "following": false,
+            "followable": false,
+            "followersCount": 234,
+            "connectionsCount": 235,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "International Food Policy Research Institute (IFPRI)",
+        "position": "Research Analyst",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Research Analyst",
+        "organization": "International Food Policy Research Institute (IFPRI)",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/julia-wagner-56b768190/",
+        "company": "https://www.linkedin.com/company/ifpri"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Research Analyst",
+            "locationName": "Washington, D.C.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:956406",
+                "entityUrn": "urn:li:fs_miniCompany:956406",
+                "name": "International Food Policy Research Institute (IFPRI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFG6ltmBuvQkg/company-logo_200_200/company-logo_200_200/0/1630583135701/ifpri_logo?e=1747872000&v=beta&t=fjc06dEwQLn4ofpJAJJPEhTMf4jxcS-HHwE77ltcn3o",
+                "universalName": "ifpri",
+                "dashCompanyUrn": "urn:li:fsd_company:956406",
+                "trackingId": "3yKwKoDwTwOkkQJuBTC5Aw=="
+            },
+            "companyName": "International Food Policy Research Institute (IFPRI)"
+        },
+        {
+            "title": "Student Research Assistant",
+            "locationName": "Mannheim, Baden-Württemberg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:18119460",
+                "entityUrn": "urn:li:fs_miniCompany:18119460",
+                "name": "Center for Evaluation and Development (C4ED)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFUNlHi6itg8g/company-logo_200_200/company-logo_200_200/0/1631339918151?e=1747872000&v=beta&t=ZvG4mX92bPmFKTbuO1g4TXURkK7O62lbjYLPzioKabI",
+                "universalName": "center-for-evaluation-and-development-c4ed",
+                "dashCompanyUrn": "urn:li:fsd_company:18119460",
+                "trackingId": "ZE2W4jxPQKmQSJxCoelGLg=="
+            },
+            "companyName": "Center for Evaluation and Development (C4ED)"
+        },
+        {
+            "title": "Intern",
+            "locationName": "Mannheim, Baden-Württemberg, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:18119460",
+                "entityUrn": "urn:li:fs_miniCompany:18119460",
+                "name": "Center for Evaluation and Development (C4ED)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFUNlHi6itg8g/company-logo_200_200/company-logo_200_200/0/1631339918151?e=1747872000&v=beta&t=ZvG4mX92bPmFKTbuO1g4TXURkK7O62lbjYLPzioKabI",
+                "universalName": "center-for-evaluation-and-development-c4ed",
+                "dashCompanyUrn": "urn:li:fsd_company:18119460",
+                "trackingId": "4dzovo6BRj2/vtN4ySKQFQ=="
+            },
+            "companyName": "Center for Evaluation and Development (C4ED)"
+        },
+        {
+            "title": "Intern - Health, Education, and Social Protection in West Africa - KfW Development Bank  ",
+            "locationName": "Frankfurt Am Main, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Banking"
+                ],
+                "objectUrn": "urn:li:company:14378",
+                "entityUrn": "urn:li:fs_miniCompany:14378",
+                "name": "KfW",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHr_pu3C9jmGg/company-logo_200_200/company-logo_200_200/0/1630573524423/kfw_logo?e=1747872000&v=beta&t=vQRL22wmCOkPpKo_pAFyFXNXTIejwo9nL9H1X9VGM_8",
+                "universalName": "kfw",
+                "dashCompanyUrn": "urn:li:fsd_company:14378",
+                "trackingId": "XU52dqFJTICX1HDbpMnMkg=="
+            },
+            "companyName": "KfW"
+        },
+        {
+            "title": "Public Relations and Communication Intern",
+            "locationName": "Zanzibar, Tanzania ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ],
+                "objectUrn": "urn:li:company:36512",
+                "entityUrn": "urn:li:fs_miniCompany:36512",
+                "name": "SOS Children's Villages International",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFkR9na8t5ALQ/company-logo_200_200/company-logo_200_200/0/1699366174233/sos_childrens_villages_logo?e=1747872000&v=beta&t=aI29PtpHhj1Tvwf9cEeDfbjA4jmtXCdY71SDkQwwqd0",
+                "universalName": "sos-children's-villages",
+                "dashCompanyUrn": "urn:li:fsd_company:36512",
+                "trackingId": "BpkpJjmrSFGwPtTIqMC/8w=="
+            },
+            "companyName": "SOS Children's Villages International"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master of Commerce - MComm",
+            "fieldOfStudy": "Economics",
+            "schoolName": "Stellenbosch University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Science - MS",
+            "fieldOfStudy": "Development Economics ",
+            "schoolName": "The University of Göttingen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science - BS",
+            "fieldOfStudy": "Economics",
+            "schoolName": "Heidelberg University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

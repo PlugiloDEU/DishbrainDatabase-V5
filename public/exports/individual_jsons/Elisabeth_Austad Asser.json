@@ -1,0 +1,552 @@
+{
+    "id": "exp11505255",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Elisabeth",
+        "lastName": "Austad Asser",
+        "fullName": "Elisabeth Austad Asser",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQENZxTcTfHJpg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1647948232359?e=1745452800&v=beta&t=KhNPK475e6NvBS47tqBTGHuuDEYhTsitpfusrZJE2CY",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "11505255",
+            "profileId": "ACoAAACvjmcBa5fHDyYyvd_ICGHVZ3pjmjiJp0g",
+            "firstName": "Elisabeth",
+            "lastName": "Austad Asser",
+            "occupation": "PhD. AI, banking and ethics | Director of Sustainability | Public speaker",
+            "publicIdentifier": "elisabethasser",
+            "trackingId": "pQTjYHZsRPG8lGSNze3+hA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQENZxTcTfHJpg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1647948232359?e=1745452800&v=beta&t=KhNPK475e6NvBS47tqBTGHuuDEYhTsitpfusrZJE2CY",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQFOB4aHmAyN8g/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1707818935088?e=1745452800&v=beta&t=QuAVItHjQTJ0GUaRC2NdkDJOzIT7CTjaWHNN8P9Ek-E",
+            "countryCode": "no",
+            "geoUrn": "urn:li:fs_geo:104414638",
+            "positions": [
+                {
+                    "title": "Director of Sustainability",
+                    "locationName": "Kristiansand, Agder, Norway",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Banking"
+                        ],
+                        "objectUrn": "urn:li:company:86000",
+                        "entityUrn": "urn:li:fs_miniCompany:86000",
+                        "name": "Sparebanken Sør",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGHUunk-WdTww/company-logo_200_200/company-logo_200_200/0/1631355924461?e=1747872000&v=beta&t=1WDC6nc69zBpHQp02J2FC_hNI2n95YtMGW8oyhN_rz4",
+                        "universalName": "sparebankensor",
+                        "dashCompanyUrn": "urn:li:fsd_company:86000",
+                        "trackingId": "A01pFn0DQT+sg3EZMeWNuA=="
+                    },
+                    "companyName": "Sparebanken Sør"
+                },
+                {
+                    "title": "Styremedlem",
+                    "locationName": "Arendal kommune, Agder, Norge",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:123282",
+                        "entityUrn": "urn:li:fs_miniCompany:123282",
+                        "name": "Sørlandet sykehus HF",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEcgg1AmlrefA/company-logo_200_200/company-logo_200_200/0/1692795893818/sorlandet_sykehus_hf_logo?e=1747872000&v=beta&t=ceFpQ1MSSLzhJGMGcGBIAxlCTUpoTtUTrvYdymB1cSQ",
+                        "universalName": "sorlandet-sykehus-hf",
+                        "dashCompanyUrn": "urn:li:fsd_company:123282",
+                        "trackingId": "jC+gFT6FSEKpTgEUY4WDrw=="
+                    },
+                    "companyName": "Sørlandet sykehus HF"
+                },
+                {
+                    "title": "Board Member",
+                    "locationName": "Agder, Norway",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:18031386",
+                        "entityUrn": "urn:li:fs_miniCompany:18031386",
+                        "name": "ODA-Nettverk",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFdChL4LWuwYg/company-logo_200_200/company-logo_200_200/0/1719838020216/oda___women_in_tech_network_logo?e=1747872000&v=beta&t=GL17NibeE1OpZIXb7uiP1c7bR1pcAVQrMWMc7VJqvfI",
+                        "universalName": "oda---women-in-tech-network",
+                        "dashCompanyUrn": "urn:li:fsd_company:18031386",
+                        "trackingId": "nkeXS39LSvy7xS9G2NW/Gw=="
+                    },
+                    "companyName": "ODA-Nettverk"
+                },
+                {
+                    "title": "Research Affiliate",
+                    "locationName": "Grimstad, Agder, Norway",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:80347069",
+                        "entityUrn": "urn:li:fs_miniCompany:80347069",
+                        "name": "CAIR Centre for Artificial Intelligence Research",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFELy4mTBEcQQ/company-logo_200_200/company-logo_200_200/0/1634302204605/cair_center_for_artificial_intelligence_research_logo?e=1747872000&v=beta&t=4Xm1XARiFOXwZbbx7vIbmBCRQkhP7IwOxjhn4OhBqaU",
+                        "universalName": "cair-center-for-artificial-intelligence-research",
+                        "dashCompanyUrn": "urn:li:fsd_company:80347069",
+                        "trackingId": "jkYQzgCzQuWEuMA2Qi5hvg=="
+                    },
+                    "companyName": "CAIR Centre for Artificial Intelligence Research"
+                },
+                {
+                    "title": "Sustainability Manager",
+                    "locationName": "Agder, Norway",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Banking"
+                        ],
+                        "objectUrn": "urn:li:company:86000",
+                        "entityUrn": "urn:li:fs_miniCompany:86000",
+                        "name": "Sparebanken Sør",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGHUunk-WdTww/company-logo_200_200/company-logo_200_200/0/1631355924461?e=1747872000&v=beta&t=1WDC6nc69zBpHQp02J2FC_hNI2n95YtMGW8oyhN_rz4",
+                        "universalName": "sparebankensor",
+                        "dashCompanyUrn": "urn:li:fsd_company:86000",
+                        "trackingId": "gzljHcURTu6X1acT2V4+lQ=="
+                    },
+                    "companyName": "Sparebanken Sør"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "fieldOfStudy": "Artificial Intelligence and Ethics",
+                    "schoolName": "University of Agder (UiA)",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "schoolName": "BI Norwegian Business School",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Cand. Philol",
+                    "schoolName": "Universitetet i Oslo (UiO)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Growth Hacking Crash Course",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Growth Tribe Academy"
+                },
+                {
+                    "name": " Philosophy of Technology and Design: Shaping the Relations Between Humans and Technologies",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "University of Twente"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "100+ women in the field of AI, Norway",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2022
+                    },
+                    "issuer": "NORA"
+                },
+                {
+                    "title": "Årets markedsfører",
+                    "description": "Film-kampanje",
+                    "issueDate": {
+                        "month": 3,
+                        "year": 2018
+                    },
+                    "issuer": "Markedsforum Aust-Agder"
+                },
+                {
+                    "title": "Rosingprisen. Finalist, årets nettsted 2011 for colorline.no",
+                    "issueDate": {
+                        "year": 2011
+                    }
+                },
+                {
+                    "title": "Visuelt07. Sølv for beste interaktive tjeneste for \"Behovsrådgiveren\" (prosjektleder)",
+                    "issueDate": {
+                        "year": 2007
+                    }
+                },
+                {
+                    "title": "Gulltaggen 2006. Beste e-handelsnettsted i Norge for gjensidige.no",
+                    "issueDate": {
+                        "year": 2006
+                    }
+                }
+            ],
+            "languages": [],
+            "skills": [
+                "Corporate Sustainability",
+                "Sustainability Management",
+                "Sustainability Strategy",
+                "Corporate Social Responsibility"
+            ],
+            "volunteerExperiences": [],
+            "headline": "PhD. AI, banking and ethics | Director of Sustainability | Public speaker",
+            "summary": "My doctoral thesis addresses how human values are challenged by artificial intelligence and what can be done to ensure that values we wish to uphold are promoted rather than hindered by the technology.\n\nIn my current role as Sustainability Director at Sparebanken Sør, I leverage the knowledge and insights I gained during my doctoral work, combined with years of change management experience from the banking and tourism sectors in areas such as digitalization, customer experience, digital sales, marketing, and communication.",
+            "student": false,
+            "industryName": "Hospital & Health Care",
+            "industryUrn": "urn:li:fs_industry:14",
+            "geoLocationName": "Arendal, Agder",
+            "geoCountryName": "Norway",
+            "jobTitle": "Director of Sustainability",
+            "companyName": "Sparebanken Sør",
+            "companyPublicId": "sparebankensor",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/sparebankensor",
+            "following": false,
+            "followable": true,
+            "followersCount": 2274,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Sparebanken Sør",
+        "position": "Director of Sustainability",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Banking"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director of Sustainability",
+        "organization": "Sparebanken Sør",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/elisabethasser/",
+        "company": "https://www.linkedin.com/company/sparebankensor"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director of Sustainability",
+            "locationName": "Kristiansand, Agder, Norway",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Banking"
+                ],
+                "objectUrn": "urn:li:company:86000",
+                "entityUrn": "urn:li:fs_miniCompany:86000",
+                "name": "Sparebanken Sør",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGHUunk-WdTww/company-logo_200_200/company-logo_200_200/0/1631355924461?e=1747872000&v=beta&t=1WDC6nc69zBpHQp02J2FC_hNI2n95YtMGW8oyhN_rz4",
+                "universalName": "sparebankensor",
+                "dashCompanyUrn": "urn:li:fsd_company:86000",
+                "trackingId": "A01pFn0DQT+sg3EZMeWNuA=="
+            },
+            "companyName": "Sparebanken Sør"
+        },
+        {
+            "title": "Styremedlem",
+            "locationName": "Arendal kommune, Agder, Norge",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:123282",
+                "entityUrn": "urn:li:fs_miniCompany:123282",
+                "name": "Sørlandet sykehus HF",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEcgg1AmlrefA/company-logo_200_200/company-logo_200_200/0/1692795893818/sorlandet_sykehus_hf_logo?e=1747872000&v=beta&t=ceFpQ1MSSLzhJGMGcGBIAxlCTUpoTtUTrvYdymB1cSQ",
+                "universalName": "sorlandet-sykehus-hf",
+                "dashCompanyUrn": "urn:li:fsd_company:123282",
+                "trackingId": "jC+gFT6FSEKpTgEUY4WDrw=="
+            },
+            "companyName": "Sørlandet sykehus HF"
+        },
+        {
+            "title": "Board Member",
+            "locationName": "Agder, Norway",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:18031386",
+                "entityUrn": "urn:li:fs_miniCompany:18031386",
+                "name": "ODA-Nettverk",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQFdChL4LWuwYg/company-logo_200_200/company-logo_200_200/0/1719838020216/oda___women_in_tech_network_logo?e=1747872000&v=beta&t=GL17NibeE1OpZIXb7uiP1c7bR1pcAVQrMWMc7VJqvfI",
+                "universalName": "oda---women-in-tech-network",
+                "dashCompanyUrn": "urn:li:fsd_company:18031386",
+                "trackingId": "nkeXS39LSvy7xS9G2NW/Gw=="
+            },
+            "companyName": "ODA-Nettverk"
+        },
+        {
+            "title": "Research Affiliate",
+            "locationName": "Grimstad, Agder, Norway",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:80347069",
+                "entityUrn": "urn:li:fs_miniCompany:80347069",
+                "name": "CAIR Centre for Artificial Intelligence Research",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFELy4mTBEcQQ/company-logo_200_200/company-logo_200_200/0/1634302204605/cair_center_for_artificial_intelligence_research_logo?e=1747872000&v=beta&t=4Xm1XARiFOXwZbbx7vIbmBCRQkhP7IwOxjhn4OhBqaU",
+                "universalName": "cair-center-for-artificial-intelligence-research",
+                "dashCompanyUrn": "urn:li:fsd_company:80347069",
+                "trackingId": "jkYQzgCzQuWEuMA2Qi5hvg=="
+            },
+            "companyName": "CAIR Centre for Artificial Intelligence Research"
+        },
+        {
+            "title": "Sustainability Manager",
+            "locationName": "Agder, Norway",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Banking"
+                ],
+                "objectUrn": "urn:li:company:86000",
+                "entityUrn": "urn:li:fs_miniCompany:86000",
+                "name": "Sparebanken Sør",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGHUunk-WdTww/company-logo_200_200/company-logo_200_200/0/1631355924461?e=1747872000&v=beta&t=1WDC6nc69zBpHQp02J2FC_hNI2n95YtMGW8oyhN_rz4",
+                "universalName": "sparebankensor",
+                "dashCompanyUrn": "urn:li:fsd_company:86000",
+                "trackingId": "gzljHcURTu6X1acT2V4+lQ=="
+            },
+            "companyName": "Sparebanken Sør"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "Artificial Intelligence and Ethics",
+            "schoolName": "University of Agder (UiA)",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "schoolName": "BI Norwegian Business School",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2006
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            }
+        },
+        {
+            "degreeName": "Cand. Philol",
+            "schoolName": "Universitetet i Oslo (UiO)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Growth Hacking Crash Course",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "authority": "Growth Tribe Academy"
+        },
+        {
+            "name": " Philosophy of Technology and Design: Shaping the Relations Between Humans and Technologies",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2020
+                }
+            },
+            "authority": "University of Twente"
+        }
+    ],
+    "skills": [
+        "Corporate Sustainability",
+        "Sustainability Management",
+        "Sustainability Strategy",
+        "Corporate Social Responsibility"
+    ],
+    "lastEnriched": "2025-02-17"
+}

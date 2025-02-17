@@ -1,0 +1,167 @@
+{
+    "id": "exp1112207763",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Lukas",
+        "lastName": "Scheuring",
+        "fullName": "Lukas Scheuring",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "1112207763",
+            "profileId": "ACoAAEJK8ZMB442KZc4OTxeVMHKV3c7cRQSiYio",
+            "firstName": "Lukas",
+            "lastName": "Scheuring",
+            "occupation": "Im Studium an der Hochschule Mainz - University of Applied Sciences",
+            "publicIdentifier": "lukas-scheuring-903586270",
+            "trackingId": "0axZ0K67RAWx3fO9xNA0vg==",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105397509",
+            "positions": [
+                {
+                    "title": "Werkstudent Vertrieb",
+                    "locationName": "Mainz, Rheinland-Pfalz, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "vlexx"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Applied Science - BASc",
+                    "fieldOfStudy": "Bwl",
+                    "schoolName": "Hochschule Mainz - University of Applied Sciences",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Industriekaufmann",
+                    "fieldOfStudy": "Industriekaufmann",
+                    "schoolName": "De Dietrich Process Systems",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2016
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Im Studium an der Hochschule Mainz - University of Applied Sciences",
+            "student": false,
+            "industryName": "Government Administration",
+            "industryUrn": "urn:li:fs_industry:75",
+            "geoLocationName": "Mainz, Rhineland-Palatinate",
+            "geoCountryName": "Germany",
+            "jobTitle": "Werkstudent Vertrieb",
+            "companyName": "vlexx",
+            "following": false,
+            "followable": true,
+            "followersCount": 20,
+            "connectionsCount": 20,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "vlexx",
+        "position": "Werkstudent Vertrieb",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Werkstudent Vertrieb",
+        "organization": "vlexx",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/lukas-scheuring-903586270/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Werkstudent Vertrieb",
+            "locationName": "Mainz, Rheinland-Pfalz, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "companyName": "vlexx"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Applied Science - BASc",
+            "fieldOfStudy": "Bwl",
+            "schoolName": "Hochschule Mainz - University of Applied Sciences",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "Industriekaufmann",
+            "fieldOfStudy": "Industriekaufmann",
+            "schoolName": "De Dietrich Process Systems",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

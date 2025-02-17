@@ -1,0 +1,144 @@
+{
+    "id": "exp578346842",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alexander",
+        "lastName": "De Becker",
+        "fullName": "Alexander De Becker",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQEidCkamkV_5g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1585670277118?e=1745452800&v=beta&t=yW0C63bsn-oa3Ub7TGZ-Uxqyy1oOHGBeDfTr8xxnEjw",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "578346842",
+            "profileId": "ACoAACJ431oBLo5WtcocVhGBqif4btS7T5--ufQ",
+            "firstName": "Alexander",
+            "lastName": "De Becker",
+            "occupation": "Professor bij Universiteit Gent",
+            "publicIdentifier": "alexander-de-becker-56282b141",
+            "trackingId": "lx0+iVkGSAe1LESOi5Na3g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQEidCkamkV_5g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1585670277118?e=1745452800&v=beta&t=yW0C63bsn-oa3Ub7TGZ-Uxqyy1oOHGBeDfTr8xxnEjw",
+            "countryCode": "be",
+            "geoUrn": "urn:li:fs_geo:90009604",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4815",
+                        "entityUrn": "urn:li:fs_miniCompany:4815",
+                        "name": "Ghent University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFWIve9JLlDZQ/company-logo_200_200/company-logo_200_200/0/1630617024099/ghent_university_logo?e=1747872000&v=beta&t=-Af3qvHaQWEnIES1Ay60F_3LMGihLmbSG3D8hGQtFEk",
+                        "universalName": "ghent-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:4815",
+                        "trackingId": "ID6UlmF5QEqn6DkeRnsV0w=="
+                    },
+                    "companyName": "Universiteit Gent"
+                }
+            ],
+            "educations": [],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Professor bij Universiteit Gent",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Brussels Metropolitan Area",
+            "geoCountryName": "Belgium",
+            "jobTitle": "Professor",
+            "companyName": "Universiteit Gent",
+            "companyPublicId": "ghent-university",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ghent-university",
+            "following": false,
+            "followable": true,
+            "followersCount": 765,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Universiteit Gent",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "Universiteit Gent",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alexander-de-becker-56282b141/",
+        "company": "https://www.linkedin.com/company/ghent-university"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4815",
+                "entityUrn": "urn:li:fs_miniCompany:4815",
+                "name": "Ghent University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFWIve9JLlDZQ/company-logo_200_200/company-logo_200_200/0/1630617024099/ghent_university_logo?e=1747872000&v=beta&t=-Af3qvHaQWEnIES1Ay60F_3LMGihLmbSG3D8hGQtFEk",
+                "universalName": "ghent-university",
+                "dashCompanyUrn": "urn:li:fsd_company:4815",
+                "trackingId": "ID6UlmF5QEqn6DkeRnsV0w=="
+            },
+            "companyName": "Universiteit Gent"
+        }
+    ],
+    "education": [],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

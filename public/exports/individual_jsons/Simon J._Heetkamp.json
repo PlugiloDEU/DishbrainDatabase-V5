@@ -1,0 +1,568 @@
+{
+    "id": "exp313694199",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Simon J.",
+        "lastName": "Heetkamp",
+        "fullName": "Simon J. Heetkamp",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQHXg-Bpz9_hNw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709754978466?e=1745452800&v=beta&t=eOwC-94SrC5CTyJucIolwtlkZveK17lT4spQhN9LAHo",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch",
+            "Japanisch",
+            "Latein",
+            "Niederländisch",
+            "Türkisch"
+        ],
+        "allData": {
+            "id": "313694199",
+            "profileId": "ACoAABKyl_cBwyU8NiTueiFW0ppY1B11_QI7Ayg",
+            "firstName": "Simon J.",
+            "lastName": "Heetkamp",
+            "occupation": "Professor an der TH Köln/ivwKöln | ehem. Richter am Landgericht | digitale-richterschaft.de | ehem. Rechtsanwalt | Mediator",
+            "publicIdentifier": "simon-j-heetkamp-bb307b89",
+            "trackingId": "s+OV4iKBQW+vizPIjspbHw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHXg-Bpz9_hNw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709754978466?e=1745452800&v=beta&t=eOwC-94SrC5CTyJucIolwtlkZveK17lT4spQhN9LAHo",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQFzoFnAl6Y3FA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1529734105074?e=1745452800&v=beta&t=P7eAR1bhUPQDZRYFrh6W_sIEvZ_g1sG7Z9lSxE9K9M0",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009713",
+            "positions": [
+                {
+                    "title": "Professor für Wirtschaftsrecht, Mobilitäts- und Versicherungsrecht",
+                    "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:113372",
+                        "entityUrn": "urn:li:fs_miniCompany:113372",
+                        "name": "Cologne University of Applied Sciences",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHKlZBIgTh_zQ/company-logo_200_200/company-logo_200_200/0/1631344133413?e=1747872000&v=beta&t=EV7SchdIyR7dxjUAybES75ei3HEIec4f3xWxCkL-jy4",
+                        "universalName": "cologne-university-of-applied-sciences",
+                        "dashCompanyUrn": "urn:li:fsd_company:113372",
+                        "trackingId": "HdSB0mFfQ9iiFfSeQOqO8A=="
+                    },
+                    "companyName": "TH Köln"
+                },
+                {
+                    "title": "Richter am Landgericht",
+                    "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "Landgericht Köln"
+                },
+                {
+                    "title": "Lehrbeauftragter für die Vorlesung \"Online Dispute Resolution\"",
+                    "locationName": "Osnabrück, Niedersachsen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:45458",
+                        "entityUrn": "urn:li:fs_miniCompany:45458",
+                        "name": "Universität Osnabrück",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                        "universalName": "osnabrueck-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:45458",
+                        "trackingId": "gfKcqIF3Tm+Xrxng92gZSg=="
+                    },
+                    "companyName": "Universität Osnabrück"
+                },
+                {
+                    "title": "Richter",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Landgericht Köln"
+                },
+                {
+                    "title": "Lehrbeauftragter für die Vorlesung \"Online Dispute Resolution\"",
+                    "locationName": "Osnabrück, Niedersachsen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:45458",
+                        "entityUrn": "urn:li:fs_miniCompany:45458",
+                        "name": "Universität Osnabrück",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                        "universalName": "osnabrueck-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:45458",
+                        "trackingId": "93SImZWTTgqpcp8KCAGV2Q=="
+                    },
+                    "companyName": "Universität Osnabrück"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Staatsexamen",
+                    "fieldOfStudy": "Rechtswissenschaften",
+                    "schoolName": "Westfälische Wilhelms-Universität Münster",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Erasmus-Semester",
+                    "fieldOfStudy": "Rechtswissenschaften",
+                    "schoolName": "Bilkent Üniversitesi",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Mediator",
+                    "schoolName": "Fachhochschule Darmstadt",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [
+                {
+                    "name": "Artificial Intelligence and the Rule of Law"
+                },
+                {
+                    "name": "Summer School „International Arbitration School“"
+                },
+                {
+                    "name": "Summer School „International Taxation“"
+                },
+                {
+                    "name": "Summer School „Mergers & Acquisitions“"
+                },
+                {
+                    "name": "Weiterbildung „Mediative Verhandlungskompetenz“"
+                },
+                {
+                    "name": "Zertifikatskurs: BWL für Juristen"
+                },
+                {
+                    "name": "Zusatzausbildung „Journalismus & Recht“"
+                }
+            ],
+            "honors": [
+                {
+                    "title": "e-Justice Cup 2022",
+                    "description": "Sieger beim Ideenwettbewerb e-Justice Cup",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2022
+                    },
+                    "issuer": "Richterbund Hessen & IBM"
+                },
+                {
+                    "title": "Stipendium der Studienstiftung des Deutschen Volkes",
+                    "issueDate": {
+                        "month": 2,
+                        "year": 2015
+                    },
+                    "issuer": "Studienstiftung des Deutschen Volkes"
+                },
+                {
+                    "title": "Stipendium für das Japanprogramm für Rechtsreferendare",
+                    "issueDate": {
+                        "month": 8,
+                        "year": 2012
+                    },
+                    "issuer": "Robert Bosch-Stiftung"
+                },
+                {
+                    "title": "Finanzielle Förderung der Teilnahme an der „National Model United Nations“",
+                    "issueDate": {
+                        "month": 3,
+                        "year": 2007
+                    },
+                    "issuer": "Freundeskreis Rechtswissenschaft Münster e. V."
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Japanisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Latein",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Niederländisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Türkisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Strafrecht",
+                "Strafprozessrecht",
+                "Internationationales Strafrecht",
+                "Internationales Strafprozessrecht"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Beiratsmitglied",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "recode.law",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                },
+                {
+                    "role": "(Mit-)Gründer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "digitale richterschaft",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                },
+                {
+                    "role": "Teamer, Auswahlleiter, Redakteur der Vereinszeitschrift, Betreuer, u.v.m.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2002
+                        }
+                    },
+                    "companyName": "YFU - Deutsches Youth For Understanding Komitee e.V.",
+                    "cause": "EDUCATION"
+                }
+            ],
+            "headline": "Professor an der TH Köln/ivwKöln | ehem. Richter am Landgericht | digitale-richterschaft.de | ehem. Rechtsanwalt | Mediator",
+            "student": false,
+            "industryName": "Legal Services",
+            "industryUrn": "urn:li:fs_industry:10",
+            "geoLocationName": "Cologne Bonn Region",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor für Wirtschaftsrecht, Mobilitäts- und Versicherungsrecht",
+            "companyName": "TH Köln",
+            "companyPublicId": "cologne-university-of-applied-sciences",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/cologne-university-of-applied-sciences",
+            "following": false,
+            "followable": true,
+            "followersCount": 8186,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "TH Köln",
+        "position": "Professor für Wirtschaftsrecht, Mobilitäts- und Versicherungsrecht",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor für Wirtschaftsrecht, Mobilitäts- und Versicherungsrecht",
+        "organization": "TH Köln",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/simon-j-heetkamp-bb307b89/",
+        "company": "https://www.linkedin.com/company/cologne-university-of-applied-sciences"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor für Wirtschaftsrecht, Mobilitäts- und Versicherungsrecht",
+            "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:113372",
+                "entityUrn": "urn:li:fs_miniCompany:113372",
+                "name": "Cologne University of Applied Sciences",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHKlZBIgTh_zQ/company-logo_200_200/company-logo_200_200/0/1631344133413?e=1747872000&v=beta&t=EV7SchdIyR7dxjUAybES75ei3HEIec4f3xWxCkL-jy4",
+                "universalName": "cologne-university-of-applied-sciences",
+                "dashCompanyUrn": "urn:li:fsd_company:113372",
+                "trackingId": "HdSB0mFfQ9iiFfSeQOqO8A=="
+            },
+            "companyName": "TH Köln"
+        },
+        {
+            "title": "Richter am Landgericht",
+            "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "companyName": "Landgericht Köln"
+        },
+        {
+            "title": "Lehrbeauftragter für die Vorlesung \"Online Dispute Resolution\"",
+            "locationName": "Osnabrück, Niedersachsen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:45458",
+                "entityUrn": "urn:li:fs_miniCompany:45458",
+                "name": "Universität Osnabrück",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                "universalName": "osnabrueck-university",
+                "dashCompanyUrn": "urn:li:fsd_company:45458",
+                "trackingId": "gfKcqIF3Tm+Xrxng92gZSg=="
+            },
+            "companyName": "Universität Osnabrück"
+        },
+        {
+            "title": "Richter",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "companyName": "Landgericht Köln"
+        },
+        {
+            "title": "Lehrbeauftragter für die Vorlesung \"Online Dispute Resolution\"",
+            "locationName": "Osnabrück, Niedersachsen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:45458",
+                "entityUrn": "urn:li:fs_miniCompany:45458",
+                "name": "Universität Osnabrück",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                "universalName": "osnabrueck-university",
+                "dashCompanyUrn": "urn:li:fsd_company:45458",
+                "trackingId": "93SImZWTTgqpcp8KCAGV2Q=="
+            },
+            "companyName": "Universität Osnabrück"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Staatsexamen",
+            "fieldOfStudy": "Rechtswissenschaften",
+            "schoolName": "Westfälische Wilhelms-Universität Münster",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        },
+        {
+            "degreeName": "Erasmus-Semester",
+            "fieldOfStudy": "Rechtswissenschaften",
+            "schoolName": "Bilkent Üniversitesi",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "Mediator",
+            "schoolName": "Fachhochschule Darmstadt",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Strafrecht",
+        "Strafprozessrecht",
+        "Internationationales Strafrecht",
+        "Internationales Strafprozessrecht"
+    ],
+    "lastEnriched": "2025-02-17"
+}

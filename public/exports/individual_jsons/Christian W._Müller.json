@@ -1,0 +1,409 @@
+{
+    "id": "exp849306219",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christian W.",
+        "lastName": "Müller",
+        "fullName": "Christian W. Müller",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQEUek5acH114A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1601205149702?e=1745452800&v=beta&t=fnxRVAiT40gmrUTL1AGJLhIq-vOHNlHYgsbYKbMCK9U",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Englisch",
+            "Französisch"
+        ],
+        "allData": {
+            "id": "849306219",
+            "profileId": "ACoAADKfYmsB9oKCKWGB0LWGUBEA8KN5FyZ4gLU",
+            "firstName": "Christian W.",
+            "lastName": "Müller",
+            "occupation": "Chefarzt Orthopädie und Unfallchirurgie bei Asklepios Klinik Wandsbek",
+            "publicIdentifier": "christian-w-müller-7a35201b8",
+            "trackingId": "jKyZtdz6TtiO6Nmdh6A31g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQEUek5acH114A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1601205149702?e=1745452800&v=beta&t=fnxRVAiT40gmrUTL1AGJLhIq-vOHNlHYgsbYKbMCK9U",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQHjkO0UUv8NUA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1631115044578?e=1745452800&v=beta&t=YOrOD6fObrbwnho_K52bl7pmKzU9T_osg55XZKHpAgI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106430557",
+            "positions": [
+                {
+                    "title": "Chefarzt Orthopädie und Unfallchirurgie",
+                    "locationName": "Hamburg, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "industries": [
+                            "Medical Practice"
+                        ],
+                        "objectUrn": "urn:li:company:41418454",
+                        "entityUrn": "urn:li:fs_miniCompany:41418454",
+                        "name": "Asklepios Klinik Wandsbek",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "asklepios-klinik-wandsbek",
+                        "dashCompanyUrn": "urn:li:fsd_company:41418454",
+                        "trackingId": "C41lN2xfQKSaM+t7x4IiNQ=="
+                    },
+                    "companyName": "Asklepios Klinik Wandsbek"
+                },
+                {
+                    "title": "Arzt, Facharzt, Oberarzt und wissenschaftlicher Mitarbeiter",
+                    "locationName": "Hannover, Niedersachsen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2001
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15094027",
+                        "entityUrn": "urn:li:fs_miniCompany:15094027",
+                        "name": "Medizinische Hochschule Hannover",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG1fR0evOUCUA/company-logo_200_200/company-logo_200_200/0/1635948774267/medizinische_hochschule_hannover_logo?e=1747872000&v=beta&t=zei7sTI8s8k9iqW7VYTV8YBn6ZsjDIIln6kwpOCC4uQ",
+                        "universalName": "medizinische-hochschule-hannover",
+                        "dashCompanyUrn": "urn:li:fsd_company:15094027",
+                        "trackingId": "X5vlg+lfRnaY8A4PFWTXAg=="
+                    },
+                    "companyName": "Medizinische Hochschule Hannover"
+                },
+                {
+                    "title": "Arzt im Praktikum (AiP)",
+                    "locationName": "Freiburg im Breisgau, Baden-Württemberg, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2001
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1763186",
+                        "entityUrn": "urn:li:fs_miniCompany:1763186",
+                        "name": "The University of Freiburg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGWRw584ibV7Q/company-logo_200_200/company-logo_200_200/0/1677671036177/albert_ludwigs_universitaet_freiburg_logo?e=1747872000&v=beta&t=VgdFf8Q6_fZYb9sS9ygLjicxaa4xRmNtS0_amSxxLFA",
+                        "universalName": "albert-ludwigs-universitaet-freiburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:1763186",
+                        "trackingId": "WcNAs59iQlOatekSwpsd/g=="
+                    },
+                    "companyName": "Albert-Ludwigs-Universität Freiburg im Breisgau"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Staatsexamen",
+                    "fieldOfStudy": "Medizin",
+                    "schoolName": "Charité",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 1999
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Medizin",
+                    "schoolName": "University of Melbourne",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2000
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Medizin",
+                    "schoolName": "Leopold-Franzens Universität Innsbruck",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 1999
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Stipendium zur Teilnahme am Professional Management Programm 2017 (PMP)",
+                    "issueDate": {
+                        "month": 11,
+                        "year": 2016
+                    },
+                    "issuer": "Gesellschaft der Freunde der MHH"
+                },
+                {
+                    "title": "Hans-Liniger-Preis 2016",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2016
+                    },
+                    "issuer": "Deutsche Gesellschaft für Unfallchirurgie"
+                },
+                {
+                    "title": "Privatdozent (Venia legendi Orthopädie und Unfallchirurgie)",
+                    "description": "„Neue Wege in der Osteosynthese: Modulation der Frakturheilung durch kontaktfreie Form- und Steifigkeitsveränderung einer experimentellen Osteosyntheseplatte aus NickelTitanium“",
+                    "issueDate": {
+                        "month": 3,
+                        "year": 2016
+                    },
+                    "issuer": "Medizinische Hochschule Hannover"
+                },
+                {
+                    "title": "Promotion",
+                    "description": "„Quantitative Echtzeit-PCR zum Nachweis von HHV-6 DNA bei Patienten nach Knochenmarktransplantation“, Doktorvater: Prof. Dr. med. W. Siegert, Klinik für Hämatologie und Onkologie, Campus Virchowklinikum",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2003
+                    },
+                    "issuer": "Charité"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Leadership",
+                "Unfallchirurgie"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Chefarzt Orthopädie und Unfallchirurgie bei Asklepios Klinik Wandsbek",
+            "summary": "Akademischer Unfallchirurg, brennt für die stetige Optimierung der Versorgung Unfallverletzter, mag dünkelfreien kollegialen, interdisziplinären und interprofessionellen Austausch und wünscht sich, dass auch jüngere Kolleginnen und Kollegen sich dafür begeistern können und dafür adäquate Arbeitsbedingungen finden!",
+            "student": false,
+            "industryName": "Medical Practice",
+            "industryUrn": "urn:li:fs_industry:13",
+            "geoLocationName": "Hamburg, Hamburg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Chefarzt Orthopädie und Unfallchirurgie",
+            "companyName": "Asklepios Klinik Wandsbek",
+            "companyPublicId": "asklepios-klinik-wandsbek",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/asklepios-klinik-wandsbek",
+            "following": false,
+            "followable": true,
+            "followersCount": 581,
+            "connectionsCount": 431,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Asklepios Klinik Wandsbek",
+        "position": "Chefarzt Orthopädie und Unfallchirurgie",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Medical Practice"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chefarzt Orthopädie und Unfallchirurgie",
+        "organization": "Asklepios Klinik Wandsbek",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christian-w-müller-7a35201b8/",
+        "company": "https://www.linkedin.com/company/asklepios-klinik-wandsbek"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chefarzt Orthopädie und Unfallchirurgie",
+            "locationName": "Hamburg, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "industries": [
+                    "Medical Practice"
+                ],
+                "objectUrn": "urn:li:company:41418454",
+                "entityUrn": "urn:li:fs_miniCompany:41418454",
+                "name": "Asklepios Klinik Wandsbek",
+                "showcase": false,
+                "active": true,
+                "universalName": "asklepios-klinik-wandsbek",
+                "dashCompanyUrn": "urn:li:fsd_company:41418454",
+                "trackingId": "C41lN2xfQKSaM+t7x4IiNQ=="
+            },
+            "companyName": "Asklepios Klinik Wandsbek"
+        },
+        {
+            "title": "Arzt, Facharzt, Oberarzt und wissenschaftlicher Mitarbeiter",
+            "locationName": "Hannover, Niedersachsen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2001
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15094027",
+                "entityUrn": "urn:li:fs_miniCompany:15094027",
+                "name": "Medizinische Hochschule Hannover",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG1fR0evOUCUA/company-logo_200_200/company-logo_200_200/0/1635948774267/medizinische_hochschule_hannover_logo?e=1747872000&v=beta&t=zei7sTI8s8k9iqW7VYTV8YBn6ZsjDIIln6kwpOCC4uQ",
+                "universalName": "medizinische-hochschule-hannover",
+                "dashCompanyUrn": "urn:li:fsd_company:15094027",
+                "trackingId": "X5vlg+lfRnaY8A4PFWTXAg=="
+            },
+            "companyName": "Medizinische Hochschule Hannover"
+        },
+        {
+            "title": "Arzt im Praktikum (AiP)",
+            "locationName": "Freiburg im Breisgau, Baden-Württemberg, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2001
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2001
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1763186",
+                "entityUrn": "urn:li:fs_miniCompany:1763186",
+                "name": "The University of Freiburg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGWRw584ibV7Q/company-logo_200_200/company-logo_200_200/0/1677671036177/albert_ludwigs_universitaet_freiburg_logo?e=1747872000&v=beta&t=VgdFf8Q6_fZYb9sS9ygLjicxaa4xRmNtS0_amSxxLFA",
+                "universalName": "albert-ludwigs-universitaet-freiburg",
+                "dashCompanyUrn": "urn:li:fsd_company:1763186",
+                "trackingId": "WcNAs59iQlOatekSwpsd/g=="
+            },
+            "companyName": "Albert-Ludwigs-Universität Freiburg im Breisgau"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Staatsexamen",
+            "fieldOfStudy": "Medizin",
+            "schoolName": "Charité",
+            "timePeriod": {
+                "endDate": {
+                    "month": 10,
+                    "year": 2000
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 1999
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Medizin",
+            "schoolName": "University of Melbourne",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2000
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2000
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Medizin",
+            "schoolName": "Leopold-Franzens Universität Innsbruck",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2000
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 1999
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Leadership",
+        "Unfallchirurgie"
+    ],
+    "lastEnriched": "2025-02-17"
+}

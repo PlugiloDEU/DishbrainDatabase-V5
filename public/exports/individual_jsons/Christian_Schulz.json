@@ -1,0 +1,468 @@
+{
+    "id": "exp350906281",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christian",
+        "lastName": "Schulz",
+        "fullName": "Christian Schulz",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQH2gQuX9V2Evg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1706299950568?e=1745452800&v=beta&t=K1gwZ40Qsb6HNLPJ7POmOzFNCgSnlCKVTps9Ylm9m_s",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "350906281",
+            "profileId": "ACoAABTqZ6kBSp3009AJBVgFHRareD-ycoIK8dc",
+            "firstName": "Christian",
+            "lastName": "Schulz",
+            "occupation": "Chair of Immunopharmacology, Mannheim Institute for Innate Immunoscience, University of Heidelberg",
+            "publicIdentifier": "christian-schulz-92162699",
+            "trackingId": "N8qh4HC/T6GB2oCVFqoGNg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQH2gQuX9V2Evg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1706299950568?e=1745452800&v=beta&t=K1gwZ40Qsb6HNLPJ7POmOzFNCgSnlCKVTps9Ylm9m_s",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQE3ZaBWvofoQg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1706300870187?e=1745452800&v=beta&t=sEXZIZSQh6QYd3Yhndy0kGLUrC13h8vSqBF7V4hsaI4",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101282230",
+            "positions": [
+                {
+                    "title": "Professor and Chair for Immunopharmacology",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15091827",
+                        "entityUrn": "urn:li:fs_miniCompany:15091827",
+                        "name": "Heidelberg University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH899HhZs9cHg/company-logo_200_200/company-logo_200_200/0/1631307541434?e=1747872000&v=beta&t=ZMe2qRVOQmZer8kIGTKlY9lG4WK0hWCCFjutZSh3lGs",
+                        "universalName": "uni-heidelberg",
+                        "dashCompanyUrn": "urn:li:fsd_company:15091827",
+                        "trackingId": "//TA169kRouIz+d3XJZeZQ=="
+                    },
+                    "companyName": "Heidelberg University"
+                },
+                {
+                    "title": "Associate Professor for Cardiovascular Immunology",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:596185",
+                        "entityUrn": "urn:li:fs_miniCompany:596185",
+                        "name": "Ludwig-Maximilians-Universität München",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                        "universalName": "lmu.muenchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:596185",
+                        "trackingId": "qUx3NXeJSuyaGgYETwRJUw=="
+                    },
+                    "companyName": "Ludwig-Maximilians-Universität (LMU) München"
+                },
+                {
+                    "title": "Senior Lecturer",
+                    "locationName": "Department of Immunobiology and Cardiovascular Division",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:7198",
+                        "entityUrn": "urn:li:fs_miniCompany:7198",
+                        "name": "King's College London",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_200_200/company-logo_200_200/0/1630592448557/kings_college_london_logo?e=1747872000&v=beta&t=GQEWfQXbb2iif1ToMFMRoYJ3-_QDHx3KmWk26ugZUU0",
+                        "universalName": "king's-college-london",
+                        "dashCompanyUrn": "urn:li:fsd_company:7198",
+                        "trackingId": "pxFxR7T9S4WxM60vPk/rGQ=="
+                    },
+                    "companyName": "King's College London"
+                },
+                {
+                    "title": "Postdoctoral Research Associate",
+                    "description": "Laser scanning and fluorescence microscopy\nFlow cytometry\nMolecular biology\nHistology\nIn vivo fate mapping and lineage analysis of immune cells",
+                    "locationName": "Division of Immunology, Infection and Inflammatory Diseases",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:7198",
+                        "entityUrn": "urn:li:fs_miniCompany:7198",
+                        "name": "King's College London",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_200_200/company-logo_200_200/0/1630592448557/kings_college_london_logo?e=1747872000&v=beta&t=GQEWfQXbb2iif1ToMFMRoYJ3-_QDHx3KmWk26ugZUU0",
+                        "universalName": "king's-college-london",
+                        "dashCompanyUrn": "urn:li:fsd_company:7198",
+                        "trackingId": "ta2xhN8XTNiJZahFu7rYSQ=="
+                    },
+                    "companyName": "King's College London"
+                },
+                {
+                    "title": "Physician Scientist",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2002
+                        }
+                    },
+                    "companyName": "Technical University of Munich"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Associate Professor",
+                    "schoolName": "Ludwig-Maximilians-Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Senior Lecturer",
+                    "schoolName": "King's College London",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2012
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Postdoctoral position",
+                    "schoolName": "King's College London",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2010
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Immunology",
+                "Science",
+                "Molecular Biology",
+                "Cell Biology"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Chair of Immunopharmacology, Mannheim Institute for Innate Immunoscience, University of Heidelberg",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor and Chair for Immunopharmacology",
+            "companyName": "Heidelberg University",
+            "companyPublicId": "uni-heidelberg",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/uni-heidelberg",
+            "following": false,
+            "followable": true,
+            "followersCount": 1174,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Heidelberg University",
+        "position": "Professor and Chair for Immunopharmacology",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor and Chair for Immunopharmacology",
+        "organization": "Heidelberg University",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christian-schulz-92162699/",
+        "company": "https://www.linkedin.com/company/uni-heidelberg"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor and Chair for Immunopharmacology",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15091827",
+                "entityUrn": "urn:li:fs_miniCompany:15091827",
+                "name": "Heidelberg University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH899HhZs9cHg/company-logo_200_200/company-logo_200_200/0/1631307541434?e=1747872000&v=beta&t=ZMe2qRVOQmZer8kIGTKlY9lG4WK0hWCCFjutZSh3lGs",
+                "universalName": "uni-heidelberg",
+                "dashCompanyUrn": "urn:li:fsd_company:15091827",
+                "trackingId": "//TA169kRouIz+d3XJZeZQ=="
+            },
+            "companyName": "Heidelberg University"
+        },
+        {
+            "title": "Associate Professor for Cardiovascular Immunology",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:596185",
+                "entityUrn": "urn:li:fs_miniCompany:596185",
+                "name": "Ludwig-Maximilians-Universität München",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH_R0ADkfGotA/company-logo_200_200/company-logo_200_200/0/1630573546772/lmumuenchen_logo?e=1747872000&v=beta&t=7m_oh92p4jI3t0e4a6Dk6cH6dmm6K5FNMiZ0_MwCvvY",
+                "universalName": "lmu.muenchen",
+                "dashCompanyUrn": "urn:li:fsd_company:596185",
+                "trackingId": "qUx3NXeJSuyaGgYETwRJUw=="
+            },
+            "companyName": "Ludwig-Maximilians-Universität (LMU) München"
+        },
+        {
+            "title": "Senior Lecturer",
+            "locationName": "Department of Immunobiology and Cardiovascular Division",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:7198",
+                "entityUrn": "urn:li:fs_miniCompany:7198",
+                "name": "King's College London",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_200_200/company-logo_200_200/0/1630592448557/kings_college_london_logo?e=1747872000&v=beta&t=GQEWfQXbb2iif1ToMFMRoYJ3-_QDHx3KmWk26ugZUU0",
+                "universalName": "king's-college-london",
+                "dashCompanyUrn": "urn:li:fsd_company:7198",
+                "trackingId": "pxFxR7T9S4WxM60vPk/rGQ=="
+            },
+            "companyName": "King's College London"
+        },
+        {
+            "title": "Postdoctoral Research Associate",
+            "description": "Laser scanning and fluorescence microscopy\nFlow cytometry\nMolecular biology\nHistology\nIn vivo fate mapping and lineage analysis of immune cells",
+            "locationName": "Division of Immunology, Infection and Inflammatory Diseases",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:7198",
+                "entityUrn": "urn:li:fs_miniCompany:7198",
+                "name": "King's College London",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEsapaVYleavg/company-logo_200_200/company-logo_200_200/0/1630592448557/kings_college_london_logo?e=1747872000&v=beta&t=GQEWfQXbb2iif1ToMFMRoYJ3-_QDHx3KmWk26ugZUU0",
+                "universalName": "king's-college-london",
+                "dashCompanyUrn": "urn:li:fsd_company:7198",
+                "trackingId": "ta2xhN8XTNiJZahFu7rYSQ=="
+            },
+            "companyName": "King's College London"
+        },
+        {
+            "title": "Physician Scientist",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2002
+                }
+            },
+            "companyName": "Technical University of Munich"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Associate Professor",
+            "schoolName": "Ludwig-Maximilians-Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "degreeName": "Senior Lecturer",
+            "schoolName": "King's College London",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2012
+                }
+            }
+        },
+        {
+            "degreeName": "Postdoctoral position",
+            "schoolName": "King's College London",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Immunology",
+        "Science",
+        "Molecular Biology",
+        "Cell Biology"
+    ],
+    "lastEnriched": "2025-02-17"
+}

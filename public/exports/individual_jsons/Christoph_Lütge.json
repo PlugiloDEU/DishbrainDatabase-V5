@@ -1,0 +1,511 @@
+{
+    "id": "exp57521309",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christoph",
+        "lastName": "Lütge",
+        "fullName": "Christoph Lütge",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHljlN8781QnA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1547356887272?e=1745452800&v=beta&t=IX6xDOmy9512pd53l8D4yfRUCAedLgfS_FEHkRqXBpE",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French"
+        ],
+        "allData": {
+            "id": "57521309",
+            "profileId": "ACoAAANttJ0B22G7qcB8-hop1Amc_DNlkJgR3P8",
+            "firstName": "Christoph",
+            "lastName": "Lütge",
+            "occupation": "Director of the TUM Institute for Ethics in Artificial Intelligence bei Technische Universität München",
+            "publicIdentifier": "christophluetge",
+            "trackingId": "rSIjR9Z+QRmtAIt69z2psA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHljlN8781QnA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1547356887272?e=1745452800&v=beta&t=IX6xDOmy9512pd53l8D4yfRUCAedLgfS_FEHkRqXBpE",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEZ4xxmdZ3O0Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1681200691011?e=1745452800&v=beta&t=f5wt755w8FNu4OZdaXAiyODiixDzE_QAheEOuRfe7jM",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:100477049",
+            "positions": [
+                {
+                    "title": "Director of the TUM Institute for Ethics in Artificial Intelligence",
+                    "locationName": "München, Bayern, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "V2iYdWjYTe6HnCq2bnnoTQ=="
+                    },
+                    "companyName": "Technische Universität München"
+                },
+                {
+                    "title": "Peter Loescher Professor and Chair of Business Ethics",
+                    "locationName": "Munich Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166283",
+                        "entityUrn": "urn:li:fs_miniCompany:166283",
+                        "name": "Technical University of Munich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                        "universalName": "technische-universitat-munchen",
+                        "dashCompanyUrn": "urn:li:fsd_company:166283",
+                        "trackingId": "O4kZ/sNvQVanbeOKc6NarA=="
+                    },
+                    "companyName": "Technische Universität München"
+                },
+                {
+                    "title": "Distinguished Visiting Professor",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:11361",
+                        "entityUrn": "urn:li:fs_miniCompany:11361",
+                        "name": "The University of Tokyo",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHvGaRdqrWWzQ/company-logo_200_200/company-logo_200_200/0/1711928803462/university_of_tokyo_logo?e=1747872000&v=beta&t=R6Tom7zD5adKCoHPyxKA2i9383SOgJiw_f8cShmk-9w",
+                        "universalName": "university-of-tokyo",
+                        "dashCompanyUrn": "urn:li:fsd_company:11361",
+                        "trackingId": "/vjfCxKHRdWW2fcXX27Cqw=="
+                    },
+                    "companyName": "Universität Tokio"
+                },
+                {
+                    "title": "Visiting Researcher",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:165774",
+                        "entityUrn": "urn:li:fs_miniCompany:165774",
+                        "name": "Roskilde University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEcsM6L3UA4cQ/company-logo_200_200/company-logo_200_200/0/1630578763740?e=1747872000&v=beta&t=LcpPSvWLorOpEsUiDsy4ikJkpWKs9mPlY-E3WusTxEk",
+                        "universalName": "roskilde-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:165774",
+                        "trackingId": "ycKJ8ohEQVOlqCqsy8vcfA=="
+                    },
+                    "companyName": "Roskilde University"
+                },
+                {
+                    "title": "Visiting Researcher",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:166164",
+                        "entityUrn": "urn:li:fs_miniCompany:166164",
+                        "name": "Stockholm University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDDr4dLuJjYw/company-logo_200_200/company-logo_200_200/0/1651005531999/stockholm_university_logo?e=1747872000&v=beta&t=i6ki7qMYfKYW76YEDM3MJn-BJdu4rRa6zBpWIMg0nd0",
+                        "universalName": "stockholm-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:166164",
+                        "trackingId": "mdoUjy6uR7OuxSRDcDLKsw=="
+                    },
+                    "companyName": "Stockholms universitet"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Habilitation",
+                    "fieldOfStudy": "Philosophy",
+                    "schoolName": "Ludwig-Maximilians Universität München / LMU Munich",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Doctor of Philosophy (PhD)",
+                    "fieldOfStudy": "Philosophy",
+                    "schoolName": "Technische Universität Carolo-Wilhelmina zu Braunschweig / TU Braunschweig",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Philosophy",
+                    "schoolName": "UC San Diego",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "year": 1998
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Best Scholarly Article Prize",
+                    "description": "https://www.cambridge.org/core/journals/business-and-human-rights-journal/information/annual-article-and-dif-prize",
+                    "issueDate": {
+                        "year": 2021
+                    },
+                    "issuer": "Business & Human Rights Journal 2020"
+                },
+                {
+                    "title": "Best Paper Award",
+                    "issueDate": {
+                        "year": 2018
+                    },
+                    "issuer": "ICMERR Conference Melbourne"
+                },
+                {
+                    "title": "Heisenberg Fellowship",
+                    "issueDate": {
+                        "year": 2007
+                    },
+                    "issuer": "German Research Foundation"
+                },
+                {
+                    "title": "Doctoral Fellowship",
+                    "issueDate": {
+                        "year": 1997
+                    },
+                    "issuer": "German Academic Scholarship Foundation"
+                },
+                {
+                    "title": "Student Fellowship",
+                    "issueDate": {
+                        "year": 1993
+                    },
+                    "issuer": "German Academic Scholarship Foundation"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "French"
+                }
+            ],
+            "skills": [
+                "Business Ethics",
+                "Corporate Social Responsibility",
+                "Ethics",
+                "Political Philosophy"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Director of the TUM Institute for Ethics in Artificial Intelligence bei Technische Universität München",
+            "summary": "Christoph Lütge studied business informatics and philosophy in Braunschweig, Paris, Göttingen and Berlin. He was a visiting scholar at the University of Pittsburgh (1997) and research fellow at the University of California, San Diego (1998). After taking his PhD in philosophy in 1999, Lütge held a position as assistant professor at the Chair for Philosophy and Economics of the University of Munich (LMU) from 1999 to 2007, where he also took his habilitation in 2005. He was acting professor at Witten/Herdecke University (2007-2008) and at Braunschweig University of Technology (2008-2010). Since 2010, he holds the Peter Löscher Chair in Business Ethics at the Technical University of Munich. In 2019, Lütge was appointed director of the new TUM Institute for Ethics in Artificial Intelligence. He has held visiting positions in Venice (2003), Kyoto (2015), Taipei (2015), at Harvard (2019) and the University of Stockholm (2020). In 2020, he was appointed Distinguished Visiting Professor of the University of Tokyo. His main areas of interest are ethics of AI, ethics of digitization, business ethics, foundations of ethics as well as philosophy of the social sciences and economics. His major publications include \"Business Ethics: An Economically Informed Perspective\" (Oxford University Press, 2021, with Matthias Uhl), \"An Introduction to Ethics in Robotics and AI“ (Springer, 2021, with coauthors) and \"The Ethics of Competition” (Elgar, 2019; Japanese edition with Keio University Press, 2020).\nHe has been a member of the Ethics Commission on Automated and Connected Driving of the German Federal Ministry of Transport and Digital Infrastructure (2016-17), as well as of the European AI Ethics initiative AI4People (2018-). He has also done consulting work for the Singapore Economic Development Board and the Canadian Transport Commission.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Munich, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Director of the TUM Institute for Ethics in Artificial Intelligence",
+            "companyName": "Technische Universität München",
+            "companyPublicId": "technische-universitat-munchen",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/technische-universitat-munchen",
+            "following": false,
+            "followable": true,
+            "followersCount": 7633,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Technische Universität München",
+        "position": "Director of the TUM Institute for Ethics in Artificial Intelligence",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Director of the TUM Institute for Ethics in Artificial Intelligence",
+        "organization": "Technische Universität München",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christophluetge/",
+        "company": "https://www.linkedin.com/company/technische-universitat-munchen"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Director of the TUM Institute for Ethics in Artificial Intelligence",
+            "locationName": "München, Bayern, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "V2iYdWjYTe6HnCq2bnnoTQ=="
+            },
+            "companyName": "Technische Universität München"
+        },
+        {
+            "title": "Peter Loescher Professor and Chair of Business Ethics",
+            "locationName": "Munich Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166283",
+                "entityUrn": "urn:li:fs_miniCompany:166283",
+                "name": "Technical University of Munich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEPj4W4lIWpzQ/company-logo_200_200/company-logo_200_200/0/1719581261705/technische_universitat_munchen_logo?e=1747872000&v=beta&t=qhZOKI6W0rq_w2zi1Ny9LYLtP8N6HiU7q-kFebd6hUI",
+                "universalName": "technische-universitat-munchen",
+                "dashCompanyUrn": "urn:li:fsd_company:166283",
+                "trackingId": "O4kZ/sNvQVanbeOKc6NarA=="
+            },
+            "companyName": "Technische Universität München"
+        },
+        {
+            "title": "Distinguished Visiting Professor",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:11361",
+                "entityUrn": "urn:li:fs_miniCompany:11361",
+                "name": "The University of Tokyo",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHvGaRdqrWWzQ/company-logo_200_200/company-logo_200_200/0/1711928803462/university_of_tokyo_logo?e=1747872000&v=beta&t=R6Tom7zD5adKCoHPyxKA2i9383SOgJiw_f8cShmk-9w",
+                "universalName": "university-of-tokyo",
+                "dashCompanyUrn": "urn:li:fsd_company:11361",
+                "trackingId": "/vjfCxKHRdWW2fcXX27Cqw=="
+            },
+            "companyName": "Universität Tokio"
+        },
+        {
+            "title": "Visiting Researcher",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:165774",
+                "entityUrn": "urn:li:fs_miniCompany:165774",
+                "name": "Roskilde University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEcsM6L3UA4cQ/company-logo_200_200/company-logo_200_200/0/1630578763740?e=1747872000&v=beta&t=LcpPSvWLorOpEsUiDsy4ikJkpWKs9mPlY-E3WusTxEk",
+                "universalName": "roskilde-university",
+                "dashCompanyUrn": "urn:li:fsd_company:165774",
+                "trackingId": "ycKJ8ohEQVOlqCqsy8vcfA=="
+            },
+            "companyName": "Roskilde University"
+        },
+        {
+            "title": "Visiting Researcher",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:166164",
+                "entityUrn": "urn:li:fs_miniCompany:166164",
+                "name": "Stockholm University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEDDr4dLuJjYw/company-logo_200_200/company-logo_200_200/0/1651005531999/stockholm_university_logo?e=1747872000&v=beta&t=i6ki7qMYfKYW76YEDM3MJn-BJdu4rRa6zBpWIMg0nd0",
+                "universalName": "stockholm-university",
+                "dashCompanyUrn": "urn:li:fsd_company:166164",
+                "trackingId": "mdoUjy6uR7OuxSRDcDLKsw=="
+            },
+            "companyName": "Stockholms universitet"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Habilitation",
+            "fieldOfStudy": "Philosophy",
+            "schoolName": "Ludwig-Maximilians Universität München / LMU Munich",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                }
+            }
+        },
+        {
+            "degreeName": "Doctor of Philosophy (PhD)",
+            "fieldOfStudy": "Philosophy",
+            "schoolName": "Technische Universität Carolo-Wilhelmina zu Braunschweig / TU Braunschweig",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Philosophy",
+            "schoolName": "UC San Diego",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Business Ethics",
+        "Corporate Social Responsibility",
+        "Ethics",
+        "Political Philosophy"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,437 @@
+{
+    "id": "exp752990338",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Julia",
+        "lastName": "Müller",
+        "fullName": "Julia Müller",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHz27hDDJwceQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1564579230446?e=1745452800&v=beta&t=oww0BF7F8FYfj3tsPF3ZgkRV7QZEsKAlcPIzl5iAg3w",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "752990338",
+            "profileId": "ACoAACzhuIIBToIbTVZPKp1TD44wyWc9rRKewTA",
+            "firstName": "Julia",
+            "lastName": "Müller",
+            "occupation": "Professor of Management at University of Osnabrück",
+            "publicIdentifier": "julia-müller-36a212190",
+            "trackingId": "yTDG9KM1T1OncmMa7t8L3A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHz27hDDJwceQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1564579230446?e=1745452800&v=beta&t=oww0BF7F8FYfj3tsPF3ZgkRV7QZEsKAlcPIzl5iAg3w",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQE-2R4f5zkgSA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1564583479201?e=1745452800&v=beta&t=YdylkMN0Mc-Br_vd4E_InefhhrvP2LonLKP7AkLOzXI",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:101282230",
+            "positions": [
+                {
+                    "title": "Professor of Management ",
+                    "description": "",
+                    "locationName": "Osnabrück und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:45458",
+                        "entityUrn": "urn:li:fs_miniCompany:45458",
+                        "name": "Universität Osnabrück",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                        "universalName": "osnabrueck-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:45458",
+                        "trackingId": "Cr2tZ+zwQXKn36/H4XNXIw=="
+                    },
+                    "companyName": "Universität Osnabrück"
+                },
+                {
+                    "title": "Postdoctoral Researcher",
+                    "locationName": "Münster und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:15594",
+                        "entityUrn": "urn:li:fs_miniCompany:15594",
+                        "name": "University of Münster",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGpKl9fXcWaUQ/company-logo_200_200/company-logo_200_200/0/1671697645543/university_of_muenster_logo?e=1747872000&v=beta&t=FgbDqwMgQOkbLxUQ86yfE66pTixtk86sZ1-Iyln6DVc",
+                        "universalName": "university-of-muenster",
+                        "dashCompanyUrn": "urn:li:fsd_company:15594",
+                        "trackingId": "VLHxOcjmQ0ysrbqJ4xGigQ=="
+                    },
+                    "companyName": "Westfälische Wilhelms-Universität Münster"
+                },
+                {
+                    "title": "Postdoctoral Researcher",
+                    "locationName": "Karlsruhe und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15093461",
+                        "entityUrn": "urn:li:fs_miniCompany:15093461",
+                        "name": "Karlsruhe Institute of Technology (KIT)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHFNeaizijaeg/company-logo_200_200/company-logo_200_200/0/1631353427640?e=1747872000&v=beta&t=4lYIlYLAYF0fWJLvf3T13QMF8arbTMxrJ1D00dF7T0E",
+                        "universalName": "kit",
+                        "dashCompanyUrn": "urn:li:fsd_company:15093461",
+                        "trackingId": "gCGiLyRNSeumu7X3BsX+Ow=="
+                    },
+                    "companyName": "Karlsruher Institut für Technologie (KIT)"
+                },
+                {
+                    "title": "Assistant Professor ",
+                    "description": "",
+                    "locationName": "Rotterdam und Umgebung, Niederlande",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:269012",
+                        "entityUrn": "urn:li:fs_miniCompany:269012",
+                        "name": "Erasmus University Rotterdam",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH6a-XX__UABw/company-logo_200_200/company-logo_200_200/0/1630595251002/erasmus_university_rotterdam_logo?e=1747872000&v=beta&t=VooCeNZ-n--JQDoURccP7Rq7uPtM87OpQpgCcYOUHo0",
+                        "universalName": "erasmus-university-rotterdam",
+                        "dashCompanyUrn": "urn:li:fsd_company:269012",
+                        "trackingId": "aDOfHKM+SoKuVLtDnhcwjw=="
+                    },
+                    "companyName": "Erasmus Universiteit Rotterdam"
+                },
+                {
+                    "title": "PHD Student",
+                    "locationName": "Heidelberg und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15091827",
+                        "entityUrn": "urn:li:fs_miniCompany:15091827",
+                        "name": "Heidelberg University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH899HhZs9cHg/company-logo_200_200/company-logo_200_200/0/1631307541434?e=1747872000&v=beta&t=ZMe2qRVOQmZer8kIGTKlY9lG4WK0hWCCFjutZSh3lGs",
+                        "universalName": "uni-heidelberg",
+                        "dashCompanyUrn": "urn:li:fsd_company:15091827",
+                        "trackingId": "dGNzPudOR027Ob5urxmSJQ=="
+                    },
+                    "companyName": "Ruprecht-Karls-Universität Heidelberg"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Habilitation ",
+                    "schoolName": "Westfälische Wilhelms-Universität Münster"
+                },
+                {
+                    "degreeName": "Promotion ",
+                    "schoolName": "Ruprecht-Karls-Universität Heidelberg"
+                },
+                {
+                    "degreeName": "Diplom ",
+                    "fieldOfStudy": "Wirtschaftsmathematik ",
+                    "schoolName": "Universität Bielefeld"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Management",
+                "Research ",
+                "Behavioral Economics ",
+                "Leadership"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor of Management at University of Osnabrück",
+            "summary": "Experienced researcher with interests in human resource management, teams, leadership, organizational behavior, digital transfomation, decision making, behavioral and experimental economics.  Background in mathematical economics and behavioral economics. ",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor of Management ",
+            "companyName": "Universität Osnabrück",
+            "companyPublicId": "osnabrueck-university",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/osnabrueck-university",
+            "following": false,
+            "followable": true,
+            "followersCount": 747,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Universität Osnabrück",
+        "position": "Professor of Management ",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor of Management ",
+        "organization": "Universität Osnabrück",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/julia-müller-36a212190/",
+        "company": "https://www.linkedin.com/company/osnabrueck-university"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor of Management ",
+            "description": "",
+            "locationName": "Osnabrück und Umgebung, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:45458",
+                "entityUrn": "urn:li:fs_miniCompany:45458",
+                "name": "Universität Osnabrück",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                "universalName": "osnabrueck-university",
+                "dashCompanyUrn": "urn:li:fsd_company:45458",
+                "trackingId": "Cr2tZ+zwQXKn36/H4XNXIw=="
+            },
+            "companyName": "Universität Osnabrück"
+        },
+        {
+            "title": "Postdoctoral Researcher",
+            "locationName": "Münster und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:15594",
+                "entityUrn": "urn:li:fs_miniCompany:15594",
+                "name": "University of Münster",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGpKl9fXcWaUQ/company-logo_200_200/company-logo_200_200/0/1671697645543/university_of_muenster_logo?e=1747872000&v=beta&t=FgbDqwMgQOkbLxUQ86yfE66pTixtk86sZ1-Iyln6DVc",
+                "universalName": "university-of-muenster",
+                "dashCompanyUrn": "urn:li:fsd_company:15594",
+                "trackingId": "VLHxOcjmQ0ysrbqJ4xGigQ=="
+            },
+            "companyName": "Westfälische Wilhelms-Universität Münster"
+        },
+        {
+            "title": "Postdoctoral Researcher",
+            "locationName": "Karlsruhe und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15093461",
+                "entityUrn": "urn:li:fs_miniCompany:15093461",
+                "name": "Karlsruhe Institute of Technology (KIT)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHFNeaizijaeg/company-logo_200_200/company-logo_200_200/0/1631353427640?e=1747872000&v=beta&t=4lYIlYLAYF0fWJLvf3T13QMF8arbTMxrJ1D00dF7T0E",
+                "universalName": "kit",
+                "dashCompanyUrn": "urn:li:fsd_company:15093461",
+                "trackingId": "gCGiLyRNSeumu7X3BsX+Ow=="
+            },
+            "companyName": "Karlsruher Institut für Technologie (KIT)"
+        },
+        {
+            "title": "Assistant Professor ",
+            "description": "",
+            "locationName": "Rotterdam und Umgebung, Niederlande",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:269012",
+                "entityUrn": "urn:li:fs_miniCompany:269012",
+                "name": "Erasmus University Rotterdam",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQH6a-XX__UABw/company-logo_200_200/company-logo_200_200/0/1630595251002/erasmus_university_rotterdam_logo?e=1747872000&v=beta&t=VooCeNZ-n--JQDoURccP7Rq7uPtM87OpQpgCcYOUHo0",
+                "universalName": "erasmus-university-rotterdam",
+                "dashCompanyUrn": "urn:li:fsd_company:269012",
+                "trackingId": "aDOfHKM+SoKuVLtDnhcwjw=="
+            },
+            "companyName": "Erasmus Universiteit Rotterdam"
+        },
+        {
+            "title": "PHD Student",
+            "locationName": "Heidelberg und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2011
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15091827",
+                "entityUrn": "urn:li:fs_miniCompany:15091827",
+                "name": "Heidelberg University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH899HhZs9cHg/company-logo_200_200/company-logo_200_200/0/1631307541434?e=1747872000&v=beta&t=ZMe2qRVOQmZer8kIGTKlY9lG4WK0hWCCFjutZSh3lGs",
+                "universalName": "uni-heidelberg",
+                "dashCompanyUrn": "urn:li:fsd_company:15091827",
+                "trackingId": "dGNzPudOR027Ob5urxmSJQ=="
+            },
+            "companyName": "Ruprecht-Karls-Universität Heidelberg"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Habilitation ",
+            "schoolName": "Westfälische Wilhelms-Universität Münster"
+        },
+        {
+            "degreeName": "Promotion ",
+            "schoolName": "Ruprecht-Karls-Universität Heidelberg"
+        },
+        {
+            "degreeName": "Diplom ",
+            "fieldOfStudy": "Wirtschaftsmathematik ",
+            "schoolName": "Universität Bielefeld"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Management",
+        "Research ",
+        "Behavioral Economics ",
+        "Leadership"
+    ],
+    "lastEnriched": "2025-02-17"
+}

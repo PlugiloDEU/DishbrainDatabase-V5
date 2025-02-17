@@ -1,0 +1,448 @@
+{
+    "id": "exp19574",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Ragnar",
+        "lastName": "Kruse",
+        "fullName": "Ragnar Kruse",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQHCdpJ-ojCkeg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729716026117?e=1745452800&v=beta&t=ixMQ6Fw7ysSKYwlvUp5-1lVmHokxZnmWrAI16KJz2ok",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "19574",
+            "profileId": "ACoAAAAATHYBryXmq3_uWX5R-JFuUoeytA0V8Og",
+            "firstName": "Ragnar",
+            "lastName": "Kruse",
+            "occupation": "Co-Founder AI.FUND & AI.HAMBURG & AI.GROUP and Co-Founder of AI.STARTUP.HUB & Transatlantic AI eXchange.",
+            "publicIdentifier": "ragnarkruse",
+            "trackingId": "1BJlihTvQ/a0tz8H9EUPmw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQHCdpJ-ojCkeg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729716026117?e=1745452800&v=beta&t=ixMQ6Fw7ysSKYwlvUp5-1lVmHokxZnmWrAI16KJz2ok",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C5616AQFSNwFfFDz6SA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1620319904470?e=1745452800&v=beta&t=JVoYWsCxBEQ4wPhwQvGAtalBD22-VnLKZA4UBf1X7RU",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106430557",
+            "positions": [
+                {
+                    "title": "Founding Partner & Managing Director",
+                    "description": "Venture Capital Investing in European AI Leaders in Seed and Series A",
+                    "locationName": "Hamburg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:71525713",
+                        "entityUrn": "urn:li:fs_miniCompany:71525713",
+                        "name": "AI.FUND",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFf9dbpZcfsRQ/company-logo_200_200/company-logo_200_200/0/1631781397052/ai_fund_logo?e=1747872000&v=beta&t=5PNnW2mJukBFxbaodSBEbw_0HvwSkdk02tH6wlVYYPI",
+                        "universalName": "ai-fund",
+                        "dashCompanyUrn": "urn:li:fsd_company:71525713",
+                        "trackingId": "KQp98sKXREG1RvGftVqc2A=="
+                    },
+                    "companyName": "AI.FUND"
+                },
+                {
+                    "title": "Co-Founder",
+                    "description": "AI.Impact leverages human-made intelligence such as AI to create positive social and environmental impact and is an AI service provider in Germany.",
+                    "locationName": "Hamburg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:101309475",
+                        "entityUrn": "urn:li:fs_miniCompany:101309475",
+                        "name": "AI.IMPACT",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEZ5_g1XugVSQ/company-logo_200_200/company-logo_200_200/0/1702474002856/ai_impact_gmbh_logo?e=1747872000&v=beta&t=bVlnLWNH-AzCaow4N-NWKkiSGOVZlbubxCu3R_1Ursc",
+                        "universalName": "ai-impact-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:101309475",
+                        "trackingId": "7ohxRDv0TUSsCF9NwACk/A=="
+                    },
+                    "companyName": "AI.IMPACT"
+                },
+                {
+                    "title": "Co-Founder",
+                    "description": "The AI.STARTUP.HUB Hamburg is an AI Accelerator with an Ideation and Accelerator program, promoting AI ideas and AI startups in the Hamburg metropolitan region and northern Germany. Within the last 2.5 years we accelerated 75 AI startups in the region.",
+                    "locationName": "Hamburg, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:84514697",
+                        "entityUrn": "urn:li:fs_miniCompany:84514697",
+                        "name": "AI.STARTUP.HUB Hamburg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF4ZS6CE5qDyw/company-logo_200_200/company-logo_200_200/0/1649195480519/ai_startup_hub_hamburg_logo?e=1747872000&v=beta&t=2A_cNeSOkWGmfDWrYdj62_QABDw3-y3ITlNy_XtMxzQ",
+                        "universalName": "ai-startup-hub-hamburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:84514697",
+                        "trackingId": "aJ6zkWMQSNKlwOE4gfpKaQ=="
+                    },
+                    "companyName": "AI.STARTUP.HUB Hamburg"
+                },
+                {
+                    "title": "Founder",
+                    "description": "AI for Hamburg is an initiative to accelerate the adoption of AI in companies in Hamburg and create an Ecosystem to support it. Please see our website www.ai.hamburg",
+                    "locationName": "Hamburg",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Nonprofit Organization Management"
+                        ],
+                        "objectUrn": "urn:li:company:37427756",
+                        "entityUrn": "urn:li:fs_miniCompany:37427756",
+                        "name": "AI.HAMBURG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGGe121j3ePCQ/company-logo_200_200/company-logo_200_200/0/1630642336401/ai_hamburg_logo?e=1747872000&v=beta&t=GMfqrBtlPkEtFEMxSJiTgNXlFuSCgeNFUuRYIjgJlDc",
+                        "universalName": "ai-hamburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:37427756",
+                        "trackingId": "RY+cxXEaRxSZwIeDt0cG0w=="
+                    },
+                    "companyName": "AI.HAMBURG (AI for Hamburg GmbH)"
+                },
+                {
+                    "title": "CEO",
+                    "description": "Family Office. Investing in AI companies in Europe and building an AI Eco System.",
+                    "locationName": "Hamburg",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:73844572",
+                        "entityUrn": "urn:li:fs_miniCompany:73844572",
+                        "name": "AI.GROUP",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHCFsXydJ3iQQ/company-logo_200_200/company-logo_200_200/0/1719255475417/ai_invest_hamburg_gmbh_logo?e=1747872000&v=beta&t=9bjyPBInvMiW77XnkHn85JuQFRaz3-BZvoEYgF9mJlo",
+                        "universalName": "ai-group-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:73844572",
+                        "trackingId": "UEuG8ERKSRqPTLGshBs3kQ=="
+                    },
+                    "companyName": "AI.GROUP"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Law",
+                    "schoolName": "Universität Hamburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1986
+                        },
+                        "startDate": {
+                            "year": 1983
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Law",
+                    "schoolName": "Ludwig-Maximilians Universität München",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1983
+                        },
+                        "startDate": {
+                            "year": 1981
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Start-ups",
+                "E-commerce",
+                "New Business Development",
+                "Advertising"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Co-Founder AI.FUND & AI.HAMBURG & AI.GROUP and Co-Founder of AI.STARTUP.HUB & Transatlantic AI eXchange.",
+            "summary": "Serial tech entrepreneur for 35+ years and active AI startup investor. \n\nSpecialties: \n- Excited about Artificial Intelligence (AI) and Machine Learning (ML) and the impact to business & society\n- Founder, CEO & President of successful high-tech companies in Germany and Silicon Valley; \n- Senior Executive of an eCommerce company from startup to IPO; \n- Extensive International Business Alliances in the Internet, Telco and adtech industry.\n- First IT startup with 19.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Hamburg, Hamburg",
+            "geoCountryName": "Germany",
+            "jobTitle": "Founding Partner & Managing Director",
+            "companyName": "AI.FUND",
+            "companyPublicId": "ai-fund",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ai-fund",
+            "following": false,
+            "followable": true,
+            "followersCount": 12734,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "AI.FUND",
+        "position": "Founding Partner & Managing Director",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Venture Capital & Private Equity"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Founding Partner & Managing Director",
+        "organization": "AI.FUND",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/ragnarkruse/",
+        "company": "https://www.linkedin.com/company/ai-fund"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Founding Partner & Managing Director",
+            "description": "Venture Capital Investing in European AI Leaders in Seed and Series A",
+            "locationName": "Hamburg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:71525713",
+                "entityUrn": "urn:li:fs_miniCompany:71525713",
+                "name": "AI.FUND",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFf9dbpZcfsRQ/company-logo_200_200/company-logo_200_200/0/1631781397052/ai_fund_logo?e=1747872000&v=beta&t=5PNnW2mJukBFxbaodSBEbw_0HvwSkdk02tH6wlVYYPI",
+                "universalName": "ai-fund",
+                "dashCompanyUrn": "urn:li:fsd_company:71525713",
+                "trackingId": "KQp98sKXREG1RvGftVqc2A=="
+            },
+            "companyName": "AI.FUND"
+        },
+        {
+            "title": "Co-Founder",
+            "description": "AI.Impact leverages human-made intelligence such as AI to create positive social and environmental impact and is an AI service provider in Germany.",
+            "locationName": "Hamburg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:101309475",
+                "entityUrn": "urn:li:fs_miniCompany:101309475",
+                "name": "AI.IMPACT",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEZ5_g1XugVSQ/company-logo_200_200/company-logo_200_200/0/1702474002856/ai_impact_gmbh_logo?e=1747872000&v=beta&t=bVlnLWNH-AzCaow4N-NWKkiSGOVZlbubxCu3R_1Ursc",
+                "universalName": "ai-impact-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:101309475",
+                "trackingId": "7ohxRDv0TUSsCF9NwACk/A=="
+            },
+            "companyName": "AI.IMPACT"
+        },
+        {
+            "title": "Co-Founder",
+            "description": "The AI.STARTUP.HUB Hamburg is an AI Accelerator with an Ideation and Accelerator program, promoting AI ideas and AI startups in the Hamburg metropolitan region and northern Germany. Within the last 2.5 years we accelerated 75 AI startups in the region.",
+            "locationName": "Hamburg, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:84514697",
+                "entityUrn": "urn:li:fs_miniCompany:84514697",
+                "name": "AI.STARTUP.HUB Hamburg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQF4ZS6CE5qDyw/company-logo_200_200/company-logo_200_200/0/1649195480519/ai_startup_hub_hamburg_logo?e=1747872000&v=beta&t=2A_cNeSOkWGmfDWrYdj62_QABDw3-y3ITlNy_XtMxzQ",
+                "universalName": "ai-startup-hub-hamburg",
+                "dashCompanyUrn": "urn:li:fsd_company:84514697",
+                "trackingId": "aJ6zkWMQSNKlwOE4gfpKaQ=="
+            },
+            "companyName": "AI.STARTUP.HUB Hamburg"
+        },
+        {
+            "title": "Founder",
+            "description": "AI for Hamburg is an initiative to accelerate the adoption of AI in companies in Hamburg and create an Ecosystem to support it. Please see our website www.ai.hamburg",
+            "locationName": "Hamburg",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ],
+                "objectUrn": "urn:li:company:37427756",
+                "entityUrn": "urn:li:fs_miniCompany:37427756",
+                "name": "AI.HAMBURG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGGe121j3ePCQ/company-logo_200_200/company-logo_200_200/0/1630642336401/ai_hamburg_logo?e=1747872000&v=beta&t=GMfqrBtlPkEtFEMxSJiTgNXlFuSCgeNFUuRYIjgJlDc",
+                "universalName": "ai-hamburg",
+                "dashCompanyUrn": "urn:li:fsd_company:37427756",
+                "trackingId": "RY+cxXEaRxSZwIeDt0cG0w=="
+            },
+            "companyName": "AI.HAMBURG (AI for Hamburg GmbH)"
+        },
+        {
+            "title": "CEO",
+            "description": "Family Office. Investing in AI companies in Europe and building an AI Eco System.",
+            "locationName": "Hamburg",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:73844572",
+                "entityUrn": "urn:li:fs_miniCompany:73844572",
+                "name": "AI.GROUP",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHCFsXydJ3iQQ/company-logo_200_200/company-logo_200_200/0/1719255475417/ai_invest_hamburg_gmbh_logo?e=1747872000&v=beta&t=9bjyPBInvMiW77XnkHn85JuQFRaz3-BZvoEYgF9mJlo",
+                "universalName": "ai-group-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:73844572",
+                "trackingId": "UEuG8ERKSRqPTLGshBs3kQ=="
+            },
+            "companyName": "AI.GROUP"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Law",
+            "schoolName": "Universität Hamburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1986
+                },
+                "startDate": {
+                    "year": 1983
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Law",
+            "schoolName": "Ludwig-Maximilians Universität München",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1983
+                },
+                "startDate": {
+                    "year": 1981
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Start-ups",
+        "E-commerce",
+        "New Business Development",
+        "Advertising"
+    ],
+    "lastEnriched": "2025-02-17"
+}

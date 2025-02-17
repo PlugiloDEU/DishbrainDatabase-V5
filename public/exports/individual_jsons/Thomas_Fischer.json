@@ -1,0 +1,501 @@
+{
+    "id": "exp20034489",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Thomas",
+        "lastName": "Fischer",
+        "fullName": "Thomas Fischer",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGpu5-7lwS5jQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729005007652?e=1745452800&v=beta&t=QpFkPmBX4tW4qBQ8dMKBiNK-AOceHiGCSKm82h8ymGA",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Dutch",
+            "English",
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "20034489",
+            "profileId": "ACoAAAExs7kBqNgIJFSorOIDJfL_o524RSJSZdU",
+            "firstName": "Thomas",
+            "lastName": "Fischer",
+            "occupation": "Professor, University of Liverpool, PhD, FIEMA, FHEA, Director WHO Collaborating Centre on Health in Impact Assessments Partner, Global Impact Assessment",
+            "publicIdentifier": "thomas-fischer-0498626",
+            "trackingId": "xj4YiaBtSXiRa5ZPTSu5fw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGpu5-7lwS5jQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1729005007652?e=1745452800&v=beta&t=QpFkPmBX4tW4qBQ8dMKBiNK-AOceHiGCSKm82h8ymGA",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4D16AQEIx_hYXep44Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1729005223318?e=1745452800&v=beta&t=EFApueNcmVeKERVJ1sWAZ7m7L8dX2_WBtuoWyhLozL8",
+            "countryCode": "gb",
+            "geoUrn": "urn:li:fs_geo:90009495",
+            "positions": [
+                {
+                    "title": "Partner",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:94291400",
+                        "entityUrn": "urn:li:fs_miniCompany:94291400",
+                        "name": "Global Impact Assessment",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF8_rPJpQfv5Q/company-logo_200_200/company-logo_200_200/0/1727914952256/global_impact_assessment_logo?e=1747872000&v=beta&t=dDW-VB1FhrnuWKOzj5uQd7yFdsqwA0UbCjPKb9w-3RE",
+                        "universalName": "global-impact-assessment",
+                        "dashCompanyUrn": "urn:li:fsd_company:94291400",
+                        "trackingId": "DvltcA6nTFOHE7ks4nI01w=="
+                    },
+                    "companyName": "Global Impact Assessment"
+                },
+                {
+                    "title": "Professor",
+                    "description": "Professor for Impact Assessment; Director Environmental Assessment and Management Research Centre",
+                    "locationName": "Liverpool, United Kingdom",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2002
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:9665",
+                        "entityUrn": "urn:li:fs_miniCompany:9665",
+                        "name": "University of Liverpool",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFL-SYrO-gEuQ/company-logo_200_200/company-logo_200_200/0/1738584327944/university_of_liverpool_logo?e=1747872000&v=beta&t=OBZ6MFZ6qrx1vpu1nSE1D3ji_oaO_vT-BBtO7jytQsU",
+                        "universalName": "university-of-liverpool",
+                        "dashCompanyUrn": "urn:li:fsd_company:9665",
+                        "trackingId": "Ntx1Kq+rSAivOAYeg1al2g=="
+                    },
+                    "companyName": "University of Liverpool"
+                },
+                {
+                    "title": "Extraordinary Professor",
+                    "locationName": "South Africa",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15103459",
+                        "entityUrn": "urn:li:fs_miniCompany:15103459",
+                        "name": "North-West University / Noordwes-Universiteit",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHCn2hDxqYW2A/company-logo_200_200/company-logo_200_200/0/1708938123802/northwestuniversity_logo?e=1747872000&v=beta&t=gIE2LHzawwBR9NZgQy32e3DuPFgO6ilpPNBQHntJGus",
+                        "universalName": "northwestuniversity",
+                        "dashCompanyUrn": "urn:li:fsd_company:15103459",
+                        "trackingId": "VFglzNEeRNq2tlMT18Po6A=="
+                    },
+                    "companyName": "North West University Potchefstroom Campus"
+                },
+                {
+                    "title": "Visiting Professor",
+                    "locationName": "Thailand",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1302865",
+                        "entityUrn": "urn:li:fs_miniCompany:1302865",
+                        "name": "Suranaree University of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "suranaree-university-of-technology",
+                        "dashCompanyUrn": "urn:li:fsd_company:1302865",
+                        "trackingId": "IRF6l2SDS8KHq+zFpauZeg=="
+                    },
+                    "companyName": "Suranaree University of Technology"
+                },
+                {
+                    "title": "Visiting Professor",
+                    "description": "Research Center for Strategic Environmental Assessment",
+                    "locationName": "Tianjin, China",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1353655",
+                        "entityUrn": "urn:li:fs_miniCompany:1353655",
+                        "name": "Nankai University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQEYQAG1C7xuVg/company-logo_200_200/company-logo_200_200/0/1631304653706?e=1747872000&v=beta&t=uU9O8witVG6K2-uN2H31DXD6rz3z6MMJEbdQo-3KN4E",
+                        "universalName": "nankai-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:1353655",
+                        "trackingId": "3wT4eB2JTF+lFnK+IqXiKA=="
+                    },
+                    "companyName": "Nankai University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Strategic environmental assessment",
+                    "schoolName": "The University of Manchester",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1996
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Dipl.-Geogr.",
+                    "fieldOfStudy": "Geography",
+                    "schoolName": "Freie Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1990
+                        },
+                        "startDate": {
+                            "year": 1986
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Geography",
+                    "schoolName": "Universite Louis Pasteur",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1989
+                        },
+                        "startDate": {
+                            "year": 1989
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Dutch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "strategic environmental assessment",
+                "Transportation Planning",
+                "Sustainable Development",
+                "Environmental Impact Assessment"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor, University of Liverpool, PhD, FIEMA, FHEA, Director WHO Collaborating Centre on Health in Impact Assessments\nPartner, Global Impact Assessment ",
+            "summary": "I am working on advancing environmentally sustainable spatial, transport, energy, waste and other sectoral policy and plan making through Strategic Environmental Assessment, Sustainability Appraisal, Integrated Appraisal, Environmental Impact Assessment, Health Impact Assessment and others. I have published over 120 papers in refereed journals on the topic, along with 12 books, over 40 book chapters, over 200 conference papers and numerous project reports and monographs. I have been involved in a range of research and consultancy projects and I was editor-in-chief of the Journal of Environmental Assessment Policy and management from 2009 to 2016 and of Impact Assessment and Project Appraisal from 2016-2023. I am a Fellow of IEMA, Director of the WHO Collaborating Centre for Health in Impact Assessments and chair of the International Association for Impact Assessment (IAIA) academics section. You can find my full cv here: https://www.researchgate.net/publication/378747157_completeCVTBFischer060324 \n\nSpecialties: Ex-ante Impact Assessments",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Greater Liverpool Area",
+            "geoCountryName": "United Kingdom",
+            "jobTitle": "Partner",
+            "companyName": "Global Impact Assessment",
+            "companyPublicId": "global-impact-assessment",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/global-impact-assessment",
+            "following": false,
+            "followable": true,
+            "followersCount": 3204,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Global Impact Assessment",
+        "position": "Partner",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Management Consulting"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Partner",
+        "organization": "Global Impact Assessment",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/thomas-fischer-0498626/",
+        "company": "https://www.linkedin.com/company/global-impact-assessment"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Partner",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:94291400",
+                "entityUrn": "urn:li:fs_miniCompany:94291400",
+                "name": "Global Impact Assessment",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQF8_rPJpQfv5Q/company-logo_200_200/company-logo_200_200/0/1727914952256/global_impact_assessment_logo?e=1747872000&v=beta&t=dDW-VB1FhrnuWKOzj5uQd7yFdsqwA0UbCjPKb9w-3RE",
+                "universalName": "global-impact-assessment",
+                "dashCompanyUrn": "urn:li:fsd_company:94291400",
+                "trackingId": "DvltcA6nTFOHE7ks4nI01w=="
+            },
+            "companyName": "Global Impact Assessment"
+        },
+        {
+            "title": "Professor",
+            "description": "Professor for Impact Assessment; Director Environmental Assessment and Management Research Centre",
+            "locationName": "Liverpool, United Kingdom",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2002
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:9665",
+                "entityUrn": "urn:li:fs_miniCompany:9665",
+                "name": "University of Liverpool",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFL-SYrO-gEuQ/company-logo_200_200/company-logo_200_200/0/1738584327944/university_of_liverpool_logo?e=1747872000&v=beta&t=OBZ6MFZ6qrx1vpu1nSE1D3ji_oaO_vT-BBtO7jytQsU",
+                "universalName": "university-of-liverpool",
+                "dashCompanyUrn": "urn:li:fsd_company:9665",
+                "trackingId": "Ntx1Kq+rSAivOAYeg1al2g=="
+            },
+            "companyName": "University of Liverpool"
+        },
+        {
+            "title": "Extraordinary Professor",
+            "locationName": "South Africa",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15103459",
+                "entityUrn": "urn:li:fs_miniCompany:15103459",
+                "name": "North-West University / Noordwes-Universiteit",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQHCn2hDxqYW2A/company-logo_200_200/company-logo_200_200/0/1708938123802/northwestuniversity_logo?e=1747872000&v=beta&t=gIE2LHzawwBR9NZgQy32e3DuPFgO6ilpPNBQHntJGus",
+                "universalName": "northwestuniversity",
+                "dashCompanyUrn": "urn:li:fsd_company:15103459",
+                "trackingId": "VFglzNEeRNq2tlMT18Po6A=="
+            },
+            "companyName": "North West University Potchefstroom Campus"
+        },
+        {
+            "title": "Visiting Professor",
+            "locationName": "Thailand",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1302865",
+                "entityUrn": "urn:li:fs_miniCompany:1302865",
+                "name": "Suranaree University of Technology",
+                "showcase": false,
+                "active": true,
+                "universalName": "suranaree-university-of-technology",
+                "dashCompanyUrn": "urn:li:fsd_company:1302865",
+                "trackingId": "IRF6l2SDS8KHq+zFpauZeg=="
+            },
+            "companyName": "Suranaree University of Technology"
+        },
+        {
+            "title": "Visiting Professor",
+            "description": "Research Center for Strategic Environmental Assessment",
+            "locationName": "Tianjin, China",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1353655",
+                "entityUrn": "urn:li:fs_miniCompany:1353655",
+                "name": "Nankai University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQEYQAG1C7xuVg/company-logo_200_200/company-logo_200_200/0/1631304653706?e=1747872000&v=beta&t=uU9O8witVG6K2-uN2H31DXD6rz3z6MMJEbdQo-3KN4E",
+                "universalName": "nankai-university",
+                "dashCompanyUrn": "urn:li:fsd_company:1353655",
+                "trackingId": "3wT4eB2JTF+lFnK+IqXiKA=="
+            },
+            "companyName": "Nankai University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Strategic environmental assessment",
+            "schoolName": "The University of Manchester",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1996
+                }
+            }
+        },
+        {
+            "degreeName": "Dipl.-Geogr.",
+            "fieldOfStudy": "Geography",
+            "schoolName": "Freie Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1990
+                },
+                "startDate": {
+                    "year": 1986
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Geography",
+            "schoolName": "Universite Louis Pasteur",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1989
+                },
+                "startDate": {
+                    "year": 1989
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "strategic environmental assessment",
+        "Transportation Planning",
+        "Sustainable Development",
+        "Environmental Impact Assessment"
+    ],
+    "lastEnriched": "2025-02-17"
+}

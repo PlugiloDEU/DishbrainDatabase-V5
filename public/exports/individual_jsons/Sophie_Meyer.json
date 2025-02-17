@@ -1,0 +1,482 @@
+{
+    "id": "exp683928955",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sophie",
+        "lastName": "Meyer",
+        "fullName": "Sophie Meyer",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFcDYQ_F1OJhg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728323567001?e=1745452800&v=beta&t=Poy2Zp8ddE4dnhJ2Esq02iswJB8LGNc6ttagVGVArBI",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "683928955",
+            "profileId": "ACoAACjD7XsBrZ0VP8jc28UmKcwtNPB_ENtOOaE",
+            "firstName": "Sophie",
+            "lastName": "Meyer",
+            "occupation": "Executive Operations | Building a low-carbon future at Sublime Systems",
+            "publicIdentifier": "sophie-meyer-277068171",
+            "trackingId": "FeLLyoBtRhyWbYj0VNZG2g==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFcDYQ_F1OJhg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1728323567001?e=1745452800&v=beta&t=Poy2Zp8ddE4dnhJ2Esq02iswJB8LGNc6ttagVGVArBI",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEFfXcQ7J6kxg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1701292104524?e=1745452800&v=beta&t=pBHKE2IcHFP1ssraU5bMEUvi2SylSc9JiZc8xzavpg0",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102380872",
+            "positions": [
+                {
+                    "title": "Executive Operations Manager",
+                    "locationName": "Somerville, Massachusetts, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Consumer Goods"
+                        ],
+                        "objectUrn": "urn:li:company:65467192",
+                        "entityUrn": "urn:li:fs_miniCompany:65467192",
+                        "name": "Sublime Systems",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG6b61rLARgMQ/company-logo_200_200/company-logo_200_200/0/1670428791570/sublime_cement_logo?e=1747872000&v=beta&t=4sTRJrcIRi6H2LvGB7h_DkVlpYXQNiNG89xV4OGGWUs",
+                        "universalName": "sublime-cement",
+                        "dashCompanyUrn": "urn:li:fsd_company:65467192",
+                        "trackingId": "qjQxk46DRjW5PV4hn4tCsg=="
+                    },
+                    "companyName": "Sublime Systems"
+                },
+                {
+                    "title": "Alumni Association Board of Directors",
+                    "description": "Alumni Association Career Committee | Alumni Association board representative on the University of Vermont's Board of Trustees Budget, Finance, and Investment Committee",
+                    "locationName": "Burlington, Vermont, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:51719063",
+                        "entityUrn": "urn:li:fs_miniCompany:51719063",
+                        "name": "University of Vermont Foundation & Alumni Association",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEv35j-4jPWjg/company-logo_200_200/company-logo_200_200/0/1719929047589/uvmfoundation_logo?e=1747872000&v=beta&t=by8lHjpVcS8DeZNnQDtqNVUwmHw-dyLGrzaEcuguRdg",
+                        "universalName": "uvmfoundation",
+                        "dashCompanyUrn": "urn:li:fsd_company:51719063",
+                        "trackingId": "9MRExmt/QgmyNIA/HZLNDQ=="
+                    },
+                    "companyName": "University of Vermont Foundation & Alumni Association"
+                },
+                {
+                    "title": "Platform Coordinator",
+                    "locationName": "Cambridge, Massachusetts, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:98897399",
+                        "entityUrn": "urn:li:fs_miniCompany:98897399",
+                        "name": "Engine Ventures",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHj3ffAnsUPcQ/company-logo_200_200/company-logo_200_200/0/1696119859982/engine_ventures_logo?e=1747872000&v=beta&t=K-5Tw25rAx1Fe661MY6C2KDWwOGzCWng0JoV-T9pUOk",
+                        "universalName": "engine-ventures",
+                        "dashCompanyUrn": "urn:li:fsd_company:98897399",
+                        "trackingId": "iLvxVMhtRuOh5frpVYrffw=="
+                    },
+                    "companyName": "Engine Ventures"
+                },
+                {
+                    "title": "Executive Coordinator",
+                    "locationName": "Cambridge, Massachusetts, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:98897399",
+                        "entityUrn": "urn:li:fs_miniCompany:98897399",
+                        "name": "Engine Ventures",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHj3ffAnsUPcQ/company-logo_200_200/company-logo_200_200/0/1696119859982/engine_ventures_logo?e=1747872000&v=beta&t=K-5Tw25rAx1Fe661MY6C2KDWwOGzCWng0JoV-T9pUOk",
+                        "universalName": "engine-ventures",
+                        "dashCompanyUrn": "urn:li:fsd_company:98897399",
+                        "trackingId": "BhsLwSwtRiWpvs+LGsalbw=="
+                    },
+                    "companyName": "Engine Ventures"
+                },
+                {
+                    "title": "Clubhouse Associate",
+                    "locationName": "Waterbury, Vermont, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Recreational Facilities and Services"
+                        ],
+                        "objectUrn": "urn:li:company:6054100",
+                        "entityUrn": "urn:li:fs_miniCompany:6054100",
+                        "name": "Country Club Of Vermont",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFLvOHKf1-XLg/company-logo_200_200/company-logo_200_200/0/1630540145105/country_club_of_vermont_logo?e=1747872000&v=beta&t=1kUdbJcbpUS1YQU7me-fcUsEL04CLHlDXz4ET4exirk",
+                        "universalName": "country-club-of-vermont",
+                        "dashCompanyUrn": "urn:li:fsd_company:6054100",
+                        "trackingId": "BD9gMQhKTNSPsWyp3mBvqA=="
+                    },
+                    "companyName": "Country Club Of Vermont"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Environmental Studies, Psychological Science, Behavior Change",
+                    "schoolName": "University of Vermont"
+                },
+                {
+                    "fieldOfStudy": "Natural Resources and Conservation, Biogeography",
+                    "schoolName": "Auckland University of Technology"
+                },
+                {
+                    "fieldOfStudy": "Marine Sciences, Outdoor Leadership, Ecology",
+                    "schoolName": "The Island School"
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "PADI Advanced Open Water Diver",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2016
+                        }
+                    },
+                    "authority": "PADI"
+                },
+                {
+                    "name": "Core Comprehensive",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "Training The Street"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Financial Modeling",
+                "Financial Analysis",
+                "Microsoft Excel"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Executive Operations | Building a low-carbon future at Sublime Systems",
+            "summary": "Motivated by tangible climate action in redefining economies and age-old industries. Experience in VC, fundraising, operations, project management, and market research. Strong analytical skills for data-driven insights and a background in working across diverse industries and stakeholders.",
+            "student": false,
+            "industryName": "Renewables & Environment",
+            "industryUrn": "urn:li:fs_industry:144",
+            "geoLocationName": "Boston, Massachusetts",
+            "geoCountryName": "United States",
+            "jobTitle": "Executive Operations Manager",
+            "companyName": "Sublime Systems",
+            "companyPublicId": "sublime-cement",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/sublime-cement",
+            "following": false,
+            "followable": true,
+            "followersCount": 1068,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Sublime Systems",
+        "position": "Executive Operations Manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Consumer Goods"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Executive Operations Manager",
+        "organization": "Sublime Systems",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sophie-meyer-277068171/",
+        "company": "https://www.linkedin.com/company/sublime-cement"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Executive Operations Manager",
+            "locationName": "Somerville, Massachusetts, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Consumer Goods"
+                ],
+                "objectUrn": "urn:li:company:65467192",
+                "entityUrn": "urn:li:fs_miniCompany:65467192",
+                "name": "Sublime Systems",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQG6b61rLARgMQ/company-logo_200_200/company-logo_200_200/0/1670428791570/sublime_cement_logo?e=1747872000&v=beta&t=4sTRJrcIRi6H2LvGB7h_DkVlpYXQNiNG89xV4OGGWUs",
+                "universalName": "sublime-cement",
+                "dashCompanyUrn": "urn:li:fsd_company:65467192",
+                "trackingId": "qjQxk46DRjW5PV4hn4tCsg=="
+            },
+            "companyName": "Sublime Systems"
+        },
+        {
+            "title": "Alumni Association Board of Directors",
+            "description": "Alumni Association Career Committee | Alumni Association board representative on the University of Vermont's Board of Trustees Budget, Finance, and Investment Committee",
+            "locationName": "Burlington, Vermont, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:51719063",
+                "entityUrn": "urn:li:fs_miniCompany:51719063",
+                "name": "University of Vermont Foundation & Alumni Association",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEv35j-4jPWjg/company-logo_200_200/company-logo_200_200/0/1719929047589/uvmfoundation_logo?e=1747872000&v=beta&t=by8lHjpVcS8DeZNnQDtqNVUwmHw-dyLGrzaEcuguRdg",
+                "universalName": "uvmfoundation",
+                "dashCompanyUrn": "urn:li:fsd_company:51719063",
+                "trackingId": "9MRExmt/QgmyNIA/HZLNDQ=="
+            },
+            "companyName": "University of Vermont Foundation & Alumni Association"
+        },
+        {
+            "title": "Platform Coordinator",
+            "locationName": "Cambridge, Massachusetts, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:98897399",
+                "entityUrn": "urn:li:fs_miniCompany:98897399",
+                "name": "Engine Ventures",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHj3ffAnsUPcQ/company-logo_200_200/company-logo_200_200/0/1696119859982/engine_ventures_logo?e=1747872000&v=beta&t=K-5Tw25rAx1Fe661MY6C2KDWwOGzCWng0JoV-T9pUOk",
+                "universalName": "engine-ventures",
+                "dashCompanyUrn": "urn:li:fsd_company:98897399",
+                "trackingId": "iLvxVMhtRuOh5frpVYrffw=="
+            },
+            "companyName": "Engine Ventures"
+        },
+        {
+            "title": "Executive Coordinator",
+            "locationName": "Cambridge, Massachusetts, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:98897399",
+                "entityUrn": "urn:li:fs_miniCompany:98897399",
+                "name": "Engine Ventures",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHj3ffAnsUPcQ/company-logo_200_200/company-logo_200_200/0/1696119859982/engine_ventures_logo?e=1747872000&v=beta&t=K-5Tw25rAx1Fe661MY6C2KDWwOGzCWng0JoV-T9pUOk",
+                "universalName": "engine-ventures",
+                "dashCompanyUrn": "urn:li:fsd_company:98897399",
+                "trackingId": "BhsLwSwtRiWpvs+LGsalbw=="
+            },
+            "companyName": "Engine Ventures"
+        },
+        {
+            "title": "Clubhouse Associate",
+            "locationName": "Waterbury, Vermont, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Recreational Facilities and Services"
+                ],
+                "objectUrn": "urn:li:company:6054100",
+                "entityUrn": "urn:li:fs_miniCompany:6054100",
+                "name": "Country Club Of Vermont",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFLvOHKf1-XLg/company-logo_200_200/company-logo_200_200/0/1630540145105/country_club_of_vermont_logo?e=1747872000&v=beta&t=1kUdbJcbpUS1YQU7me-fcUsEL04CLHlDXz4ET4exirk",
+                "universalName": "country-club-of-vermont",
+                "dashCompanyUrn": "urn:li:fsd_company:6054100",
+                "trackingId": "BD9gMQhKTNSPsWyp3mBvqA=="
+            },
+            "companyName": "Country Club Of Vermont"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Environmental Studies, Psychological Science, Behavior Change",
+            "schoolName": "University of Vermont"
+        },
+        {
+            "fieldOfStudy": "Natural Resources and Conservation, Biogeography",
+            "schoolName": "Auckland University of Technology"
+        },
+        {
+            "fieldOfStudy": "Marine Sciences, Outdoor Leadership, Ecology",
+            "schoolName": "The Island School"
+        }
+    ],
+    "certifications": [
+        {
+            "name": "PADI Advanced Open Water Diver",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2016
+                }
+            },
+            "authority": "PADI"
+        },
+        {
+            "name": "Core Comprehensive",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2024
+                }
+            },
+            "authority": "Training The Street"
+        }
+    ],
+    "skills": [
+        "Financial Modeling",
+        "Financial Analysis",
+        "Microsoft Excel"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,512 @@
+{
+    "id": "exp1198595748",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Johannes ",
+        "lastName": "Keller",
+        "fullName": "Johannes  Keller",
+        "image": "https://media.licdn.com/dms/image/v2/D4E35AQGN9lAPPwGz6g/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1696979057451?e=1740358800&v=beta&t=YYpMHW8uPv3kfNdIvj7kaap46RDZaD01z_1ZRSMlhe0",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "1198595748",
+            "profileId": "ACoAAEdxHqQBUBrwlemcUimI3pDZ9QzjYnoN-Qw",
+            "firstName": "Johannes ",
+            "lastName": "Keller",
+            "occupation": "Senior at Principia College, Biology (B.S.) & Business Administration",
+            "publicIdentifier": "johannes-keller-",
+            "trackingId": "gnEq3nsjTAGtIQK9Y8WW8w==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E35AQGN9lAPPwGz6g/profile-framedphoto-shrink_400_400/profile-framedphoto-shrink_400_400/0/1696979057451?e=1740358800&v=beta&t=YYpMHW8uPv3kfNdIvj7kaap46RDZaD01z_1ZRSMlhe0",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102789007",
+            "positions": [
+                {
+                    "title": "Undergraduate Teaching Assistant (Genetics)",
+                    "locationName": "Elsah, Illinois, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:23347",
+                        "entityUrn": "urn:li:fs_miniCompany:23347",
+                        "name": "Principia College",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQH7s5yPg_YSqA/company-logo_200_200/company-logo_200_200/0/1630622873064/principia_college_logo?e=1747872000&v=beta&t=HfUPs89odRxt9jSvid7xSi0v9oliBsVRO5D7poWCFNE",
+                        "universalName": "principiacollege",
+                        "dashCompanyUrn": "urn:li:fsd_company:23347",
+                        "trackingId": "JAmGbPMCSmKRKy6SCs+nyA=="
+                    },
+                    "companyName": "Principia College"
+                },
+                {
+                    "title": "Forestry Intern Manager",
+                    "description": "Forestry Intern Manager working at Adventure Unlimited in charge of managing other interns while working on a Forest restoration project.\nWorking on projects such as the Forest restoration grants, pasture management, and GIS mapping for several projects.",
+                    "locationName": "Buena Vista, Colorado, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Civic & Social Organization"
+                        ],
+                        "objectUrn": "urn:li:company:45772",
+                        "entityUrn": "urn:li:fs_miniCompany:45772",
+                        "name": "Adventure Unlimited",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGnNhrd2DRclQ/company-logo_200_200/company-logo_200_200/0/1630565057951/adventure_unlimited_logo?e=1747872000&v=beta&t=MqlMPltTMp7ZCOiKa6Ig4W4yALrV2zZwvbVayZPYkbE",
+                        "universalName": "adventure-unlimited",
+                        "dashCompanyUrn": "urn:li:fsd_company:45772",
+                        "trackingId": "2SQnXWYrSaOWGp6z4LJ3wg=="
+                    },
+                    "companyName": "Adventure Unlimited"
+                },
+                {
+                    "title": "Forestry Intern",
+                    "description": "Forestry Intern working on Forest restoration project at Adventure Unlimited.",
+                    "locationName": "Buena Vista, Colorado, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Civic & Social Organization"
+                        ],
+                        "objectUrn": "urn:li:company:45772",
+                        "entityUrn": "urn:li:fs_miniCompany:45772",
+                        "name": "Adventure Unlimited",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGnNhrd2DRclQ/company-logo_200_200/company-logo_200_200/0/1630565057951/adventure_unlimited_logo?e=1747872000&v=beta&t=MqlMPltTMp7ZCOiKa6Ig4W4yALrV2zZwvbVayZPYkbE",
+                        "universalName": "adventure-unlimited",
+                        "dashCompanyUrn": "urn:li:fsd_company:45772",
+                        "trackingId": "l+ydYXzYREmqvpcPwjXaIQ=="
+                    },
+                    "companyName": "Adventure Unlimited"
+                },
+                {
+                    "title": "Forestry Intern ",
+                    "description": "Forestry Intern working on the forest restoration project at Adventure Unlimited.",
+                    "locationName": "Buena Vista, Colorado, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Civic & Social Organization"
+                        ],
+                        "objectUrn": "urn:li:company:45772",
+                        "entityUrn": "urn:li:fs_miniCompany:45772",
+                        "name": "Adventure Unlimited",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGnNhrd2DRclQ/company-logo_200_200/company-logo_200_200/0/1630565057951/adventure_unlimited_logo?e=1747872000&v=beta&t=MqlMPltTMp7ZCOiKa6Ig4W4yALrV2zZwvbVayZPYkbE",
+                        "universalName": "adventure-unlimited",
+                        "dashCompanyUrn": "urn:li:fsd_company:45772",
+                        "trackingId": "MmSyFPLKQ8WC40al4cSj2Q=="
+                    },
+                    "companyName": "Adventure Unlimited"
+                },
+                {
+                    "title": "Forestry Intern",
+                    "description": "Forestry Intern at Adventure Unlimited working on forest restoration project.",
+                    "locationName": "Buena Vista, Colorado, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Civic & Social Organization"
+                        ],
+                        "objectUrn": "urn:li:company:45772",
+                        "entityUrn": "urn:li:fs_miniCompany:45772",
+                        "name": "Adventure Unlimited",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGnNhrd2DRclQ/company-logo_200_200/company-logo_200_200/0/1630565057951/adventure_unlimited_logo?e=1747872000&v=beta&t=MqlMPltTMp7ZCOiKa6Ig4W4yALrV2zZwvbVayZPYkbE",
+                        "universalName": "adventure-unlimited",
+                        "dashCompanyUrn": "urn:li:fsd_company:45772",
+                        "trackingId": "wTJnj5j9QAapx17wvSYJQA=="
+                    },
+                    "companyName": "Adventure Unlimited"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Science - BS",
+                    "fieldOfStudy": "Biology",
+                    "schoolName": "Principia College",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor's degree",
+                    "fieldOfStudy": "Business ",
+                    "schoolName": "Principia College",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2020
+                        }
+                    }
+                },
+                {
+                    "schoolName": "Principia College",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "year": 2020
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Soil Sampling",
+                "Soil",
+                "Sampling",
+                "Field Technicians"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Senior at Principia College, Biology (B.S.) & Business Administration",
+            "student": false,
+            "industryName": "Biotechnology",
+            "industryUrn": "urn:li:fs_industry:12",
+            "geoLocationName": "Elsah, Illinois",
+            "geoCountryName": "United States",
+            "jobTitle": "Undergraduate Teaching Assistant (Genetics)",
+            "companyName": "Principia College",
+            "companyPublicId": "principiacollege",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/principiacollege",
+            "following": false,
+            "followable": true,
+            "followersCount": 293,
+            "connectionsCount": 293,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Principia College",
+        "position": "Undergraduate Teaching Assistant (Genetics)",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Undergraduate Teaching Assistant (Genetics)",
+        "organization": "Principia College",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/johannes-keller-/",
+        "company": "https://www.linkedin.com/company/principiacollege"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Undergraduate Teaching Assistant (Genetics)",
+            "locationName": "Elsah, Illinois, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:23347",
+                "entityUrn": "urn:li:fs_miniCompany:23347",
+                "name": "Principia College",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQH7s5yPg_YSqA/company-logo_200_200/company-logo_200_200/0/1630622873064/principia_college_logo?e=1747872000&v=beta&t=HfUPs89odRxt9jSvid7xSi0v9oliBsVRO5D7poWCFNE",
+                "universalName": "principiacollege",
+                "dashCompanyUrn": "urn:li:fsd_company:23347",
+                "trackingId": "JAmGbPMCSmKRKy6SCs+nyA=="
+            },
+            "companyName": "Principia College"
+        },
+        {
+            "title": "Forestry Intern Manager",
+            "description": "Forestry Intern Manager working at Adventure Unlimited in charge of managing other interns while working on a Forest restoration project.\nWorking on projects such as the Forest restoration grants, pasture management, and GIS mapping for several projects.",
+            "locationName": "Buena Vista, Colorado, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Civic & Social Organization"
+                ],
+                "objectUrn": "urn:li:company:45772",
+                "entityUrn": "urn:li:fs_miniCompany:45772",
+                "name": "Adventure Unlimited",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGnNhrd2DRclQ/company-logo_200_200/company-logo_200_200/0/1630565057951/adventure_unlimited_logo?e=1747872000&v=beta&t=MqlMPltTMp7ZCOiKa6Ig4W4yALrV2zZwvbVayZPYkbE",
+                "universalName": "adventure-unlimited",
+                "dashCompanyUrn": "urn:li:fsd_company:45772",
+                "trackingId": "2SQnXWYrSaOWGp6z4LJ3wg=="
+            },
+            "companyName": "Adventure Unlimited"
+        },
+        {
+            "title": "Forestry Intern",
+            "description": "Forestry Intern working on Forest restoration project at Adventure Unlimited.",
+            "locationName": "Buena Vista, Colorado, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Civic & Social Organization"
+                ],
+                "objectUrn": "urn:li:company:45772",
+                "entityUrn": "urn:li:fs_miniCompany:45772",
+                "name": "Adventure Unlimited",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGnNhrd2DRclQ/company-logo_200_200/company-logo_200_200/0/1630565057951/adventure_unlimited_logo?e=1747872000&v=beta&t=MqlMPltTMp7ZCOiKa6Ig4W4yALrV2zZwvbVayZPYkbE",
+                "universalName": "adventure-unlimited",
+                "dashCompanyUrn": "urn:li:fsd_company:45772",
+                "trackingId": "l+ydYXzYREmqvpcPwjXaIQ=="
+            },
+            "companyName": "Adventure Unlimited"
+        },
+        {
+            "title": "Forestry Intern ",
+            "description": "Forestry Intern working on the forest restoration project at Adventure Unlimited.",
+            "locationName": "Buena Vista, Colorado, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Civic & Social Organization"
+                ],
+                "objectUrn": "urn:li:company:45772",
+                "entityUrn": "urn:li:fs_miniCompany:45772",
+                "name": "Adventure Unlimited",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGnNhrd2DRclQ/company-logo_200_200/company-logo_200_200/0/1630565057951/adventure_unlimited_logo?e=1747872000&v=beta&t=MqlMPltTMp7ZCOiKa6Ig4W4yALrV2zZwvbVayZPYkbE",
+                "universalName": "adventure-unlimited",
+                "dashCompanyUrn": "urn:li:fsd_company:45772",
+                "trackingId": "MmSyFPLKQ8WC40al4cSj2Q=="
+            },
+            "companyName": "Adventure Unlimited"
+        },
+        {
+            "title": "Forestry Intern",
+            "description": "Forestry Intern at Adventure Unlimited working on forest restoration project.",
+            "locationName": "Buena Vista, Colorado, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Civic & Social Organization"
+                ],
+                "objectUrn": "urn:li:company:45772",
+                "entityUrn": "urn:li:fs_miniCompany:45772",
+                "name": "Adventure Unlimited",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGnNhrd2DRclQ/company-logo_200_200/company-logo_200_200/0/1630565057951/adventure_unlimited_logo?e=1747872000&v=beta&t=MqlMPltTMp7ZCOiKa6Ig4W4yALrV2zZwvbVayZPYkbE",
+                "universalName": "adventure-unlimited",
+                "dashCompanyUrn": "urn:li:fsd_company:45772",
+                "trackingId": "wTJnj5j9QAapx17wvSYJQA=="
+            },
+            "companyName": "Adventure Unlimited"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Science - BS",
+            "fieldOfStudy": "Biology",
+            "schoolName": "Principia College",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor's degree",
+            "fieldOfStudy": "Business ",
+            "schoolName": "Principia College",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            }
+        },
+        {
+            "schoolName": "Principia College",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2024
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Soil Sampling",
+        "Soil",
+        "Sampling",
+        "Field Technicians"
+    ],
+    "lastEnriched": "2025-02-17"
+}

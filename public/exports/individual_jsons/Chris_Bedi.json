@@ -1,0 +1,427 @@
+{
+    "id": "exp889864",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Chris",
+        "lastName": "Bedi",
+        "fullName": "Chris Bedi",
+        "image": "https://media.licdn.com/dms/image/v2/C4E03AQGlP5zsW0BU_g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1559861679953?e=1745452800&v=beta&t=_rzXdJhWiRD9y5PEW3ckb9EDeJIlUnaUbkKLP2LsLrc",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Hindi"
+        ],
+        "allData": {
+            "id": "889864",
+            "profileId": "ACoAAAANlAgBxu44CQlHlmg3o0jTGcOJLCk7YFY",
+            "firstName": "Chris",
+            "lastName": "Bedi",
+            "occupation": "Chief Customer Officer at ServiceNow",
+            "publicIdentifier": "cbedi",
+            "trackingId": "V4ZVABrVRVephuzBGox8Ew==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4E03AQGlP5zsW0BU_g/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1559861679953?e=1745452800&v=beta&t=_rzXdJhWiRD9y5PEW3ckb9EDeJIlUnaUbkKLP2LsLrc",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQGCXC62TnW57Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1643068959748?e=1745452800&v=beta&t=zkPeH9pe4zTDjQLyqs1VzDqy5CdIwVYH00PXrVR84vw",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:107180219",
+            "positions": [
+                {
+                    "title": "Chief Customer Officer",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:29352",
+                        "entityUrn": "urn:li:fs_miniCompany:29352",
+                        "name": "ServiceNow",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEuzVBzTq8wqA/company-logo_200_200/company-logo_200_200/0/1642492124118/servicenow_logo?e=1747872000&v=beta&t=Yl0gk_rCBK_mCmFJkZFeEGcSbB6FARoptG7yBMub56g",
+                        "universalName": "servicenow",
+                        "dashCompanyUrn": "urn:li:fsd_company:29352",
+                        "trackingId": "EU7qujIaRoSVicn1zAmV1g=="
+                    },
+                    "companyName": "ServiceNow"
+                },
+                {
+                    "title": "CxO Advisory Board",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:39208",
+                        "entityUrn": "urn:li:fs_miniCompany:39208",
+                        "name": "Menlo Ventures",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQG0E40zOGFlFw/company-logo_200_200/company-logo_200_200/0/1630593540163/menlo_ventures_logo?e=1747872000&v=beta&t=3eY7H9AHsE-jNehTSWhxoD3VTW110BVK-WroTaQ1GUY",
+                        "universalName": "menlo-ventures",
+                        "dashCompanyUrn": "urn:li:fsd_company:39208",
+                        "trackingId": "taZC5fUNRB60yqymD3ahqw=="
+                    },
+                    "companyName": "Menlo Ventures"
+                },
+                {
+                    "title": "Technology Advisory Committee",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Venture Capital & Private Equity"
+                        ],
+                        "objectUrn": "urn:li:company:2009112",
+                        "entityUrn": "urn:li:fs_miniCompany:2009112",
+                        "name": "Glilot Capital Partners",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHuD_P5JgmmUg/company-logo_200_200/company-logo_200_200/0/1656934223409/glilot_capital_partners_logo?e=1747872000&v=beta&t=wi3SVBfo83tdZM7nu8cVRj6TlXo0UY-1g7TIWZFl-lE",
+                        "universalName": "glilot-capital-partners",
+                        "dashCompanyUrn": "urn:li:fsd_company:2009112",
+                        "trackingId": "S4rIfus3RWS7cacYb4lcQA=="
+                    },
+                    "companyName": "Glilot Capital Partners"
+                },
+                {
+                    "title": "Chief Digital Information Officer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:29352",
+                        "entityUrn": "urn:li:fs_miniCompany:29352",
+                        "name": "ServiceNow",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEuzVBzTq8wqA/company-logo_200_200/company-logo_200_200/0/1642492124118/servicenow_logo?e=1747872000&v=beta&t=Yl0gk_rCBK_mCmFJkZFeEGcSbB6FARoptG7yBMub56g",
+                        "universalName": "servicenow",
+                        "dashCompanyUrn": "urn:li:fsd_company:29352",
+                        "trackingId": "MORi2vI5SMSJnxvSUhBi3Q=="
+                    },
+                    "companyName": "ServiceNow – The Enterprise Cloud Company"
+                },
+                {
+                    "title": "Advisor",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Hardware"
+                        ],
+                        "objectUrn": "urn:li:company:2831819",
+                        "entityUrn": "urn:li:fs_miniCompany:2831819",
+                        "name": "Altia Systems",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHmo3aouByO3Q/company-logo_200_200/company-logo_200_200/0/1631388941819?e=1747872000&v=beta&t=EU9KcQw-76jQw1jts9Z8fDUiA4HRuBKb2PYNW8MxS04",
+                        "universalName": "altia-systems-inc-",
+                        "dashCompanyUrn": "urn:li:fsd_company:2831819",
+                        "trackingId": "+mWzlP/tTqm3kPEH3NLgAQ=="
+                    },
+                    "companyName": "Altia Systems Inc."
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelors",
+                    "fieldOfStudy": "Computer Engineering",
+                    "schoolName": "University of Michigan",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1996
+                        },
+                        "startDate": {
+                            "year": 1992
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Hindi",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "High Performance Teams",
+                "Cloud Computing",
+                "Enterprise Software",
+                "SaaS"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Chief Customer Officer at ServiceNow",
+            "summary": "As Chief Customer Officer, I am dedicated to helping customers maximize value across their entire journey with ServiceNow to accelerate business transformation. Previously I served as ServiceNow’s Chief Digital Information Officer from 2015 to 2024, where I led the company’s digital transformation and AI journey to drive growth and create scale.\n\nIn my role as CCO, I lead ServiceNow’s Chief Transformation Office and our Digital Technology and Security teams. My focus is on guiding customers through their AI and GenAI implementations and creating faster time to value on the ServiceNow Platform. Additionally, in partnership with my Digital Technology team we are helping shape the ServiceNow Platform direction—as both a product incubator and revenue generator.\n\nI have focused much of my career on digital transformation, advanced automation, and practical AI/ML adoption in the enterprise, and have worked closely with many of the world’s leading CIOs to address key industry issues.",
+            "student": false,
+            "industryName": "Internet",
+            "industryUrn": "urn:li:fs_industry:6",
+            "geoLocationName": "Redwood City, California",
+            "geoCountryName": "United States",
+            "jobTitle": "Chief Customer Officer",
+            "companyName": "ServiceNow",
+            "companyPublicId": "servicenow",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/servicenow",
+            "following": false,
+            "followable": true,
+            "followersCount": 11480,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "ServiceNow",
+        "position": "Chief Customer Officer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chief Customer Officer",
+        "organization": "ServiceNow",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/cbedi/",
+        "company": "https://www.linkedin.com/company/servicenow"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chief Customer Officer",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:29352",
+                "entityUrn": "urn:li:fs_miniCompany:29352",
+                "name": "ServiceNow",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEuzVBzTq8wqA/company-logo_200_200/company-logo_200_200/0/1642492124118/servicenow_logo?e=1747872000&v=beta&t=Yl0gk_rCBK_mCmFJkZFeEGcSbB6FARoptG7yBMub56g",
+                "universalName": "servicenow",
+                "dashCompanyUrn": "urn:li:fsd_company:29352",
+                "trackingId": "EU7qujIaRoSVicn1zAmV1g=="
+            },
+            "companyName": "ServiceNow"
+        },
+        {
+            "title": "CxO Advisory Board",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:39208",
+                "entityUrn": "urn:li:fs_miniCompany:39208",
+                "name": "Menlo Ventures",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQG0E40zOGFlFw/company-logo_200_200/company-logo_200_200/0/1630593540163/menlo_ventures_logo?e=1747872000&v=beta&t=3eY7H9AHsE-jNehTSWhxoD3VTW110BVK-WroTaQ1GUY",
+                "universalName": "menlo-ventures",
+                "dashCompanyUrn": "urn:li:fsd_company:39208",
+                "trackingId": "taZC5fUNRB60yqymD3ahqw=="
+            },
+            "companyName": "Menlo Ventures"
+        },
+        {
+            "title": "Technology Advisory Committee",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Venture Capital & Private Equity"
+                ],
+                "objectUrn": "urn:li:company:2009112",
+                "entityUrn": "urn:li:fs_miniCompany:2009112",
+                "name": "Glilot Capital Partners",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHuD_P5JgmmUg/company-logo_200_200/company-logo_200_200/0/1656934223409/glilot_capital_partners_logo?e=1747872000&v=beta&t=wi3SVBfo83tdZM7nu8cVRj6TlXo0UY-1g7TIWZFl-lE",
+                "universalName": "glilot-capital-partners",
+                "dashCompanyUrn": "urn:li:fsd_company:2009112",
+                "trackingId": "S4rIfus3RWS7cacYb4lcQA=="
+            },
+            "companyName": "Glilot Capital Partners"
+        },
+        {
+            "title": "Chief Digital Information Officer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:29352",
+                "entityUrn": "urn:li:fs_miniCompany:29352",
+                "name": "ServiceNow",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEuzVBzTq8wqA/company-logo_200_200/company-logo_200_200/0/1642492124118/servicenow_logo?e=1747872000&v=beta&t=Yl0gk_rCBK_mCmFJkZFeEGcSbB6FARoptG7yBMub56g",
+                "universalName": "servicenow",
+                "dashCompanyUrn": "urn:li:fsd_company:29352",
+                "trackingId": "MORi2vI5SMSJnxvSUhBi3Q=="
+            },
+            "companyName": "ServiceNow – The Enterprise Cloud Company"
+        },
+        {
+            "title": "Advisor",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Hardware"
+                ],
+                "objectUrn": "urn:li:company:2831819",
+                "entityUrn": "urn:li:fs_miniCompany:2831819",
+                "name": "Altia Systems",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHmo3aouByO3Q/company-logo_200_200/company-logo_200_200/0/1631388941819?e=1747872000&v=beta&t=EU9KcQw-76jQw1jts9Z8fDUiA4HRuBKb2PYNW8MxS04",
+                "universalName": "altia-systems-inc-",
+                "dashCompanyUrn": "urn:li:fsd_company:2831819",
+                "trackingId": "+mWzlP/tTqm3kPEH3NLgAQ=="
+            },
+            "companyName": "Altia Systems Inc."
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelors",
+            "fieldOfStudy": "Computer Engineering",
+            "schoolName": "University of Michigan",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                },
+                "startDate": {
+                    "year": 1992
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "High Performance Teams",
+        "Cloud Computing",
+        "Enterprise Software",
+        "SaaS"
+    ],
+    "lastEnriched": "2025-02-17"
+}

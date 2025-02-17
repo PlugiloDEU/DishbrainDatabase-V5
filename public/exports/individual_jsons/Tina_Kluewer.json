@@ -1,0 +1,527 @@
+{
+    "id": "exp13390591",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Tina",
+        "lastName": "Kluewer",
+        "fullName": "Tina Kluewer",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHs71vj4ogdng/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1641655625525?e=1745452800&v=beta&t=hkw8ojw3opYcNi3z5kM116a4FjkHwj6qMv8kpH5TjGs",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "13390591",
+            "profileId": "ACoAAADMUv8B-NTUIau7d7aRwaU1Hp92-hOBOVo",
+            "firstName": "Tina",
+            "lastName": "Kluewer",
+            "occupation": "Manager@Federal Ministry | Artificial Intelligence Enthusiast | Passionate Deep Tech Manager | Founder | Board Member",
+            "publicIdentifier": "tina-kluewer",
+            "trackingId": "rLu0divvSaqmJiEBKS/Aqg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHs71vj4ogdng/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1641655625525?e=1745452800&v=beta&t=hkw8ojw3opYcNi3z5kM116a4FjkHwj6qMv8kpH5TjGs",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D5616AQEzAyZcR2L-Wg/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1702332398080?e=1745452800&v=beta&t=ijsiJ5YnZpKFODLwucAnjb75c7ka6aXnZHcsa4M9eMc",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106967730",
+            "positions": [
+                {
+                    "title": "Abteilungsleiterin Forschung für Technologische Souveränität und Innovation",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:37154443",
+                        "entityUrn": "urn:li:fs_miniCompany:37154443",
+                        "name": "Bundesministerium für Bildung und Forschung",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFsDPiKzrbUHA/company-logo_200_200/company-logo_200_200/0/1662556589857/bundesministerium_fr_bildung_und_forschung_logo?e=1747872000&v=beta&t=eWqhqM0zp4DD_FzR75ioxKqpW6egNoqw7g7GQRtxjQo",
+                        "universalName": "bundesministerium-für-bildung-und-forschung",
+                        "dashCompanyUrn": "urn:li:fsd_company:37154443",
+                        "trackingId": "oavva9XfQPWf0xjMCDKqVw=="
+                    },
+                    "companyName": "Bundesministerium für Bildung und Forschung"
+                },
+                {
+                    "title": "Director AI",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:76654687",
+                        "entityUrn": "urn:li:fs_miniCompany:76654687",
+                        "name": "K.I.E.Z. Künstliche Intelligenz Entrepreneurship Zentrum",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGeRFZP-wO0hw/company-logo_200_200/company-logo_200_200/0/1641280541886/kiez_ai_logo?e=1747872000&v=beta&t=sPx_G4vybUkKCEF0x4j01hNHda2WPgoOgCrY_F98qNA",
+                        "universalName": "kiez-ai",
+                        "dashCompanyUrn": "urn:li:fsd_company:76654687",
+                        "trackingId": "fWf8tWtFSWeWITi1C78j1g=="
+                    },
+                    "companyName": "K.I.E.Z. Künstliches Intelligenz Entrepreneurship Zentrum"
+                },
+                {
+                    "title": "Geschäftsführerin Forschung & Entwicklung | CTO",
+                    "locationName": "Hannover, Lower Saxony, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Telecommunications"
+                        ],
+                        "objectUrn": "urn:li:company:931152",
+                        "entityUrn": "urn:li:fs_miniCompany:931152",
+                        "name": "4Com GmbH & Co.KG",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH2R1VpBzl9rA/company-logo_200_200/company-logo_200_200/0/1630558931141/4com_gmbh__cokg_logo?e=1747872000&v=beta&t=wyubgPVSYbFSSXFpx0G3V1xrjO_QV2qf79mDiMMqSMU",
+                        "universalName": "4com-gmbh-co-kg",
+                        "dashCompanyUrn": "urn:li:fsd_company:931152",
+                        "trackingId": "waNhlQ3CQsm5Z6tsr/JySg=="
+                    },
+                    "companyName": "4Com GmbH & Co.KG"
+                },
+                {
+                    "title": "Co-Founder & CEO",
+                    "locationName": "Berlin Area, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Internet"
+                        ],
+                        "objectUrn": "urn:li:company:10436136",
+                        "entityUrn": "urn:li:fs_miniCompany:10436136",
+                        "name": "parlamind GmbH",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQELG8d6s0mYaw/company-logo_200_200/company-logo_200_200/0/1630494016038/parlamind_logo?e=1747872000&v=beta&t=OsYKLd9F33tzlCeqX7pQp8S_wcMNzsQwNLm2sOrPVJc",
+                        "universalName": "parlamind",
+                        "dashCompanyUrn": "urn:li:fsd_company:10436136",
+                        "trackingId": "st3b0Vc1Tv6/yyazP3aeGA=="
+                    },
+                    "companyName": "parlamind GmbH"
+                },
+                {
+                    "title": "Affiliate Researcher",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:773962",
+                        "entityUrn": "urn:li:fs_miniCompany:773962",
+                        "name": "Icelandic Institute for Intelligent Machines",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFVyxzslM7ffA/company-logo_200_200/company-logo_200_200/0/1631320879029?e=1747872000&v=beta&t=qjtDJcMt5cUV8wHFWeSzujk6JHe6hkJkvSCJRz_6h2Y",
+                        "universalName": "icelandic-institute-for-intelligent-machines",
+                        "dashCompanyUrn": "urn:li:fsd_company:773962",
+                        "trackingId": "9+SKYppoRmKcwLD1XvRa+g=="
+                    },
+                    "companyName": "Icelandic Institute for Intelligent Machines"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy (PhD)",
+                    "fieldOfStudy": "Computational Linguistics",
+                    "schoolName": "Universität des Saarlandes",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2009
+                        }
+                    }
+                },
+                {
+                    "degreeName": "M.A.",
+                    "fieldOfStudy": "Linguistic Data Processing, Philosophy, German Linguistics",
+                    "schoolName": "University of Cologne",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2000
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Computational Linguistics",
+                "Natural Language Processing",
+                "Machine Learning",
+                "Artificial Intelligence"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Leitung Arbeitsgruppe Forschungstransfer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "KI Bundesverband",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                },
+                {
+                    "role": "Mitglied des Zukunftsrats des Bundeskanzlers",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 10,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "Bundeskanzleramt",
+                    "cause": "POLITICS"
+                },
+                {
+                    "role": "Member of the \"Young Digital Economy\" Advisory Board",
+                    "description": "https://www.bmwk.de/Redaktion/EN/Artikel/Ministry/advisory-councils-06-young-digital-economy-advisory-board.html",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2020
+                        }
+                    },
+                    "companyName": "Federal Ministry for Economics and Climate Action",
+                    "cause": "SCIENCE_AND_TECHNOLOGY"
+                }
+            ],
+            "headline": "Manager@Federal Ministry | Artificial Intelligence Enthusiast | Passionate Deep Tech Manager | Founder | Board Member",
+            "summary": "I am a deep tech enthusiast, manager and technical ambassador for the topics of Artificial Intelligence and innovation with roots in research.\n\nCurrently, I am general manager for Technological Sovereignty and Innovation at the German Federal Ministry of Education and Research. \n\nBefore that I built up K.I.E.Z. the Artificial Intelligence Entrepreneurship Center of Science & Startups, the network of startup services of the Berlin universities and the Charité Universitätsmedizin Berlin. I was founder and CEO of parlamind GmbH, a company for automation in customer service through AI and language processing. After the successful exit of the business to VIER.ai, I led its four sister companies as CTO.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Berlin, Berlin",
+            "geoCountryName": "Germany",
+            "jobTitle": "Abteilungsleiterin Forschung für Technologische Souveränität und Innovation",
+            "companyName": "Bundesministerium für Bildung und Forschung",
+            "companyPublicId": "bundesministerium-für-bildung-und-forschung",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/bundesministerium-für-bildung-und-forschung",
+            "following": false,
+            "followable": true,
+            "followersCount": 7305,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Bundesministerium für Bildung und Forschung",
+        "position": "Abteilungsleiterin Forschung für Technologische Souveränität und Innovation",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [
+            "Artificial Intelligence"
+        ],
+        "secondary": [],
+        "industries": [
+            "Government Administration"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Abteilungsleiterin Forschung für Technologische Souveränität und Innovation",
+        "organization": "Bundesministerium für Bildung und Forschung",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/tina-kluewer/",
+        "company": "https://www.linkedin.com/company/bundesministerium-für-bildung-und-forschung"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Abteilungsleiterin Forschung für Technologische Souveränität und Innovation",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:37154443",
+                "entityUrn": "urn:li:fs_miniCompany:37154443",
+                "name": "Bundesministerium für Bildung und Forschung",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFsDPiKzrbUHA/company-logo_200_200/company-logo_200_200/0/1662556589857/bundesministerium_fr_bildung_und_forschung_logo?e=1747872000&v=beta&t=eWqhqM0zp4DD_FzR75ioxKqpW6egNoqw7g7GQRtxjQo",
+                "universalName": "bundesministerium-für-bildung-und-forschung",
+                "dashCompanyUrn": "urn:li:fsd_company:37154443",
+                "trackingId": "oavva9XfQPWf0xjMCDKqVw=="
+            },
+            "companyName": "Bundesministerium für Bildung und Forschung"
+        },
+        {
+            "title": "Director AI",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:76654687",
+                "entityUrn": "urn:li:fs_miniCompany:76654687",
+                "name": "K.I.E.Z. Künstliche Intelligenz Entrepreneurship Zentrum",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGeRFZP-wO0hw/company-logo_200_200/company-logo_200_200/0/1641280541886/kiez_ai_logo?e=1747872000&v=beta&t=sPx_G4vybUkKCEF0x4j01hNHda2WPgoOgCrY_F98qNA",
+                "universalName": "kiez-ai",
+                "dashCompanyUrn": "urn:li:fsd_company:76654687",
+                "trackingId": "fWf8tWtFSWeWITi1C78j1g=="
+            },
+            "companyName": "K.I.E.Z. Künstliches Intelligenz Entrepreneurship Zentrum"
+        },
+        {
+            "title": "Geschäftsführerin Forschung & Entwicklung | CTO",
+            "locationName": "Hannover, Lower Saxony, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Telecommunications"
+                ],
+                "objectUrn": "urn:li:company:931152",
+                "entityUrn": "urn:li:fs_miniCompany:931152",
+                "name": "4Com GmbH & Co.KG",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH2R1VpBzl9rA/company-logo_200_200/company-logo_200_200/0/1630558931141/4com_gmbh__cokg_logo?e=1747872000&v=beta&t=wyubgPVSYbFSSXFpx0G3V1xrjO_QV2qf79mDiMMqSMU",
+                "universalName": "4com-gmbh-co-kg",
+                "dashCompanyUrn": "urn:li:fsd_company:931152",
+                "trackingId": "waNhlQ3CQsm5Z6tsr/JySg=="
+            },
+            "companyName": "4Com GmbH & Co.KG"
+        },
+        {
+            "title": "Co-Founder & CEO",
+            "locationName": "Berlin Area, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Internet"
+                ],
+                "objectUrn": "urn:li:company:10436136",
+                "entityUrn": "urn:li:fs_miniCompany:10436136",
+                "name": "parlamind GmbH",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQELG8d6s0mYaw/company-logo_200_200/company-logo_200_200/0/1630494016038/parlamind_logo?e=1747872000&v=beta&t=OsYKLd9F33tzlCeqX7pQp8S_wcMNzsQwNLm2sOrPVJc",
+                "universalName": "parlamind",
+                "dashCompanyUrn": "urn:li:fsd_company:10436136",
+                "trackingId": "st3b0Vc1Tv6/yyazP3aeGA=="
+            },
+            "companyName": "parlamind GmbH"
+        },
+        {
+            "title": "Affiliate Researcher",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:773962",
+                "entityUrn": "urn:li:fs_miniCompany:773962",
+                "name": "Icelandic Institute for Intelligent Machines",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFVyxzslM7ffA/company-logo_200_200/company-logo_200_200/0/1631320879029?e=1747872000&v=beta&t=qjtDJcMt5cUV8wHFWeSzujk6JHe6hkJkvSCJRz_6h2Y",
+                "universalName": "icelandic-institute-for-intelligent-machines",
+                "dashCompanyUrn": "urn:li:fsd_company:773962",
+                "trackingId": "9+SKYppoRmKcwLD1XvRa+g=="
+            },
+            "companyName": "Icelandic Institute for Intelligent Machines"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy (PhD)",
+            "fieldOfStudy": "Computational Linguistics",
+            "schoolName": "Universität des Saarlandes",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2009
+                }
+            }
+        },
+        {
+            "degreeName": "M.A.",
+            "fieldOfStudy": "Linguistic Data Processing, Philosophy, German Linguistics",
+            "schoolName": "University of Cologne",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2000
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Computational Linguistics",
+        "Natural Language Processing",
+        "Machine Learning",
+        "Artificial Intelligence"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,462 @@
+{
+    "id": "exp74890315",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Miguel",
+        "lastName": "Benito Dols",
+        "fullName": "Miguel Benito Dols",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQFDOeiVuYuzSA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516930852263?e=1745452800&v=beta&t=54qAWdkPgIxgTav0ITZU-JdnvNjxXpzmz1_WEyIZhQ4",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "74890315",
+            "profileId": "ACoAAAR2vEsBUGTwWINNid68Wy0ZwhTtd3wJVIU",
+            "firstName": "Miguel",
+            "lastName": "Benito Dols",
+            "occupation": "Plant Manager en Keppel",
+            "publicIdentifier": "miguel-benito-dols-3770b721",
+            "trackingId": "JdH1tp/6Tiqqi+GXLjs9wQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFDOeiVuYuzSA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516930852263?e=1745452800&v=beta&t=54qAWdkPgIxgTav0ITZU-JdnvNjxXpzmz1_WEyIZhQ4",
+            "countryCode": "sg",
+            "geoUrn": "urn:li:fs_geo:102454443",
+            "positions": [
+                {
+                    "title": "Plant Manager GTCC Combined Cycle KMC 1.300 MW",
+                    "description": "Plant Manager of the 1300 MW KMC Combined Cycle. Leading a team of more than 50 people KMC Plant consists in one block 2+1 of 500 MW including 2 GT13E2 and two single shaft KA26-1 SS of 400 MW each",
+                    "locationName": "Singapore",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:12327",
+                        "entityUrn": "urn:li:fs_miniCompany:12327",
+                        "name": "Keppel Ltd.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQFLH8g2ogvJIQ/company-logo_200_200/company-logo_200_200/0/1631415654408/keppel_logo?e=1747872000&v=beta&t=aNstZVYe5Yny5seEKWcb4o8LjQENS4CH2pVngCO0Kgc",
+                        "universalName": "keppel-ltd",
+                        "dashCompanyUrn": "urn:li:fsd_company:12327",
+                        "trackingId": "hFvfEEfIS7yVLGLibvBqmg=="
+                    },
+                    "companyName": "Keppel"
+                },
+                {
+                    "title": "Plant Manager GTCC  Combined Cycle Malaga 400 MW",
+                    "description": "Plant Manager of the 400 MW Malaga Combined Cycle property of Gas Natural Fenosa, operated and maintained by Alstom through an O&M contract. Leading a team of more than 25 people Malaga Plant consists in a single shaft unit of 400 MW KA26-1 SS.",
+                    "locationName": "Spain",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Renewables & Environment"
+                        ],
+                        "objectUrn": "urn:li:company:2444",
+                        "entityUrn": "urn:li:fs_miniCompany:2444",
+                        "name": "Alstom Power",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsEu9r6IL5Dw/company-logo_200_200/company-logo_200_200/0/1675271004674/alstom_power_logo?e=1747872000&v=beta&t=8-vB0PuUsdGSBjWRfFTBuKKcAHfUbER8LNg-s6qeNHg",
+                        "universalName": "alstom-power",
+                        "dashCompanyUrn": "urn:li:fsd_company:2444",
+                        "trackingId": "IeWmtJxdTUmibDAw26o5Wg=="
+                    },
+                    "companyName": "Alstom Power"
+                },
+                {
+                    "title": "Lecturer on Thermodynamics and Thermal Power Plants",
+                    "description": "Lecturer on Thermodynamics and Thermal Power Plants, integrated on the Department of Thermal Machines of the Industrial Engineer degree of the Polytechnics University of Cartagena.",
+                    "locationName": "Spain",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:350245",
+                        "entityUrn": "urn:li:fs_miniCompany:350245",
+                        "name": "UPCT",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFZytz6imga8w/company-logo_200_200/company-logo_200_200/0/1631320931031?e=1747872000&v=beta&t=jqpSEA-b15PwdfnFpSPEqqNlSgQQjhfAVPVB1M--q5M",
+                        "universalName": "upct",
+                        "dashCompanyUrn": "urn:li:fsd_company:350245",
+                        "trackingId": "MD+3TN+/S9+JxbUSSiq+zQ=="
+                    },
+                    "companyName": "UPCT"
+                },
+                {
+                    "title": "Plant Manager GTCC  Combined Cycle Cartagena 1.200 MW",
+                    "description": "Plant Manager of the 1.200 MW Cartagena Combined Cycle property of Gas Natural, operated and maintained by Alstom through an O&M contract. Leading a team of more than 50 people Cartagena Plant consists in three single shaft units of 400 MW KA26-1 SS each.",
+                    "locationName": "Spain",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Renewables & Environment"
+                        ],
+                        "objectUrn": "urn:li:company:2444",
+                        "entityUrn": "urn:li:fs_miniCompany:2444",
+                        "name": "Alstom Power",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsEu9r6IL5Dw/company-logo_200_200/company-logo_200_200/0/1675271004674/alstom_power_logo?e=1747872000&v=beta&t=8-vB0PuUsdGSBjWRfFTBuKKcAHfUbER8LNg-s6qeNHg",
+                        "universalName": "alstom-power",
+                        "dashCompanyUrn": "urn:li:fsd_company:2444",
+                        "trackingId": "2dgPQZKsSsSahlC10ZenCQ=="
+                    },
+                    "companyName": "Alstom Power"
+                },
+                {
+                    "title": "Plant Manager GTCC  Combined Cycle Besos 400 MW",
+                    "description": "Plant Manager of the 400 MW Besos Combined Cycle property of Gas Natural, operated and maintained by Alstom through an O&M contract. Leading a team of more than 25 people Besos Plant consists in a single shaft unit of 400 MW KA26-1 SS.",
+                    "locationName": "Spain",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2006
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2004
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Renewables & Environment"
+                        ],
+                        "objectUrn": "urn:li:company:2444",
+                        "entityUrn": "urn:li:fs_miniCompany:2444",
+                        "name": "Alstom Power",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsEu9r6IL5Dw/company-logo_200_200/company-logo_200_200/0/1675271004674/alstom_power_logo?e=1747872000&v=beta&t=8-vB0PuUsdGSBjWRfFTBuKKcAHfUbER8LNg-s6qeNHg",
+                        "universalName": "alstom-power",
+                        "dashCompanyUrn": "urn:li:fsd_company:2444",
+                        "trackingId": "I4Lqdb29SrWwqcFOXMeKhA=="
+                    },
+                    "companyName": "Alstom Power"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master in Operations",
+                    "schoolName": "EADA Business School",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Mining Engineer",
+                    "schoolName": "Universidad Politécnica de Madrid",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1994
+                        },
+                        "startDate": {
+                            "year": 1987
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Plant Manager en Keppel",
+            "summary": "A career of twenty years in the power sector, mainly managing the Operation & Maintenance of Combined Cycles. This experience covers mobilization, commissioning and commercial operation phases, as well as organizational development, recruiting and building committed and effective teams. Used to work in a multinational environment.",
+            "student": false,
+            "industryName": "Oil & Energy",
+            "industryUrn": "urn:li:fs_industry:57",
+            "geoCountryName": "Singapore",
+            "jobTitle": "Plant Manager GTCC Combined Cycle KMC 1.300 MW",
+            "companyName": "Keppel",
+            "companyPublicId": "keppel-ltd",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/keppel-ltd",
+            "following": false,
+            "followable": true,
+            "followersCount": 1272,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Keppel",
+        "position": "Plant Manager GTCC Combined Cycle KMC 1.300 MW",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Financial Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Plant Manager GTCC Combined Cycle KMC 1.300 MW",
+        "organization": "Keppel",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/miguel-benito-dols-3770b721/",
+        "company": "https://www.linkedin.com/company/keppel-ltd"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Plant Manager GTCC Combined Cycle KMC 1.300 MW",
+            "description": "Plant Manager of the 1300 MW KMC Combined Cycle. Leading a team of more than 50 people KMC Plant consists in one block 2+1 of 500 MW including 2 GT13E2 and two single shaft KA26-1 SS of 400 MW each",
+            "locationName": "Singapore",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:12327",
+                "entityUrn": "urn:li:fs_miniCompany:12327",
+                "name": "Keppel Ltd.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQFLH8g2ogvJIQ/company-logo_200_200/company-logo_200_200/0/1631415654408/keppel_logo?e=1747872000&v=beta&t=aNstZVYe5Yny5seEKWcb4o8LjQENS4CH2pVngCO0Kgc",
+                "universalName": "keppel-ltd",
+                "dashCompanyUrn": "urn:li:fsd_company:12327",
+                "trackingId": "hFvfEEfIS7yVLGLibvBqmg=="
+            },
+            "companyName": "Keppel"
+        },
+        {
+            "title": "Plant Manager GTCC  Combined Cycle Malaga 400 MW",
+            "description": "Plant Manager of the 400 MW Malaga Combined Cycle property of Gas Natural Fenosa, operated and maintained by Alstom through an O&M contract. Leading a team of more than 25 people Malaga Plant consists in a single shaft unit of 400 MW KA26-1 SS.",
+            "locationName": "Spain",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Renewables & Environment"
+                ],
+                "objectUrn": "urn:li:company:2444",
+                "entityUrn": "urn:li:fs_miniCompany:2444",
+                "name": "Alstom Power",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsEu9r6IL5Dw/company-logo_200_200/company-logo_200_200/0/1675271004674/alstom_power_logo?e=1747872000&v=beta&t=8-vB0PuUsdGSBjWRfFTBuKKcAHfUbER8LNg-s6qeNHg",
+                "universalName": "alstom-power",
+                "dashCompanyUrn": "urn:li:fsd_company:2444",
+                "trackingId": "IeWmtJxdTUmibDAw26o5Wg=="
+            },
+            "companyName": "Alstom Power"
+        },
+        {
+            "title": "Lecturer on Thermodynamics and Thermal Power Plants",
+            "description": "Lecturer on Thermodynamics and Thermal Power Plants, integrated on the Department of Thermal Machines of the Industrial Engineer degree of the Polytechnics University of Cartagena.",
+            "locationName": "Spain",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:350245",
+                "entityUrn": "urn:li:fs_miniCompany:350245",
+                "name": "UPCT",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFZytz6imga8w/company-logo_200_200/company-logo_200_200/0/1631320931031?e=1747872000&v=beta&t=jqpSEA-b15PwdfnFpSPEqqNlSgQQjhfAVPVB1M--q5M",
+                "universalName": "upct",
+                "dashCompanyUrn": "urn:li:fsd_company:350245",
+                "trackingId": "MD+3TN+/S9+JxbUSSiq+zQ=="
+            },
+            "companyName": "UPCT"
+        },
+        {
+            "title": "Plant Manager GTCC  Combined Cycle Cartagena 1.200 MW",
+            "description": "Plant Manager of the 1.200 MW Cartagena Combined Cycle property of Gas Natural, operated and maintained by Alstom through an O&M contract. Leading a team of more than 50 people Cartagena Plant consists in three single shaft units of 400 MW KA26-1 SS each.",
+            "locationName": "Spain",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Renewables & Environment"
+                ],
+                "objectUrn": "urn:li:company:2444",
+                "entityUrn": "urn:li:fs_miniCompany:2444",
+                "name": "Alstom Power",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsEu9r6IL5Dw/company-logo_200_200/company-logo_200_200/0/1675271004674/alstom_power_logo?e=1747872000&v=beta&t=8-vB0PuUsdGSBjWRfFTBuKKcAHfUbER8LNg-s6qeNHg",
+                "universalName": "alstom-power",
+                "dashCompanyUrn": "urn:li:fsd_company:2444",
+                "trackingId": "2dgPQZKsSsSahlC10ZenCQ=="
+            },
+            "companyName": "Alstom Power"
+        },
+        {
+            "title": "Plant Manager GTCC  Combined Cycle Besos 400 MW",
+            "description": "Plant Manager of the 400 MW Besos Combined Cycle property of Gas Natural, operated and maintained by Alstom through an O&M contract. Leading a team of more than 25 people Besos Plant consists in a single shaft unit of 400 MW KA26-1 SS.",
+            "locationName": "Spain",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2006
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2004
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Renewables & Environment"
+                ],
+                "objectUrn": "urn:li:company:2444",
+                "entityUrn": "urn:li:fs_miniCompany:2444",
+                "name": "Alstom Power",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGsEu9r6IL5Dw/company-logo_200_200/company-logo_200_200/0/1675271004674/alstom_power_logo?e=1747872000&v=beta&t=8-vB0PuUsdGSBjWRfFTBuKKcAHfUbER8LNg-s6qeNHg",
+                "universalName": "alstom-power",
+                "dashCompanyUrn": "urn:li:fsd_company:2444",
+                "trackingId": "I4Lqdb29SrWwqcFOXMeKhA=="
+            },
+            "companyName": "Alstom Power"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master in Operations",
+            "schoolName": "EADA Business School",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        },
+        {
+            "degreeName": "Mining Engineer",
+            "schoolName": "Universidad Politécnica de Madrid",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1994
+                },
+                "startDate": {
+                    "year": 1987
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

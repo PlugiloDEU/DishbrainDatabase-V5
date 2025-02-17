@@ -1,0 +1,389 @@
+{
+    "id": "exp25490831",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Illia",
+        "lastName": "Polosukhin",
+        "fullName": "Illia Polosukhin",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGd2fZyZ9w1_A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1684497315883?e=1745452800&v=beta&t=wgeQ3i9dT97fCnBypMMegHWUtd3a6nkoLxMi4PuWCZE",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Chinese",
+            "English",
+            "French",
+            "Russian",
+            "Ukrainian"
+        ],
+        "allData": {
+            "id": "25490831",
+            "profileId": "ACoAAAGE9Y8B-eJnN2NphQBUjrDTCoM2TXBZWoU",
+            "firstName": "Illia",
+            "lastName": "Polosukhin",
+            "occupation": "NEAR Protocol",
+            "publicIdentifier": "illia-polosukhin-77b6538",
+            "trackingId": "qKSAlb8yQ2umH+XBf3bO+A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGd2fZyZ9w1_A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1684497315883?e=1745452800&v=beta&t=wgeQ3i9dT97fCnBypMMegHWUtd3a6nkoLxMi4PuWCZE",
+            "countryCode": "pt",
+            "geoUrn": "urn:li:fs_geo:100364837",
+            "positions": [
+                {
+                    "title": "Co-Founder",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:71528119",
+                        "entityUrn": "urn:li:fs_miniCompany:71528119",
+                        "name": "NEAR Protocol",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFCLxOuYgNJoA/company-logo_200_200/company-logo_200_200/0/1677700478269/near_protocol_project_logo?e=1747872000&v=beta&t=ahLrkbClifazUM0UaGPmgKzAAiQDfv-D2G5uaDufxwY",
+                        "universalName": "near-protocol-project",
+                        "dashCompanyUrn": "urn:li:fsd_company:71528119",
+                        "trackingId": "Pb0LSr8xQjqDnIZA4d3Wqw=="
+                    },
+                    "companyName": "NEAR Protocol"
+                },
+                {
+                    "title": "Engineering Manager",
+                    "description": "- Co-authored “Attention Is All You Need” which introduced Transformer architecture \n- Managed team of Deep Learning and Natural Language Understanding Researchers.\n- Worked on TensorFlow (specifically TF.Learn aka SKFlow)",
+                    "locationName": "Mountain View, California",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "p9Dbq6ksRJOvK3ugY4omcQ=="
+                    },
+                    "companyName": "Google Research"
+                },
+                {
+                    "title": "Software Engineer",
+                    "description": "Development of new tools for big data predictive analytics, text mining, geo mining, as well as perfecting existing Salford Predictive Miner toolkit.",
+                    "locationName": "San Diego, California",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:76924",
+                        "entityUrn": "urn:li:fs_miniCompany:76924",
+                        "name": "Salford Systems, a Minitab company",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQFNxOv0GlymDw/company-logo_200_200/company-logo_200_200/0/1631393582469?e=1747872000&v=beta&t=JXD34vim2mJlvKVhZ3sRUxvDJSFZTKO4nHYdFp_WDKc",
+                        "universalName": "salford-systems",
+                        "dashCompanyUrn": "urn:li:fsd_company:76924",
+                        "trackingId": "bN4v8f83Rt2W2vrVrfJA5g=="
+                    },
+                    "companyName": "Salford Systems"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master's degree",
+                    "fieldOfStudy": "Applied Math (and Computer Science)",
+                    "schoolName": "National Technical University \"Kharkiv Polytechnic Institute\"",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    }
+                },
+                {
+                    "schoolName": "AG #45",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Introduction to Artificial Intelligence",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2013
+                        }
+                    },
+                    "authority": "Udacity"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Chinese",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Russian",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Ukrainian",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "OOP",
+                "Python",
+                "Git",
+                "C++"
+            ],
+            "volunteerExperiences": [],
+            "headline": "NEAR Protocol",
+            "summary": "Artificial Intelligence Researcher. Making this world better with software and data.\nPassionate about Machine Intelligence, understanding natural language.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoCountryName": "Portugal",
+            "jobTitle": "Co-Founder",
+            "companyName": "NEAR Protocol",
+            "companyPublicId": "near-protocol-project",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/near-protocol-project",
+            "following": false,
+            "followable": true,
+            "followersCount": 4646,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "NEAR Protocol",
+        "position": "Co-Founder",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Co-Founder",
+        "organization": "NEAR Protocol",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/illia-polosukhin-77b6538/",
+        "company": "https://www.linkedin.com/company/near-protocol-project"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Co-Founder",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:71528119",
+                "entityUrn": "urn:li:fs_miniCompany:71528119",
+                "name": "NEAR Protocol",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFCLxOuYgNJoA/company-logo_200_200/company-logo_200_200/0/1677700478269/near_protocol_project_logo?e=1747872000&v=beta&t=ahLrkbClifazUM0UaGPmgKzAAiQDfv-D2G5uaDufxwY",
+                "universalName": "near-protocol-project",
+                "dashCompanyUrn": "urn:li:fsd_company:71528119",
+                "trackingId": "Pb0LSr8xQjqDnIZA4d3Wqw=="
+            },
+            "companyName": "NEAR Protocol"
+        },
+        {
+            "title": "Engineering Manager",
+            "description": "- Co-authored “Attention Is All You Need” which introduced Transformer architecture \n- Managed team of Deep Learning and Natural Language Understanding Researchers.\n- Worked on TensorFlow (specifically TF.Learn aka SKFlow)",
+            "locationName": "Mountain View, California",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "p9Dbq6ksRJOvK3ugY4omcQ=="
+            },
+            "companyName": "Google Research"
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Development of new tools for big data predictive analytics, text mining, geo mining, as well as perfecting existing Salford Predictive Miner toolkit.",
+            "locationName": "San Diego, California",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:76924",
+                "entityUrn": "urn:li:fs_miniCompany:76924",
+                "name": "Salford Systems, a Minitab company",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQFNxOv0GlymDw/company-logo_200_200/company-logo_200_200/0/1631393582469?e=1747872000&v=beta&t=JXD34vim2mJlvKVhZ3sRUxvDJSFZTKO4nHYdFp_WDKc",
+                "universalName": "salford-systems",
+                "dashCompanyUrn": "urn:li:fsd_company:76924",
+                "trackingId": "bN4v8f83Rt2W2vrVrfJA5g=="
+            },
+            "companyName": "Salford Systems"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master's degree",
+            "fieldOfStudy": "Applied Math (and Computer Science)",
+            "schoolName": "National Technical University \"Kharkiv Polytechnic Institute\"",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            }
+        },
+        {
+            "schoolName": "AG #45",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Introduction to Artificial Intelligence",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2013
+                }
+            },
+            "authority": "Udacity"
+        }
+    ],
+    "skills": [
+        "OOP",
+        "Python",
+        "Git",
+        "C++"
+    ],
+    "lastEnriched": "2025-02-17"
+}

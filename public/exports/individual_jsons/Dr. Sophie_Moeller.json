@@ -1,0 +1,579 @@
+{
+    "id": "exp643269457",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Sophie",
+        "lastName": "Moeller",
+        "fullName": "Dr. Sophie Moeller",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQF5W03ON0jZjw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1721580556543?e=1745452800&v=beta&t=0njMunix9GFBCCK7ljGkzZYMQ02WZgGaxtNaOEYklxg",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "643269457",
+            "profileId": "ACoAACZXg1EB5ODr42OYR8J_9poeaZhA9mpi6pE",
+            "firstName": "Dr. Sophie",
+            "lastName": "Moeller",
+            "occupation": "Postdoctoral Researcher | PhD Molecular Microbiology",
+            "publicIdentifier": "dr-sophie-moeller-50151a15b",
+            "trackingId": "NEtSg0n4RS2hjaJMzb4paA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQF5W03ON0jZjw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1721580556543?e=1745452800&v=beta&t=0njMunix9GFBCCK7ljGkzZYMQ02WZgGaxtNaOEYklxg",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQH4DoCQcsVryw/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1706871709925?e=1745452800&v=beta&t=R4KCLNjYPAWThfUVEB2t2F63bElrfLc15yQedzDZBa4",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:106491352",
+            "positions": [
+                {
+                    "title": "Postdoctoral Researcher",
+                    "description": "Part of the German national reference center for gram-negative nosocomial pathogens, aiming to detect and unravel molecular resistance mechanisms of clinical isolates reaching the NRC from across Germany. I am working towards the integration of genomic epidemiology into routine pathogen surveillance.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1105412",
+                        "entityUrn": "urn:li:fs_miniCompany:1105412",
+                        "name": "Ruhr University Bochum",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG9u52eRPO0Vw/company-logo_200_200/company-logo_200_200/0/1631335008356?e=1747872000&v=beta&t=4HZYYI_GGAhlPjgKMHK5Vf35W2_G38M2D1iWTJ8hv3Q",
+                        "universalName": "ruhrunibochum",
+                        "dashCompanyUrn": "urn:li:fsd_company:1105412",
+                        "trackingId": "QGncESkeSFyc14hPDmUm0g=="
+                    },
+                    "companyName": "Ruhr University Bochum"
+                },
+                {
+                    "title": "Manager, Client Experience (Healthcare)",
+                    "description": "Client support, PR events focused on public health and vaccine development",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Public Relations and Communications"
+                        ],
+                        "objectUrn": "urn:li:company:1055583",
+                        "entityUrn": "urn:li:fs_miniCompany:1055583",
+                        "name": "dna Communications",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHpWtlRFuMlbg/company-logo_200_200/company-logo_200_200/0/1720468051331/dnacommunications_logo?e=1747872000&v=beta&t=NKz-OUn1XJgpXspx1JDj6XOGQOsl7EcKvb-azny9AUI",
+                        "universalName": "dnacommunications",
+                        "dashCompanyUrn": "urn:li:fsd_company:1055583",
+                        "trackingId": "gXgdZzgNSdKB0tov90rSrw=="
+                    },
+                    "companyName": "dna Communications"
+                },
+                {
+                    "title": "PHD Candidate",
+                    "description": "PhD in Molecular Microbiology, researching small RNA control of bacterial denitrification and nitrous oxide emissions for the development of novel greenhouse gas mitigation strategies",
+                    "locationName": "Norwich, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15593",
+                        "entityUrn": "urn:li:fs_miniCompany:15593",
+                        "name": "University of East Anglia",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEL7bl1nWLc-w/company-logo_200_200/company-logo_200_200/0/1631300913330?e=1747872000&v=beta&t=wmMPmDaoIbKZtBTc6MHzB4AiyNof4n2n-ttP14CQNI0",
+                        "universalName": "university-of-east-anglia",
+                        "dashCompanyUrn": "urn:li:fsd_company:15593",
+                        "trackingId": "m4RoXLflSLqE8iFwLiFVZw=="
+                    },
+                    "companyName": "University of East Anglia"
+                },
+                {
+                    "title": "Medical Writer",
+                    "description": "Medical Writer in the healthcare industry, communication for novel drugs, treatments and dietary supplements. Focus on respiratory diseases, wound care and gastrointestinal diseases",
+                    "locationName": "Cologne, North Rhine-Westphalia, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Marketing and Advertising"
+                        ],
+                        "objectUrn": "urn:li:company:37867711",
+                        "entityUrn": "urn:li:fs_miniCompany:37867711",
+                        "name": "Jäger Health - an IQVIA business",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEm_xbXBaUmlA/company-logo_200_200/company-logo_200_200/0/1630523636577?e=1747872000&v=beta&t=MMG1OpOwbWntRAREIB8zk5MVcg6Yky0WvrjjlSCRBDA",
+                        "universalName": "jaegerhealth",
+                        "dashCompanyUrn": "urn:li:fsd_company:37867711",
+                        "trackingId": "HuqkJlCiSx+sBV1U4+31HA=="
+                    },
+                    "companyName": "Jäger Health GmbH - an IQVIA business"
+                },
+                {
+                    "title": "Student Guide",
+                    "description": "Providing campus tours and information to new students enabling them to gain an insight of the university and its facilities\nRepresentation of the School of Biological Sciences\n",
+                    "locationName": "Norwich, United Kingdom",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:15593",
+                        "entityUrn": "urn:li:fs_miniCompany:15593",
+                        "name": "University of East Anglia",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEL7bl1nWLc-w/company-logo_200_200/company-logo_200_200/0/1631300913330?e=1747872000&v=beta&t=wmMPmDaoIbKZtBTc6MHzB4AiyNof4n2n-ttP14CQNI0",
+                        "universalName": "university-of-east-anglia",
+                        "dashCompanyUrn": "urn:li:fsd_company:15593",
+                        "trackingId": "zTDsbJ6+Sui1p3DX7pAniw=="
+                    },
+                    "companyName": "University of East Anglia"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctor of Philosophy - PhD",
+                    "fieldOfStudy": "Molecular Microbiology",
+                    "schoolName": "University of East Anglia",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2019
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science - BS",
+                    "fieldOfStudy": "Biology, General",
+                    "schoolName": "University of East Anglia",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Abitur (A level equivalent)",
+                    "schoolName": "Elly-Heuss-Schule Wiesbaden",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Risk Assessment",
+                "Communication",
+                "Independent Thinking",
+                "Laboratory Skills"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Volunteer",
+                    "description": "Teaching in two primary schools, improving literacy on behalf of the Fijian government, enhancing teaching conditions and introducing sport to the Fijian schools\nInvolvement in the Fijian society, improvement of environmental awareness, health and diet by providing workshops on first aid and nutrition\nDevelopment of interpersonal communication skills, teamwork and leadership skills\n",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "Think Pacific",
+                    "cause": "CHILDREN"
+                },
+                {
+                    "role": "Bio Buddy",
+                    "description": "Giving campus tours and helping new biology students to adapt to the life as a student",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "University of East Anglia"
+                },
+                {
+                    "role": "Research Volunteer",
+                    "description": "Researching and writing about present and past Paralympic athletes for the National Paralympic Heritage Trust website to help increase understanding and availability of information on disabled sports and sports personalities",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "NATIONAL PARALYMPIC HERITAGE TRUST"
+                }
+            ],
+            "headline": "Postdoctoral Researcher | PhD Molecular Microbiology",
+            "summary": "Postdoctoral Researcher at the Institute for Medical Microbiology at the Ruhr Universität Bochum with a PhD in Molecular Microbiology awarded by the University of East Anglia. My goal is to actively contribute towards the integration of genomic epidemiology into routine pathogen surveillance of clinical isolates from across Germany and beyond as well as to detect and monitor the spread of molecular resistance mechanisms.",
+            "student": false,
+            "industryName": "Marketing & Advertising",
+            "industryUrn": "urn:li:fs_industry:80",
+            "geoLocationName": "Düsseldorf, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "Postdoctoral Researcher",
+            "companyName": "Ruhr University Bochum",
+            "companyPublicId": "ruhrunibochum",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/ruhrunibochum",
+            "following": false,
+            "followable": true,
+            "followersCount": 914,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Ruhr University Bochum",
+        "position": "Postdoctoral Researcher",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Research"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Postdoctoral Researcher",
+        "organization": "Ruhr University Bochum",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-sophie-moeller-50151a15b/",
+        "company": "https://www.linkedin.com/company/ruhrunibochum"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Postdoctoral Researcher",
+            "description": "Part of the German national reference center for gram-negative nosocomial pathogens, aiming to detect and unravel molecular resistance mechanisms of clinical isolates reaching the NRC from across Germany. I am working towards the integration of genomic epidemiology into routine pathogen surveillance.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1105412",
+                "entityUrn": "urn:li:fs_miniCompany:1105412",
+                "name": "Ruhr University Bochum",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQG9u52eRPO0Vw/company-logo_200_200/company-logo_200_200/0/1631335008356?e=1747872000&v=beta&t=4HZYYI_GGAhlPjgKMHK5Vf35W2_G38M2D1iWTJ8hv3Q",
+                "universalName": "ruhrunibochum",
+                "dashCompanyUrn": "urn:li:fsd_company:1105412",
+                "trackingId": "QGncESkeSFyc14hPDmUm0g=="
+            },
+            "companyName": "Ruhr University Bochum"
+        },
+        {
+            "title": "Manager, Client Experience (Healthcare)",
+            "description": "Client support, PR events focused on public health and vaccine development",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Public Relations and Communications"
+                ],
+                "objectUrn": "urn:li:company:1055583",
+                "entityUrn": "urn:li:fs_miniCompany:1055583",
+                "name": "dna Communications",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQHpWtlRFuMlbg/company-logo_200_200/company-logo_200_200/0/1720468051331/dnacommunications_logo?e=1747872000&v=beta&t=NKz-OUn1XJgpXspx1JDj6XOGQOsl7EcKvb-azny9AUI",
+                "universalName": "dnacommunications",
+                "dashCompanyUrn": "urn:li:fsd_company:1055583",
+                "trackingId": "gXgdZzgNSdKB0tov90rSrw=="
+            },
+            "companyName": "dna Communications"
+        },
+        {
+            "title": "PHD Candidate",
+            "description": "PhD in Molecular Microbiology, researching small RNA control of bacterial denitrification and nitrous oxide emissions for the development of novel greenhouse gas mitigation strategies",
+            "locationName": "Norwich, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15593",
+                "entityUrn": "urn:li:fs_miniCompany:15593",
+                "name": "University of East Anglia",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEL7bl1nWLc-w/company-logo_200_200/company-logo_200_200/0/1631300913330?e=1747872000&v=beta&t=wmMPmDaoIbKZtBTc6MHzB4AiyNof4n2n-ttP14CQNI0",
+                "universalName": "university-of-east-anglia",
+                "dashCompanyUrn": "urn:li:fsd_company:15593",
+                "trackingId": "m4RoXLflSLqE8iFwLiFVZw=="
+            },
+            "companyName": "University of East Anglia"
+        },
+        {
+            "title": "Medical Writer",
+            "description": "Medical Writer in the healthcare industry, communication for novel drugs, treatments and dietary supplements. Focus on respiratory diseases, wound care and gastrointestinal diseases",
+            "locationName": "Cologne, North Rhine-Westphalia, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Marketing and Advertising"
+                ],
+                "objectUrn": "urn:li:company:37867711",
+                "entityUrn": "urn:li:fs_miniCompany:37867711",
+                "name": "Jäger Health - an IQVIA business",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEm_xbXBaUmlA/company-logo_200_200/company-logo_200_200/0/1630523636577?e=1747872000&v=beta&t=MMG1OpOwbWntRAREIB8zk5MVcg6Yky0WvrjjlSCRBDA",
+                "universalName": "jaegerhealth",
+                "dashCompanyUrn": "urn:li:fsd_company:37867711",
+                "trackingId": "HuqkJlCiSx+sBV1U4+31HA=="
+            },
+            "companyName": "Jäger Health GmbH - an IQVIA business"
+        },
+        {
+            "title": "Student Guide",
+            "description": "Providing campus tours and information to new students enabling them to gain an insight of the university and its facilities\nRepresentation of the School of Biological Sciences\n",
+            "locationName": "Norwich, United Kingdom",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:15593",
+                "entityUrn": "urn:li:fs_miniCompany:15593",
+                "name": "University of East Anglia",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEL7bl1nWLc-w/company-logo_200_200/company-logo_200_200/0/1631300913330?e=1747872000&v=beta&t=wmMPmDaoIbKZtBTc6MHzB4AiyNof4n2n-ttP14CQNI0",
+                "universalName": "university-of-east-anglia",
+                "dashCompanyUrn": "urn:li:fsd_company:15593",
+                "trackingId": "zTDsbJ6+Sui1p3DX7pAniw=="
+            },
+            "companyName": "University of East Anglia"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctor of Philosophy - PhD",
+            "fieldOfStudy": "Molecular Microbiology",
+            "schoolName": "University of East Anglia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2019
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science - BS",
+            "fieldOfStudy": "Biology, General",
+            "schoolName": "University of East Anglia",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "degreeName": "Abitur (A level equivalent)",
+            "schoolName": "Elly-Heuss-Schule Wiesbaden",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Risk Assessment",
+        "Communication",
+        "Independent Thinking",
+        "Laboratory Skills"
+    ],
+    "lastEnriched": "2025-02-17"
+}

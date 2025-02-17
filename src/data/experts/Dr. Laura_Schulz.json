@@ -1,0 +1,617 @@
+{
+    "id": "exp548164647",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Laura",
+        "lastName": "Schulz",
+        "fullName": "Dr. Laura Schulz",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch",
+            "Spanisch",
+            "Türkisch"
+        ],
+        "allData": {
+            "id": "548164647",
+            "profileId": "ACoAACCsVCcBydHC9DhzmhzQK4jTUYRMRP1WJLs",
+            "firstName": "Dr. Laura",
+            "lastName": "Schulz",
+            "occupation": "International Medical Writer bei DKMS gemeinnützige GmbH",
+            "publicIdentifier": "dr-laura-schulz-ab36b4133",
+            "trackingId": "0zmhiHARSaipoXpgeStzrg==",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105890944",
+            "positions": [
+                {
+                    "title": "International Medical Writer",
+                    "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Nonprofit Organization Management"
+                        ],
+                        "objectUrn": "urn:li:company:1297952",
+                        "entityUrn": "urn:li:fs_miniCompany:1297952",
+                        "name": "DKMS Deutschland",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwCEGSpxNwUA/company-logo_200_200/company-logo_200_200/0/1654076998433/dkms_ggmbh_logo?e=1747872000&v=beta&t=9AVtdeRg1z210vBYmMl_FOQYn_WT7Y9oNOEba9RmbxY",
+                        "universalName": "dkms-deutschland",
+                        "dashCompanyUrn": "urn:li:fsd_company:1297952",
+                        "trackingId": "JgEMeCqgRU+XV/7UKyorBw=="
+                    },
+                    "companyName": "DKMS gemeinnützige GmbH"
+                },
+                {
+                    "title": "Research-to-Industry Connect Program ",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:14509018",
+                        "entityUrn": "urn:li:fs_miniCompany:14509018",
+                        "name": "BIOWEG ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGZ8p1m8UA77g/company-logo_200_200/company-logo_200_200/0/1675259579268/bioweg_logo?e=1747872000&v=beta&t=7djO9j8guW_E195xru7ftSvFKN6sKjseTqYxZrZhhxs",
+                        "universalName": "bioweg",
+                        "dashCompanyUrn": "urn:li:fsd_company:14509018",
+                        "trackingId": "bHeTQxdfRu6P9eljkipBPw=="
+                    },
+                    "companyName": "BIOWEG "
+                },
+                {
+                    "title": "PHD Student",
+                    "locationName": "Mainz und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:6398228",
+                        "entityUrn": "urn:li:fs_miniCompany:6398228",
+                        "name": "Institute of Molecular Biology (IMB)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEUHNYtt8BDAg/company-logo_200_200/company-logo_200_200/0/1642170163867/institute_of_molecular_biology_imb__logo?e=1747872000&v=beta&t=QQzAy_IcuZzq6LItqPNwyDVH7InbO32UkZyoGeq_1Z0",
+                        "universalName": "institute-of-molecular-biology-imb-",
+                        "dashCompanyUrn": "urn:li:fsd_company:6398228",
+                        "trackingId": "Tu+KORYmT6GsB5ff8cES5Q=="
+                    },
+                    "companyName": "Institute of Molecular Biology (IMB)"
+                },
+                {
+                    "title": "Master Student",
+                    "locationName": "Hannover, Niedersachsen, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:19012725",
+                        "entityUrn": "urn:li:fs_miniCompany:19012725",
+                        "name": "Fraunhofer Institute",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEeOKJIk25YAg/company-logo_200_200/company-logo_200_200/0/1630597691540?e=1747872000&v=beta&t=yaICJg4KEM1uzw-n94j9xmHqxfcRxMqBBsI3CGBPaxo",
+                        "universalName": "fraunhofer-institute",
+                        "dashCompanyUrn": "urn:li:fsd_company:19012725",
+                        "trackingId": "HBOL7z2kQo61I02twI5uuA=="
+                    },
+                    "companyName": "Fraunhofer Institute"
+                },
+                {
+                    "title": "Studentische Hilfskraft",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:5665772",
+                        "entityUrn": "urn:li:fs_miniCompany:5665772",
+                        "name": "Uniklinik RWTH Aachen",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEUUFQmSqlUyw/company-logo_200_200/company-logo_200_200/0/1659343862640/uniklinik_rwth_aachen_logo?e=1747872000&v=beta&t=73Ets0fTO2bpEk_OSLYJ-Dc-FAacxliiqeluGESLFcM",
+                        "universalName": "uniklinik-rwth-aachen",
+                        "dashCompanyUrn": "urn:li:fsd_company:5665772",
+                        "trackingId": "B91WkVuGRGegWDgq6lnYSA=="
+                    },
+                    "companyName": "Uniklinik RWTH Aachen"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctoral of Natural Sciences (Dr. rer. nat.)",
+                    "fieldOfStudy": "Molecular Biology",
+                    "schoolName": "Johannes Gutenberg-Universität Mainz",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2017
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master's degree",
+                    "fieldOfStudy": "Biology",
+                    "schoolName": "RWTH Aachen University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Semester abroad",
+                    "fieldOfStudy": "Biology",
+                    "schoolName": "OCCaP - Indian Institute of Science - Bangalore",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "GxP",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2018
+                        }
+                    },
+                    "authority": "Pharmaakademie GmbH & Co. KG"
+                },
+                {
+                    "name": "Project Management Level D Certificate",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "IPMA: International Project Management Association"
+                },
+                {
+                    "name": "Intermediate R",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "DataCamp"
+                }
+            ],
+            "courses": [
+                {
+                    "name": "Adobe Illustrator"
+                },
+                {
+                    "name": "Advanced Flow Cytometry - Principles of Cell Sorting"
+                },
+                {
+                    "name": "ChIP-seq & RNA-seq Analysis with R/Bioconductor"
+                },
+                {
+                    "name": "Convincing Presentations"
+                },
+                {
+                    "name": "Critical Reasoning"
+                },
+                {
+                    "name": "Global Leadership"
+                },
+                {
+                    "name": "Professional Communication"
+                },
+                {
+                    "name": "R"
+                },
+                {
+                    "name": "Scientific Writing"
+                },
+                {
+                    "name": "Writing for the Public"
+                }
+            ],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "Spanisch",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Türkisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Molecular Biology",
+                "Wissenschaftliches Schreiben",
+                "Durchflusszytometrie",
+                "Projektmanagement"
+            ],
+            "volunteerExperiences": [],
+            "headline": "International Medical Writer bei DKMS gemeinnützige GmbH",
+            "student": false,
+            "industryName": "Biotechnology",
+            "industryUrn": "urn:li:fs_industry:12",
+            "geoLocationName": "Cologne, North Rhine-Westphalia",
+            "geoCountryName": "Germany",
+            "jobTitle": "International Medical Writer",
+            "companyName": "DKMS gemeinnützige GmbH",
+            "companyPublicId": "dkms-deutschland",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/dkms-deutschland",
+            "following": false,
+            "followable": true,
+            "followersCount": 521,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "DKMS gemeinnützige GmbH",
+        "position": "International Medical Writer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Nonprofit Organization Management"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "International Medical Writer",
+        "organization": "DKMS gemeinnützige GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-laura-schulz-ab36b4133/",
+        "company": "https://www.linkedin.com/company/dkms-deutschland"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "International Medical Writer",
+            "locationName": "Köln, Nordrhein-Westfalen, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Nonprofit Organization Management"
+                ],
+                "objectUrn": "urn:li:company:1297952",
+                "entityUrn": "urn:li:fs_miniCompany:1297952",
+                "name": "DKMS Deutschland",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFwCEGSpxNwUA/company-logo_200_200/company-logo_200_200/0/1654076998433/dkms_ggmbh_logo?e=1747872000&v=beta&t=9AVtdeRg1z210vBYmMl_FOQYn_WT7Y9oNOEba9RmbxY",
+                "universalName": "dkms-deutschland",
+                "dashCompanyUrn": "urn:li:fsd_company:1297952",
+                "trackingId": "JgEMeCqgRU+XV/7UKyorBw=="
+            },
+            "companyName": "DKMS gemeinnützige GmbH"
+        },
+        {
+            "title": "Research-to-Industry Connect Program ",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:14509018",
+                "entityUrn": "urn:li:fs_miniCompany:14509018",
+                "name": "BIOWEG ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGZ8p1m8UA77g/company-logo_200_200/company-logo_200_200/0/1675259579268/bioweg_logo?e=1747872000&v=beta&t=7djO9j8guW_E195xru7ftSvFKN6sKjseTqYxZrZhhxs",
+                "universalName": "bioweg",
+                "dashCompanyUrn": "urn:li:fsd_company:14509018",
+                "trackingId": "bHeTQxdfRu6P9eljkipBPw=="
+            },
+            "companyName": "BIOWEG "
+        },
+        {
+            "title": "PHD Student",
+            "locationName": "Mainz und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:6398228",
+                "entityUrn": "urn:li:fs_miniCompany:6398228",
+                "name": "Institute of Molecular Biology (IMB)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEUHNYtt8BDAg/company-logo_200_200/company-logo_200_200/0/1642170163867/institute_of_molecular_biology_imb__logo?e=1747872000&v=beta&t=QQzAy_IcuZzq6LItqPNwyDVH7InbO32UkZyoGeq_1Z0",
+                "universalName": "institute-of-molecular-biology-imb-",
+                "dashCompanyUrn": "urn:li:fsd_company:6398228",
+                "trackingId": "Tu+KORYmT6GsB5ff8cES5Q=="
+            },
+            "companyName": "Institute of Molecular Biology (IMB)"
+        },
+        {
+            "title": "Master Student",
+            "locationName": "Hannover, Niedersachsen, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:19012725",
+                "entityUrn": "urn:li:fs_miniCompany:19012725",
+                "name": "Fraunhofer Institute",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEeOKJIk25YAg/company-logo_200_200/company-logo_200_200/0/1630597691540?e=1747872000&v=beta&t=yaICJg4KEM1uzw-n94j9xmHqxfcRxMqBBsI3CGBPaxo",
+                "universalName": "fraunhofer-institute",
+                "dashCompanyUrn": "urn:li:fsd_company:19012725",
+                "trackingId": "HBOL7z2kQo61I02twI5uuA=="
+            },
+            "companyName": "Fraunhofer Institute"
+        },
+        {
+            "title": "Studentische Hilfskraft",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:5665772",
+                "entityUrn": "urn:li:fs_miniCompany:5665772",
+                "name": "Uniklinik RWTH Aachen",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEUUFQmSqlUyw/company-logo_200_200/company-logo_200_200/0/1659343862640/uniklinik_rwth_aachen_logo?e=1747872000&v=beta&t=73Ets0fTO2bpEk_OSLYJ-Dc-FAacxliiqeluGESLFcM",
+                "universalName": "uniklinik-rwth-aachen",
+                "dashCompanyUrn": "urn:li:fsd_company:5665772",
+                "trackingId": "B91WkVuGRGegWDgq6lnYSA=="
+            },
+            "companyName": "Uniklinik RWTH Aachen"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctoral of Natural Sciences (Dr. rer. nat.)",
+            "fieldOfStudy": "Molecular Biology",
+            "schoolName": "Johannes Gutenberg-Universität Mainz",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2017
+                }
+            }
+        },
+        {
+            "degreeName": "Master's degree",
+            "fieldOfStudy": "Biology",
+            "schoolName": "RWTH Aachen University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        },
+        {
+            "degreeName": "Semester abroad",
+            "fieldOfStudy": "Biology",
+            "schoolName": "OCCaP - Indian Institute of Science - Bangalore",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "GxP",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2018
+                }
+            },
+            "authority": "Pharmaakademie GmbH & Co. KG"
+        },
+        {
+            "name": "Project Management Level D Certificate",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2020
+                }
+            },
+            "authority": "IPMA: International Project Management Association"
+        },
+        {
+            "name": "Intermediate R",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2020
+                }
+            },
+            "authority": "DataCamp"
+        }
+    ],
+    "skills": [
+        "Molecular Biology",
+        "Wissenschaftliches Schreiben",
+        "Durchflusszytometrie",
+        "Projektmanagement"
+    ],
+    "lastEnriched": "2025-02-17"
+}

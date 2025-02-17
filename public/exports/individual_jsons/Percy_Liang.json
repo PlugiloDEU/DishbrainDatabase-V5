@@ -1,0 +1,137 @@
+{
+    "id": "exp11103009",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Percy",
+        "lastName": "Liang",
+        "fullName": "Percy Liang",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "11103009",
+            "profileId": "ACoAAACpayEBct45XVFoVj6PIbmpgFcLn_rNfCM",
+            "firstName": "Percy",
+            "lastName": "Liang",
+            "occupation": "Project Manager at Government of Canada",
+            "publicIdentifier": "percy-liang-4298753",
+            "trackingId": "h7POg0YGTvaDhMcegcRHgw==",
+            "countryCode": "ca",
+            "geoUrn": "urn:li:fs_geo:103366113",
+            "positions": [
+                {
+                    "title": "Project Manager",
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:1555",
+                        "entityUrn": "urn:li:fs_miniCompany:1555",
+                        "name": "Government of Canada",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQELQmn5xJQGNQ/company-logo_200_200/company-logo_200_200/0/1630607360667/government_of_canada_logo?e=1747872000&v=beta&t=gISKzkyBvaKK2tpy29QewPShtGRmoKDUovdPEF30wqs",
+                        "universalName": "government-of-canada",
+                        "dashCompanyUrn": "urn:li:fsd_company:1555",
+                        "trackingId": "gpZUgfnQTy2Xud9Kz0brjg=="
+                    },
+                    "companyName": "Government of Canada"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "British Columbia Institute of Technology"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Project Manager at Government of Canada",
+            "student": false,
+            "industryName": "Construction",
+            "industryUrn": "urn:li:fs_industry:48",
+            "geoLocationName": "Vancouver, British Columbia",
+            "geoCountryName": "Canada",
+            "jobTitle": "Project Manager",
+            "companyName": "Government of Canada",
+            "companyPublicId": "government-of-canada",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/government-of-canada",
+            "following": false,
+            "followable": true,
+            "followersCount": 9,
+            "connectionsCount": 8,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Government of Canada",
+        "position": "Project Manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Government Administration"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Project Manager",
+        "organization": "Government of Canada",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/percy-liang-4298753/",
+        "company": "https://www.linkedin.com/company/government-of-canada"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Project Manager",
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:1555",
+                "entityUrn": "urn:li:fs_miniCompany:1555",
+                "name": "Government of Canada",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQELQmn5xJQGNQ/company-logo_200_200/company-logo_200_200/0/1630607360667/government_of_canada_logo?e=1747872000&v=beta&t=gISKzkyBvaKK2tpy29QewPShtGRmoKDUovdPEF30wqs",
+                "universalName": "government-of-canada",
+                "dashCompanyUrn": "urn:li:fsd_company:1555",
+                "trackingId": "gpZUgfnQTy2Xud9Kz0brjg=="
+            },
+            "companyName": "Government of Canada"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "British Columbia Institute of Technology"
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

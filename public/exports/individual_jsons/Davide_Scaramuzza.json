@@ -1,0 +1,609 @@
+{
+    "id": "exp18779425",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Davide",
+        "lastName": "Scaramuzza",
+        "fullName": "Davide Scaramuzza",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQHXnIf16-SRmg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1574852580338?e=1745452800&v=beta&t=RxXF-bjtWUwcg0VQVSswIRjCZ73LRF_zkd9nnv_QhLw",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Spanish"
+        ],
+        "allData": {
+            "id": "18779425",
+            "profileId": "ACoAAAEejSEBDR9kDMXbA7qEQXRF3xGM_KKQzI8",
+            "firstName": "Davide",
+            "lastName": "Scaramuzza",
+            "occupation": "Professor of Robotics and Perception at the University of Zurich",
+            "publicIdentifier": "davidescaramuzza",
+            "trackingId": "i+yJ26SNRIedf3UdJJH/KQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQHXnIf16-SRmg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1574852580338?e=1745452800&v=beta&t=RxXF-bjtWUwcg0VQVSswIRjCZ73LRF_zkd9nnv_QhLw",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQFt1I9t9KjoSA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1517680230064?e=1745452800&v=beta&t=oYlRlEUF49daMYEvZh-qyCS8G6qRfCX2tCQe5r4D5xU",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:102436504",
+            "positions": [
+                {
+                    "title": "Professor of Robotics and Perception",
+                    "description": "He investigates the use of both conventional and neuromorphic cameras as the main sensors for robot navigation, mapping, exploration, reasoning, and interpretation. His interests encompass both ground and flying robots.",
+                    "locationName": "Zürich Area, Switzerland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:8148",
+                        "entityUrn": "urn:li:fs_miniCompany:8148",
+                        "name": "University of Zurich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEi1fl1yzka5A/company-logo_200_200/company-logo_200_200/0/1630463004621/uzh_logo?e=1747872000&v=beta&t=trL75NbnjIYWZ6FZcWJrd28vTCyI6zy7-HLlWgLwchk",
+                        "universalName": "uzh",
+                        "dashCompanyUrn": "urn:li:fsd_company:8148",
+                        "trackingId": "sua93woVSaOsQwBw52lpdw=="
+                    },
+                    "companyName": "University of Zurich"
+                },
+                {
+                    "title": "Visiting Associate Professor",
+                    "description": "I was visiting associate professor at Stanford University in the groups of Prof. Mac Schwager and Prof. Marco Pavone. ",
+                    "locationName": "Stanford, California, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:1792",
+                        "entityUrn": "urn:li:fs_miniCompany:1792",
+                        "name": "Stanford University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                        "universalName": "stanford-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:1792",
+                        "trackingId": "rHc/XWXhTo+qo53r1nIObg=="
+                    },
+                    "companyName": "Stanford University"
+                },
+                {
+                    "title": "Assistant Professor of Robotics at the University of Zurich",
+                    "description": "Autonomous ground and flying robot navigation using vision as main sensor modality.",
+                    "locationName": "Zurich",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:8148",
+                        "entityUrn": "urn:li:fs_miniCompany:8148",
+                        "name": "University of Zurich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEi1fl1yzka5A/company-logo_200_200/company-logo_200_200/0/1630463004621/uzh_logo?e=1747872000&v=beta&t=trL75NbnjIYWZ6FZcWJrd28vTCyI6zy7-HLlWgLwchk",
+                        "universalName": "uzh",
+                        "dashCompanyUrn": "urn:li:fsd_company:8148",
+                        "trackingId": "s9/1ijGNQe+QoKBBCvWiyQ=="
+                    },
+                    "companyName": "University of Zurich"
+                },
+                {
+                    "title": "Coordinator of the EU Project sFly",
+                    "description": "I led 5 European partners. Together, we demonstrated the world's first autonomous navigation of micro aerial vehicles in GPS-denied environments using only a cameras as the sole sensor. We also showed that this technology can be used for search and rescue of victims in disaster environments.\nMore nifo: http://www.sfly.org - http://www.youtube.com/sflyteam",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:4923",
+                        "entityUrn": "urn:li:fs_miniCompany:4923",
+                        "name": "ETH Zürich",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHpkHDwYhEoiQ/company-logo_200_200/company-logo_200_200/0/1630570736781/eth_zurich_logo?e=1747872000&v=beta&t=IbUCMUQaennww0pi6uSyHX5chd_hyGa4LnNfBpuMN80",
+                        "universalName": "eth-zurich",
+                        "dashCompanyUrn": "urn:li:fsd_company:4923",
+                        "trackingId": "FcJh5HwdTAu3rlfQKwtU/g=="
+                    },
+                    "companyName": "ETH Zurich"
+                },
+                {
+                    "title": "Postdoc in Robotics and Computer Vision",
+                    "description": "I worked with Prof. Kostas Daniilidis and Prof. Vijay Kumar on developing computer vision algorithms for semantic localization and autonomous navigation of micro aerial vehicles.",
+                    "locationName": "Philadelphia",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:3165",
+                        "entityUrn": "urn:li:fs_miniCompany:3165",
+                        "name": "University of Pennsylvania",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHnbnsnJlBiZg/company-logo_200_200/company-logo_200_200/0/1630601168515/university_of_pennsylvania_logo?e=1747872000&v=beta&t=kAqbaMObwRP42DzO3196T-_ZsOkRZ7A7QcpO3qYqDRY",
+                        "universalName": "university-of-pennsylvania",
+                        "dashCompanyUrn": "urn:li:fsd_company:3165",
+                        "trackingId": "BTNoASYsRommTP4+Q3c6Fg=="
+                    },
+                    "companyName": "University of Pennsylvania"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Ph.D. in Robotics and Computer Vision",
+                    "fieldOfStudy": "Robotics and Computer Vision",
+                    "schoolName": "Eidgenössische Technische Hochschule Zürich",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2005
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Internship",
+                    "fieldOfStudy": "Robotics and Computer Vision",
+                    "schoolName": "Ecole polytechnique fédérale de Lausanne",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2005
+                        },
+                        "startDate": {
+                            "year": 2004
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Laurea Degree (equivalent to Master + Bacelor) in Electrical and Information Engineering",
+                    "fieldOfStudy": "Major field of studies in Telecommunicatios and Controls",
+                    "schoolName": "Università degli Studi di Perugia",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "ICRA 2019 workshop on SLAM Benchmarking Best Paper Award",
+                    "description": "Zichao Zhang, PhD student in our lab, received the best paper award at the ICRA 2019 workshop on SLAM Benchmarking with his paper \"Rethinking Trajectory Evaluation for SLAM: a Probabilistic, Continuous-Time Approach\". Paper: http://rpg.ifi.uzh.ch/docs/WICRA19_Zhang.pdf",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                {
+                    "title": "IEEE RAL Best Paper Award finalist",
+                    "description": "Our paper \"Ultimate SLAM? Combining Events, Images, and IMU for Robust Visual SLAM in HDR and High Speed Scenarios\" was nominated finalist for the 2018 IEEE Robotics and Automation Letters Best Paper Award. \nPaper: http://rpg.ifi.uzh.ch/docs/RAL18_VidalRebecq.pdf\nVideo: https://youtu.be/jIvJuWdmemE\n",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2019
+                    }
+                },
+                {
+                    "title": "Drone Hero Contest 2019 - Innovative Drone",
+                    "description": "Our work on the foldable drone, the first quadrotor able to change morphology in flight to adapt its shape and size to different tasks, won the Drone Hero Award Contest 2019 for the category Innovative Drone. Paper: http://rpg.ifi.uzh.ch/docs/RAL18_Falanga.pdf\nVideo: https://youtu.be/jmKXCdEbF_E",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2019
+                    }
+                },
+                {
+                    "title": "CoRL 2018 Best Systems Paper Award",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                {
+                    "title": "IROS 2018 Autonomous Drone Racing 1st Place Winner",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2018
+                    }
+                },
+                {
+                    "title": "IEEE Transactions on Robotics Best Paper Award",
+                    "issueDate": {
+                        "month": 5,
+                        "year": 2018
+                    },
+                    "issuer": "IEEE Transactions on Robotics"
+                },
+                {
+                    "title": "2018 Qualcomm Innovation Fellowship",
+                    "issueDate": {
+                        "month": 4,
+                        "year": 2018
+                    },
+                    "issuer": "Qualcomm"
+                },
+                {
+                    "title": "IROS 2017 Autonomous Drone Race 2nd place winner",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                {
+                    "title": "IROS 2017 Safety Security and Rescue Robotics Paper Award",
+                    "issueDate": {
+                        "month": 9,
+                        "year": 2017
+                    }
+                },
+                {
+                    "title": "Intel Network of Intelligent System Award",
+                    "issueDate": {
+                        "month": 6,
+                        "year": 2017
+                    }
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Italian",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Spanish",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Computer Vision",
+                "Robotics",
+                "Matlab",
+                "LaTeX"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor of Robotics and Perception at the University of Zurich",
+            "summary": "Davide Scaramuzza is a Professor of Robotics and Perception at the University of Zurich. He did his Ph.D. at ETH Zurich, a postdoc at the University of Pennsylvania, and was a visiting professor at Stanford University. His research focuses on autonomous, agile navigation of mini drones using standard and event-based cameras. He pioneered autonomous, vision-based navigation of drones, which inspired the navigation algorithm of the NASA Mars helicopter and many drone companies. In 2022, his team demonstrated that an AI-powered drone could outperform the world champion of drone racing, a result published in Nature. He has been consulting the United Nations on disaster response, the Fukushima Action Plan, disarmament, and AI for good. For his research contributions, he has won many awards, including the very recent IEEE Kiyo Tomiyasu Technical Field Award, the IEEE Robotics and Automation Society Early Career Award, a European Research Council Consolidator Grant, and many paper awards, including the IROS 2023 Best Paper Award, the IEEE Robotics and Automation Letters' and Transactions on Robotics best paper awards, and a 2023 CVPR Best Paper Award finalist. Davide contributed significantly to visual-inertial state estimation, vision-based agile navigation of microdrones, and low-latency, robust perception with event cameras. His results have been transferred to many products, from drones to automobiles, cameras, AR/VR headsets, and mobile devices. Davide counts several entrepreneurial achievements: in 2015, he co-founded Zurich-Eye, which became Meta Zurich, which developed the world-leading virtual-reality headset Meta Quest. In 2020, he co-founded SUIND, which builds autonomous drones for precision agriculture. Many aspects of his research have been featured in the media, such as The New York Times, The Economist, and Forbes.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Zurich",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Professor of Robotics and Perception",
+            "companyName": "University of Zurich",
+            "companyPublicId": "uzh",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/uzh",
+            "following": false,
+            "followable": true,
+            "followersCount": 45400,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "University of Zurich",
+        "position": "Professor of Robotics and Perception",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor of Robotics and Perception",
+        "organization": "University of Zurich",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/davidescaramuzza/",
+        "company": "https://www.linkedin.com/company/uzh"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor of Robotics and Perception",
+            "description": "He investigates the use of both conventional and neuromorphic cameras as the main sensors for robot navigation, mapping, exploration, reasoning, and interpretation. His interests encompass both ground and flying robots.",
+            "locationName": "Zürich Area, Switzerland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:8148",
+                "entityUrn": "urn:li:fs_miniCompany:8148",
+                "name": "University of Zurich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEi1fl1yzka5A/company-logo_200_200/company-logo_200_200/0/1630463004621/uzh_logo?e=1747872000&v=beta&t=trL75NbnjIYWZ6FZcWJrd28vTCyI6zy7-HLlWgLwchk",
+                "universalName": "uzh",
+                "dashCompanyUrn": "urn:li:fsd_company:8148",
+                "trackingId": "sua93woVSaOsQwBw52lpdw=="
+            },
+            "companyName": "University of Zurich"
+        },
+        {
+            "title": "Visiting Associate Professor",
+            "description": "I was visiting associate professor at Stanford University in the groups of Prof. Mac Schwager and Prof. Marco Pavone. ",
+            "locationName": "Stanford, California, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:1792",
+                "entityUrn": "urn:li:fs_miniCompany:1792",
+                "name": "Stanford University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHr9suxyJBXMw/company-logo_200_200/company-logo_200_200/0/1635534378870/stanford_university_logo?e=1747872000&v=beta&t=6HRJIM_WWNPybB-dvR7mIKONotjg4NrrQJl4OAwyB84",
+                "universalName": "stanford-university",
+                "dashCompanyUrn": "urn:li:fsd_company:1792",
+                "trackingId": "rHc/XWXhTo+qo53r1nIObg=="
+            },
+            "companyName": "Stanford University"
+        },
+        {
+            "title": "Assistant Professor of Robotics at the University of Zurich",
+            "description": "Autonomous ground and flying robot navigation using vision as main sensor modality.",
+            "locationName": "Zurich",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:8148",
+                "entityUrn": "urn:li:fs_miniCompany:8148",
+                "name": "University of Zurich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQEi1fl1yzka5A/company-logo_200_200/company-logo_200_200/0/1630463004621/uzh_logo?e=1747872000&v=beta&t=trL75NbnjIYWZ6FZcWJrd28vTCyI6zy7-HLlWgLwchk",
+                "universalName": "uzh",
+                "dashCompanyUrn": "urn:li:fsd_company:8148",
+                "trackingId": "s9/1ijGNQe+QoKBBCvWiyQ=="
+            },
+            "companyName": "University of Zurich"
+        },
+        {
+            "title": "Coordinator of the EU Project sFly",
+            "description": "I led 5 European partners. Together, we demonstrated the world's first autonomous navigation of micro aerial vehicles in GPS-denied environments using only a cameras as the sole sensor. We also showed that this technology can be used for search and rescue of victims in disaster environments.\nMore nifo: http://www.sfly.org - http://www.youtube.com/sflyteam",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:4923",
+                "entityUrn": "urn:li:fs_miniCompany:4923",
+                "name": "ETH Zürich",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHpkHDwYhEoiQ/company-logo_200_200/company-logo_200_200/0/1630570736781/eth_zurich_logo?e=1747872000&v=beta&t=IbUCMUQaennww0pi6uSyHX5chd_hyGa4LnNfBpuMN80",
+                "universalName": "eth-zurich",
+                "dashCompanyUrn": "urn:li:fsd_company:4923",
+                "trackingId": "FcJh5HwdTAu3rlfQKwtU/g=="
+            },
+            "companyName": "ETH Zurich"
+        },
+        {
+            "title": "Postdoc in Robotics and Computer Vision",
+            "description": "I worked with Prof. Kostas Daniilidis and Prof. Vijay Kumar on developing computer vision algorithms for semantic localization and autonomous navigation of micro aerial vehicles.",
+            "locationName": "Philadelphia",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:3165",
+                "entityUrn": "urn:li:fs_miniCompany:3165",
+                "name": "University of Pennsylvania",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHnbnsnJlBiZg/company-logo_200_200/company-logo_200_200/0/1630601168515/university_of_pennsylvania_logo?e=1747872000&v=beta&t=kAqbaMObwRP42DzO3196T-_ZsOkRZ7A7QcpO3qYqDRY",
+                "universalName": "university-of-pennsylvania",
+                "dashCompanyUrn": "urn:li:fsd_company:3165",
+                "trackingId": "BTNoASYsRommTP4+Q3c6Fg=="
+            },
+            "companyName": "University of Pennsylvania"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Ph.D. in Robotics and Computer Vision",
+            "fieldOfStudy": "Robotics and Computer Vision",
+            "schoolName": "Eidgenössische Technische Hochschule Zürich",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2005
+                }
+            }
+        },
+        {
+            "degreeName": "Internship",
+            "fieldOfStudy": "Robotics and Computer Vision",
+            "schoolName": "Ecole polytechnique fédérale de Lausanne",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2005
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            }
+        },
+        {
+            "degreeName": "Laurea Degree (equivalent to Master + Bacelor) in Electrical and Information Engineering",
+            "fieldOfStudy": "Major field of studies in Telecommunicatios and Controls",
+            "schoolName": "Università degli Studi di Perugia",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Computer Vision",
+        "Robotics",
+        "Matlab",
+        "LaTeX"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,536 @@
+{
+    "id": "exp748050389",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Jonas",
+        "lastName": "Brinker",
+        "fullName": "Dr. Jonas Brinker",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQFp5YlczVr59Q/profile-displayphoto-shrink_200_200/B4EZRJ8icYHAAY-/0/1736407394781?e=1745452800&v=beta&t=9oLBR6tsqsKHiXG5b2FC7ljHPUrFlKZoeP0Yafqh7oo",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German"
+        ],
+        "allData": {
+            "id": "748050389",
+            "profileId": "ACoAACyWV9UBOFVJecTv3mA6RhLhCr6a0UflplQ",
+            "firstName": "Dr. Jonas",
+            "lastName": "Brinker",
+            "occupation": "Senior Consultant @ _fbeta GmbH",
+            "publicIdentifier": "jobrinker",
+            "trackingId": "k6wAmE02SuOyq50JjT5OWA==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQFp5YlczVr59Q/profile-displayphoto-shrink_200_200/B4EZRJ8icYHAAY-/0/1736407394781?e=1745452800&v=beta&t=9oLBR6tsqsKHiXG5b2FC7ljHPUrFlKZoeP0Yafqh7oo",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:105996813",
+            "positions": [
+                {
+                    "title": "Senior Consultant",
+                    "locationName": "Berlin, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Management Consulting"
+                        ],
+                        "objectUrn": "urn:li:company:18405936",
+                        "entityUrn": "urn:li:fs_miniCompany:18405936",
+                        "name": "_fbeta GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQERMsJ8-92AfA/company-logo_200_200/company-logo_200_200/0/1630644816194/fbeta_gmbh_logo?e=1747872000&v=beta&t=S1DafrPcHlWmifBuK_17F3IBzpHgad16PnOMxbVTbQE",
+                        "universalName": "fbeta-gmbh",
+                        "dashCompanyUrn": "urn:li:fsd_company:18405936",
+                        "trackingId": "ttyct6yeTc+pWQQJnLgYtQ=="
+                    },
+                    "companyName": "_fbeta GmbH"
+                },
+                {
+                    "title": "Senior Researcher",
+                    "locationName": "Osnabrück, Lower Saxony, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "Vq4TuEPUSOufZWNsTDHQKQ=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Team Manager",
+                    "locationName": "Osnabrück, Lower Saxony, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "lnKu8x1cS7SGKbaPsejafg=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Researcher",
+                    "locationName": "Osnabrück, Lower Saxony, Germany",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "RdxjzBnTRtSQx2Yzoz/tZw=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Project Manager",
+                    "description": "Project smartTCS - Smart Technical Customer Service Platform 4.0",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:45458",
+                        "entityUrn": "urn:li:fs_miniCompany:45458",
+                        "name": "Universität Osnabrück",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                        "universalName": "osnabrueck-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:45458",
+                        "trackingId": "YJqE7j35TIGIJ0Jb0KY1wg=="
+                    },
+                    "companyName": "Universität Osnabrück"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Doctorate (rer. pol.), Information Systems",
+                    "schoolName": "Universität Osnabrück",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "year": 2018
+                        }
+                    }
+                },
+                {
+                    "degreeName": "M. Sc. Information Systems",
+                    "schoolName": "Universität Osnabrück",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "schoolName": "University of Jyväskylä",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "year": 2015
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Ingenieur",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2019
+                        }
+                    },
+                    "authority": "Ingenieurkammer Niedersachsen"
+                }
+            ],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "GFFW Förderpreis für herausragende Leistungen in der Wirtschaftsinformatik",
+                    "description": "Award for outstanding accomplishments in my master thesis.",
+                    "issueDate": {
+                        "month": 10,
+                        "year": 2018
+                    },
+                    "issuer": "Gesellschaft der Freunde und Förderer des Fachbereichs Wirtschaftswissenschaften e.V."
+                }
+            ],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Artificial Intelligence (AI)",
+                "GenAI",
+                "Digital Strategy",
+                "Data Analytics"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Senior Consultant @ _fbeta GmbH",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "Osnabrück, Lower Saxony",
+            "geoCountryName": "Germany",
+            "jobTitle": "Senior Consultant",
+            "companyName": "_fbeta GmbH",
+            "companyPublicId": "fbeta-gmbh",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/fbeta-gmbh",
+            "following": false,
+            "followable": true,
+            "followersCount": 365,
+            "connectionsCount": 358,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "_fbeta GmbH",
+        "position": "Senior Consultant",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Management Consulting"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Consultant",
+        "organization": "_fbeta GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/jobrinker/",
+        "company": "https://www.linkedin.com/company/fbeta-gmbh"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Consultant",
+            "locationName": "Berlin, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Management Consulting"
+                ],
+                "objectUrn": "urn:li:company:18405936",
+                "entityUrn": "urn:li:fs_miniCompany:18405936",
+                "name": "_fbeta GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQERMsJ8-92AfA/company-logo_200_200/company-logo_200_200/0/1630644816194/fbeta_gmbh_logo?e=1747872000&v=beta&t=S1DafrPcHlWmifBuK_17F3IBzpHgad16PnOMxbVTbQE",
+                "universalName": "fbeta-gmbh",
+                "dashCompanyUrn": "urn:li:fsd_company:18405936",
+                "trackingId": "ttyct6yeTc+pWQQJnLgYtQ=="
+            },
+            "companyName": "_fbeta GmbH"
+        },
+        {
+            "title": "Senior Researcher",
+            "locationName": "Osnabrück, Lower Saxony, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "Vq4TuEPUSOufZWNsTDHQKQ=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Team Manager",
+            "locationName": "Osnabrück, Lower Saxony, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "lnKu8x1cS7SGKbaPsejafg=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Researcher",
+            "locationName": "Osnabrück, Lower Saxony, Germany",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "RdxjzBnTRtSQx2Yzoz/tZw=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Project Manager",
+            "description": "Project smartTCS - Smart Technical Customer Service Platform 4.0",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2019
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:45458",
+                "entityUrn": "urn:li:fs_miniCompany:45458",
+                "name": "Universität Osnabrück",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQHHxJA-aYO2tA/company-logo_200_200/company-logo_200_200/0/1631334507935?e=1747872000&v=beta&t=aYUXNDEAh0UXzWbS5Kfu7xWZDj0aNStAM-rgI_l-OyE",
+                "universalName": "osnabrueck-university",
+                "dashCompanyUrn": "urn:li:fsd_company:45458",
+                "trackingId": "YJqE7j35TIGIJ0Jb0KY1wg=="
+            },
+            "companyName": "Universität Osnabrück"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Doctorate (rer. pol.), Information Systems",
+            "schoolName": "Universität Osnabrück",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2018
+                }
+            }
+        },
+        {
+            "degreeName": "M. Sc. Information Systems",
+            "schoolName": "Universität Osnabrück",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2018
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "schoolName": "University of Jyväskylä",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                },
+                "startDate": {
+                    "year": 2015
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Ingenieur",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2019
+                }
+            },
+            "authority": "Ingenieurkammer Niedersachsen"
+        }
+    ],
+    "skills": [
+        "Artificial Intelligence (AI)",
+        "GenAI",
+        "Digital Strategy",
+        "Data Analytics"
+    ],
+    "lastEnriched": "2025-02-17"
+}

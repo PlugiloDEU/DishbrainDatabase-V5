@@ -1,0 +1,438 @@
+{
+    "id": "exp5214987",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Jakob",
+        "lastName": "Uszkoreit",
+        "fullName": "Jakob Uszkoreit",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German"
+        ],
+        "allData": {
+            "id": "5214987",
+            "profileId": "ACoAAABPkwsBlvB4CjKyyntIkqNtS5w0ko56fhU",
+            "firstName": "Jakob",
+            "lastName": "Uszkoreit",
+            "occupation": "Learning Life's Languages",
+            "publicIdentifier": "jakob-uszkoreit-b238b51",
+            "trackingId": "JxdBZ5h3Rw+4YOQiYX/kfg==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:103644278",
+            "positions": [
+                {
+                    "title": "Chief Executive Officer",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:76268916",
+                        "entityUrn": "urn:li:fs_miniCompany:76268916",
+                        "name": "Inceptive",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQE4DQ05XgEGUQ/company-logo_200_200/company-logo_200_200/0/1703264152117/inceptivenucleics_logo?e=1747872000&v=beta&t=lstSzUCXm7At3bqkzRZzHgdT043G4xGNuVdgwB2QuoY",
+                        "universalName": "inceptivenucleics",
+                        "dashCompanyUrn": "urn:li:fsd_company:76268916",
+                        "trackingId": "VuAJPqghTOGdJUgVWYWWtw=="
+                    },
+                    "companyName": "Inceptive"
+                },
+                {
+                    "title": "Co-Founder",
+                    "description": "Learn Life's Languages",
+                    "locationName": "Palo Alto, California, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:76268916",
+                        "entityUrn": "urn:li:fs_miniCompany:76268916",
+                        "name": "Inceptive",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQE4DQ05XgEGUQ/company-logo_200_200/company-logo_200_200/0/1703264152117/inceptivenucleics_logo?e=1747872000&v=beta&t=lstSzUCXm7At3bqkzRZzHgdT043G4xGNuVdgwB2QuoY",
+                        "universalName": "inceptivenucleics",
+                        "dashCompanyUrn": "urn:li:fsd_company:76268916",
+                        "trackingId": "EdfxHRIfSA+riz3x15JjSw=="
+                    },
+                    "companyName": "Inceptive"
+                },
+                {
+                    "title": "Senior Staff Software Engineer",
+                    "description": "I currently research novel neural network architectures and training paradigms in the Google Brain research team.\n\nPreviously I started and led a research team in Google Machine Intelligence, working on large-scale deep learning for natural language understanding, with applications in the Google Assistant and other products.\n\nBefore that, I started and managed the team in Search responsible for the core natural language query understanding system behind the Google Assistant and various other products, after working on Google Translate in its earlier days.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "Ce1YVwalQ7ahudCTuvGP+Q=="
+                    },
+                    "companyName": "Google"
+                },
+                {
+                    "title": "Software Engineer",
+                    "description": "Worked on a system to maximize applicability of translation memories to newly authored content.",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:431282",
+                        "entityUrn": "urn:li:fs_miniCompany:431282",
+                        "name": "Acrolinx",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGfTRZKE9yhjg/company-logo_200_200/company-logo_200_200/0/1719822330241/acrolinx_logo?e=1747872000&v=beta&t=BzTAK6nRkTl0Jp9sru8mRioQJ6ybz4sEXqf9YK2JHyo",
+                        "universalName": "acrolinx",
+                        "dashCompanyUrn": "urn:li:fsd_company:431282",
+                        "trackingId": "cnv5otyZTh6raIUsBeJbiw=="
+                    },
+                    "companyName": "acrolinx GmbH"
+                },
+                {
+                    "title": "Intern",
+                    "description": "Distributed clustering algorithms for applications in machine translation, language modeling and other natural language understanding systems.",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2006
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1441",
+                        "entityUrn": "urn:li:fs_miniCompany:1441",
+                        "name": "Google",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                        "universalName": "google",
+                        "dashCompanyUrn": "urn:li:fsd_company:1441",
+                        "trackingId": "jDOuoixdTE6KsAZ4d3di5Q=="
+                    },
+                    "companyName": "Google Research"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master's degree",
+                    "fieldOfStudy": "Computer Science, Mathematics",
+                    "schoolName": "Technische Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English"
+                },
+                {
+                    "name": "German"
+                }
+            ],
+            "skills": [
+                "Software Development",
+                "Algorithms",
+                "Computer Science",
+                "Distributed Systems"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Learning Life's Languages",
+            "student": false,
+            "industryName": "Biotechnology",
+            "industryUrn": "urn:li:fs_industry:12",
+            "geoCountryName": "United States",
+            "jobTitle": "Chief Executive Officer",
+            "companyName": "Inceptive",
+            "companyPublicId": "inceptivenucleics",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/inceptivenucleics",
+            "following": false,
+            "followable": true,
+            "followersCount": 4104,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Inceptive",
+        "position": "Chief Executive Officer",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Biotechnology"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chief Executive Officer",
+        "organization": "Inceptive",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/jakob-uszkoreit-b238b51/",
+        "company": "https://www.linkedin.com/company/inceptivenucleics"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chief Executive Officer",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:76268916",
+                "entityUrn": "urn:li:fs_miniCompany:76268916",
+                "name": "Inceptive",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQE4DQ05XgEGUQ/company-logo_200_200/company-logo_200_200/0/1703264152117/inceptivenucleics_logo?e=1747872000&v=beta&t=lstSzUCXm7At3bqkzRZzHgdT043G4xGNuVdgwB2QuoY",
+                "universalName": "inceptivenucleics",
+                "dashCompanyUrn": "urn:li:fsd_company:76268916",
+                "trackingId": "VuAJPqghTOGdJUgVWYWWtw=="
+            },
+            "companyName": "Inceptive"
+        },
+        {
+            "title": "Co-Founder",
+            "description": "Learn Life's Languages",
+            "locationName": "Palo Alto, California, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:76268916",
+                "entityUrn": "urn:li:fs_miniCompany:76268916",
+                "name": "Inceptive",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQE4DQ05XgEGUQ/company-logo_200_200/company-logo_200_200/0/1703264152117/inceptivenucleics_logo?e=1747872000&v=beta&t=lstSzUCXm7At3bqkzRZzHgdT043G4xGNuVdgwB2QuoY",
+                "universalName": "inceptivenucleics",
+                "dashCompanyUrn": "urn:li:fsd_company:76268916",
+                "trackingId": "EdfxHRIfSA+riz3x15JjSw=="
+            },
+            "companyName": "Inceptive"
+        },
+        {
+            "title": "Senior Staff Software Engineer",
+            "description": "I currently research novel neural network architectures and training paradigms in the Google Brain research team.\n\nPreviously I started and led a research team in Google Machine Intelligence, working on large-scale deep learning for natural language understanding, with applications in the Google Assistant and other products.\n\nBefore that, I started and managed the team in Search responsible for the core natural language query understanding system behind the Google Assistant and various other products, after working on Google Translate in its earlier days.",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "Ce1YVwalQ7ahudCTuvGP+Q=="
+            },
+            "companyName": "Google"
+        },
+        {
+            "title": "Software Engineer",
+            "description": "Worked on a system to maximize applicability of translation memories to newly authored content.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:431282",
+                "entityUrn": "urn:li:fs_miniCompany:431282",
+                "name": "Acrolinx",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGfTRZKE9yhjg/company-logo_200_200/company-logo_200_200/0/1719822330241/acrolinx_logo?e=1747872000&v=beta&t=BzTAK6nRkTl0Jp9sru8mRioQJ6ybz4sEXqf9YK2JHyo",
+                "universalName": "acrolinx",
+                "dashCompanyUrn": "urn:li:fsd_company:431282",
+                "trackingId": "cnv5otyZTh6raIUsBeJbiw=="
+            },
+            "companyName": "acrolinx GmbH"
+        },
+        {
+            "title": "Intern",
+            "description": "Distributed clustering algorithms for applications in machine translation, language modeling and other natural language understanding systems.",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2006
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1441",
+                "entityUrn": "urn:li:fs_miniCompany:1441",
+                "name": "Google",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHiNSL4Or29cg/company-logo_200_200/company-logo_200_200/0/1631311446380?e=1747872000&v=beta&t=Crvr-sT-PKyi5utlPOVG3n8QE-I18W-FIX5ud_SmM7I",
+                "universalName": "google",
+                "dashCompanyUrn": "urn:li:fsd_company:1441",
+                "trackingId": "jDOuoixdTE6KsAZ4d3di5Q=="
+            },
+            "companyName": "Google Research"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master's degree",
+            "fieldOfStudy": "Computer Science, Mathematics",
+            "schoolName": "Technische Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Software Development",
+        "Algorithms",
+        "Computer Science",
+        "Distributed Systems"
+    ],
+    "lastEnriched": "2025-02-17"
+}

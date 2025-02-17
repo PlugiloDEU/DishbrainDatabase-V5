@@ -1,0 +1,467 @@
+{
+    "id": "exp1962880",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Rade",
+        "lastName": "Milanovic",
+        "fullName": "Rade Milanovic",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French",
+            "Serbian"
+        ],
+        "allData": {
+            "id": "1962880",
+            "profileId": "ACoAAAAd84ABA-PmCGJDXJCOEbPiAB4fUTkIuEI",
+            "firstName": "Rade",
+            "lastName": "Milanovic",
+            "occupation": "Project Engineer: Light Duty Diesel Engine at FEV North America, Inc.",
+            "publicIdentifier": "rade-milanovic-b147a7",
+            "trackingId": "leRcKaPCTWGh3L8ng8/klQ==",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000035",
+            "positions": [
+                {
+                    "title": "Chief Engineer: Emissions and OBD Calibration",
+                    "locationName": "Auburn Hills, Michigan, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:54903",
+                        "entityUrn": "urn:li:fs_miniCompany:54903",
+                        "name": "FEV North America, Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHRYOd7b9YSEw/company-logo_200_200/company-logo_200_200/0/1665400788515/fev_inc_logo?e=1747872000&v=beta&t=krVpyCxKcupOb8IBJ8dH-CtMXwKYuwOMl9sWRsD8dZA",
+                        "universalName": "fev-north-america-inc",
+                        "dashCompanyUrn": "urn:li:fsd_company:54903",
+                        "trackingId": "9uW1FXs6RSO7sYpK6W25rA=="
+                    },
+                    "companyName": "FEV North America, Inc."
+                },
+                {
+                    "title": "Technical Specialist: Diesel Engine Controls and Calibration",
+                    "description": "Responsible for engine performance & emissions calibration on light duty diesel engine of a major OEM – successfully certified and launched in current difficult regulatory environment",
+                    "locationName": "Greater Detroit Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:54903",
+                        "entityUrn": "urn:li:fs_miniCompany:54903",
+                        "name": "FEV North America, Inc.",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHRYOd7b9YSEw/company-logo_200_200/company-logo_200_200/0/1665400788515/fev_inc_logo?e=1747872000&v=beta&t=krVpyCxKcupOb8IBJ8dH-CtMXwKYuwOMl9sWRsD8dZA",
+                        "universalName": "fev-north-america-inc",
+                        "dashCompanyUrn": "urn:li:fsd_company:54903",
+                        "trackingId": "guNpp6YvQRuAU8H9A+LkFw=="
+                    },
+                    "companyName": "FEV North America, Inc."
+                },
+                {
+                    "title": "Technical Specialist: Diesel Engine Aftertreatment",
+                    "description": "o\t2017 aftertreatment system development and implementation lead on Navistar 13L engine\n\tLed a cross-functional team through interface requirements definition process between engine, aftertreatment and vehicle including controls and calibration requirements\n\tRan hardware development process through simulation, testing and calibration to successfully  demonstrate aftertreatment capability to meet functional requirements\n\tDeveloped system-level FMEA and Design Verification Plan (DVP) with system supplier and with inputs from Navistar cross-functional teams\n\tCurrently overseeing calibration and DVP execution activities\n",
+                    "locationName": "Greater Chicago Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:5112",
+                        "entityUrn": "urn:li:fs_miniCompany:5112",
+                        "name": "Navistar Inc",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFjayqBe56mRQ/company-logo_200_200/company-logo_200_200/0/1630640941702/navistar_inc_logo?e=1747872000&v=beta&t=ekEjYHaqZmuC2Rb_JWIJUv1J8GuXQDk1BHky747QfDg",
+                        "universalName": "navistar-inc",
+                        "dashCompanyUrn": "urn:li:fsd_company:5112",
+                        "trackingId": "DUxD2tA2QOGgBIplccFBiw=="
+                    },
+                    "companyName": "Navistar"
+                },
+                {
+                    "title": "Senior Engineering Team Lead: Diesel Engine Aftertreatment",
+                    "description": "Led implementation of burner technology into Navistar EGR engine aftertreatment  \n\tRan new technology screening: high level requirements definition, simulations, cost and production readiness analysis, led cross-functional team through decision matrix process \n\tDeveloped control strategy requirements for burner integration into existing controls\n\tBurner hardware design and validation: defined detailed functional requirements, managed supplier design and simulation process,  prototype builds, and testing \n\tLed system-level  risk management (FMEA) and verification plan (DVP) activities\n",
+                    "locationName": "Greater Chicago Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 7,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:5112",
+                        "entityUrn": "urn:li:fs_miniCompany:5112",
+                        "name": "Navistar Inc",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFjayqBe56mRQ/company-logo_200_200/company-logo_200_200/0/1630640941702/navistar_inc_logo?e=1747872000&v=beta&t=ekEjYHaqZmuC2Rb_JWIJUv1J8GuXQDk1BHky747QfDg",
+                        "universalName": "navistar-inc",
+                        "dashCompanyUrn": "urn:li:fsd_company:5112",
+                        "trackingId": "4w0Kf7sjRROrWwInO2QFfw=="
+                    },
+                    "companyName": "Navistar Inc"
+                },
+                {
+                    "title": "Diesel Engine Calibration Process Engineer",
+                    "description": "o\tOrganized aftertreatment development process, created interactive website to help engineers access calibration/testing/data analysis processes and procedures easily\no\tProject planning and budgeting: created processes and tools to easily create, manage program plans and budgets for aftertreatment  for over 20 different programs\no\tDeveloped tools for rapid calibration data processing (Excel/MATLAB/Simulink)\n",
+                    "locationName": "Greater Chicago Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:5112",
+                        "entityUrn": "urn:li:fs_miniCompany:5112",
+                        "name": "Navistar Inc",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFjayqBe56mRQ/company-logo_200_200/company-logo_200_200/0/1630640941702/navistar_inc_logo?e=1747872000&v=beta&t=ekEjYHaqZmuC2Rb_JWIJUv1J8GuXQDk1BHky747QfDg",
+                        "universalName": "navistar-inc",
+                        "dashCompanyUrn": "urn:li:fsd_company:5112",
+                        "trackingId": "xPzS0SotQdCSR56kB1bf4g=="
+                    },
+                    "companyName": "Navistar Inc"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Master's",
+                    "fieldOfStudy": "Mechanical Engineering",
+                    "schoolName": "Purdue University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2003
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Serbian",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "Engineering",
+                "Six Sigma",
+                "FMEA",
+                "GD&T"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Project Engineer: Light Duty Diesel Engine at FEV North America, Inc.",
+            "summary": "Skilled professional with strong background in mechanical engineering, controls, calibration, six sigma and program management. Over 12 years of product development and problem solving experience in highly dynamic mass manufacturing environments of the major transportation original equipment manufacturer and major automotive parts supplier.",
+            "student": false,
+            "industryName": "Automotive",
+            "industryUrn": "urn:li:fs_industry:53",
+            "geoLocationName": "Detroit Metropolitan Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Chief Engineer: Emissions and OBD Calibration",
+            "companyName": "FEV North America, Inc.",
+            "companyPublicId": "fev-north-america-inc",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/fev-north-america-inc",
+            "following": false,
+            "followable": true,
+            "followersCount": 339,
+            "connectionsCount": 340,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "FEV North America, Inc.",
+        "position": "Chief Engineer: Emissions and OBD Calibration",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Automotive"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Chief Engineer: Emissions and OBD Calibration",
+        "organization": "FEV North America, Inc.",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/rade-milanovic-b147a7/",
+        "company": "https://www.linkedin.com/company/fev-north-america-inc"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Chief Engineer: Emissions and OBD Calibration",
+            "locationName": "Auburn Hills, Michigan, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:54903",
+                "entityUrn": "urn:li:fs_miniCompany:54903",
+                "name": "FEV North America, Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHRYOd7b9YSEw/company-logo_200_200/company-logo_200_200/0/1665400788515/fev_inc_logo?e=1747872000&v=beta&t=krVpyCxKcupOb8IBJ8dH-CtMXwKYuwOMl9sWRsD8dZA",
+                "universalName": "fev-north-america-inc",
+                "dashCompanyUrn": "urn:li:fsd_company:54903",
+                "trackingId": "9uW1FXs6RSO7sYpK6W25rA=="
+            },
+            "companyName": "FEV North America, Inc."
+        },
+        {
+            "title": "Technical Specialist: Diesel Engine Controls and Calibration",
+            "description": "Responsible for engine performance & emissions calibration on light duty diesel engine of a major OEM – successfully certified and launched in current difficult regulatory environment",
+            "locationName": "Greater Detroit Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:54903",
+                "entityUrn": "urn:li:fs_miniCompany:54903",
+                "name": "FEV North America, Inc.",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHRYOd7b9YSEw/company-logo_200_200/company-logo_200_200/0/1665400788515/fev_inc_logo?e=1747872000&v=beta&t=krVpyCxKcupOb8IBJ8dH-CtMXwKYuwOMl9sWRsD8dZA",
+                "universalName": "fev-north-america-inc",
+                "dashCompanyUrn": "urn:li:fsd_company:54903",
+                "trackingId": "guNpp6YvQRuAU8H9A+LkFw=="
+            },
+            "companyName": "FEV North America, Inc."
+        },
+        {
+            "title": "Technical Specialist: Diesel Engine Aftertreatment",
+            "description": "o\t2017 aftertreatment system development and implementation lead on Navistar 13L engine\n\tLed a cross-functional team through interface requirements definition process between engine, aftertreatment and vehicle including controls and calibration requirements\n\tRan hardware development process through simulation, testing and calibration to successfully  demonstrate aftertreatment capability to meet functional requirements\n\tDeveloped system-level FMEA and Design Verification Plan (DVP) with system supplier and with inputs from Navistar cross-functional teams\n\tCurrently overseeing calibration and DVP execution activities\n",
+            "locationName": "Greater Chicago Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:5112",
+                "entityUrn": "urn:li:fs_miniCompany:5112",
+                "name": "Navistar Inc",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFjayqBe56mRQ/company-logo_200_200/company-logo_200_200/0/1630640941702/navistar_inc_logo?e=1747872000&v=beta&t=ekEjYHaqZmuC2Rb_JWIJUv1J8GuXQDk1BHky747QfDg",
+                "universalName": "navistar-inc",
+                "dashCompanyUrn": "urn:li:fsd_company:5112",
+                "trackingId": "DUxD2tA2QOGgBIplccFBiw=="
+            },
+            "companyName": "Navistar"
+        },
+        {
+            "title": "Senior Engineering Team Lead: Diesel Engine Aftertreatment",
+            "description": "Led implementation of burner technology into Navistar EGR engine aftertreatment  \n\tRan new technology screening: high level requirements definition, simulations, cost and production readiness analysis, led cross-functional team through decision matrix process \n\tDeveloped control strategy requirements for burner integration into existing controls\n\tBurner hardware design and validation: defined detailed functional requirements, managed supplier design and simulation process,  prototype builds, and testing \n\tLed system-level  risk management (FMEA) and verification plan (DVP) activities\n",
+            "locationName": "Greater Chicago Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 7,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:5112",
+                "entityUrn": "urn:li:fs_miniCompany:5112",
+                "name": "Navistar Inc",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFjayqBe56mRQ/company-logo_200_200/company-logo_200_200/0/1630640941702/navistar_inc_logo?e=1747872000&v=beta&t=ekEjYHaqZmuC2Rb_JWIJUv1J8GuXQDk1BHky747QfDg",
+                "universalName": "navistar-inc",
+                "dashCompanyUrn": "urn:li:fsd_company:5112",
+                "trackingId": "4w0Kf7sjRROrWwInO2QFfw=="
+            },
+            "companyName": "Navistar Inc"
+        },
+        {
+            "title": "Diesel Engine Calibration Process Engineer",
+            "description": "o\tOrganized aftertreatment development process, created interactive website to help engineers access calibration/testing/data analysis processes and procedures easily\no\tProject planning and budgeting: created processes and tools to easily create, manage program plans and budgets for aftertreatment  for over 20 different programs\no\tDeveloped tools for rapid calibration data processing (Excel/MATLAB/Simulink)\n",
+            "locationName": "Greater Chicago Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:5112",
+                "entityUrn": "urn:li:fs_miniCompany:5112",
+                "name": "Navistar Inc",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFjayqBe56mRQ/company-logo_200_200/company-logo_200_200/0/1630640941702/navistar_inc_logo?e=1747872000&v=beta&t=ekEjYHaqZmuC2Rb_JWIJUv1J8GuXQDk1BHky747QfDg",
+                "universalName": "navistar-inc",
+                "dashCompanyUrn": "urn:li:fsd_company:5112",
+                "trackingId": "xPzS0SotQdCSR56kB1bf4g=="
+            },
+            "companyName": "Navistar Inc"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Master's",
+            "fieldOfStudy": "Mechanical Engineering",
+            "schoolName": "Purdue University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2003
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Engineering",
+        "Six Sigma",
+        "FMEA",
+        "GD&T"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,437 @@
+{
+    "id": "exp647004",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Wolfgang",
+        "lastName": "Maaß",
+        "fullName": "Wolfgang Maaß",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGBaMfcTLMhKw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730910042622?e=1745452800&v=beta&t=ljjcIk0INkkbFlDvK0h-MzwWbpv81kASg5I1oLiefTg",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "647004",
+            "profileId": "ACoAAAAJ31wBlK_G6Db1ThH9UgxDtdOnTZZfqCY",
+            "firstName": "Wolfgang",
+            "lastName": "Maaß",
+            "occupation": "Professor at Saarland U and Director at German Research Center for Artificial Intelligence (DFKI)",
+            "publicIdentifier": "wmaass",
+            "trackingId": "5WUxR8+vSViPo6r+0AkNEg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGBaMfcTLMhKw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730910042622?e=1745452800&v=beta&t=ljjcIk0INkkbFlDvK0h-MzwWbpv81kASg5I1oLiefTg",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:104674833",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "description": "Chair in Business Informatics, in particular Information and Service Systems (ISS)",
+                    "locationName": "Saarbrücken",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 8,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:165803",
+                        "entityUrn": "urn:li:fs_miniCompany:165803",
+                        "name": "Universität des Saarlandes",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHUKNuUNeNHZA/company-logo_200_200/company-logo_200_200/0/1631355954413?e=1747872000&v=beta&t=i53H2WJasQ0BgAJVOR6WXzDP7tPbj0Y9k3ce32Uhr8w",
+                        "universalName": "saarland-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:165803",
+                        "trackingId": "j4QHVry4Sb661z8KRpUfug=="
+                    },
+                    "companyName": "Saarland University"
+                },
+                {
+                    "title": "Senior Data Science Advisor",
+                    "locationName": "Rockville, Maryland, Vereinigte Staaten von Amerika",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Government Administration"
+                        ],
+                        "objectUrn": "urn:li:company:3424",
+                        "entityUrn": "urn:li:fs_miniCompany:3424",
+                        "name": "National Cancer Institute (NCI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHrPAXeckNtdA/company-logo_200_200/company-logo_200_200/0/1631333151029?e=1747872000&v=beta&t=2L0Bvzk3Nq7KgzH0HZ0oTPnqKBIA8bAlj_jlpV64Amw",
+                        "universalName": "nationalcancerinstitute",
+                        "dashCompanyUrn": "urn:li:fsd_company:3424",
+                        "trackingId": "jlRzajfqQVOm0kYVyPAW2w=="
+                    },
+                    "companyName": "National Cancer Institute (NCI)"
+                },
+                {
+                    "title": "Scientific Director",
+                    "description": "Co-Director of 'Digital Business' research unit\nHead of research group 'Smart Service Engineering' ",
+                    "locationName": "Saarbrücken Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:626065",
+                        "entityUrn": "urn:li:fs_miniCompany:626065",
+                        "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                        "universalName": "dfki",
+                        "dashCompanyUrn": "urn:li:fsd_company:626065",
+                        "trackingId": "a2oo8kP1S+OhkpqAwrmVWg=="
+                    },
+                    "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+                },
+                {
+                    "title": "Professor in Computer Science (co-opted)",
+                    "locationName": "Saarbrücken Area, Germany",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:165803",
+                        "entityUrn": "urn:li:fs_miniCompany:165803",
+                        "name": "Universität des Saarlandes",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHUKNuUNeNHZA/company-logo_200_200/company-logo_200_200/0/1631355954413?e=1747872000&v=beta&t=i53H2WJasQ0BgAJVOR6WXzDP7tPbj0Y9k3ce32Uhr8w",
+                        "universalName": "saarland-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:165803",
+                        "trackingId": "eYJrj5MBQyu+QMVy2r058w=="
+                    },
+                    "companyName": "Universität des Saarlandes"
+                },
+                {
+                    "title": "Adjunct Professor",
+                    "locationName": "Stony Brook, NY",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "Stony Brook University Health Sciences Center School of Medicine"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr.-Ing. (PhD)",
+                    "fieldOfStudy": "Computer Science - Engineering",
+                    "schoolName": "Saarland University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1996
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Habilitation",
+                    "fieldOfStudy": "Business Administration",
+                    "schoolName": "University of St. Gallen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 1998
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diploma",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Saarland University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1992
+                        },
+                        "startDate": {
+                            "year": 1990
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Innovation Management",
+                "Knowledge Management",
+                "Management Consulting",
+                "Management"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor at Saarland U and Director at German Research Center for Artificial Intelligence (DFKI)",
+            "summary": "Researcher, investor, consultant and advisory board member\n\nFocus: Business Informatics/Wirtschaftsinformatik and Computer Science, esp. Artificial Intelligence and Data Science in Business\n\nSaarland Informatics Campus, Saarland University\nhttps://saarland-informatics-campus.de\n\nSpecialties:\n- Transformation of Organizations by Artificial Intelligence\n\nDomains\n- Healthcare / BioTech\n- Production",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "Saarbrücken, Saarland",
+            "geoCountryName": "Germany",
+            "jobTitle": "Professor",
+            "companyName": "Saarland University",
+            "companyPublicId": "saarland-university",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/saarland-university",
+            "following": false,
+            "followable": true,
+            "followersCount": 4487,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Saarland University",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Higher Education"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "Saarland University",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/wmaass/",
+        "company": "https://www.linkedin.com/company/saarland-university"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "description": "Chair in Business Informatics, in particular Information and Service Systems (ISS)",
+            "locationName": "Saarbrücken",
+            "timePeriod": {
+                "startDate": {
+                    "month": 8,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:165803",
+                "entityUrn": "urn:li:fs_miniCompany:165803",
+                "name": "Universität des Saarlandes",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHUKNuUNeNHZA/company-logo_200_200/company-logo_200_200/0/1631355954413?e=1747872000&v=beta&t=i53H2WJasQ0BgAJVOR6WXzDP7tPbj0Y9k3ce32Uhr8w",
+                "universalName": "saarland-university",
+                "dashCompanyUrn": "urn:li:fsd_company:165803",
+                "trackingId": "j4QHVry4Sb661z8KRpUfug=="
+            },
+            "companyName": "Saarland University"
+        },
+        {
+            "title": "Senior Data Science Advisor",
+            "locationName": "Rockville, Maryland, Vereinigte Staaten von Amerika",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Government Administration"
+                ],
+                "objectUrn": "urn:li:company:3424",
+                "entityUrn": "urn:li:fs_miniCompany:3424",
+                "name": "National Cancer Institute (NCI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHrPAXeckNtdA/company-logo_200_200/company-logo_200_200/0/1631333151029?e=1747872000&v=beta&t=2L0Bvzk3Nq7KgzH0HZ0oTPnqKBIA8bAlj_jlpV64Amw",
+                "universalName": "nationalcancerinstitute",
+                "dashCompanyUrn": "urn:li:fsd_company:3424",
+                "trackingId": "jlRzajfqQVOm0kYVyPAW2w=="
+            },
+            "companyName": "National Cancer Institute (NCI)"
+        },
+        {
+            "title": "Scientific Director",
+            "description": "Co-Director of 'Digital Business' research unit\nHead of research group 'Smart Service Engineering' ",
+            "locationName": "Saarbrücken Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:626065",
+                "entityUrn": "urn:li:fs_miniCompany:626065",
+                "name": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQE7N1RtnsgvYA/company-logo_200_200/company-logo_200_200/0/1709570346372/dfki_logo?e=1747872000&v=beta&t=g36Ay7ZkLVu9ZqplRssYZgmSNrvG7C7tgP22nchvF9Y",
+                "universalName": "dfki",
+                "dashCompanyUrn": "urn:li:fsd_company:626065",
+                "trackingId": "a2oo8kP1S+OhkpqAwrmVWg=="
+            },
+            "companyName": "Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI)"
+        },
+        {
+            "title": "Professor in Computer Science (co-opted)",
+            "locationName": "Saarbrücken Area, Germany",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:165803",
+                "entityUrn": "urn:li:fs_miniCompany:165803",
+                "name": "Universität des Saarlandes",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHUKNuUNeNHZA/company-logo_200_200/company-logo_200_200/0/1631355954413?e=1747872000&v=beta&t=i53H2WJasQ0BgAJVOR6WXzDP7tPbj0Y9k3ce32Uhr8w",
+                "universalName": "saarland-university",
+                "dashCompanyUrn": "urn:li:fsd_company:165803",
+                "trackingId": "eYJrj5MBQyu+QMVy2r058w=="
+            },
+            "companyName": "Universität des Saarlandes"
+        },
+        {
+            "title": "Adjunct Professor",
+            "locationName": "Stony Brook, NY",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2017
+                }
+            },
+            "companyName": "Stony Brook University Health Sciences Center School of Medicine"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr.-Ing. (PhD)",
+            "fieldOfStudy": "Computer Science - Engineering",
+            "schoolName": "Saarland University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1996
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        },
+        {
+            "degreeName": "Habilitation",
+            "fieldOfStudy": "Business Administration",
+            "schoolName": "University of St. Gallen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            }
+        },
+        {
+            "degreeName": "Diploma",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Saarland University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1992
+                },
+                "startDate": {
+                    "year": 1990
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Innovation Management",
+        "Knowledge Management",
+        "Management Consulting",
+        "Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,488 @@
+{
+    "id": "exp176347946",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Martin",
+        "lastName": "Meyer",
+        "fullName": "Dr. Martin Meyer",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQHaW8TUU9wpxQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1695597698847?e=1745452800&v=beta&t=UZ5MqYH8xHC8Rb_1KhG9e6n4FGt5aTIP8THy-au5ULU",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Japanisch"
+        ],
+        "allData": {
+            "id": "176347946",
+            "profileId": "ACoAAAqC2yoBw2GPc133wSVhv7RXVC9avIeNebc",
+            "firstName": "Dr. Martin",
+            "lastName": "Meyer",
+            "occupation": "VP Business Development APA & Director thyssenkrupp Automotive Japan",
+            "publicIdentifier": "dr-martin-meyer-2620854b",
+            "trackingId": "ZLvbXQ/RTVCE+eJ9k7AwDQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQHaW8TUU9wpxQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1695597698847?e=1745452800&v=beta&t=UZ5MqYH8xHC8Rb_1KhG9e6n4FGt5aTIP8THy-au5ULU",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4E16AQG6oYsN6-YV2A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1654178274475?e=1745452800&v=beta&t=krl0azwxx-u2pRWC6MmtWNKee_cugRoaB1SCMWgU56w",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:103685730",
+            "positions": [
+                {
+                    "title": "VP Business Development APA & Director thyssenkrupp Automotive Japan",
+                    "locationName": "Liechtenstein",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:2827123",
+                        "entityUrn": "urn:li:fs_miniCompany:2827123",
+                        "name": "thyssenkrupp Presta AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFDGL1XTjYAog/company-logo_200_200/company-logo_200_200/0/1646647653434/thyssenkrupp_presta_ag_logo?e=1747872000&v=beta&t=XxxoR8nT3oOMt0v6J-HbsUT0YfFET1f71x50dhOYi8U",
+                        "universalName": "thyssenkrupp-presta-ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:2827123",
+                        "trackingId": "ao0sSm3ARsCFwRj621756w=="
+                    },
+                    "companyName": "thyssenkrupp Presta AG"
+                },
+                {
+                    "title": "Head of Global Sales",
+                    "locationName": "Liechtenstein",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:2827123",
+                        "entityUrn": "urn:li:fs_miniCompany:2827123",
+                        "name": "thyssenkrupp Presta AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFDGL1XTjYAog/company-logo_200_200/company-logo_200_200/0/1646647653434/thyssenkrupp_presta_ag_logo?e=1747872000&v=beta&t=XxxoR8nT3oOMt0v6J-HbsUT0YfFET1f71x50dhOYi8U",
+                        "universalName": "thyssenkrupp-presta-ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:2827123",
+                        "trackingId": "89HPTnWOSd27DXVJKQo36Q=="
+                    },
+                    "companyName": "thyssenkrupp Presta AG"
+                },
+                {
+                    "title": "Region Manager C-EPS Japan",
+                    "description": "Customer care, business development, strategy and sales",
+                    "locationName": "Tokyo, Japan",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Mechanical or Industrial Engineering"
+                        ],
+                        "objectUrn": "urn:li:company:166442",
+                        "entityUrn": "urn:li:fs_miniCompany:166442",
+                        "name": "thyssenkrupp",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGq4bl5etSxBw/company-logo_200_200/company-logo_200_200/0/1630647725872/thyssenkrupp_logo?e=1747872000&v=beta&t=wq9dRp9gkCMmLtHVTNKZoslviYb0zX4QIxjVvF76NCc",
+                        "universalName": "thyssenkrupp",
+                        "dashCompanyUrn": "urn:li:fsd_company:166442",
+                        "trackingId": "xSKkNgvGT6eE0Y4SP5seUw=="
+                    },
+                    "companyName": "thyssenkrupp"
+                },
+                {
+                    "title": "Leitung Simulation und NVH CEPS",
+                    "description": "Leitung des interdiszipliären Bereichs Simulation und NVH für Column EPS (Electric Power Steering). Designentwicklung im Bereich C-EPS. Entwicklung der internationalen Standorte hinsichlich Kompetenz und Infrastruktur. Übernahme des fachspezifischen, internationalen Kundenkontakts (vornehmlich China und Japan). Begleitung von Industrialisierungsaufgaben. Disziplinarische und fachliche Führung, sowie Budgetverantwortung. Projekt Management in eigenen Projekten.",
+                    "locationName": "Eschen",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:2827123",
+                        "entityUrn": "urn:li:fs_miniCompany:2827123",
+                        "name": "thyssenkrupp Presta AG",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFDGL1XTjYAog/company-logo_200_200/company-logo_200_200/0/1646647653434/thyssenkrupp_presta_ag_logo?e=1747872000&v=beta&t=XxxoR8nT3oOMt0v6J-HbsUT0YfFET1f71x50dhOYi8U",
+                        "universalName": "thyssenkrupp-presta-ag",
+                        "dashCompanyUrn": "urn:li:fsd_company:2827123",
+                        "trackingId": "AOBfcn2ASAWnwzHGw7N8ow=="
+                    },
+                    "companyName": "ThyssenKrupp Presta AG"
+                },
+                {
+                    "title": "Project Manager",
+                    "description": "Projektleiter in der Division Steering Column. Leitung von Entwicklungsprojekten, Betreuung des Kunden Ford/ USA, internationale Koordinierung der Aktivitäten bis zum SOP",
+                    "locationName": "Eschen",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Mechanical or Industrial Engineering"
+                        ],
+                        "objectUrn": "urn:li:company:166442",
+                        "entityUrn": "urn:li:fs_miniCompany:166442",
+                        "name": "thyssenkrupp",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGq4bl5etSxBw/company-logo_200_200/company-logo_200_200/0/1630647725872/thyssenkrupp_logo?e=1747872000&v=beta&t=wq9dRp9gkCMmLtHVTNKZoslviYb0zX4QIxjVvF76NCc",
+                        "universalName": "thyssenkrupp",
+                        "dashCompanyUrn": "urn:li:fsd_company:166442",
+                        "trackingId": "YluhZsFeTcSC91HRf0qJNA=="
+                    },
+                    "companyName": "ThyssenKrupp"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr.-Ing.",
+                    "fieldOfStudy": "Maschinenbau",
+                    "schoolName": "RWTH Aachen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Dipl.-Ing.",
+                    "fieldOfStudy": "Maschinenbau",
+                    "schoolName": "RWTH Aachen",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "year": 2002
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Japanisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "Engineering",
+                "Manufacturing",
+                "Mechanical Engineering",
+                "Project Engineering"
+            ],
+            "volunteerExperiences": [],
+            "headline": "VP Business Development APA & Director thyssenkrupp Automotive Japan",
+            "student": false,
+            "industryName": "Mechanical Or Industrial Engineering",
+            "industryUrn": "urn:li:fs_industry:135",
+            "geoLocationName": "Walzenhausen, Appenzell Outer-Rhoden",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "VP Business Development APA & Director thyssenkrupp Automotive Japan",
+            "companyName": "thyssenkrupp Presta AG",
+            "companyPublicId": "thyssenkrupp-presta-ag",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/thyssenkrupp-presta-ag",
+            "following": false,
+            "followable": true,
+            "followersCount": 777,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "thyssenkrupp Presta AG",
+        "position": "VP Business Development APA & Director thyssenkrupp Automotive Japan",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Automotive"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP Business Development APA & Director thyssenkrupp Automotive Japan",
+        "organization": "thyssenkrupp Presta AG",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-martin-meyer-2620854b/",
+        "company": "https://www.linkedin.com/company/thyssenkrupp-presta-ag"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP Business Development APA & Director thyssenkrupp Automotive Japan",
+            "locationName": "Liechtenstein",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:2827123",
+                "entityUrn": "urn:li:fs_miniCompany:2827123",
+                "name": "thyssenkrupp Presta AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFDGL1XTjYAog/company-logo_200_200/company-logo_200_200/0/1646647653434/thyssenkrupp_presta_ag_logo?e=1747872000&v=beta&t=XxxoR8nT3oOMt0v6J-HbsUT0YfFET1f71x50dhOYi8U",
+                "universalName": "thyssenkrupp-presta-ag",
+                "dashCompanyUrn": "urn:li:fsd_company:2827123",
+                "trackingId": "ao0sSm3ARsCFwRj621756w=="
+            },
+            "companyName": "thyssenkrupp Presta AG"
+        },
+        {
+            "title": "Head of Global Sales",
+            "locationName": "Liechtenstein",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:2827123",
+                "entityUrn": "urn:li:fs_miniCompany:2827123",
+                "name": "thyssenkrupp Presta AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFDGL1XTjYAog/company-logo_200_200/company-logo_200_200/0/1646647653434/thyssenkrupp_presta_ag_logo?e=1747872000&v=beta&t=XxxoR8nT3oOMt0v6J-HbsUT0YfFET1f71x50dhOYi8U",
+                "universalName": "thyssenkrupp-presta-ag",
+                "dashCompanyUrn": "urn:li:fsd_company:2827123",
+                "trackingId": "89HPTnWOSd27DXVJKQo36Q=="
+            },
+            "companyName": "thyssenkrupp Presta AG"
+        },
+        {
+            "title": "Region Manager C-EPS Japan",
+            "description": "Customer care, business development, strategy and sales",
+            "locationName": "Tokyo, Japan",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Mechanical or Industrial Engineering"
+                ],
+                "objectUrn": "urn:li:company:166442",
+                "entityUrn": "urn:li:fs_miniCompany:166442",
+                "name": "thyssenkrupp",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGq4bl5etSxBw/company-logo_200_200/company-logo_200_200/0/1630647725872/thyssenkrupp_logo?e=1747872000&v=beta&t=wq9dRp9gkCMmLtHVTNKZoslviYb0zX4QIxjVvF76NCc",
+                "universalName": "thyssenkrupp",
+                "dashCompanyUrn": "urn:li:fsd_company:166442",
+                "trackingId": "xSKkNgvGT6eE0Y4SP5seUw=="
+            },
+            "companyName": "thyssenkrupp"
+        },
+        {
+            "title": "Leitung Simulation und NVH CEPS",
+            "description": "Leitung des interdiszipliären Bereichs Simulation und NVH für Column EPS (Electric Power Steering). Designentwicklung im Bereich C-EPS. Entwicklung der internationalen Standorte hinsichlich Kompetenz und Infrastruktur. Übernahme des fachspezifischen, internationalen Kundenkontakts (vornehmlich China und Japan). Begleitung von Industrialisierungsaufgaben. Disziplinarische und fachliche Führung, sowie Budgetverantwortung. Projekt Management in eigenen Projekten.",
+            "locationName": "Eschen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:2827123",
+                "entityUrn": "urn:li:fs_miniCompany:2827123",
+                "name": "thyssenkrupp Presta AG",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFDGL1XTjYAog/company-logo_200_200/company-logo_200_200/0/1646647653434/thyssenkrupp_presta_ag_logo?e=1747872000&v=beta&t=XxxoR8nT3oOMt0v6J-HbsUT0YfFET1f71x50dhOYi8U",
+                "universalName": "thyssenkrupp-presta-ag",
+                "dashCompanyUrn": "urn:li:fsd_company:2827123",
+                "trackingId": "AOBfcn2ASAWnwzHGw7N8ow=="
+            },
+            "companyName": "ThyssenKrupp Presta AG"
+        },
+        {
+            "title": "Project Manager",
+            "description": "Projektleiter in der Division Steering Column. Leitung von Entwicklungsprojekten, Betreuung des Kunden Ford/ USA, internationale Koordinierung der Aktivitäten bis zum SOP",
+            "locationName": "Eschen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2014
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Mechanical or Industrial Engineering"
+                ],
+                "objectUrn": "urn:li:company:166442",
+                "entityUrn": "urn:li:fs_miniCompany:166442",
+                "name": "thyssenkrupp",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGq4bl5etSxBw/company-logo_200_200/company-logo_200_200/0/1630647725872/thyssenkrupp_logo?e=1747872000&v=beta&t=wq9dRp9gkCMmLtHVTNKZoslviYb0zX4QIxjVvF76NCc",
+                "universalName": "thyssenkrupp",
+                "dashCompanyUrn": "urn:li:fsd_company:166442",
+                "trackingId": "YluhZsFeTcSC91HRf0qJNA=="
+            },
+            "companyName": "ThyssenKrupp"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr.-Ing.",
+            "fieldOfStudy": "Maschinenbau",
+            "schoolName": "RWTH Aachen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2013
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "Dipl.-Ing.",
+            "fieldOfStudy": "Maschinenbau",
+            "schoolName": "RWTH Aachen",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                },
+                "startDate": {
+                    "year": 2002
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Engineering",
+        "Manufacturing",
+        "Mechanical Engineering",
+        "Project Engineering"
+    ],
+    "lastEnriched": "2025-02-17"
+}

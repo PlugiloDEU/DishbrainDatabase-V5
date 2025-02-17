@@ -1,0 +1,498 @@
+{
+    "id": "exp3595871",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Nicolas",
+        "lastName": "Chapados",
+        "fullName": "Nicolas Chapados",
+        "image": "https://media.licdn.com/dms/image/v2/C5103AQG0dml4d7fHcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516241797667?e=1745452800&v=beta&t=16FURHoWDM3bBpVek7HIex1cGdVQMPdWk_KExzV6-lA",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "3595871",
+            "profileId": "ACoAAAA23l8BDXbZvUaKhYmGl1ehQv7NxGpHngo",
+            "firstName": "Nicolas",
+            "lastName": "Chapados",
+            "occupation": "Passionate about AI and its impact on society — VP, Research, ServiceNow; Co-Founder, Imagia & Element AI",
+            "publicIdentifier": "nicolaschapados",
+            "trackingId": "tH9FFkaATsaUoxFX1BgNww==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5103AQG0dml4d7fHcw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1516241797667?e=1745452800&v=beta&t=16FURHoWDM3bBpVek7HIex1cGdVQMPdWk_KExzV6-lA",
+            "countryCode": "ca",
+            "geoUrn": "urn:li:fs_geo:101728226",
+            "positions": [
+                {
+                    "title": "VP, Research",
+                    "description": "As VP, Research, I lead the organization's fundamental and applied research teams in artificial intelligence, with research activities in conversational agents, multimodal foundation models, causality, time series forecasting, large language modeling, and AI trustworthiness and governance.",
+                    "locationName": "Montreal, Quebec, Canada",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:29352",
+                        "entityUrn": "urn:li:fs_miniCompany:29352",
+                        "name": "ServiceNow",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEuzVBzTq8wqA/company-logo_200_200/company-logo_200_200/0/1642492124118/servicenow_logo?e=1747872000&v=beta&t=Yl0gk_rCBK_mCmFJkZFeEGcSbB6FARoptG7yBMub56g",
+                        "universalName": "servicenow",
+                        "dashCompanyUrn": "urn:li:fsd_company:29352",
+                        "trackingId": "U6/FHgUaSLuUiyiEqosStQ=="
+                    },
+                    "companyName": "ServiceNow"
+                },
+                {
+                    "title": "Co-Founder",
+                    "locationName": "Montreal, Canada Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:11164259",
+                        "entityUrn": "urn:li:fs_miniCompany:11164259",
+                        "name": "Chapados Couture Capital",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEHOuhxdFzJoQ/company-logo_200_200/company-logo_200_200/0/1631347740653?e=1747872000&v=beta&t=tRfxBXj1XxfV8ZYbXI-WboIjGdLAKJzah0cwMhEqMnQ",
+                        "universalName": "chapados-couture-capital",
+                        "dashCompanyUrn": "urn:li:fsd_company:11164259",
+                        "trackingId": "vGot+gm5SGuYKOYNlZoobg=="
+                    },
+                    "companyName": "Chapados Couture Capital"
+                },
+                {
+                    "title": "Co-Founder",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2001
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:937192",
+                        "entityUrn": "urn:li:fs_miniCompany:937192",
+                        "name": "ApSTAT Technologies",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGu1h1KmLoh4w/company-logo_200_200/company-logo_200_200/0/1631342916862?e=1747872000&v=beta&t=TF4l8YhCI1WDGtJjbZCRYAu3ikn72zrBZGasQsIFu-o",
+                        "universalName": "apstat-technologies",
+                        "dashCompanyUrn": "urn:li:fsd_company:937192",
+                        "trackingId": "ETECe8M0QJyHHJ2Rm4AyJw=="
+                    },
+                    "companyName": "ApSTAT Technologies Inc."
+                },
+                {
+                    "title": "Co-Founder & Special Executive Advisor on AI",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Biotechnology"
+                        ],
+                        "objectUrn": "urn:li:company:9196699",
+                        "entityUrn": "urn:li:fs_miniCompany:9196699",
+                        "name": "Imagia Canexia Health",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQGGrsqHGqNohQ/company-logo_200_200/company-logo_200_200/0/1654620484354/imagia_cybernetics_logo?e=1747872000&v=beta&t=qSCAXHQYCw867HKVWiwSD8c6Pqt103PbPBMStqp8LH8",
+                        "universalName": "imagia-canexia-health",
+                        "dashCompanyUrn": "urn:li:fsd_company:9196699",
+                        "trackingId": "SCfCrniaQ+aSXvTWVDBpDA=="
+                    },
+                    "companyName": "Imagia"
+                },
+                {
+                    "title": "Co-Founder & Chief Science Officer",
+                    "description": "Element AI helps organizations make better decisions through advanced artificial intelligence. Born out of an AI research lab connected to the world’s top academic institutions, Element AI develops transformative AI business applications for large corporations and governments. Using our products, Element AI seeks to augment every decision. With a global ecosystem that spans North America, Europe, and Asia, Element AI has unparalleled access to two of the scarcest talent pools: world-class entrepreneurs and artificial intelligence experts. As testament to this valuable access, Element AI raised $102M, the largest Series A for any AI startup to date, just seven months after launching.\n\nAs Chief Science Officer, I led the organization's fundamental research team in artificial intelligence, with research activities in low-data machine learning, natural language processing, human decision support, and AI trustworthiness. ",
+                    "locationName": "Montreal, Canada Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:2978982",
+                        "entityUrn": "urn:li:fs_miniCompany:2978982",
+                        "name": "ServiceNow Research",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQEo9r845g30xw/company-logo_200_200/company-logo_200_200/0/1643405574546/elementai_logo?e=1747872000&v=beta&t=wqeWT1YJT59zuIhzl41HQNTXR_9L7ajfVR6rmSTSp1c",
+                        "universalName": "servicenow-research",
+                        "dashCompanyUrn": "urn:li:fsd_company:2978982",
+                        "trackingId": "1vlZMxqXRAi5rU67R3k2Hg=="
+                    },
+                    "companyName": "Element AI"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Chartered Financial Analyst (CFA)",
+                    "fieldOfStudy": "Finance",
+                    "schoolName": "CFA Institute",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "year": 2008
+                        }
+                    }
+                },
+                {
+                    "degreeName": "PhD",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Université de Montréal",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "year": 2001
+                        }
+                    }
+                },
+                {
+                    "degreeName": "M.Sc.",
+                    "fieldOfStudy": "Computer Science",
+                    "schoolName": "Université de Montréal",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2000
+                        },
+                        "startDate": {
+                            "year": 1997
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Statistics",
+                "C++",
+                "Data Mining",
+                "Software Development"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Associate",
+                    "description": "The nine-month Creative Destruction Lab program pairs startup founders with experienced technology entrepreneurs and investors in a unique setting that is laser-focused on designing a series of objectives with measurable deliverables.",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Creative Destruction Lab"
+                },
+                {
+                    "role": "Member Board Of Directors",
+                    "description": "ADDIROUM is the alumni association of the Computer Science and Operations Research department at University of Montréal.\nL'ADDIROUM est l'association des diplômés du département d'informatique et de recherche opérationnelle de l'Université de Montréal.",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 2013
+                        }
+                    },
+                    "companyName": "ADDIROUM",
+                    "cause": "EDUCATION"
+                }
+            ],
+            "headline": "Passionate about AI and its impact on society — VP, Research, ServiceNow; Co-Founder, Imagia &  Element AI",
+            "summary": "Nicolas Chapados holds an engineering degree from McGill University and a PhD in Computer Science from University of Montreal, Canada. While still writing his thesis and jointly with his advisor Yoshua Bengio, he co-founded ApSTAT Technologies in 2001, a machine learning technology transfer firm, to apply cutting-edge academic research ideas to areas such as insurance risk evaluation, supply chain planning, business forecasting, national defence, and hedge fund management. From this work, he also co-founded spin-off companies: Imagia (www.imagia.com), to detect and quantify cancer early with AI analysis of medical images, Element AI (www.elementai.com), an applied research lab in artificial intelligence with a systematic process to connect fundamental innovations with commercial applications (sold in January 2021 to ServiceNow Inc.), and Chapados Couture Capital (www.chapados-couture.com), a quantitative asset manager. He holds the Chartered Financial Analyst (CFA) designation.",
+            "student": false,
+            "industryName": "Computer Software",
+            "industryUrn": "urn:li:fs_industry:4",
+            "geoLocationName": "Montreal, Quebec",
+            "geoCountryName": "Canada",
+            "jobTitle": "VP, Research",
+            "companyName": "ServiceNow",
+            "companyPublicId": "servicenow",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/servicenow",
+            "following": false,
+            "followable": true,
+            "followersCount": 6541,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "ServiceNow",
+        "position": "VP, Research",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP, Research",
+        "organization": "ServiceNow",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/nicolaschapados/",
+        "company": "https://www.linkedin.com/company/servicenow"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP, Research",
+            "description": "As VP, Research, I lead the organization's fundamental and applied research teams in artificial intelligence, with research activities in conversational agents, multimodal foundation models, causality, time series forecasting, large language modeling, and AI trustworthiness and governance.",
+            "locationName": "Montreal, Quebec, Canada",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:29352",
+                "entityUrn": "urn:li:fs_miniCompany:29352",
+                "name": "ServiceNow",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEuzVBzTq8wqA/company-logo_200_200/company-logo_200_200/0/1642492124118/servicenow_logo?e=1747872000&v=beta&t=Yl0gk_rCBK_mCmFJkZFeEGcSbB6FARoptG7yBMub56g",
+                "universalName": "servicenow",
+                "dashCompanyUrn": "urn:li:fsd_company:29352",
+                "trackingId": "U6/FHgUaSLuUiyiEqosStQ=="
+            },
+            "companyName": "ServiceNow"
+        },
+        {
+            "title": "Co-Founder",
+            "locationName": "Montreal, Canada Area",
+            "timePeriod": {
+                "startDate": {
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:11164259",
+                "entityUrn": "urn:li:fs_miniCompany:11164259",
+                "name": "Chapados Couture Capital",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQEHOuhxdFzJoQ/company-logo_200_200/company-logo_200_200/0/1631347740653?e=1747872000&v=beta&t=tRfxBXj1XxfV8ZYbXI-WboIjGdLAKJzah0cwMhEqMnQ",
+                "universalName": "chapados-couture-capital",
+                "dashCompanyUrn": "urn:li:fsd_company:11164259",
+                "trackingId": "vGot+gm5SGuYKOYNlZoobg=="
+            },
+            "companyName": "Chapados Couture Capital"
+        },
+        {
+            "title": "Co-Founder",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2001
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:937192",
+                "entityUrn": "urn:li:fs_miniCompany:937192",
+                "name": "ApSTAT Technologies",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGu1h1KmLoh4w/company-logo_200_200/company-logo_200_200/0/1631342916862?e=1747872000&v=beta&t=TF4l8YhCI1WDGtJjbZCRYAu3ikn72zrBZGasQsIFu-o",
+                "universalName": "apstat-technologies",
+                "dashCompanyUrn": "urn:li:fsd_company:937192",
+                "trackingId": "ETECe8M0QJyHHJ2Rm4AyJw=="
+            },
+            "companyName": "ApSTAT Technologies Inc."
+        },
+        {
+            "title": "Co-Founder & Special Executive Advisor on AI",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2023
+                },
+                "startDate": {
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Biotechnology"
+                ],
+                "objectUrn": "urn:li:company:9196699",
+                "entityUrn": "urn:li:fs_miniCompany:9196699",
+                "name": "Imagia Canexia Health",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQGGrsqHGqNohQ/company-logo_200_200/company-logo_200_200/0/1654620484354/imagia_cybernetics_logo?e=1747872000&v=beta&t=qSCAXHQYCw867HKVWiwSD8c6Pqt103PbPBMStqp8LH8",
+                "universalName": "imagia-canexia-health",
+                "dashCompanyUrn": "urn:li:fsd_company:9196699",
+                "trackingId": "SCfCrniaQ+aSXvTWVDBpDA=="
+            },
+            "companyName": "Imagia"
+        },
+        {
+            "title": "Co-Founder & Chief Science Officer",
+            "description": "Element AI helps organizations make better decisions through advanced artificial intelligence. Born out of an AI research lab connected to the world’s top academic institutions, Element AI develops transformative AI business applications for large corporations and governments. Using our products, Element AI seeks to augment every decision. With a global ecosystem that spans North America, Europe, and Asia, Element AI has unparalleled access to two of the scarcest talent pools: world-class entrepreneurs and artificial intelligence experts. As testament to this valuable access, Element AI raised $102M, the largest Series A for any AI startup to date, just seven months after launching.\n\nAs Chief Science Officer, I led the organization's fundamental research team in artificial intelligence, with research activities in low-data machine learning, natural language processing, human decision support, and AI trustworthiness. ",
+            "locationName": "Montreal, Canada Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2021
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:2978982",
+                "entityUrn": "urn:li:fs_miniCompany:2978982",
+                "name": "ServiceNow Research",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQEo9r845g30xw/company-logo_200_200/company-logo_200_200/0/1643405574546/elementai_logo?e=1747872000&v=beta&t=wqeWT1YJT59zuIhzl41HQNTXR_9L7ajfVR6rmSTSp1c",
+                "universalName": "servicenow-research",
+                "dashCompanyUrn": "urn:li:fsd_company:2978982",
+                "trackingId": "1vlZMxqXRAi5rU67R3k2Hg=="
+            },
+            "companyName": "Element AI"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Chartered Financial Analyst (CFA)",
+            "fieldOfStudy": "Finance",
+            "schoolName": "CFA Institute",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2010
+                },
+                "startDate": {
+                    "year": 2008
+                }
+            }
+        },
+        {
+            "degreeName": "PhD",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Université de Montréal",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2009
+                },
+                "startDate": {
+                    "year": 2001
+                }
+            }
+        },
+        {
+            "degreeName": "M.Sc.",
+            "fieldOfStudy": "Computer Science",
+            "schoolName": "Université de Montréal",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2000
+                },
+                "startDate": {
+                    "year": 1997
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Statistics",
+        "C++",
+        "Data Mining",
+        "Software Development"
+    ],
+    "lastEnriched": "2025-02-17"
+}

@@ -1,0 +1,434 @@
+{
+    "id": "exp336842379",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Christian",
+        "lastName": "Müller",
+        "fullName": "Christian Müller",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "336842379",
+            "profileId": "ACoAABQTzosBPNsi9Ohgo3obvPg5wBTNjfjsnUA",
+            "firstName": "Christian",
+            "lastName": "Müller",
+            "occupation": "Professor at Chalmers University of Technology",
+            "publicIdentifier": "christian-müller-b2398394",
+            "trackingId": "99Fu7IXPTHGBrseTQGte0Q==",
+            "countryCode": "se",
+            "geoUrn": "urn:li:fs_geo:90009607",
+            "positions": [
+                {
+                    "title": "Professor",
+                    "locationName": "Gothenburg, Sweden",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2017
+                        }
+                    },
+                    "companyName": "Chalmers University of Technology"
+                },
+                {
+                    "title": "Associate Professor",
+                    "locationName": "Göteborg, Sweden",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:5074",
+                        "entityUrn": "urn:li:fs_miniCompany:5074",
+                        "name": "Chalmers University of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdK9pXmsNksw/company-logo_200_200/company-logo_200_200/0/1675779390326/chalmers_university_of_technology_logo?e=1747872000&v=beta&t=N9Z1STiKXYIgAiJmUMsk-718dH2uctfpF0fTgcS0IHo",
+                        "universalName": "chalmers-university-of-technology",
+                        "dashCompanyUrn": "urn:li:fsd_company:5074",
+                        "trackingId": "KXpY6ooLSTO0e81HaYGJ4Q=="
+                    },
+                    "companyName": "Chalmers University of Technology"
+                },
+                {
+                    "title": "Assistant Professor",
+                    "locationName": "Göteborg, Sweden",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 3,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:5074",
+                        "entityUrn": "urn:li:fs_miniCompany:5074",
+                        "name": "Chalmers University of Technology",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdK9pXmsNksw/company-logo_200_200/company-logo_200_200/0/1675779390326/chalmers_university_of_technology_logo?e=1747872000&v=beta&t=N9Z1STiKXYIgAiJmUMsk-718dH2uctfpF0fTgcS0IHo",
+                        "universalName": "chalmers-university-of-technology",
+                        "dashCompanyUrn": "urn:li:fsd_company:5074",
+                        "trackingId": "XqjrdJKGS8Wny1mo8/5/bg=="
+                    },
+                    "companyName": "Chalmers University of Technology"
+                },
+                {
+                    "title": "Postdoctoral Research Fellow",
+                    "locationName": "Barcelona, Spain",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2012
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1398550",
+                        "entityUrn": "urn:li:fs_miniCompany:1398550",
+                        "name": "Institut de Ciència de Materials de Barcelona (ICMAB-CSIC)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMnNX-vSPuDw/company-logo_200_200/company-logo_200_200/0/1720517410887/icmabcsic_logo?e=1747872000&v=beta&t=MfpvcuhPuxj_GhCtLKzXypsnBk87jOletHc7CYgEK-s",
+                        "universalName": "icmabcsic",
+                        "dashCompanyUrn": "urn:li:fsd_company:1398550",
+                        "trackingId": "EHBNIsW+QameqFfQ6syPkg=="
+                    },
+                    "companyName": "Institut de Ciència de Materials de Barcelona (ICMAB-CSIC)"
+                },
+                {
+                    "title": "Postdoctoral Researcher",
+                    "locationName": "Linköping, Sweden",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:164742",
+                        "entityUrn": "urn:li:fs_miniCompany:164742",
+                        "name": "Linköping University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxRk9VEctZXw/company-logo_200_200/company-logo_200_200/0/1631331052867?e=1747872000&v=beta&t=Szf96hWc-vhWTSecxmdEw6_7UIWYF2BFcWrHsknwJ1Y",
+                        "universalName": "linkoping-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:164742",
+                        "trackingId": "KBLIzxxlRL2K2MGEKLmn2A=="
+                    },
+                    "companyName": "Linköping University"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr.Sc.",
+                    "fieldOfStudy": "Materials Science",
+                    "schoolName": "Eidgenössische Technische Hochschule Zürich",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "year": 2004
+                        }
+                    }
+                },
+                {
+                    "degreeName": "M.Sci.",
+                    "fieldOfStudy": "Natural Sciences",
+                    "schoolName": "University of Cambridge",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2000
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Polymers",
+                "Thin Films",
+                "Nanomaterials",
+                "Surface Chemistry"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Professor at Chalmers University of Technology",
+            "summary": "Christian Müller is a Professor in Polymer Science at Chalmers University of Technology. He received an ERC Starting Grant in 2014, an ERC Consolidator Grant in 2022 and he is a Wallenberg Scholar. Prior to Chalmers, where he works since 2012, he completed post-doctoral stays at ICMAB-CSIC in Barcelona and Linköping University. He holds a Dr.Sc. in Materials Science from ETH Zürich (2008) and a M.Sci. in Natural Sciences from Cambridge University (2004). His research focuses on the physical chemistry of organic semiconductors, polymer blends and composites for use in the fields of wearable electronics and energy technology.",
+            "student": false,
+            "industryName": "Research",
+            "industryUrn": "urn:li:fs_industry:70",
+            "geoLocationName": "Greater Gothenburg Metropolitan Area",
+            "geoCountryName": "Sweden",
+            "jobTitle": "Professor",
+            "companyName": "Chalmers University of Technology",
+            "following": false,
+            "followable": true,
+            "followersCount": 3674,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Chalmers University of Technology",
+        "position": "Professor",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": []
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Professor",
+        "organization": "Chalmers University of Technology",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/christian-müller-b2398394/",
+        "company": ""
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Professor",
+            "locationName": "Gothenburg, Sweden",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2017
+                }
+            },
+            "companyName": "Chalmers University of Technology"
+        },
+        {
+            "title": "Associate Professor",
+            "locationName": "Göteborg, Sweden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:5074",
+                "entityUrn": "urn:li:fs_miniCompany:5074",
+                "name": "Chalmers University of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdK9pXmsNksw/company-logo_200_200/company-logo_200_200/0/1675779390326/chalmers_university_of_technology_logo?e=1747872000&v=beta&t=N9Z1STiKXYIgAiJmUMsk-718dH2uctfpF0fTgcS0IHo",
+                "universalName": "chalmers-university-of-technology",
+                "dashCompanyUrn": "urn:li:fsd_company:5074",
+                "trackingId": "KXpY6ooLSTO0e81HaYGJ4Q=="
+            },
+            "companyName": "Chalmers University of Technology"
+        },
+        {
+            "title": "Assistant Professor",
+            "locationName": "Göteborg, Sweden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 3,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:5074",
+                "entityUrn": "urn:li:fs_miniCompany:5074",
+                "name": "Chalmers University of Technology",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFdK9pXmsNksw/company-logo_200_200/company-logo_200_200/0/1675779390326/chalmers_university_of_technology_logo?e=1747872000&v=beta&t=N9Z1STiKXYIgAiJmUMsk-718dH2uctfpF0fTgcS0IHo",
+                "universalName": "chalmers-university-of-technology",
+                "dashCompanyUrn": "urn:li:fsd_company:5074",
+                "trackingId": "XqjrdJKGS8Wny1mo8/5/bg=="
+            },
+            "companyName": "Chalmers University of Technology"
+        },
+        {
+            "title": "Postdoctoral Research Fellow",
+            "locationName": "Barcelona, Spain",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2012
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1398550",
+                "entityUrn": "urn:li:fs_miniCompany:1398550",
+                "name": "Institut de Ciència de Materials de Barcelona (ICMAB-CSIC)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGMnNX-vSPuDw/company-logo_200_200/company-logo_200_200/0/1720517410887/icmabcsic_logo?e=1747872000&v=beta&t=MfpvcuhPuxj_GhCtLKzXypsnBk87jOletHc7CYgEK-s",
+                "universalName": "icmabcsic",
+                "dashCompanyUrn": "urn:li:fsd_company:1398550",
+                "trackingId": "EHBNIsW+QameqFfQ6syPkg=="
+            },
+            "companyName": "Institut de Ciència de Materials de Barcelona (ICMAB-CSIC)"
+        },
+        {
+            "title": "Postdoctoral Researcher",
+            "locationName": "Linköping, Sweden",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:164742",
+                "entityUrn": "urn:li:fs_miniCompany:164742",
+                "name": "Linköping University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFxRk9VEctZXw/company-logo_200_200/company-logo_200_200/0/1631331052867?e=1747872000&v=beta&t=Szf96hWc-vhWTSecxmdEw6_7UIWYF2BFcWrHsknwJ1Y",
+                "universalName": "linkoping-university",
+                "dashCompanyUrn": "urn:li:fsd_company:164742",
+                "trackingId": "KBLIzxxlRL2K2MGEKLmn2A=="
+            },
+            "companyName": "Linköping University"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr.Sc.",
+            "fieldOfStudy": "Materials Science",
+            "schoolName": "Eidgenössische Technische Hochschule Zürich",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2008
+                },
+                "startDate": {
+                    "year": 2004
+                }
+            }
+        },
+        {
+            "degreeName": "M.Sci.",
+            "fieldOfStudy": "Natural Sciences",
+            "schoolName": "University of Cambridge",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2000
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Polymers",
+        "Thin Films",
+        "Nanomaterials",
+        "Surface Chemistry"
+    ],
+    "lastEnriched": "2025-02-17"
+}

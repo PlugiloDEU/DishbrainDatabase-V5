@@ -1,0 +1,460 @@
+{
+    "id": "exp120010398",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alexander",
+        "lastName": "Fischer",
+        "fullName": "Alexander Fischer",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGbdCu2QyySBw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1677389784099?e=1745452800&v=beta&t=fOQOJLXt5dhiV52W7OxTdxnZ0eYCXaMLiFzAqkD3icw",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "120010398",
+            "profileId": "ACoAAAcnNp4BbYbZ6f5LxwmLViySHXY9-nU5Ymw",
+            "firstName": "Alexander",
+            "lastName": "Fischer",
+            "occupation": "Professor Dr. rer. pol, LLM, MA",
+            "publicIdentifier": "alexander-fischer-delhi",
+            "trackingId": "hBa1j26lSZqE2B8UAMkrRQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGbdCu2QyySBw/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1677389784099?e=1745452800&v=beta&t=fOQOJLXt5dhiV52W7OxTdxnZ0eYCXaMLiFzAqkD3icw",
+            "countryCode": "in",
+            "geoUrn": "urn:li:fs_geo:101796759",
+            "positions": [
+                {
+                    "title": "Consultant",
+                    "description": "Co-ordinating RFKN research initiatives, expert opinions, and the development of grant proposals.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Law Practice"
+                        ],
+                        "objectUrn": "urn:li:company:104161709",
+                        "entityUrn": "urn:li:fs_miniCompany:104161709",
+                        "name": "RFKN Legal",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQEKU20dxQNGKA/company-logo_200_200/company-logo_200_200/0/1723803572174?e=1747872000&v=beta&t=8RnQ4cYxKHAF0jpLW25cdBzZa4ZLE8_Q9dOSLbBvZKY",
+                        "universalName": "rfkn-legal",
+                        "dashCompanyUrn": "urn:li:fsd_company:104161709",
+                        "trackingId": "FaqKuMGdS5iBQYP5kd/dow=="
+                    },
+                    "companyName": "RFKN Legal"
+                },
+                {
+                    "title": "Professor",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:2488359",
+                        "entityUrn": "urn:li:fs_miniCompany:2488359",
+                        "name": "Jindal Global Law School (JGLS)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFnYdToYC00rw/company-logo_200_200/company-logo_200_200/0/1630643854876/jindal_global_law_school_logo?e=1747872000&v=beta&t=hIE0PrfGKTxysurqqm1uta4Rl1Ced0dS759EumDmrmA",
+                        "universalName": "jindal-global-law-school",
+                        "dashCompanyUrn": "urn:li:fsd_company:2488359",
+                        "trackingId": "JjJe/CR2ScyCK1ZbVBs/8Q=="
+                    },
+                    "companyName": "Jindal Global Law School"
+                },
+                {
+                    "title": "Associate Professor",
+                    "locationName": "Delhi Area, India",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:2488359",
+                        "entityUrn": "urn:li:fs_miniCompany:2488359",
+                        "name": "Jindal Global Law School (JGLS)",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFnYdToYC00rw/company-logo_200_200/company-logo_200_200/0/1630643854876/jindal_global_law_school_logo?e=1747872000&v=beta&t=hIE0PrfGKTxysurqqm1uta4Rl1Ced0dS759EumDmrmA",
+                        "universalName": "jindal-global-law-school",
+                        "dashCompanyUrn": "urn:li:fsd_company:2488359",
+                        "trackingId": "aMdKRyHxTuiIl049b6KBrQ=="
+                    },
+                    "companyName": "Jindal Global Law School"
+                },
+                {
+                    "title": "Lecturer",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:228000",
+                        "entityUrn": "urn:li:fs_miniCompany:228000",
+                        "name": "SOAS University of London",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0ldSyn_IGKg/company-logo_200_200/company-logo_200_200/0/1630553002558/soas_university_of_london_logo?e=1747872000&v=beta&t=EQ2wjve_Y1MPv6K3edoxI5ucBwewjZggK1WjchdVWbg",
+                        "universalName": "soas-university-of-london",
+                        "dashCompanyUrn": "urn:li:fsd_company:228000",
+                        "trackingId": "8eAITlcxSCG2jE7NUzcZRQ=="
+                    },
+                    "companyName": "SOAS"
+                },
+                {
+                    "title": "Teaching Fellow",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2005
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:228000",
+                        "entityUrn": "urn:li:fs_miniCompany:228000",
+                        "name": "SOAS University of London",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0ldSyn_IGKg/company-logo_200_200/company-logo_200_200/0/1630553002558/soas_university_of_london_logo?e=1747872000&v=beta&t=EQ2wjve_Y1MPv6K3edoxI5ucBwewjZggK1WjchdVWbg",
+                        "universalName": "soas-university-of-london",
+                        "dashCompanyUrn": "urn:li:fsd_company:228000",
+                        "trackingId": "3Lu5/HZMS6O2WbwqfxS+9w=="
+                    },
+                    "companyName": "SOAS University of London"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Dr. rer. pol.",
+                    "schoolName": "Heidelberg University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2015
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Master of Laws - LLM",
+                    "schoolName": "The London School of Economics and Political Science (LSE)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2007
+                        }
+                    }
+                },
+                {
+                    "degreeName": "MA Political Science",
+                    "schoolName": "Heidelberg University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2002
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Professor Dr. rer. pol, LLM, MA",
+            "student": false,
+            "industryName": "Higher Education",
+            "industryUrn": "urn:li:fs_industry:68",
+            "geoLocationName": "North Delhi, Delhi",
+            "geoCountryName": "India",
+            "jobTitle": "Consultant",
+            "companyName": "RFKN Legal",
+            "companyPublicId": "rfkn-legal",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/rfkn-legal",
+            "following": false,
+            "followable": true,
+            "followersCount": 3126,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "RFKN Legal",
+        "position": "Consultant",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Law Practice"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Consultant",
+        "organization": "RFKN Legal",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alexander-fischer-delhi/",
+        "company": "https://www.linkedin.com/company/rfkn-legal"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Consultant",
+            "description": "Co-ordinating RFKN research initiatives, expert opinions, and the development of grant proposals.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Law Practice"
+                ],
+                "objectUrn": "urn:li:company:104161709",
+                "entityUrn": "urn:li:fs_miniCompany:104161709",
+                "name": "RFKN Legal",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQEKU20dxQNGKA/company-logo_200_200/company-logo_200_200/0/1723803572174?e=1747872000&v=beta&t=8RnQ4cYxKHAF0jpLW25cdBzZa4ZLE8_Q9dOSLbBvZKY",
+                "universalName": "rfkn-legal",
+                "dashCompanyUrn": "urn:li:fsd_company:104161709",
+                "trackingId": "FaqKuMGdS5iBQYP5kd/dow=="
+            },
+            "companyName": "RFKN Legal"
+        },
+        {
+            "title": "Professor",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:2488359",
+                "entityUrn": "urn:li:fs_miniCompany:2488359",
+                "name": "Jindal Global Law School (JGLS)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFnYdToYC00rw/company-logo_200_200/company-logo_200_200/0/1630643854876/jindal_global_law_school_logo?e=1747872000&v=beta&t=hIE0PrfGKTxysurqqm1uta4Rl1Ced0dS759EumDmrmA",
+                "universalName": "jindal-global-law-school",
+                "dashCompanyUrn": "urn:li:fsd_company:2488359",
+                "trackingId": "JjJe/CR2ScyCK1ZbVBs/8Q=="
+            },
+            "companyName": "Jindal Global Law School"
+        },
+        {
+            "title": "Associate Professor",
+            "locationName": "Delhi Area, India",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:2488359",
+                "entityUrn": "urn:li:fs_miniCompany:2488359",
+                "name": "Jindal Global Law School (JGLS)",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFnYdToYC00rw/company-logo_200_200/company-logo_200_200/0/1630643854876/jindal_global_law_school_logo?e=1747872000&v=beta&t=hIE0PrfGKTxysurqqm1uta4Rl1Ced0dS759EumDmrmA",
+                "universalName": "jindal-global-law-school",
+                "dashCompanyUrn": "urn:li:fsd_company:2488359",
+                "trackingId": "aMdKRyHxTuiIl049b6KBrQ=="
+            },
+            "companyName": "Jindal Global Law School"
+        },
+        {
+            "title": "Lecturer",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:228000",
+                "entityUrn": "urn:li:fs_miniCompany:228000",
+                "name": "SOAS University of London",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0ldSyn_IGKg/company-logo_200_200/company-logo_200_200/0/1630553002558/soas_university_of_london_logo?e=1747872000&v=beta&t=EQ2wjve_Y1MPv6K3edoxI5ucBwewjZggK1WjchdVWbg",
+                "universalName": "soas-university-of-london",
+                "dashCompanyUrn": "urn:li:fsd_company:228000",
+                "trackingId": "8eAITlcxSCG2jE7NUzcZRQ=="
+            },
+            "companyName": "SOAS"
+        },
+        {
+            "title": "Teaching Fellow",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2005
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:228000",
+                "entityUrn": "urn:li:fs_miniCompany:228000",
+                "name": "SOAS University of London",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQH0ldSyn_IGKg/company-logo_200_200/company-logo_200_200/0/1630553002558/soas_university_of_london_logo?e=1747872000&v=beta&t=EQ2wjve_Y1MPv6K3edoxI5ucBwewjZggK1WjchdVWbg",
+                "universalName": "soas-university-of-london",
+                "dashCompanyUrn": "urn:li:fsd_company:228000",
+                "trackingId": "3Lu5/HZMS6O2WbwqfxS+9w=="
+            },
+            "companyName": "SOAS University of London"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Dr. rer. pol.",
+            "schoolName": "Heidelberg University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2015
+                }
+            }
+        },
+        {
+            "degreeName": "Master of Laws - LLM",
+            "schoolName": "The London School of Economics and Political Science (LSE)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2007
+                }
+            }
+        },
+        {
+            "degreeName": "MA Political Science",
+            "schoolName": "Heidelberg University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

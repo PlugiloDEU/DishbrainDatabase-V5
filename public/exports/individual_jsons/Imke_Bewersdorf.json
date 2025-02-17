@@ -1,0 +1,516 @@
+{
+    "id": "exp482011122",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Imke",
+        "lastName": "Bewersdorf",
+        "fullName": "Imke Bewersdorf",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Französisch",
+            "Griechisch"
+        ],
+        "allData": {
+            "id": "482011122",
+            "profileId": "ACoAABy65_IBEJxb3Z4pgBbZVvPLDypdSwjIdFM",
+            "firstName": "Imke",
+            "lastName": "Bewersdorf",
+            "occupation": "UX Consultant / PO bei BIG PICTURE GmbH",
+            "publicIdentifier": "imke-bewersdorf-756511115",
+            "trackingId": "p3tkpKDsRPqMZ/u9i8VYlw==",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009712",
+            "positions": [
+                {
+                    "title": "UX Consultant / Product Owner",
+                    "locationName": "Berlin, Berlin, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 4,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:405578",
+                        "entityUrn": "urn:li:fs_miniCompany:405578",
+                        "name": "BIG PICTURE GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEK-c1oYh523A/company-logo_200_200/company-logo_200_200/0/1713177275629/big_picture_logo?e=1747872000&v=beta&t=reEAOZ2bYRt66ob1A0wGFTgXu0oVAxIwy9IvxkEEbDQ",
+                        "universalName": "big-picture",
+                        "dashCompanyUrn": "urn:li:fsd_company:405578",
+                        "trackingId": "lKI4YyriQo2jPKB+TaS3NA=="
+                    },
+                    "companyName": "BIG PICTURE GmbH"
+                },
+                {
+                    "title": "Konzept / UX Consultant",
+                    "locationName": "Berlin und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 7,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:405578",
+                        "entityUrn": "urn:li:fs_miniCompany:405578",
+                        "name": "BIG PICTURE GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEK-c1oYh523A/company-logo_200_200/company-logo_200_200/0/1713177275629/big_picture_logo?e=1747872000&v=beta&t=reEAOZ2bYRt66ob1A0wGFTgXu0oVAxIwy9IvxkEEbDQ",
+                        "universalName": "big-picture",
+                        "dashCompanyUrn": "urn:li:fsd_company:405578",
+                        "trackingId": "m8AJC1qzSxCvN4VudBbRNw=="
+                    },
+                    "companyName": "BIG PICTURE GmbH"
+                },
+                {
+                    "title": "Masterarbeit",
+                    "description": "Entwicklung von visuellem Feedback für ein virtuelles Interface",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:1322962",
+                        "entityUrn": "urn:li:fs_miniCompany:1322962",
+                        "name": "Fraunhofer Institute for Production Systems and Design Technology IPK",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFEEwmqluZ7XQ/company-logo_200_200/company-logo_200_200/0/1630541509420/fraunhofer_ipk_logo?e=1747872000&v=beta&t=xPvzCw-EglVE3uWgK1V4qjFQ6LhSkt7gbCRP91v5knM",
+                        "universalName": "fraunhofer-ipk",
+                        "dashCompanyUrn": "urn:li:fsd_company:1322962",
+                        "trackingId": "efqNd5siSumxWBiEcEDSXg=="
+                    },
+                    "companyName": "Fraunhofer Institute for Production Systems and Design Technology IPK"
+                },
+                {
+                    "title": "Student Research Assistant",
+                    "description": "Programmierung von webbasierten Experimenten\nLiteraturrecherche\n",
+                    "locationName": "Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Research"
+                        ],
+                        "objectUrn": "urn:li:company:823973",
+                        "entityUrn": "urn:li:fs_miniCompany:823973",
+                        "name": "Max Planck Institute for Human Development",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGzK5W9mYRfHA/company-logo_200_200/company-logo_200_200/0/1636968331183/max_planck_institute_for_human_development_logo?e=1747872000&v=beta&t=XV_CLJIl0dJw_WZ5lUqJymxuTj8wlcDfQ_zonqlyDQA",
+                        "universalName": "max-planck-institute-for-human-development",
+                        "dashCompanyUrn": "urn:li:fsd_company:823973",
+                        "trackingId": "gEm8z1BDQlyrl4nCWDe4PA=="
+                    },
+                    "companyName": "Max Planck Institute for Human Development"
+                },
+                {
+                    "title": "Student Research Assistant",
+                    "description": "Datenanalyse (fMRI)\nLiteraturrecherche\nPräsentation",
+                    "locationName": "Cardiff, Großbritannien",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2012
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Higher Education"
+                        ],
+                        "objectUrn": "urn:li:company:9126",
+                        "entityUrn": "urn:li:fs_miniCompany:9126",
+                        "name": "Cardiff University / Prifysgol Caerdydd",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYHzdGEWWaYw/company-logo_200_200/company-logo_200_200/0/1739182157644/cardiff_university_logo?e=1747872000&v=beta&t=XjJpckv74cTewfzx2IAjujUZxFu5fGILi5Uf-zsso3E",
+                        "universalName": "cardiff-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:9126",
+                        "trackingId": "HnO/nLHeQ9K8BnTJ+UU78A=="
+                    },
+                    "companyName": "Cardiff University / Prifysgol Caerdydd"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Human Factors",
+                    "schoolName": "Technische Universität Berlin",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Bachelor of Science (B.Sc.)",
+                    "fieldOfStudy": "Cognitive Science",
+                    "schoolName": "Universität Osnabrück",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2014
+                        },
+                        "startDate": {
+                            "year": 2010
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [
+                {
+                    "title": "Deutschlandstipendium",
+                    "issueDate": {
+                        "month": 1,
+                        "year": 2015
+                    },
+                    "issuer": "Bundesminesterium für Bildung und Forschung (BMBF)"
+                }
+            ],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "Französisch",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Griechisch",
+                    "proficiency": "ELEMENTARY"
+                }
+            ],
+            "skills": [
+                "User Experience Design",
+                "Wireframing",
+                "Präsentationen",
+                "User Centered Design"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Unterstützung beim Programmieren von Computerspielen",
+                    "description": "Workshop mit dem Ziel, junge Mädchen für eine Karriere in der Spieleindustrie zu beigeistern. Mit Hilfe von Scratch haben die Mädchen in kleinen Gruppen ein erstes eigenes Computerspiel programmiert.",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2016
+                        }
+                    },
+                    "companyName": "Girls Make Games"
+                }
+            ],
+            "headline": "UX Consultant / PO bei BIG PICTURE GmbH",
+            "student": false,
+            "industryName": "Internet",
+            "industryUrn": "urn:li:fs_industry:6",
+            "geoLocationName": "Berlin Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "UX Consultant / Product Owner",
+            "companyName": "BIG PICTURE GmbH",
+            "companyPublicId": "big-picture",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/big-picture",
+            "following": false,
+            "followable": true,
+            "followersCount": 76,
+            "connectionsCount": 71,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "BIG PICTURE GmbH",
+        "position": "UX Consultant / Product Owner",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "UX Consultant / Product Owner",
+        "organization": "BIG PICTURE GmbH",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/imke-bewersdorf-756511115/",
+        "company": "https://www.linkedin.com/company/big-picture"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "UX Consultant / Product Owner",
+            "locationName": "Berlin, Berlin, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 4,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:405578",
+                "entityUrn": "urn:li:fs_miniCompany:405578",
+                "name": "BIG PICTURE GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEK-c1oYh523A/company-logo_200_200/company-logo_200_200/0/1713177275629/big_picture_logo?e=1747872000&v=beta&t=reEAOZ2bYRt66ob1A0wGFTgXu0oVAxIwy9IvxkEEbDQ",
+                "universalName": "big-picture",
+                "dashCompanyUrn": "urn:li:fsd_company:405578",
+                "trackingId": "lKI4YyriQo2jPKB+TaS3NA=="
+            },
+            "companyName": "BIG PICTURE GmbH"
+        },
+        {
+            "title": "Konzept / UX Consultant",
+            "locationName": "Berlin und Umgebung, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 7,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:405578",
+                "entityUrn": "urn:li:fs_miniCompany:405578",
+                "name": "BIG PICTURE GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQEK-c1oYh523A/company-logo_200_200/company-logo_200_200/0/1713177275629/big_picture_logo?e=1747872000&v=beta&t=reEAOZ2bYRt66ob1A0wGFTgXu0oVAxIwy9IvxkEEbDQ",
+                "universalName": "big-picture",
+                "dashCompanyUrn": "urn:li:fsd_company:405578",
+                "trackingId": "m8AJC1qzSxCvN4VudBbRNw=="
+            },
+            "companyName": "BIG PICTURE GmbH"
+        },
+        {
+            "title": "Masterarbeit",
+            "description": "Entwicklung von visuellem Feedback für ein virtuelles Interface",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:1322962",
+                "entityUrn": "urn:li:fs_miniCompany:1322962",
+                "name": "Fraunhofer Institute for Production Systems and Design Technology IPK",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQFEEwmqluZ7XQ/company-logo_200_200/company-logo_200_200/0/1630541509420/fraunhofer_ipk_logo?e=1747872000&v=beta&t=xPvzCw-EglVE3uWgK1V4qjFQ6LhSkt7gbCRP91v5knM",
+                "universalName": "fraunhofer-ipk",
+                "dashCompanyUrn": "urn:li:fsd_company:1322962",
+                "trackingId": "efqNd5siSumxWBiEcEDSXg=="
+            },
+            "companyName": "Fraunhofer Institute for Production Systems and Design Technology IPK"
+        },
+        {
+            "title": "Student Research Assistant",
+            "description": "Programmierung von webbasierten Experimenten\nLiteraturrecherche\n",
+            "locationName": "Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Research"
+                ],
+                "objectUrn": "urn:li:company:823973",
+                "entityUrn": "urn:li:fs_miniCompany:823973",
+                "name": "Max Planck Institute for Human Development",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGzK5W9mYRfHA/company-logo_200_200/company-logo_200_200/0/1636968331183/max_planck_institute_for_human_development_logo?e=1747872000&v=beta&t=XV_CLJIl0dJw_WZ5lUqJymxuTj8wlcDfQ_zonqlyDQA",
+                "universalName": "max-planck-institute-for-human-development",
+                "dashCompanyUrn": "urn:li:fsd_company:823973",
+                "trackingId": "gEm8z1BDQlyrl4nCWDe4PA=="
+            },
+            "companyName": "Max Planck Institute for Human Development"
+        },
+        {
+            "title": "Student Research Assistant",
+            "description": "Datenanalyse (fMRI)\nLiteraturrecherche\nPräsentation",
+            "locationName": "Cardiff, Großbritannien",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2012
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Higher Education"
+                ],
+                "objectUrn": "urn:li:company:9126",
+                "entityUrn": "urn:li:fs_miniCompany:9126",
+                "name": "Cardiff University / Prifysgol Caerdydd",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFYHzdGEWWaYw/company-logo_200_200/company-logo_200_200/0/1739182157644/cardiff_university_logo?e=1747872000&v=beta&t=XjJpckv74cTewfzx2IAjujUZxFu5fGILi5Uf-zsso3E",
+                "universalName": "cardiff-university",
+                "dashCompanyUrn": "urn:li:fsd_company:9126",
+                "trackingId": "HnO/nLHeQ9K8BnTJ+UU78A=="
+            },
+            "companyName": "Cardiff University / Prifysgol Caerdydd"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Human Factors",
+            "schoolName": "Technische Universität Berlin",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        },
+        {
+            "degreeName": "Bachelor of Science (B.Sc.)",
+            "fieldOfStudy": "Cognitive Science",
+            "schoolName": "Universität Osnabrück",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2014
+                },
+                "startDate": {
+                    "year": 2010
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "User Experience Design",
+        "Wireframing",
+        "Präsentationen",
+        "User Centered Design"
+    ],
+    "lastEnriched": "2025-02-17"
+}

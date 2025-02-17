@@ -1,0 +1,387 @@
+{
+    "id": "exp797707681",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Thomas",
+        "lastName": "Riehm",
+        "fullName": "Thomas Riehm",
+        "image": "https://media.licdn.com/dms/image/v2/C5603AQFTDRmjdiwwbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1590947695628?e=1745452800&v=beta&t=d7qoSaUADU6psxE8U96D1No3j55UW8WjDa8o_tngdvY",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "797707681",
+            "profileId": "ACoAAC-MDaEBhZEO9RNM8EFcrP-eRs-11zUuwS0",
+            "firstName": "Thomas",
+            "lastName": "Riehm",
+            "occupation": "Quality Assurance Analyst at LaCore Nutraceuticals",
+            "publicIdentifier": "thomas-riehm",
+            "trackingId": "++7zNFyKQiGJFMwtLhHC8A==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C5603AQFTDRmjdiwwbA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1590947695628?e=1745452800&v=beta&t=d7qoSaUADU6psxE8U96D1No3j55UW8WjDa8o_tngdvY",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:100432370",
+            "positions": [
+                {
+                    "title": "Quality Assurance Analyst",
+                    "locationName": "Van Alstyne, Texas, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Consumer Goods"
+                        ],
+                        "objectUrn": "urn:li:company:33294843",
+                        "entityUrn": "urn:li:fs_miniCompany:33294843",
+                        "name": "LACORE Nutraceuticals",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQFBgaE68buejA/company-logo_200_200/company-logo_200_200/0/1630667020597/lacore_nutraceuticals_logo?e=1747872000&v=beta&t=7rToDq5fsbJTlz_FLPAnprBkfU2AANUFnUIWxlYFWNk",
+                        "universalName": "lacorenutra",
+                        "dashCompanyUrn": "urn:li:fsd_company:33294843",
+                        "trackingId": "4Xiet8S4SEWqlx4aFkjdwA=="
+                    },
+                    "companyName": "LaCore Nutraceuticals"
+                },
+                {
+                    "title": "Fulfillment Associate",
+                    "locationName": "Fort Worth, Texas, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Retail"
+                        ],
+                        "objectUrn": "urn:li:company:20419946",
+                        "entityUrn": "urn:li:fs_miniCompany:20419946",
+                        "name": "Amazon",
+                        "showcase": false,
+                        "active": false,
+                        "logo": "https://media.licdn.com/dms/image/v2/C510BAQH2J9fYWbvJWQ/company-logo_200_200/company-logo_200_200/0/1630592767104?e=1747872000&v=beta&t=eKMPRAi7D4I1MkScHxEytw6PvGDTF_qw1ZyLk6qFjUg",
+                        "universalName": "rohika",
+                        "dashCompanyUrn": "urn:li:fsd_company:20419946",
+                        "trackingId": "1dG3a76TQaaQyDiZBSVaLQ=="
+                    },
+                    "companyName": "Amazon"
+                },
+                {
+                    "title": "Cashier",
+                    "locationName": "Aledo, Texas, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Restaurants"
+                        ],
+                        "objectUrn": "urn:li:company:38204",
+                        "entityUrn": "urn:li:fs_miniCompany:38204",
+                        "name": "Whataburger",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFmS9fZjiREeQ/company-logo_200_200/company-logo_200_200/0/1630624257971/whataburger_logo?e=1747872000&v=beta&t=K1sxc45leZHuXPEK1QV4Fe4tJUalRXxAnNRRFcpa_rI",
+                        "universalName": "whataburger",
+                        "dashCompanyUrn": "urn:li:fsd_company:38204",
+                        "trackingId": "kLGEMX3ITcyVQ5VoWUQlWQ=="
+                    },
+                    "companyName": "Whataburger"
+                },
+                {
+                    "title": "Food Service Worker",
+                    "locationName": "Aledo, Texas, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Restaurants"
+                        ],
+                        "objectUrn": "urn:li:company:7638",
+                        "entityUrn": "urn:li:fs_miniCompany:7638",
+                        "name": "SONIC Drive-In",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG7HvOv2TwFEw/company-logo_200_200/company-logo_200_200/0/1719256330921/sonic_drive_in_logo?e=1747872000&v=beta&t=gS3gsn2H1Kk-dGZhuMKKPrY_o01CIxgCtThEXmfUdjw",
+                        "universalName": "sonic-drive-in",
+                        "dashCompanyUrn": "urn:li:fsd_company:7638",
+                        "trackingId": "eZLrQ0wkQe+nxe57NMbvnA=="
+                    },
+                    "companyName": "SONIC Drive-In"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Bachelor of Arts - BA",
+                    "fieldOfStudy": "Business Administration and Management, General",
+                    "schoolName": "Austin College",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2019
+                        },
+                        "startDate": {
+                            "year": 2014
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Quality Assurance",
+                "Data Entry",
+                "Data Analysis",
+                "Sample Preparation"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Quality Assurance Analyst at LaCore Nutraceuticals",
+            "summary": "Graduate of Austin College with a degree focused in Business Administration. Strong professional with experience in SPSS, SAS, Quickbooks Pro, and the Microsoft Office Suite. ",
+            "student": false,
+            "industryName": "Consumer Goods",
+            "industryUrn": "urn:li:fs_industry:25",
+            "geoLocationName": "Fort Worth, Texas",
+            "geoCountryName": "United States",
+            "jobTitle": "Quality Assurance Analyst",
+            "companyName": "LaCore Nutraceuticals",
+            "companyPublicId": "lacorenutra",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/lacorenutra",
+            "following": false,
+            "followable": true,
+            "followersCount": 98,
+            "connectionsCount": 98,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "LaCore Nutraceuticals",
+        "position": "Quality Assurance Analyst",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Consumer Goods"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Quality Assurance Analyst",
+        "organization": "LaCore Nutraceuticals",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/thomas-riehm/",
+        "company": "https://www.linkedin.com/company/lacorenutra"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Quality Assurance Analyst",
+            "locationName": "Van Alstyne, Texas, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Consumer Goods"
+                ],
+                "objectUrn": "urn:li:company:33294843",
+                "entityUrn": "urn:li:fs_miniCompany:33294843",
+                "name": "LACORE Nutraceuticals",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQFBgaE68buejA/company-logo_200_200/company-logo_200_200/0/1630667020597/lacore_nutraceuticals_logo?e=1747872000&v=beta&t=7rToDq5fsbJTlz_FLPAnprBkfU2AANUFnUIWxlYFWNk",
+                "universalName": "lacorenutra",
+                "dashCompanyUrn": "urn:li:fsd_company:33294843",
+                "trackingId": "4Xiet8S4SEWqlx4aFkjdwA=="
+            },
+            "companyName": "LaCore Nutraceuticals"
+        },
+        {
+            "title": "Fulfillment Associate",
+            "locationName": "Fort Worth, Texas, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Retail"
+                ],
+                "objectUrn": "urn:li:company:20419946",
+                "entityUrn": "urn:li:fs_miniCompany:20419946",
+                "name": "Amazon",
+                "showcase": false,
+                "active": false,
+                "logo": "https://media.licdn.com/dms/image/v2/C510BAQH2J9fYWbvJWQ/company-logo_200_200/company-logo_200_200/0/1630592767104?e=1747872000&v=beta&t=eKMPRAi7D4I1MkScHxEytw6PvGDTF_qw1ZyLk6qFjUg",
+                "universalName": "rohika",
+                "dashCompanyUrn": "urn:li:fsd_company:20419946",
+                "trackingId": "1dG3a76TQaaQyDiZBSVaLQ=="
+            },
+            "companyName": "Amazon"
+        },
+        {
+            "title": "Cashier",
+            "locationName": "Aledo, Texas, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Restaurants"
+                ],
+                "objectUrn": "urn:li:company:38204",
+                "entityUrn": "urn:li:fs_miniCompany:38204",
+                "name": "Whataburger",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQFmS9fZjiREeQ/company-logo_200_200/company-logo_200_200/0/1630624257971/whataburger_logo?e=1747872000&v=beta&t=K1sxc45leZHuXPEK1QV4Fe4tJUalRXxAnNRRFcpa_rI",
+                "universalName": "whataburger",
+                "dashCompanyUrn": "urn:li:fsd_company:38204",
+                "trackingId": "kLGEMX3ITcyVQ5VoWUQlWQ=="
+            },
+            "companyName": "Whataburger"
+        },
+        {
+            "title": "Food Service Worker",
+            "locationName": "Aledo, Texas, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Restaurants"
+                ],
+                "objectUrn": "urn:li:company:7638",
+                "entityUrn": "urn:li:fs_miniCompany:7638",
+                "name": "SONIC Drive-In",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQG7HvOv2TwFEw/company-logo_200_200/company-logo_200_200/0/1719256330921/sonic_drive_in_logo?e=1747872000&v=beta&t=gS3gsn2H1Kk-dGZhuMKKPrY_o01CIxgCtThEXmfUdjw",
+                "universalName": "sonic-drive-in",
+                "dashCompanyUrn": "urn:li:fsd_company:7638",
+                "trackingId": "eZLrQ0wkQe+nxe57NMbvnA=="
+            },
+            "companyName": "SONIC Drive-In"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Bachelor of Arts - BA",
+            "fieldOfStudy": "Business Administration and Management, General",
+            "schoolName": "Austin College",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2019
+                },
+                "startDate": {
+                    "year": 2014
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Quality Assurance",
+        "Data Entry",
+        "Data Analysis",
+        "Sample Preparation"
+    ],
+    "lastEnriched": "2025-02-17"
+}

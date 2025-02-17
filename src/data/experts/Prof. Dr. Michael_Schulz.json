@@ -1,0 +1,531 @@
+{
+    "id": "exp537981414",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Prof. Dr. Michael",
+        "lastName": "Schulz",
+        "fullName": "Prof. Dr. Michael Schulz",
+        "image": null,
+        "email": null,
+        "phone": null,
+        "languages": [
+            "Deutsch",
+            "Englisch",
+            "Russisch"
+        ],
+        "allData": {
+            "id": "537981414",
+            "profileId": "ACoAACAQ8eYBUACc288YX6JD43shsCwjRusgpg0",
+            "firstName": "Prof. Dr. Michael",
+            "lastName": "Schulz",
+            "occupation": "Geschäftsführer IM&P",
+            "publicIdentifier": "prof-dr-michael-schulz-a06203130",
+            "trackingId": "kEGG1FiVSVeDpdHKLyOA7A==",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:102040129",
+            "positions": [
+                {
+                    "title": "CEO",
+                    "locationName": "Halle (Saale)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2015
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 2,
+                            "end": 10
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:15224837",
+                        "entityUrn": "urn:li:fs_miniCompany:15224837",
+                        "name": "Indalyz Monitoring & Prognostics GmbH",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGe8pVLlqlhMQ/company-logo_200_200/company-logo_200_200/0/1631347440730?e=1747872000&v=beta&t=er0_aSJAOTkVJ5ettBnCxRD-WlUuqwLA40pTdG7dqNY",
+                        "universalName": "indalyz-monitoring-&-prognostics-gmbh-im&p-",
+                        "dashCompanyUrn": "urn:li:fsd_company:15224837",
+                        "trackingId": "Vay+r0lbT6K9zk4FSOy1EA=="
+                    },
+                    "companyName": "Indalyz Monitoring & Prognostics GmbH (IM&P)"
+                },
+                {
+                    "title": "APL-Professur",
+                    "locationName": "Ulm",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Education Management"
+                        ],
+                        "objectUrn": "urn:li:company:24504",
+                        "entityUrn": "urn:li:fs_miniCompany:24504",
+                        "name": "Ulm University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHNE-WihUTmUA/company-logo_200_200/company-logo_200_200/0/1630576944523/university_of_ulm_logo?e=1747872000&v=beta&t=QuUh3paWa2BSd2mF3O7LpfCUeQp62a5kwZNN8RNFFXw",
+                        "universalName": "ulm-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:24504",
+                        "trackingId": "uIHgywYaTk+DP7U+LpWfHw=="
+                    },
+                    "companyName": "Universität Ulm"
+                },
+                {
+                    "title": "Professur für Sensorik und kognitive Psychologie",
+                    "locationName": "Chemnitz",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2015
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Education Management"
+                        ],
+                        "objectUrn": "urn:li:company:4272588",
+                        "entityUrn": "urn:li:fs_miniCompany:4272588",
+                        "name": "Technische Universität Chemnitz",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHTVrj3-JI_rg/company-logo_200_200/company-logo_200_200/0/1637830961984/technische_universitat_chemnitz_logo?e=1747872000&v=beta&t=jyDOjCMkkz1V7nYOO88b9_UHhcLE1G2Ggzca2_-DcMo",
+                        "universalName": "technische-universitat-chemnitz",
+                        "dashCompanyUrn": "urn:li:fsd_company:4272588",
+                        "trackingId": "BwX0SsiBRkWlsCp4HN7RiA=="
+                    },
+                    "companyName": "Technische Universität Chemnitz"
+                },
+                {
+                    "title": "Unabhängiger Berater",
+                    "locationName": "Frankfurt am Main",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2007
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:163430",
+                        "entityUrn": "urn:li:fs_miniCompany:163430",
+                        "name": "Deutsche Börse",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGyTLr4K-2jKw/company-logo_200_200/company-logo_200_200/0/1631351134984?e=1747872000&v=beta&t=IZIYEo_Nb83C4RYd-Cldfy9gid_CjjmpyrXNL2WguSo",
+                        "universalName": "deutscheboerse",
+                        "dashCompanyUrn": "urn:li:fsd_company:163430",
+                        "trackingId": "QWEcqRhoTva+as0AFMgHow=="
+                    },
+                    "companyName": "Deutsche Börse"
+                },
+                {
+                    "title": "Hochschuldozent",
+                    "locationName": "Ulm",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2007
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2000
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Education Management"
+                        ],
+                        "objectUrn": "urn:li:company:24504",
+                        "entityUrn": "urn:li:fs_miniCompany:24504",
+                        "name": "Ulm University",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHNE-WihUTmUA/company-logo_200_200/company-logo_200_200/0/1630576944523/university_of_ulm_logo?e=1747872000&v=beta&t=QuUh3paWa2BSd2mF3O7LpfCUeQp62a5kwZNN8RNFFXw",
+                        "universalName": "ulm-university",
+                        "dashCompanyUrn": "urn:li:fsd_company:24504",
+                        "trackingId": "NlHZz6VpTMGUc2x4D/vilg=="
+                    },
+                    "companyName": "Universität Ulm"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Habilitation zum Dr.rer.nat.habil.",
+                    "fieldOfStudy": "Theoretische und mathematische Physik",
+                    "schoolName": "Martin-Luther-Universität Halle-Wittenberg",
+                    "timePeriod": {
+                        "startDate": {
+                            "year": 1992
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Dr. rer.nat",
+                    "fieldOfStudy": "Physik",
+                    "schoolName": "Martin-Luther-Universität Halle-Wittenberg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1988
+                        },
+                        "startDate": {
+                            "year": 1985
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diplom-Physiker",
+                    "fieldOfStudy": "Theoretische und mathematische Physik",
+                    "schoolName": "The Martin Luther University of Halle-Wittenberg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1985
+                        },
+                        "startDate": {
+                            "year": 1980
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Diplomphysiker",
+                    "authority": "Martin-Luther-Universität Halle-Wittenberg"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "Deutsch",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Englisch",
+                    "proficiency": "LIMITED_WORKING"
+                },
+                {
+                    "name": "Russisch",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [
+                "Geschäftsführung",
+                "Research",
+                "Theoretische Physik",
+                "Künstliche Intelligenz"
+            ],
+            "volunteerExperiences": [
+                {
+                    "role": "Mitglied des Kreistages und des Sozialauschusses im Kreistag",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2015
+                        }
+                    },
+                    "companyName": "Kreistag Saalekreis"
+                },
+                {
+                    "role": "Stadtrat und Vorsitzender des Bauausschusses, Vorsitzender der CDU-FDP-Fraktion",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2009
+                        }
+                    },
+                    "companyName": "Braunsbedra"
+                }
+            ],
+            "headline": "Geschäftsführer IM&P",
+            "student": false,
+            "industryName": "Information Technology & Services",
+            "industryUrn": "urn:li:fs_industry:96",
+            "geoLocationName": "Halle, Saxony-Anhalt",
+            "geoCountryName": "Germany",
+            "jobTitle": "CEO",
+            "companyName": "Indalyz Monitoring & Prognostics GmbH (IM&P)",
+            "companyPublicId": "indalyz-monitoring-&-prognostics-gmbh-im&p-",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/indalyz-monitoring-&-prognostics-gmbh-im&p-",
+            "following": false,
+            "followable": true,
+            "followersCount": 113,
+            "connectionsCount": 94,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Indalyz Monitoring & Prognostics GmbH (IM&P)",
+        "position": "CEO",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "CEO",
+        "organization": "Indalyz Monitoring & Prognostics GmbH (IM&P)",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/prof-dr-michael-schulz-a06203130/",
+        "company": "https://www.linkedin.com/company/indalyz-monitoring-&-prognostics-gmbh-im&p-"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "CEO",
+            "locationName": "Halle (Saale)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2015
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 2,
+                    "end": 10
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:15224837",
+                "entityUrn": "urn:li:fs_miniCompany:15224837",
+                "name": "Indalyz Monitoring & Prognostics GmbH",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGe8pVLlqlhMQ/company-logo_200_200/company-logo_200_200/0/1631347440730?e=1747872000&v=beta&t=er0_aSJAOTkVJ5ettBnCxRD-WlUuqwLA40pTdG7dqNY",
+                "universalName": "indalyz-monitoring-&-prognostics-gmbh-im&p-",
+                "dashCompanyUrn": "urn:li:fsd_company:15224837",
+                "trackingId": "Vay+r0lbT6K9zk4FSOy1EA=="
+            },
+            "companyName": "Indalyz Monitoring & Prognostics GmbH (IM&P)"
+        },
+        {
+            "title": "APL-Professur",
+            "locationName": "Ulm",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Education Management"
+                ],
+                "objectUrn": "urn:li:company:24504",
+                "entityUrn": "urn:li:fs_miniCompany:24504",
+                "name": "Ulm University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHNE-WihUTmUA/company-logo_200_200/company-logo_200_200/0/1630576944523/university_of_ulm_logo?e=1747872000&v=beta&t=QuUh3paWa2BSd2mF3O7LpfCUeQp62a5kwZNN8RNFFXw",
+                "universalName": "ulm-university",
+                "dashCompanyUrn": "urn:li:fsd_company:24504",
+                "trackingId": "uIHgywYaTk+DP7U+LpWfHw=="
+            },
+            "companyName": "Universität Ulm"
+        },
+        {
+            "title": "Professur für Sensorik und kognitive Psychologie",
+            "locationName": "Chemnitz",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2015
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Education Management"
+                ],
+                "objectUrn": "urn:li:company:4272588",
+                "entityUrn": "urn:li:fs_miniCompany:4272588",
+                "name": "Technische Universität Chemnitz",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHTVrj3-JI_rg/company-logo_200_200/company-logo_200_200/0/1637830961984/technische_universitat_chemnitz_logo?e=1747872000&v=beta&t=jyDOjCMkkz1V7nYOO88b9_UHhcLE1G2Ggzca2_-DcMo",
+                "universalName": "technische-universitat-chemnitz",
+                "dashCompanyUrn": "urn:li:fsd_company:4272588",
+                "trackingId": "BwX0SsiBRkWlsCp4HN7RiA=="
+            },
+            "companyName": "Technische Universität Chemnitz"
+        },
+        {
+            "title": "Unabhängiger Berater",
+            "locationName": "Frankfurt am Main",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2007
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:163430",
+                "entityUrn": "urn:li:fs_miniCompany:163430",
+                "name": "Deutsche Börse",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGyTLr4K-2jKw/company-logo_200_200/company-logo_200_200/0/1631351134984?e=1747872000&v=beta&t=IZIYEo_Nb83C4RYd-Cldfy9gid_CjjmpyrXNL2WguSo",
+                "universalName": "deutscheboerse",
+                "dashCompanyUrn": "urn:li:fsd_company:163430",
+                "trackingId": "QWEcqRhoTva+as0AFMgHow=="
+            },
+            "companyName": "Deutsche Börse"
+        },
+        {
+            "title": "Hochschuldozent",
+            "locationName": "Ulm",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2007
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2000
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Education Management"
+                ],
+                "objectUrn": "urn:li:company:24504",
+                "entityUrn": "urn:li:fs_miniCompany:24504",
+                "name": "Ulm University",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQHNE-WihUTmUA/company-logo_200_200/company-logo_200_200/0/1630576944523/university_of_ulm_logo?e=1747872000&v=beta&t=QuUh3paWa2BSd2mF3O7LpfCUeQp62a5kwZNN8RNFFXw",
+                "universalName": "ulm-university",
+                "dashCompanyUrn": "urn:li:fsd_company:24504",
+                "trackingId": "NlHZz6VpTMGUc2x4D/vilg=="
+            },
+            "companyName": "Universität Ulm"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Habilitation zum Dr.rer.nat.habil.",
+            "fieldOfStudy": "Theoretische und mathematische Physik",
+            "schoolName": "Martin-Luther-Universität Halle-Wittenberg",
+            "timePeriod": {
+                "startDate": {
+                    "year": 1992
+                }
+            }
+        },
+        {
+            "degreeName": "Dr. rer.nat",
+            "fieldOfStudy": "Physik",
+            "schoolName": "Martin-Luther-Universität Halle-Wittenberg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1988
+                },
+                "startDate": {
+                    "year": 1985
+                }
+            }
+        },
+        {
+            "degreeName": "Diplom-Physiker",
+            "fieldOfStudy": "Theoretische und mathematische Physik",
+            "schoolName": "The Martin Luther University of Halle-Wittenberg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1985
+                },
+                "startDate": {
+                    "year": 1980
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Diplomphysiker",
+            "authority": "Martin-Luther-Universität Halle-Wittenberg"
+        }
+    ],
+    "skills": [
+        "Geschäftsführung",
+        "Research",
+        "Theoretische Physik",
+        "Künstliche Intelligenz"
+    ],
+    "lastEnriched": "2025-02-17"
+}

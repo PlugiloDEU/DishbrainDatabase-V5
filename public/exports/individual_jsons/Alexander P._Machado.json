@@ -1,0 +1,412 @@
+{
+    "id": "exp274080983",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Alexander P.",
+        "lastName": "Machado",
+        "fullName": "Alexander P. Machado",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQH2Ca19udDb2w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697304400920?e=1745452800&v=beta&t=bomuT54yf4nBOBZocCKdCmYx64SEMTQWP73reYKViVM",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "274080983",
+            "profileId": "ACoAABBWJNcB1mY2vKqPZOxQtBQ0bibdyGM-1kA",
+            "firstName": "Alexander P.",
+            "lastName": "Machado",
+            "occupation": "Vice President, Multi-Site Branch Manager at JPMorgan Chase",
+            "publicIdentifier": "alexander-p-machado-81b95777",
+            "trackingId": "LwqcJN5IRa+CJ4x9HAO8iQ==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH2Ca19udDb2w/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697304400920?e=1745452800&v=beta&t=bomuT54yf4nBOBZocCKdCmYx64SEMTQWP73reYKViVM",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQHqGlirJMoefA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1644784351783?e=1745452800&v=beta&t=QNK4GWPWjveTt-GfX8GXrQXYKCy67VeHQUVmc53-fjA",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:90000056",
+            "positions": [
+                {
+                    "title": "Multi-Site Branch Manager",
+                    "locationName": "Miami, Florida, United States",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 5,
+                            "year": 2021
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1068",
+                        "entityUrn": "urn:li:fs_miniCompany:1068",
+                        "name": "JPMorganChase",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_200_200/company-logo_200_200/0/1718711710850/jpmorganchase_logo?e=1747872000&v=beta&t=RDElsdYKmbysCNtBg1VXiI5QwbP-zogu1k_-ifEF0GI",
+                        "universalName": "jpmorganchase",
+                        "dashCompanyUrn": "urn:li:fsd_company:1068",
+                        "trackingId": "De3wx62FQvS4A+wsvMMa7w=="
+                    },
+                    "companyName": "JPMorgan Chase & Co."
+                },
+                {
+                    "title": "Branch Manager",
+                    "locationName": "Miami, Florida, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2021
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2011
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1068",
+                        "entityUrn": "urn:li:fs_miniCompany:1068",
+                        "name": "JPMorganChase",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_200_200/company-logo_200_200/0/1718711710850/jpmorganchase_logo?e=1747872000&v=beta&t=RDElsdYKmbysCNtBg1VXiI5QwbP-zogu1k_-ifEF0GI",
+                        "universalName": "jpmorganchase",
+                        "dashCompanyUrn": "urn:li:fsd_company:1068",
+                        "trackingId": "UjlqkgZHT5+lUK19sFwyRA=="
+                    },
+                    "companyName": "JPMorgan Chase"
+                },
+                {
+                    "title": "Wholesaler",
+                    "locationName": "Miami, Florida, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2011
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2010
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1068",
+                        "entityUrn": "urn:li:fs_miniCompany:1068",
+                        "name": "JPMorganChase",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_200_200/company-logo_200_200/0/1718711710850/jpmorganchase_logo?e=1747872000&v=beta&t=RDElsdYKmbysCNtBg1VXiI5QwbP-zogu1k_-ifEF0GI",
+                        "universalName": "jpmorganchase",
+                        "dashCompanyUrn": "urn:li:fsd_company:1068",
+                        "trackingId": "rlA7bVHOQa6lm0/Y+90i2A=="
+                    },
+                    "companyName": "JPMorgan Chase"
+                },
+                {
+                    "title": "Assistant Branch Manager",
+                    "locationName": "Miami, Florida, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 2,
+                            "year": 2010
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2008
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:1068",
+                        "entityUrn": "urn:li:fs_miniCompany:1068",
+                        "name": "JPMorganChase",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_200_200/company-logo_200_200/0/1718711710850/jpmorganchase_logo?e=1747872000&v=beta&t=RDElsdYKmbysCNtBg1VXiI5QwbP-zogu1k_-ifEF0GI",
+                        "universalName": "jpmorganchase",
+                        "dashCompanyUrn": "urn:li:fsd_company:1068",
+                        "trackingId": "lEsoVpjLSJu2ndkv0yBmYA=="
+                    },
+                    "companyName": "JPMorgan Chase"
+                },
+                {
+                    "title": "Personal Financial Representative",
+                    "locationName": "Miami, Florida, United States",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 11,
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2006
+                        }
+                    },
+                    "companyName": "Washington Mutual"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Business Administration and Management, General",
+                    "schoolName": "Miami Dade College"
+                },
+                {
+                    "degreeName": "High school deploma",
+                    "schoolName": "Miami Coral Park High School",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2002
+                        },
+                        "startDate": {
+                            "year": 1999
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Time Management",
+                "Team Building",
+                "Customer Service Management",
+                "Retail"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Vice President, Multi-Site Branch Manager at JPMorgan Chase",
+            "summary": "Experienced Branch Manager with a demonstrated history of working in the financial services industry. Skilled in Commercial Lending, Customer Service, Banking, Sales, and Branch Management. Strong sales professional graduated from Miami Coral Park High School.",
+            "student": false,
+            "industryName": "Financial Services",
+            "industryUrn": "urn:li:fs_industry:43",
+            "geoLocationName": "Miami-Fort Lauderdale Area",
+            "geoCountryName": "United States",
+            "jobTitle": "Multi-Site Branch Manager",
+            "companyName": "JPMorgan Chase & Co.",
+            "companyPublicId": "jpmorganchase",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/jpmorganchase",
+            "following": false,
+            "followable": true,
+            "followersCount": 1267,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "JPMorgan Chase & Co.",
+        "position": "Multi-Site Branch Manager",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Financial Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Multi-Site Branch Manager",
+        "organization": "JPMorgan Chase & Co.",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/alexander-p-machado-81b95777/",
+        "company": "https://www.linkedin.com/company/jpmorganchase"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Multi-Site Branch Manager",
+            "locationName": "Miami, Florida, United States",
+            "timePeriod": {
+                "startDate": {
+                    "month": 5,
+                    "year": 2021
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1068",
+                "entityUrn": "urn:li:fs_miniCompany:1068",
+                "name": "JPMorganChase",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_200_200/company-logo_200_200/0/1718711710850/jpmorganchase_logo?e=1747872000&v=beta&t=RDElsdYKmbysCNtBg1VXiI5QwbP-zogu1k_-ifEF0GI",
+                "universalName": "jpmorganchase",
+                "dashCompanyUrn": "urn:li:fsd_company:1068",
+                "trackingId": "De3wx62FQvS4A+wsvMMa7w=="
+            },
+            "companyName": "JPMorgan Chase & Co."
+        },
+        {
+            "title": "Branch Manager",
+            "locationName": "Miami, Florida, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2021
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2011
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1068",
+                "entityUrn": "urn:li:fs_miniCompany:1068",
+                "name": "JPMorganChase",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_200_200/company-logo_200_200/0/1718711710850/jpmorganchase_logo?e=1747872000&v=beta&t=RDElsdYKmbysCNtBg1VXiI5QwbP-zogu1k_-ifEF0GI",
+                "universalName": "jpmorganchase",
+                "dashCompanyUrn": "urn:li:fsd_company:1068",
+                "trackingId": "UjlqkgZHT5+lUK19sFwyRA=="
+            },
+            "companyName": "JPMorgan Chase"
+        },
+        {
+            "title": "Wholesaler",
+            "locationName": "Miami, Florida, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2011
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2010
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1068",
+                "entityUrn": "urn:li:fs_miniCompany:1068",
+                "name": "JPMorganChase",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_200_200/company-logo_200_200/0/1718711710850/jpmorganchase_logo?e=1747872000&v=beta&t=RDElsdYKmbysCNtBg1VXiI5QwbP-zogu1k_-ifEF0GI",
+                "universalName": "jpmorganchase",
+                "dashCompanyUrn": "urn:li:fsd_company:1068",
+                "trackingId": "rlA7bVHOQa6lm0/Y+90i2A=="
+            },
+            "companyName": "JPMorgan Chase"
+        },
+        {
+            "title": "Assistant Branch Manager",
+            "locationName": "Miami, Florida, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 2,
+                    "year": 2010
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2008
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:1068",
+                "entityUrn": "urn:li:fs_miniCompany:1068",
+                "name": "JPMorganChase",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGxpntCyRgsuA/company-logo_200_200/company-logo_200_200/0/1718711710850/jpmorganchase_logo?e=1747872000&v=beta&t=RDElsdYKmbysCNtBg1VXiI5QwbP-zogu1k_-ifEF0GI",
+                "universalName": "jpmorganchase",
+                "dashCompanyUrn": "urn:li:fsd_company:1068",
+                "trackingId": "lEsoVpjLSJu2ndkv0yBmYA=="
+            },
+            "companyName": "JPMorgan Chase"
+        },
+        {
+            "title": "Personal Financial Representative",
+            "locationName": "Miami, Florida, United States",
+            "timePeriod": {
+                "endDate": {
+                    "month": 11,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2006
+                }
+            },
+            "companyName": "Washington Mutual"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Business Administration and Management, General",
+            "schoolName": "Miami Dade College"
+        },
+        {
+            "degreeName": "High school deploma",
+            "schoolName": "Miami Coral Park High School",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1999
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Time Management",
+        "Team Building",
+        "Customer Service Management",
+        "Retail"
+    ],
+    "lastEnriched": "2025-02-17"
+}

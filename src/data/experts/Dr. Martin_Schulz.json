@@ -1,0 +1,430 @@
+{
+    "id": "exp88090029",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Martin",
+        "lastName": "Schulz",
+        "fullName": "Dr. Martin Schulz",
+        "image": "https://media.licdn.com/dms/image/v2/C4D03AQFRcZcTH6DNkA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517273270029?e=1745452800&v=beta&t=isaey9sASg1YqkZxbf-PLZlKPEURkrcxhiu_us1BH10",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "88090029",
+            "profileId": "ACoAAAVAJa0BHNgJ58B3lumZgjdS66wwImpn8JA",
+            "firstName": "Dr. Martin",
+            "lastName": "Schulz",
+            "occupation": "Global Medical Team Lead Sickle Cell Disease",
+            "publicIdentifier": "dr-martin-schulz-03960225",
+            "trackingId": "KUY9RmnESKmoDoOOzfvtww==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/C4D03AQFRcZcTH6DNkA/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1517273270029?e=1745452800&v=beta&t=isaey9sASg1YqkZxbf-PLZlKPEURkrcxhiu_us1BH10",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:90009712",
+            "positions": [
+                {
+                    "title": "Global Medical Team Lead Sickle Cell Disease",
+                    "locationName": "Berlin, Berlin, Deutschland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Pharmaceuticals"
+                        ],
+                        "objectUrn": "urn:li:company:1185",
+                        "entityUrn": "urn:li:fs_miniCompany:1185",
+                        "name": "Pfizer",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                        "universalName": "pfizer",
+                        "dashCompanyUrn": "urn:li:fsd_company:1185",
+                        "trackingId": "N0ZQcOXbSJSENkOjbHkctg=="
+                    },
+                    "companyName": "Pfizer"
+                },
+                {
+                    "title": "Global Sr. Medical Director Launch Lead Hematology",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Pharmaceuticals"
+                        ],
+                        "objectUrn": "urn:li:company:1185",
+                        "entityUrn": "urn:li:fs_miniCompany:1185",
+                        "name": "Pfizer",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                        "universalName": "pfizer",
+                        "dashCompanyUrn": "urn:li:fsd_company:1185",
+                        "trackingId": "TSM2dXzxTt6rS1eQo1pFBw=="
+                    },
+                    "companyName": "Pfizer"
+                },
+                {
+                    "title": "Global Sr. Medical Director Gene Therapy Platform",
+                    "locationName": "Berlin, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Pharmaceuticals"
+                        ],
+                        "objectUrn": "urn:li:company:1185",
+                        "entityUrn": "urn:li:fs_miniCompany:1185",
+                        "name": "Pfizer",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                        "universalName": "pfizer",
+                        "dashCompanyUrn": "urn:li:fsd_company:1185",
+                        "trackingId": "1iciV+zXSlK9U13DeQ/WRA=="
+                    },
+                    "companyName": "Pfizer"
+                },
+                {
+                    "title": "Global Medical Director Hemophilia",
+                    "locationName": "Berlin und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 6,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2019
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Pharmaceuticals"
+                        ],
+                        "objectUrn": "urn:li:company:1185",
+                        "entityUrn": "urn:li:fs_miniCompany:1185",
+                        "name": "Pfizer",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                        "universalName": "pfizer",
+                        "dashCompanyUrn": "urn:li:fsd_company:1185",
+                        "trackingId": "bgultCaOTpeqn/uWRA21Og=="
+                    },
+                    "companyName": "Pfizer"
+                },
+                {
+                    "title": "Regional Medical Team Lead Hematology (Europe and developed Asia-Pacific)",
+                    "description": "Oversee the development and execution of the medical strategies and tactics in the European / Developed APAC region for the haemophilia and sickle cell disease brands / pipeline products, working within the cross-functional regional team and in close cooperation with the Country and Global organizations\n",
+                    "locationName": "Berlin und Umgebung, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2018
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2016
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Pharmaceuticals"
+                        ],
+                        "objectUrn": "urn:li:company:1185",
+                        "entityUrn": "urn:li:fs_miniCompany:1185",
+                        "name": "Pfizer",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                        "universalName": "pfizer",
+                        "dashCompanyUrn": "urn:li:fsd_company:1185",
+                        "trackingId": "eywV5fJOTLug9EBDaSPEgw=="
+                    },
+                    "companyName": "Pfizer"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Staatsexamen",
+                    "fieldOfStudy": "Pharmazie",
+                    "schoolName": "The Julius Maximilians University of Würzburg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2002
+                        },
+                        "startDate": {
+                            "year": 1998
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Global Medical Team Lead Sickle Cell Disease",
+            "student": false,
+            "industryName": "Pharmaceuticals",
+            "industryUrn": "urn:li:fs_industry:15",
+            "geoLocationName": "Berlin Metropolitan Area",
+            "geoCountryName": "Germany",
+            "jobTitle": "Global Medical Team Lead Sickle Cell Disease",
+            "companyName": "Pfizer",
+            "companyPublicId": "pfizer",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/pfizer",
+            "following": false,
+            "followable": true,
+            "followersCount": 1040,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Pfizer",
+        "position": "Global Medical Team Lead Sickle Cell Disease",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Pharmaceuticals"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Global Medical Team Lead Sickle Cell Disease",
+        "organization": "Pfizer",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-martin-schulz-03960225/",
+        "company": "https://www.linkedin.com/company/pfizer"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Global Medical Team Lead Sickle Cell Disease",
+            "locationName": "Berlin, Berlin, Deutschland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ],
+                "objectUrn": "urn:li:company:1185",
+                "entityUrn": "urn:li:fs_miniCompany:1185",
+                "name": "Pfizer",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                "universalName": "pfizer",
+                "dashCompanyUrn": "urn:li:fsd_company:1185",
+                "trackingId": "N0ZQcOXbSJSENkOjbHkctg=="
+            },
+            "companyName": "Pfizer"
+        },
+        {
+            "title": "Global Sr. Medical Director Launch Lead Hematology",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ],
+                "objectUrn": "urn:li:company:1185",
+                "entityUrn": "urn:li:fs_miniCompany:1185",
+                "name": "Pfizer",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                "universalName": "pfizer",
+                "dashCompanyUrn": "urn:li:fsd_company:1185",
+                "trackingId": "TSM2dXzxTt6rS1eQo1pFBw=="
+            },
+            "companyName": "Pfizer"
+        },
+        {
+            "title": "Global Sr. Medical Director Gene Therapy Platform",
+            "locationName": "Berlin, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ],
+                "objectUrn": "urn:li:company:1185",
+                "entityUrn": "urn:li:fs_miniCompany:1185",
+                "name": "Pfizer",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                "universalName": "pfizer",
+                "dashCompanyUrn": "urn:li:fsd_company:1185",
+                "trackingId": "1iciV+zXSlK9U13DeQ/WRA=="
+            },
+            "companyName": "Pfizer"
+        },
+        {
+            "title": "Global Medical Director Hemophilia",
+            "locationName": "Berlin und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 6,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2019
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ],
+                "objectUrn": "urn:li:company:1185",
+                "entityUrn": "urn:li:fs_miniCompany:1185",
+                "name": "Pfizer",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                "universalName": "pfizer",
+                "dashCompanyUrn": "urn:li:fsd_company:1185",
+                "trackingId": "bgultCaOTpeqn/uWRA21Og=="
+            },
+            "companyName": "Pfizer"
+        },
+        {
+            "title": "Regional Medical Team Lead Hematology (Europe and developed Asia-Pacific)",
+            "description": "Oversee the development and execution of the medical strategies and tactics in the European / Developed APAC region for the haemophilia and sickle cell disease brands / pipeline products, working within the cross-functional regional team and in close cooperation with the Country and Global organizations\n",
+            "locationName": "Berlin und Umgebung, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2018
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2016
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Pharmaceuticals"
+                ],
+                "objectUrn": "urn:li:company:1185",
+                "entityUrn": "urn:li:fs_miniCompany:1185",
+                "name": "Pfizer",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4D0BAQGUWkaCJOWLdA/company-logo_200_200/company-logo_200_200/0/1720685515776/pfizer_logo?e=1747872000&v=beta&t=X8Z9aWk2iHU-jBOEy_O5A8ZFjorJ-PRi7ijf3LhMyyU",
+                "universalName": "pfizer",
+                "dashCompanyUrn": "urn:li:fsd_company:1185",
+                "trackingId": "eywV5fJOTLug9EBDaSPEgw=="
+            },
+            "companyName": "Pfizer"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Staatsexamen",
+            "fieldOfStudy": "Pharmazie",
+            "schoolName": "The Julius Maximilians University of Würzburg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2002
+                },
+                "startDate": {
+                    "year": 1998
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

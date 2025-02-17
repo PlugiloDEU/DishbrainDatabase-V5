@@ -1,0 +1,433 @@
+{
+    "id": "exp3260526",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Sabry",
+        "lastName": "Tozin",
+        "fullName": "Sabry Tozin",
+        "image": "https://media.licdn.com/dms/image/v2/D5603AQH6vxwmmGzo4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697771741584?e=1745452800&v=beta&t=JrM4x5D8SupRhfERGvSQNvMiOzLK_DJyPvDpu-Z3lig",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "French"
+        ],
+        "allData": {
+            "id": "3260526",
+            "profileId": "ACoAAAAxwG4Btq887vn8uMxOGmlNyZCMRPl81fU",
+            "firstName": "Sabry",
+            "lastName": "Tozin",
+            "occupation": "VP Engineering at LinkedIn",
+            "publicIdentifier": "sabtozin",
+            "trackingId": "iWuQxjEPTnK373QV4zdruw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D5603AQH6vxwmmGzo4A/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1697771741584?e=1745452800&v=beta&t=JrM4x5D8SupRhfERGvSQNvMiOzLK_DJyPvDpu-Z3lig",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/C4D16AQEFmB0YUO59QA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1658852439522?e=1745452800&v=beta&t=T-gykCwuWOFMmHcnm00haJSoppjVzrg6zA2dYbG-k_A",
+            "countryCode": "us",
+            "geoUrn": "urn:li:fs_geo:102277331",
+            "positions": [
+                {
+                    "title": "VP Engineering",
+                    "description": "I lead Productivity Engineering at LinkedIn which includes:\nMarketing, Sales, & Customer Service tech stacks\nDeveloper Productivity & Happiness\nInformation Security\nEmployee Experience",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2017
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:1337",
+                        "entityUrn": "urn:li:fs_miniCompany:1337",
+                        "name": "LinkedIn",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1747872000&v=beta&t=z-85R5yPMGYXef2cY7hM6fBVFVCoIeXFHZTYxqGlmP0",
+                        "universalName": "linkedin",
+                        "dashCompanyUrn": "urn:li:fsd_company:1337",
+                        "trackingId": "ZZVOOijhTkGsksTDcAoNSw=="
+                    },
+                    "companyName": "LinkedIn"
+                },
+                {
+                    "title": "Director, Studio Engineering",
+                    "description": "People enjoy TV and movies as an important way to be entertained, but to also connect with one another. Netflix provides a path to do this by helping you watch fantastic shows whenever you want and as often as you want. Just look at the array of “Netflix Originals” we released in recent years.\n\nBut how does this happen? How did we become the premier destination to win that “moment of truth” when you decide to watch Netflix rather than doing something else with your time?\n\nThe team I’m a part of believes content creators should be focused on creating that moment, and not the bureaucracy of managing a studio. We believe in using engineering  to help them tell their stories. If we succeed, better content will be created and we will produce more Stranger Things & House of Cards. We intend to bring more joy and awareness to the world through creators.\n\nWe believe we will build the world’s most technologically advanced studio. ",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2013
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Entertainment"
+                        ],
+                        "objectUrn": "urn:li:company:165158",
+                        "entityUrn": "urn:li:fs_miniCompany:165158",
+                        "name": "Netflix",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGMva5_E8pUjw/company-logo_200_200/company-logo_200_200/0/1736276678240/netflix_logo?e=1747872000&v=beta&t=Xf-IGx1ZRN0fvLHc3VYwmR5pmCa5mR2A-pGsIfVu_Wc",
+                        "universalName": "netflix",
+                        "dashCompanyUrn": "urn:li:fsd_company:165158",
+                        "trackingId": "NbpadXS5QqqHykAvtMrcUw=="
+                    },
+                    "companyName": "Netflix"
+                },
+                {
+                    "title": "SVP Engineering & Technical Operations",
+                    "locationName": "San Francisco Bay Area",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2013
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2009
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Online Media"
+                        ],
+                        "objectUrn": "urn:li:company:2072",
+                        "entityUrn": "urn:li:fs_miniCompany:2072",
+                        "name": "IGN Entertainment",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGV61MuXNThLw/company-logo_200_200/company-logo_200_200/0/1675334361927/ign_entertainment_logo?e=1747872000&v=beta&t=C1bpzbW2XcgHYC31tCDDmrmfL6HupHyN7dJTBDxR134",
+                        "universalName": "ign-entertainment",
+                        "dashCompanyUrn": "urn:li:fsd_company:2072",
+                        "trackingId": "2VNujaQfR4KTs6yvB+8r3A=="
+                    },
+                    "companyName": "IGN Entertainment"
+                },
+                {
+                    "title": "Executive Director, Technology Operations",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 8,
+                            "year": 2009
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2008
+                        }
+                    },
+                    "companyName": "Fox Interactive Media"
+                },
+                {
+                    "title": "VP, IT Operations",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2008
+                        },
+                        "startDate": {
+                            "month": 12,
+                            "year": 2003
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Financial Services"
+                        ],
+                        "objectUrn": "urn:li:company:6667",
+                        "entityUrn": "urn:li:fs_miniCompany:6667",
+                        "name": "Pay By Touch",
+                        "showcase": false,
+                        "active": true,
+                        "universalName": "pay-by-touch",
+                        "dashCompanyUrn": "urn:li:fsd_company:6667",
+                        "trackingId": "qawTCY1nRp6j9EPJSQWw+Q=="
+                    },
+                    "companyName": "Pay By Touch"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "BS",
+                    "fieldOfStudy": "Engineering & Economics",
+                    "schoolName": "Seattle University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1998
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                },
+                {
+                    "degreeName": "High School Diploma",
+                    "schoolName": "O'Dea High School"
+                },
+                {
+                    "schoolName": "Tasok"
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "French",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                }
+            ],
+            "skills": [
+                "SaaS",
+                "Program Management",
+                "Cloud Computing",
+                "Project Management"
+            ],
+            "volunteerExperiences": [],
+            "headline": "VP Engineering at LinkedIn",
+            "student": false,
+            "industryName": "Internet",
+            "industryUrn": "urn:li:fs_industry:6",
+            "geoLocationName": "San Francisco, California",
+            "geoCountryName": "United States",
+            "jobTitle": "VP Engineering",
+            "companyName": "LinkedIn",
+            "companyPublicId": "linkedin",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/linkedin",
+            "following": false,
+            "followable": true,
+            "followersCount": 8525,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "LinkedIn",
+        "position": "VP Engineering",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Computer Software"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "VP Engineering",
+        "organization": "LinkedIn",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/sabtozin/",
+        "company": "https://www.linkedin.com/company/linkedin"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "VP Engineering",
+            "description": "I lead Productivity Engineering at LinkedIn which includes:\nMarketing, Sales, & Customer Service tech stacks\nDeveloper Productivity & Happiness\nInformation Security\nEmployee Experience",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2017
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:1337",
+                "entityUrn": "urn:li:fs_miniCompany:1337",
+                "name": "LinkedIn",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHaVYd13rRz3A/company-logo_200_200/company-logo_200_200/0/1638831590218/linkedin_logo?e=1747872000&v=beta&t=z-85R5yPMGYXef2cY7hM6fBVFVCoIeXFHZTYxqGlmP0",
+                "universalName": "linkedin",
+                "dashCompanyUrn": "urn:li:fsd_company:1337",
+                "trackingId": "ZZVOOijhTkGsksTDcAoNSw=="
+            },
+            "companyName": "LinkedIn"
+        },
+        {
+            "title": "Director, Studio Engineering",
+            "description": "People enjoy TV and movies as an important way to be entertained, but to also connect with one another. Netflix provides a path to do this by helping you watch fantastic shows whenever you want and as often as you want. Just look at the array of “Netflix Originals” we released in recent years.\n\nBut how does this happen? How did we become the premier destination to win that “moment of truth” when you decide to watch Netflix rather than doing something else with your time?\n\nThe team I’m a part of believes content creators should be focused on creating that moment, and not the bureaucracy of managing a studio. We believe in using engineering  to help them tell their stories. If we succeed, better content will be created and we will produce more Stranger Things & House of Cards. We intend to bring more joy and awareness to the world through creators.\n\nWe believe we will build the world’s most technologically advanced studio. ",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2013
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Entertainment"
+                ],
+                "objectUrn": "urn:li:company:165158",
+                "entityUrn": "urn:li:fs_miniCompany:165158",
+                "name": "Netflix",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGMva5_E8pUjw/company-logo_200_200/company-logo_200_200/0/1736276678240/netflix_logo?e=1747872000&v=beta&t=Xf-IGx1ZRN0fvLHc3VYwmR5pmCa5mR2A-pGsIfVu_Wc",
+                "universalName": "netflix",
+                "dashCompanyUrn": "urn:li:fsd_company:165158",
+                "trackingId": "NbpadXS5QqqHykAvtMrcUw=="
+            },
+            "companyName": "Netflix"
+        },
+        {
+            "title": "SVP Engineering & Technical Operations",
+            "locationName": "San Francisco Bay Area",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2013
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2009
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Online Media"
+                ],
+                "objectUrn": "urn:li:company:2072",
+                "entityUrn": "urn:li:fs_miniCompany:2072",
+                "name": "IGN Entertainment",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGV61MuXNThLw/company-logo_200_200/company-logo_200_200/0/1675334361927/ign_entertainment_logo?e=1747872000&v=beta&t=C1bpzbW2XcgHYC31tCDDmrmfL6HupHyN7dJTBDxR134",
+                "universalName": "ign-entertainment",
+                "dashCompanyUrn": "urn:li:fsd_company:2072",
+                "trackingId": "2VNujaQfR4KTs6yvB+8r3A=="
+            },
+            "companyName": "IGN Entertainment"
+        },
+        {
+            "title": "Executive Director, Technology Operations",
+            "timePeriod": {
+                "endDate": {
+                    "month": 8,
+                    "year": 2009
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2008
+                }
+            },
+            "companyName": "Fox Interactive Media"
+        },
+        {
+            "title": "VP, IT Operations",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2008
+                },
+                "startDate": {
+                    "month": 12,
+                    "year": 2003
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Financial Services"
+                ],
+                "objectUrn": "urn:li:company:6667",
+                "entityUrn": "urn:li:fs_miniCompany:6667",
+                "name": "Pay By Touch",
+                "showcase": false,
+                "active": true,
+                "universalName": "pay-by-touch",
+                "dashCompanyUrn": "urn:li:fsd_company:6667",
+                "trackingId": "qawTCY1nRp6j9EPJSQWw+Q=="
+            },
+            "companyName": "Pay By Touch"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "BS",
+            "fieldOfStudy": "Engineering & Economics",
+            "schoolName": "Seattle University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1998
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        },
+        {
+            "degreeName": "High School Diploma",
+            "schoolName": "O'Dea High School"
+        },
+        {
+            "schoolName": "Tasok"
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "SaaS",
+        "Program Management",
+        "Cloud Computing",
+        "Project Management"
+    ],
+    "lastEnriched": "2025-02-17"
+}

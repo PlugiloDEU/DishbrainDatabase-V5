@@ -1,0 +1,470 @@
+{
+    "id": "exp13081069",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Barnaby",
+        "lastName": "Skinner",
+        "fullName": "Barnaby Skinner",
+        "image": "https://media.licdn.com/dms/image/v2/D4E03AQH2e5FKNC0tgQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673270361974?e=1745452800&v=beta&t=8fgCjEaWHFd3sLOxAT7ZX8pLWo_Y8TXOS1Eh73ljBHs",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "13081069",
+            "profileId": "ACoAAADHme0B39uLSTcdh13mT3CMVFLNqlBg3T0",
+            "firstName": "Barnaby",
+            "lastName": "Skinner",
+            "occupation": "Stv. Chefredaktor NZZ, Technologie und Entwicklung",
+            "publicIdentifier": "barnabyskinner",
+            "trackingId": "oP/LLIcAT/CDTe8WwL6Y1w==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4E03AQH2e5FKNC0tgQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1673270361974?e=1745452800&v=beta&t=8fgCjEaWHFd3sLOxAT7ZX8pLWo_Y8TXOS1Eh73ljBHs",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:102436504",
+            "positions": [
+                {
+                    "title": "Deputy Editor in Chief",
+                    "locationName": "Zurich, Switzerland",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:52902",
+                        "entityUrn": "urn:li:fs_miniCompany:52902",
+                        "name": "NZZ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                        "universalName": "neue-zurcher-zeitung",
+                        "dashCompanyUrn": "urn:li:fsd_company:52902",
+                        "trackingId": "TRZxmy7mRHeSPy66NjrBUg=="
+                    },
+                    "companyName": "NZZ"
+                },
+                {
+                    "title": "Head of NZZ Visuals",
+                    "locationName": "Zürich Area, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2020
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 501,
+                            "end": 1000
+                        },
+                        "industries": [
+                            "Newspapers"
+                        ],
+                        "objectUrn": "urn:li:company:52902",
+                        "entityUrn": "urn:li:fs_miniCompany:52902",
+                        "name": "NZZ",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                        "universalName": "neue-zurcher-zeitung",
+                        "dashCompanyUrn": "urn:li:fsd_company:52902",
+                        "trackingId": "8RBKJ6nCRYOzxagfuuHUng=="
+                    },
+                    "companyName": "Neue Zürcher Zeitung"
+                },
+                {
+                    "title": "Co-Director of Data Journalism",
+                    "description": "Conceptual development of first degree of advanced studies in data journalism in Switzerland.",
+                    "locationName": "Lucerne Area, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 9,
+                            "year": 2022
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2018
+                        }
+                    },
+                    "companyName": "Medienausbildungszentrum Luzern (MAZ)"
+                },
+                {
+                    "title": "Leiter Datenjournalismus",
+                    "description": "Using data to do journalism. Exploring digital transformation that destroys and yields innovation.",
+                    "locationName": "Zürich Area, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2020
+                        },
+                        "startDate": {
+                            "month": 1,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:43258",
+                        "entityUrn": "urn:li:fs_miniCompany:43258",
+                        "name": "Tamedia",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGRzNgZtqqWBA/company-logo_200_200/company-logo_200_200/0/1712740332755/tamedia_logo?e=1747872000&v=beta&t=jXty1YUXxi0kNK76vZcm2f7ZZWR6wTsrHyozBcOIWvw",
+                        "universalName": "tamedia",
+                        "dashCompanyUrn": "urn:li:fsd_company:43258",
+                        "trackingId": "A/iJY3EER5qdJwTGrBO3Dg=="
+                    },
+                    "companyName": "Tamedia"
+                },
+                {
+                    "title": "Data- & Innovation-Journalist",
+                    "description": "Using data to do journalism. Exploring digital transformation that destroys and yields innovation.",
+                    "locationName": "Zürich Area, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "month": 11,
+                            "year": 2014
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 201,
+                            "end": 500
+                        },
+                        "industries": [
+                            "Media Production"
+                        ],
+                        "objectUrn": "urn:li:company:27139624",
+                        "entityUrn": "urn:li:fs_miniCompany:27139624",
+                        "name": "Tages-Anzeiger",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHCREB7CJSDcQ/company-logo_200_200/company-logo_200_200/0/1643970248349/tagesanzeiger_logo?e=1747872000&v=beta&t=L9ONqvf0U2IK7w2xFTyztG2iAJwxSuLbUGT_etOSSY4",
+                        "universalName": "tagesanzeiger",
+                        "dashCompanyUrn": "urn:li:fsd_company:27139624",
+                        "trackingId": "a9wEc9FhTKSvStxTXVoFPQ=="
+                    },
+                    "companyName": "Tages-Anzeiger & SonntagsZeitung"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Lede12",
+                    "fieldOfStudy": "Journalism",
+                    "schoolName": "Columbia University - Graduate School of Journalism",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Diploma",
+                    "fieldOfStudy": "Journalism",
+                    "schoolName": "Medien Ausbildungszentrum Luzern (MAZ)",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2004
+                        },
+                        "startDate": {
+                            "year": 2003
+                        }
+                    }
+                },
+                {
+                    "degreeName": "lic. phil. I",
+                    "fieldOfStudy": "Modern European History",
+                    "schoolName": "University of Basel",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2001
+                        },
+                        "startDate": {
+                            "year": 1994
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "NewsEdit",
+                "Editorial Development",
+                "Editorial Product Development",
+                "Editorial Production"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Stv. Chefredaktor NZZ, Technologie und Entwicklung",
+            "student": false,
+            "industryName": "Media Production",
+            "industryUrn": "urn:li:fs_industry:126",
+            "geoLocationName": "Zurich",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Deputy Editor in Chief",
+            "companyName": "NZZ",
+            "companyPublicId": "neue-zurcher-zeitung",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/neue-zurcher-zeitung",
+            "following": false,
+            "followable": true,
+            "followersCount": 3662,
+            "connectionsCount": 500,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "NZZ",
+        "position": "Deputy Editor in Chief",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Newspapers"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Deputy Editor in Chief",
+        "organization": "NZZ",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/barnabyskinner/",
+        "company": "https://www.linkedin.com/company/neue-zurcher-zeitung"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Deputy Editor in Chief",
+            "locationName": "Zurich, Switzerland",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:52902",
+                "entityUrn": "urn:li:fs_miniCompany:52902",
+                "name": "NZZ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                "universalName": "neue-zurcher-zeitung",
+                "dashCompanyUrn": "urn:li:fsd_company:52902",
+                "trackingId": "TRZxmy7mRHeSPy66NjrBUg=="
+            },
+            "companyName": "NZZ"
+        },
+        {
+            "title": "Head of NZZ Visuals",
+            "locationName": "Zürich Area, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2020
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 501,
+                    "end": 1000
+                },
+                "industries": [
+                    "Newspapers"
+                ],
+                "objectUrn": "urn:li:company:52902",
+                "entityUrn": "urn:li:fs_miniCompany:52902",
+                "name": "NZZ",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQGWfFJGJuh15w/company-logo_200_200/company-logo_200_200/0/1631360911046/neue_zurcher_zeitung_logo?e=1747872000&v=beta&t=cxfqhCVnuw-NEzpdNix2CxO1c56e928PbdX2MMjiLGI",
+                "universalName": "neue-zurcher-zeitung",
+                "dashCompanyUrn": "urn:li:fsd_company:52902",
+                "trackingId": "8RBKJ6nCRYOzxagfuuHUng=="
+            },
+            "companyName": "Neue Zürcher Zeitung"
+        },
+        {
+            "title": "Co-Director of Data Journalism",
+            "description": "Conceptual development of first degree of advanced studies in data journalism in Switzerland.",
+            "locationName": "Lucerne Area, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 9,
+                    "year": 2022
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2018
+                }
+            },
+            "companyName": "Medienausbildungszentrum Luzern (MAZ)"
+        },
+        {
+            "title": "Leiter Datenjournalismus",
+            "description": "Using data to do journalism. Exploring digital transformation that destroys and yields innovation.",
+            "locationName": "Zürich Area, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2020
+                },
+                "startDate": {
+                    "month": 1,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:43258",
+                "entityUrn": "urn:li:fs_miniCompany:43258",
+                "name": "Tamedia",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQGRzNgZtqqWBA/company-logo_200_200/company-logo_200_200/0/1712740332755/tamedia_logo?e=1747872000&v=beta&t=jXty1YUXxi0kNK76vZcm2f7ZZWR6wTsrHyozBcOIWvw",
+                "universalName": "tamedia",
+                "dashCompanyUrn": "urn:li:fsd_company:43258",
+                "trackingId": "A/iJY3EER5qdJwTGrBO3Dg=="
+            },
+            "companyName": "Tamedia"
+        },
+        {
+            "title": "Data- & Innovation-Journalist",
+            "description": "Using data to do journalism. Exploring digital transformation that destroys and yields innovation.",
+            "locationName": "Zürich Area, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2017
+                },
+                "startDate": {
+                    "month": 11,
+                    "year": 2014
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 201,
+                    "end": 500
+                },
+                "industries": [
+                    "Media Production"
+                ],
+                "objectUrn": "urn:li:company:27139624",
+                "entityUrn": "urn:li:fs_miniCompany:27139624",
+                "name": "Tages-Anzeiger",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHCREB7CJSDcQ/company-logo_200_200/company-logo_200_200/0/1643970248349/tagesanzeiger_logo?e=1747872000&v=beta&t=L9ONqvf0U2IK7w2xFTyztG2iAJwxSuLbUGT_etOSSY4",
+                "universalName": "tagesanzeiger",
+                "dashCompanyUrn": "urn:li:fsd_company:27139624",
+                "trackingId": "a9wEc9FhTKSvStxTXVoFPQ=="
+            },
+            "companyName": "Tages-Anzeiger & SonntagsZeitung"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Lede12",
+            "fieldOfStudy": "Journalism",
+            "schoolName": "Columbia University - Graduate School of Journalism",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2016
+                },
+                "startDate": {
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "degreeName": "Diploma",
+            "fieldOfStudy": "Journalism",
+            "schoolName": "Medien Ausbildungszentrum Luzern (MAZ)",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2004
+                },
+                "startDate": {
+                    "year": 2003
+                }
+            }
+        },
+        {
+            "degreeName": "lic. phil. I",
+            "fieldOfStudy": "Modern European History",
+            "schoolName": "University of Basel",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2001
+                },
+                "startDate": {
+                    "year": 1994
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "NewsEdit",
+        "Editorial Development",
+        "Editorial Product Development",
+        "Editorial Production"
+    ],
+    "lastEnriched": "2025-02-17"
+}

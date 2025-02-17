@@ -1,0 +1,452 @@
+{
+    "id": "exp1087458031",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Laura",
+        "lastName": "Müller",
+        "fullName": "Laura Müller",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGWEP6SgZOliQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1695759179920?e=1745452800&v=beta&t=SjJ96z4zZOJayqsEs9oquClVg141fy_vNJ9TH4HNfiE",
+        "email": null,
+        "phone": null,
+        "languages": [
+            "English",
+            "German",
+            "Hungarian",
+            "Italian"
+        ],
+        "allData": {
+            "id": "1087458031",
+            "profileId": "ACoAAEDRSu8BID6lMqtEOp0DutL8FTLwoMXOVZg",
+            "firstName": "Laura",
+            "lastName": "Müller",
+            "occupation": "Law Student at Eötvös Loránd University",
+            "publicIdentifier": "lauramuller67",
+            "trackingId": "edypEZ8GRtGYC/Q/PuEBsg==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGWEP6SgZOliQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1695759179920?e=1745452800&v=beta&t=SjJ96z4zZOJayqsEs9oquClVg141fy_vNJ9TH4HNfiE",
+            "countryCode": "hu",
+            "geoUrn": "urn:li:fs_geo:104291169",
+            "positions": [
+                {
+                    "title": "Management Trainee - Legal",
+                    "locationName": "Budapest, Hungary",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Airlines/Aviation"
+                        ],
+                        "objectUrn": "urn:li:company:36906",
+                        "entityUrn": "urn:li:fs_miniCompany:36906",
+                        "name": "Wizz Air",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEj3n1jYjUIYw/company-logo_200_200/company-logo_200_200/0/1712041687422/wizzair_logo?e=1747872000&v=beta&t=JZEhBvle-CRxSsLIpGVzO8UYavP6VoYO25Tyr9Z77yU",
+                        "universalName": "wizzair",
+                        "dashCompanyUrn": "urn:li:fsd_company:36906",
+                        "trackingId": "auek3zjwQZKHwne4V+L09A=="
+                    },
+                    "companyName": "Wizz Air"
+                },
+                {
+                    "title": "Representative of Foreign Office",
+                    "description": "Organising embassy visits.\nPartner-communication. ",
+                    "locationName": "Budapest, Hungary",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 5,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 9,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "International Affairs"
+                        ],
+                        "objectUrn": "urn:li:company:19134415",
+                        "entityUrn": "urn:li:fs_miniCompany:19134415",
+                        "name": "HEAD - House of European Affairs and Diplomacy",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHlMuYTNfBH8w/company-logo_200_200/company-logo_200_200/0/1630568377817?e=1747872000&v=beta&t=BCxMy6lJdyvl0TZCyJ1kLfwauJt3-pOlqfVLtXi-zxQ",
+                        "universalName": "house-of-european-affairs-and-diplomacy",
+                        "dashCompanyUrn": "urn:li:fsd_company:19134415",
+                        "trackingId": "FiSV5JynQGCIBapn3kfzkA=="
+                    },
+                    "companyName": "HEAD - House of European Affairs and Diplomacy"
+                },
+                {
+                    "title": "Legal Student",
+                    "locationName": "Budapest, Hungary",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 1001,
+                            "end": 5000
+                        },
+                        "industries": [
+                            "Airlines/Aviation"
+                        ],
+                        "objectUrn": "urn:li:company:36906",
+                        "entityUrn": "urn:li:fs_miniCompany:36906",
+                        "name": "Wizz Air",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEj3n1jYjUIYw/company-logo_200_200/company-logo_200_200/0/1712041687422/wizzair_logo?e=1747872000&v=beta&t=JZEhBvle-CRxSsLIpGVzO8UYavP6VoYO25Tyr9Z77yU",
+                        "universalName": "wizzair",
+                        "dashCompanyUrn": "urn:li:fsd_company:36906",
+                        "trackingId": "6Dqc4V06TvuQW3R5p+jGqw=="
+                    },
+                    "companyName": "Wizz Air"
+                },
+                {
+                    "title": "Legal Support Coordinator",
+                    "description": "Managing the organization’s legal affairs.",
+                    "locationName": "Budapest, Hungary",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "International Affairs"
+                        ],
+                        "objectUrn": "urn:li:company:19134415",
+                        "entityUrn": "urn:li:fs_miniCompany:19134415",
+                        "name": "HEAD - House of European Affairs and Diplomacy",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHlMuYTNfBH8w/company-logo_200_200/company-logo_200_200/0/1630568377817?e=1747872000&v=beta&t=BCxMy6lJdyvl0TZCyJ1kLfwauJt3-pOlqfVLtXi-zxQ",
+                        "universalName": "house-of-european-affairs-and-diplomacy",
+                        "dashCompanyUrn": "urn:li:fsd_company:19134415",
+                        "trackingId": "DUHk2m3YQXaHrOJc9dWlFQ=="
+                    },
+                    "companyName": "HEAD - House of European Affairs and Diplomacy"
+                },
+                {
+                    "title": "Member",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "companyName": "together.eu"
+                }
+            ],
+            "educations": [
+                {
+                    "fieldOfStudy": "Erasmus Study Mobility, European Law School",
+                    "schoolName": "Maastricht University",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 8,
+                            "year": 2023
+                        }
+                    }
+                },
+                {
+                    "fieldOfStudy": "Faculty of Law",
+                    "schoolName": "Eötvös Loránd University",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2026
+                        },
+                        "startDate": {
+                            "year": 2021
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [
+                {
+                    "name": "English",
+                    "proficiency": "FULL_PROFESSIONAL"
+                },
+                {
+                    "name": "German",
+                    "proficiency": "ELEMENTARY"
+                },
+                {
+                    "name": "Hungarian",
+                    "proficiency": "NATIVE_OR_BILINGUAL"
+                },
+                {
+                    "name": "Italian",
+                    "proficiency": "PROFESSIONAL_WORKING"
+                }
+            ],
+            "skills": [],
+            "volunteerExperiences": [],
+            "headline": "Law Student at Eötvös Loránd University",
+            "student": false,
+            "industryName": "Law Practice",
+            "industryUrn": "urn:li:fs_industry:9",
+            "geoLocationName": "Budapest, Budapest",
+            "geoCountryName": "Hungary",
+            "jobTitle": "Management Trainee - Legal",
+            "companyName": "Wizz Air",
+            "companyPublicId": "wizzair",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/wizzair",
+            "following": false,
+            "followable": true,
+            "followersCount": 84,
+            "connectionsCount": 84,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Wizz Air",
+        "position": "Management Trainee - Legal",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Airlines/Aviation"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Management Trainee - Legal",
+        "organization": "Wizz Air",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/lauramuller67/",
+        "company": "https://www.linkedin.com/company/wizzair"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Management Trainee - Legal",
+            "locationName": "Budapest, Hungary",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Airlines/Aviation"
+                ],
+                "objectUrn": "urn:li:company:36906",
+                "entityUrn": "urn:li:fs_miniCompany:36906",
+                "name": "Wizz Air",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEj3n1jYjUIYw/company-logo_200_200/company-logo_200_200/0/1712041687422/wizzair_logo?e=1747872000&v=beta&t=JZEhBvle-CRxSsLIpGVzO8UYavP6VoYO25Tyr9Z77yU",
+                "universalName": "wizzair",
+                "dashCompanyUrn": "urn:li:fsd_company:36906",
+                "trackingId": "auek3zjwQZKHwne4V+L09A=="
+            },
+            "companyName": "Wizz Air"
+        },
+        {
+            "title": "Representative of Foreign Office",
+            "description": "Organising embassy visits.\nPartner-communication. ",
+            "locationName": "Budapest, Hungary",
+            "timePeriod": {
+                "endDate": {
+                    "month": 5,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 9,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "International Affairs"
+                ],
+                "objectUrn": "urn:li:company:19134415",
+                "entityUrn": "urn:li:fs_miniCompany:19134415",
+                "name": "HEAD - House of European Affairs and Diplomacy",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHlMuYTNfBH8w/company-logo_200_200/company-logo_200_200/0/1630568377817?e=1747872000&v=beta&t=BCxMy6lJdyvl0TZCyJ1kLfwauJt3-pOlqfVLtXi-zxQ",
+                "universalName": "house-of-european-affairs-and-diplomacy",
+                "dashCompanyUrn": "urn:li:fsd_company:19134415",
+                "trackingId": "FiSV5JynQGCIBapn3kfzkA=="
+            },
+            "companyName": "HEAD - House of European Affairs and Diplomacy"
+        },
+        {
+            "title": "Legal Student",
+            "locationName": "Budapest, Hungary",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 1001,
+                    "end": 5000
+                },
+                "industries": [
+                    "Airlines/Aviation"
+                ],
+                "objectUrn": "urn:li:company:36906",
+                "entityUrn": "urn:li:fs_miniCompany:36906",
+                "name": "Wizz Air",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQEj3n1jYjUIYw/company-logo_200_200/company-logo_200_200/0/1712041687422/wizzair_logo?e=1747872000&v=beta&t=JZEhBvle-CRxSsLIpGVzO8UYavP6VoYO25Tyr9Z77yU",
+                "universalName": "wizzair",
+                "dashCompanyUrn": "urn:li:fsd_company:36906",
+                "trackingId": "6Dqc4V06TvuQW3R5p+jGqw=="
+            },
+            "companyName": "Wizz Air"
+        },
+        {
+            "title": "Legal Support Coordinator",
+            "description": "Managing the organization’s legal affairs.",
+            "locationName": "Budapest, Hungary",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "International Affairs"
+                ],
+                "objectUrn": "urn:li:company:19134415",
+                "entityUrn": "urn:li:fs_miniCompany:19134415",
+                "name": "HEAD - House of European Affairs and Diplomacy",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHlMuYTNfBH8w/company-logo_200_200/company-logo_200_200/0/1630568377817?e=1747872000&v=beta&t=BCxMy6lJdyvl0TZCyJ1kLfwauJt3-pOlqfVLtXi-zxQ",
+                "universalName": "house-of-european-affairs-and-diplomacy",
+                "dashCompanyUrn": "urn:li:fsd_company:19134415",
+                "trackingId": "DUHk2m3YQXaHrOJc9dWlFQ=="
+            },
+            "companyName": "HEAD - House of European Affairs and Diplomacy"
+        },
+        {
+            "title": "Member",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "companyName": "together.eu"
+        }
+    ],
+    "education": [
+        {
+            "fieldOfStudy": "Erasmus Study Mobility, European Law School",
+            "schoolName": "Maastricht University",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 8,
+                    "year": 2023
+                }
+            }
+        },
+        {
+            "fieldOfStudy": "Faculty of Law",
+            "schoolName": "Eötvös Loránd University",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2026
+                },
+                "startDate": {
+                    "year": 2021
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [],
+    "lastEnriched": "2025-02-17"
+}

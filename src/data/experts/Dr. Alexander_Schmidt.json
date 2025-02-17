@@ -1,0 +1,456 @@
+{
+    "id": "exp619727764",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Dr. Alexander",
+        "lastName": "Schmidt",
+        "fullName": "Dr. Alexander Schmidt",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQEUGogpktGHug/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730892113057?e=1745452800&v=beta&t=zbh-pD87Lb-Tyk2m681s7RI8GinV1EWstu9za4GKRqw",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "619727764",
+            "profileId": "ACoAACTwS5QB-cp0kjCRfLXJPLNEX23kH-jemrU",
+            "firstName": "Dr. Alexander",
+            "lastName": "Schmidt",
+            "occupation": "Senior Management Consultant | Facharzt für Radiologie | Siemens Healthineers",
+            "publicIdentifier": "dr-alexander-schmidt-904666153",
+            "trackingId": "gBuL5f4ERxamogn4ZL4szw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQEUGogpktGHug/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730892113057?e=1745452800&v=beta&t=zbh-pD87Lb-Tyk2m681s7RI8GinV1EWstu9za4GKRqw",
+            "countryCode": "de",
+            "geoUrn": "urn:li:fs_geo:103233075",
+            "positions": [
+                {
+                    "title": "Senior Management Consultant",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 10001
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:157241",
+                        "entityUrn": "urn:li:fs_miniCompany:157241",
+                        "name": "Siemens Healthineers",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE5hmEcQGYmLg/company-logo_200_200/company-logo_200_200/0/1635709402063/siemens_healthineers_logo?e=1747872000&v=beta&t=tcTBEPjpLbEj-1KNVbQY2xSTfmGrp7x4oTUNQRbDTog",
+                        "universalName": "siemens-healthineers",
+                        "dashCompanyUrn": "urn:li:fsd_company:157241",
+                        "trackingId": "zFwyUw30T6KlOvszyGegmg=="
+                    },
+                    "companyName": "Siemens Healthineers"
+                },
+                {
+                    "title": "Wissenschaftlicher Mitarbeiter und Assistenzarzt",
+                    "locationName": "Würzburg, Bayern, Deutschland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 12,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 6,
+                            "year": 2018
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 5001,
+                            "end": 10000
+                        },
+                        "industries": [
+                            "Hospital & Health Care"
+                        ],
+                        "objectUrn": "urn:li:company:7470231",
+                        "entityUrn": "urn:li:fs_miniCompany:7470231",
+                        "name": "Universitätsklinikum Würzburg",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFxou48tnS-EQ/company-logo_200_200/company-logo_200_200/0/1667386228570?e=1747872000&v=beta&t=4lehzbDho16ne6DjuB3EuY-oRUiqpF2QZ60FBlmzU9E",
+                        "universalName": "universitätsklinikum-würzburg",
+                        "dashCompanyUrn": "urn:li:fsd_company:7470231",
+                        "trackingId": "yz3iPmnyTTmmzPD4wtrGdA=="
+                    },
+                    "companyName": "Universitätsklinikum Würzburg"
+                }
+            ],
+            "educations": [
+                {
+                    "schoolName": "Ruprecht-Karls-Universität Heidelberg",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 2017
+                        },
+                        "startDate": {
+                            "year": 2011
+                        }
+                    }
+                },
+                {
+                    "schoolName": "Freie Universität Bozen",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 7,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 5,
+                            "year": 2016
+                        }
+                    }
+                },
+                {
+                    "schoolName": "Universitat de València",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 4,
+                            "year": 2016
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2016
+                        }
+                    }
+                }
+            ],
+            "certifications": [
+                {
+                    "name": "Promotion \"23Na-MRT bei Patienten mit Migräne\" - Magna cum laude",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 6,
+                            "year": 2020
+                        }
+                    },
+                    "authority": "Universität Heidelberg"
+                },
+                {
+                    "name": "Q1-Zertifikat Herz-MRT",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 10,
+                            "year": 2022
+                        }
+                    },
+                    "authority": "Deutsche Röntgengesellschaft e.V."
+                },
+                {
+                    "name": "Prüfarzt nach MPDG (GCP)",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 12,
+                            "year": 2022
+                        }
+                    },
+                    "authority": "GCP & more"
+                },
+                {
+                    "name": "Q1-Zertifikat Herz-CT",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Deutsche Röntgengesellschaft e.V."
+                },
+                {
+                    "name": "Fachkunde nach StrlSchV",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 9,
+                            "year": 2023
+                        }
+                    },
+                    "authority": "Bayerische Landesärztekammer"
+                },
+                {
+                    "name": "Facharzt für Radiologie",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "Bayerische Landesärztekammer"
+                },
+                {
+                    "name": "Q1-Zertifikat mpMRT-Prostatographie",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "authority": "Deutsche Röntgengesellschaft e.V."
+                },
+                {
+                    "name": "Lean Six Sigma Green Belt",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 1,
+                            "year": 2025
+                        }
+                    },
+                    "authority": "Siemens Healthineers"
+                }
+            ],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Problemlösung",
+                "Analytische Fähigkeiten",
+                "Gute klinische Praxis (GCP)",
+                "Ultraschall"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Senior Management Consultant | Facharzt für Radiologie | Siemens Healthineers",
+            "student": false,
+            "industryName": "Medical Practice",
+            "industryUrn": "urn:li:fs_industry:13",
+            "geoLocationName": "Würzburg, Bavaria",
+            "geoCountryName": "Germany",
+            "jobTitle": "Senior Management Consultant",
+            "companyName": "Siemens Healthineers",
+            "companyPublicId": "siemens-healthineers",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/siemens-healthineers",
+            "following": false,
+            "followable": true,
+            "followersCount": 188,
+            "connectionsCount": 185,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Siemens Healthineers",
+        "position": "Senior Management Consultant",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Hospital & Health Care"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Senior Management Consultant",
+        "organization": "Siemens Healthineers",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/dr-alexander-schmidt-904666153/",
+        "company": "https://www.linkedin.com/company/siemens-healthineers"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Senior Management Consultant",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 10001
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:157241",
+                "entityUrn": "urn:li:fs_miniCompany:157241",
+                "name": "Siemens Healthineers",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4D0BAQE5hmEcQGYmLg/company-logo_200_200/company-logo_200_200/0/1635709402063/siemens_healthineers_logo?e=1747872000&v=beta&t=tcTBEPjpLbEj-1KNVbQY2xSTfmGrp7x4oTUNQRbDTog",
+                "universalName": "siemens-healthineers",
+                "dashCompanyUrn": "urn:li:fsd_company:157241",
+                "trackingId": "zFwyUw30T6KlOvszyGegmg=="
+            },
+            "companyName": "Siemens Healthineers"
+        },
+        {
+            "title": "Wissenschaftlicher Mitarbeiter und Assistenzarzt",
+            "locationName": "Würzburg, Bayern, Deutschland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 12,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 6,
+                    "year": 2018
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 5001,
+                    "end": 10000
+                },
+                "industries": [
+                    "Hospital & Health Care"
+                ],
+                "objectUrn": "urn:li:company:7470231",
+                "entityUrn": "urn:li:fs_miniCompany:7470231",
+                "name": "Universitätsklinikum Würzburg",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFxou48tnS-EQ/company-logo_200_200/company-logo_200_200/0/1667386228570?e=1747872000&v=beta&t=4lehzbDho16ne6DjuB3EuY-oRUiqpF2QZ60FBlmzU9E",
+                "universalName": "universitätsklinikum-würzburg",
+                "dashCompanyUrn": "urn:li:fsd_company:7470231",
+                "trackingId": "yz3iPmnyTTmmzPD4wtrGdA=="
+            },
+            "companyName": "Universitätsklinikum Würzburg"
+        }
+    ],
+    "education": [
+        {
+            "schoolName": "Ruprecht-Karls-Universität Heidelberg",
+            "timePeriod": {
+                "endDate": {
+                    "year": 2017
+                },
+                "startDate": {
+                    "year": 2011
+                }
+            }
+        },
+        {
+            "schoolName": "Freie Universität Bozen",
+            "timePeriod": {
+                "endDate": {
+                    "month": 7,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 5,
+                    "year": 2016
+                }
+            }
+        },
+        {
+            "schoolName": "Universitat de València",
+            "timePeriod": {
+                "endDate": {
+                    "month": 4,
+                    "year": 2016
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2016
+                }
+            }
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Promotion \"23Na-MRT bei Patienten mit Migräne\" - Magna cum laude",
+            "timePeriod": {
+                "startDate": {
+                    "month": 6,
+                    "year": 2020
+                }
+            },
+            "authority": "Universität Heidelberg"
+        },
+        {
+            "name": "Q1-Zertifikat Herz-MRT",
+            "timePeriod": {
+                "startDate": {
+                    "month": 10,
+                    "year": 2022
+                }
+            },
+            "authority": "Deutsche Röntgengesellschaft e.V."
+        },
+        {
+            "name": "Prüfarzt nach MPDG (GCP)",
+            "timePeriod": {
+                "startDate": {
+                    "month": 12,
+                    "year": 2022
+                }
+            },
+            "authority": "GCP & more"
+        },
+        {
+            "name": "Q1-Zertifikat Herz-CT",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2023
+                }
+            },
+            "authority": "Deutsche Röntgengesellschaft e.V."
+        },
+        {
+            "name": "Fachkunde nach StrlSchV",
+            "timePeriod": {
+                "startDate": {
+                    "month": 9,
+                    "year": 2023
+                }
+            },
+            "authority": "Bayerische Landesärztekammer"
+        },
+        {
+            "name": "Facharzt für Radiologie",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "authority": "Bayerische Landesärztekammer"
+        },
+        {
+            "name": "Q1-Zertifikat mpMRT-Prostatographie",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "authority": "Deutsche Röntgengesellschaft e.V."
+        },
+        {
+            "name": "Lean Six Sigma Green Belt",
+            "timePeriod": {
+                "startDate": {
+                    "month": 1,
+                    "year": 2025
+                }
+            },
+            "authority": "Siemens Healthineers"
+        }
+    ],
+    "skills": [
+        "Problemlösung",
+        "Analytische Fähigkeiten",
+        "Gute klinische Praxis (GCP)",
+        "Ultraschall"
+    ],
+    "lastEnriched": "2025-02-17"
+}

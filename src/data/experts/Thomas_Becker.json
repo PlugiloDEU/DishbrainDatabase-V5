@@ -1,0 +1,430 @@
+{
+    "id": "exp1335300",
+    "personalInfo": {
+        "title": null,
+        "firstName": "Thomas",
+        "lastName": "Becker",
+        "fullName": "Thomas Becker",
+        "image": "https://media.licdn.com/dms/image/v2/D4D03AQGhxOkf9A1vZQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730306441729?e=1745452800&v=beta&t=7yP0uYzlpEpdUEig8bA0fSeYdwQJbqJSf9hg8RBvVHk",
+        "email": null,
+        "phone": null,
+        "languages": [],
+        "allData": {
+            "id": "1335300",
+            "profileId": "ACoAAAAUYAQBr4z2D_qcfzHo3s41Fk8WvPCo_KU",
+            "firstName": "Thomas",
+            "lastName": "Becker",
+            "occupation": "Salary Negotiation Coach @ ChequeMate.ch | Empowering professionals to secure the compensation they deserve | Expert in negotiation strategies & AI-driven training | Agile Product Owner with skills in software dev.",
+            "publicIdentifier": "tommybeck",
+            "trackingId": "8LAZc1/6T5SuldGbFz9ibw==",
+            "pictureUrl": "https://media.licdn.com/dms/image/v2/D4D03AQGhxOkf9A1vZQ/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1730306441729?e=1745452800&v=beta&t=7yP0uYzlpEpdUEig8bA0fSeYdwQJbqJSf9hg8RBvVHk",
+            "coverImageUrl": "https://media.licdn.com/dms/image/v2/D4E16AQEqtz7wwUyn6A/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1728759885895?e=1745452800&v=beta&t=p8fBKid_vtUgjG8SU7EvPTttOocoWtD7LYuyBtBMzk8",
+            "countryCode": "ch",
+            "geoUrn": "urn:li:fs_geo:105146569",
+            "positions": [
+                {
+                    "title": "Product Owner / Business Analyst",
+                    "description": "- Lead requirements analysis and backlog management for Switzerland's primary debt collection platform, handling the majority of the nation's collection volume across seven states\n- Translate complex stakeholder needs into comprehensive epics and user stories, ensuring alignment between technical capabilities and business objectives\n- Orchestrate priority negotiations with stakeholders from seven states, optimizing resource allocation while maintaining service delivery standards\n- Conduct thorough system testing and quality assurance, ensuring platform reliability and compliance with Swiss financial regulations\n- Drive continuous improvement initiatives by identifying process inefficiencies and recommending software development lifecycle enhancements, resulting in streamlined development processes.",
+                    "locationName": "Lausanne Metropolitan Area",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 11,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Information Technology and Services"
+                        ],
+                        "objectUrn": "urn:li:company:2230957",
+                        "entityUrn": "urn:li:fs_miniCompany:2230957",
+                        "name": "Redsen",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHmTl0fnDj_Hg/company-logo_200_200/company-logo_200_200/0/1656679611432/redsen_consulting_logo?e=1747872000&v=beta&t=f6mDgYGr5p87rLvuHZD6ndexKdXkMBAV4SVo8FB7LnU",
+                        "universalName": "redsen",
+                        "dashCompanyUrn": "urn:li:fsd_company:2230957",
+                        "trackingId": "Qp5AFAh5TnCFVR4EMaBB6Q=="
+                    },
+                    "companyName": "Redsen"
+                },
+                {
+                    "title": "Salary Negotiation Coach",
+                    "description": "As the founder and salary negotiation coach at ChequeMate.ch, I empower professionals to achieve the compensation they deserve by developing customized negotiation strategies tailored to individual career paths. I analyze client cases in depth, providing insights into the market, company, and recruiter, and create negotiation tactics that maximize their outcomes.\n\nI also spearhead innovative projects, such as training a large language model (LLM) to assist in salary negotiation role-plays and designing a user-friendly front-end experience. My mission is to equip clients with the tools and knowledge to confidently navigate salary discussions and advocate for their true worth.\n\nLet’s work together to turn your career aspirations into reality!",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 2,
+                            "year": 2024
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 0,
+                            "end": 1
+                        },
+                        "industries": [
+                            "Professional Training & Coaching"
+                        ],
+                        "objectUrn": "urn:li:company:105212487",
+                        "entityUrn": "urn:li:fs_miniCompany:105212487",
+                        "name": "ChequeMate.ch",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFH1VqQTouBFw/company-logo_200_200/company-logo_200_200/0/1727503263903/chequemate_ch_logo?e=1747872000&v=beta&t=ZYwwwXNIxEE202RWO8bzJbTBfzItvFJ5Si6esI4DcAk",
+                        "universalName": "chequemate-ch",
+                        "dashCompanyUrn": "urn:li:fsd_company:105212487",
+                        "trackingId": "JviODsAXRy6yOeW8dEA3XQ=="
+                    },
+                    "companyName": "ChequeMate.ch"
+                },
+                {
+                    "title": "Personal project: automatic cryptocurrency trading bot developer",
+                    "description": "As an Automated Cryptocurrency Trading Bot Developer, I design and continuously enhance automated trading bots that execute cryptocurrency trades based on advanced technical indicators and market analysis. I develop and refine trading strategies, ensuring they adapt to market trends and risk management requirements. This project involves applying my expertise in software development and cryptocurrency trading to create a highly efficient, solution-oriented system. By regularly optimizing the bots' algorithms, I enable autonomous trading in dynamic and volatile market conditions.",
+                    "timePeriod": {
+                        "startDate": {
+                            "month": 3,
+                            "year": 2021
+                        }
+                    },
+                    "companyName": "Self-employed"
+                },
+                {
+                    "title": "Product Owner",
+                    "description": "At G. Kolly SA, I spearheaded the development of a visionary system to streamline the movement of diverse materials such as concrete, compost, chemicals, and food ingredients. This system was designed to manage the end-to-end flow of materials, whether for further processing in factories or for reuse in other processes. I took ownership of the product roadmap, defining and managing the backlog to ensure that all business and regulatory requirements were met. My work included optimizing traceability for billing, supply chain optimization, and compliance, significantly enhancing operational efficiency. By securing two major government contracts, I contributed directly to the company's growth in new markets.",
+                    "locationName": "Le Mouret, Fribourg, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 1,
+                            "year": 2024
+                        },
+                        "startDate": {
+                            "month": 4,
+                            "year": 2023
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 51,
+                            "end": 200
+                        },
+                        "industries": [
+                            "Automotive"
+                        ],
+                        "objectUrn": "urn:li:company:67298108",
+                        "entityUrn": "urn:li:fs_miniCompany:67298108",
+                        "name": "Garage Kolly",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/C560BAQHTlpNC2730RA/company-logo_200_200/company-logo_200_200/0/1632822564281/g_kolly_sa_logo?e=1747872000&v=beta&t=fOui8VhLXcT2ZzRCv1ihGpVgWvwBPZ8NArAlYzxgPpc",
+                        "universalName": "garage-kolly",
+                        "dashCompanyUrn": "urn:li:fsd_company:67298108",
+                        "trackingId": "Xbhror6QSTe0yFeQ4qsgWw=="
+                    },
+                    "companyName": "Garage Kolly"
+                },
+                {
+                    "title": "Project Manager Scrum Master",
+                    "description": "As a Project Manager and Scrum Coach for a government purchasing software suite, I worked on framework contracts, with the largest valued at $14 billion. I collaborated with government agencies to analyze and structure the contract requirements, translating them into detailed user stories for the development teams. I also automated end-to-end testing to ensure the accurate implementation of the RFP specifications. Additionally, I managed the product backlog, regularly refining and prioritizing tasks, while providing Scrum coaching to improve the team’s performance.",
+                    "locationName": "Fribourg, Fribourg, Switzerland",
+                    "timePeriod": {
+                        "endDate": {
+                            "month": 3,
+                            "year": 2023
+                        },
+                        "startDate": {
+                            "month": 2,
+                            "year": 2022
+                        }
+                    },
+                    "company": {
+                        "employeeCountRange": {
+                            "start": 11,
+                            "end": 50
+                        },
+                        "industries": [
+                            "Computer Software"
+                        ],
+                        "objectUrn": "urn:li:company:15477075",
+                        "entityUrn": "urn:li:fs_miniCompany:15477075",
+                        "name": "Symphony Procurement Suite",
+                        "showcase": false,
+                        "active": true,
+                        "logo": "https://media.licdn.com/dms/image/v2/D560BAQHMHAxBIZ6Rtw/company-logo_200_200/company-logo_200_200/0/1692116291970/apex_logic_inc_logo?e=1747872000&v=beta&t=Q3Jx4KczU_S3bkZpvEZaA0Ngy9Mpn0JfTInQ0EAo5ys",
+                        "universalName": "symphony-procurement-systems",
+                        "dashCompanyUrn": "urn:li:fsd_company:15477075",
+                        "trackingId": "TZvA7Ww9SwKxB937Ao5SMg=="
+                    },
+                    "companyName": "APEX LOGIC, INC"
+                }
+            ],
+            "educations": [
+                {
+                    "degreeName": "Informaticien de Gestion ES",
+                    "fieldOfStudy": "Business Computer Science",
+                    "schoolName": "Ecole Supérieure Vaudoise d'Informatique de Gestion",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1999
+                        },
+                        "startDate": {
+                            "year": 1997
+                        }
+                    }
+                },
+                {
+                    "degreeName": "Maturité Professionnelle Commerciale (MPC)",
+                    "fieldOfStudy": "Business Administration and Management, General",
+                    "schoolName": "Ecole Supérieure de Commerce, Morges",
+                    "timePeriod": {
+                        "endDate": {
+                            "year": 1997
+                        },
+                        "startDate": {
+                            "year": 1993
+                        }
+                    }
+                }
+            ],
+            "certifications": [],
+            "courses": [],
+            "honors": [],
+            "languages": [],
+            "skills": [
+                "Debt Collection",
+                "Problem Management",
+                "Root Cause Analysis",
+                "Career Development"
+            ],
+            "volunteerExperiences": [],
+            "headline": "Salary Negotiation Coach @ ChequeMate.ch | Empowering professionals to secure the compensation they deserve | Expert in negotiation strategies & AI-driven training | Agile Product Owner with skills in software dev.",
+            "summary": "Thomas Becker is a game-changer in professional compensation as the Founder of ChequeMate.ch. He empowers clients to secure the compensation they truly deserve through innovative salary negotiation coaching.\n\nGoing beyond traditional methods, Thomas analyzes each client's unique situation, including market trends, company dynamics, and even recruiter profiles. This comprehensive approach allows him to craft bespoke negotiation strategies that give clients a significant edge.\n\nThomas's innovative spirit shines through his AI-driven negotiation simulation tool, offering an immersive training ground to hone skills. This blend of personal coaching and technology sets ChequeMate.ch apart.\n\nWhat truly makes Thomas's approach revolutionary is his focus on reducing cognitive load during negotiations. By combining in-person coaching with AI-driven role-play, he helps clients build reflexes and habits that allow them to navigate conversations with confidence.\n\nThomas's expertise spans new job offers, raises, and benefit negotiations. His data-driven strategies and personalized approach have helped professionals at all career stages unlock their full earning potential.\n\nAre you ready to take control of your career and ensure fair compensation? I offer free 15-minute consultations to give you a taste of how I can transform your negotiation skills. Don't leave money on the table – visit ChequeMate.ch today and let me be your secret weapon in salary negotiations. Your future self will thank you.",
+            "student": false,
+            "industryName": "Professional Training & Coaching",
+            "industryUrn": "urn:li:fs_industry:105",
+            "geoLocationName": "Siviriez, Fribourg",
+            "geoCountryName": "Switzerland",
+            "jobTitle": "Product Owner / Business Analyst",
+            "companyName": "Redsen",
+            "companyPublicId": "redsen",
+            "companyLinkedinUrl": "https://www.linkedin.com/company/redsen",
+            "following": false,
+            "followable": true,
+            "followersCount": 541,
+            "connectionsCount": 430,
+            "connectionType": ""
+        }
+    },
+    "institution": {
+        "name": "Redsen",
+        "position": "Product Owner / Business Analyst",
+        "department": null,
+        "website": null
+    },
+    "expertise": {
+        "primary": [],
+        "secondary": [],
+        "industries": [
+            "Information Technology and Services"
+        ]
+    },
+    "academicMetrics": {
+        "publications": {
+            "total": null,
+            "sources": {
+                "googleScholar": null,
+                "scopus": null
+            }
+        }
+    },
+    "currentRole": {
+        "title": "Product Owner / Business Analyst",
+        "organization": "Redsen",
+        "focus": null
+    },
+    "profiles": {
+        "linkedin": "https://www.linkedin.com/in/tommybeck/",
+        "company": "https://www.linkedin.com/company/redsen"
+    },
+    "tags": [],
+    "source": "LinkedIn",
+    "experience": [
+        {
+            "title": "Product Owner / Business Analyst",
+            "description": "- Lead requirements analysis and backlog management for Switzerland's primary debt collection platform, handling the majority of the nation's collection volume across seven states\n- Translate complex stakeholder needs into comprehensive epics and user stories, ensuring alignment between technical capabilities and business objectives\n- Orchestrate priority negotiations with stakeholders from seven states, optimizing resource allocation while maintaining service delivery standards\n- Conduct thorough system testing and quality assurance, ensuring platform reliability and compliance with Swiss financial regulations\n- Drive continuous improvement initiatives by identifying process inefficiencies and recommending software development lifecycle enhancements, resulting in streamlined development processes.",
+            "locationName": "Lausanne Metropolitan Area",
+            "timePeriod": {
+                "startDate": {
+                    "month": 11,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Information Technology and Services"
+                ],
+                "objectUrn": "urn:li:company:2230957",
+                "entityUrn": "urn:li:fs_miniCompany:2230957",
+                "name": "Redsen",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQHmTl0fnDj_Hg/company-logo_200_200/company-logo_200_200/0/1656679611432/redsen_consulting_logo?e=1747872000&v=beta&t=f6mDgYGr5p87rLvuHZD6ndexKdXkMBAV4SVo8FB7LnU",
+                "universalName": "redsen",
+                "dashCompanyUrn": "urn:li:fsd_company:2230957",
+                "trackingId": "Qp5AFAh5TnCFVR4EMaBB6Q=="
+            },
+            "companyName": "Redsen"
+        },
+        {
+            "title": "Salary Negotiation Coach",
+            "description": "As the founder and salary negotiation coach at ChequeMate.ch, I empower professionals to achieve the compensation they deserve by developing customized negotiation strategies tailored to individual career paths. I analyze client cases in depth, providing insights into the market, company, and recruiter, and create negotiation tactics that maximize their outcomes.\n\nI also spearhead innovative projects, such as training a large language model (LLM) to assist in salary negotiation role-plays and designing a user-friendly front-end experience. My mission is to equip clients with the tools and knowledge to confidently navigate salary discussions and advocate for their true worth.\n\nLet’s work together to turn your career aspirations into reality!",
+            "timePeriod": {
+                "startDate": {
+                    "month": 2,
+                    "year": 2024
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 0,
+                    "end": 1
+                },
+                "industries": [
+                    "Professional Training & Coaching"
+                ],
+                "objectUrn": "urn:li:company:105212487",
+                "entityUrn": "urn:li:fs_miniCompany:105212487",
+                "name": "ChequeMate.ch",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D4E0BAQFH1VqQTouBFw/company-logo_200_200/company-logo_200_200/0/1727503263903/chequemate_ch_logo?e=1747872000&v=beta&t=ZYwwwXNIxEE202RWO8bzJbTBfzItvFJ5Si6esI4DcAk",
+                "universalName": "chequemate-ch",
+                "dashCompanyUrn": "urn:li:fsd_company:105212487",
+                "trackingId": "JviODsAXRy6yOeW8dEA3XQ=="
+            },
+            "companyName": "ChequeMate.ch"
+        },
+        {
+            "title": "Personal project: automatic cryptocurrency trading bot developer",
+            "description": "As an Automated Cryptocurrency Trading Bot Developer, I design and continuously enhance automated trading bots that execute cryptocurrency trades based on advanced technical indicators and market analysis. I develop and refine trading strategies, ensuring they adapt to market trends and risk management requirements. This project involves applying my expertise in software development and cryptocurrency trading to create a highly efficient, solution-oriented system. By regularly optimizing the bots' algorithms, I enable autonomous trading in dynamic and volatile market conditions.",
+            "timePeriod": {
+                "startDate": {
+                    "month": 3,
+                    "year": 2021
+                }
+            },
+            "companyName": "Self-employed"
+        },
+        {
+            "title": "Product Owner",
+            "description": "At G. Kolly SA, I spearheaded the development of a visionary system to streamline the movement of diverse materials such as concrete, compost, chemicals, and food ingredients. This system was designed to manage the end-to-end flow of materials, whether for further processing in factories or for reuse in other processes. I took ownership of the product roadmap, defining and managing the backlog to ensure that all business and regulatory requirements were met. My work included optimizing traceability for billing, supply chain optimization, and compliance, significantly enhancing operational efficiency. By securing two major government contracts, I contributed directly to the company's growth in new markets.",
+            "locationName": "Le Mouret, Fribourg, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 1,
+                    "year": 2024
+                },
+                "startDate": {
+                    "month": 4,
+                    "year": 2023
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 51,
+                    "end": 200
+                },
+                "industries": [
+                    "Automotive"
+                ],
+                "objectUrn": "urn:li:company:67298108",
+                "entityUrn": "urn:li:fs_miniCompany:67298108",
+                "name": "Garage Kolly",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/C560BAQHTlpNC2730RA/company-logo_200_200/company-logo_200_200/0/1632822564281/g_kolly_sa_logo?e=1747872000&v=beta&t=fOui8VhLXcT2ZzRCv1ihGpVgWvwBPZ8NArAlYzxgPpc",
+                "universalName": "garage-kolly",
+                "dashCompanyUrn": "urn:li:fsd_company:67298108",
+                "trackingId": "Xbhror6QSTe0yFeQ4qsgWw=="
+            },
+            "companyName": "Garage Kolly"
+        },
+        {
+            "title": "Project Manager Scrum Master",
+            "description": "As a Project Manager and Scrum Coach for a government purchasing software suite, I worked on framework contracts, with the largest valued at $14 billion. I collaborated with government agencies to analyze and structure the contract requirements, translating them into detailed user stories for the development teams. I also automated end-to-end testing to ensure the accurate implementation of the RFP specifications. Additionally, I managed the product backlog, regularly refining and prioritizing tasks, while providing Scrum coaching to improve the team’s performance.",
+            "locationName": "Fribourg, Fribourg, Switzerland",
+            "timePeriod": {
+                "endDate": {
+                    "month": 3,
+                    "year": 2023
+                },
+                "startDate": {
+                    "month": 2,
+                    "year": 2022
+                }
+            },
+            "company": {
+                "employeeCountRange": {
+                    "start": 11,
+                    "end": 50
+                },
+                "industries": [
+                    "Computer Software"
+                ],
+                "objectUrn": "urn:li:company:15477075",
+                "entityUrn": "urn:li:fs_miniCompany:15477075",
+                "name": "Symphony Procurement Suite",
+                "showcase": false,
+                "active": true,
+                "logo": "https://media.licdn.com/dms/image/v2/D560BAQHMHAxBIZ6Rtw/company-logo_200_200/company-logo_200_200/0/1692116291970/apex_logic_inc_logo?e=1747872000&v=beta&t=Q3Jx4KczU_S3bkZpvEZaA0Ngy9Mpn0JfTInQ0EAo5ys",
+                "universalName": "symphony-procurement-systems",
+                "dashCompanyUrn": "urn:li:fsd_company:15477075",
+                "trackingId": "TZvA7Ww9SwKxB937Ao5SMg=="
+            },
+            "companyName": "APEX LOGIC, INC"
+        }
+    ],
+    "education": [
+        {
+            "degreeName": "Informaticien de Gestion ES",
+            "fieldOfStudy": "Business Computer Science",
+            "schoolName": "Ecole Supérieure Vaudoise d'Informatique de Gestion",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1999
+                },
+                "startDate": {
+                    "year": 1997
+                }
+            }
+        },
+        {
+            "degreeName": "Maturité Professionnelle Commerciale (MPC)",
+            "fieldOfStudy": "Business Administration and Management, General",
+            "schoolName": "Ecole Supérieure de Commerce, Morges",
+            "timePeriod": {
+                "endDate": {
+                    "year": 1997
+                },
+                "startDate": {
+                    "year": 1993
+                }
+            }
+        }
+    ],
+    "certifications": [],
+    "skills": [
+        "Debt Collection",
+        "Problem Management",
+        "Root Cause Analysis",
+        "Career Development"
+    ],
+    "lastEnriched": "2025-02-17"
+}
