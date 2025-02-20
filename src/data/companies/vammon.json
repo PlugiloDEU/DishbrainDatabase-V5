@@ -1,0 +1,149 @@
+{
+  "name": "Vammon",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "consulting",
+      "image_id": "a4f338d678674ed9afb305d2460c9740",
+      "uuid": "b9bd65b9-20bf-45cc-207d-b70ac35d5bf4",
+      "entity_def_id": "category",
+      "value": "Consulting"
+    },
+    {
+      "permalink": "logistics",
+      "image_id": "766cdf0bbd724b9c92c2258390e5f060",
+      "uuid": "a6b9c45f-2caa-42e1-30e7-26c546d43186",
+      "entity_def_id": "category",
+      "value": "Logistics"
+    },
+    {
+      "permalink": "online-portals",
+      "image_id": "26ec522dde4c44bab76cc21119bc7015",
+      "uuid": "d9cf3c35-fcf6-294c-e755-c8cad2653125",
+      "entity_def_id": "category",
+      "value": "Online Portals"
+    },
+    {
+      "permalink": "professional-services",
+      "image_id": "09fd9a3d8d74400889b446076f4a70de",
+      "uuid": "dcfb5d50-2943-35bd-7ad4-4999a96c3480",
+      "entity_def_id": "category",
+      "value": "Professional Services"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.90266726927238,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://vammon.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://vammon.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://vammon.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/vammon",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://vammon.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://vammon.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://vammon.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

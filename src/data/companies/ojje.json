@@ -1,0 +1,156 @@
+{
+  "name": "Ojje",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "digital-entertainment",
+      "image_id": "6eb3fe31bacc4a8ab19f7fb90634d846",
+      "uuid": "6f169dae-3199-cda7-a7eb-94c30066691c",
+      "entity_def_id": "category",
+      "value": "Digital Entertainment"
+    },
+    {
+      "permalink": "ebooks",
+      "image_id": "63cb2305bbed49ba97be47b88a830c5b",
+      "uuid": "5fd72d4b-40dc-4f4d-f702-82e8cffb5e7d",
+      "entity_def_id": "category",
+      "value": "EBooks"
+    },
+    {
+      "permalink": "education",
+      "image_id": "c67889dbff324d9f841fd6d5ad35a4a2",
+      "uuid": "025caab7-3e54-98f0-061c-73e7af159cd1",
+      "entity_def_id": "category",
+      "value": "Education"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "media-and-entertainment",
+      "image_id": "5b198f953ddc491ca9a1029778c2057e",
+      "uuid": "78b58810-ad58-a623-2a80-2a0e3603a544",
+      "entity_def_id": "category",
+      "value": "Media and Entertainment"
+    },
+    {
+      "permalink": "publishing",
+      "image_id": "6ae89fcbf66f45b49c86e2b57e7ebeb8",
+      "uuid": "5c362e08-2d00-f3b4-ca60-584bfcc4e72f",
+      "entity_def_id": "category",
+      "value": "Publishing"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9160494336071429,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://ojje.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://ojje.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://ojje.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/ojje",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://ojje.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://ojje.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://ojje.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

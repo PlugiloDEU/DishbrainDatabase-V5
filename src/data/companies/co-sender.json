@@ -1,0 +1,170 @@
+{
+  "name": "CO-SENDER",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "business-information-systems",
+      "image_id": "5b8c95bf3f9f47b882e2043ff433c0a2",
+      "uuid": "9017245c-8985-9a74-e855-0219d5ce56a3",
+      "entity_def_id": "category",
+      "value": "Business Information Systems"
+    },
+    {
+      "permalink": "email-marketing",
+      "image_id": "24baa0bfe51d4da89403542cbf3acb55",
+      "uuid": "f8146b4d-5d26-53a6-fea7-304e54b40e50",
+      "entity_def_id": "category",
+      "value": "Email Marketing"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "marketing-automation",
+      "image_id": "24c960a143f84e918ecfeba5225e5241",
+      "uuid": "be21aa9f-99cd-0379-b746-899e0ec7e0fd",
+      "entity_def_id": "category",
+      "value": "Marketing Automation"
+    },
+    {
+      "permalink": "mobile-advertising",
+      "image_id": "cd6bdef4c0f744bc9c04a79cb5781099",
+      "uuid": "03f72e37-791c-2a02-cc32-3a202dbaab3e",
+      "entity_def_id": "category",
+      "value": "Mobile Advertising"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "sms",
+      "image_id": "df5c7800fc1a468fa9b488e34226a0dc",
+      "uuid": "08e0a9b4-14d1-c281-daa8-a228c45e5110",
+      "entity_def_id": "category",
+      "value": "SMS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "transaction-processing",
+      "image_id": "3ee1c57d947f40e9ad65effc2592c585",
+      "uuid": "5b8aca67-4f27-bd26-d245-0350b537165e",
+      "entity_def_id": "category",
+      "value": "Transaction Processing"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9414001340714784,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://co-sender.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://co-sender.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://co-sender.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/co-sender",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://co-sender.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://co-sender.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://co-sender.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

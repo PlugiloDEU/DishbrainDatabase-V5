@@ -1,0 +1,177 @@
+{
+  "name": "DoorSpace",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "apps",
+      "image_id": "ec09d2b58fe048cf85168ff0060450a8",
+      "uuid": "af333248-9c7e-50c5-168a-e91b86595a17",
+      "entity_def_id": "category",
+      "value": "Apps"
+    },
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "career-planning",
+      "image_id": "33b2ccf77ed5475f9271687df7df1f3a",
+      "uuid": "c4c66159-7592-b141-ce57-4ffde4dabdde",
+      "entity_def_id": "category",
+      "value": "Career Planning"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "health-care",
+      "image_id": "b981912d44894c3899748497fd087b16",
+      "uuid": "3f21415b-5784-6be6-3722-eb189190b7cd",
+      "entity_def_id": "category",
+      "value": "Health Care"
+    },
+    {
+      "permalink": "hospital-650c",
+      "image_id": "cd625758e5b1454fa2661ad1ff78c5b8",
+      "uuid": "650c4c50-3a45-4725-d8e8-48cd0e10bb05",
+      "entity_def_id": "category",
+      "value": "Hospital"
+    },
+    {
+      "permalink": "psychology",
+      "image_id": "6c74bb36f28e4591addfee8d3031bf91",
+      "uuid": "342cedc1-6dff-c0fa-2e2f-f376b7db1f69",
+      "entity_def_id": "category",
+      "value": "Psychology"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "staffing-agency",
+      "image_id": "589f61532017431eb913745e6a02ea49",
+      "uuid": "593534eb-7096-7307-deae-0206fa508e13",
+      "entity_def_id": "category",
+      "value": "Staffing Agency"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.927927175645206,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://doorspace.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://doorspace.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://doorspace.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/doorspace",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://doorspace.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://doorspace.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://doorspace.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

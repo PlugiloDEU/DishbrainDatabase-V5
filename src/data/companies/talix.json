@@ -1,0 +1,149 @@
+{
+  "name": "Talix",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "health-care",
+      "image_id": "b981912d44894c3899748497fd087b16",
+      "uuid": "3f21415b-5784-6be6-3722-eb189190b7cd",
+      "entity_def_id": "category",
+      "value": "Health Care"
+    },
+    {
+      "permalink": "machine-learning",
+      "image_id": "e83f580a280f48f39d789180bce8c2d9",
+      "uuid": "5ea0cdb7-c9a6-47fc-50f8-c9b0fac04863",
+      "entity_def_id": "category",
+      "value": "Machine Learning"
+    },
+    {
+      "permalink": "oncology",
+      "image_id": "363f382ab5f247458cf5107c08256114",
+      "uuid": "96be4d59-05e1-4ea3-a1d3-68b284bcbd8b",
+      "entity_def_id": "category",
+      "value": "Oncology"
+    },
+    {
+      "permalink": "risk-management",
+      "image_id": "3aef0738b4ec4d6e9517f6ec99eb1c4e",
+      "uuid": "99763baa-917d-488e-86e2-34bbbde18450",
+      "entity_def_id": "category",
+      "value": "Risk Management"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8687188754872454,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://talix.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://talix.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://talix.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/talix",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://talix.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://talix.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://talix.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "name": "Epsilla",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "cloud-computing",
+      "image_id": "67c1968d91be4db984e28ed6edd9f633",
+      "uuid": "7866a1c0-21ec-241c-c2a6-d263a6ef49dd",
+      "entity_def_id": "category",
+      "value": "Cloud Computing"
+    },
+    {
+      "permalink": "cloud-data-services",
+      "image_id": "b41ce5108b7946ba96689c4a7c2fb922",
+      "uuid": "d0c29b4e-27db-3c47-34fe-94881a585836",
+      "entity_def_id": "category",
+      "value": "Cloud Data Services"
+    },
+    {
+      "permalink": "database",
+      "image_id": "00f06db4b97146808545b1532f81b0f6",
+      "uuid": "c68ad390-d05d-fc84-bced-3d52a6352316",
+      "entity_def_id": "category",
+      "value": "Database"
+    },
+    {
+      "permalink": "generative-ai",
+      "image_id": "c1ecf22becf54352901f6583f1d7ad49",
+      "uuid": "8314a534-8f18-4ee0-869b-05bc6e46258e",
+      "entity_def_id": "category",
+      "value": "Generative AI"
+    },
+    {
+      "permalink": "open-source",
+      "image_id": "44815488c74041b3aaef50346ed3a531",
+      "uuid": "eb80816d-769e-b2dc-e9b4-b6399e8c498e",
+      "entity_def_id": "category",
+      "value": "Open Source"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "search-engine-0d39",
+      "image_id": "5dbe7e490cd04376a500dbac8baa9ce9",
+      "uuid": "0d39287e-5b13-77a6-9702-74294daded43",
+      "entity_def_id": "category",
+      "value": "Search Engine"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9178780308039441,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://epsilla.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://epsilla.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://epsilla.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/epsilla",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://epsilla.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://epsilla.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://epsilla.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

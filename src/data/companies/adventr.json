@@ -1,0 +1,177 @@
+{
+  "name": "Adventr",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "ad-network",
+      "image_id": "5d98b055d18b469583e9ee57efa1eabb",
+      "uuid": "1f69cdca-96c4-75ba-97e8-caeef5842a3d",
+      "entity_def_id": "category",
+      "value": "Ad Network"
+    },
+    {
+      "permalink": "advertising-6cb6",
+      "image_id": "aad35c2740c248479127009b14f7e3ac",
+      "uuid": "6cb68537-2de1-b041-2ee5-451ff81bccab",
+      "entity_def_id": "category",
+      "value": "Advertising"
+    },
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "content",
+      "image_id": "0f9fa3f24b5a468bb8ae4cdd43854e53",
+      "uuid": "3ab64b42-61dc-08a5-cfe3-a25127ae3eea",
+      "entity_def_id": "category",
+      "value": "Content"
+    },
+    {
+      "permalink": "digital-media-2f47",
+      "image_id": "afd8eaeb54c74db7ac8805674159abaf",
+      "uuid": "2f47ba93-33d3-61fe-de89-0fe8a4a8366b",
+      "entity_def_id": "category",
+      "value": "Digital Media"
+    },
+    {
+      "permalink": "internet",
+      "image_id": "920e060f0da2433f86a0848520dad911",
+      "uuid": "2772a539-e636-09dc-30dc-b1a7deb98d0e",
+      "entity_def_id": "category",
+      "value": "Internet"
+    },
+    {
+      "permalink": "publishing",
+      "image_id": "6ae89fcbf66f45b49c86e2b57e7ebeb8",
+      "uuid": "5c362e08-2d00-f3b4-ca60-584bfcc4e72f",
+      "entity_def_id": "category",
+      "value": "Publishing"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "tv",
+      "image_id": "99aba4e59aa64c79be4803a9f72d1200",
+      "uuid": "86d91a85-ff9d-93db-4688-3b608fee756c",
+      "entity_def_id": "category",
+      "value": "TV"
+    },
+    {
+      "permalink": "video-streaming",
+      "image_id": "0e1b60dc5130463098e757762ff8dde9",
+      "uuid": "b1b3b2d7-85ed-2cb1-fc60-3e2b6a3b5ddd",
+      "entity_def_id": "category",
+      "value": "Video Streaming"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9481352946247774,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://adventr.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://adventr.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://adventr.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/adventr",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://adventr.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://adventr.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://adventr.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

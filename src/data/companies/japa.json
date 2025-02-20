@@ -1,0 +1,156 @@
+{
+  "name": "Japa",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "automotive",
+      "image_id": "70b9211be4744e26936e45db0b986706",
+      "uuid": "bb2ad65f-1009-db81-c6f6-83dbcfd64870",
+      "entity_def_id": "category",
+      "value": "Automotive"
+    },
+    {
+      "permalink": "computer",
+      "image_id": "1a15be95296e4708a1305ee952a75c69",
+      "uuid": "77327c13-6a59-488a-82dc-e39af2fa6df1",
+      "entity_def_id": "category",
+      "value": "Computer"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "mobile",
+      "image_id": "ac06fb52ea564db6a103fa2435492f3d",
+      "uuid": "e907cf2a-842d-8a30-a0b1-07d9de4a8178",
+      "entity_def_id": "category",
+      "value": "Mobile"
+    },
+    {
+      "permalink": "mobile-apps",
+      "image_id": "5d6e8733e81547d9b5c2beb7cdff60bc",
+      "uuid": "78f709ae-d8fb-cd28-218a-f090789f628f",
+      "entity_def_id": "category",
+      "value": "Mobile Apps"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8924182677038284,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://japa.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://japa.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://japa.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/japa",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://japa.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://japa.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://japa.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

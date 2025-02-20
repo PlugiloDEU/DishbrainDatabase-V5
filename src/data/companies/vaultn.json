@@ -1,0 +1,170 @@
+{
+  "name": "VaultN",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "console-games",
+      "image_id": "6a0e808a729543bf9e6fd0f09c165dcd",
+      "uuid": "614d792f-67ed-cc5e-f654-48390d91eda6",
+      "entity_def_id": "category",
+      "value": "Console Games"
+    },
+    {
+      "permalink": "iaas",
+      "image_id": "707e44928c4546dba63278c1fe2ad5f0",
+      "uuid": "b9833503-2cf2-12dd-bd0d-6b0596ddf8c5",
+      "entity_def_id": "category",
+      "value": "IaaS"
+    },
+    {
+      "permalink": "internet",
+      "image_id": "920e060f0da2433f86a0848520dad911",
+      "uuid": "2772a539-e636-09dc-30dc-b1a7deb98d0e",
+      "entity_def_id": "category",
+      "value": "Internet"
+    },
+    {
+      "permalink": "mobile-apps",
+      "image_id": "5d6e8733e81547d9b5c2beb7cdff60bc",
+      "uuid": "78f709ae-d8fb-cd28-218a-f090789f628f",
+      "entity_def_id": "category",
+      "value": "Mobile Apps"
+    },
+    {
+      "permalink": "online-games",
+      "image_id": "1a9ca9e49d0c44a9b90ce2c1ae73de49",
+      "uuid": "42bf7b8c-7f0f-3581-f6d0-ed135afd8278",
+      "entity_def_id": "category",
+      "value": "Online Games"
+    },
+    {
+      "permalink": "paas",
+      "image_id": "f5f4cb9d2fae4f5890513d54e388398f",
+      "uuid": "a402e198-e69b-eda2-2454-0bd8c09fd0df",
+      "entity_def_id": "category",
+      "value": "PaaS"
+    },
+    {
+      "permalink": "pc-games",
+      "image_id": "c3721291488940eb9699c50900a455f4",
+      "uuid": "7de5b73e-eaae-fc18-86df-7a1cd7f298cc",
+      "entity_def_id": "category",
+      "value": "PC Games"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "video-games",
+      "image_id": "6deb3472d637478fa54c3a3037c3e0b1",
+      "uuid": "dabab6af-bf12-00ca-b185-85cead095097",
+      "entity_def_id": "category",
+      "value": "Video Games"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9245754378855807,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://vaultn.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://vaultn.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://vaultn.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/vaultn",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://vaultn.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://vaultn.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://vaultn.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

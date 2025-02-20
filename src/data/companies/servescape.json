@@ -1,0 +1,156 @@
+{
+  "name": "ServeScape",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "e-commerce-275d",
+      "image_id": "549a838b94a34ba9820468c910cf40f3",
+      "uuid": "275ddcbc-27de-ff4f-4e50-6dc26ebf9570",
+      "entity_def_id": "category",
+      "value": "E-Commerce"
+    },
+    {
+      "permalink": "home-and-garden",
+      "image_id": "49dbf6511ea64870955e42c38e3e11f4",
+      "uuid": "dddc8c55-dd73-7fa2-967d-d30fa491ebc6",
+      "entity_def_id": "category",
+      "value": "Home and Garden"
+    },
+    {
+      "permalink": "horticulture",
+      "image_id": "1cdb6db72aac44798cf1936aeb9f5c78",
+      "uuid": "5ecb5545-454b-9dca-6eb3-1ea48692c3c4",
+      "entity_def_id": "category",
+      "value": "Horticulture"
+    },
+    {
+      "permalink": "landscaping",
+      "image_id": "5e1b7dfff1814346bfaf2a681165f710",
+      "uuid": "fe55ab18-5d21-5cd3-3aac-f899919728ed",
+      "entity_def_id": "category",
+      "value": "Landscaping"
+    },
+    {
+      "permalink": "marketplace-772d",
+      "image_id": "936e9200d2d64967bbb35c402de9cc39",
+      "uuid": "772da8fe-26d7-ea09-00ff-0fc7c8368b50",
+      "entity_def_id": "category",
+      "value": "Marketplace"
+    },
+    {
+      "permalink": "retail",
+      "image_id": "2ec04bee09ac460992ea180f967d8106",
+      "uuid": "b65acba5-b299-3990-6390-8be3e3833a07",
+      "entity_def_id": "category",
+      "value": "Retail"
+    },
+    {
+      "permalink": "supply-chain-management",
+      "image_id": "e880c9c12f4a4fa9ad72493c71a86b18",
+      "uuid": "7ec4e4c8-a648-da5d-c02b-90a98c5ebfcf",
+      "entity_def_id": "category",
+      "value": "Supply Chain Management"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9137470001384558,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://servescape.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://servescape.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://servescape.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/servescape",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://servescape.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://servescape.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://servescape.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

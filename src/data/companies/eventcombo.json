@@ -1,0 +1,177 @@
+{
+  "name": "Eventcombo",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "business-intelligence",
+      "image_id": "77accbbb54a7499a86a03c166a46625b",
+      "uuid": "2e3b8104-b12e-468a-65b8-0989208f0b16",
+      "entity_def_id": "category",
+      "value": "Business Intelligence"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "event-management",
+      "image_id": "d97a1537b2824fa0b2c7f46c742c3800",
+      "uuid": "917e01db-e156-b8f9-507f-ae9b76ecfc48",
+      "entity_def_id": "category",
+      "value": "Event Management"
+    },
+    {
+      "permalink": "hospitality",
+      "image_id": "3e2f9230b9fb42bc8fe050c1baf72d19",
+      "uuid": "e7d8b7ca-c72b-7793-5a6d-2801f6a0e8ee",
+      "entity_def_id": "category",
+      "value": "Hospitality"
+    },
+    {
+      "permalink": "media-and-entertainment",
+      "image_id": "5b198f953ddc491ca9a1029778c2057e",
+      "uuid": "78b58810-ad58-a623-2a80-2a0e3603a544",
+      "entity_def_id": "category",
+      "value": "Media and Entertainment"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "ticketing",
+      "image_id": "743e6f9da3264129a12cd41b62ddb26e",
+      "uuid": "66be03e0-5dab-b881-1c03-0a249714bf56",
+      "entity_def_id": "category",
+      "value": "Ticketing"
+    },
+    {
+      "permalink": "video-chat",
+      "image_id": "dc635f2e8ad043668f3b1576db2be8e5",
+      "uuid": "bf605860-9fd2-4d32-e23e-93d977d72146",
+      "entity_def_id": "category",
+      "value": "Video Chat"
+    },
+    {
+      "permalink": "video-conferencing",
+      "image_id": "eaeffa8b6091419392fc931794aa1877",
+      "uuid": "dddb9b25-2585-b348-f887-90a8c0fc4e0f",
+      "entity_def_id": "category",
+      "value": "Video Conferencing"
+    },
+    {
+      "permalink": "video-streaming",
+      "image_id": "0e1b60dc5130463098e757762ff8dde9",
+      "uuid": "b1b3b2d7-85ed-2cb1-fc60-3e2b6a3b5ddd",
+      "entity_def_id": "category",
+      "value": "Video Streaming"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9230003261380143,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://eventcombo.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://eventcombo.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://eventcombo.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/eventcombo",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://eventcombo.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://eventcombo.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://eventcombo.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

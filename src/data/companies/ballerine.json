@@ -1,0 +1,149 @@
+{
+  "name": "Ballerine",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "generative-ai",
+      "image_id": "c1ecf22becf54352901f6583f1d7ad49",
+      "uuid": "8314a534-8f18-4ee0-869b-05bc6e46258e",
+      "entity_def_id": "category",
+      "value": "Generative AI"
+    },
+    {
+      "permalink": "identity-management",
+      "image_id": "eff7ab5d2c1d44e0b572d33f4e93a58f",
+      "uuid": "24c5db84-02a2-6040-49cf-4314b287674f",
+      "entity_def_id": "category",
+      "value": "Identity Management"
+    },
+    {
+      "permalink": "open-source",
+      "image_id": "44815488c74041b3aaef50346ed3a531",
+      "uuid": "eb80816d-769e-b2dc-e9b4-b6399e8c498e",
+      "entity_def_id": "category",
+      "value": "Open Source"
+    },
+    {
+      "permalink": "payments",
+      "image_id": "e1c219cc324143a191779e0dc6efc73d",
+      "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+      "entity_def_id": "category",
+      "value": "Payments"
+    },
+    {
+      "permalink": "risk-management",
+      "image_id": "3aef0738b4ec4d6e9517f6ec99eb1c4e",
+      "uuid": "99763baa-917d-488e-86e2-34bbbde18450",
+      "entity_def_id": "category",
+      "value": "Risk Management"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9469569411908942,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://ballerine.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://ballerine.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://ballerine.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/ballerine",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://ballerine.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://ballerine.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://ballerine.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

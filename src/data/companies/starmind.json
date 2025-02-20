@@ -1,0 +1,177 @@
+{
+  "name": "Starmind",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "collaboration",
+      "image_id": "e611fc96e62041e7ac0254b131d99f84",
+      "uuid": "217f63af-2e8f-9978-085b-262592840759",
+      "entity_def_id": "category",
+      "value": "Collaboration"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "knowledge-management",
+      "image_id": "4bda3770174a4c2e93f3af488eff8289",
+      "uuid": "c267b15a-caf8-a4c8-0973-1ee558de3eef",
+      "entity_def_id": "category",
+      "value": "Knowledge Management"
+    },
+    {
+      "permalink": "machine-learning",
+      "image_id": "e83f580a280f48f39d789180bce8c2d9",
+      "uuid": "5ea0cdb7-c9a6-47fc-50f8-c9b0fac04863",
+      "entity_def_id": "category",
+      "value": "Machine Learning"
+    },
+    {
+      "permalink": "qa",
+      "image_id": "e19cc7e28fdb4de8b7708fa6e4d60e38",
+      "uuid": "7fbec13c-08c6-3790-4c51-ff3f46311286",
+      "entity_def_id": "category",
+      "value": "Q&A"
+    },
+    {
+      "permalink": "real-time",
+      "image_id": "fccd8346d56f4fd8bd8b3eccc5d6e6a4",
+      "uuid": "0a88e74a-a6c9-ff6d-69db-e8c85881b4b9",
+      "entity_def_id": "category",
+      "value": "Real Time"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "social-network-714d",
+      "image_id": "ac84884b86224fdd951a57d78e85fef3",
+      "uuid": "714d833f-2234-98bf-19bf-9ff70a5e2d17",
+      "entity_def_id": "category",
+      "value": "Social Network"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9232743583615723,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://starmind.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://starmind.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://starmind.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/starmind",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://starmind.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://starmind.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://starmind.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

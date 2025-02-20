@@ -1,0 +1,156 @@
+{
+  "name": "Wivity Inc.",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "blockchain",
+      "image_id": "7d9dbb7f206946b1b4c6afa01d5dcb8c",
+      "uuid": "1fea6201-3b7c-4c91-96ec-543f5eded46a",
+      "entity_def_id": "category",
+      "value": "Blockchain"
+    },
+    {
+      "permalink": "cyber-security",
+      "image_id": "8efae427db9649099452405d24f534ba",
+      "uuid": "46c250d5-00f6-d12f-4ad8-9b16f8b233d4",
+      "entity_def_id": "category",
+      "value": "Cyber Security"
+    },
+    {
+      "permalink": "internet-of-things-ed3a",
+      "image_id": "19bb1bd789294bea9d985b400fad1c01",
+      "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+      "entity_def_id": "category",
+      "value": "Internet of Things"
+    },
+    {
+      "permalink": "power-grid",
+      "image_id": "3abcb8c4a3c64925bee6ade17ca27b33",
+      "uuid": "ef901c9f-de7f-7411-3d79-0f62c6b22e44",
+      "entity_def_id": "category",
+      "value": "Power Grid"
+    },
+    {
+      "permalink": "security-4c60",
+      "image_id": "302729e2a4c14c579a8f0afb61f2f708",
+      "uuid": "4c6005cd-3476-35d2-ceab-b7d4f1d89e8b",
+      "entity_def_id": "category",
+      "value": "Security"
+    },
+    {
+      "permalink": "solar-c3d5",
+      "image_id": "0c029f77b60f4e03a4e8049fd20b1f35",
+      "uuid": "c3d5f46f-0a9d-cfdc-a44a-4cc6a13fe804",
+      "entity_def_id": "category",
+      "value": "Solar"
+    },
+    {
+      "permalink": "web3-34b4",
+      "image_id": "1b69abb7ca274e589e8d599556dd8bc9",
+      "uuid": "fcab1025-3a03-42ab-8c65-c01d37ec3466",
+      "entity_def_id": "category",
+      "value": "Web3"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9226368927888028,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://wivityinc..com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://wivityinc..com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://wivityinc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/wivity-inc.",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://wivityinc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://wivityinc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://wivityinc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

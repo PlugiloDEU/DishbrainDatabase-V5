@@ -1,0 +1,149 @@
+{
+  "name": "Coastr",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "automotive",
+      "image_id": "70b9211be4744e26936e45db0b986706",
+      "uuid": "bb2ad65f-1009-db81-c6f6-83dbcfd64870",
+      "entity_def_id": "category",
+      "value": "Automotive"
+    },
+    {
+      "permalink": "car-sharing",
+      "image_id": "69bdbb0647ad48c5b45de0f46e0909c5",
+      "uuid": "74f62604-0f9c-b02d-0ce8-6f750c0da7ab",
+      "entity_def_id": "category",
+      "value": "Car Sharing"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "transportation",
+      "image_id": "df94c7e21c8648cabd5c8fb42a2fc129",
+      "uuid": "95642ff0-23e9-79a3-612b-50de99f06305",
+      "entity_def_id": "category",
+      "value": "Transportation"
+    },
+    {
+      "permalink": "travel",
+      "image_id": "a6a6e9a41aa44c11af80dfffe5720c96",
+      "uuid": "8672f521-ce9a-e851-adff-c35d2441a0ad",
+      "entity_def_id": "category",
+      "value": "Travel"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.900805201100089,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://coastr.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://coastr.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://coastr.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/coastr",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://coastr.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://coastr.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://coastr.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

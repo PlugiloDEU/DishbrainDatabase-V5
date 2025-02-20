@@ -1,0 +1,170 @@
+{
+  "name": "Firsthand",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "advice",
+      "image_id": "7ac97ad1fde147e49f8306d5968fd65e",
+      "uuid": "c9461eef-9ba2-cb92-0d05-2d2d5f85141c",
+      "entity_def_id": "category",
+      "value": "Advice"
+    },
+    {
+      "permalink": "alumni",
+      "image_id": "80973e9293a5410f99ab4d78176b217b",
+      "uuid": "2de01956-ad66-8623-0b9b-2c83ef9b7ad9",
+      "entity_def_id": "category",
+      "value": "Alumni"
+    },
+    {
+      "permalink": "career-planning",
+      "image_id": "33b2ccf77ed5475f9271687df7df1f3a",
+      "uuid": "c4c66159-7592-b141-ce57-4ffde4dabdde",
+      "entity_def_id": "category",
+      "value": "Career Planning"
+    },
+    {
+      "permalink": "edtech",
+      "image_id": "aeaaa48c3168401cb472ec6a70356d5a",
+      "uuid": "245880f2-a61a-0ea2-cf81-306964716611",
+      "entity_def_id": "category",
+      "value": "EdTech"
+    },
+    {
+      "permalink": "education",
+      "image_id": "c67889dbff324d9f841fd6d5ad35a4a2",
+      "uuid": "025caab7-3e54-98f0-061c-73e7af159cd1",
+      "entity_def_id": "category",
+      "value": "Education"
+    },
+    {
+      "permalink": "employment",
+      "image_id": "1db976fb47514cfc899a521711af0ab2",
+      "uuid": "2d410a02-e5d0-95f6-f7f7-690061283dd1",
+      "entity_def_id": "category",
+      "value": "Employment"
+    },
+    {
+      "permalink": "higher-education",
+      "image_id": "855f818f92ef4727972e0daf36d7af5d",
+      "uuid": "3ced088e-84de-330f-443a-1aa6cd3cc29f",
+      "entity_def_id": "category",
+      "value": "Higher Education"
+    },
+    {
+      "permalink": "human-resources",
+      "image_id": "526de0f29ce74cfe82b3e30c31eb52da",
+      "uuid": "92deb86b-de05-53d4-e1f9-39658c12d2da",
+      "entity_def_id": "category",
+      "value": "Human Resources"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9455902922301482,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://firsthand.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://firsthand.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://firsthand.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/firsthand",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://firsthand.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://firsthand.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://firsthand.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

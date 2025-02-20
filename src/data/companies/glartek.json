@@ -1,0 +1,163 @@
+{
+  "name": "Glartek",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "asset-management",
+      "image_id": "e2561d0980fa4319b560f47c7ecc81a8",
+      "uuid": "d8cda5ae-af47-b0d1-4a9c-aec87289adc0",
+      "entity_def_id": "category",
+      "value": "Asset Management"
+    },
+    {
+      "permalink": "augmented-reality",
+      "image_id": "71ae97fe7f334e6692aa96ee4e103e25",
+      "uuid": "89b9e37a-0dcb-a76e-0816-b69d9b54279c",
+      "entity_def_id": "category",
+      "value": "Augmented Reality"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "knowledge-management",
+      "image_id": "4bda3770174a4c2e93f3af488eff8289",
+      "uuid": "c267b15a-caf8-a4c8-0973-1ee558de3eef",
+      "entity_def_id": "category",
+      "value": "Knowledge Management"
+    },
+    {
+      "permalink": "manufacturing",
+      "image_id": "5084654e06b74f8e91be2b078888e701",
+      "uuid": "e811671c-168d-1fd2-36e5-df4e08a09f7c",
+      "entity_def_id": "category",
+      "value": "Manufacturing"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "skill-assessment",
+      "image_id": "3c61e771b64443f98f6ececf46a2a805",
+      "uuid": "343e767b-82a3-a443-f914-1d1966d8eab2",
+      "entity_def_id": "category",
+      "value": "Skill Assessment"
+    },
+    {
+      "permalink": "task-management",
+      "image_id": "ed4b81fe57c44b7b98fd2fed66ae66ae",
+      "uuid": "3171fe79-1f83-8634-f6bb-2be9e71ff530",
+      "entity_def_id": "category",
+      "value": "Task Management"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9096191330913962,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://glartek.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://glartek.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://glartek.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/glartek",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://glartek.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://glartek.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://glartek.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

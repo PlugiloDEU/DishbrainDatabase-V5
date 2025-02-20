@@ -1,0 +1,163 @@
+{
+  "name": "AMRAX",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "architecture",
+      "image_id": "e081b46710cc48208e4134d3f7c767af",
+      "uuid": "dd09c747-194a-1304-b2ba-c467be9226c8",
+      "entity_def_id": "category",
+      "value": "Architecture"
+    },
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "construction",
+      "image_id": "2bdf77b7fa3b4a23b8cd4efde324c254",
+      "uuid": "e4d83fbb-33f0-a6f0-1399-a68245e8f8ac",
+      "entity_def_id": "category",
+      "value": "Construction"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "interior-design",
+      "image_id": "89a0bbcd02514091982cf77d8f7244fa",
+      "uuid": "9670a37a-fb55-d2e8-d6fc-b4d85c2e7eb3",
+      "entity_def_id": "category",
+      "value": "Interior Design"
+    },
+    {
+      "permalink": "lighting",
+      "image_id": "428df2a2f9a941328dce5fbd41e026a5",
+      "uuid": "e9794581-9547-2150-8185-7b747f5c9913",
+      "entity_def_id": "category",
+      "value": "Lighting"
+    },
+    {
+      "permalink": "real-estate",
+      "image_id": "1e3979791bcd42a38803a47525fc8056",
+      "uuid": "a326e225-acb8-f9c0-abfe-609a82b71965",
+      "entity_def_id": "category",
+      "value": "Real Estate"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8787106432438464,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://amrax.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://amrax.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://amrax.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/amrax",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://amrax.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://amrax.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://amrax.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

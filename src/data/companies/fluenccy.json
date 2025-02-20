@@ -1,0 +1,163 @@
+{
+  "name": "Fluenccy",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "embedded-software",
+      "image_id": "c8f63fd9d8ca4b06bd4e91d86bcd492b",
+      "uuid": "045d1f34-7440-b8d9-52f7-ca59d77c946b",
+      "entity_def_id": "category",
+      "value": "Embedded Software"
+    },
+    {
+      "permalink": "embedded-systems",
+      "image_id": "39aeed5b2a774a5c8876a50cf4b3c8a0",
+      "uuid": "1c946581-f37e-36e2-913f-b660b45448fe",
+      "entity_def_id": "category",
+      "value": "Embedded Systems"
+    },
+    {
+      "permalink": "financial-exchanges",
+      "image_id": "1633742b7e0f44b2b39331dde80294ef",
+      "uuid": "50f7f0b8-21a5-22e3-20ff-34c02396a047",
+      "entity_def_id": "category",
+      "value": "Financial Exchanges"
+    },
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "fintech-e067",
+      "image_id": "965ded32ecc54a209f6ec2f500b3b4de",
+      "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+      "entity_def_id": "category",
+      "value": "FinTech"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9263210256653458,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://fluenccy.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://fluenccy.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://fluenccy.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/fluenccy",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://fluenccy.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://fluenccy.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://fluenccy.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

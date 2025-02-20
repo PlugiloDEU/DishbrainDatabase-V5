@@ -1,0 +1,156 @@
+{
+  "name": "NutritionPro",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "dietary-supplements",
+      "image_id": "e3eb70413ca940abb3dd0d3fcef8a87c",
+      "uuid": "a5194b80-118a-af3e-db95-665fd12f2474",
+      "entity_def_id": "category",
+      "value": "Dietary Supplements"
+    },
+    {
+      "permalink": "food-delivery",
+      "image_id": "87d419824ce948d09ab9c9ae793f15d9",
+      "uuid": "62bac433-ee68-7075-c47e-c9efc0d3c0aa",
+      "entity_def_id": "category",
+      "value": "Food Delivery"
+    },
+    {
+      "permalink": "health-care",
+      "image_id": "b981912d44894c3899748497fd087b16",
+      "uuid": "3f21415b-5784-6be6-3722-eb189190b7cd",
+      "entity_def_id": "category",
+      "value": "Health Care"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "nutrition-654b",
+      "image_id": "d95a0b7d59d7456d981ccd3a1dad66eb",
+      "uuid": "654b60a6-b105-fc40-2295-88a9a7dab2f5",
+      "entity_def_id": "category",
+      "value": "Nutrition"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "subscription-service",
+      "image_id": "fa9df625fc5046148497ca5e8052adb9",
+      "uuid": "0cba6371-b9f7-0197-257e-0273e6da0b22",
+      "entity_def_id": "category",
+      "value": "Subscription Service"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8620093479448504,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://nutritionpro.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://nutritionpro.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://nutritionpro.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/nutritionpro",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://nutritionpro.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://nutritionpro.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://nutritionpro.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

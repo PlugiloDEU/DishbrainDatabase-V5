@@ -1,0 +1,177 @@
+{
+  "name": "WorkPilots",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "enterprise-resource-planning-erp",
+      "image_id": "b4cadfde060845d1a34e597b7e8d34d0",
+      "uuid": "9c8cd193-3019-4b85-0080-258e4a807e29",
+      "entity_def_id": "category",
+      "value": "Enterprise Resource Planning (ERP)"
+    },
+    {
+      "permalink": "freelance",
+      "image_id": "f03a5cc7998845fd927364e3cb11fec6",
+      "uuid": "1aca2f92-84f3-dbd6-5a5e-f6506cbdb1d9",
+      "entity_def_id": "category",
+      "value": "Freelance"
+    },
+    {
+      "permalink": "human-resources",
+      "image_id": "526de0f29ce74cfe82b3e30c31eb52da",
+      "uuid": "92deb86b-de05-53d4-e1f9-39658c12d2da",
+      "entity_def_id": "category",
+      "value": "Human Resources"
+    },
+    {
+      "permalink": "mobile-apps",
+      "image_id": "5d6e8733e81547d9b5c2beb7cdff60bc",
+      "uuid": "78f709ae-d8fb-cd28-218a-f090789f628f",
+      "entity_def_id": "category",
+      "value": "Mobile Apps"
+    },
+    {
+      "permalink": "outsourcing-59ca",
+      "image_id": "a112085facbb42189fb0cbfbf9926b59",
+      "uuid": "59ca1fa9-cc20-7f84-3c52-a6cee0ffe4a8",
+      "entity_def_id": "category",
+      "value": "Outsourcing"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "sharing-economy",
+      "image_id": "3966128a44724e72916fb14be83d8ea1",
+      "uuid": "e69d7dbc-b29e-a56f-6dfa-f664b545fd29",
+      "entity_def_id": "category",
+      "value": "Sharing Economy"
+    },
+    {
+      "permalink": "social-impact-bf5c",
+      "image_id": "9e999199d9b14dafb43fd97a2298de6e",
+      "uuid": "bf5c955e-6f68-da36-e502-1d3962c28325",
+      "entity_def_id": "category",
+      "value": "Social Impact"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "trading-platform",
+      "image_id": "da60f354bbeb438b970d650aa8d87e12",
+      "uuid": "367f9cec-51a7-8561-3d3a-4f8855fd5c46",
+      "entity_def_id": "category",
+      "value": "Trading Platform"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9160857120930191,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://workpilots.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://workpilots.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://workpilots.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/workpilots",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://workpilots.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://workpilots.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://workpilots.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

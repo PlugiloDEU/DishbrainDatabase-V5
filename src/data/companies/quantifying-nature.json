@@ -1,0 +1,163 @@
+{
+  "name": "Quantifying Nature",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "b2b",
+      "image_id": "2aff7713fe444aacbd021863c54dcf38",
+      "uuid": "d818cc40-e0a2-aac2-84da-aeaa3dfeacc0",
+      "entity_def_id": "category",
+      "value": "B2B"
+    },
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "geospatial-aac4",
+      "image_id": "9b8a0acfc94745e284549868d044d893",
+      "uuid": "aac4d736-66bd-2327-7701-1416bf43695c",
+      "entity_def_id": "category",
+      "value": "Geospatial"
+    },
+    {
+      "permalink": "greentech",
+      "image_id": "9e2144e5b0a345d48746fbc97cee8914",
+      "uuid": "2103f7b8-4229-3d5c-408a-66426df21e95",
+      "entity_def_id": "category",
+      "value": "GreenTech"
+    },
+    {
+      "permalink": "natural-language-processing",
+      "image_id": "81cfc38feb1a47878d8b160476c4144a",
+      "uuid": "789bbbef-c46e-1532-a68d-f17da87090ea",
+      "entity_def_id": "category",
+      "value": "Natural Language Processing"
+    },
+    {
+      "permalink": "natural-resources",
+      "image_id": "23c999ed64704a4c874c4a6ac25fc700",
+      "uuid": "982fba85-05b9-7702-8a4e-518424a489ca",
+      "entity_def_id": "category",
+      "value": "Natural Resources"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "sustainability-e391",
+      "image_id": "24a413b1f7f142aca99fb9cd1f39903b",
+      "uuid": "e391c491-c09d-a04e-b5b6-57aa8b8d0fc6",
+      "entity_def_id": "category",
+      "value": "Sustainability"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8511317624887389,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://quantifyingnature.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://quantifyingnature.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://quantifyingnature.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/quantifying-nature",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://quantifyingnature.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://quantifyingnature.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://quantifyingnature.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Greenbird Integration Technology",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "big-data",
+      "image_id": "bd25cc4d6e034a81b2f01a812cc8387d",
+      "uuid": "c33728a5-de33-d0da-7bce-0e3c4383bc99",
+      "entity_def_id": "category",
+      "value": "Big Data"
+    },
+    {
+      "permalink": "energy-efficiency",
+      "image_id": "842fb09b58154a009c0dc2e9387665b9",
+      "uuid": "e643b268-4da3-8a4a-c1ff-ae941d27b779",
+      "entity_def_id": "category",
+      "value": "Energy Efficiency"
+    },
+    {
+      "permalink": "energy-management",
+      "image_id": "695b9831c9754b8389d3601635c8c7d0",
+      "uuid": "3d95d448-d63e-c411-769b-9aa1321cc7a6",
+      "entity_def_id": "category",
+      "value": "Energy Management"
+    },
+    {
+      "permalink": "internet-of-things-ed3a",
+      "image_id": "19bb1bd789294bea9d985b400fad1c01",
+      "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+      "entity_def_id": "category",
+      "value": "Internet of Things"
+    },
+    {
+      "permalink": "power-grid",
+      "image_id": "3abcb8c4a3c64925bee6ade17ca27b33",
+      "uuid": "ef901c9f-de7f-7411-3d79-0f62c6b22e44",
+      "entity_def_id": "category",
+      "value": "Power Grid"
+    },
+    {
+      "permalink": "renewable-energy",
+      "image_id": "7e7312d80f24449a8429800e94adeac8",
+      "uuid": "e531be19-46aa-fb4e-354e-79b05ae1802a",
+      "entity_def_id": "category",
+      "value": "Renewable Energy"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "smart-cities",
+      "image_id": "0341bf9f35f94d8b9c4bd913e261a756",
+      "uuid": "ce11fd97-65a0-4f8c-b385-2ca48f444479",
+      "entity_def_id": "category",
+      "value": "Smart Cities"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9108598020764269,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://greenbirdintegrationtechnology.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://greenbirdintegrationtechnology.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://greenbirdintegrationtechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/greenbird-integration-technology",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://greenbirdintegrationtechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://greenbirdintegrationtechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://greenbirdintegrationtechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

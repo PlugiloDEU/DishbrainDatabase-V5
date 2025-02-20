@@ -1,0 +1,177 @@
+{
+  "name": "droppGroup",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "augmented-reality",
+      "image_id": "71ae97fe7f334e6692aa96ee4e103e25",
+      "uuid": "89b9e37a-0dcb-a76e-0816-b69d9b54279c",
+      "entity_def_id": "category",
+      "value": "Augmented Reality"
+    },
+    {
+      "permalink": "cryptocurrency",
+      "image_id": "db53be9ffa4641589490abaae3852dd8",
+      "uuid": "bd082f4d-45d1-0de3-0371-bb6e02d5f0e8",
+      "entity_def_id": "category",
+      "value": "Cryptocurrency"
+    },
+    {
+      "permalink": "e-commerce-275d",
+      "image_id": "549a838b94a34ba9820468c910cf40f3",
+      "uuid": "275ddcbc-27de-ff4f-4e50-6dc26ebf9570",
+      "entity_def_id": "category",
+      "value": "E-Commerce"
+    },
+    {
+      "permalink": "gaming",
+      "image_id": "86268c2b0c3f4ba69b2110597fed2d75",
+      "uuid": "dd1ef133-8ee8-088c-bbe1-bdf22241358f",
+      "entity_def_id": "category",
+      "value": "Gaming"
+    },
+    {
+      "permalink": "media-and-entertainment",
+      "image_id": "5b198f953ddc491ca9a1029778c2057e",
+      "uuid": "78b58810-ad58-a623-2a80-2a0e3603a544",
+      "entity_def_id": "category",
+      "value": "Media and Entertainment"
+    },
+    {
+      "permalink": "retail",
+      "image_id": "2ec04bee09ac460992ea180f967d8106",
+      "uuid": "b65acba5-b299-3990-6390-8be3e3833a07",
+      "entity_def_id": "category",
+      "value": "Retail"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "virtual-reality",
+      "image_id": "83289c24275a4b098f6d0a6ae680b3df",
+      "uuid": "f4709705-7bad-8cbf-0fda-c126de9c2fcd",
+      "entity_def_id": "category",
+      "value": "Virtual Reality"
+    },
+    {
+      "permalink": "virtual-world-2d1a",
+      "image_id": "1222cf76db7f4c75949bff57af02d4c4",
+      "uuid": "2d1ad8b1-e01b-f4ea-70be-41c43a4ec269",
+      "entity_def_id": "category",
+      "value": "Virtual World"
+    },
+    {
+      "permalink": "web3-34b4",
+      "image_id": "1b69abb7ca274e589e8d599556dd8bc9",
+      "uuid": "fcab1025-3a03-42ab-8c65-c01d37ec3466",
+      "entity_def_id": "category",
+      "value": "Web3"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9205733837962305,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://droppgroup.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://droppgroup.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://droppgroup.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/droppgroup",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://droppgroup.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://droppgroup.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://droppgroup.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

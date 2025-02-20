@@ -1,0 +1,163 @@
+{
+  "name": "Yapoli",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "asset-management",
+      "image_id": "e2561d0980fa4319b560f47c7ecc81a8",
+      "uuid": "d8cda5ae-af47-b0d1-4a9c-aec87289adc0",
+      "entity_def_id": "category",
+      "value": "Asset Management"
+    },
+    {
+      "permalink": "big-data",
+      "image_id": "bd25cc4d6e034a81b2f01a812cc8387d",
+      "uuid": "c33728a5-de33-d0da-7bce-0e3c4383bc99",
+      "entity_def_id": "category",
+      "value": "Big Data"
+    },
+    {
+      "permalink": "cloud-computing",
+      "image_id": "67c1968d91be4db984e28ed6edd9f633",
+      "uuid": "7866a1c0-21ec-241c-c2a6-d263a6ef49dd",
+      "entity_def_id": "category",
+      "value": "Cloud Computing"
+    },
+    {
+      "permalink": "computer-vision",
+      "image_id": "21e6f0e137444bdd8bc26833b0eb3c40",
+      "uuid": "a69e7c2b-5a12-d999-e85e-a0da5f05b3d3",
+      "entity_def_id": "category",
+      "value": "Computer Vision"
+    },
+    {
+      "permalink": "digital-media-2f47",
+      "image_id": "afd8eaeb54c74db7ac8805674159abaf",
+      "uuid": "2f47ba93-33d3-61fe-de89-0fe8a4a8366b",
+      "entity_def_id": "category",
+      "value": "Digital Media"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "marketing-automation",
+      "image_id": "24c960a143f84e918ecfeba5225e5241",
+      "uuid": "be21aa9f-99cd-0379-b746-899e0ec7e0fd",
+      "entity_def_id": "category",
+      "value": "Marketing Automation"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8961942365518415,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://yapoli.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://yapoli.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://yapoli.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/yapoli",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://yapoli.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://yapoli.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://yapoli.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

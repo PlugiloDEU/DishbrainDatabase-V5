@@ -1,0 +1,177 @@
+{
+  "name": "Curate Labs",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "building-maintenance",
+      "image_id": "b5c4cc55170844ff843bcc55542e9db7",
+      "uuid": "c8f25333-db94-e96e-5a93-ac4912be67a1",
+      "entity_def_id": "category",
+      "value": "Building Maintenance"
+    },
+    {
+      "permalink": "edtech",
+      "image_id": "aeaaa48c3168401cb472ec6a70356d5a",
+      "uuid": "245880f2-a61a-0ea2-cf81-306964716611",
+      "entity_def_id": "category",
+      "value": "EdTech"
+    },
+    {
+      "permalink": "generative-ai",
+      "image_id": "c1ecf22becf54352901f6583f1d7ad49",
+      "uuid": "8314a534-8f18-4ee0-869b-05bc6e46258e",
+      "entity_def_id": "category",
+      "value": "Generative AI"
+    },
+    {
+      "permalink": "hvac-3a4a",
+      "image_id": "cef848b8a11a4f3abca5d7ee994a81c3",
+      "uuid": "f0d0fdca-da4e-4a72-a63f-ac7fd4aed1ca",
+      "entity_def_id": "category",
+      "value": "Heating, Ventilation, and Air Conditioning (HVAC)"
+    },
+    {
+      "permalink": "home-services",
+      "image_id": "70dff9245ab74385b7b264c9da702da1",
+      "uuid": "575b22d6-f4d8-abba-90b2-92bd25ff2ad2",
+      "entity_def_id": "category",
+      "value": "Home Services"
+    },
+    {
+      "permalink": "productivity-tools",
+      "image_id": "c665bfc24f2f44dfb7f0be3b9b901d22",
+      "uuid": "f55dc7f6-6a38-750c-333b-c265f3761fe1",
+      "entity_def_id": "category",
+      "value": "Productivity Tools"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "solar-c3d5",
+      "image_id": "0c029f77b60f4e03a4e8049fd20b1f35",
+      "uuid": "c3d5f46f-0a9d-cfdc-a44a-4cc6a13fe804",
+      "entity_def_id": "category",
+      "value": "Solar"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9127328059216128,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://curatelabs.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://curatelabs.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://curatelabs.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/curate-labs",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://curatelabs.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://curatelabs.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://curatelabs.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

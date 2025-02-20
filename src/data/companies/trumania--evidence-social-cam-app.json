@@ -1,0 +1,177 @@
+{
+  "name": "Trumania: Evidence Social Cam App",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "auto-insurance",
+      "image_id": "aa5f60c4d1514ef7ad52ceb60159e8a1",
+      "uuid": "49f88f02-6018-cdea-a366-abef5d02d8a2",
+      "entity_def_id": "category",
+      "value": "Auto Insurance"
+    },
+    {
+      "permalink": "banking",
+      "image_id": "2d9d900a0b6a4ea7ad4e3728a6ca9d36",
+      "uuid": "68250c3a-6cf5-86fb-281e-9072ae2d4fe8",
+      "entity_def_id": "category",
+      "value": "Banking"
+    },
+    {
+      "permalink": "construction",
+      "image_id": "2bdf77b7fa3b4a23b8cd4efde324c254",
+      "uuid": "e4d83fbb-33f0-a6f0-1399-a68245e8f8ac",
+      "entity_def_id": "category",
+      "value": "Construction"
+    },
+    {
+      "permalink": "e-commerce-275d",
+      "image_id": "549a838b94a34ba9820468c910cf40f3",
+      "uuid": "275ddcbc-27de-ff4f-4e50-6dc26ebf9570",
+      "entity_def_id": "category",
+      "value": "E-Commerce"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "insurance",
+      "image_id": "59ffb5fcd6274ae59184803429a448a1",
+      "uuid": "b8ca872c-983d-f8dd-3639-2660511203ef",
+      "entity_def_id": "category",
+      "value": "Insurance"
+    },
+    {
+      "permalink": "law-enforcement",
+      "image_id": "92790bd4a415430ea4791e12b980e47c",
+      "uuid": "98de1ee2-4c3b-be26-0f7b-46fddbbfe76d",
+      "entity_def_id": "category",
+      "value": "Law Enforcement"
+    },
+    {
+      "permalink": "medical",
+      "image_id": "c207a91c993644f5aa1ccb7ae28a501b",
+      "uuid": "9126275d-d470-1524-02f4-93d481721a6e",
+      "entity_def_id": "category",
+      "value": "Medical"
+    },
+    {
+      "permalink": "property-insurance",
+      "image_id": "198dc4891c854c448927b331f1b68c8d",
+      "uuid": "66c636ea-a20c-cc61-fb12-73dce804788e",
+      "entity_def_id": "category",
+      "value": "Property Insurance"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9122667445422087,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://trumania:evidencesocialcamapp.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://trumania:evidencesocialcamapp.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://trumania:evidencesocialcamapp.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/trumania:-evidence-social-cam-app",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://trumania:evidencesocialcamapp.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://trumania:evidencesocialcamapp.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://trumania:evidencesocialcamapp.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

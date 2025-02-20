@@ -1,0 +1,177 @@
+{
+  "name": "EasySend",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "customer-service",
+      "image_id": "59459ac4fce44f9e95b1a18121e37f22",
+      "uuid": "fb98376c-283a-7d36-fd3e-65d036d7ef2a",
+      "entity_def_id": "category",
+      "value": "Customer Service"
+    },
+    {
+      "permalink": "document-management",
+      "image_id": "be935d0d28774dc597efd4d452166f5f",
+      "uuid": "5d591be4-ff96-01a7-0493-183606afe26d",
+      "entity_def_id": "category",
+      "value": "Document Management"
+    },
+    {
+      "permalink": "finance",
+      "image_id": "8a6f77a3498a4651ba8166e32ebe43a6",
+      "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+      "entity_def_id": "category",
+      "value": "Finance"
+    },
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "fintech-e067",
+      "image_id": "965ded32ecc54a209f6ec2f500b3b4de",
+      "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+      "entity_def_id": "category",
+      "value": "FinTech"
+    },
+    {
+      "permalink": "insurance",
+      "image_id": "59ffb5fcd6274ae59184803429a448a1",
+      "uuid": "b8ca872c-983d-f8dd-3639-2660511203ef",
+      "entity_def_id": "category",
+      "value": "Insurance"
+    },
+    {
+      "permalink": "insurtech",
+      "image_id": "b68ade0967bc4aa1a3c4e8ece0141b6f",
+      "uuid": "e33cac20-55b4-a943-e64a-7fc37a3d2ca3",
+      "entity_def_id": "category",
+      "value": "InsurTech"
+    },
+    {
+      "permalink": "internet",
+      "image_id": "920e060f0da2433f86a0848520dad911",
+      "uuid": "2772a539-e636-09dc-30dc-b1a7deb98d0e",
+      "entity_def_id": "category",
+      "value": "Internet"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.897599088809601,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://easysend.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://easysend.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://easysend.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/easysend",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://easysend.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://easysend.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://easysend.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

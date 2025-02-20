@@ -1,0 +1,170 @@
+{
+  "name": "Wibbitz",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "creative-agency",
+      "image_id": "c3874c0e85bf496abfe5c3b0699d1035",
+      "uuid": "6cccdcbd-26dd-4d3a-a278-568f9ae5ed8c",
+      "entity_def_id": "category",
+      "value": "Creative Agency"
+    },
+    {
+      "permalink": "digital-marketing-9bff",
+      "image_id": "f68af5649b6d498bbce2891cf8128fcc",
+      "uuid": "9bff86a3-0dc8-1420-9a63-3b86f51d2f36",
+      "entity_def_id": "category",
+      "value": "Digital Marketing"
+    },
+    {
+      "permalink": "internet",
+      "image_id": "920e060f0da2433f86a0848520dad911",
+      "uuid": "2772a539-e636-09dc-30dc-b1a7deb98d0e",
+      "entity_def_id": "category",
+      "value": "Internet"
+    },
+    {
+      "permalink": "marketing-2795",
+      "image_id": "3285b5a2f4b14c1e9bd65d7f3797d35f",
+      "uuid": "2795f8fd-4718-3f8f-7513-5391ab707c90",
+      "entity_def_id": "category",
+      "value": "Marketing"
+    },
+    {
+      "permalink": "publishing",
+      "image_id": "6ae89fcbf66f45b49c86e2b57e7ebeb8",
+      "uuid": "5c362e08-2d00-f3b4-ca60-584bfcc4e72f",
+      "entity_def_id": "category",
+      "value": "Publishing"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "social-media",
+      "image_id": "e4729cb24a0d462782f19ba2db017b61",
+      "uuid": "5349a2f2-14d8-9727-c32a-19ebea5db78c",
+      "entity_def_id": "category",
+      "value": "Social Media"
+    },
+    {
+      "permalink": "video",
+      "image_id": "bb8173e0770f4eba93f9ead891c9ad2c",
+      "uuid": "c6adf822-7fa3-c0b3-5188-556e08d72128",
+      "entity_def_id": "category",
+      "value": "Video"
+    },
+    {
+      "permalink": "video-editing",
+      "image_id": "581d7c40521e4f2d8736cf381a529017",
+      "uuid": "0982d9e2-a0bc-a98e-db02-20b18c8b036a",
+      "entity_def_id": "category",
+      "value": "Video Editing"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9221501230348913,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://wibbitz.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://wibbitz.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://wibbitz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/wibbitz",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://wibbitz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://wibbitz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://wibbitz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

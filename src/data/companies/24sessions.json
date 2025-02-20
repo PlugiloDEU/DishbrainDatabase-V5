@@ -1,0 +1,170 @@
+{
+  "name": "24sessions",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "advice",
+      "image_id": "7ac97ad1fde147e49f8306d5968fd65e",
+      "uuid": "c9461eef-9ba2-cb92-0d05-2d2d5f85141c",
+      "entity_def_id": "category",
+      "value": "Advice"
+    },
+    {
+      "permalink": "b2b",
+      "image_id": "2aff7713fe444aacbd021863c54dcf38",
+      "uuid": "d818cc40-e0a2-aac2-84da-aeaa3dfeacc0",
+      "entity_def_id": "category",
+      "value": "B2B"
+    },
+    {
+      "permalink": "communications-infrastructure",
+      "image_id": "1d7a2176ffaf4b5ca559b78b76b9e02f",
+      "uuid": "f283d492-b4e4-703f-1270-783173e63eef",
+      "entity_def_id": "category",
+      "value": "Communications Infrastructure"
+    },
+    {
+      "permalink": "consulting",
+      "image_id": "a4f338d678674ed9afb305d2460c9740",
+      "uuid": "b9bd65b9-20bf-45cc-207d-b70ac35d5bf4",
+      "entity_def_id": "category",
+      "value": "Consulting"
+    },
+    {
+      "permalink": "messaging-8c62",
+      "image_id": "a70eae552fc24ea79c59a75360a8c3fd",
+      "uuid": "8c6239bf-6854-494b-1a16-e4f7a286dbd5",
+      "entity_def_id": "category",
+      "value": "Messaging"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "video",
+      "image_id": "bb8173e0770f4eba93f9ead891c9ad2c",
+      "uuid": "c6adf822-7fa3-c0b3-5188-556e08d72128",
+      "entity_def_id": "category",
+      "value": "Video"
+    },
+    {
+      "permalink": "video-conferencing",
+      "image_id": "eaeffa8b6091419392fc931794aa1877",
+      "uuid": "dddb9b25-2585-b348-f887-90a8c0fc4e0f",
+      "entity_def_id": "category",
+      "value": "Video Conferencing"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9256547766611966,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://24sessions.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://24sessions.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://24sessions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/24sessions",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://24sessions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://24sessions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://24sessions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

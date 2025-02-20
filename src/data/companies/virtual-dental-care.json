@@ -1,0 +1,170 @@
+{
+  "name": "Virtual Dental Care",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "dental",
+      "image_id": "08981824bc89433695fd572f8865f202",
+      "uuid": "da2d8638-5b11-da4b-129c-a7c7f2cd4e55",
+      "entity_def_id": "category",
+      "value": "Dental"
+    },
+    {
+      "permalink": "health-care",
+      "image_id": "b981912d44894c3899748497fd087b16",
+      "uuid": "3f21415b-5784-6be6-3722-eb189190b7cd",
+      "entity_def_id": "category",
+      "value": "Health Care"
+    },
+    {
+      "permalink": "medical",
+      "image_id": "c207a91c993644f5aa1ccb7ae28a501b",
+      "uuid": "9126275d-d470-1524-02f4-93d481721a6e",
+      "entity_def_id": "category",
+      "value": "Medical"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "telecommunications",
+      "image_id": "0424a31abde04b22a25b30b3be0dd4bc",
+      "uuid": "e12cc7de-d276-007e-7d89-bdf3f8d1ffe7",
+      "entity_def_id": "category",
+      "value": "Telecommunications"
+    },
+    {
+      "permalink": "video-conferencing",
+      "image_id": "eaeffa8b6091419392fc931794aa1877",
+      "uuid": "dddb9b25-2585-b348-f887-90a8c0fc4e0f",
+      "entity_def_id": "category",
+      "value": "Video Conferencing"
+    },
+    {
+      "permalink": "virtual-assistant",
+      "image_id": "b836f92a53a84f75b72b01cf72927c66",
+      "uuid": "2eb0b56b-6896-e0f0-545f-c747a9ba6751",
+      "entity_def_id": "category",
+      "value": "Virtual Assistant"
+    },
+    {
+      "permalink": "wellness",
+      "image_id": "cbb46d3af8d74d7eacca9e2008734c9c",
+      "uuid": "c466550b-b161-0646-3049-0045fae01b18",
+      "entity_def_id": "category",
+      "value": "Wellness"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9271374270593828,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://virtualdentalcare.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://virtualdentalcare.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://virtualdentalcare.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/virtual-dental-care",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://virtualdentalcare.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://virtualdentalcare.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://virtualdentalcare.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

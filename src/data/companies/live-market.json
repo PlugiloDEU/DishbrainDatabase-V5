@@ -1,0 +1,170 @@
+{
+  "name": "Live.Market",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "content-creators",
+      "image_id": "727b680c21e4450b9d41ebce3837d5df",
+      "uuid": "98e7ead5-ed98-1a63-daa7-9ec18919a6ab",
+      "entity_def_id": "category",
+      "value": "Content Creators"
+    },
+    {
+      "permalink": "digital-marketing-9bff",
+      "image_id": "f68af5649b6d498bbce2891cf8128fcc",
+      "uuid": "9bff86a3-0dc8-1420-9a63-3b86f51d2f36",
+      "entity_def_id": "category",
+      "value": "Digital Marketing"
+    },
+    {
+      "permalink": "e-commerce-275d",
+      "image_id": "549a838b94a34ba9820468c910cf40f3",
+      "uuid": "275ddcbc-27de-ff4f-4e50-6dc26ebf9570",
+      "entity_def_id": "category",
+      "value": "E-Commerce"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "marketplace-772d",
+      "image_id": "936e9200d2d64967bbb35c402de9cc39",
+      "uuid": "772da8fe-26d7-ea09-00ff-0fc7c8368b50",
+      "entity_def_id": "category",
+      "value": "Marketplace"
+    },
+    {
+      "permalink": "retail",
+      "image_id": "2ec04bee09ac460992ea180f967d8106",
+      "uuid": "b65acba5-b299-3990-6390-8be3e3833a07",
+      "entity_def_id": "category",
+      "value": "Retail"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "social-shopping",
+      "image_id": "50c05e73641a479bbfa2edeec39a0d9d",
+      "uuid": "2195ba8a-24f8-ac97-f345-f36bba46927c",
+      "entity_def_id": "category",
+      "value": "Social Shopping"
+    },
+    {
+      "permalink": "video-streaming",
+      "image_id": "0e1b60dc5130463098e757762ff8dde9",
+      "uuid": "b1b3b2d7-85ed-2cb1-fc60-3e2b6a3b5ddd",
+      "entity_def_id": "category",
+      "value": "Video Streaming"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8784647395938763,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://live.market.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://live.market.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://live.market.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/live.market",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://live.market.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://live.market.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://live.market.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "name": "Synaps",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "architecture",
+      "image_id": "e081b46710cc48208e4134d3f7c767af",
+      "uuid": "dd09c747-194a-1304-b2ba-c467be9226c8",
+      "entity_def_id": "category",
+      "value": "Architecture"
+    },
+    {
+      "permalink": "collaboration",
+      "image_id": "e611fc96e62041e7ac0254b131d99f84",
+      "uuid": "217f63af-2e8f-9978-085b-262592840759",
+      "entity_def_id": "category",
+      "value": "Collaboration"
+    },
+    {
+      "permalink": "interior-design",
+      "image_id": "89a0bbcd02514091982cf77d8f7244fa",
+      "uuid": "9670a37a-fb55-d2e8-d6fc-b4d85c2e7eb3",
+      "entity_def_id": "category",
+      "value": "Interior Design"
+    },
+    {
+      "permalink": "proptech-d405",
+      "image_id": "dcf3ad9fbf724338bf10a6224ab4e019",
+      "uuid": "dbc1dbfc-3665-4334-af9b-04cd1c990144",
+      "entity_def_id": "category",
+      "value": "PropTech"
+    },
+    {
+      "permalink": "real-estate",
+      "image_id": "1e3979791bcd42a38803a47525fc8056",
+      "uuid": "a326e225-acb8-f9c0-abfe-609a82b71965",
+      "entity_def_id": "category",
+      "value": "Real Estate"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8673249055192107,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://synaps.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://synaps.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://synaps.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/synaps",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://synaps.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://synaps.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://synaps.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

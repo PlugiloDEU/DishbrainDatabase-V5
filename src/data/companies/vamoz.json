@@ -1,0 +1,149 @@
+{
+  "name": "Vamoz",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "b2b",
+      "image_id": "2aff7713fe444aacbd021863c54dcf38",
+      "uuid": "d818cc40-e0a2-aac2-84da-aeaa3dfeacc0",
+      "entity_def_id": "category",
+      "value": "B2B"
+    },
+    {
+      "permalink": "compliance-da6d",
+      "image_id": "4a52bf6fe4bd4f769f137f6ce5fac80d",
+      "uuid": "da6d4d3b-2911-c612-8350-008181ea1033",
+      "entity_def_id": "category",
+      "value": "Compliance"
+    },
+    {
+      "permalink": "employee-benefits",
+      "image_id": "7c1e4b7c3322474d84a606457a11071a",
+      "uuid": "14f97695-c4eb-c348-d373-5863c4b4798a",
+      "entity_def_id": "category",
+      "value": "Employee Benefits"
+    },
+    {
+      "permalink": "human-resources",
+      "image_id": "526de0f29ce74cfe82b3e30c31eb52da",
+      "uuid": "92deb86b-de05-53d4-e1f9-39658c12d2da",
+      "entity_def_id": "category",
+      "value": "Human Resources"
+    },
+    {
+      "permalink": "legal-tech",
+      "image_id": "29c387cee00b40c99aaa2b656bbee933",
+      "uuid": "3fb898d3-4b96-418e-a58e-eaff8295e182",
+      "entity_def_id": "category",
+      "value": "Legal Tech"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9041613425109417,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://vamoz.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://vamoz.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://vamoz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/vamoz",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://vamoz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://vamoz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://vamoz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

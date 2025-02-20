@@ -1,0 +1,149 @@
+{
+  "name": "meter.me",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "agtech",
+      "image_id": "8c9a34f0959e40c3b75df7933f47fed2",
+      "uuid": "fa736a2c-3108-8e06-9adf-fb7a75744f5b",
+      "entity_def_id": "category",
+      "value": "AgTech"
+    },
+    {
+      "permalink": "hardware",
+      "image_id": "4d034f01b65848a3afef132ad74bafaf",
+      "uuid": "bf395a9a-618c-0264-3a2b-b18d8dc56fff",
+      "entity_def_id": "category",
+      "value": "Hardware"
+    },
+    {
+      "permalink": "industrial-automation",
+      "image_id": "8a4ecafe5847461194712023cd5227a9",
+      "uuid": "f9e27700-8504-b203-6b23-606fb32d1449",
+      "entity_def_id": "category",
+      "value": "Industrial Automation"
+    },
+    {
+      "permalink": "internet-of-things-ed3a",
+      "image_id": "19bb1bd789294bea9d985b400fad1c01",
+      "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+      "entity_def_id": "category",
+      "value": "Internet of Things"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "water",
+      "image_id": "8ba3590b3e49475588ffe7462f6e2c54",
+      "uuid": "1efce900-8f68-4c05-f18b-aa6ee273dcde",
+      "entity_def_id": "category",
+      "value": "Water"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8959360639083035,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://meter.me.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://meter.me.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://meter.me.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/meter.me",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://meter.me.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://meter.me.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://meter.me.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

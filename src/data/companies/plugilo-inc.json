@@ -136,5 +136,114 @@
     "Telecommunications",
     "Computer",
     "B2B"
-  ]
+  ],
+  "image_url": "https://logo.clearbit.com/plugilo.com",
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://plugiloinc.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://plugiloinc.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://plugiloinc.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/plugilo-inc",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {
+      "Digital Content Store": {
+        "url": "https://plugiloinc.com/products/digital-content-store",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "AI-powered chatbot": {
+        "url": "https://plugiloinc.com/products/ai-powered-chatbot",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "AI-powered image analysis tool": {
+        "url": "https://plugiloinc.com/products/ai-powered-image-analysis-tool",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "AI-powered predictive analytics platform": {
+        "url": "https://plugiloinc.com/products/ai-powered-predictive-analytics-platform",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://plugiloinc.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://plugiloinc.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://plugiloinc.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/plugilo/",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "https://twitter.com/plugilo",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "https://www.facebook.com/plugilo/",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": {
+      "url": "https://logo.clearbit.com/plugilo.com",
+      "license": "Clearbit Logo API",
+      "author": "Clearbit",
+      "verified": true,
+      "last_checked": "2025-02-20"
+    }
+  },
+  "data_quality": {
+    "completeness": 0.9307842405048019,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "verified": true,
+  "verification_source": "human",
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": ""
 }

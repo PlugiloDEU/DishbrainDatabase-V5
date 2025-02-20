@@ -1,0 +1,177 @@
+{
+  "name": "ONDA",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "asset-management",
+      "image_id": "e2561d0980fa4319b560f47c7ecc81a8",
+      "uuid": "d8cda5ae-af47-b0d1-4a9c-aec87289adc0",
+      "entity_def_id": "category",
+      "value": "Asset Management"
+    },
+    {
+      "permalink": "b2b",
+      "image_id": "2aff7713fe444aacbd021863c54dcf38",
+      "uuid": "d818cc40-e0a2-aac2-84da-aeaa3dfeacc0",
+      "entity_def_id": "category",
+      "value": "B2B"
+    },
+    {
+      "permalink": "b2c",
+      "image_id": "d2bf1901674b4328ad114d69a3304acc",
+      "uuid": "2da9e9ae-e433-7d18-2e1b-4395d0cb14f4",
+      "entity_def_id": "category",
+      "value": "B2C"
+    },
+    {
+      "permalink": "cms",
+      "image_id": "4d78d3b49efe48f2818eab75503183ad",
+      "uuid": "4a52ad36-3a7e-1a14-8bb9-890aeb21f8c8",
+      "entity_def_id": "category",
+      "value": "CMS"
+    },
+    {
+      "permalink": "management-consulting",
+      "image_id": "49f24ffba7c14d8a88444cf1320d9229",
+      "uuid": "7a6d8aad-7b87-534a-7f5d-c1766c2cd33f",
+      "entity_def_id": "category",
+      "value": "Management Consulting"
+    },
+    {
+      "permalink": "property-management",
+      "image_id": "aab2fc738c234ba79f99d9515117e0a7",
+      "uuid": "c8e6b95f-80d9-bf15-ab7c-37a0e8f052c7",
+      "entity_def_id": "category",
+      "value": "Property Management"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "travel-accommodations",
+      "image_id": "0f5a8cb7230f455b894c643f4d756338",
+      "uuid": "88eb1c13-adf5-8728-df29-0590a0ce0ab8",
+      "entity_def_id": "category",
+      "value": "Travel Accommodations"
+    },
+    {
+      "permalink": "vacation-rental",
+      "image_id": "db50b9d8487b46238e9365d4b4481b9a",
+      "uuid": "0fa1b481-b75a-c22d-b2cb-48caf1bf995a",
+      "entity_def_id": "category",
+      "value": "Vacation Rental"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9482673444432324,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://onda.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://onda.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://onda.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/onda",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://onda.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://onda.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://onda.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

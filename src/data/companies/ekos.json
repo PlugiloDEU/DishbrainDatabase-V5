@@ -1,0 +1,163 @@
+{
+  "name": "Ekos",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "asset-management",
+      "image_id": "e2561d0980fa4319b560f47c7ecc81a8",
+      "uuid": "d8cda5ae-af47-b0d1-4a9c-aec87289adc0",
+      "entity_def_id": "category",
+      "value": "Asset Management"
+    },
+    {
+      "permalink": "craft-beer",
+      "image_id": "a79b6ce954af45e286d11ee5c07ddf52",
+      "uuid": "3d91b7f7-78f6-2c44-e6ea-9a5e3e392f06",
+      "entity_def_id": "category",
+      "value": "Craft Beer"
+    },
+    {
+      "permalink": "enterprise-resource-planning-erp",
+      "image_id": "b4cadfde060845d1a34e597b7e8d34d0",
+      "uuid": "9c8cd193-3019-4b85-0080-258e4a807e29",
+      "entity_def_id": "category",
+      "value": "Enterprise Resource Planning (ERP)"
+    },
+    {
+      "permalink": "food-and-beverage",
+      "image_id": "98b425ac85b742e7ad2c3f1d4c824b32",
+      "uuid": "14364faa-63f9-0d45-7b6a-7378113364a2",
+      "entity_def_id": "category",
+      "value": "Food and Beverage"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "supply-chain-management",
+      "image_id": "e880c9c12f4a4fa9ad72493c71a86b18",
+      "uuid": "7ec4e4c8-a648-da5d-c02b-90a98c5ebfcf",
+      "entity_def_id": "category",
+      "value": "Supply Chain Management"
+    },
+    {
+      "permalink": "wine-and-spirits",
+      "image_id": "085a13f15ca6495893262d905cd7bdc5",
+      "uuid": "cbc36b3c-09fd-1e1f-7ac8-400a546de247",
+      "entity_def_id": "category",
+      "value": "Wine And Spirits"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9269596832257773,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://ekos.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://ekos.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://ekos.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/ekos",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://ekos.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://ekos.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://ekos.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "name": "NEXIVIL",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "civil-engineering",
+      "image_id": "709418cb7aba49249bb5228af76785bb",
+      "uuid": "d21c8107-c0c8-5ba2-a4cb-40a96d5d001c",
+      "entity_def_id": "category",
+      "value": "Civil Engineering"
+    },
+    {
+      "permalink": "construction",
+      "image_id": "2bdf77b7fa3b4a23b8cd4efde324c254",
+      "uuid": "e4d83fbb-33f0-a6f0-1399-a68245e8f8ac",
+      "entity_def_id": "category",
+      "value": "Construction"
+    },
+    {
+      "permalink": "industrial-automation",
+      "image_id": "8a4ecafe5847461194712023cd5227a9",
+      "uuid": "f9e27700-8504-b203-6b23-606fb32d1449",
+      "entity_def_id": "category",
+      "value": "Industrial Automation"
+    },
+    {
+      "permalink": "internet-of-things-ed3a",
+      "image_id": "19bb1bd789294bea9d985b400fad1c01",
+      "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+      "entity_def_id": "category",
+      "value": "Internet of Things"
+    },
+    {
+      "permalink": "manufacturing",
+      "image_id": "5084654e06b74f8e91be2b078888e701",
+      "uuid": "e811671c-168d-1fd2-36e5-df4e08a09f7c",
+      "entity_def_id": "category",
+      "value": "Manufacturing"
+    },
+    {
+      "permalink": "paas",
+      "image_id": "f5f4cb9d2fae4f5890513d54e388398f",
+      "uuid": "a402e198-e69b-eda2-2454-0bd8c09fd0df",
+      "entity_def_id": "category",
+      "value": "PaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9499894866456565,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://nexivil.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://nexivil.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://nexivil.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/nexivil",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://nexivil.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://nexivil.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://nexivil.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

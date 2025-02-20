@@ -1,0 +1,163 @@
+{
+  "name": "DiLan",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "career-planning",
+      "image_id": "33b2ccf77ed5475f9271687df7df1f3a",
+      "uuid": "c4c66159-7592-b141-ce57-4ffde4dabdde",
+      "entity_def_id": "category",
+      "value": "Career Planning"
+    },
+    {
+      "permalink": "collaboration",
+      "image_id": "e611fc96e62041e7ac0254b131d99f84",
+      "uuid": "217f63af-2e8f-9978-085b-262592840759",
+      "entity_def_id": "category",
+      "value": "Collaboration"
+    },
+    {
+      "permalink": "content-discovery",
+      "image_id": "26381256f3794d80b65f5cb00f44bb14",
+      "uuid": "564e5e59-65fb-82ef-ef3a-5084e5fa6132",
+      "entity_def_id": "category",
+      "value": "Content Discovery"
+    },
+    {
+      "permalink": "education",
+      "image_id": "c67889dbff324d9f841fd6d5ad35a4a2",
+      "uuid": "025caab7-3e54-98f0-061c-73e7af159cd1",
+      "entity_def_id": "category",
+      "value": "Education"
+    },
+    {
+      "permalink": "health-care",
+      "image_id": "b981912d44894c3899748497fd087b16",
+      "uuid": "3f21415b-5784-6be6-3722-eb189190b7cd",
+      "entity_def_id": "category",
+      "value": "Health Care"
+    },
+    {
+      "permalink": "marketplace-772d",
+      "image_id": "936e9200d2d64967bbb35c402de9cc39",
+      "uuid": "772da8fe-26d7-ea09-00ff-0fc7c8368b50",
+      "entity_def_id": "category",
+      "value": "Marketplace"
+    },
+    {
+      "permalink": "productivity-tools",
+      "image_id": "c665bfc24f2f44dfb7f0be3b9b901d22",
+      "uuid": "f55dc7f6-6a38-750c-333b-c265f3761fe1",
+      "entity_def_id": "category",
+      "value": "Productivity Tools"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8963236159844217,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://dilan.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://dilan.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://dilan.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/dilan",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://dilan.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://dilan.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://dilan.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

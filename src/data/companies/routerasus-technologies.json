@@ -1,0 +1,156 @@
+{
+  "name": "Routerasus Technologies",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "commercial",
+      "image_id": "299c182fc57f4fd18c38013673275c8a",
+      "uuid": "b3b08a44-9f89-9e68-6f4a-04365b8636e0",
+      "entity_def_id": "category",
+      "value": "Commercial"
+    },
+    {
+      "permalink": "content",
+      "image_id": "0f9fa3f24b5a468bb8ae4cdd43854e53",
+      "uuid": "3ab64b42-61dc-08a5-cfe3-a25127ae3eea",
+      "entity_def_id": "category",
+      "value": "Content"
+    },
+    {
+      "permalink": "content-creators",
+      "image_id": "727b680c21e4450b9d41ebce3837d5df",
+      "uuid": "98e7ead5-ed98-1a63-daa7-9ec18919a6ab",
+      "entity_def_id": "category",
+      "value": "Content Creators"
+    },
+    {
+      "permalink": "generative-ai",
+      "image_id": "c1ecf22becf54352901f6583f1d7ad49",
+      "uuid": "8314a534-8f18-4ee0-869b-05bc6e46258e",
+      "entity_def_id": "category",
+      "value": "Generative AI"
+    },
+    {
+      "permalink": "marketing-2795",
+      "image_id": "3285b5a2f4b14c1e9bd65d7f3797d35f",
+      "uuid": "2795f8fd-4718-3f8f-7513-5391ab707c90",
+      "entity_def_id": "category",
+      "value": "Marketing"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9315248579405875,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://routerasustechnologies.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://routerasustechnologies.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://routerasustechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/routerasus-technologies",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://routerasustechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://routerasustechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://routerasustechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

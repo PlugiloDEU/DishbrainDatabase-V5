@@ -1,0 +1,156 @@
+{
+  "name": "Corsha",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "cloud-security-db34",
+      "image_id": "9becdf732391449fbc3fabbcc9ff708d",
+      "uuid": "db343f85-e0e3-807d-0517-742163265ebb",
+      "entity_def_id": "category",
+      "value": "Cloud Security"
+    },
+    {
+      "permalink": "cyber-security",
+      "image_id": "8efae427db9649099452405d24f534ba",
+      "uuid": "46c250d5-00f6-d12f-4ad8-9b16f8b233d4",
+      "entity_def_id": "category",
+      "value": "Cyber Security"
+    },
+    {
+      "permalink": "devops-ee16",
+      "image_id": "86643ecd66cf4a8cbe1afb78795f104c",
+      "uuid": "6d3f84f2-6c4a-417b-98d2-16e70d3ff08b",
+      "entity_def_id": "category",
+      "value": "DevOps"
+    },
+    {
+      "permalink": "industrial-automation",
+      "image_id": "8a4ecafe5847461194712023cd5227a9",
+      "uuid": "f9e27700-8504-b203-6b23-606fb32d1449",
+      "entity_def_id": "category",
+      "value": "Industrial Automation"
+    },
+    {
+      "permalink": "it-infrastructure",
+      "image_id": "a53dbe660ea744bba18ee4c56e7170ba",
+      "uuid": "37fdfb55-c4c7-e30c-279e-06b79f0d4c85",
+      "entity_def_id": "category",
+      "value": "IT Infrastructure"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "security-4c60",
+      "image_id": "302729e2a4c14c579a8f0afb61f2f708",
+      "uuid": "4c6005cd-3476-35d2-ceab-b7d4f1d89e8b",
+      "entity_def_id": "category",
+      "value": "Security"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8776674076096486,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://corsha.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://corsha.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://corsha.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/corsha",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://corsha.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://corsha.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://corsha.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "name": "SolarVis",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "clean-energy",
+      "image_id": "5ed2727f47894fd4a08c45e3d769258f",
+      "uuid": "e6d30f03-ec4b-0380-56eb-c127dc979003",
+      "entity_def_id": "category",
+      "value": "Clean Energy"
+    },
+    {
+      "permalink": "energy-0ff0",
+      "image_id": "a37d3a8ad0f8428d993c84dac3d61375",
+      "uuid": "0ff04f3a-4264-226a-9c03-a481554b637d",
+      "entity_def_id": "category",
+      "value": "Energy"
+    },
+    {
+      "permalink": "energy-efficiency",
+      "image_id": "842fb09b58154a009c0dc2e9387665b9",
+      "uuid": "e643b268-4da3-8a4a-c1ff-ae941d27b779",
+      "entity_def_id": "category",
+      "value": "Energy Efficiency"
+    },
+    {
+      "permalink": "energy-management",
+      "image_id": "695b9831c9754b8389d3601635c8c7d0",
+      "uuid": "3d95d448-d63e-c411-769b-9aa1321cc7a6",
+      "entity_def_id": "category",
+      "value": "Energy Management"
+    },
+    {
+      "permalink": "renewable-energy",
+      "image_id": "7e7312d80f24449a8429800e94adeac8",
+      "uuid": "e531be19-46aa-fb4e-354e-79b05ae1802a",
+      "entity_def_id": "category",
+      "value": "Renewable Energy"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "solar-c3d5",
+      "image_id": "0c029f77b60f4e03a4e8049fd20b1f35",
+      "uuid": "c3d5f46f-0a9d-cfdc-a44a-4cc6a13fe804",
+      "entity_def_id": "category",
+      "value": "Solar"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9199129969043892,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://solarvis.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://solarvis.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://solarvis.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/solarvis",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://solarvis.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://solarvis.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://solarvis.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

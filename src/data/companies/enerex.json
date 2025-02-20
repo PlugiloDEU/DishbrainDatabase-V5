@@ -1,0 +1,163 @@
+{
+  "name": "Enerex",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "cleantech",
+      "image_id": "82d845f7aad940bcbcd701a9c5435740",
+      "uuid": "99a87fee-dfc7-e887-2e41-5bdf00577cbb",
+      "entity_def_id": "category",
+      "value": "CleanTech"
+    },
+    {
+      "permalink": "crm",
+      "image_id": "c97f4ad9a73a47dba8b67e8ad0b723a1",
+      "uuid": "1f24c7e8-a95d-3e1b-2724-0941e80c9884",
+      "entity_def_id": "category",
+      "value": "CRM"
+    },
+    {
+      "permalink": "electrical-distribution",
+      "image_id": "b891937abc574c619f6306215942973c",
+      "uuid": "6798b0e8-d683-9088-f29b-e9838a21e08a",
+      "entity_def_id": "category",
+      "value": "Electrical Distribution"
+    },
+    {
+      "permalink": "energy-0ff0",
+      "image_id": "a37d3a8ad0f8428d993c84dac3d61375",
+      "uuid": "0ff04f3a-4264-226a-9c03-a481554b637d",
+      "entity_def_id": "category",
+      "value": "Energy"
+    },
+    {
+      "permalink": "energy-management",
+      "image_id": "695b9831c9754b8389d3601635c8c7d0",
+      "uuid": "3d95d448-d63e-c411-769b-9aa1321cc7a6",
+      "entity_def_id": "category",
+      "value": "Energy Management"
+    },
+    {
+      "permalink": "greentech",
+      "image_id": "9e2144e5b0a345d48746fbc97cee8914",
+      "uuid": "2103f7b8-4229-3d5c-408a-66426df21e95",
+      "entity_def_id": "category",
+      "value": "GreenTech"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8699905876960025,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://enerex.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://enerex.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://enerex.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/enerex",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://enerex.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://enerex.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://enerex.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

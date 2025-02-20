@@ -1,0 +1,177 @@
+{
+  "name": "Fair&Smart",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "b2b",
+      "image_id": "2aff7713fe444aacbd021863c54dcf38",
+      "uuid": "d818cc40-e0a2-aac2-84da-aeaa3dfeacc0",
+      "entity_def_id": "category",
+      "value": "B2B"
+    },
+    {
+      "permalink": "compliance-da6d",
+      "image_id": "4a52bf6fe4bd4f769f137f6ce5fac80d",
+      "uuid": "da6d4d3b-2911-c612-8350-008181ea1033",
+      "entity_def_id": "category",
+      "value": "Compliance"
+    },
+    {
+      "permalink": "cyber-security",
+      "image_id": "8efae427db9649099452405d24f534ba",
+      "uuid": "46c250d5-00f6-d12f-4ad8-9b16f8b233d4",
+      "entity_def_id": "category",
+      "value": "Cyber Security"
+    },
+    {
+      "permalink": "legal",
+      "image_id": "61b23f3657644851ae7c6126bc317af1",
+      "uuid": "b1234a83-0ad1-c131-b788-81f8eb48c35e",
+      "entity_def_id": "category",
+      "value": "Legal"
+    },
+    {
+      "permalink": "legal-tech",
+      "image_id": "29c387cee00b40c99aaa2b656bbee933",
+      "uuid": "3fb898d3-4b96-418e-a58e-eaff8295e182",
+      "entity_def_id": "category",
+      "value": "Legal Tech"
+    },
+    {
+      "permalink": "marketing-2795",
+      "image_id": "3285b5a2f4b14c1e9bd65d7f3797d35f",
+      "uuid": "2795f8fd-4718-3f8f-7513-5391ab707c90",
+      "entity_def_id": "category",
+      "value": "Marketing"
+    },
+    {
+      "permalink": "paas",
+      "image_id": "f5f4cb9d2fae4f5890513d54e388398f",
+      "uuid": "a402e198-e69b-eda2-2454-0bd8c09fd0df",
+      "entity_def_id": "category",
+      "value": "PaaS"
+    },
+    {
+      "permalink": "privacy-e1a4",
+      "image_id": "f15d52959d5b4504a26a739217aadf40",
+      "uuid": "e1a4665e-8b66-feda-2432-39e907eceb6d",
+      "entity_def_id": "category",
+      "value": "Privacy"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9179243276643695,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://fair&smart.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://fair&smart.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://fair&smart.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/fair&smart",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://fair&smart.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://fair&smart.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://fair&smart.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

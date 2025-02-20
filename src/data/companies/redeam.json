@@ -1,0 +1,170 @@
+{
+  "name": "Redeam",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "amusement-park-and-arcade",
+      "image_id": "32d1ce6a94c24258bd4dcafc88f0efbe",
+      "uuid": "2a554cd3-018e-9350-a7e3-4e7d4c76be38",
+      "entity_def_id": "category",
+      "value": "Amusement Park and Arcade"
+    },
+    {
+      "permalink": "developer-apis",
+      "image_id": "f142d5bd24db49a198d24e94fba022a3",
+      "uuid": "371b7b2c-75fb-9c00-1778-5a24bed20453",
+      "entity_def_id": "category",
+      "value": "Developer APIs"
+    },
+    {
+      "permalink": "internet",
+      "image_id": "920e060f0da2433f86a0848520dad911",
+      "uuid": "2772a539-e636-09dc-30dc-b1a7deb98d0e",
+      "entity_def_id": "category",
+      "value": "Internet"
+    },
+    {
+      "permalink": "mobile-devices",
+      "image_id": "ce9ac3abd18e4640a3dfac233f0b27d8",
+      "uuid": "8814acc5-9b6a-4f53-28e3-a41c22d6477b",
+      "entity_def_id": "category",
+      "value": "Mobile Devices"
+    },
+    {
+      "permalink": "museums-and-historical-sites",
+      "image_id": "a6613c52e56a4e619a3f3165faaec416",
+      "uuid": "d7655f5e-d618-4fbb-94a3-8a13cc374ff8",
+      "entity_def_id": "category",
+      "value": "Museums and Historical Sites"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "tour-operator",
+      "image_id": "021f6b8be37843dca9d6e4695fd95b1d",
+      "uuid": "cda62d12-823c-4d74-ec6c-6ac78d705ea0",
+      "entity_def_id": "category",
+      "value": "Tour Operator"
+    },
+    {
+      "permalink": "tourism",
+      "image_id": "32ed290bb32b4ba093afc48f5e31f28f",
+      "uuid": "5ca011af-31fe-335c-6866-ff8b635bb2f8",
+      "entity_def_id": "category",
+      "value": "Tourism"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9254314871277389,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://redeam.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://redeam.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://redeam.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/redeam",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://redeam.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://redeam.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://redeam.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

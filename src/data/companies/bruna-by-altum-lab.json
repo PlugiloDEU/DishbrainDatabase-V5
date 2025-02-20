@@ -1,0 +1,170 @@
+{
+  "name": "Bruna by Altum Lab",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "agtech",
+      "image_id": "8c9a34f0959e40c3b75df7933f47fed2",
+      "uuid": "fa736a2c-3108-8e06-9adf-fb7a75744f5b",
+      "entity_def_id": "category",
+      "value": "AgTech"
+    },
+    {
+      "permalink": "aquaculture",
+      "image_id": "9611288179474979a1a18885e5ac5afe",
+      "uuid": "9ee51d4b-2d79-a32c-479f-668767ad6898",
+      "entity_def_id": "category",
+      "value": "Aquaculture"
+    },
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "b2b",
+      "image_id": "2aff7713fe444aacbd021863c54dcf38",
+      "uuid": "d818cc40-e0a2-aac2-84da-aeaa3dfeacc0",
+      "entity_def_id": "category",
+      "value": "B2B"
+    },
+    {
+      "permalink": "food-processing",
+      "image_id": "a0cc4fa19e834ace92fac4b837bd44e7",
+      "uuid": "97e0bac2-7d87-173a-47b3-366f201da451",
+      "entity_def_id": "category",
+      "value": "Food Processing"
+    },
+    {
+      "permalink": "industrial",
+      "image_id": "f8aa356010b84f2ea94948cb9780f4cd",
+      "uuid": "f0193199-a968-b457-eb49-95344e22a5ce",
+      "entity_def_id": "category",
+      "value": "Industrial"
+    },
+    {
+      "permalink": "predictive-analytics-ca83",
+      "image_id": "e834303252104177952a148e40d79bf6",
+      "uuid": "ca8390d7-22c6-5bb5-f870-22f52f364b1b",
+      "entity_def_id": "category",
+      "value": "Predictive Analytics"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "supply-chain-management",
+      "image_id": "e880c9c12f4a4fa9ad72493c71a86b18",
+      "uuid": "7ec4e4c8-a648-da5d-c02b-90a98c5ebfcf",
+      "entity_def_id": "category",
+      "value": "Supply Chain Management"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9085655027966792,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://brunabyaltumlab.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://brunabyaltumlab.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://brunabyaltumlab.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/bruna-by-altum-lab",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://brunabyaltumlab.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://brunabyaltumlab.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://brunabyaltumlab.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "EcoG",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "charging-infrastructure",
+      "image_id": "499a206c6bab4e16904a3176b1d1155d",
+      "uuid": "381e1334-f1cd-48f1-ab61-1ae346d142a0",
+      "entity_def_id": "category",
+      "value": "Charging Infrastructure"
+    },
+    {
+      "permalink": "electric-vehicle",
+      "image_id": "4dbd89bf80ff44f8862ef6edb4e7d346",
+      "uuid": "3f4ebc8c-8d6d-623c-099b-4b3a437d98db",
+      "entity_def_id": "category",
+      "value": "Electric Vehicle"
+    },
+    {
+      "permalink": "infrastructure",
+      "image_id": "96840efac2fc458ca0515acd553ff1e9",
+      "uuid": "9fe4b692-8586-3baa-84a4-9ccf4d6eb0fa",
+      "entity_def_id": "category",
+      "value": "Infrastructure"
+    },
+    {
+      "permalink": "internet-of-things-ed3a",
+      "image_id": "19bb1bd789294bea9d985b400fad1c01",
+      "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+      "entity_def_id": "category",
+      "value": "Internet of Things"
+    },
+    {
+      "permalink": "paas",
+      "image_id": "f5f4cb9d2fae4f5890513d54e388398f",
+      "uuid": "a402e198-e69b-eda2-2454-0bd8c09fd0df",
+      "entity_def_id": "category",
+      "value": "PaaS"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "transportation",
+      "image_id": "df94c7e21c8648cabd5c8fb42a2fc129",
+      "uuid": "95642ff0-23e9-79a3-612b-50de99f06305",
+      "entity_def_id": "category",
+      "value": "Transportation"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9010564427275954,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://ecog.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://ecog.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://ecog.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/ecog",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://ecog.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://ecog.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://ecog.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

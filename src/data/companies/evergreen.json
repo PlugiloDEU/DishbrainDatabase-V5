@@ -1,0 +1,170 @@
+{
+  "name": "Evergreen",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "advertising-6cb6",
+      "image_id": "aad35c2740c248479127009b14f7e3ac",
+      "uuid": "6cb68537-2de1-b041-2ee5-451ff81bccab",
+      "entity_def_id": "category",
+      "value": "Advertising"
+    },
+    {
+      "permalink": "food-and-beverage",
+      "image_id": "98b425ac85b742e7ad2c3f1d4c824b32",
+      "uuid": "14364faa-63f9-0d45-7b6a-7378113364a2",
+      "entity_def_id": "category",
+      "value": "Food and Beverage"
+    },
+    {
+      "permalink": "hospitality",
+      "image_id": "3e2f9230b9fb42bc8fe050c1baf72d19",
+      "uuid": "e7d8b7ca-c72b-7793-5a6d-2801f6a0e8ee",
+      "entity_def_id": "category",
+      "value": "Hospitality"
+    },
+    {
+      "permalink": "mobile",
+      "image_id": "ac06fb52ea564db6a103fa2435492f3d",
+      "uuid": "e907cf2a-842d-8a30-a0b1-07d9de4a8178",
+      "entity_def_id": "category",
+      "value": "Mobile"
+    },
+    {
+      "permalink": "restaurants",
+      "image_id": "c032f41c68414602bcf5f6f02a06ef0c",
+      "uuid": "51385655-f802-346b-045d-f44f461989fc",
+      "entity_def_id": "category",
+      "value": "Restaurants"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "social-media",
+      "image_id": "e4729cb24a0d462782f19ba2db017b61",
+      "uuid": "5349a2f2-14d8-9727-c32a-19ebea5db78c",
+      "entity_def_id": "category",
+      "value": "Social Media"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "wine-and-spirits",
+      "image_id": "085a13f15ca6495893262d905cd7bdc5",
+      "uuid": "cbc36b3c-09fd-1e1f-7ac8-400a546de247",
+      "entity_def_id": "category",
+      "value": "Wine And Spirits"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9130592303520557,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://evergreen.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://evergreen.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://evergreen.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/evergreen",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://evergreen.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://evergreen.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://evergreen.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

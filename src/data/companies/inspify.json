@@ -1,0 +1,177 @@
+{
+  "name": "INSPIFY",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "augmented-reality",
+      "image_id": "71ae97fe7f334e6692aa96ee4e103e25",
+      "uuid": "89b9e37a-0dcb-a76e-0816-b69d9b54279c",
+      "entity_def_id": "category",
+      "value": "Augmented Reality"
+    },
+    {
+      "permalink": "b2b",
+      "image_id": "2aff7713fe444aacbd021863c54dcf38",
+      "uuid": "d818cc40-e0a2-aac2-84da-aeaa3dfeacc0",
+      "entity_def_id": "category",
+      "value": "B2B"
+    },
+    {
+      "permalink": "e-commerce-platforms",
+      "image_id": "b6ca7e5951a54c48a856b3c25552ed15",
+      "uuid": "c2ddf939-d1f3-bd05-c436-22c0f3cdcb4b",
+      "entity_def_id": "category",
+      "value": "E-Commerce Platforms"
+    },
+    {
+      "permalink": "fashion",
+      "image_id": "a4b92c039f6a4989937dc5773c649ad3",
+      "uuid": "d1a166b5-2c1e-757c-b08e-6e5b7962e944",
+      "entity_def_id": "category",
+      "value": "Fashion"
+    },
+    {
+      "permalink": "retail-technology",
+      "image_id": "ff9e08403fa943e7ba084610b0c9767a",
+      "uuid": "93872d37-a1f6-a0af-b9e2-0b150c79f8eb",
+      "entity_def_id": "category",
+      "value": "Retail Technology"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "video-conferencing",
+      "image_id": "eaeffa8b6091419392fc931794aa1877",
+      "uuid": "dddb9b25-2585-b348-f887-90a8c0fc4e0f",
+      "entity_def_id": "category",
+      "value": "Video Conferencing"
+    },
+    {
+      "permalink": "video-streaming",
+      "image_id": "0e1b60dc5130463098e757762ff8dde9",
+      "uuid": "b1b3b2d7-85ed-2cb1-fc60-3e2b6a3b5ddd",
+      "entity_def_id": "category",
+      "value": "Video Streaming"
+    },
+    {
+      "permalink": "virtual-reality",
+      "image_id": "83289c24275a4b098f6d0a6ae680b3df",
+      "uuid": "f4709705-7bad-8cbf-0fda-c126de9c2fcd",
+      "entity_def_id": "category",
+      "value": "Virtual Reality"
+    },
+    {
+      "permalink": "virtual-world-2d1a",
+      "image_id": "1222cf76db7f4c75949bff57af02d4c4",
+      "uuid": "2d1ad8b1-e01b-f4ea-70be-41c43a4ec269",
+      "entity_def_id": "category",
+      "value": "Virtual World"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9200272991516979,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://inspify.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://inspify.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://inspify.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/inspify",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://inspify.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://inspify.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://inspify.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "name": "Modeshift",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "billing",
+      "image_id": "31cb6b71104144f2a44c2baafdc9bebc",
+      "uuid": "dd456d82-95d9-4e89-3e19-12a629a598ad",
+      "entity_def_id": "category",
+      "value": "Billing"
+    },
+    {
+      "permalink": "fleet-management",
+      "image_id": "afa83f737c8b4f9bb1b93210811d7f0a",
+      "uuid": "48f77fba-91a0-ac0f-8367-b1aff1dc8170",
+      "entity_def_id": "category",
+      "value": "Fleet Management"
+    },
+    {
+      "permalink": "mobile-payments",
+      "image_id": "d8df9e009814490fb264f771d45dc498",
+      "uuid": "33cfeb88-f323-1b4f-8ecc-f3f876a5df05",
+      "entity_def_id": "category",
+      "value": "Mobile Payments"
+    },
+    {
+      "permalink": "payments",
+      "image_id": "e1c219cc324143a191779e0dc6efc73d",
+      "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+      "entity_def_id": "category",
+      "value": "Payments"
+    },
+    {
+      "permalink": "public-transportation",
+      "image_id": "208e65ca404d4e1ebc4d8dbf72aad9f0",
+      "uuid": "404d4762-e5b6-1721-c045-6b0556619e73",
+      "entity_def_id": "category",
+      "value": "Public Transportation"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "smart-cities",
+      "image_id": "0341bf9f35f94d8b9c4bd913e261a756",
+      "uuid": "ce11fd97-65a0-4f8c-b385-2ca48f444479",
+      "entity_def_id": "category",
+      "value": "Smart Cities"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9297256097445464,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://modeshift.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://modeshift.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://modeshift.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/modeshift",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://modeshift.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://modeshift.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://modeshift.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

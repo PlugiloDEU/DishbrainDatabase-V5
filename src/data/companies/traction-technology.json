@@ -1,0 +1,163 @@
+{
+  "name": "Traction Technology",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "collaboration",
+      "image_id": "e611fc96e62041e7ac0254b131d99f84",
+      "uuid": "217f63af-2e8f-9978-085b-262592840759",
+      "entity_def_id": "category",
+      "value": "Collaboration"
+    },
+    {
+      "permalink": "crm",
+      "image_id": "c97f4ad9a73a47dba8b67e8ad0b723a1",
+      "uuid": "1f24c7e8-a95d-3e1b-2724-0941e80c9884",
+      "entity_def_id": "category",
+      "value": "CRM"
+    },
+    {
+      "permalink": "enterprise",
+      "image_id": "4f13f99c0645495dbe9f99efb2f005cc",
+      "uuid": "19a14f81-ba04-ba19-5d9c-ff0dc6eec8a4",
+      "entity_def_id": "category",
+      "value": "Enterprise"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "innovation-management",
+      "image_id": "9d3e1154833247b1b6e77b19281f2f57",
+      "uuid": "ed8217ff-bd11-26fe-d82e-eb98a276dc2e",
+      "entity_def_id": "category",
+      "value": "Innovation Management"
+    },
+    {
+      "permalink": "project-management-db17",
+      "image_id": "87f2b0ad975745cab67b8ec404bb05d3",
+      "uuid": "db173067-d318-c3fc-357a-ac38fa64c111",
+      "entity_def_id": "category",
+      "value": "Project Management"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9129232107135399,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://tractiontechnology.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://tractiontechnology.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://tractiontechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/traction-technology",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://tractiontechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://tractiontechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://tractiontechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

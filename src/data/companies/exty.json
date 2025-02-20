@@ -1,0 +1,163 @@
+{
+  "name": "Exty",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "big-data",
+      "image_id": "bd25cc4d6e034a81b2f01a812cc8387d",
+      "uuid": "c33728a5-de33-d0da-7bce-0e3c4383bc99",
+      "entity_def_id": "category",
+      "value": "Big Data"
+    },
+    {
+      "permalink": "bioinformatics",
+      "image_id": "41ac7ccc621548438e754d322a0a378f",
+      "uuid": "ac057a31-756a-62be-1677-0fee94b6aeca",
+      "entity_def_id": "category",
+      "value": "Bioinformatics"
+    },
+    {
+      "permalink": "data-management-7932",
+      "image_id": "9ead9e7f936b48aab4380457039ee913",
+      "uuid": "7f3b4241-867c-4355-a9e4-d206af3c3ab9",
+      "entity_def_id": "category",
+      "value": "Data Management"
+    },
+    {
+      "permalink": "data-mining",
+      "image_id": "ad107fa36f3c4abc908cdec84402fa07",
+      "uuid": "9c453c6c-2fe9-7f99-eed3-d39d6a05cb3a",
+      "entity_def_id": "category",
+      "value": "Data Mining"
+    },
+    {
+      "permalink": "data-storage",
+      "image_id": "f8b08026739649499ed3f11b34c065e8",
+      "uuid": "b27ea7e3-827e-dd23-6ebd-97f11317780b",
+      "entity_def_id": "category",
+      "value": "Data Storage"
+    },
+    {
+      "permalink": "nutraceutical",
+      "image_id": "dd79ca0676b74f6a98da42bde22839b0",
+      "uuid": "7cd5bc2d-b7d1-91dd-1778-eabdf1399ed9",
+      "entity_def_id": "category",
+      "value": "Nutraceutical"
+    },
+    {
+      "permalink": "therapeutics",
+      "image_id": "682ea0bc699a41a1b279303c05e3c9ea",
+      "uuid": "202de69d-732b-5471-1e68-8453cfbc8b92",
+      "entity_def_id": "category",
+      "value": "Therapeutics"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.881570577995473,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://exty.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://exty.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://exty.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/exty",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://exty.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://exty.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://exty.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

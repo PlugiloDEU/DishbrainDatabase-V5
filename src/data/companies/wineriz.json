@@ -1,0 +1,170 @@
+{
+  "name": "Wineriz",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "crm",
+      "image_id": "c97f4ad9a73a47dba8b67e8ad0b723a1",
+      "uuid": "1f24c7e8-a95d-3e1b-2724-0941e80c9884",
+      "entity_def_id": "category",
+      "value": "CRM"
+    },
+    {
+      "permalink": "direct-sales",
+      "image_id": "81ab2c3d61434188b582fbbc2ff4f7d8",
+      "uuid": "9ebf5fb1-a1f9-7c81-da82-517c05bfee06",
+      "entity_def_id": "category",
+      "value": "Direct Sales"
+    },
+    {
+      "permalink": "e-commerce-275d",
+      "image_id": "549a838b94a34ba9820468c910cf40f3",
+      "uuid": "275ddcbc-27de-ff4f-4e50-6dc26ebf9570",
+      "entity_def_id": "category",
+      "value": "E-Commerce"
+    },
+    {
+      "permalink": "e-commerce-platforms",
+      "image_id": "b6ca7e5951a54c48a856b3c25552ed15",
+      "uuid": "c2ddf939-d1f3-bd05-c436-22c0f3cdcb4b",
+      "entity_def_id": "category",
+      "value": "E-Commerce Platforms"
+    },
+    {
+      "permalink": "logistics",
+      "image_id": "766cdf0bbd724b9c92c2258390e5f060",
+      "uuid": "a6b9c45f-2caa-42e1-30e7-26c546d43186",
+      "entity_def_id": "category",
+      "value": "Logistics"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "supply-chain-management",
+      "image_id": "e880c9c12f4a4fa9ad72493c71a86b18",
+      "uuid": "7ec4e4c8-a648-da5d-c02b-90a98c5ebfcf",
+      "entity_def_id": "category",
+      "value": "Supply Chain Management"
+    },
+    {
+      "permalink": "wine-and-spirits",
+      "image_id": "085a13f15ca6495893262d905cd7bdc5",
+      "uuid": "cbc36b3c-09fd-1e1f-7ac8-400a546de247",
+      "entity_def_id": "category",
+      "value": "Wine And Spirits"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8614254635406988,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://wineriz.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://wineriz.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://wineriz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/wineriz",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://wineriz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://wineriz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://wineriz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

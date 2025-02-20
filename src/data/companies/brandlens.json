@@ -1,0 +1,149 @@
+{
+  "name": "BrandLens",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "brand-marketing",
+      "image_id": "705efb2fce984ea7b4b6228916a68af4",
+      "uuid": "d29852ab-4bbf-95f5-6087-563ff127de71",
+      "entity_def_id": "category",
+      "value": "Brand Marketing"
+    },
+    {
+      "permalink": "content",
+      "image_id": "0f9fa3f24b5a468bb8ae4cdd43854e53",
+      "uuid": "3ab64b42-61dc-08a5-cfe3-a25127ae3eea",
+      "entity_def_id": "category",
+      "value": "Content"
+    },
+    {
+      "permalink": "content-creators",
+      "image_id": "727b680c21e4450b9d41ebce3837d5df",
+      "uuid": "98e7ead5-ed98-1a63-daa7-9ec18919a6ab",
+      "entity_def_id": "category",
+      "value": "Content Creators"
+    },
+    {
+      "permalink": "social-media",
+      "image_id": "e4729cb24a0d462782f19ba2db017b61",
+      "uuid": "5349a2f2-14d8-9727-c32a-19ebea5db78c",
+      "entity_def_id": "category",
+      "value": "Social Media"
+    },
+    {
+      "permalink": "social-media-marketing",
+      "image_id": "08ae2bcd39c944619fd3766bb60f9915",
+      "uuid": "262727f4-409a-1b3a-4e14-040339daa54a",
+      "entity_def_id": "category",
+      "value": "Social Media Marketing"
+    },
+    {
+      "permalink": "video",
+      "image_id": "bb8173e0770f4eba93f9ead891c9ad2c",
+      "uuid": "c6adf822-7fa3-c0b3-5188-556e08d72128",
+      "entity_def_id": "category",
+      "value": "Video"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8500257725371891,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://brandlens.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://brandlens.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://brandlens.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/brandlens",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://brandlens.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://brandlens.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://brandlens.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

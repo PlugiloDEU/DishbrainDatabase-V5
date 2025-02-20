@@ -1,0 +1,156 @@
+{
+  "name": "Farmable",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "agriculture",
+      "image_id": "db4bb759de5d44cca0ef7ad274d49191",
+      "uuid": "6a733ac8-b79c-e2d2-55b9-cc3d66435eb6",
+      "entity_def_id": "category",
+      "value": "Agriculture"
+    },
+    {
+      "permalink": "agtech",
+      "image_id": "8c9a34f0959e40c3b75df7933f47fed2",
+      "uuid": "fa736a2c-3108-8e06-9adf-fb7a75744f5b",
+      "entity_def_id": "category",
+      "value": "AgTech"
+    },
+    {
+      "permalink": "farming",
+      "image_id": "441d8249c9ea4a1dbbdbf43d7496a6ed",
+      "uuid": "e303e839-52d3-f2f0-b87d-757ee8b86b48",
+      "entity_def_id": "category",
+      "value": "Farming"
+    },
+    {
+      "permalink": "fruit-21b2",
+      "image_id": "489cc6b298b947b1ba6ea908324b6a68",
+      "uuid": "21b207a5-9f0b-b037-9ee9-d9d9ed7c3fa9",
+      "entity_def_id": "category",
+      "value": "Fruit"
+    },
+    {
+      "permalink": "horticulture",
+      "image_id": "1cdb6db72aac44798cf1936aeb9f5c78",
+      "uuid": "5ecb5545-454b-9dca-6eb3-1ea48692c3c4",
+      "entity_def_id": "category",
+      "value": "Horticulture"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9227373531172073,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://farmable.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://farmable.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://farmable.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/farmable",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://farmable.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://farmable.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://farmable.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

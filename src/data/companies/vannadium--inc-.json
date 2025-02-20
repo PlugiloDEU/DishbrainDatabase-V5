@@ -1,0 +1,163 @@
+{
+  "name": "Vannadium, Inc.",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "big-data",
+      "image_id": "bd25cc4d6e034a81b2f01a812cc8387d",
+      "uuid": "c33728a5-de33-d0da-7bce-0e3c4383bc99",
+      "entity_def_id": "category",
+      "value": "Big Data"
+    },
+    {
+      "permalink": "blockchain",
+      "image_id": "7d9dbb7f206946b1b4c6afa01d5dcb8c",
+      "uuid": "1fea6201-3b7c-4c91-96ec-543f5eded46a",
+      "entity_def_id": "category",
+      "value": "Blockchain"
+    },
+    {
+      "permalink": "data-integration-0c4a",
+      "image_id": "7fcc47fecc51421888993812547926d9",
+      "uuid": "0c4a69d3-888c-dbb6-0af3-28e09b80393c",
+      "entity_def_id": "category",
+      "value": "Data Integration"
+    },
+    {
+      "permalink": "data-management-7932",
+      "image_id": "9ead9e7f936b48aab4380457039ee913",
+      "uuid": "7f3b4241-867c-4355-a9e4-d206af3c3ab9",
+      "entity_def_id": "category",
+      "value": "Data Management"
+    },
+    {
+      "permalink": "defi-e6d0",
+      "image_id": "4581cdc296574770b742ca228bcd9761",
+      "uuid": "c587dc98-d025-4c54-a2c6-d82657263794",
+      "entity_def_id": "category",
+      "value": "Decentralized Finance (DeFi)"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "payments",
+      "image_id": "e1c219cc324143a191779e0dc6efc73d",
+      "uuid": "f6195c47-1e3b-4cce-5409-6ed62f94d43c",
+      "entity_def_id": "category",
+      "value": "Payments"
+    },
+    {
+      "permalink": "web3-34b4",
+      "image_id": "1b69abb7ca274e589e8d599556dd8bc9",
+      "uuid": "fcab1025-3a03-42ab-8c65-c01d37ec3466",
+      "entity_def_id": "category",
+      "value": "Web3"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8745927736900775,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://vannadium,inc..com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://vannadium,inc..com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://vannadium,inc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/vannadium,-inc.",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://vannadium,inc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://vannadium,inc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://vannadium,inc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

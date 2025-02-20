@@ -1,0 +1,156 @@
+{
+  "name": "BeChained",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "cleantech",
+      "image_id": "82d845f7aad940bcbcd701a9c5435740",
+      "uuid": "99a87fee-dfc7-e887-2e41-5bdf00577cbb",
+      "entity_def_id": "category",
+      "value": "CleanTech"
+    },
+    {
+      "permalink": "energy-efficiency",
+      "image_id": "842fb09b58154a009c0dc2e9387665b9",
+      "uuid": "e643b268-4da3-8a4a-c1ff-ae941d27b779",
+      "entity_def_id": "category",
+      "value": "Energy Efficiency"
+    },
+    {
+      "permalink": "industrial-manufacturing",
+      "image_id": "5690485c870c4748b71bd14afb671283",
+      "uuid": "6f70fb36-d6a3-18d2-f09d-ccdd6bbf91e0",
+      "entity_def_id": "category",
+      "value": "Industrial Manufacturing"
+    },
+    {
+      "permalink": "manufacturing",
+      "image_id": "5084654e06b74f8e91be2b078888e701",
+      "uuid": "e811671c-168d-1fd2-36e5-df4e08a09f7c",
+      "entity_def_id": "category",
+      "value": "Manufacturing"
+    },
+    {
+      "permalink": "power-grid",
+      "image_id": "3abcb8c4a3c64925bee6ade17ca27b33",
+      "uuid": "ef901c9f-de7f-7411-3d79-0f62c6b22e44",
+      "entity_def_id": "category",
+      "value": "Power Grid"
+    },
+    {
+      "permalink": "rpa-c4f8",
+      "image_id": "a14cb37ebc654327a93a26e64bae3d68",
+      "uuid": "9f7f7dc0-e902-492f-b627-08c19590ad48",
+      "entity_def_id": "category",
+      "value": "Robotic Process Automation (RPA)"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8833205845998456,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://bechained.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://bechained.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://bechained.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/bechained",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://bechained.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://bechained.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://bechained.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

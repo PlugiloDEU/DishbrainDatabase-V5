@@ -1,0 +1,177 @@
+{
+  "name": "Nix Sensor Ltd.",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "agriculture",
+      "image_id": "db4bb759de5d44cca0ef7ad274d49191",
+      "uuid": "6a733ac8-b79c-e2d2-55b9-cc3d66435eb6",
+      "entity_def_id": "category",
+      "value": "Agriculture"
+    },
+    {
+      "permalink": "construction",
+      "image_id": "2bdf77b7fa3b4a23b8cd4efde324c254",
+      "uuid": "e4d83fbb-33f0-a6f0-1399-a68245e8f8ac",
+      "entity_def_id": "category",
+      "value": "Construction"
+    },
+    {
+      "permalink": "cosmetics",
+      "image_id": "1860527b075241fcb34ac10478975024",
+      "uuid": "37c7ea8c-3919-ab3c-deb7-0c3735854f1c",
+      "entity_def_id": "category",
+      "value": "Cosmetics"
+    },
+    {
+      "permalink": "food-and-beverage",
+      "image_id": "98b425ac85b742e7ad2c3f1d4c824b32",
+      "uuid": "14364faa-63f9-0d45-7b6a-7378113364a2",
+      "entity_def_id": "category",
+      "value": "Food and Beverage"
+    },
+    {
+      "permalink": "interior-design",
+      "image_id": "89a0bbcd02514091982cf77d8f7244fa",
+      "uuid": "9670a37a-fb55-d2e8-d6fc-b4d85c2e7eb3",
+      "entity_def_id": "category",
+      "value": "Interior Design"
+    },
+    {
+      "permalink": "manufacturing",
+      "image_id": "5084654e06b74f8e91be2b078888e701",
+      "uuid": "e811671c-168d-1fd2-36e5-df4e08a09f7c",
+      "entity_def_id": "category",
+      "value": "Manufacturing"
+    },
+    {
+      "permalink": "medical",
+      "image_id": "c207a91c993644f5aa1ccb7ae28a501b",
+      "uuid": "9126275d-d470-1524-02f4-93d481721a6e",
+      "entity_def_id": "category",
+      "value": "Medical"
+    },
+    {
+      "permalink": "packaging-services",
+      "image_id": "77797f09477544519b4638cb293d17e5",
+      "uuid": "ebc74b68-1367-8a99-e551-c182d4457e87",
+      "entity_def_id": "category",
+      "value": "Packaging Services"
+    },
+    {
+      "permalink": "printing",
+      "image_id": "7bc97b3fca5e462197fa2b4d1bec8d78",
+      "uuid": "58284e68-4cf7-e34f-ae3b-dd68f25e9b99",
+      "entity_def_id": "category",
+      "value": "Printing"
+    },
+    {
+      "permalink": "quality-assurance",
+      "image_id": "3f5f7a850b6247dc8338e29c42f01ed8",
+      "uuid": "07d360f5-ddf4-24f2-7f7b-a4be89daf727",
+      "entity_def_id": "category",
+      "value": "Quality Assurance"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9269578737713267,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://nixsensorltd..com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://nixsensorltd..com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://nixsensorltd..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/nix-sensor-ltd.",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://nixsensorltd..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://nixsensorltd..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://nixsensorltd..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

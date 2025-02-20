@@ -1,0 +1,170 @@
+{
+  "name": "Graph Technologies",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "bpa-f2ba",
+      "image_id": "42a26578c7af47eeb06e4b400fa6b138",
+      "uuid": "55918fd3-4852-4318-b350-a16054f9d63b",
+      "entity_def_id": "category",
+      "value": "Business Process Automation (BPA)"
+    },
+    {
+      "permalink": "consulting",
+      "image_id": "a4f338d678674ed9afb305d2460c9740",
+      "uuid": "b9bd65b9-20bf-45cc-207d-b70ac35d5bf4",
+      "entity_def_id": "category",
+      "value": "Consulting"
+    },
+    {
+      "permalink": "manufacturing",
+      "image_id": "5084654e06b74f8e91be2b078888e701",
+      "uuid": "e811671c-168d-1fd2-36e5-df4e08a09f7c",
+      "entity_def_id": "category",
+      "value": "Manufacturing"
+    },
+    {
+      "permalink": "rpa-c4f8",
+      "image_id": "a14cb37ebc654327a93a26e64bae3d68",
+      "uuid": "9f7f7dc0-e902-492f-b627-08c19590ad48",
+      "entity_def_id": "category",
+      "value": "Robotic Process Automation (RPA)"
+    },
+    {
+      "permalink": "robotics",
+      "image_id": "5a6dd6f7b5d2486fae705f1de137ce80",
+      "uuid": "421943ef-50ae-c811-470e-c66a0323cf0d",
+      "entity_def_id": "category",
+      "value": "Robotics"
+    },
+    {
+      "permalink": "simulation",
+      "image_id": "ed24b99b39f64fd99359511045190b6c",
+      "uuid": "a1251139-5e61-86a7-abe2-9e2eb1f16bfa",
+      "entity_def_id": "category",
+      "value": "Simulation"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "wood-processing",
+      "image_id": "e46ec0e5134247c98db4cd80320f38d6",
+      "uuid": "176f72b5-3733-b98e-7ccb-db49dc29ed4a",
+      "entity_def_id": "category",
+      "value": "Wood Processing"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8606704667675243,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://graphtechnologies.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://graphtechnologies.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://graphtechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/graph-technologies",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://graphtechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://graphtechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://graphtechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

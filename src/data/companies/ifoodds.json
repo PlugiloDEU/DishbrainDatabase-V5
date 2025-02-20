@@ -1,0 +1,177 @@
+{
+  "name": "iFoodDS",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "agriculture",
+      "image_id": "db4bb759de5d44cca0ef7ad274d49191",
+      "uuid": "6a733ac8-b79c-e2d2-55b9-cc3d66435eb6",
+      "entity_def_id": "category",
+      "value": "Agriculture"
+    },
+    {
+      "permalink": "agtech",
+      "image_id": "8c9a34f0959e40c3b75df7933f47fed2",
+      "uuid": "fa736a2c-3108-8e06-9adf-fb7a75744f5b",
+      "entity_def_id": "category",
+      "value": "AgTech"
+    },
+    {
+      "permalink": "dairy",
+      "image_id": "2754ed6f39da426c8246614df45d5245",
+      "uuid": "d3d08150-2eaf-4a1f-ac5e-ed6a601e8bbf",
+      "entity_def_id": "category",
+      "value": "Dairy"
+    },
+    {
+      "permalink": "farming",
+      "image_id": "441d8249c9ea4a1dbbdbf43d7496a6ed",
+      "uuid": "e303e839-52d3-f2f0-b87d-757ee8b86b48",
+      "entity_def_id": "category",
+      "value": "Farming"
+    },
+    {
+      "permalink": "food-processing",
+      "image_id": "a0cc4fa19e834ace92fac4b837bd44e7",
+      "uuid": "97e0bac2-7d87-173a-47b3-366f201da451",
+      "entity_def_id": "category",
+      "value": "Food Processing"
+    },
+    {
+      "permalink": "grocery",
+      "image_id": "2e7a936f28ad41d5b82de7f4233b6c41",
+      "uuid": "eca36366-3502-acb7-f7a4-03d35360ddbd",
+      "entity_def_id": "category",
+      "value": "Grocery"
+    },
+    {
+      "permalink": "quality-assurance",
+      "image_id": "3f5f7a850b6247dc8338e29c42f01ed8",
+      "uuid": "07d360f5-ddf4-24f2-7f7b-a4be89daf727",
+      "entity_def_id": "category",
+      "value": "Quality Assurance"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "seafood",
+      "image_id": "8729f328ecdf44a89723a67819680935",
+      "uuid": "301b97f0-6284-b2f2-6457-848b4e10828d",
+      "entity_def_id": "category",
+      "value": "Seafood"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8522717525081474,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://ifoodds.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://ifoodds.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://ifoodds.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/ifoodds",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://ifoodds.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://ifoodds.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://ifoodds.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

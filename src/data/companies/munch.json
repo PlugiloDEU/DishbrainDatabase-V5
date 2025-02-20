@@ -1,0 +1,156 @@
+{
+  "name": "Munch",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "content-marketing",
+      "image_id": "666f607a432e4b0f89ab19c4e21bfcdb",
+      "uuid": "450c30b7-4e4e-2081-2a88-1ccea6196953",
+      "entity_def_id": "category",
+      "value": "Content Marketing"
+    },
+    {
+      "permalink": "digital-marketing-9bff",
+      "image_id": "f68af5649b6d498bbce2891cf8128fcc",
+      "uuid": "9bff86a3-0dc8-1420-9a63-3b86f51d2f36",
+      "entity_def_id": "category",
+      "value": "Digital Marketing"
+    },
+    {
+      "permalink": "media-and-entertainment",
+      "image_id": "5b198f953ddc491ca9a1029778c2057e",
+      "uuid": "78b58810-ad58-a623-2a80-2a0e3603a544",
+      "entity_def_id": "category",
+      "value": "Media and Entertainment"
+    },
+    {
+      "permalink": "social-media",
+      "image_id": "e4729cb24a0d462782f19ba2db017b61",
+      "uuid": "5349a2f2-14d8-9727-c32a-19ebea5db78c",
+      "entity_def_id": "category",
+      "value": "Social Media"
+    },
+    {
+      "permalink": "social-media-management",
+      "image_id": "2657fe2204ec4d51bb24ea809073b796",
+      "uuid": "98698685-a983-4d2f-a11d-de7e3602eda4",
+      "entity_def_id": "category",
+      "value": "Social Media Management"
+    },
+    {
+      "permalink": "social-media-marketing",
+      "image_id": "08ae2bcd39c944619fd3766bb60f9915",
+      "uuid": "262727f4-409a-1b3a-4e14-040339daa54a",
+      "entity_def_id": "category",
+      "value": "Social Media Marketing"
+    },
+    {
+      "permalink": "video",
+      "image_id": "bb8173e0770f4eba93f9ead891c9ad2c",
+      "uuid": "c6adf822-7fa3-c0b3-5188-556e08d72128",
+      "entity_def_id": "category",
+      "value": "Video"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8590732720835974,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://munch.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://munch.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://munch.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/munch",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://munch.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://munch.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://munch.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

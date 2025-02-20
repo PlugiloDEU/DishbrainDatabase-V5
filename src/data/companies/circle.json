@@ -1,0 +1,170 @@
+{
+  "name": "Circle",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "elder-care",
+      "image_id": "ba0f6db4859440d3bef0fa11a2787aad",
+      "uuid": "0a590550-09f4-ce55-cc0b-4b9a035d428f",
+      "entity_def_id": "category",
+      "value": "Elder Care"
+    },
+    {
+      "permalink": "elderly",
+      "image_id": "f337a80a4c2a4792a49d4b0e3f4387b4",
+      "uuid": "bca28131-fd1a-400a-9971-8279dd7fbbc0",
+      "entity_def_id": "category",
+      "value": "Elderly"
+    },
+    {
+      "permalink": "health-care",
+      "image_id": "b981912d44894c3899748497fd087b16",
+      "uuid": "3f21415b-5784-6be6-3722-eb189190b7cd",
+      "entity_def_id": "category",
+      "value": "Health Care"
+    },
+    {
+      "permalink": "health-insurance",
+      "image_id": "5f6dc24243524ac3a0f87b4515c7b817",
+      "uuid": "be133f07-21af-c85e-fd6a-e2e3ddf8466a",
+      "entity_def_id": "category",
+      "value": "Health Insurance"
+    },
+    {
+      "permalink": "insurance",
+      "image_id": "59ffb5fcd6274ae59184803429a448a1",
+      "uuid": "b8ca872c-983d-f8dd-3639-2660511203ef",
+      "entity_def_id": "category",
+      "value": "Insurance"
+    },
+    {
+      "permalink": "medical",
+      "image_id": "c207a91c993644f5aa1ccb7ae28a501b",
+      "uuid": "9126275d-d470-1524-02f4-93d481721a6e",
+      "entity_def_id": "category",
+      "value": "Medical"
+    },
+    {
+      "permalink": "pharmaceutical",
+      "image_id": "0bb88d0d2d4641148e6d4c7dd7b6709e",
+      "uuid": "0ae5c1be-64b1-a9fe-6c76-076285d2380f",
+      "entity_def_id": "category",
+      "value": "Pharmaceutical"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "wellness",
+      "image_id": "cbb46d3af8d74d7eacca9e2008734c9c",
+      "uuid": "c466550b-b161-0646-3049-0045fae01b18",
+      "entity_def_id": "category",
+      "value": "Wellness"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8632281523056352,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://circle.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://circle.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://circle.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/circle",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://circle.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://circle.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://circle.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

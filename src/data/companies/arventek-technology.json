@@ -1,0 +1,177 @@
+{
+  "name": "Arventek Technology",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "3d-technology",
+      "image_id": "15bc6556f2e1479ea9b61ca9b205ee4c",
+      "uuid": "76c672c1-ef33-72f0-8027-d747c8c6e4ba",
+      "entity_def_id": "category",
+      "value": "3D Technology"
+    },
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "civil-engineering",
+      "image_id": "709418cb7aba49249bb5228af76785bb",
+      "uuid": "d21c8107-c0c8-5ba2-a4cb-40a96d5d001c",
+      "entity_def_id": "category",
+      "value": "Civil Engineering"
+    },
+    {
+      "permalink": "construction",
+      "image_id": "2bdf77b7fa3b4a23b8cd4efde324c254",
+      "uuid": "e4d83fbb-33f0-a6f0-1399-a68245e8f8ac",
+      "entity_def_id": "category",
+      "value": "Construction"
+    },
+    {
+      "permalink": "drones",
+      "image_id": "d0829fc5ed54434d82902990541ea7ec",
+      "uuid": "1fec33a7-163f-88a9-7e5c-8967fee59a1e",
+      "entity_def_id": "category",
+      "value": "Drones"
+    },
+    {
+      "permalink": "machine-learning",
+      "image_id": "e83f580a280f48f39d789180bce8c2d9",
+      "uuid": "5ea0cdb7-c9a6-47fc-50f8-c9b0fac04863",
+      "entity_def_id": "category",
+      "value": "Machine Learning"
+    },
+    {
+      "permalink": "predictive-analytics-ca83",
+      "image_id": "e834303252104177952a148e40d79bf6",
+      "uuid": "ca8390d7-22c6-5bb5-f870-22f52f364b1b",
+      "entity_def_id": "category",
+      "value": "Predictive Analytics"
+    },
+    {
+      "permalink": "real-estate",
+      "image_id": "1e3979791bcd42a38803a47525fc8056",
+      "uuid": "a326e225-acb8-f9c0-abfe-609a82b71965",
+      "entity_def_id": "category",
+      "value": "Real Estate"
+    },
+    {
+      "permalink": "renewable-energy",
+      "image_id": "7e7312d80f24449a8429800e94adeac8",
+      "uuid": "e531be19-46aa-fb4e-354e-79b05ae1802a",
+      "entity_def_id": "category",
+      "value": "Renewable Energy"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9402349563783753,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://arventektechnology.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://arventektechnology.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://arventektechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/arventek-technology",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://arventektechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://arventektechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://arventektechnology.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

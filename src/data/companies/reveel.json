@@ -1,0 +1,170 @@
+{
+  "name": "Reveel",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "blockchain",
+      "image_id": "7d9dbb7f206946b1b4c6afa01d5dcb8c",
+      "uuid": "1fea6201-3b7c-4c91-96ec-543f5eded46a",
+      "entity_def_id": "category",
+      "value": "Blockchain"
+    },
+    {
+      "permalink": "collaboration",
+      "image_id": "e611fc96e62041e7ac0254b131d99f84",
+      "uuid": "217f63af-2e8f-9978-085b-262592840759",
+      "entity_def_id": "category",
+      "value": "Collaboration"
+    },
+    {
+      "permalink": "content-creators",
+      "image_id": "727b680c21e4450b9d41ebce3837d5df",
+      "uuid": "98e7ead5-ed98-1a63-daa7-9ec18919a6ab",
+      "entity_def_id": "category",
+      "value": "Content Creators"
+    },
+    {
+      "permalink": "cryptocurrency",
+      "image_id": "db53be9ffa4641589490abaae3852dd8",
+      "uuid": "bd082f4d-45d1-0de3-0371-bb6e02d5f0e8",
+      "entity_def_id": "category",
+      "value": "Cryptocurrency"
+    },
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "media-and-entertainment",
+      "image_id": "5b198f953ddc491ca9a1029778c2057e",
+      "uuid": "78b58810-ad58-a623-2a80-2a0e3603a544",
+      "entity_def_id": "category",
+      "value": "Media and Entertainment"
+    },
+    {
+      "permalink": "productivity-tools",
+      "image_id": "c665bfc24f2f44dfb7f0be3b9b901d22",
+      "uuid": "f55dc7f6-6a38-750c-333b-c265f3761fe1",
+      "entity_def_id": "category",
+      "value": "Productivity Tools"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "web3-34b4",
+      "image_id": "1b69abb7ca274e589e8d599556dd8bc9",
+      "uuid": "fcab1025-3a03-42ab-8c65-c01d37ec3466",
+      "entity_def_id": "category",
+      "value": "Web3"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9215415831949498,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://reveel.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://reveel.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://reveel.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/reveel",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://reveel.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://reveel.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://reveel.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

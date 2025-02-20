@@ -1,0 +1,177 @@
+{
+  "name": "Commu App",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "b2b",
+      "image_id": "2aff7713fe444aacbd021863c54dcf38",
+      "uuid": "d818cc40-e0a2-aac2-84da-aeaa3dfeacc0",
+      "entity_def_id": "category",
+      "value": "B2B"
+    },
+    {
+      "permalink": "b2c",
+      "image_id": "d2bf1901674b4328ad114d69a3304acc",
+      "uuid": "2da9e9ae-e433-7d18-2e1b-4395d0cb14f4",
+      "entity_def_id": "category",
+      "value": "B2C"
+    },
+    {
+      "permalink": "employee-benefits",
+      "image_id": "7c1e4b7c3322474d84a606457a11071a",
+      "uuid": "14f97695-c4eb-c348-d373-5863c4b4798a",
+      "entity_def_id": "category",
+      "value": "Employee Benefits"
+    },
+    {
+      "permalink": "impact-investing",
+      "image_id": "7b160e8227524d4e92c53dca2ff22083",
+      "uuid": "1f843ff1-4a47-c956-aa2a-cc8d290da90f",
+      "entity_def_id": "category",
+      "value": "Impact Investing"
+    },
+    {
+      "permalink": "personal-health",
+      "image_id": "6e11d1973ff74bcbb0deadefbe39f458",
+      "uuid": "99606484-dc77-fe7a-2c8b-f20dd9e44f67",
+      "entity_def_id": "category",
+      "value": "Personal Health"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "social-impact-bf5c",
+      "image_id": "9e999199d9b14dafb43fd97a2298de6e",
+      "uuid": "bf5c955e-6f68-da36-e502-1d3962c28325",
+      "entity_def_id": "category",
+      "value": "Social Impact"
+    },
+    {
+      "permalink": "social-media",
+      "image_id": "e4729cb24a0d462782f19ba2db017b61",
+      "uuid": "5349a2f2-14d8-9727-c32a-19ebea5db78c",
+      "entity_def_id": "category",
+      "value": "Social Media"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "wellness",
+      "image_id": "cbb46d3af8d74d7eacca9e2008734c9c",
+      "uuid": "c466550b-b161-0646-3049-0045fae01b18",
+      "entity_def_id": "category",
+      "value": "Wellness"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9222221598851291,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://commuapp.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://commuapp.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://commuapp.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/commu-app",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://commuapp.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://commuapp.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://commuapp.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

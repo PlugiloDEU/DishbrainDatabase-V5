@@ -1,0 +1,170 @@
+{
+  "name": "EarReality",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "audio",
+      "image_id": "3df87f7154b34260b3363899723800d0",
+      "uuid": "05e1d0a1-c34d-cf1a-c686-5a6466a8151b",
+      "entity_def_id": "category",
+      "value": "Audio"
+    },
+    {
+      "permalink": "audiobooks",
+      "image_id": "68168cb1ac42446c95f3ee9269eaaf88",
+      "uuid": "351abbd7-efe7-dfb2-59c3-4d608db4d53a",
+      "entity_def_id": "category",
+      "value": "Audiobooks"
+    },
+    {
+      "permalink": "automotive",
+      "image_id": "70b9211be4744e26936e45db0b986706",
+      "uuid": "bb2ad65f-1009-db81-c6f6-83dbcfd64870",
+      "entity_def_id": "category",
+      "value": "Automotive"
+    },
+    {
+      "permalink": "digital-media-2f47",
+      "image_id": "afd8eaeb54c74db7ac8805674159abaf",
+      "uuid": "2f47ba93-33d3-61fe-de89-0fe8a4a8366b",
+      "entity_def_id": "category",
+      "value": "Digital Media"
+    },
+    {
+      "permalink": "gamification-af92",
+      "image_id": "b10ec8c63bf34adbab2ced24531eba13",
+      "uuid": "af922a55-ff56-771a-b9b5-06c1284ef0c8",
+      "entity_def_id": "category",
+      "value": "Gamification"
+    },
+    {
+      "permalink": "gaming",
+      "image_id": "86268c2b0c3f4ba69b2110597fed2d75",
+      "uuid": "dd1ef133-8ee8-088c-bbe1-bdf22241358f",
+      "entity_def_id": "category",
+      "value": "Gaming"
+    },
+    {
+      "permalink": "generative-ai",
+      "image_id": "c1ecf22becf54352901f6583f1d7ad49",
+      "uuid": "8314a534-8f18-4ee0-869b-05bc6e46258e",
+      "entity_def_id": "category",
+      "value": "Generative AI"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "speech-recognition",
+      "image_id": "9e1dc358a9ad4371b7794f7fe3026dec",
+      "uuid": "24dad27e-6a49-ccc1-ec31-854b73d60d16",
+      "entity_def_id": "category",
+      "value": "Speech Recognition"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9162641359359611,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://earreality.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://earreality.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://earreality.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/earreality",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://earreality.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://earreality.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://earreality.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

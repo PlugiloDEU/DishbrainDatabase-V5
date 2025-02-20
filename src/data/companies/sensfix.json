@@ -1,0 +1,156 @@
+{
+  "name": "sensfix",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "asset-management",
+      "image_id": "e2561d0980fa4319b560f47c7ecc81a8",
+      "uuid": "d8cda5ae-af47-b0d1-4a9c-aec87289adc0",
+      "entity_def_id": "category",
+      "value": "Asset Management"
+    },
+    {
+      "permalink": "facility-management",
+      "image_id": "38dacd6a0fee4403a41eabe478225710",
+      "uuid": "acce6b21-0007-d432-f31c-42d7ee030a98",
+      "entity_def_id": "category",
+      "value": "Facility Management"
+    },
+    {
+      "permalink": "machine-learning",
+      "image_id": "e83f580a280f48f39d789180bce8c2d9",
+      "uuid": "5ea0cdb7-c9a6-47fc-50f8-c9b0fac04863",
+      "entity_def_id": "category",
+      "value": "Machine Learning"
+    },
+    {
+      "permalink": "oil-and-gas",
+      "image_id": "89f2427f14134f64b0b6d7a6ff9f88e8",
+      "uuid": "28169022-9937-f752-a38c-c40538cd7222",
+      "entity_def_id": "category",
+      "value": "Oil and Gas"
+    },
+    {
+      "permalink": "smart-building",
+      "image_id": "fdf57ae5e04d4d45b3f57e9898b67d91",
+      "uuid": "c7ab2c73-e46f-0f40-afe0-eb6182949b41",
+      "entity_def_id": "category",
+      "value": "Smart Building"
+    },
+    {
+      "permalink": "smart-cities",
+      "image_id": "0341bf9f35f94d8b9c4bd913e261a756",
+      "uuid": "ce11fd97-65a0-4f8c-b385-2ca48f444479",
+      "entity_def_id": "category",
+      "value": "Smart Cities"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.862135928952719,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://sensfix.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://sensfix.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://sensfix.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/sensfix",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://sensfix.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://sensfix.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://sensfix.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

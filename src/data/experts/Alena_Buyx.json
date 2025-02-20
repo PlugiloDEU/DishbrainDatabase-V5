@@ -1,341 +1,375 @@
 {
-    "id": "exp18966515",
-    "personalInfo": {
-        "fullName": "Prof. Dr. med. Alena Michaela Buyx",
-        "title": "Prof. Dr. med.",
-        "dateOfBirth": "1977-09-29",
-        "nationality": "German",
-        "email": "alena.buyx@tum.de",
-        "location": "München, Deutschland",
-        "languages": ["German", "English"],
-        "image": "https://www.h-brs.de/sites/default/files/2024-10/Alena%20Buyx%20CV_Copyright%20TUM%2C%20Lara%20Freiburger.JPG",
-        "phone": null,
-        "allData": {
-            "id": "18966515",
-            "profileId": "ACoAAAEhZ_MB-XLRXGOqQm3UfzewHVV-8mVXwOI",
-            "firstName": "Alena",
-            "lastName": "Buyx",
-            "occupation": "Visiting Scholar in The Harvard Program in Ethics and Health",
-            "publicIdentifier": "alena-buyx-bab4276",
-            "trackingId": "+8zKUoQOTbOX8u6GMRzJlA==",
-            "countryCode": "us",
-            "geoUrn": "urn:li:fs_geo:104597301",
-            "positions": [
-                {
-                    "title": "Visiting scholar",
-                    "timePeriod": {
-                        "startDate": {
-                            "year": 2008
-                        }
-                    },
-                    "companyName": "Harvard Medical School"
-                },
-                {
-                    "title": "Assistant professor",
-                    "timePeriod": {
-                        "endDate": {
-                            "year": 2008
-                        },
-                        "startDate": {
-                            "year": 2006
-                        }
-                    },
-                    "company": {
-                        "employeeCountRange": {
-                            "start": 5001,
-                            "end": 10000
-                        },
-                        "industries": [
-                            "Research"
-                        ],
-                        "objectUrn": "urn:li:company:15594",
-                        "entityUrn": "urn:li:fs_miniCompany:15594",
-                        "name": "University of Münster",
-                        "showcase": false,
-                        "active": true,
-                        "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGpKl9fXcWaUQ/company-logo_200_200/company-logo_200_200/0/1671697645543/university_of_muenster_logo?e=1747872000&v=beta&t=FgbDqwMgQOkbLxUQ86yfE66pTixtk86sZ1-Iyln6DVc",
-                        "universalName": "university-of-muenster",
-                        "dashCompanyUrn": "urn:li:fsd_company:15594",
-                        "trackingId": "QeGtJUcKQsmgRes32/nAbg=="
-                    },
-                    "companyName": "University of Muenster"
-                }
+  "id": "exp18966515",
+  "personalInfo": {
+    "fullName": "Prof. Dr. med. Alena Michaela Buyx",
+    "title": "Prof. Dr. med.",
+    "dateOfBirth": "1977-09-29",
+    "nationality": "German",
+    "email": "alena.buyx@tum.de",
+    "location": "München, Deutschland",
+    "languages": [
+      "German",
+      "English"
+    ],
+    "image": "https://www.h-brs.de/sites/default/files/2024-10/Alena%20Buyx%20CV_Copyright%20TUM%2C%20Lara%20Freiburger.JPG",
+    "phone": null,
+    "allData": {
+      "id": "18966515",
+      "profileId": "ACoAAAEhZ_MB-XLRXGOqQm3UfzewHVV-8mVXwOI",
+      "firstName": "Alena",
+      "lastName": "Buyx",
+      "occupation": "Visiting Scholar in The Harvard Program in Ethics and Health",
+      "publicIdentifier": "alena-buyx-bab4276",
+      "trackingId": "+8zKUoQOTbOX8u6GMRzJlA==",
+      "countryCode": "us",
+      "geoUrn": "urn:li:fs_geo:104597301",
+      "positions": [
+        {
+          "title": "Visiting scholar",
+          "timePeriod": {
+            "startDate": {
+              "year": 2008
+            }
+          },
+          "companyName": "Harvard Medical School"
+        },
+        {
+          "title": "Assistant professor",
+          "timePeriod": {
+            "endDate": {
+              "year": 2008
+            },
+            "startDate": {
+              "year": 2006
+            }
+          },
+          "company": {
+            "employeeCountRange": {
+              "start": 5001,
+              "end": 10000
+            },
+            "industries": [
+              "Research"
             ],
-            "educations": [
-                {
-                    "degreeName": "Dr. med.; M.A.",
-                    "fieldOfStudy": "Medicine, Philosophy, Sociology",
-                    "schoolName": "University of Münster",
-                    "timePeriod": {
-                        "endDate": {
-                            "year": 2005
-                        },
-                        "startDate": {
-                            "year": 1997
-                        }
-                    }
-                },
-                {
-                    "fieldOfStudy": "Medicine (Neurology)",
-                    "schoolName": "UCL",
-                    "timePeriod": {
-                        "endDate": {
-                            "year": 2004
-                        },
-                        "startDate": {
-                            "year": 2004
-                        }
-                    }
-                },
-                {
-                    "fieldOfStudy": "Philosophy, health sciences",
-                    "schoolName": "University of York",
-                    "timePeriod": {
-                        "endDate": {
-                            "year": 2002
-                        },
-                        "startDate": {
-                            "year": 2001
-                        }
-                    }
-                }
-            ],
-            "certifications": [],
-            "courses": [],
-            "honors": [],
-            "languages": [],
-            "skills": [],
-            "volunteerExperiences": [],
-            "headline": "Visiting Scholar in The Harvard Program in Ethics and Health",
-            "summary": "Alena is a medical ethicist wirh a background in medicine, philosophy and sociology (medical doctorate in neurology, master's degree in philosophy). She works at Muenster University and the Max Planck Institute for Molecular Biomedicine Muenster (on leave). Currently, she is a visiting postdoc scholar in the Harvard Program in Ethics and Health at Harvard Medical School. Her main research areas are justice in healthcare, the ethics of organ donation and transplantation, ethical issues in wish-fulfilling medicine and enhancement, and the theory of teaching medical ethics.\n\nSpecialties: Medical Ethics\nBioethics",
-            "student": false,
-            "industryName": "Hospital & Health Care",
-            "industryUrn": "urn:li:fs_industry:14",
-            "geoLocationName": "Cambridge, Massachusetts",
-            "geoCountryName": "United States",
-            "jobTitle": "Visiting scholar",
-            "companyName": "Harvard Medical School",
-            "following": false,
-            "followable": true,
-            "followersCount": 39,
-            "connectionsCount": 21,
-            "connectionType": ""
+            "objectUrn": "urn:li:company:15594",
+            "entityUrn": "urn:li:fs_miniCompany:15594",
+            "name": "University of Münster",
+            "showcase": false,
+            "active": true,
+            "logo": "https://media.licdn.com/dms/image/v2/C4E0BAQGpKl9fXcWaUQ/company-logo_200_200/company-logo_200_200/0/1671697645543/university_of_muenster_logo?e=1747872000&v=beta&t=FgbDqwMgQOkbLxUQ86yfE66pTixtk86sZ1-Iyln6DVc",
+            "universalName": "university-of-muenster",
+            "dashCompanyUrn": "urn:li:fsd_company:15594",
+            "trackingId": "QeGtJUcKQsmgRes32/nAbg=="
+          },
+          "companyName": "University of Muenster"
         }
-    },
-    "institution": {
-        "name": "Harvard Medical School",
-        "position": "Visiting scholar",
-        "department": null,
-        "website": null
-    },
-    "expertise": {
-        "primary": ["Medizin", "KI", "Ethik"],
-        "secondary": [],
-        "industries": []
-    },
-    "academicMetrics": {
-        "publications": {
-            "total": null,
-            "sources": {
-                "googleScholar": null,
-                "scopus": null
+      ],
+      "educations": [
+        {
+          "degreeName": "Dr. med.; M.A.",
+          "fieldOfStudy": "Medicine, Philosophy, Sociology",
+          "schoolName": "University of Münster",
+          "timePeriod": {
+            "endDate": {
+              "year": 2005
+            },
+            "startDate": {
+              "year": 1997
             }
+          }
+        },
+        {
+          "fieldOfStudy": "Medicine (Neurology)",
+          "schoolName": "UCL",
+          "timePeriod": {
+            "endDate": {
+              "year": 2004
+            },
+            "startDate": {
+              "year": 2004
+            }
+          }
+        },
+        {
+          "fieldOfStudy": "Philosophy, health sciences",
+          "schoolName": "University of York",
+          "timePeriod": {
+            "endDate": {
+              "year": 2002
+            },
+            "startDate": {
+              "year": 2001
+            }
+          }
         }
+      ],
+      "certifications": [],
+      "courses": [],
+      "honors": [],
+      "languages": [],
+      "skills": [],
+      "volunteerExperiences": [],
+      "headline": "Visiting Scholar in The Harvard Program in Ethics and Health",
+      "summary": "Alena is a medical ethicist wirh a background in medicine, philosophy and sociology (medical doctorate in neurology, master's degree in philosophy). She works at Muenster University and the Max Planck Institute for Molecular Biomedicine Muenster (on leave). Currently, she is a visiting postdoc scholar in the Harvard Program in Ethics and Health at Harvard Medical School. Her main research areas are justice in healthcare, the ethics of organ donation and transplantation, ethical issues in wish-fulfilling medicine and enhancement, and the theory of teaching medical ethics.\n\nSpecialties: Medical Ethics\nBioethics",
+      "student": false,
+      "industryName": "Hospital & Health Care",
+      "industryUrn": "urn:li:fs_industry:14",
+      "geoLocationName": "Cambridge, Massachusetts",
+      "geoCountryName": "United States",
+      "jobTitle": "Visiting scholar",
+      "companyName": "Harvard Medical School",
+      "following": false,
+      "followable": true,
+      "followersCount": 39,
+      "connectionsCount": 21,
+      "connectionType": ""
+    }
+  },
+  "institution": {
+    "name": "Harvard Medical School",
+    "position": "Visiting scholar",
+    "department": null,
+    "website": null
+  },
+  "expertise": [
+    {
+      "primary": [
+        "Medizin",
+        "KI",
+        "Ethik"
+      ],
+      "secondary": [],
+      "industries": []
+    }
+  ],
+  "academicMetrics": {
+    "publications": {
+      "total": null,
+      "sources": {
+        "googleScholar": null,
+        "scopus": null
+      }
+    }
+  },
+  "currentRole": {
+    "title": "Direktorin des Instituts für Geschichte und Ethik der Medizin",
+    "organization": "Technische Universität München",
+    "location": "München, Deutschland",
+    "period": "2018-present"
+  },
+  "profiles": {
+    "linkedin": "https://www.linkedin.com/in/alena-buyx-bab4276/",
+    "company": ""
+  },
+  "tags": [],
+  "source": "LinkedIn",
+  "experience": [
+    {
+      "title": "Professor of Ethics in Medicine and Health Technologies",
+      "company": {
+        "name": "Technical University of Munich",
+        "industries": [
+          "Higher Education",
+          "Medical Ethics",
+          "Health Technology"
+        ]
+      },
+      "locationName": "München, Deutschland",
+      "timePeriod": {
+        "startDate": {
+          "year": 2018
+        }
+      },
+      "description": "Director, Institute for the History and Ethics of Medicine"
     },
-    "currentRole": {
-        "title": "Direktorin des Instituts für Geschichte und Ethik der Medizin",
-        "organization": "Technische Universität München",
-        "location": "München, Deutschland",
-        "period": "2018-present"
+    {
+      "title": "Professor of Medical Ethics",
+      "company": {
+        "name": "University of Kiel"
+      },
+      "timePeriod": {
+        "startDate": {
+          "year": 2014
+        },
+        "endDate": {
+          "year": 2018
+        }
+      }
     },
-    "profiles": {
-        "linkedin": "https://www.linkedin.com/in/alena-buyx-bab4276/",
-        "company": ""
+    {
+      "title": "Senior Research Fellow in Public Policy",
+      "company": {
+        "name": "University College London"
+      },
+      "timePeriod": {
+        "endDate": {
+          "year": 2015
+        }
+      }
     },
-    "tags": [],
-    "source": "LinkedIn",
-    "experience": [
-        {
-            "title": "Professor of Ethics in Medicine and Health Technologies",
-            "company": {
-                "name": "Technical University of Munich",
-                "industries": ["Higher Education", "Medical Ethics", "Health Technology"]
-            },
-            "locationName": "München, Deutschland",
-            "timePeriod": {
-                "startDate": {
-                    "year": 2018
-                }
-            },
-            "description": "Director, Institute for the History and Ethics of Medicine"
+    {
+      "title": "Emmy Noether Group Leader",
+      "company": {
+        "name": "University of Münster"
+      },
+      "timePeriod": {
+        "startDate": {
+          "year": 2012
         },
-        {
-            "title": "Professor of Medical Ethics",
-            "company": {
-                "name": "University of Kiel"
-            },
-            "timePeriod": {
-                "startDate": {
-                    "year": 2014
-                },
-                "endDate": {
-                    "year": 2018
-                }
-            }
-        },
-        {
-            "title": "Senior Research Fellow in Public Policy",
-            "company": {
-                "name": "University College London"
-            },
-            "timePeriod": {
-                "endDate": {
-                    "year": 2015
-                }
-            }
-        },
-        {
-            "title": "Emmy Noether Group Leader",
-            "company": {
-                "name": "University of Münster"
-            },
-            "timePeriod": {
-                "startDate": {
-                    "year": 2012
-                },
-                "endDate": {
-                    "year": 2014
-                }
-            }
-        },
-        {
-            "title": "Assistant Director",
-            "company": {
-                "name": "Nuffield Council on Bioethics",
-                "location": "London"
-            },
-            "timePeriod": {
-                "startDate": {
-                    "year": 2009
-                },
-                "endDate": {
-                    "year": 2012
-                }
-            }
+        "endDate": {
+          "year": 2014
         }
-    ],
-    "education": [
-        {
-            "schoolName": "University of Münster",
-            "degreeName": "Ph.D. in Medicine",
-            "fieldOfStudy": "Medicine"
-        },
-        {
-            "schoolName": "University of York",
-            "degreeName": "Postgraduate Degree",
-            "fieldOfStudy": "Philosophy"
-        },
-        {
-            "schoolName": "University College London",
-            "degreeName": "Postgraduate Degree",
-            "fieldOfStudy": "Sociology"
-        }
-    ],
-    "certifications": [],
-    "skills": [],
-    "lastEnriched": "2025-02-17",
-    "professionalMemberships": [
-        {
-            "organization": "German Ethics Council",
-            "roles": [
-                {
-                    "position": "Chair",
-                    "period": "2020-2024"
-                },
-                {
-                    "position": "Member",
-                    "period": "2016-2024"
-                }
-            ]
-        },
-        {
-            "organization": "WHO Expert Advisory Committee",
-            "role": "Member",
-            "committee": "Developing Global Standards for Governance and Oversight of Human Genome Editing",
-            "period": "2019-2021"
-        },
-        {
-            "organization": "German National Academy of Sciences Leopoldina",
-            "role": "Member",
-            "period": "since 2020"
-        }
-    ],
-    "awards": [
-        {
-            "name": "Order of Merit of the Federal Republic of Germany",
-            "type": "Cross of Merit on Ribbon",
-            "year": 2024
-        },
-        {
-            "name": "Bavarian Medal of Merit",
-            "year": 2023
-        },
-        {
-            "name": "Heinz Maier-Leibnitz Medal",
-            "institution": "Technical University of Munich",
-            "year": 2021
-        },
-        {
-            "name": "German National Award",
-            "year": 2021
-        }
-    ],
-    "publications": [
-        {
-            "title": "Embedded ethics: A proposal for integrating ethics into the development of healthcare AI",
-            "journal": "Nature Machine Intelligence",
-            "year": 2020
-        },
-        {
-            "title": "Your robot therapist will see you now: Ethical implications of embodied artificial intelligence in psychiatry, psychology, and psychotherapy",
-            "journal": "Journal of Medical Internet Research",
-            "year": 2019
-        },
-        {
-            "title": "Broad consent for healthcare-embedded biobanking: understanding and reasons to donate in a large patient sample",
-            "journal": "Genetics in Medicine",
-            "year": 2018
-        },
-        {
-            "title": "Solidarity in biomedicine and beyond",
-            "publisher": "Cambridge University Press",
-            "year": 2017
-        }
-    ],
-    "sources": {
-        "personal_info": {
-            "name": {
-                "url": "https://www.tum.de/die-tum/die-universitaet/personen/professorinnen-professoren/buyx-alena",
-                "verified": true,
-                "last_checked": "2024-02-05"
-            },
-            "dateOfBirth": {
-                "url": "https://www.who.int/about/people/experts/alena-buyx",
-                "verified": true,
-                "last_checked": "2024-02-05"
-            },
-            "nationality": {
-                "url": "https://www.leopoldina.org/mitglieder/mitgliederverzeichnis/member/3339",
-                "verified": true,
-                "last_checked": "2024-02-05"
-            }
-        },
-        "current_position": {
-            "url": "https://www.geschichte.med.tum.de/institut/personen/buyx/",
-            "verified": true,
-            "last_checked": "2024-02-05"
-        }
+      }
     },
-    "last_updated": "2024-02-05T12:00:00Z",
-    "verified": true
+    {
+      "title": "Assistant Director",
+      "company": {
+        "name": "Nuffield Council on Bioethics",
+        "location": "London"
+      },
+      "timePeriod": {
+        "startDate": {
+          "year": 2009
+        },
+        "endDate": {
+          "year": 2012
+        }
+      }
+    }
+  ],
+  "education": [
+    {
+      "schoolName": "University of Münster",
+      "degreeName": "Ph.D. in Medicine",
+      "fieldOfStudy": "Medicine"
+    },
+    {
+      "schoolName": "University of York",
+      "degreeName": "Postgraduate Degree",
+      "fieldOfStudy": "Philosophy"
+    },
+    {
+      "schoolName": "University College London",
+      "degreeName": "Postgraduate Degree",
+      "fieldOfStudy": "Sociology"
+    }
+  ],
+  "certifications": [],
+  "skills": [],
+  "lastEnriched": "2025-02-17",
+  "professionalMemberships": [
+    {
+      "organization": "German Ethics Council",
+      "roles": [
+        {
+          "position": "Chair",
+          "period": "2020-2024"
+        },
+        {
+          "position": "Member",
+          "period": "2016-2024"
+        }
+      ]
+    },
+    {
+      "organization": "WHO Expert Advisory Committee",
+      "role": "Member",
+      "committee": "Developing Global Standards for Governance and Oversight of Human Genome Editing",
+      "period": "2019-2021"
+    },
+    {
+      "organization": "German National Academy of Sciences Leopoldina",
+      "role": "Member",
+      "period": "since 2020"
+    }
+  ],
+  "awards": [
+    {
+      "name": "Order of Merit of the Federal Republic of Germany",
+      "type": "Cross of Merit on Ribbon",
+      "year": 2024
+    },
+    {
+      "name": "Bavarian Medal of Merit",
+      "year": 2023
+    },
+    {
+      "name": "Heinz Maier-Leibnitz Medal",
+      "institution": "Technical University of Munich",
+      "year": 2021
+    },
+    {
+      "name": "German National Award",
+      "year": 2021
+    }
+  ],
+  "publications": [
+    {
+      "title": "Embedded ethics: A proposal for integrating ethics into the development of healthcare AI",
+      "journal": "Nature Machine Intelligence",
+      "year": 2020
+    },
+    {
+      "title": "Your robot therapist will see you now: Ethical implications of embodied artificial intelligence in psychiatry, psychology, and psychotherapy",
+      "journal": "Journal of Medical Internet Research",
+      "year": 2019
+    },
+    {
+      "title": "Broad consent for healthcare-embedded biobanking: understanding and reasons to donate in a large patient sample",
+      "journal": "Genetics in Medicine",
+      "year": 2018
+    },
+    {
+      "title": "Solidarity in biomedicine and beyond",
+      "publisher": "Cambridge University Press",
+      "year": 2017
+    }
+  ],
+  "sources": {
+    "personal_info": {
+      "name": {
+        "url": "https://www.tum.de/die-tum/die-universitaet/personen/professorinnen-professoren/buyx-alena",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "dateOfBirth": {
+        "url": "https://www.who.int/about/people/experts/alena-buyx",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "nationality": {
+        "url": "https://www.leopoldina.org/mitglieder/mitgliederverzeichnis/member/3339",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "current_position": {
+      "url": "https://www.geschichte.med.tum.de/institut/personen/buyx/",
+      "verified": true,
+      "last_checked": "2024-02-05"
+    }
+  },
+  "last_updated": "2024-02-05T12:00:00Z",
+  "verified": true,
+  "image_url": null,
+  "expertise_sources": {
+    "[object Object]": "human"
+  },
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9247883621723303,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "verification_source": "human"
 }

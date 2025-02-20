@@ -1,0 +1,177 @@
+{
+  "name": "Komo Technologies",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "brand-marketing",
+      "image_id": "705efb2fce984ea7b4b6228916a68af4",
+      "uuid": "d29852ab-4bbf-95f5-6087-563ff127de71",
+      "entity_def_id": "category",
+      "value": "Brand Marketing"
+    },
+    {
+      "permalink": "broadcasting",
+      "image_id": "bcc94061d2294507a1e15c16230321ba",
+      "uuid": "048fa3b0-ae53-7c4e-c5b7-1ae93b6dc303",
+      "entity_def_id": "category",
+      "value": "Broadcasting"
+    },
+    {
+      "permalink": "hospitality",
+      "image_id": "3e2f9230b9fb42bc8fe050c1baf72d19",
+      "uuid": "e7d8b7ca-c72b-7793-5a6d-2801f6a0e8ee",
+      "entity_def_id": "category",
+      "value": "Hospitality"
+    },
+    {
+      "permalink": "marketing-2795",
+      "image_id": "3285b5a2f4b14c1e9bd65d7f3797d35f",
+      "uuid": "2795f8fd-4718-3f8f-7513-5391ab707c90",
+      "entity_def_id": "category",
+      "value": "Marketing"
+    },
+    {
+      "permalink": "media-and-entertainment",
+      "image_id": "5b198f953ddc491ca9a1029778c2057e",
+      "uuid": "78b58810-ad58-a623-2a80-2a0e3603a544",
+      "entity_def_id": "category",
+      "value": "Media and Entertainment"
+    },
+    {
+      "permalink": "publishing",
+      "image_id": "6ae89fcbf66f45b49c86e2b57e7ebeb8",
+      "uuid": "5c362e08-2d00-f3b4-ca60-584bfcc4e72f",
+      "entity_def_id": "category",
+      "value": "Publishing"
+    },
+    {
+      "permalink": "retail",
+      "image_id": "2ec04bee09ac460992ea180f967d8106",
+      "uuid": "b65acba5-b299-3990-6390-8be3e3833a07",
+      "entity_def_id": "category",
+      "value": "Retail"
+    },
+    {
+      "permalink": "shopping-mall",
+      "image_id": "27155340965a42ff91da8e7ea5da53df",
+      "uuid": "ab4e56e5-a439-3a99-9a2a-90af9b88326c",
+      "entity_def_id": "category",
+      "value": "Shopping Mall"
+    },
+    {
+      "permalink": "sponsorship",
+      "image_id": "76d125da60ff4f3f921f47137f5e41df",
+      "uuid": "bc22c61d-4d2f-3dd0-531b-457af33011a4",
+      "entity_def_id": "category",
+      "value": "Sponsorship"
+    },
+    {
+      "permalink": "trade-shows",
+      "image_id": "9b9703f5af144174a5466467fd6d284f",
+      "uuid": "1c85a4fd-329d-7326-1617-50d98f72a6d1",
+      "entity_def_id": "category",
+      "value": "Trade Shows"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9401847336950503,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://komotechnologies.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://komotechnologies.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://komotechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/komo-technologies",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://komotechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://komotechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://komotechnologies.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

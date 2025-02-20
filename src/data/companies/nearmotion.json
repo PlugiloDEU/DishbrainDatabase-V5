@@ -1,0 +1,156 @@
+{
+  "name": "NEARMOTION",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "augmented-reality",
+      "image_id": "71ae97fe7f334e6692aa96ee4e103e25",
+      "uuid": "89b9e37a-0dcb-a76e-0816-b69d9b54279c",
+      "entity_def_id": "category",
+      "value": "Augmented Reality"
+    },
+    {
+      "permalink": "computer-vision",
+      "image_id": "21e6f0e137444bdd8bc26833b0eb3c40",
+      "uuid": "a69e7c2b-5a12-d999-e85e-a0da5f05b3d3",
+      "entity_def_id": "category",
+      "value": "Computer Vision"
+    },
+    {
+      "permalink": "indoor-positioning",
+      "image_id": "2dec172efabd422a9a802bb714ae7b2c",
+      "uuid": "51c0d758-772d-e2e5-f7ea-0988d5a7d8f8",
+      "entity_def_id": "category",
+      "value": "Indoor Positioning"
+    },
+    {
+      "permalink": "mapping-services",
+      "image_id": "2fe646a48b6a410d8074d4360dfd04ce",
+      "uuid": "d2cf7cf9-fb76-9f92-8ee0-c49154efa98e",
+      "entity_def_id": "category",
+      "value": "Mapping Services"
+    },
+    {
+      "permalink": "navigation",
+      "image_id": "be65687e532642c6a351bb25059112b4",
+      "uuid": "d495dc9c-0b00-c157-a254-e350f573d61e",
+      "entity_def_id": "category",
+      "value": "Navigation"
+    },
+    {
+      "permalink": "smart-building",
+      "image_id": "fdf57ae5e04d4d45b3f57e9898b67d91",
+      "uuid": "c7ab2c73-e46f-0f40-afe0-eb6182949b41",
+      "entity_def_id": "category",
+      "value": "Smart Building"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8969625863447257,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://nearmotion.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://nearmotion.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://nearmotion.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/nearmotion",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://nearmotion.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://nearmotion.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://nearmotion.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

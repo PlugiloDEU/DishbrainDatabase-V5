@@ -1,0 +1,170 @@
+{
+  "name": "MixRank",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "advertising-6cb6",
+      "image_id": "aad35c2740c248479127009b14f7e3ac",
+      "uuid": "6cb68537-2de1-b041-2ee5-451ff81bccab",
+      "entity_def_id": "category",
+      "value": "Advertising"
+    },
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "b2b",
+      "image_id": "2aff7713fe444aacbd021863c54dcf38",
+      "uuid": "d818cc40-e0a2-aac2-84da-aeaa3dfeacc0",
+      "entity_def_id": "category",
+      "value": "B2B"
+    },
+    {
+      "permalink": "big-data",
+      "image_id": "bd25cc4d6e034a81b2f01a812cc8387d",
+      "uuid": "c33728a5-de33-d0da-7bce-0e3c4383bc99",
+      "entity_def_id": "category",
+      "value": "Big Data"
+    },
+    {
+      "permalink": "business-intelligence",
+      "image_id": "77accbbb54a7499a86a03c166a46625b",
+      "uuid": "2e3b8104-b12e-468a-65b8-0989208f0b16",
+      "entity_def_id": "category",
+      "value": "Business Intelligence"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "lead-generation",
+      "image_id": "b600801c00a14c04bb031eb1d1af8391",
+      "uuid": "fec1a806-6b09-549e-2c93-7aacad1a38f9",
+      "entity_def_id": "category",
+      "value": "Lead Generation"
+    },
+    {
+      "permalink": "marketing-automation",
+      "image_id": "24c960a143f84e918ecfeba5225e5241",
+      "uuid": "be21aa9f-99cd-0379-b746-899e0ec7e0fd",
+      "entity_def_id": "category",
+      "value": "Marketing Automation"
+    },
+    {
+      "permalink": "mobile",
+      "image_id": "ac06fb52ea564db6a103fa2435492f3d",
+      "uuid": "e907cf2a-842d-8a30-a0b1-07d9de4a8178",
+      "entity_def_id": "category",
+      "value": "Mobile"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9194488923045371,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://mixrank.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://mixrank.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://mixrank.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/mixrank",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://mixrank.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://mixrank.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://mixrank.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

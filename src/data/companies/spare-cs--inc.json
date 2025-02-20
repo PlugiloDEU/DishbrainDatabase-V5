@@ -1,0 +1,177 @@
+{
+  "name": "SPARE CS, INC",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "android-3f49",
+      "image_id": "167d30c5fc2948d6876fd68c84b26a97",
+      "uuid": "3f49498d-20fe-408c-ce0c-5425ee885d74",
+      "entity_def_id": "category",
+      "value": "Android"
+    },
+    {
+      "permalink": "banking",
+      "image_id": "2d9d900a0b6a4ea7ad4e3728a6ca9d36",
+      "uuid": "68250c3a-6cf5-86fb-281e-9072ae2d4fe8",
+      "entity_def_id": "category",
+      "value": "Banking"
+    },
+    {
+      "permalink": "consumer-software",
+      "image_id": "6a78b4086f83464b88a62cd9a6c4086e",
+      "uuid": "57d4964b-dc51-a0e9-fb24-869ed418e858",
+      "entity_def_id": "category",
+      "value": "Consumer Software"
+    },
+    {
+      "permalink": "digital-marketing-9bff",
+      "image_id": "f68af5649b6d498bbce2891cf8128fcc",
+      "uuid": "9bff86a3-0dc8-1420-9a63-3b86f51d2f36",
+      "entity_def_id": "category",
+      "value": "Digital Marketing"
+    },
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "ios-6e02",
+      "image_id": "a808e760bc004882aa19c98e33709563",
+      "uuid": "6e028126-f8ae-ecdb-9bd4-2c4c1569084f",
+      "entity_def_id": "category",
+      "value": "iOS"
+    },
+    {
+      "permalink": "peer-to-peer",
+      "image_id": "3e80d045d47e49d098388c6833dc0fcd",
+      "uuid": "350734b8-4d94-abc8-27e3-ca2382737105",
+      "entity_def_id": "category",
+      "value": "Peer to Peer"
+    },
+    {
+      "permalink": "point-of-sale-37d6",
+      "image_id": "ed69fdb437a34a9bb112740ac43188c9",
+      "uuid": "37d687ed-5ad9-d434-d1fc-09accbb96667",
+      "entity_def_id": "category",
+      "value": "Point of Sale"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "virtual-currency",
+      "image_id": "2c6bfab8f215422283ba1ac7742c777c",
+      "uuid": "edfe69d7-57c2-dac4-fb02-86d10da987f1",
+      "entity_def_id": "category",
+      "value": "Virtual Currency"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8730585762284924,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://sparecs,inc.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://sparecs,inc.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://sparecs,inc.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/spare-cs,-inc",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://sparecs,inc.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://sparecs,inc.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://sparecs,inc.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

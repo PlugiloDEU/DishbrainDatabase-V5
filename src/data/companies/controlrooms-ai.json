@@ -1,0 +1,177 @@
+{
+  "name": "ControlRooms.ai",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "chemical",
+      "image_id": "46070ac4fb3a4075a597a552a8b2efed",
+      "uuid": "28c9216f-6e08-d0f9-9ff4-aa2cf0cd17da",
+      "entity_def_id": "category",
+      "value": "Chemical"
+    },
+    {
+      "permalink": "clean-energy",
+      "image_id": "5ed2727f47894fd4a08c45e3d769258f",
+      "uuid": "e6d30f03-ec4b-0380-56eb-c127dc979003",
+      "entity_def_id": "category",
+      "value": "Clean Energy"
+    },
+    {
+      "permalink": "cleantech",
+      "image_id": "82d845f7aad940bcbcd701a9c5435740",
+      "uuid": "99a87fee-dfc7-e887-2e41-5bdf00577cbb",
+      "entity_def_id": "category",
+      "value": "CleanTech"
+    },
+    {
+      "permalink": "greentech",
+      "image_id": "9e2144e5b0a345d48746fbc97cee8914",
+      "uuid": "2103f7b8-4229-3d5c-408a-66426df21e95",
+      "entity_def_id": "category",
+      "value": "GreenTech"
+    },
+    {
+      "permalink": "industrial-manufacturing",
+      "image_id": "5690485c870c4748b71bd14afb671283",
+      "uuid": "6f70fb36-d6a3-18d2-f09d-ccdd6bbf91e0",
+      "entity_def_id": "category",
+      "value": "Industrial Manufacturing"
+    },
+    {
+      "permalink": "intelligent-systems",
+      "image_id": "64338a3c12e7424386989d780911bb75",
+      "uuid": "186d333a-99df-4a4a-6a0f-69bd2c0d0bba",
+      "entity_def_id": "category",
+      "value": "Intelligent Systems"
+    },
+    {
+      "permalink": "machine-learning",
+      "image_id": "e83f580a280f48f39d789180bce8c2d9",
+      "uuid": "5ea0cdb7-c9a6-47fc-50f8-c9b0fac04863",
+      "entity_def_id": "category",
+      "value": "Machine Learning"
+    },
+    {
+      "permalink": "oil-and-gas",
+      "image_id": "89f2427f14134f64b0b6d7a6ff9f88e8",
+      "uuid": "28169022-9937-f752-a38c-c40538cd7222",
+      "entity_def_id": "category",
+      "value": "Oil and Gas"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9161199745270383,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://controlrooms.ai.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://controlrooms.ai.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://controlrooms.ai.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/controlrooms.ai",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://controlrooms.ai.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://controlrooms.ai.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://controlrooms.ai.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

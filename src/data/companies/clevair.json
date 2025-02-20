@@ -1,0 +1,170 @@
+{
+  "name": "ClevAir",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "business-development",
+      "image_id": "a7ae45fd9f1e4a0fa80d91eac6964977",
+      "uuid": "1fe278ea-e441-01b9-30db-6c301c0d6fd1",
+      "entity_def_id": "category",
+      "value": "Business Development"
+    },
+    {
+      "permalink": "commercial-real-estate",
+      "image_id": "19d81f52b4ef4765820ffaa6096c2cd0",
+      "uuid": "89fc23fc-2ec1-4aa3-906e-e6afb448ae0b",
+      "entity_def_id": "category",
+      "value": "Commercial Real Estate"
+    },
+    {
+      "permalink": "data-center",
+      "image_id": "3be887a1366a4ae8856cc37f0ecb9f20",
+      "uuid": "39c6bdbf-d3db-5e68-53c3-5488e7699603",
+      "entity_def_id": "category",
+      "value": "Data Center"
+    },
+    {
+      "permalink": "database",
+      "image_id": "00f06db4b97146808545b1532f81b0f6",
+      "uuid": "c68ad390-d05d-fc84-bced-3d52a6352316",
+      "entity_def_id": "category",
+      "value": "Database"
+    },
+    {
+      "permalink": "energy-0ff0",
+      "image_id": "a37d3a8ad0f8428d993c84dac3d61375",
+      "uuid": "0ff04f3a-4264-226a-9c03-a481554b637d",
+      "entity_def_id": "category",
+      "value": "Energy"
+    },
+    {
+      "permalink": "energy-efficiency",
+      "image_id": "842fb09b58154a009c0dc2e9387665b9",
+      "uuid": "e643b268-4da3-8a4a-c1ff-ae941d27b779",
+      "entity_def_id": "category",
+      "value": "Energy Efficiency"
+    },
+    {
+      "permalink": "energy-management",
+      "image_id": "695b9831c9754b8389d3601635c8c7d0",
+      "uuid": "3d95d448-d63e-c411-769b-9aa1321cc7a6",
+      "entity_def_id": "category",
+      "value": "Energy Management"
+    },
+    {
+      "permalink": "real-estate",
+      "image_id": "1e3979791bcd42a38803a47525fc8056",
+      "uuid": "a326e225-acb8-f9c0-abfe-609a82b71965",
+      "entity_def_id": "category",
+      "value": "Real Estate"
+    },
+    {
+      "permalink": "smart-building",
+      "image_id": "fdf57ae5e04d4d45b3f57e9898b67d91",
+      "uuid": "c7ab2c73-e46f-0f40-afe0-eb6182949b41",
+      "entity_def_id": "category",
+      "value": "Smart Building"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9258301796653461,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://clevair.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://clevair.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://clevair.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/clevair",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://clevair.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://clevair.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://clevair.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

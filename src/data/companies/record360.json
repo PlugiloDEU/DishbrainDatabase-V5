@@ -1,0 +1,177 @@
+{
+  "name": "Record360",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "asset-management",
+      "image_id": "e2561d0980fa4319b560f47c7ecc81a8",
+      "uuid": "d8cda5ae-af47-b0d1-4a9c-aec87289adc0",
+      "entity_def_id": "category",
+      "value": "Asset Management"
+    },
+    {
+      "permalink": "cloud-storage",
+      "image_id": "74ec6cc2eb934d6985fb851757de1ce1",
+      "uuid": "b42d64b5-e6ea-c05e-d6b7-2732a057dd52",
+      "entity_def_id": "category",
+      "value": "Cloud Storage"
+    },
+    {
+      "permalink": "data-mining",
+      "image_id": "ad107fa36f3c4abc908cdec84402fa07",
+      "uuid": "9c453c6c-2fe9-7f99-eed3-d39d6a05cb3a",
+      "entity_def_id": "category",
+      "value": "Data Mining"
+    },
+    {
+      "permalink": "fleet-management",
+      "image_id": "afa83f737c8b4f9bb1b93210811d7f0a",
+      "uuid": "48f77fba-91a0-ac0f-8367-b1aff1dc8170",
+      "entity_def_id": "category",
+      "value": "Fleet Management"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "ios-6e02",
+      "image_id": "a808e760bc004882aa19c98e33709563",
+      "uuid": "6e028126-f8ae-ecdb-9bd4-2c4c1569084f",
+      "entity_def_id": "category",
+      "value": "iOS"
+    },
+    {
+      "permalink": "mobile",
+      "image_id": "ac06fb52ea564db6a103fa2435492f3d",
+      "uuid": "e907cf2a-842d-8a30-a0b1-07d9de4a8178",
+      "entity_def_id": "category",
+      "value": "Mobile"
+    },
+    {
+      "permalink": "property-management",
+      "image_id": "aab2fc738c234ba79f99d9515117e0a7",
+      "uuid": "c8e6b95f-80d9-bf15-ab7c-37a0e8f052c7",
+      "entity_def_id": "category",
+      "value": "Property Management"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.877236093340271,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://record360.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://record360.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://record360.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/record360",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://record360.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://record360.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://record360.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

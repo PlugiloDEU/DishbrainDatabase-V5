@@ -1,0 +1,156 @@
+{
+  "name": "EVVELAND",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "blockchain",
+      "image_id": "7d9dbb7f206946b1b4c6afa01d5dcb8c",
+      "uuid": "1fea6201-3b7c-4c91-96ec-543f5eded46a",
+      "entity_def_id": "category",
+      "value": "Blockchain"
+    },
+    {
+      "permalink": "environmental-consulting",
+      "image_id": "a737c4fc3291449885a0521a7176145b",
+      "uuid": "29aa8efa-db2e-0196-2249-b4cdf553b519",
+      "entity_def_id": "category",
+      "value": "Environmental Consulting"
+    },
+    {
+      "permalink": "events",
+      "image_id": "4935543a82d34d6f82df08a74c1751f4",
+      "uuid": "d4a7bfe6-59ed-ae17-e043-1a7415745a0e",
+      "entity_def_id": "category",
+      "value": "Events"
+    },
+    {
+      "permalink": "metaverse-5a85",
+      "image_id": "3be4e1491a5c4ed295a2deb99f6ea68f",
+      "uuid": "4f2b2466-497e-4f5f-8e63-2ff6c1254695",
+      "entity_def_id": "category",
+      "value": "Metaverse"
+    },
+    {
+      "permalink": "virtual-reality",
+      "image_id": "83289c24275a4b098f6d0a6ae680b3df",
+      "uuid": "f4709705-7bad-8cbf-0fda-c126de9c2fcd",
+      "entity_def_id": "category",
+      "value": "Virtual Reality"
+    },
+    {
+      "permalink": "web3-34b4",
+      "image_id": "1b69abb7ca274e589e8d599556dd8bc9",
+      "uuid": "fcab1025-3a03-42ab-8c65-c01d37ec3466",
+      "entity_def_id": "category",
+      "value": "Web3"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9347401111608135,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://evveland.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://evveland.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://evveland.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/evveland",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://evveland.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://evveland.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://evveland.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

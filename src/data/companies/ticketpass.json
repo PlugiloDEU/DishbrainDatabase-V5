@@ -1,0 +1,156 @@
+{
+  "name": "Ticketpass",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "data-management-7932",
+      "image_id": "9ead9e7f936b48aab4380457039ee913",
+      "uuid": "7f3b4241-867c-4355-a9e4-d206af3c3ab9",
+      "entity_def_id": "category",
+      "value": "Data Management"
+    },
+    {
+      "permalink": "event-management",
+      "image_id": "d97a1537b2824fa0b2c7f46c742c3800",
+      "uuid": "917e01db-e156-b8f9-507f-ae9b76ecfc48",
+      "entity_def_id": "category",
+      "value": "Event Management"
+    },
+    {
+      "permalink": "music",
+      "image_id": "5e154538bc544116b2d0902e0f2c2f01",
+      "uuid": "d922c006-3ba0-537a-edb5-379ca5767662",
+      "entity_def_id": "category",
+      "value": "Music"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "sports-leagues-and-teams",
+      "image_id": "698fb982f6744521aa23c12e10aa13e3",
+      "uuid": "f8b00c95-08e9-4812-8664-3bea34a854c1",
+      "entity_def_id": "category",
+      "value": "Sports Leagues and Teams"
+    },
+    {
+      "permalink": "ticketing",
+      "image_id": "743e6f9da3264129a12cd41b62ddb26e",
+      "uuid": "66be03e0-5dab-b881-1c03-0a249714bf56",
+      "entity_def_id": "category",
+      "value": "Ticketing"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9238391885950937,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://ticketpass.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://ticketpass.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://ticketpass.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/ticketpass",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://ticketpass.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://ticketpass.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://ticketpass.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

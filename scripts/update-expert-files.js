@@ -54,7 +54,7 @@ const generateSources = (expert) => {
   // Add expertise sources
   if (Array.isArray(expert.expertise)) {
     expert.expertise.forEach(item => {
-      if (item) {
+      if (item && typeof item === 'string') {
         sources.expertise[item] = generateSourceInfo(`https://${expert.organisation?.toLowerCase().replace(/ /g, '')}.com/research/${item.toLowerCase().replace(/ /g, '-')}`);
       }
     });
@@ -64,12 +64,16 @@ const generateSources = (expert) => {
   if (expert.education) {
     if (Array.isArray(expert.education.universities)) {
       expert.education.universities.forEach(uni => {
-        sources.education.universities[uni.replace(/\s+/g, '_').toLowerCase()] = generateSourceInfo(`https://${uni.toLowerCase().replace(/ /g, '')}.edu/alumni`);
+        if (typeof uni === 'string') {
+          sources.education.universities[uni.replace(/\s+/g, '_').toLowerCase()] = generateSourceInfo(`https://${uni.toLowerCase().replace(/ /g, '')}.edu/alumni`);
+        }
       });
     }
     if (Array.isArray(expert.education.fields)) {
       expert.education.fields.forEach(field => {
-        sources.education.fields[field] = generateSourceInfo(`https://${expert.education?.universities?.[0]?.toLowerCase().replace(/ /g, '')}.edu/departments/${field.toLowerCase().replace(/ /g, '-')}`);
+        if (typeof field === 'string') {
+          sources.education.fields[field] = generateSourceInfo(`https://${expert.education?.universities?.[0]?.toLowerCase().replace(/ /g, '')}.edu/departments/${field.toLowerCase().replace(/ /g, '-')}`);
+        }
       });
     }
   }
@@ -123,12 +127,17 @@ const updateExpertFile = (filePath) => {
       expert.image_url = expert.sources.image.url;
     }
     
+    // Convert expertise to array if it's not already
+    if (expert.expertise && !Array.isArray(expert.expertise)) {
+      expert.expertise = [expert.expertise];
+    }
+    
     // Add new fields if they don't exist
     const updatedExpert = {
       ...expert,
       image_url: expert.image_url || expert.sources?.image?.url || null,
       expertise_sources: expert.expertise_sources || Object.fromEntries(
-        (expert.expertise || []).map(item => [item, Math.random() > 0.3 ? "human" : "ai"])
+        (Array.isArray(expert.expertise) ? expert.expertise : []).map(item => [item, Math.random() > 0.3 ? "human" : "ai"])
       ),
       data_sources: expert.data_sources || {
         personal_info: "human",
@@ -154,13 +163,27 @@ const updateExpertFile = (filePath) => {
 
     // Format arrays consistently
     ['expertise', 'languages', 'tags'].forEach(field => {
-      if (Array.isArray(updatedExpert[field])) {
-        updatedExpert[field] = updatedExpert[field].map(item => item.trim());
+      if (updatedExpert[field]) {
+        // Convert to array if not already
+        if (!Array.isArray(updatedExpert[field])) {
+          updatedExpert[field] = [updatedExpert[field]];
+        }
+        updatedExpert[field] = updatedExpert[field].map(item => {
+          if (typeof item === 'string') {
+            return item.trim();
+          }
+          return item;
+        });
       }
     });
 
     if (updatedExpert.education?.fields) {
-      updatedExpert.education.fields = updatedExpert.education.fields.map(field => field.trim());
+      updatedExpert.education.fields = updatedExpert.education.fields.map(field => {
+        if (typeof field === 'string') {
+          return field.trim();
+        }
+        return field;
+      });
     }
 
     // Write updated expert data back to file with proper formatting

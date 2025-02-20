@@ -1,0 +1,177 @@
+{
+  "name": "Quoroom",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "e-signature",
+      "image_id": "46f3fea77fbe4d5ab6763210febbcdb9",
+      "uuid": "94f4c1fe-27c1-1dd5-7cb7-0d8a687bc276",
+      "entity_def_id": "category",
+      "value": "E-Signature"
+    },
+    {
+      "permalink": "financial-exchanges",
+      "image_id": "1633742b7e0f44b2b39331dde80294ef",
+      "uuid": "50f7f0b8-21a5-22e3-20ff-34c02396a047",
+      "entity_def_id": "category",
+      "value": "Financial Exchanges"
+    },
+    {
+      "permalink": "fintech-e067",
+      "image_id": "965ded32ecc54a209f6ec2f500b3b4de",
+      "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+      "entity_def_id": "category",
+      "value": "FinTech"
+    },
+    {
+      "permalink": "funding-platform",
+      "image_id": "9a3a21c60ac44e4583d4ab88055cf1a0",
+      "uuid": "1f8c929b-3b58-327d-c417-256ea3ff98f8",
+      "entity_def_id": "category",
+      "value": "Funding Platform"
+    },
+    {
+      "permalink": "legal-tech",
+      "image_id": "29c387cee00b40c99aaa2b656bbee933",
+      "uuid": "3fb898d3-4b96-418e-a58e-eaff8295e182",
+      "entity_def_id": "category",
+      "value": "Legal Tech"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "security-4c60",
+      "image_id": "302729e2a4c14c579a8f0afb61f2f708",
+      "uuid": "4c6005cd-3476-35d2-ceab-b7d4f1d89e8b",
+      "entity_def_id": "category",
+      "value": "Security"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "trading-platform",
+      "image_id": "da60f354bbeb438b970d650aa8d87e12",
+      "uuid": "367f9cec-51a7-8561-3d3a-4f8855fd5c46",
+      "entity_def_id": "category",
+      "value": "Trading Platform"
+    },
+    {
+      "permalink": "venture-capital-b37d",
+      "image_id": "5989f72d13ca4d74983793acd7c145c1",
+      "uuid": "b37dbaeb-c825-e6a0-36de-84556a5d2e1f",
+      "entity_def_id": "category",
+      "value": "Venture Capital"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9498471756896838,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://quoroom.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://quoroom.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://quoroom.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/quoroom",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://quoroom.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://quoroom.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://quoroom.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

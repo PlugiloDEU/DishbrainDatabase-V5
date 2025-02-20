@@ -1,0 +1,177 @@
+{
+  "name": "Key Data Dashboard™",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "business-intelligence",
+      "image_id": "77accbbb54a7499a86a03c166a46625b",
+      "uuid": "2e3b8104-b12e-468a-65b8-0989208f0b16",
+      "entity_def_id": "category",
+      "value": "Business Intelligence"
+    },
+    {
+      "permalink": "data-visualization",
+      "image_id": "b3a417deb90d4003ac5665a45aa75d0e",
+      "uuid": "8c453fd3-90cc-5be3-23a6-cb2944fb05cf",
+      "entity_def_id": "category",
+      "value": "Data Visualization"
+    },
+    {
+      "permalink": "hospitality",
+      "image_id": "3e2f9230b9fb42bc8fe050c1baf72d19",
+      "uuid": "e7d8b7ca-c72b-7793-5a6d-2801f6a0e8ee",
+      "entity_def_id": "category",
+      "value": "Hospitality"
+    },
+    {
+      "permalink": "hotel",
+      "image_id": "0f9e50ffd1a347cf8ee1ebd5a022f8aa",
+      "uuid": "c2a64787-d2ee-21b6-6795-b411924f779c",
+      "entity_def_id": "category",
+      "value": "Hotel"
+    },
+    {
+      "permalink": "leisure",
+      "image_id": "9e39c77bcd034920a02505f544c582da",
+      "uuid": "f4ba246e-e61b-40f4-2289-0686ca748ea4",
+      "entity_def_id": "category",
+      "value": "Leisure"
+    },
+    {
+      "permalink": "resorts",
+      "image_id": "3992e12c34174f8fa95120555671ce36",
+      "uuid": "aeae9394-5d34-5f75-8439-5edfe8f12644",
+      "entity_def_id": "category",
+      "value": "Resorts"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "tourism",
+      "image_id": "32ed290bb32b4ba093afc48f5e31f28f",
+      "uuid": "5ca011af-31fe-335c-6866-ff8b635bb2f8",
+      "entity_def_id": "category",
+      "value": "Tourism"
+    },
+    {
+      "permalink": "vacation-rental",
+      "image_id": "db50b9d8487b46238e9365d4b4481b9a",
+      "uuid": "0fa1b481-b75a-c22d-b2cb-48caf1bf995a",
+      "entity_def_id": "category",
+      "value": "Vacation Rental"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8736146295590154,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://keydatadashboard™.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://keydatadashboard™.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://keydatadashboard™.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/key-data-dashboard™",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://keydatadashboard™.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://keydatadashboard™.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://keydatadashboard™.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

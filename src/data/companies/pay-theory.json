@@ -1,0 +1,170 @@
+{
+  "name": "Pay Theory",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "child-care",
+      "image_id": "02fb989b96404dfcb78256fa5312b422",
+      "uuid": "f6de0321-9c3e-cbab-7a67-a018375bbb4e",
+      "entity_def_id": "category",
+      "value": "Child Care"
+    },
+    {
+      "permalink": "financial-services",
+      "image_id": "c06f7439a26b42f2b1b190944f73b027",
+      "uuid": "90b4194f-1d4f-ff5c-d7a6-6b6f32ae4892",
+      "entity_def_id": "category",
+      "value": "Financial Services"
+    },
+    {
+      "permalink": "health-care",
+      "image_id": "b981912d44894c3899748497fd087b16",
+      "uuid": "3f21415b-5784-6be6-3722-eb189190b7cd",
+      "entity_def_id": "category",
+      "value": "Health Care"
+    },
+    {
+      "permalink": "insurtech",
+      "image_id": "b68ade0967bc4aa1a3c4e8ece0141b6f",
+      "uuid": "e33cac20-55b4-a943-e64a-7fc37a3d2ca3",
+      "entity_def_id": "category",
+      "value": "InsurTech"
+    },
+    {
+      "permalink": "mental-health-be99",
+      "image_id": "08347cadfc3d46299e6a0dc62ac45aee",
+      "uuid": "1562d5d0-fdd8-4297-bcd9-c88e45293a97",
+      "entity_def_id": "category",
+      "value": "Mental Health"
+    },
+    {
+      "permalink": "personal-health",
+      "image_id": "6e11d1973ff74bcbb0deadefbe39f458",
+      "uuid": "99606484-dc77-fe7a-2c8b-f20dd9e44f67",
+      "entity_def_id": "category",
+      "value": "Personal Health"
+    },
+    {
+      "permalink": "proptech-d405",
+      "image_id": "dcf3ad9fbf724338bf10a6224ab4e019",
+      "uuid": "dbc1dbfc-3665-4334-af9b-04cd1c990144",
+      "entity_def_id": "category",
+      "value": "PropTech"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "underserved-children",
+      "image_id": "c511bc4e405e4e33889a4f39a238d626",
+      "uuid": "8eced4ea-e4ff-e56a-b97a-7d87d6394fd0",
+      "entity_def_id": "category",
+      "value": "Underserved Children"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.922553546189346,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://paytheory.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://paytheory.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://paytheory.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/pay-theory",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://paytheory.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://paytheory.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://paytheory.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

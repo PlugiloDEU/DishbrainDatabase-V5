@@ -1,0 +1,177 @@
+{
+  "name": "Point Zenith",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "aerospace-8a20",
+      "image_id": "9d07a74ea8694059a49b36dceddfc025",
+      "uuid": "8a20023f-3e32-20bb-b6ab-e824a0386367",
+      "entity_def_id": "category",
+      "value": "Aerospace"
+    },
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "compliance-da6d",
+      "image_id": "4a52bf6fe4bd4f769f137f6ce5fac80d",
+      "uuid": "da6d4d3b-2911-c612-8350-008181ea1033",
+      "entity_def_id": "category",
+      "value": "Compliance"
+    },
+    {
+      "permalink": "drone-management",
+      "image_id": "8cb544b8a54146109f775c789f93a530",
+      "uuid": "7b38226f-8c7d-9fde-2bf4-2f10e1f34cb8",
+      "entity_def_id": "category",
+      "value": "Drone Management"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "government",
+      "image_id": "3789ce3e6b064093878bc90006b25f4d",
+      "uuid": "cf573fc6-139f-c9fb-5b5e-b131fae12e51",
+      "entity_def_id": "category",
+      "value": "Government"
+    },
+    {
+      "permalink": "military",
+      "image_id": "0aaf94089d37426282bc734294b0bf02",
+      "uuid": "75e2efe6-f901-2137-da85-cd4f5627295c",
+      "entity_def_id": "category",
+      "value": "Military"
+    },
+    {
+      "permalink": "national-security",
+      "image_id": "06e05cecbafd446bbdfed20b192af0a0",
+      "uuid": "a477d733-6770-63f6-8b37-9444379e3186",
+      "entity_def_id": "category",
+      "value": "National Security"
+    },
+    {
+      "permalink": "robotics",
+      "image_id": "5a6dd6f7b5d2486fae705f1de137ce80",
+      "uuid": "421943ef-50ae-c811-470e-c66a0323cf0d",
+      "entity_def_id": "category",
+      "value": "Robotics"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9102785557155523,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://pointzenith.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://pointzenith.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://pointzenith.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/point-zenith",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://pointzenith.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://pointzenith.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://pointzenith.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

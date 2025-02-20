@@ -1,0 +1,177 @@
+{
+  "name": "Semantic Web Tech Private Limited",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "big-data",
+      "image_id": "bd25cc4d6e034a81b2f01a812cc8387d",
+      "uuid": "c33728a5-de33-d0da-7bce-0e3c4383bc99",
+      "entity_def_id": "category",
+      "value": "Big Data"
+    },
+    {
+      "permalink": "bioinformatics",
+      "image_id": "41ac7ccc621548438e754d322a0a378f",
+      "uuid": "ac057a31-756a-62be-1677-0fee94b6aeca",
+      "entity_def_id": "category",
+      "value": "Bioinformatics"
+    },
+    {
+      "permalink": "biotechnology",
+      "image_id": "a5d73fce101b450a8302df661a2cfe06",
+      "uuid": "58842728-7ab9-5bd1-bb67-e8e55f6520a0",
+      "entity_def_id": "category",
+      "value": "Biotechnology"
+    },
+    {
+      "permalink": "generative-ai",
+      "image_id": "c1ecf22becf54352901f6583f1d7ad49",
+      "uuid": "8314a534-8f18-4ee0-869b-05bc6e46258e",
+      "entity_def_id": "category",
+      "value": "Generative AI"
+    },
+    {
+      "permalink": "knowledge-management",
+      "image_id": "4bda3770174a4c2e93f3af488eff8289",
+      "uuid": "c267b15a-caf8-a4c8-0973-1ee558de3eef",
+      "entity_def_id": "category",
+      "value": "Knowledge Management"
+    },
+    {
+      "permalink": "life-science",
+      "image_id": "447f6b54d0854ae1973209ecfe2fc528",
+      "uuid": "9b58eb8a-89e7-b238-a1eb-5b9766cc4b3a",
+      "entity_def_id": "category",
+      "value": "Life Science"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "semantic-search",
+      "image_id": "85024b4e990941b9a60d4c165e290c36",
+      "uuid": "bb1777e5-25f3-b9f2-922b-0d5defe0d5bb",
+      "entity_def_id": "category",
+      "value": "Semantic Search"
+    },
+    {
+      "permalink": "semantic-web",
+      "image_id": "ce7a9962b5bc49abaa9003a67381b2c1",
+      "uuid": "ac34c4c6-e430-f66f-44ae-ef8ca45b52bb",
+      "entity_def_id": "category",
+      "value": "Semantic Web"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9139990661621271,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://semanticwebtechprivatelimited.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://semanticwebtechprivatelimited.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://semanticwebtechprivatelimited.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/semantic-web-tech-private-limited",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://semanticwebtechprivatelimited.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://semanticwebtechprivatelimited.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://semanticwebtechprivatelimited.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

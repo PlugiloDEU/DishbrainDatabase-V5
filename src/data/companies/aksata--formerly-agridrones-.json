@@ -1,0 +1,142 @@
+{
+  "name": "AKSATA (formerly AGRIDRONES)",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "agriculture",
+      "image_id": "db4bb759de5d44cca0ef7ad274d49191",
+      "uuid": "6a733ac8-b79c-e2d2-55b9-cc3d66435eb6",
+      "entity_def_id": "category",
+      "value": "Agriculture"
+    },
+    {
+      "permalink": "drones",
+      "image_id": "d0829fc5ed54434d82902990541ea7ec",
+      "uuid": "1fec33a7-163f-88a9-7e5c-8967fee59a1e",
+      "entity_def_id": "category",
+      "value": "Drones"
+    },
+    {
+      "permalink": "farming",
+      "image_id": "441d8249c9ea4a1dbbdbf43d7496a6ed",
+      "uuid": "e303e839-52d3-f2f0-b87d-757ee8b86b48",
+      "entity_def_id": "category",
+      "value": "Farming"
+    },
+    {
+      "permalink": "forestry-9c5d",
+      "image_id": "7d3d1f8b97564687b6d1cbd6d053d894",
+      "uuid": "9c5dc6d5-70fc-b0b1-106c-42d0326e8a37",
+      "entity_def_id": "category",
+      "value": "Forestry"
+    },
+    {
+      "permalink": "water",
+      "image_id": "8ba3590b3e49475588ffe7462f6e2c54",
+      "uuid": "1efce900-8f68-4c05-f18b-aa6ee273dcde",
+      "entity_def_id": "category",
+      "value": "Water"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9176559802344909,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://aksata(formerlyagridrones).com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://aksata(formerlyagridrones).com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://aksata(formerlyagridrones).com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/aksata-(formerly-agridrones)",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://aksata(formerlyagridrones).com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://aksata(formerlyagridrones).com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://aksata(formerlyagridrones).com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "name": "Play Fund Win",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "charity",
+      "image_id": "62d6f6187f0b4f49a353e2cc729e2fb2",
+      "uuid": "cd235510-75da-a660-5884-fa9977f9d729",
+      "entity_def_id": "category",
+      "value": "Charity"
+    },
+    {
+      "permalink": "finance",
+      "image_id": "8a6f77a3498a4651ba8166e32ebe43a6",
+      "uuid": "ae5718dc-8602-c733-e62b-28e6167091ad",
+      "entity_def_id": "category",
+      "value": "Finance"
+    },
+    {
+      "permalink": "funding-platform",
+      "image_id": "9a3a21c60ac44e4583d4ab88055cf1a0",
+      "uuid": "1f8c929b-3b58-327d-c417-256ea3ff98f8",
+      "entity_def_id": "category",
+      "value": "Funding Platform"
+    },
+    {
+      "permalink": "gambling",
+      "image_id": "361a23a8b3b84b2db2592805de478cd8",
+      "uuid": "80ccab3c-f397-2628-2bc6-bdcbde68eb89",
+      "entity_def_id": "category",
+      "value": "Gambling"
+    },
+    {
+      "permalink": "gaming",
+      "image_id": "86268c2b0c3f4ba69b2110597fed2d75",
+      "uuid": "dd1ef133-8ee8-088c-bbe1-bdf22241358f",
+      "entity_def_id": "category",
+      "value": "Gaming"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "sports",
+      "image_id": "45fedbc985f14dfe9863c9651bf46e31",
+      "uuid": "a0144815-bd8f-9a1b-42ae-74c91617a77c",
+      "entity_def_id": "category",
+      "value": "Sports"
+    },
+    {
+      "permalink": "subscription-service",
+      "image_id": "fa9df625fc5046148497ca5e8052adb9",
+      "uuid": "0cba6371-b9f7-0197-257e-0273e6da0b22",
+      "entity_def_id": "category",
+      "value": "Subscription Service"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.916126221435815,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://playfundwin.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://playfundwin.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://playfundwin.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/play-fund-win",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://playfundwin.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://playfundwin.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://playfundwin.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

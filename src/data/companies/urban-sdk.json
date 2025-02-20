@@ -1,0 +1,177 @@
+{
+  "name": "Urban SDK",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "analytics",
+      "image_id": "ca9c73c2692e4557924ec8ed54c34083",
+      "uuid": "99c5404c-0ff5-8ee5-d334-4b944ddb8cd9",
+      "entity_def_id": "category",
+      "value": "Analytics"
+    },
+    {
+      "permalink": "artificial-intelligence",
+      "image_id": "930c72a5a7b544999596ac1c0dc8b549",
+      "uuid": "c4d8caf3-5fe7-359b-f9f2-2d708378e4ee",
+      "entity_def_id": "category",
+      "value": "Artificial Intelligence (AI)"
+    },
+    {
+      "permalink": "civil-engineering",
+      "image_id": "709418cb7aba49249bb5228af76785bb",
+      "uuid": "d21c8107-c0c8-5ba2-a4cb-40a96d5d001c",
+      "entity_def_id": "category",
+      "value": "Civil Engineering"
+    },
+    {
+      "permalink": "first-aid",
+      "image_id": "96bfb3c8cb0747bea4cc73e9e9f5c114",
+      "uuid": "3bfc0aae-0f8c-c8ef-cac9-ac6b2fa504aa",
+      "entity_def_id": "category",
+      "value": "First Aid"
+    },
+    {
+      "permalink": "government",
+      "image_id": "3789ce3e6b064093878bc90006b25f4d",
+      "uuid": "cf573fc6-139f-c9fb-5b5e-b131fae12e51",
+      "entity_def_id": "category",
+      "value": "Government"
+    },
+    {
+      "permalink": "public-safety",
+      "image_id": "7a6e67e390f94d1ea684266d4e87af1f",
+      "uuid": "ef231156-53f4-cfa3-79ee-a04b28bc3c4a",
+      "entity_def_id": "category",
+      "value": "Public Safety"
+    },
+    {
+      "permalink": "public-transportation",
+      "image_id": "208e65ca404d4e1ebc4d8dbf72aad9f0",
+      "uuid": "404d4762-e5b6-1721-c045-6b0556619e73",
+      "entity_def_id": "category",
+      "value": "Public Transportation"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "smart-cities",
+      "image_id": "0341bf9f35f94d8b9c4bd913e261a756",
+      "uuid": "ce11fd97-65a0-4f8c-b385-2ca48f444479",
+      "entity_def_id": "category",
+      "value": "Smart Cities"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9282228458672612,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://urbansdk.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://urbansdk.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://urbansdk.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/urban-sdk",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://urbansdk.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://urbansdk.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://urbansdk.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

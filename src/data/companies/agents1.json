@@ -1,0 +1,163 @@
+{
+  "name": "Agents1",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "collaboration",
+      "image_id": "e611fc96e62041e7ac0254b131d99f84",
+      "uuid": "217f63af-2e8f-9978-085b-262592840759",
+      "entity_def_id": "category",
+      "value": "Collaboration"
+    },
+    {
+      "permalink": "commercial-real-estate",
+      "image_id": "19d81f52b4ef4765820ffaa6096c2cd0",
+      "uuid": "89fc23fc-2ec1-4aa3-906e-e6afb448ae0b",
+      "entity_def_id": "category",
+      "value": "Commercial Real Estate"
+    },
+    {
+      "permalink": "crm",
+      "image_id": "c97f4ad9a73a47dba8b67e8ad0b723a1",
+      "uuid": "1f24c7e8-a95d-3e1b-2724-0941e80c9884",
+      "entity_def_id": "category",
+      "value": "CRM"
+    },
+    {
+      "permalink": "freemium",
+      "image_id": "e5231d82ca3f43fc8df39d0c20d29284",
+      "uuid": "f8320fcf-b657-37d2-1495-daa3ad888ece",
+      "entity_def_id": "category",
+      "value": "Freemium"
+    },
+    {
+      "permalink": "internet",
+      "image_id": "920e060f0da2433f86a0848520dad911",
+      "uuid": "2772a539-e636-09dc-30dc-b1a7deb98d0e",
+      "entity_def_id": "category",
+      "value": "Internet"
+    },
+    {
+      "permalink": "property-management",
+      "image_id": "aab2fc738c234ba79f99d9515117e0a7",
+      "uuid": "c8e6b95f-80d9-bf15-ab7c-37a0e8f052c7",
+      "entity_def_id": "category",
+      "value": "Property Management"
+    },
+    {
+      "permalink": "real-estate-investment",
+      "image_id": "6dd151d0b2024a818b504a44d254cd50",
+      "uuid": "298a2cd6-58da-226c-7cf0-3288673844cd",
+      "entity_def_id": "category",
+      "value": "Real Estate Investment"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9350718556744515,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://agents1.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://agents1.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://agents1.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/agents1",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://agents1.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://agents1.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://agents1.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

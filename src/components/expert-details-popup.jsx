@@ -7,6 +7,91 @@ import { toast } from 'react-hot-toast';
 
 const DEFAULT_AVATAR = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23CBD5E0' d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 3c1.66 0 3 1.34 3 3s-1.34 3-3 3-3-1.34-3-3 1.34-3 3-3zm0 14.2c-2.5 0-4.71-1.28-6-3.22.03-1.99 4-3.08 6-3.08 1.99 0 5.97 1.09 6 3.08-1.29 1.94-3.5 3.22-6 3.22z'/%3E%3C/svg%3E";
 
+const ExpertiseDisplay = ({ expertise }) => {
+  if (!expertise) return null;
+
+  // If expertise is an array
+  if (Array.isArray(expertise)) {
+    return (
+      <div className="flex flex-wrap gap-2">
+        {expertise.map((item, index) => (
+          <span key={index} className="px-3 py-1 bg-blue-900/30 text-blue-400 border border-blue-800/50 rounded-full text-sm">
+            {item}
+          </span>
+        ))}
+      </div>
+    );
+  }
+
+  // If expertise is an object with primary/secondary/industries
+  if (typeof expertise === 'object') {
+    return (
+      <div className="space-y-4">
+        {expertise.primary && (
+          <div>
+            <h4 className="text-sm font-medium text-gray-400 mb-2">Primary Expertise</h4>
+            <div className="flex flex-wrap gap-2">
+              {Array.isArray(expertise.primary) ? 
+                expertise.primary.map((item, index) => (
+                  <span key={index} className="px-3 py-1 bg-blue-900/30 text-blue-400 border border-blue-800/50 rounded-full text-sm">
+                    {item}
+                  </span>
+                )) : 
+                <span className="px-3 py-1 bg-blue-900/30 text-blue-400 border border-blue-800/50 rounded-full text-sm">
+                  {expertise.primary}
+                </span>
+              }
+            </div>
+          </div>
+        )}
+
+        {expertise.secondary && (
+          <div>
+            <h4 className="text-sm font-medium text-gray-400 mb-2">Secondary Expertise</h4>
+            <div className="flex flex-wrap gap-2">
+              {Array.isArray(expertise.secondary) ? 
+                expertise.secondary.map((item, index) => (
+                  <span key={index} className="px-3 py-1 bg-blue-900/30 text-blue-400 border border-blue-800/50 rounded-full text-sm">
+                    {item}
+                  </span>
+                )) : 
+                <span className="px-3 py-1 bg-blue-900/30 text-blue-400 border border-blue-800/50 rounded-full text-sm">
+                  {expertise.secondary}
+                </span>
+              }
+            </div>
+          </div>
+        )}
+
+        {expertise.industries && (
+          <div>
+            <h4 className="text-sm font-medium text-gray-400 mb-2">Industries</h4>
+            <div className="flex flex-wrap gap-2">
+              {Array.isArray(expertise.industries) ? 
+                expertise.industries.map((item, index) => (
+                  <span key={index} className="px-3 py-1 bg-blue-900/30 text-blue-400 border border-blue-800/50 rounded-full text-sm">
+                    {item}
+                  </span>
+                )) : 
+                <span className="px-3 py-1 bg-blue-900/30 text-blue-400 border border-blue-800/50 rounded-full text-sm">
+                  {expertise.industries}
+                </span>
+              }
+            </div>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // If expertise is a string
+  return (
+    <span className="px-3 py-1 bg-blue-900/30 text-blue-400 border border-blue-800/50 rounded-full text-sm">
+      {expertise.toString()}
+    </span>
+  );
+};
+
 const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
   const [isEditing, setIsEditing] = useState(false);
   const [showCompanyDetails, setShowCompanyDetails] = useState(false);
@@ -407,102 +492,62 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
     }
   };
 
-  // Update the renderObjectData function to handle all data structures
-  const renderObjectData = (data, level = 0) => {
+  // Helper function to render object data
+  const renderObjectData = (data) => {
     if (!data) return null;
-
-    // Function to format the key names to be more readable
-    const formatKey = (key) => {
-      return key
-        .replace(/([a-z])([A-Z])/g, '$1 $2')
-        .replace(/_/g, ' ')
-        .replace(/^\w/, (c) => c.toUpperCase());
-    };
-
-    return Object.entries(data).map(([key, value]) => {
-      // Skip rendering certain fields that are handled elsewhere
-      if (
-        [
-          'personalInfo',
-          'allData',
-          'sources',
-          'data_quality',
-          'experience',
-          'education',
-          'skills',
-          'profiles',
-          'tags',
-          'lastEnriched',
-          'über',
-        ].includes(key.toLowerCase())
-      ) {
-        return null;
-      }
-
-      const displayKey = formatKey(key);
-
-      // Handle null/undefined values
-      if (value === null || value === undefined) {
-        return (
-          <div key={key} className="mt-2">
-            <span className="text-gray-400">{displayKey}:</span>{' '}
-            <span className="text-gray-100">-</span>
-          </div>
-        );
-      }
-
-      // Handle date values
-      if (typeof value === 'string' && !isNaN(Date.parse(value))) {
-        value = new Date(value).toLocaleDateString('de-DE');
-      }
-
-      // Handle arrays
-      if (Array.isArray(value)) {
-        if (value.length === 0) {
-          return (
-            <div key={key} className="mt-2">
-              <span className="text-gray-400">{displayKey}:</span>{' '}
-              <span className="text-gray-100 italic">Keine Daten</span>
-            </div>
-          );
-        }
-
-        return (
-          <div key={key} className="mt-2">
-            <span className="text-gray-400">{displayKey}:</span>
-            <div className="flex flex-wrap gap-2 mt-1">
-              {value.map((item, i) => (
-                <span key={i} className="px-3 py-1 bg-gray-700 rounded-full text-sm">
-                  {String(item)}
-                </span>
-              ))}
-            </div>
-          </div>
-        );
-      }
-
-      // Handle objects
-      if (typeof value === 'object') {
-        return (
-          <div key={key} className={`mt-${level > 0 ? 2 : 4}`}>
-            <h4 className="font-medium text-gray-100 mb-2">{displayKey}</h4>
-            <div className="bg-gray-800/50 p-4 rounded-lg">
-              {renderObjectData(value, level + 1)}
-            </div>
-          </div>
-        );
-      }
-
-      // Handle primitive values
+    
+    // Handle arrays
+    if (Array.isArray(data)) {
+      return data.join(', ');
+    }
+    
+    // Handle strings
+    if (typeof data === 'string') {
+      return data;
+    }
+    
+    // Handle expertise object specifically
+    if (data.primary || data.secondary || data.industries) {
       return (
-        <div key={key} className="mt-2">
-          <span className="text-gray-400">{displayKey}:</span>{' '}
-          <span className="text-gray-100">
-            {typeof value === 'boolean' ? (value ? 'Ja' : 'Nein') : String(value || '-')}
-          </span>
+        <div className="space-y-2">
+          {data.primary && (
+            <div>
+              <span className="font-medium">Primary: </span>
+              {Array.isArray(data.primary) ? data.primary.join(', ') : data.primary}
+            </div>
+          )}
+          {data.secondary && (
+            <div>
+              <span className="font-medium">Secondary: </span>
+              {Array.isArray(data.secondary) ? data.secondary.join(', ') : data.secondary}
+            </div>
+          )}
+          {data.industries && (
+            <div>
+              <span className="font-medium">Industries: </span>
+              {Array.isArray(data.industries) ? data.industries.join(', ') : data.industries}
+            </div>
+          )}
         </div>
       );
-    });
+    }
+    
+    // Handle other objects by converting them to a readable format
+    if (typeof data === 'object') {
+      return (
+        <div className="space-y-1">
+          {Object.entries(data).map(([key, value]) => (
+            <div key={key}>
+              <span className="font-medium">{key}: </span>
+              {typeof value === 'object' ? JSON.stringify(value) : String(value)}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    
+    // Fallback for any other type
+    return String(data);
   };
 
   // Update the expertise section to handle the data more safely
@@ -846,7 +891,7 @@ const ExpertDetailsPopup = ({ expert, onClose, onUpdate }) => {
               <section className="bg-gradient-to-br from-gray-900 to-black rounded-lg p-6 backdrop-blur-sm border border-gray-800/50 shadow-lg">
                 <h3 className="font-semibold mb-4 text-gray-100">Fähigkeiten</h3>
                 <div className="space-y-4">
-                  {renderExpertiseSection()}
+                  <ExpertiseDisplay expertise={expert.expertise} />
                 </div>
               </section>
 

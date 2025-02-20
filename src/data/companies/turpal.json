@@ -1,0 +1,163 @@
+{
+  "name": "Turpal",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "guides",
+      "image_id": "d046cf0a970240f181ba8fa67e144f46",
+      "uuid": "8114726a-f6cc-44ee-857c-e7b87776f06d",
+      "entity_def_id": "category",
+      "value": "Guides"
+    },
+    {
+      "permalink": "hospitality",
+      "image_id": "3e2f9230b9fb42bc8fe050c1baf72d19",
+      "uuid": "e7d8b7ca-c72b-7793-5a6d-2801f6a0e8ee",
+      "entity_def_id": "category",
+      "value": "Hospitality"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "tour-operator",
+      "image_id": "021f6b8be37843dca9d6e4695fd95b1d",
+      "uuid": "cda62d12-823c-4d74-ec6c-6ac78d705ea0",
+      "entity_def_id": "category",
+      "value": "Tour Operator"
+    },
+    {
+      "permalink": "tourism",
+      "image_id": "32ed290bb32b4ba093afc48f5e31f28f",
+      "uuid": "5ca011af-31fe-335c-6866-ff8b635bb2f8",
+      "entity_def_id": "category",
+      "value": "Tourism"
+    },
+    {
+      "permalink": "travel",
+      "image_id": "a6a6e9a41aa44c11af80dfffe5720c96",
+      "uuid": "8672f521-ce9a-e851-adff-c35d2441a0ad",
+      "entity_def_id": "category",
+      "value": "Travel"
+    },
+    {
+      "permalink": "travel-agency",
+      "image_id": "87e7709651ac45da86312d47b1dfb89c",
+      "uuid": "387a8f76-15f6-04db-3cbb-4e3f85a194f2",
+      "entity_def_id": "category",
+      "value": "Travel Agency"
+    },
+    {
+      "permalink": "web-apps",
+      "image_id": "10a368e187044e6290bb2dcd465f6638",
+      "uuid": "b3745f1d-614b-ae19-f0b7-946e2494aa6b",
+      "entity_def_id": "category",
+      "value": "Web Apps"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9039478824582405,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://turpal.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://turpal.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://turpal.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/turpal",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://turpal.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://turpal.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://turpal.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

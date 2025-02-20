@@ -1,0 +1,170 @@
+{
+  "name": "Ockam",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "cloud-computing",
+      "image_id": "67c1968d91be4db984e28ed6edd9f633",
+      "uuid": "7866a1c0-21ec-241c-c2a6-d263a6ef49dd",
+      "entity_def_id": "category",
+      "value": "Cloud Computing"
+    },
+    {
+      "permalink": "cyber-security",
+      "image_id": "8efae427db9649099452405d24f534ba",
+      "uuid": "46c250d5-00f6-d12f-4ad8-9b16f8b233d4",
+      "entity_def_id": "category",
+      "value": "Cyber Security"
+    },
+    {
+      "permalink": "developer-tools",
+      "image_id": "e6f9598428c9450fbeb4dbb3f94f0f86",
+      "uuid": "61b83871-f3be-f95f-93bb-d555157a4ff6",
+      "entity_def_id": "category",
+      "value": "Developer Tools"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "identity-management",
+      "image_id": "eff7ab5d2c1d44e0b572d33f4e93a58f",
+      "uuid": "24c5db84-02a2-6040-49cf-4314b287674f",
+      "entity_def_id": "category",
+      "value": "Identity Management"
+    },
+    {
+      "permalink": "network-security",
+      "image_id": "8d8b67d7ab2a4cc28cef90c0c6da5e83",
+      "uuid": "05ce5995-19d0-7c15-f4c7-19fb5c641c33",
+      "entity_def_id": "category",
+      "value": "Network Security"
+    },
+    {
+      "permalink": "open-source",
+      "image_id": "44815488c74041b3aaef50346ed3a531",
+      "uuid": "eb80816d-769e-b2dc-e9b4-b6399e8c498e",
+      "entity_def_id": "category",
+      "value": "Open Source"
+    },
+    {
+      "permalink": "security-4c60",
+      "image_id": "302729e2a4c14c579a8f0afb61f2f708",
+      "uuid": "4c6005cd-3476-35d2-ceab-b7d4f1d89e8b",
+      "entity_def_id": "category",
+      "value": "Security"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8887653902398028,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://ockam.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://ockam.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://ockam.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/ockam",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://ockam.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://ockam.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://ockam.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

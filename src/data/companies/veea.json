@@ -1,0 +1,177 @@
+{
+  "name": "Veea",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "developer-platform",
+      "image_id": "9d51e036807a43499c2f180e6b0788e0",
+      "uuid": "c2022726-fdc4-b171-8848-8b2f252ef987",
+      "entity_def_id": "category",
+      "value": "Developer Platform"
+    },
+    {
+      "permalink": "developer-tools",
+      "image_id": "e6f9598428c9450fbeb4dbb3f94f0f86",
+      "uuid": "61b83871-f3be-f95f-93bb-d555157a4ff6",
+      "entity_def_id": "category",
+      "value": "Developer Tools"
+    },
+    {
+      "permalink": "embedded-systems",
+      "image_id": "39aeed5b2a774a5c8876a50cf4b3c8a0",
+      "uuid": "1c946581-f37e-36e2-913f-b660b45448fe",
+      "entity_def_id": "category",
+      "value": "Embedded Systems"
+    },
+    {
+      "permalink": "enterprise-applications",
+      "image_id": "a301dae8157d499aa583cd7b5773463c",
+      "uuid": "459ef85b-685a-1d51-c3e9-13fc35e6fe6e",
+      "entity_def_id": "category",
+      "value": "Enterprise Applications"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "information-technology-dbca",
+      "image_id": "93c8c3649cb84ea8a1478b8d82dc8a0e",
+      "uuid": "dbca89fa-f083-5438-b4ad-d3fdeceb78e7",
+      "entity_def_id": "category",
+      "value": "Information Technology"
+    },
+    {
+      "permalink": "intelligent-systems",
+      "image_id": "64338a3c12e7424386989d780911bb75",
+      "uuid": "186d333a-99df-4a4a-6a0f-69bd2c0d0bba",
+      "entity_def_id": "category",
+      "value": "Intelligent Systems"
+    },
+    {
+      "permalink": "internet-of-things-ed3a",
+      "image_id": "19bb1bd789294bea9d985b400fad1c01",
+      "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+      "entity_def_id": "category",
+      "value": "Internet of Things"
+    },
+    {
+      "permalink": "paas",
+      "image_id": "f5f4cb9d2fae4f5890513d54e388398f",
+      "uuid": "a402e198-e69b-eda2-2454-0bd8c09fd0df",
+      "entity_def_id": "category",
+      "value": "PaaS"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8645456939906647,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://veea.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://veea.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://veea.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/veea",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://veea.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://veea.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://veea.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

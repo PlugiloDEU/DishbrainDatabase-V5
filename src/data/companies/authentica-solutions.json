@@ -1,0 +1,177 @@
+{
+  "name": "Authentica Solutions",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "data-integration-0c4a",
+      "image_id": "7fcc47fecc51421888993812547926d9",
+      "uuid": "0c4a69d3-888c-dbb6-0af3-28e09b80393c",
+      "entity_def_id": "category",
+      "value": "Data Integration"
+    },
+    {
+      "permalink": "data-management-7932",
+      "image_id": "9ead9e7f936b48aab4380457039ee913",
+      "uuid": "7f3b4241-867c-4355-a9e4-d206af3c3ab9",
+      "entity_def_id": "category",
+      "value": "Data Management"
+    },
+    {
+      "permalink": "edtech",
+      "image_id": "aeaaa48c3168401cb472ec6a70356d5a",
+      "uuid": "245880f2-a61a-0ea2-cf81-306964716611",
+      "entity_def_id": "category",
+      "value": "EdTech"
+    },
+    {
+      "permalink": "education",
+      "image_id": "c67889dbff324d9f841fd6d5ad35a4a2",
+      "uuid": "025caab7-3e54-98f0-061c-73e7af159cd1",
+      "entity_def_id": "category",
+      "value": "Education"
+    },
+    {
+      "permalink": "enterprise-software",
+      "image_id": "e7991ae2159747859941b3ab3fa87a1d",
+      "uuid": "d38b3f26-abc4-6f7b-b29d-b952021a1b14",
+      "entity_def_id": "category",
+      "value": "Enterprise Software"
+    },
+    {
+      "permalink": "mobile-devices",
+      "image_id": "ce9ac3abd18e4640a3dfac233f0b27d8",
+      "uuid": "8814acc5-9b6a-4f53-28e3-a41c22d6477b",
+      "entity_def_id": "category",
+      "value": "Mobile Devices"
+    },
+    {
+      "permalink": "professional-services",
+      "image_id": "09fd9a3d8d74400889b446076f4a70de",
+      "uuid": "dcfb5d50-2943-35bd-7ad4-4999a96c3480",
+      "entity_def_id": "category",
+      "value": "Professional Services"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "special-education",
+      "image_id": "fd51050ee75946d083aa8dfecdd8e05c",
+      "uuid": "163df215-e3de-4045-a63a-ab27b07994c4",
+      "entity_def_id": "category",
+      "value": "Special Education"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8696419294665239,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://authenticasolutions.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://authenticasolutions.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://authenticasolutions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/authentica-solutions",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://authenticasolutions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://authenticasolutions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://authenticasolutions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

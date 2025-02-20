@@ -1,0 +1,149 @@
+{
+  "name": "Zeabuz",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "autonomous-vehicles",
+      "image_id": "8f36bf3efe0544a08790e8c1de378ba7",
+      "uuid": "897af483-8963-a2ab-16ff-2b3489106f0e",
+      "entity_def_id": "category",
+      "value": "Autonomous Vehicles"
+    },
+    {
+      "permalink": "logistics",
+      "image_id": "766cdf0bbd724b9c92c2258390e5f060",
+      "uuid": "a6b9c45f-2caa-42e1-30e7-26c546d43186",
+      "entity_def_id": "category",
+      "value": "Logistics"
+    },
+    {
+      "permalink": "marine-technology",
+      "image_id": "085ee7deedbe4ca4bf3ca844876b0d3b",
+      "uuid": "3e0e2772-75e9-4f7b-aa6d-a8dc3dc9e7c6",
+      "entity_def_id": "category",
+      "value": "Marine Technology"
+    },
+    {
+      "permalink": "marine-transportation",
+      "image_id": "c1ba90c98058444b8ea8db8d34872e82",
+      "uuid": "61e3a9dd-a7b8-0791-be72-42b72890fc01",
+      "entity_def_id": "category",
+      "value": "Marine Transportation"
+    },
+    {
+      "permalink": "public-transportation",
+      "image_id": "208e65ca404d4e1ebc4d8dbf72aad9f0",
+      "uuid": "404d4762-e5b6-1721-c045-6b0556619e73",
+      "entity_def_id": "category",
+      "value": "Public Transportation"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8575558221319884,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://zeabuz.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://zeabuz.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://zeabuz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/zeabuz",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://zeabuz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://zeabuz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://zeabuz.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

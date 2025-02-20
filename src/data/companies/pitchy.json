@@ -1,0 +1,170 @@
+{
+  "name": "Pitchy",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "content-marketing",
+      "image_id": "666f607a432e4b0f89ab19c4e21bfcdb",
+      "uuid": "450c30b7-4e4e-2081-2a88-1ccea6196953",
+      "entity_def_id": "category",
+      "value": "Content Marketing"
+    },
+    {
+      "permalink": "corporate-training",
+      "image_id": "761e3ba58ef54b57843192ed32f49c53",
+      "uuid": "c3e7ab05-df2e-17ed-187a-11040264ed58",
+      "entity_def_id": "category",
+      "value": "Corporate Training"
+    },
+    {
+      "permalink": "digital-media-2f47",
+      "image_id": "afd8eaeb54c74db7ac8805674159abaf",
+      "uuid": "2f47ba93-33d3-61fe-de89-0fe8a4a8366b",
+      "entity_def_id": "category",
+      "value": "Digital Media"
+    },
+    {
+      "permalink": "personalization",
+      "image_id": "6d5f8bd1761348edbef1b4b33a689855",
+      "uuid": "5667104c-03d1-0317-d996-55a02fb16f90",
+      "entity_def_id": "category",
+      "value": "Personalization"
+    },
+    {
+      "permalink": "presentation-software",
+      "image_id": "bfa5e395ceef4e058d78e211892d7e3b",
+      "uuid": "48d51286-b254-c626-b5cd-2357ef5bf2bc",
+      "entity_def_id": "category",
+      "value": "Presentation Software"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "video",
+      "image_id": "bb8173e0770f4eba93f9ead891c9ad2c",
+      "uuid": "c6adf822-7fa3-c0b3-5188-556e08d72128",
+      "entity_def_id": "category",
+      "value": "Video"
+    },
+    {
+      "permalink": "video-advertising",
+      "image_id": "41f717aa2f6a4eb8a3e63a3639f8144b",
+      "uuid": "e0f7b18a-4a5b-e2c0-a34e-1cad4114a984",
+      "entity_def_id": "category",
+      "value": "Video Advertising"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8694792718803489,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://pitchy.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://pitchy.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://pitchy.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/pitchy",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://pitchy.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://pitchy.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://pitchy.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

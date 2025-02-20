@@ -1,0 +1,163 @@
+{
+  "name": "Protonet",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "cloud-computing",
+      "image_id": "67c1968d91be4db984e28ed6edd9f633",
+      "uuid": "7866a1c0-21ec-241c-c2a6-d263a6ef49dd",
+      "entity_def_id": "category",
+      "value": "Cloud Computing"
+    },
+    {
+      "permalink": "cloud-infrastructure",
+      "image_id": "b30620d0c4e94e3bbe85a6257c73d4d4",
+      "uuid": "42a1e8f7-06c8-864e-d8c8-432e57b6a0db",
+      "entity_def_id": "category",
+      "value": "Cloud Infrastructure"
+    },
+    {
+      "permalink": "collaboration",
+      "image_id": "e611fc96e62041e7ac0254b131d99f84",
+      "uuid": "217f63af-2e8f-9978-085b-262592840759",
+      "entity_def_id": "category",
+      "value": "Collaboration"
+    },
+    {
+      "permalink": "communications-infrastructure",
+      "image_id": "1d7a2176ffaf4b5ca559b78b76b9e02f",
+      "uuid": "f283d492-b4e4-703f-1270-783173e63eef",
+      "entity_def_id": "category",
+      "value": "Communications Infrastructure"
+    },
+    {
+      "permalink": "developer-apis",
+      "image_id": "f142d5bd24db49a198d24e94fba022a3",
+      "uuid": "371b7b2c-75fb-9c00-1778-5a24bed20453",
+      "entity_def_id": "category",
+      "value": "Developer APIs"
+    },
+    {
+      "permalink": "file-sharing",
+      "image_id": "83c2d3a8ecff4af89c8e9faf3504bb58",
+      "uuid": "297fe0f2-0d88-ff35-9d46-1c54bf812892",
+      "entity_def_id": "category",
+      "value": "File Sharing"
+    },
+    {
+      "permalink": "identity-management",
+      "image_id": "eff7ab5d2c1d44e0b572d33f4e93a58f",
+      "uuid": "24c5db84-02a2-6040-49cf-4314b287674f",
+      "entity_def_id": "category",
+      "value": "Identity Management"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8724463697723951,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://protonet.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://protonet.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://protonet.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/protonet",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://protonet.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://protonet.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://protonet.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

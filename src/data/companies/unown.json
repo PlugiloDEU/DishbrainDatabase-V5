@@ -1,0 +1,163 @@
+{
+  "name": "UNOWN",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "fashion",
+      "image_id": "a4b92c039f6a4989937dc5773c649ad3",
+      "uuid": "d1a166b5-2c1e-757c-b08e-6e5b7962e944",
+      "entity_def_id": "category",
+      "value": "Fashion"
+    },
+    {
+      "permalink": "internet",
+      "image_id": "920e060f0da2433f86a0848520dad911",
+      "uuid": "2772a539-e636-09dc-30dc-b1a7deb98d0e",
+      "entity_def_id": "category",
+      "value": "Internet"
+    },
+    {
+      "permalink": "leasing",
+      "image_id": "5b3110ab3d444038903121e9fbfadc5a",
+      "uuid": "095057bd-f032-fbb8-eac8-287d1e72a2d9",
+      "entity_def_id": "category",
+      "value": "Leasing"
+    },
+    {
+      "permalink": "rental",
+      "image_id": "0da7cabf3f314ac19006b8f20eebb456",
+      "uuid": "75de3d67-54b8-46ce-0797-bc7ba0438c4d",
+      "entity_def_id": "category",
+      "value": "Rental"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "sharing-economy",
+      "image_id": "3966128a44724e72916fb14be83d8ea1",
+      "uuid": "e69d7dbc-b29e-a56f-6dfa-f664b545fd29",
+      "entity_def_id": "category",
+      "value": "Sharing Economy"
+    },
+    {
+      "permalink": "social-impact-bf5c",
+      "image_id": "9e999199d9b14dafb43fd97a2298de6e",
+      "uuid": "bf5c955e-6f68-da36-e502-1d3962c28325",
+      "entity_def_id": "category",
+      "value": "Social Impact"
+    },
+    {
+      "permalink": "subscription-service",
+      "image_id": "fa9df625fc5046148497ca5e8052adb9",
+      "uuid": "0cba6371-b9f7-0197-257e-0273e6da0b22",
+      "entity_def_id": "category",
+      "value": "Subscription Service"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9109297833737021,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://unown.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://unown.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://unown.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/unown",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://unown.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://unown.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://unown.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

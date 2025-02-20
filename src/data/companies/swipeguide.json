@@ -1,0 +1,163 @@
+{
+  "name": "SwipeGuide",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "enterprise-applications",
+      "image_id": "a301dae8157d499aa583cd7b5773463c",
+      "uuid": "459ef85b-685a-1d51-c3e9-13fc35e6fe6e",
+      "entity_def_id": "category",
+      "value": "Enterprise Applications"
+    },
+    {
+      "permalink": "food-and-beverage",
+      "image_id": "98b425ac85b742e7ad2c3f1d4c824b32",
+      "uuid": "14364faa-63f9-0d45-7b6a-7378113364a2",
+      "entity_def_id": "category",
+      "value": "Food and Beverage"
+    },
+    {
+      "permalink": "industrial",
+      "image_id": "f8aa356010b84f2ea94948cb9780f4cd",
+      "uuid": "f0193199-a968-b457-eb49-95344e22a5ce",
+      "entity_def_id": "category",
+      "value": "Industrial"
+    },
+    {
+      "permalink": "knowledge-management",
+      "image_id": "4bda3770174a4c2e93f3af488eff8289",
+      "uuid": "c267b15a-caf8-a4c8-0973-1ee558de3eef",
+      "entity_def_id": "category",
+      "value": "Knowledge Management"
+    },
+    {
+      "permalink": "machinery-manufacturing",
+      "image_id": "d2258377cab242f58bc661acb2ef9063",
+      "uuid": "cdb5753f-53c4-c62c-2afd-1e8d9c58cbf3",
+      "entity_def_id": "category",
+      "value": "Machinery Manufacturing"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "software",
+      "image_id": "f137af6adb1a4170908597d523483c13",
+      "uuid": "c08b5441-a05b-9777-b7a6-012728caddd9",
+      "entity_def_id": "category",
+      "value": "Software"
+    },
+    {
+      "permalink": "training",
+      "image_id": "e793603c588a4c9cac409716414027d1",
+      "uuid": "e55f09e8-697b-1653-f86e-0274d25d6db6",
+      "entity_def_id": "category",
+      "value": "Training"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9021082663852203,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://swipeguide.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://swipeguide.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://swipeguide.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/swipeguide",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://swipeguide.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://swipeguide.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://swipeguide.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

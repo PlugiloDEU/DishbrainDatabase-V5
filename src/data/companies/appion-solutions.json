@@ -1,0 +1,149 @@
+{
+  "name": "Appion Solutions",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "employee-benefits",
+      "image_id": "7c1e4b7c3322474d84a606457a11071a",
+      "uuid": "14f97695-c4eb-c348-d373-5863c4b4798a",
+      "entity_def_id": "category",
+      "value": "Employee Benefits"
+    },
+    {
+      "permalink": "employment",
+      "image_id": "1db976fb47514cfc899a521711af0ab2",
+      "uuid": "2d410a02-e5d0-95f6-f7f7-690061283dd1",
+      "entity_def_id": "category",
+      "value": "Employment"
+    },
+    {
+      "permalink": "management-information-systems",
+      "image_id": "62bc7970b10d4ffd9cfae7ec9777d7e3",
+      "uuid": "0caf426c-828c-53ef-473c-b9b5795d9040",
+      "entity_def_id": "category",
+      "value": "Management Information Systems"
+    },
+    {
+      "permalink": "recruiting",
+      "image_id": "f93fe7afc66b464e8dcb943fd1de5fdd",
+      "uuid": "4996175c-0c92-f204-2b55-f940bc1cc6d6",
+      "entity_def_id": "category",
+      "value": "Recruiting"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "task-management",
+      "image_id": "ed4b81fe57c44b7b98fd2fed66ae66ae",
+      "uuid": "3171fe79-1f83-8634-f6bb-2be9e71ff530",
+      "entity_def_id": "category",
+      "value": "Task Management"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9030191977586141,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://appionsolutions.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://appionsolutions.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://appionsolutions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/appion-solutions",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://appionsolutions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://appionsolutions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://appionsolutions.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

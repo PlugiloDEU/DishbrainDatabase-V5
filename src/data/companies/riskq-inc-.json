@@ -1,0 +1,177 @@
+{
+  "name": "RiskQ Inc.",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "cyber-security",
+      "image_id": "8efae427db9649099452405d24f534ba",
+      "uuid": "46c250d5-00f6-d12f-4ad8-9b16f8b233d4",
+      "entity_def_id": "category",
+      "value": "Cyber Security"
+    },
+    {
+      "permalink": "fintech-e067",
+      "image_id": "965ded32ecc54a209f6ec2f500b3b4de",
+      "uuid": "e06799a9-f789-76e7-49a7-71ee980a70ec",
+      "entity_def_id": "category",
+      "value": "FinTech"
+    },
+    {
+      "permalink": "insurtech",
+      "image_id": "b68ade0967bc4aa1a3c4e8ece0141b6f",
+      "uuid": "e33cac20-55b4-a943-e64a-7fc37a3d2ca3",
+      "entity_def_id": "category",
+      "value": "InsurTech"
+    },
+    {
+      "permalink": "management-consulting",
+      "image_id": "49f24ffba7c14d8a88444cf1320d9229",
+      "uuid": "7a6d8aad-7b87-534a-7f5d-c1766c2cd33f",
+      "entity_def_id": "category",
+      "value": "Management Consulting"
+    },
+    {
+      "permalink": "market-research",
+      "image_id": "b366d22048754d6c9caffce679f600f8",
+      "uuid": "119ffa05-2231-044c-a99a-e9b030897dd4",
+      "entity_def_id": "category",
+      "value": "Market Research"
+    },
+    {
+      "permalink": "medical",
+      "image_id": "c207a91c993644f5aa1ccb7ae28a501b",
+      "uuid": "9126275d-d470-1524-02f4-93d481721a6e",
+      "entity_def_id": "category",
+      "value": "Medical"
+    },
+    {
+      "permalink": "privacy-e1a4",
+      "image_id": "f15d52959d5b4504a26a739217aadf40",
+      "uuid": "e1a4665e-8b66-feda-2432-39e907eceb6d",
+      "entity_def_id": "category",
+      "value": "Privacy"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "small-and-medium-businesses",
+      "image_id": "b586d0b516b240efb01b760516b2e04d",
+      "uuid": "a146d2f4-4b22-453a-f8bd-e671e3182112",
+      "entity_def_id": "category",
+      "value": "Small and Medium Businesses"
+    },
+    {
+      "permalink": "telecommunications",
+      "image_id": "0424a31abde04b22a25b30b3be0dd4bc",
+      "uuid": "e12cc7de-d276-007e-7d89-bdf3f8d1ffe7",
+      "entity_def_id": "category",
+      "value": "Telecommunications"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.8597601437303639,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://riskqinc..com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://riskqinc..com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://riskqinc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/riskq-inc.",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://riskqinc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://riskqinc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://riskqinc..com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

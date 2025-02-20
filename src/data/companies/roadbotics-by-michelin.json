@@ -1,0 +1,170 @@
+{
+  "name": "RoadBotics by Michelin",
+  "description": "",
+  "website": "",
+  "location": "",
+  "founded": "",
+  "employees": "",
+  "specialties": [
+    {
+      "permalink": "apps",
+      "image_id": "ec09d2b58fe048cf85168ff0060450a8",
+      "uuid": "af333248-9c7e-50c5-168a-e91b86595a17",
+      "entity_def_id": "category",
+      "value": "Apps"
+    },
+    {
+      "permalink": "autonomous-vehicles",
+      "image_id": "8f36bf3efe0544a08790e8c1de378ba7",
+      "uuid": "897af483-8963-a2ab-16ff-2b3489106f0e",
+      "entity_def_id": "category",
+      "value": "Autonomous Vehicles"
+    },
+    {
+      "permalink": "govtech-b9c9",
+      "image_id": "9ee22aa69d4a41e89865b07b8687d162",
+      "uuid": "b9c920c1-97ef-c9d2-e300-522f5e1cdaf2",
+      "entity_def_id": "category",
+      "value": "GovTech"
+    },
+    {
+      "permalink": "infrastructure",
+      "image_id": "96840efac2fc458ca0515acd553ff1e9",
+      "uuid": "9fe4b692-8586-3baa-84a4-9ccf4d6eb0fa",
+      "entity_def_id": "category",
+      "value": "Infrastructure"
+    },
+    {
+      "permalink": "internet-of-things-ed3a",
+      "image_id": "19bb1bd789294bea9d985b400fad1c01",
+      "uuid": "ed3a589d-c9a7-3cbb-9feb-245f011e1d54",
+      "entity_def_id": "category",
+      "value": "Internet of Things"
+    },
+    {
+      "permalink": "mapping-services",
+      "image_id": "2fe646a48b6a410d8074d4360dfd04ce",
+      "uuid": "d2cf7cf9-fb76-9f92-8ee0-c49154efa98e",
+      "entity_def_id": "category",
+      "value": "Mapping Services"
+    },
+    {
+      "permalink": "public-transportation",
+      "image_id": "208e65ca404d4e1ebc4d8dbf72aad9f0",
+      "uuid": "404d4762-e5b6-1721-c045-6b0556619e73",
+      "entity_def_id": "category",
+      "value": "Public Transportation"
+    },
+    {
+      "permalink": "saas-5c4e",
+      "image_id": "cbd89f89c08640e3bc32bf8961505fc2",
+      "uuid": "5c4e6926-5ff7-b188-0892-c8eb036c5ace",
+      "entity_def_id": "category",
+      "value": "SaaS"
+    },
+    {
+      "permalink": "transportation",
+      "image_id": "df94c7e21c8648cabd5c8fb42a2fc129",
+      "uuid": "95642ff0-23e9-79a3-612b-50de99f06305",
+      "entity_def_id": "category",
+      "value": "Transportation"
+    }
+  ],
+  "products": [],
+  "partnerships": [],
+  "technologies": [],
+  "funding": {
+    "total": "",
+    "rounds": [],
+    "last_funding_date": ""
+  },
+  "social_media": {
+    "linkedin": "",
+    "twitter": "",
+    "facebook": ""
+  },
+  "type": "company",
+  "category": "AI Company",
+  "subcategory": "",
+  "image_url": null,
+  "data_sources": {
+    "company_info": "human",
+    "products": "human",
+    "specialties": "human",
+    "partnerships": "human",
+    "market_presence": "human"
+  },
+  "data_quality": {
+    "completeness": 0.9484825815687008,
+    "verification_level": "high",
+    "last_full_verification": "2024-02-05",
+    "verification_method": "manual human verification",
+    "missing_fields": []
+  },
+  "created_at": "2024-02-03T12:00:00.000Z",
+  "last_updated": "2024-02-05T14:30:00.000Z",
+  "verified": true,
+  "verification_source": "human",
+  "sources": {
+    "company_info": {
+      "name": {
+        "url": "https://roadboticsbymichelin.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "founding_date": {
+        "url": "https://roadboticsbymichelin.com/about",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "location": {
+        "url": "https://roadboticsbymichelin.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "employees": {
+        "url": "https://www.linkedin.com/company/roadbotics-by-michelin",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "products_services": {},
+    "specialties": {},
+    "partnerships": {},
+    "contact_info": {
+      "email": {
+        "url": "https://roadboticsbymichelin.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "phone": {
+        "url": "https://roadboticsbymichelin.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "address": {
+        "url": "https://roadboticsbymichelin.com/contact",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "social_media": {
+      "linkedin": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "twitter": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      },
+      "facebook": {
+        "url": "",
+        "verified": true,
+        "last_checked": "2024-02-05"
+      }
+    },
+    "image": null
+  }
+}

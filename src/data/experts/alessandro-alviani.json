@@ -352,5 +352,23 @@
       "citations": 0,
       "h_index": 0
     }
+  },
+  "expertise_sources": {
+    "KI in Medien": "ai",
+    "Natural Language Processing": "ai",
+    "Generative AI": "human",
+    "Journalismus": "human",
+    "Datenanalyse": "ai",
+    "Machine Learning": "human",
+    "Produktentwicklung": "human",
+    "Misinformation Bekämpfung": "human"
+  },
+  "data_sources": {
+    "personal_info": "human",
+    "publications": "human",
+    "contact": "human",
+    "academic_positions": "human",
+    "awards": "human",
+    "research_interests": "ai"
   }
 }
